@@ -9,7 +9,7 @@ import { Highlighted, Icon, IconButton, Label, Pill, PressScale, Txt } from '../
 import { cardsById, deckOfCard } from '../../data';
 import { useStore } from '../../lib/store';
 import type { Setting } from '../../lib/types';
-import { colors, confidenceStyle, kindStyle, radius, springs } from '../../theme';
+import { colors, confidenceStyle, ipaFont, kindStyle, radius, springs } from '../../theme';
 
 const SETTING_LABEL: Record<Setting, string> = { work: 'At work', social: 'Social', writing: 'Writing' };
 
@@ -71,9 +71,27 @@ export default function CardDetail() {
           <Txt weight="semibold" size={card.term.length > 16 ? 34 : 42} style={{ letterSpacing: -1.3, lineHeight: card.term.length > 16 ? 38 : 46 }}>
             {card.term}
           </Txt>
-          <Txt weight={card.phonetic ? 'mono' : 'regular'} size={15} color={colors.textMuted}>
-            {card.phonetic ? `${card.phonetic} · ${card.pos}` : `${card.pos} · ${deckOfCard[card.id]?.name ?? ''}`}
-          </Txt>
+          {card.sayIt ? (
+            <PressScale
+              onPress={() => Speech.speak(card.term, { language: 'en-US', rate: 0.9 })}
+              scaleTo={0.97}
+              style={styles.sayIt}
+              accessibilityRole="button"
+              accessibilityLabel={`Say it: ${card.sayIt}. Tap to hear it.`}
+            >
+              <Icon name="volume-2" size={16} color={colors.lime} />
+              <Txt weight="medium" size={17} style={{ letterSpacing: 0.5 }}>
+                {card.sayIt}
+              </Txt>
+              <Txt size={13} color={colors.textFaint} style={{ fontFamily: ipaFont }}>
+                {card.phonetic}
+              </Txt>
+            </PressScale>
+          ) : (
+            <Txt size={15} color={colors.textMuted}>
+              {`${card.pos} · ${deckOfCard[card.id]?.name ?? ''}`}
+            </Txt>
+          )}
         </Animated.View>
 
         <Animated.View entering={FadeInDown.duration(320).delay(60)} style={styles.meaning}>
@@ -232,6 +250,7 @@ const styles = StyleSheet.create({
   ghostBtn: { height: 48, paddingHorizontal: 22, borderRadius: radius.pill, borderWidth: 1, borderColor: '#3A3E35', justifyContent: 'center' },
   topBar: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', paddingHorizontal: 16 },
   hero: { paddingHorizontal: 20, paddingTop: 20, gap: 10 },
+  sayIt: { flexDirection: 'row', alignItems: 'center', gap: 10, alignSelf: 'flex-start', paddingHorizontal: 14, paddingVertical: 10, borderRadius: radius.pill, backgroundColor: colors.surface2, borderWidth: 1, borderColor: colors.border },
   outlinePill: { paddingHorizontal: 11, paddingVertical: 4, borderRadius: radius.pill, borderWidth: 1, borderColor: '#3A3E35' },
   meaning: { marginHorizontal: 16, marginTop: 18, padding: 20, borderRadius: radius.xl, backgroundColor: colors.lime, gap: 8 },
   twoCol: { flexDirection: 'row', gap: 8, marginHorizontal: 16, marginTop: 10 },

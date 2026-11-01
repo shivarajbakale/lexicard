@@ -13,7 +13,7 @@ import Animated, {
 import { scheduleOnRN } from 'react-native-worklets';
 
 import type { Card } from '../lib/types';
-import { colors, confidenceStyle, kindStyle, radius, springs } from '../theme';
+import { colors, confidenceStyle, ipaFont, kindStyle, radius, springs } from '../theme';
 import { Icon, Label, Pill, Txt } from './ui';
 
 export interface DeckCardHandle {
@@ -164,9 +164,20 @@ export function DeckCard({ card, index, width, enterFrom, onSwiped, ref }: Props
             <Txt weight="semibold" size={card.term.length > 14 ? 38 : 46} style={styles.term} numberOfLines={3}>
               {card.term}
             </Txt>
-            <Txt weight={card.phonetic ? 'mono' : 'regular'} size={15} color={colors.textMuted} style={{ textAlign: 'center' }}>
-              {card.phonetic ?? card.hint ?? card.pos}
-            </Txt>
+            {card.sayIt ? (
+              <View style={{ alignItems: 'center', gap: 4 }}>
+                <Txt weight="medium" size={20} color={colors.textSoft} style={{ letterSpacing: 0.6 }}>
+                  {card.sayIt}
+                </Txt>
+                <Txt size={13} color={colors.textFaint} style={{ fontFamily: ipaFont }}>
+                  {card.phonetic}
+                </Txt>
+              </View>
+            ) : (
+              <Txt size={15} color={colors.textMuted} style={{ textAlign: 'center' }}>
+                {card.hint ?? card.pos}
+              </Txt>
+            )}
           </View>
           <View style={styles.frontFoot}>
             <Icon name="refresh-cw" size={14} color={colors.textFaint} />

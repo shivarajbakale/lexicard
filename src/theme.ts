@@ -1,3 +1,5 @@
+import { Platform } from 'react-native';
+
 export const colors = {
   bg: '#0B0C0A',
   bgRaised: '#0E0F0D',
@@ -30,6 +32,12 @@ export const fonts = {
   bold: 'Geist_700Bold',
   mono: 'GeistMono_400Regular',
 } as const;
+
+/** IPA needs a font with phonetic glyphs (ˈ ə ɪ æ); system fonts have them, Geist does not. */
+export const ipaFont = Platform.select({
+  web: 'ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif',
+  default: undefined,
+});
 
 export const radius = { sm: 10, md: 14, lg: 18, xl: 22, card: 28, pill: 999 } as const;
 

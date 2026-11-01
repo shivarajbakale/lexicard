@@ -1,4 +1,5 @@
 import * as Haptics from 'expo-haptics';
+import * as Speech from 'expo-speech';
 import { useRouter } from 'expo-router';
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { Platform, StyleSheet, View } from 'react-native';
@@ -97,7 +98,7 @@ export default function Learn() {
     if (top) router.push({ pathname: '/card/[id]', params: { id: top } });
   }, [router, top]);
 
-  // Keyboard on web: ← still learning, → know it, space flip, enter details, z undo.
+  // Keyboard on web: ← still learning, → know it, space flip, enter details, z undo, s say it.
   useEffect(() => {
     if (Platform.OS !== 'web') return;
     const onKey = (e: KeyboardEvent) => {
@@ -110,11 +111,12 @@ export default function Learn() {
         topRef.current?.flip();
       } else if (e.key === 'Enter') openDetail();
       else if (e.key.toLowerCase() === 'z') undo();
+      else if (e.key.toLowerCase() === 's' && top) Speech.speak(cardsById[top].term, { language: 'en-US', rate: 0.9 });
       else return;
     };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
-  }, [openDetail, undo]);
+  }, [openDetail, undo, top]);
 
   const total = session?.ids.length ?? 0;
   const pos = session?.pos ?? 0;

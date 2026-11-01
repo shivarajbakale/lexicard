@@ -34,6 +34,8 @@ export interface Card {
   pos: string;
   /** IPA, words only */
   phonetic?: string;
+  /** Plain sound-it-out spelling, stressed syllable in CAPS, e.g. "KAN-did". Words only. */
+  sayIt?: string;
   /** Front-of-card hint for idioms/phrases, e.g. "nothing to do with cooking" */
   hint?: string;
   /** e.g. "Common at work", "Casual", "Formal" */

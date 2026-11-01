@@ -26,6 +26,8 @@ for (const file of readdirSync(DIR).filter((f) => f.endsWith('.json'))) {
     if (!/^[a-z0-9]+(-[a-z0-9]+)*$/.test(c.id ?? '')) at('id must be kebab-case');
     if (ids.has(c.id)) at(`duplicate id (also in ${ids.get(c.id)})`); else ids.set(c.id, file);
     if (!KINDS.includes(c.kind)) at('bad kind');
+    if (c.kind === 'word' && (!str(c.phonetic) || !str(c.sayIt))) at('words need phonetic + sayIt');
+    if (str(c.sayIt) && !/[A-Z]/.test(c.sayIt)) at('sayIt should mark the stressed syllable in CAPS');
     if (!Array.isArray(c.uses) || c.uses.length !== 3) at('needs exactly 3 uses');
     else c.uses.forEach((u, i) => {
       if (u.setting !== SETTINGS[i]) at(`use ${i} setting should be ${SETTINGS[i]}`);

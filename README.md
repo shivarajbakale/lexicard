@@ -14,7 +14,7 @@ npm install
 npm run web            # dev server
 ```
 
-Keyboard on web: `←` still learning · `→` know it · `Space` flip · `Enter` details · `Z` undo.
+Keyboard on web: `←` still learning · `→` know it · `Space` flip · `Enter` details · `Z` undo · `S` say it.
 
 ## Content
 
