@@ -206,12 +206,12 @@ async function topUpWords(target) {
 
 // ---------- rank ----------
 const RANK_SYSTEM = `You curate content for a vocabulary app for adult professionals who want to sound sharper at work and in everyday life.
-Score each English expression from 0 to 3:
-3 = a typical adult hears or reads it at least monthly, at work or socially, and it is polite in mixed company;
-2 = well known and useful, a bit less frequent;
-1 = rare, dated, very regional, or too niche;
-0 = vulgar, offensive, sexual, slang-only, a proper noun, or not really an idiom/phrase.
-Reply with JSON only: {"scores": {"<expression exactly as given>": <0-3>, ...}} covering every item.`;
+Score each English expression from 0 to 10 for how worth teaching it is:
+10 = a figurative expression almost every adult hears at work or socially every week ("on the same page", "cut corners");
+7-9 = very common and clearly useful; 4-6 = known and usable but less frequent; 1-3 = rare, dated, regional or niche.
+Score 0 when it is vulgar, crude, sexual or offensive (even mildly, like "raise hell" or "bust one's butt"), slang-only,
+a proper noun, or not really an idiom or set phrase (its meaning is just the sum of its words, like "master plan").
+Reply with JSON only: {"scores": {"<expression exactly as given>": <0-10>, ...}} covering every item.`;
 
 async function rank(kind = flag('kind'), top = Number(flag('top', 500))) {
   requireKey();
@@ -222,7 +222,7 @@ async function rank(kind = flag('kind'), top = Number(flag('top', 500))) {
   const terms = [...new Set(lists.flat())].filter((t) => !taken.has(slugify(t)));
   if (!terms.length) throw new Error(`no ${kind} candidates; run scripts/content/fetch-idioms.mjs first`);
 
-  const cacheFile = join(CACHE, `rank-${kind}.json`);
+  const cacheFile = join(CACHE, `rank10-${kind}.json`);
   const scores = readJson(cacheFile, {});
   const todo = terms.filter((t) => !(t in scores));
   const batches = [];
@@ -240,9 +240,10 @@ async function rank(kind = flag('kind'), top = Number(flag('top', 500))) {
     process.stdout.write(`\r  scored ${++done}/${batches.length} batches`);
   });
   process.stdout.write('\n');
-  const picked = terms.filter((t) => scores[t] >= 2).sort((a, b) => scores[b] - scores[a]).slice(0, top);
+  // Highest score first; ties go to the shorter, punchier expression.
+  const picked = terms.filter((t) => scores[t] >= 5).sort((a, b) => scores[b] - scores[a] || a.length - b.length).slice(0, top);
   writeJson(join(SRC, `picked-${kind}s.json`), { source: 'Wiktionary category titles (CC BY-SA 4.0), ranked by MiniMax', terms: picked });
-  console.log(`${picked.length} ${kind}s picked (score 3 first) -> ${SRC}/picked-${kind}s.json`);
+  console.log(`${picked.length} ${kind}s picked (highest scores first) -> ${SRC}/picked-${kind}s.json`);
 }
 
 // ---------- cards ----------
@@ -255,7 +256,7 @@ Write ONE card as JSON, matching this TypeScript shape exactly (omit optional fi
   "term": string,              // the ${kind} as it is normally written
   "pos": string,               // "adjective", "verb", "noun", "idiom", "phrase"...
   "phonetic"?: string,         // IPA between slashes, words only
-  "sayIt"?: string,            // plain sound-it-out spelling, stressed syllable in CAPS, e.g. "KAN-did" (words only)
+  "sayIt"?: string,            // sound-it-out respelling (words only), see the rules below
   "hint"?: string,             // idioms/phrases only: a short front-of-card teaser, e.g. "nothing to do with cooking"
   "register": string,          // e.g. "Common at work", "Everyday", "Formal", "Casual"
   "meaning": string,           // one clear sentence
@@ -265,7 +266,7 @@ Write ONE card as JSON, matching this TypeScript shape exactly (omit optional fi
     { "setting": "work"|"social"|"writing", "where": "Short scene · situation", "sentence": string, "highlight": string, "tip": string }
   ],
   "origin": { "summary": string, "confidence": "recorded"|"likely"|"myth", "timeline": [{ "when": string, "text": string }] },
-  "forms"?: [{ "term": string, "label": string }],
+  "forms"?: [{ "term": string, "label": string }],   // related words in other parts of speech, e.g. "abhorrence" (noun); never plain -s/-ed/-ing endings
   "similar"?: string[],
   "opposite"?: string,
   "pitfall"?: string,
@@ -278,10 +279,32 @@ Rules:
 - Example sentences sound like real people: specific, natural, under 30 words. No names of real public figures.
 - Origins: be honest. "recorded" only when the etymology is well documented in standard dictionaries; "myth" when the popular story is known to be false (say so and give the real one if known); otherwise "likely". Never invent dates, names or citations: when unsure, use a century or period ("1500s", "Old French", "Earlier") for "when". 2-4 timeline steps, oldest first.
 - Keep "where" short, like "Team stand-up · scoping a release".
+- "sayIt" (words only): hyphenated syllables that an English reader would say correctly at first sight, using
+  everyday spellings for sounds (OO as in food, OH, AY, EE, UH, ZH), with the stressed syllable in CAPS.
+  Good: "ab-JOOR" (abjure), "uh-BOHD" (abode), "KAN-did" (candid), "ub-HOR-uhnt" (abhorrent). Every syllable must be
+  pronounceable on its own; never start one with an impossible cluster like "bj". "phonetic" is standard IPA in slashes.
+- "topic" must be copied exactly from the list.
 - Reply with the JSON object only.
 
 Style example (a finished ${kind} card):
 ${JSON.stringify(ex, null, 2)}`;
+}
+
+/** Map the model's topic onto the fixed list, forgiving case, "and" vs "&", and British/US spelling. */
+function matchTopic(kind, topic) {
+  const norm = (t) => String(t ?? '').toLowerCase().replace(/\band\b/g, '&').replace(/behavior/g, 'behaviour').replace(/[^a-z&]+/g, '');
+  const want = norm(topic);
+  const exact = TOPICS[kind].find((t) => norm(t) === want);
+  if (exact) return exact;
+  // Otherwise the topic that shares the most words with what the model said.
+  const words = new Set(String(topic ?? '').toLowerCase().split(/[^a-z]+/).filter((w) => w.length > 2));
+  let best = TOPICS[kind][TOPICS[kind].length - 1];
+  let score = 0;
+  for (const t of TOPICS[kind]) {
+    const s = t.toLowerCase().split(/[^a-z]+/).filter((w) => words.has(w)).length;
+    if (s > score) [best, score] = [t, s];
+  }
+  return best;
 }
 
 /** Small, safe repairs before validation: exact-case highlights and setting order. */
@@ -312,9 +335,10 @@ async function makeCard(kind, term, system) {
       delete card.phonetic;
       delete card.sayIt;
     }
-    if (!TOPICS[kind].includes(card.topic)) card.topic = TOPICS[kind][TOPICS[kind].length - 1];
+    card.topic = matchTopic(kind, card.topic);
     repair(card);
     last = validateCard(card);
+    if (typeof raw.topic !== 'string' || !raw.topic.trim()) last.push(`topic missing: pick one of ${TOPICS[kind].join(' / ')}`);
     if (!last.length) return card;
     feedback = `\n\nYour previous attempt had these problems; fix all of them:\n- ${last.join('\n- ')}`;
   }
