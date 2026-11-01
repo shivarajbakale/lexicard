@@ -1,20 +1,98 @@
+<div align="center">
+
+<img src="assets/brand/icon.svg" width="88" alt="Lexicard icon" />
+
 # Lexicard
 
-Swipe to learn words, idioms and phrases. Tap a card to see what it means, how to use it
-at work, with friends and in writing, and where it comes from — with an honest
-"Well recorded / Likely / Myth check" tag on every origin story.
+**Swipe to learn the words, idioms and phrases people actually use.**
 
-Built with Expo (React Native + React Native Web), Expo Router, Reanimated and
-Gesture Handler. Ships as an installable, offline-capable PWA on GitHub Pages.
+Every card shows what a term means, how to use it at work, with friends and in writing,
+and where it comes from, with an honest *Well recorded / Likely / Myth* tag on each origin story.
+
+[![Live demo](https://img.shields.io/badge/live-demo-C6F432?style=for-the-badge&labelColor=0B0C0A)](https://shivarajbakale.github.io/lexicard/)
+[![Deploy](https://img.shields.io/github/actions/workflow/status/shivarajbakale/lexicard/deploy.yml?branch=main&style=for-the-badge&label=deploy&labelColor=0B0C0A)](https://github.com/shivarajbakale/lexicard/actions/workflows/deploy.yml)
+![Expo SDK 58](https://img.shields.io/badge/Expo-SDK%2058-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-offline%20ready-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+
+**[Open the app →](https://shivarajbakale.github.io/lexicard/)** · works in any browser, installs to your home screen
+
+<br/>
+
+<img src="docs/media/demo-learn.gif" width="260" alt="Swiping through cards on the Learn screen" />
+&nbsp;&nbsp;&nbsp;
+<img src="docs/media/demo-card.gif" width="260" alt="Paging through a card's Meaning, Use it, Origin and More slides" />
+
+</div>
+
+## Features
+
+- **Swipe to sort.** Right if you know it, left if you don't. Tap to flip, undo with one tap.
+- **2,051 cards in 98 decks:** 1,024 words, 524 idioms and 503 phrases, from *pragmatic* to *spill the beans*.
+- **Four slides per card,** paged like reels: Meaning, Use it (work, social, writing), Origin, and More.
+- **Honest origins.** Each origin story has a timeline and a confidence tag, so folk etymology is called out as a myth.
+- **Spaced repetition** with Leitner boxes (1, 2, 4, 8 and 16 days).
+- **Ten levels,** from Listener to Lexicon. Points only come from real progress and from logging real-world uses ("I used it").
+  Levels unlock decks, streak freezes, an origin quiz, a weekly recap, challenge mode and a card style.
+- **Audio** for the original decks, recorded locally with [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M).
+- **Installable and offline.** A PWA with a service worker that precaches the whole app. Progress stays on your device.
+
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/media/learn.png" width="200" alt="Learn screen" /><br/><sub>Learn</sub></td>
+    <td align="center"><img src="docs/media/learn-flipped.png" width="200" alt="Flipped card" /><br/><sub>Flip for the meaning</sub></td>
+    <td align="center"><img src="docs/media/card-meaning.png" width="200" alt="Meaning slide" /><br/><sub>Meaning</sub></td>
+    <td align="center"><img src="docs/media/card-use-it.png" width="200" alt="Use it slide" /><br/><sub>Use it</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/media/card-origin.png" width="200" alt="Origin slide" /><br/><sub>Origin</sub></td>
+    <td align="center"><img src="docs/media/card-more.png" width="200" alt="More slide" /><br/><sub>Forms and look-alikes</sub></td>
+    <td align="center"><img src="docs/media/library.png" width="200" alt="Library" /><br/><sub>Library</sub></td>
+    <td align="center"><img src="docs/media/levels.png" width="200" alt="Level path" /><br/><sub>Your path</sub></td>
+  </tr>
+</table>
+
+## Tech stack
+
+| | |
+| --- | --- |
+| App | [Expo](https://expo.dev) SDK 58, React Native 0.88, React Native Web, Expo Router |
+| Motion | Reanimated 4, Gesture Handler 3 |
+| State | zustand, persisted on the device (localStorage on web) |
+| Audio | Kokoro-82M (generated offline), expo-audio |
+| Content | Node scripts and the MiniMax API, with schema validation on every card |
+| Hosting | GitHub Pages, deployed by GitHub Actions on every push to `main` |
 
 ## Run it
 
 ```sh
+git clone https://github.com/shivarajbakale/lexicard.git
+cd lexicard
 npm install
-npm run web            # dev server
+npm run web            # dev server at http://localhost:8081
 ```
 
 Keyboard on web: `←` still learning · `→` know it · `Space` flip · `Enter` details · `Z` undo · `S` say it.
+
+Checks before you push:
+
+```sh
+npm run typecheck
+npm run lint
+npm run check:decks
+```
+
+## Project layout
+
+```text
+src/app/          screens (Expo Router): Learn, Library, Progress, card pages, levels, quiz, challenge
+src/components/   deck cards, speaker, level chips, the "I used it" sheet
+src/lib/          store, spaced repetition (srs.ts), levels, audio, types
+src/data/decks/   one JSON file per deck (generated/ holds the generated ones)
+scripts/          deck checks, content pipeline, audio, PWA build
+```
 
 ## Content
 
@@ -80,7 +158,7 @@ at the level they've already earned).
 
 ## Audio
 
-Every card ships with pre-generated MP3s (term, meaning and the three example sentences) made locally with
+The original 72 cards ship with pre-generated MP3s (term, meaning and the three example sentences) made locally with
 [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) (Apache-2.0). Voice, accent, speed and bitrate are in
 `audio.config.json`.
 
@@ -110,3 +188,13 @@ GitHub Pages: push to `main`, then in **Settings → Pages** set **Source** to
 **GitHub Actions**. `.github/workflows/deploy.yml` builds with
 `BASE_URL=/<repo-name>` and publishes `dist/`. The site appears at
 `https://<user>.github.io/<repo-name>/`.
+
+## Credits
+
+- Idiom and phrase titles come from [Wiktionary](https://en.wiktionary.org/) category lists (CC BY-SA 4.0). Only the titles are used.
+- Voices: [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) (Apache-2.0).
+- Fonts: [Geist and Geist Mono](https://vercel.com/font) (SIL Open Font License).
+
+## License
+
+[MIT](LICENSE)
