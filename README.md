@@ -28,6 +28,31 @@ npm run check:decks    # validates every card (ids, 3 uses, highlights, origin)
 
 Card ids are the slug of the term, so review history survives edits to a card.
 
+## Generating more content
+
+`npm run content` writes new word, idiom and phrase cards with MiniMax, using your own API key (no other AI service
+is involved). It runs on your machine, checks every card against the schema, and can be rerun to resume.
+
+```sh
+export MINIMAX_API_KEY=...                      # never commit this
+export MINIMAX_MODEL=MiniMax-M2.7-highspeed     # optional; this is the default
+npm run content -- --pdf ~/path/to/word-book.pdf --words 1000 --idioms 500 --phrases 500
+```
+
+What it does:
+
+1. Reads only the headwords from the PDF's index (`scripts/content/extract-pdf-words.py`, run through `uv`).
+   No definitions or example sentences are taken from the book.
+2. Fetches idiom and phrase titles from Wiktionary's category lists (`scripts/content/fetch-idioms.mjs`).
+3. Has the model score those for how common and polite they are, and keeps the best.
+4. Writes a full card for every term (meaning, three uses, origin with an honest confidence label), validates it,
+   and retries with the errors when a card doesn't pass.
+5. Groups the cards into topic decks under `src/data/decks/generated/` and registers them in `src/data/generated.ts`.
+
+Working files (PDF headwords, the Wiktionary lists, the per-card cache) live in `content/`, which is not committed.
+Origins are model output: spot-check them before shipping. Audio for new cards comes from
+`node scripts/generate-audio.mjs`.
+
 ## Spaced repetition
 
 Leitner boxes 1–5 with intervals of 1, 2, 4, 8 and 16 days. Swipe right moves a card

@@ -8,6 +8,7 @@ import idiomsWeekly from './decks/idioms-weekly.json';
 import idiomsStrangeOrigins from './decks/idioms-strange-origins.json';
 import meetingPhrases from './decks/meeting-phrases.json';
 import politePushback from './decks/polite-pushback.json';
+import { generatedDecks } from './generated';
 
 // To add a deck: drop a JSON file in ./decks and add it to this list.
 // `npm run check:decks` validates every file against the schema in lib/types.ts.
@@ -18,6 +19,8 @@ export const decks: Deck[] = [
   idiomsStrangeOrigins,
   workplaceClarity,
   politePushback,
+  // Decks written by the content pipeline (scripts/content/generate.mjs).
+  ...generatedDecks,
 ] as Deck[];
 
 // Round-robin across decks so a mixed session alternates words, idioms and phrases.

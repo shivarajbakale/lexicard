@@ -40,6 +40,7 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "check:decks": "node scripts/check-decks.mjs",
+    "content": "node scripts/content/generate.mjs all",
     "typecheck": "tsc --noEmit",
     "build:web": "npm run check:decks && expo export -p web && node scripts/pwa.mjs",
     "preview:web": "node scripts/serve.mjs",

@@ -49,3 +49,6 @@ audio-work/
 
 # Kokoro TTS virtualenv (scripts/kokoro_tts.py)
 .venv-kokoro/
+
+# content pipeline working files (PDF-derived lists, API cache)
+/content/
