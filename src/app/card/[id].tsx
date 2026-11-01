@@ -66,7 +66,7 @@ export default function CardDetail() {
     );
   }
 
-  const heroSize = card.term.length > 16 ? (phone ? 28 : 34) : phone ? 34 : 42;
+  const heroSize = card.term.length > 16 ? (phone ? 26 : 34) : phone ? 30 : 42;
   const kind = kindStyle[card.kind];
   const conf = confidenceStyle[card.origin.confidence];
   const deck = deckOfCard[card.id];
@@ -123,10 +123,10 @@ export default function CardDetail() {
             accessibilityRole="button"
             accessibilityLabel={card.sayIt ? `Say it: ${card.sayIt}. Tap to hear it.` : `Hear ${card.term}`}
           >
-            <SpeakerGlyph cardId={card.id} slot="term" size={30} />
+            <SpeakerGlyph cardId={card.id} slot="term" size={phone ? 26 : 30} />
             {/* Respelling and IPA each stay whole; on narrow screens the IPA drops to its own line. */}
             <View style={styles.sayItText}>
-              <Txt weight="medium" size={17} numberOfLines={1} style={{ letterSpacing: 0.5, flexShrink: 0 }}>
+              <Txt weight="medium" size={15} numberOfLines={1} style={{ letterSpacing: 0.4, flexShrink: 0 }}>
                 {card.sayIt ?? 'Hear it'}
               </Txt>
               {card.phonetic && (
@@ -146,7 +146,7 @@ export default function CardDetail() {
             <Label color={colors.ink}>What it means</Label>
             <SpeakerButton cardId={card.id} slot="meaning" fallback={card.meaning} label="Hear the meaning" size={34} />
           </View>
-          <Txt weight="medium" size={19} color={colors.ink} style={{ lineHeight: 26 }}>
+          <Txt weight="medium" size={phone ? 17 : 19} color={colors.ink} style={{ lineHeight: phone ? 24 : 26 }}>
             {card.meaning}
           </Txt>
         </Animated.View>
@@ -170,7 +170,7 @@ export default function CardDetail() {
         </View>
 
         <View style={[styles.sectionHead, styles.rowBetween]}>
-          <Txt weight="semibold" size={20} style={{ letterSpacing: -0.4 }}>
+          <Txt weight="semibold" size={phone ? 18 : 20} style={{ letterSpacing: -0.4 }}>
             Use it today
           </Txt>
           <PressScale
@@ -224,7 +224,7 @@ export default function CardDetail() {
                   size={34}
                 />
               </View>
-              <Highlighted sentence={u.sentence} highlight={u.highlight} size={17} />
+              <Highlighted sentence={u.sentence} highlight={u.highlight} size={phone ? 16 : 17} />
               <View style={styles.tip}>
                 <Icon name="info" size={15} color={colors.textMuted} />
                 <Txt size={14} color={colors.textMuted} style={{ flex: 1, lineHeight: 20 }}>
@@ -237,7 +237,7 @@ export default function CardDetail() {
 
         <View style={styles.origin}>
           <View style={{ flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', gap: 10 }}>
-            <Txt weight="semibold" size={20} style={{ letterSpacing: -0.4 }}>
+            <Txt weight="semibold" size={phone ? 18 : 20} style={{ letterSpacing: -0.4 }}>
               Where it comes from
             </Txt>
             <Pill label={conf.label} bg={conf.bg} fg={conf.fg} />

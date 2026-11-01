@@ -1,6 +1,6 @@
 import Feather from '@expo/vector-icons/Feather';
 import type { ComponentProps, ReactNode } from 'react';
-import { Pressable, StyleSheet, Text, type PressableProps, type StyleProp, type TextProps, type TextStyle, type ViewStyle } from 'react-native';
+import { Pressable, StyleSheet, Text, useWindowDimensions, type PressableProps, type StyleProp, type TextProps, type TextStyle, type ViewStyle } from 'react-native';
 import Animated, { useAnimatedStyle, useSharedValue, withSpring } from 'react-native-reanimated';
 
 import { colors, fonts, radius } from '../theme';
@@ -20,8 +20,19 @@ export function Txt({
   style,
   ...rest
 }: TextProps & { weight?: Weight; size?: number; color?: string; style?: StyleProp<TextStyle> }) {
-  return <Text {...rest} style={[{ fontFamily: fonts[weight], fontSize: size, color }, style]} />;
+  // Phones get type a notch smaller across the app; explicit line heights shrink with it so spacing stays in proportion.
+  const scale = useWindowDimensions().width < 430 ? PHONE_TYPE_SCALE : 1;
+  const flat = StyleSheet.flatten(style);
+  const lineHeight = typeof flat?.lineHeight === 'number' ? Math.round(flat.lineHeight * scale) : undefined;
+  return (
+    <Text
+      {...rest}
+      style={[{ fontFamily: fonts[weight], fontSize: Math.round(size * scale * 2) / 2, color }, style, lineHeight != null && { lineHeight }]}
+    />
+  );
 }
+
+export const PHONE_TYPE_SCALE = 0.92;
 
 export function Label({ children, color = colors.lime }: { children: ReactNode; color?: string }) {
   return (
