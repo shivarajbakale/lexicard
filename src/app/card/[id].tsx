@@ -87,8 +87,8 @@ const FLICK = 450; // px/s
 const WHEEL_LOCK_MS = 420;
 const pageSpring = (velocity = 0) => {
   'worklet';
-  // Just under critical damping: settles in ~300ms with the faintest give at the end.
-  return { damping: 27, stiffness: 280, mass: 0.8, velocity };
+  // Underdamped (about 0.65 of critical): the slide overshoots a little and bounces back into place.
+  return { damping: 19, stiffness: 240, mass: 0.9, velocity };
 };
 
 /** One slide: exactly one screen tall. Content that would run over is scaled down slightly to fit, never cut. */
@@ -170,8 +170,8 @@ export default function CardDetail() {
       'worklet';
       let p = dragFrom.value - e.translationY / height.value;
       // Rubber-band past the first and last slide.
-      if (p < 0) p *= 0.3;
-      if (p > LAST) p = LAST + (p - LAST) * 0.3;
+      if (p < 0) p *= 0.45;
+      if (p > LAST) p = LAST + (p - LAST) * 0.45;
       page.set(p);
     },
     onDeactivate: (e) => {
