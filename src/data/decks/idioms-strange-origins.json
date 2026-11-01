@@ -1,0 +1,568 @@
+{
+  "id": "idioms-strange-origins",
+  "kind": "idiom",
+  "name": "Idioms with strange origins",
+  "blurb": "Stories from ships, farms and theatres",
+  "cards": [
+    {
+      "id": "bite-the-bullet",
+      "kind": "idiom",
+      "term": "Bite the bullet",
+      "pos": "idiom",
+      "hint": "please don’t actually",
+      "register": "Everyday",
+      "meaning": "To make yourself do something unpleasant or difficult that you’ve been putting off.",
+      "literal": "Clenching a lead bullet between your teeth.",
+      "nuance": "Resigned but determined. Use it when someone finally accepts a cost or pain rather than avoiding it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning · legacy code",
+          "sentence": "We finally bit the bullet and rewrote the billing service from scratch.",
+          "highlight": "bit the bullet",
+          "tip": "Usually about a decision delayed for too long."
+        },
+        {
+          "setting": "social",
+          "where": "Talking about the dentist",
+          "sentence": "I’ve been avoiding it for a year, but I’m going to bite the bullet and book that filling.",
+          "highlight": "bite the bullet",
+          "tip": "Pairs naturally with ‘finally’ or ‘just’."
+        },
+        {
+          "setting": "writing",
+          "where": "Finance news",
+          "sentence": "Many retailers will have to bite the bullet and raise prices this winter.",
+          "highlight": "bite the bullet",
+          "tip": "Common in business and economics reporting."
+        }
+      ],
+      "origin": {
+        "summary": "The popular story says soldiers bit bullets during surgery without anaesthetic. That’s plausible but not well documented. The figurative phrase is first recorded in Rudyard Kipling’s 1891 novel The Light That Failed.",
+        "confidence": "likely",
+        "timeline": [
+          { "when": "1700s–1800s", "text": "Battlefield surgery is often done without anaesthetic; patients bite on something to endure pain." },
+          { "when": "1891", "text": "Kipling writes ‘Bite on the bullet, old man’ in The Light That Failed." },
+          { "when": "Today", "text": "Means accepting any unpleasant necessity." }
+        ]
+      },
+      "similar": ["Grasp the nettle", "Face the music", "Take the plunge"],
+      "pitfall": "Not ‘bite the dust’, which means to fail or die."
+    },
+    {
+      "id": "let-the-cat-out-of-the-bag",
+      "kind": "idiom",
+      "term": "Let the cat out of the bag",
+      "pos": "idiom",
+      "hint": "secrets don’t stay bagged",
+      "register": "Everyday",
+      "meaning": "To reveal a secret, usually by accident.",
+      "literal": "Opening a sack and a cat jumps out.",
+      "nuance": "Light-hearted. It suggests the secret was revealed carelessly, and once out it can’t be put back.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product launch · leaked screenshot",
+          "sentence": "An intern let the cat out of the bag by posting a screenshot of the new app.",
+          "highlight": "let the cat out of the bag",
+          "tip": "Implies an accidental slip rather than a deliberate leak."
+        },
+        {
+          "setting": "social",
+          "where": "Surprise party gone wrong",
+          "sentence": "Grandma let the cat out of the bag when she asked what time the party started.",
+          "highlight": "let the cat out of the bag",
+          "tip": "Perfect for spoiled surprises."
+        },
+        {
+          "setting": "writing",
+          "where": "Tech news",
+          "sentence": "A regulatory filing appears to have let the cat out of the bag about the company’s next phone.",
+          "highlight": "let the cat out of the bag",
+          "tip": "Reporters use it for unofficial reveals."
+        }
+      ],
+      "origin": {
+        "summary": "The popular story is a market scam: selling a ‘pig’ in a sack that was really a cat. It’s a neat link to ‘pig in a poke’ but unproven. The phrase is first recorded in the mid-1700s.",
+        "confidence": "myth",
+        "timeline": [
+          { "when": "1500s", "text": "‘Buy a pig in a poke’ warns against buying something unseen in a sack." },
+          { "when": "Mid-1700s", "text": "‘Let the cat out of the bag’ appears in English print meaning reveal a secret." },
+          { "when": "Today", "text": "The scam story is repeated widely, but no record connects it to the phrase." }
+        ]
+      },
+      "similar": ["Spill the beans", "Give the game away", "Blow the whistle"],
+      "pitfall": "‘Blow the whistle’ means exposing wrongdoing on purpose; letting the cat out is usually accidental."
+    },
+    {
+      "id": "cost-an-arm-and-a-leg",
+      "kind": "idiom",
+      "term": "Cost an arm and a leg",
+      "pos": "idiom",
+      "hint": "painfully expensive",
+      "register": "Casual",
+      "meaning": "To be extremely expensive.",
+      "literal": "Paying for something with your own limbs.",
+      "nuance": "Casual exaggeration. Fine in conversation; in formal writing say ‘very costly’ instead.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget review",
+          "sentence": "The enterprise licence costs an arm and a leg, so let’s check whether we need it.",
+          "highlight": "costs an arm and a leg",
+          "tip": "Useful for flagging cost without quoting numbers."
+        },
+        {
+          "setting": "social",
+          "where": "After a holiday",
+          "sentence": "The hotel was gorgeous, but it cost an arm and a leg.",
+          "highlight": "cost an arm and a leg",
+          "tip": "‘Charge an arm and a leg’ also works."
+        },
+        {
+          "setting": "writing",
+          "where": "Consumer advice column",
+          "sentence": "Fixing a cracked screen doesn’t have to cost an arm and a leg if you shop around.",
+          "highlight": "cost an arm and a leg",
+          "tip": "Keep it to informal articles and blogs."
+        }
+      ],
+      "origin": {
+        "summary": "A popular story says portrait painters charged more to include arms and legs. That’s false: the phrase only appears in the mid-20th century, long after that era, probably as an exaggeration of ‘I’d give my right arm’.",
+        "confidence": "myth",
+        "timeline": [
+          { "when": "1800s", "text": "‘I’d give my right arm for it’ expresses wanting something badly." },
+          { "when": "Late 1940s", "text": "‘Cost an arm and a leg’ appears in American print." },
+          { "when": "Today", "text": "The portrait-painting story circulates online, but no evidence supports it." }
+        ]
+      },
+      "forms": [
+        { "term": "charge an arm and a leg", "label": "variant" },
+        { "term": "pay an arm and a leg", "label": "variant" }
+      ],
+      "similar": ["Cost a fortune", "Break the bank", "Daylight robbery"],
+      "opposite": "Dirt cheap",
+      "pitfall": "‘Break the bank’ is usually used in the negative: ‘it won’t break the bank’."
+    },
+    {
+      "id": "mad-as-a-hatter",
+      "kind": "idiom",
+      "term": "Mad as a hatter",
+      "pos": "idiom",
+      "hint": "blame the chemicals",
+      "register": "Casual",
+      "meaning": "Very eccentric or wildly unpredictable.",
+      "literal": "As crazy as someone who makes hats.",
+      "nuance": "Usually affectionate, describing a colourful character. Avoid using it about real mental illness.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Describing a founder",
+          "sentence": "Our first CTO was mad as a hatter, but half his wild ideas actually worked.",
+          "highlight": "mad as a hatter",
+          "tip": "Usually affectionate when said about a colleague."
+        },
+        {
+          "setting": "social",
+          "where": "Family stories",
+          "sentence": "My great-aunt was as mad as a hatter and kept a goat in her flat.",
+          "highlight": "as mad as a hatter",
+          "tip": "With or without the first ‘as’."
+        },
+        {
+          "setting": "writing",
+          "where": "Theatre review",
+          "sentence": "The lead plays the inventor as mad as a hatter, all twitching eyebrows and sudden songs.",
+          "highlight": "as mad as a hatter",
+          "tip": "Good for vivid character description."
+        }
+      ],
+      "origin": {
+        "summary": "Hatmakers used mercury to treat felt, and mercury poisoning caused tremors and erratic behaviour, which is the most likely source. The phrase was in print by the 1830s, decades before Lewis Carroll’s Hatter.",
+        "confidence": "likely",
+        "timeline": [
+          { "when": "1700s–1800s", "text": "Felt-hat makers use mercury compounds and many suffer poisoning." },
+          { "when": "1830s", "text": "‘Mad as a hatter’ appears in print." },
+          { "when": "1865", "text": "Alice’s Adventures in Wonderland features the Hatter, though Carroll never uses the phrase." },
+          { "when": "Today", "text": "The Mad Hatter keeps the idiom famous." }
+        ]
+      },
+      "similar": ["Mad as a March hare", "Off your rocker", "Nutty as a fruitcake"],
+      "pitfall": "‘Mad’ here means crazy, not angry, even in American English."
+    },
+    {
+      "id": "red-herring",
+      "kind": "idiom",
+      "term": "Red herring",
+      "pos": "idiom",
+      "hint": "a fishy distraction",
+      "register": "Common at work",
+      "meaning": "Something that distracts attention from the real issue, often deliberately.",
+      "literal": "A smoked fish that has turned reddish-brown.",
+      "nuance": "Neutral to critical. Common in debates, investigations and mystery stories to call out a false lead.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Debugging session",
+          "sentence": "The memory warning was a red herring; the crash came from a timeout.",
+          "highlight": "a red herring",
+          "tip": "Great for false leads in troubleshooting."
+        },
+        {
+          "setting": "social",
+          "where": "Book club",
+          "sentence": "I was sure the gardener did it, but he was just a red herring.",
+          "highlight": "a red herring",
+          "tip": "The standard term for misleading clues in mysteries."
+        },
+        {
+          "setting": "writing",
+          "where": "Opinion piece",
+          "sentence": "The debate about uniforms is a red herring that distracts from underfunded classrooms.",
+          "highlight": "a red herring",
+          "tip": "Calls out a distraction in an argument."
+        }
+      ],
+      "origin": {
+        "summary": "People say hunters dragged smoked herring to train or mislead hounds, but evidence is thin. The ‘distraction’ sense comes from William Cobbett, who in 1807 told a likely invented story of using a red herring to throw hounds off a hare’s trail.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "1400s", "text": "‘Red herring’ names salted, smoked herring that turns red." },
+          { "when": "1600s", "text": "Hunting writers mention dragging a dead animal or herring to lay a trail for hounds." },
+          { "when": "1807", "text": "William Cobbett uses the herring story to criticise the press for distracting the public." },
+          { "when": "Today", "text": "A standard term in logic, law and detective fiction." }
+        ]
+      },
+      "similar": ["Wild goose chase", "Smoke and mirrors", "Decoy"],
+      "pitfall": "A red herring misleads; a ‘wild goose chase’ is a pointless search."
+    },
+    {
+      "id": "show-your-true-colors",
+      "kind": "idiom",
+      "term": "Show your true colors",
+      "pos": "idiom",
+      "hint": "flags at sea",
+      "register": "Everyday",
+      "meaning": "To reveal your real character or intentions, especially when they’re worse than people thought.",
+      "literal": "Raising your real flag instead of a fake one.",
+      "nuance": "Usually negative: someone’s pleasant mask slips. Occasionally positive when someone proves loyal under pressure.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "After a tense negotiation",
+          "sentence": "The partner showed his true colors when he tried to cut us out of the deal.",
+          "highlight": "showed his true colors",
+          "tip": "Usually signals disappointment in someone."
+        },
+        {
+          "setting": "social",
+          "where": "Talking about an ex",
+          "sentence": "She seemed sweet at first, but she showed her true colors on that holiday.",
+          "highlight": "showed her true colors",
+          "tip": "British spelling: true colours."
+        },
+        {
+          "setting": "writing",
+          "where": "Sports report",
+          "sentence": "Under pressure in the final, the young team showed its true colors and fought back.",
+          "highlight": "showed its true colors",
+          "tip": "Can be positive when the ‘real self’ is admirable."
+        }
+      ],
+      "origin": {
+        "summary": "Warships sometimes sailed under a false flag to approach an enemy, then hoisted their real colours before attacking. The practice is documented, and the figurative phrase followed in the 1700s.",
+        "confidence": "likely",
+        "timeline": [
+          { "when": "1600s–1700s", "text": "Naval custom allows ships to fly false colours but expects true ones before firing." },
+          { "when": "1700s", "text": "‘Show your true colours’ is used figuratively for revealing your real nature." },
+          { "when": "Today", "text": "Common in both spellings: colors and colours." }
+        ]
+      },
+      "forms": [
+        { "term": "show your true colours", "label": "British spelling" },
+        { "term": "with flying colors", "label": "related flag idiom · great success" }
+      ],
+      "similar": ["The mask slips", "Reveal your hand"],
+      "pitfall": "‘Pass with flying colors’ is unrelated in meaning: it means succeeding brilliantly."
+    },
+    {
+      "id": "by-and-large",
+      "kind": "idiom",
+      "term": "By and large",
+      "pos": "idiom",
+      "hint": "a sailor’s compromise",
+      "register": "Common at work",
+      "meaning": "On the whole; generally speaking, allowing for some exceptions.",
+      "literal": "Sailing both close to the wind and with the wind behind you.",
+      "nuance": "Measured and slightly formal. Good for summarising while admitting exceptions.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Quarterly review",
+          "sentence": "By and large, customers are happy with the new dashboard, though a few want the old export back.",
+          "highlight": "By and large",
+          "tip": "Usually opens a sentence, followed by a comma."
+        },
+        {
+          "setting": "social",
+          "where": "Describing a new neighbourhood",
+          "sentence": "The neighbours are friendly by and large, apart from the guy with the leaf blower.",
+          "highlight": "by and large",
+          "tip": "Can also go at the end of a clause."
+        },
+        {
+          "setting": "writing",
+          "where": "Research summary",
+          "sentence": "By and large, the results support the original hypothesis.",
+          "highlight": "By and large",
+          "tip": "Safe in reports and essays."
+        }
+      ],
+      "origin": {
+        "summary": "A sailing term: ‘by’ meant sailing close to the wind, ‘large’ meant sailing with the wind behind. A ship that handled well ‘by and large’ did well in all conditions. Recorded in 1600s nautical English.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "1600s", "text": "Sailors describe a ship’s handling ‘by and large’, across all wind directions." },
+          { "when": "1700s", "text": "The phrase moves ashore meaning ‘in general’." },
+          { "when": "Today", "text": "Most speakers have no idea it’s nautical." }
+        ]
+      },
+      "similar": ["On the whole", "Generally speaking", "All in all"],
+      "pitfall": "Not ‘by and by’, which is an old phrase meaning ‘eventually’."
+    },
+    {
+      "id": "pull-out-all-the-stops",
+      "kind": "idiom",
+      "term": "Pull out all the stops",
+      "pos": "idiom",
+      "hint": "an organ at full blast",
+      "register": "Everyday",
+      "meaning": "To make every possible effort to achieve something.",
+      "literal": "Pulling every knob on a pipe organ so all the pipes sound at once.",
+      "nuance": "Positive and energetic. Suggests maximum effort or a lavish occasion.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Big client visit",
+          "sentence": "We pulled out all the stops for the client demo, right down to custom name badges.",
+          "highlight": "pulled out all the stops",
+          "tip": "Often used about preparing for an important event."
+        },
+        {
+          "setting": "social",
+          "where": "Anniversary dinner",
+          "sentence": "He pulled out all the stops for their anniversary: violinist, roses, the lot.",
+          "highlight": "pulled out all the stops",
+          "tip": "Great for describing lavish gestures."
+        },
+        {
+          "setting": "writing",
+          "where": "Event coverage",
+          "sentence": "The city pulled out all the stops for the parade, closing streets and hiring three bands.",
+          "highlight": "pulled out all the stops",
+          "tip": "Neutral enough for journalism."
+        }
+      ],
+      "origin": {
+        "summary": "On a pipe organ, ‘stops’ are knobs that let air into sets of pipes. Pulling them all out makes the instrument as loud and full as possible. The figurative sense is recorded from the 1800s.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "1500s", "text": "Church organs use stops to select sets of pipes." },
+          { "when": "1800s", "text": "‘Pull out all the stops’ is used figuratively for giving everything." },
+          { "when": "Today", "text": "Common for any all-out effort." }
+        ]
+      },
+      "forms": [
+        { "term": "all-stops-out", "label": "adjective · rare" }
+      ],
+      "similar": ["Go all out", "Go the extra mile", "Spare no effort"],
+      "pitfall": "It’s not ‘pull up stops’ and has nothing to do with bus stops or stopping."
+    },
+    {
+      "id": "steal-someones-thunder",
+      "kind": "idiom",
+      "term": "Steal someone’s thunder",
+      "pos": "idiom",
+      "hint": "a theatre feud",
+      "register": "Everyday",
+      "meaning": "To take attention or credit away from someone, often by doing or saying their thing first.",
+      "literal": "Stealing the sound of thunder itself.",
+      "nuance": "Mildly accusatory. Often used when someone pre-empts another person’s big moment.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "All-hands meeting",
+          "sentence": "I don’t want to steal Maria’s thunder, so I’ll let her announce the launch numbers.",
+          "highlight": "steal Maria’s thunder",
+          "tip": "Saying you don’t want to is a gracious way to hand over the spotlight."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding gossip",
+          "sentence": "Announcing your pregnancy at your sister’s wedding totally stole her thunder.",
+          "highlight": "stole her thunder",
+          "tip": "Classic for upstaging at big life events."
+        },
+        {
+          "setting": "writing",
+          "where": "Tech news",
+          "sentence": "A rival leak stole the company’s thunder a day before its keynote.",
+          "highlight": "stole the company’s thunder",
+          "tip": "Works for organisations as well as people."
+        }
+      ],
+      "origin": {
+        "summary": "Playwright John Dennis invented a new thunder sound effect for his 1709 play Appius and Virginia. The play flopped, but the theatre reused his thunder in Macbeth, and he reportedly complained they ‘steal my thunder’.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "1709", "text": "John Dennis’s Appius and Virginia premieres with his new thunder machine." },
+          { "when": "Soon after", "text": "The play closes; the theatre uses his thunder effect in a production of Macbeth." },
+          { "when": "1700s", "text": "Dennis’s outburst is retold and ‘steal my thunder’ becomes a saying." },
+          { "when": "Today", "text": "Means upstaging anyone, anywhere." }
+        ]
+      },
+      "similar": ["Upstage someone", "Rain on someone’s parade"],
+      "pitfall": "‘Rain on someone’s parade’ means spoiling their happiness; stealing thunder means taking their attention."
+    },
+    {
+      "id": "the-whole-nine-yards",
+      "kind": "idiom",
+      "term": "The whole nine yards",
+      "pos": "idiom",
+      "hint": "nobody knows which yards",
+      "register": "Casual",
+      "meaning": "Everything; the full amount or the complete set.",
+      "literal": "Nine yards of some unspecified thing.",
+      "nuance": "Casual and enthusiastic. Usually tacked onto the end of a list.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Kickoff for a rebrand",
+          "sentence": "They want new logos, a website, packaging — the whole nine yards.",
+          "highlight": "the whole nine yards",
+          "tip": "Typically closes a list."
+        },
+        {
+          "setting": "social",
+          "where": "Describing a wedding",
+          "sentence": "Fireworks, a string quartet, an ice sculpture: they went the whole nine yards.",
+          "highlight": "the whole nine yards",
+          "tip": "‘Go the whole nine yards’ means do everything possible."
+        },
+        {
+          "setting": "writing",
+          "where": "Hotel review",
+          "sentence": "Breakfast in bed, spa access, late checkout — the package includes the whole nine yards.",
+          "highlight": "the whole nine yards",
+          "tip": "Fine in casual reviews, too slangy for formal text."
+        }
+      ],
+      "origin": {
+        "summary": "Popular stories credit machine-gun belts, concrete trucks, kilts or sails, but none is proven. The phrase first appears in early-1900s American newspapers, alongside a ‘whole six yards’ version, so the number seems arbitrary.",
+        "confidence": "myth",
+        "timeline": [
+          { "when": "Early 1900s", "text": "‘The whole six yards’ and ‘the whole nine yards’ appear in US newspapers." },
+          { "when": "1960s", "text": "The phrase spreads widely, sparking origin theories." },
+          { "when": "Today", "text": "Wartime ammo-belt and cement-mixer stories remain unproven, and they postdate the earliest uses." }
+        ]
+      },
+      "similar": ["The full monty", "Everything but the kitchen sink", "The works"],
+      "pitfall": "‘Go the extra mile’ is about extra effort; ‘the whole nine yards’ is about including everything."
+    },
+    {
+      "id": "run-the-gauntlet",
+      "kind": "idiom",
+      "term": "Run the gauntlet",
+      "pos": "idiom",
+      "hint": "not about gloves",
+      "register": "Everyday",
+      "meaning": "To face a series of attacks, criticism or difficulties, one after another.",
+      "literal": "Running between two lines of people who strike you as you pass.",
+      "nuance": "Vivid and slightly dramatic. Suits ordeals with many obstacles or critics.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Hiring process",
+          "sentence": "Every new hire has to run the gauntlet of five interviews and a take-home test.",
+          "highlight": "run the gauntlet",
+          "tip": "Use ‘of’ to name the series of obstacles."
+        },
+        {
+          "setting": "social",
+          "where": "Leaving a nightclub",
+          "sentence": "We had to run the gauntlet of photographers and fans just to reach the taxi.",
+          "highlight": "run the gauntlet",
+          "tip": "Great for crowds or press packs."
+        },
+        {
+          "setting": "writing",
+          "where": "Politics coverage",
+          "sentence": "The minister ran the gauntlet of protesters outside parliament.",
+          "highlight": "ran the gauntlet",
+          "tip": "A favourite in British news reporting."
+        }
+      ],
+      "origin": {
+        "summary": "From the Swedish ‘gatlopp’ (lane-run), a military punishment where offenders ran between rows of soldiers who hit them. English borrowed it in the 1600s as ‘gantlope’, which drifted into ‘gauntlet’ by confusion with the armoured glove.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Early 1600s", "text": "The Swedish army punishment ‘gatlopp’ is seen during the Thirty Years’ War." },
+          { "when": "Mid-1600s", "text": "English adopts it as ‘run the gantlope’." },
+          { "when": "1700s", "text": "The spelling shifts to ‘gauntlet’, influenced by the glove word." },
+          { "when": "Today", "text": "Means facing any series of hostile obstacles." }
+        ]
+      },
+      "forms": [
+        { "term": "run the gantlet", "label": "older or American spelling" }
+      ],
+      "similar": ["Face the music", "Trial by fire"],
+      "pitfall": "‘Throw down the gauntlet’ comes from the glove and means issuing a challenge — a different word entirely."
+    },
+    {
+      "id": "break-a-leg",
+      "kind": "idiom",
+      "term": "Break a leg",
+      "pos": "idiom",
+      "hint": "a very kind curse",
+      "register": "Casual",
+      "meaning": "Good luck, said especially to performers before a show.",
+      "literal": "Wishing someone a broken leg.",
+      "nuance": "Friendly and theatrical. Rooted in the superstition that saying ‘good luck’ directly is bad luck.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Before a big presentation",
+          "sentence": "Break a leg in the board meeting — you’ve rehearsed this a dozen times.",
+          "highlight": "Break a leg",
+          "tip": "Fine for any performance-like moment, not just the stage."
+        },
+        {
+          "setting": "social",
+          "where": "Texting a friend before her gig",
+          "sentence": "Break a leg tonight, I’ll be in the front row!",
+          "highlight": "Break a leg",
+          "tip": "Never use it before something actually physical and risky."
+        },
+        {
+          "setting": "writing",
+          "where": "Cast newsletter",
+          "sentence": "To everyone opening on Friday: break a leg, and enjoy every minute.",
+          "highlight": "break a leg",
+          "tip": "Common in theatre programmes and notes."
+        }
+      ],
+      "origin": {
+        "summary": "Popular stories involve John Wilkes Booth’s leap, bending the knee to bow, or ‘breaking’ the leg-line of the stage. None is proven. The phrase is recorded from the 1920s, likely from the superstition against wishing actors good luck.",
+        "confidence": "myth",
+        "timeline": [
+          { "when": "Earlier", "text": "Theatre folk avoid saying ‘good luck’, considering it unlucky." },
+          { "when": "1920s", "text": "‘Break a leg’ appears in print as a good-luck wish." },
+          { "when": "1940s", "text": "Becomes standard backstage, especially in American theatre." },
+          { "when": "Today", "text": "Origin stories multiply, but none has evidence behind it." }
+        ]
+      },
+      "similar": ["Knock ’em dead", "Good luck", "Merde (in ballet)"],
+      "pitfall": "Not ‘break your neck’, which means rushing dangerously fast."
+    }
+  ]
+}

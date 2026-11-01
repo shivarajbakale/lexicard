@@ -1,0 +1,594 @@
+{
+  "id": "workplace-clarity",
+  "kind": "word",
+  "name": "Workplace clarity",
+  "blurb": "Meetings, feedback, email",
+  "cards": [
+    {
+      "id": "concise",
+      "kind": "word",
+      "term": "Concise",
+      "pos": "adjective",
+      "phonetic": "/kənˈsaɪs/",
+      "register": "Common at work",
+      "meaning": "Giving the important information clearly, in as few words as possible.",
+      "nuance": "Pure praise for writing and speaking. Asking someone to be more concise is a gentle way to say they ramble.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Exec update · preparing slides",
+          "sentence": "Keep the summary concise: three bullets, one ask, and the deadline.",
+          "highlight": "concise",
+          "tip": "Pair it with a concrete limit so people know what concise means to you."
+        },
+        {
+          "setting": "social",
+          "where": "Group chat · planning a weekend",
+          "sentence": "To put it concisely: we’re late, it’s raining, and I’ve found a bar.",
+          "highlight": "concisely",
+          "tip": "“To put it concisely” works as a funny setup for a quick summary."
+        },
+        {
+          "setting": "writing",
+          "where": "Feedback on a report · comment in the margin",
+          "sentence": "Great analysis, but the intro could be more concise; cut the history and lead with the finding.",
+          "highlight": "concise",
+          "tip": "Soften it by praising the content first."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin concisus, ‘cut up, cut short’, from concidere, built on caedere, ‘to cut’.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Latin", "text": "concidere, ‘to cut up’." },
+          { "when": "1500s", "text": "Enters English for brief, compact speech or writing." },
+          { "when": "Today", "text": "A core quality of good business writing." }
+        ]
+      },
+      "forms": [
+        { "term": "concisely", "label": "adverb" },
+        { "term": "concision", "label": "noun" },
+        { "term": "conciseness", "label": "noun" }
+      ],
+      "similar": ["brief", "succinct", "to the point", "crisp"],
+      "opposite": "wordy",
+      "pitfall": "Concise means short and clear; precise means exact. A message can be one without the other."
+    },
+    {
+      "id": "feasible",
+      "kind": "word",
+      "term": "Feasible",
+      "pos": "adjective",
+      "phonetic": "/ˈfizəbəl/",
+      "register": "Common at work",
+      "meaning": "Possible to do in practice, given the time, money and people available.",
+      "nuance": "More grounded than possible: it asks whether we can realistically pull it off. Not feasible is a polite no.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning call · reviewing a deadline",
+          "sentence": "Launching by Friday isn’t feasible without dropping the reporting feature.",
+          "highlight": "feasible",
+          "tip": "Say what would make it feasible, not just that it isn’t."
+        },
+        {
+          "setting": "social",
+          "where": "Family chat · holiday plans",
+          "sentence": "Is it even feasible to drive there and back in a day with the kids?",
+          "highlight": "feasible",
+          "tip": "Works for any plan that might be too ambitious."
+        },
+        {
+          "setting": "writing",
+          "where": "Project proposal · next steps",
+          "sentence": "We recommend a two-week study to test the feasibility of moving suppliers.",
+          "highlight": "feasibility",
+          "tip": "A feasibility study checks whether a plan can work before you commit."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French faisible, ‘that can be done’, from faire, ‘to do’, which comes from Latin facere.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Latin", "text": "facere, ‘to do, make’." },
+          { "when": "Old French", "text": "faisible, ‘doable’." },
+          { "when": "1400s", "text": "Enters English with the same meaning." }
+        ]
+      },
+      "forms": [
+        { "term": "feasibility", "label": "noun" },
+        { "term": "feasibly", "label": "adverb" }
+      ],
+      "similar": ["doable", "achievable", "realistic", "workable"],
+      "opposite": "unworkable",
+      "pitfall": "Feasible means can be done, not likely to happen; a plan can be feasible and still a bad idea."
+    },
+    {
+      "id": "mitigate",
+      "kind": "word",
+      "term": "Mitigate",
+      "pos": "verb",
+      "phonetic": "/ˈmɪtɪˌɡeɪt/",
+      "register": "Common at work",
+      "meaning": "To make something bad less severe, harmful or painful.",
+      "nuance": "Sounds calm and in control. It admits a problem exists while showing you have a plan to reduce it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Risk review · project kickoff",
+          "sentence": "To mitigate the risk of delays, we’ll order the hardware this week.",
+          "highlight": "mitigate",
+          "tip": "Name the risk, then the action that mitigates it."
+        },
+        {
+          "setting": "social",
+          "where": "Chatting with a neighbor · noisy renovation",
+          "sentence": "We’re doing the loud work before noon to mitigate the noise for everyone.",
+          "highlight": "mitigate",
+          "tip": "A slightly formal but friendly way to show consideration."
+        },
+        {
+          "setting": "writing",
+          "where": "Incident report · after an outage",
+          "sentence": "The impact was mitigated by switching traffic to the backup region within ten minutes.",
+          "highlight": "mitigated",
+          "tip": "Common in reports; follow it with the specific step taken."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin mitigare, ‘to soften, make mild’, from mitis, ‘mild, gentle’.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Latin", "text": "mitis, ‘mild’; mitigare, ‘to make mild’." },
+          { "when": "1400s", "text": "Enters English for easing pain or punishment." },
+          { "when": "Today", "text": "Standard in risk, safety and business language." }
+        ]
+      },
+      "forms": [
+        { "term": "mitigation", "label": "noun" },
+        { "term": "mitigating", "label": "adjective" }
+      ],
+      "similar": ["reduce", "lessen", "ease", "soften"],
+      "opposite": "aggravate",
+      "pitfall": "Don’t confuse it with militate (against), which means to be a strong factor preventing something."
+    },
+    {
+      "id": "delegate",
+      "kind": "word",
+      "term": "Delegate",
+      "pos": "verb",
+      "phonetic": "/ˈdɛlɪˌɡeɪt/",
+      "register": "Common at work",
+      "meaning": "To give part of your work, responsibility or authority to someone else.",
+      "nuance": "A sign of trust and good management when done well; it can feel like dumping work if you only pass on the boring parts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "One-to-one · new team lead",
+          "sentence": "You can’t do every review yourself; delegate the smaller ones to Leo and Ana.",
+          "highlight": "delegate",
+          "tip": "Delegate the outcome, not just the task, so people own it."
+        },
+        {
+          "setting": "social",
+          "where": "Hosting a party · kitchen chaos",
+          "sentence": "I’ve delegated drinks to my brother, so I only have to worry about the food.",
+          "highlight": "delegated",
+          "tip": "Playful at home; it makes chores sound like management."
+        },
+        {
+          "setting": "writing",
+          "where": "Out-of-office email · leave cover",
+          "sentence": "While I’m away, approvals are delegated to Chris, who can sign off anything under budget.",
+          "highlight": "delegated",
+          "tip": "Make clear who has authority, not just who is around."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin delegare, ‘to send away, entrust’, from de-, ‘away’, and legare, ‘to send as an envoy’.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Latin", "text": "legare, ‘to appoint, send as envoy’." },
+          { "when": "1400s", "text": "Delegate enters English as a noun for a representative." },
+          { "when": "1500s", "text": "The verb, ‘to entrust to another’, follows." }
+        ]
+      },
+      "forms": [
+        { "term": "delegation", "label": "noun" },
+        { "term": "delegate", "label": "noun (representative)" }
+      ],
+      "similar": ["hand off", "assign", "entrust", "pass on"],
+      "opposite": "micromanage",
+      "pitfall": "The verb ends in ‘gate’ (DEL-uh-gate); the noun, a representative, ends in ‘git’ (DEL-uh-git)."
+    },
+    {
+      "id": "cohesive",
+      "kind": "word",
+      "term": "Cohesive",
+      "pos": "adjective",
+      "phonetic": "/koʊˈhisɪv/",
+      "register": "Common at work",
+      "meaning": "Forming a united whole; working well together as one group or piece.",
+      "nuance": "Positive and team-focused. Often used about teams, designs and stories that hang together.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Leadership meeting · after a reorg",
+          "sentence": "The new squad is finally feeling cohesive, and handoffs have gotten much faster.",
+          "highlight": "cohesive",
+          "tip": "Good for describing team health without sounding fluffy."
+        },
+        {
+          "setting": "social",
+          "where": "Redecorating · with a partner",
+          "sentence": "If we keep the wood tones, the living room will look more cohesive.",
+          "highlight": "cohesive",
+          "tip": "Common in design talk for things that match and belong together."
+        },
+        {
+          "setting": "writing",
+          "where": "Brand guidelines · introduction",
+          "sentence": "Using one font family keeps our materials cohesive across web and print.",
+          "highlight": "cohesive",
+          "tip": "Explains why consistency rules matter."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin cohaerere, ‘to stick together’, from co-, ‘together’, and haerere, ‘to stick’. Cohere and adhere share the root.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Latin", "text": "haerere, ‘to stick’; cohaerere, ‘to stick together’." },
+          { "when": "1600s", "text": "Cohesion appears in English, first in physics." },
+          { "when": "1700s onward", "text": "Cohesive is used for things and groups that hold together." }
+        ]
+      },
+      "forms": [
+        { "term": "cohesion", "label": "noun" },
+        { "term": "cohesiveness", "label": "noun" }
+      ],
+      "similar": ["united", "unified", "integrated", "tight-knit"],
+      "opposite": "fragmented",
+      "pitfall": "Cohesive means sticking together as a group; coherent means logical and easy to follow."
+    },
+    {
+      "id": "tangible",
+      "kind": "word",
+      "term": "Tangible",
+      "pos": "adjective",
+      "phonetic": "/ˈtændʒəbəl/",
+      "register": "Common at work",
+      "meaning": "Real and clear enough to be seen, measured or proven, not just talked about.",
+      "nuance": "Pushes vague talk toward real results. Literally it means something you can touch.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Quarterly review · setting goals",
+          "sentence": "Let’s agree on one tangible outcome for this quarter, like cutting support tickets by a fifth.",
+          "highlight": "tangible",
+          "tip": "Ask for something tangible when a plan feels like buzzwords."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up · a friend’s new habit",
+          "sentence": "After a month of walking to work, she says the difference in her mood is tangible.",
+          "highlight": "tangible",
+          "tip": "Use it for changes that are clearly noticeable."
+        },
+        {
+          "setting": "writing",
+          "where": "Grant application · impact section",
+          "sentence": "The project delivered tangible benefits, including forty new library cards in its first month.",
+          "highlight": "tangible",
+          "tip": "Always follow tangible with an actual number or example."
+        }
+      ],
+      "origin": {
+        "summary": "From Late Latin tangibilis, ‘that can be touched’, from tangere, ‘to touch’. Tangent and contact share the root.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Latin", "text": "tangere, ‘to touch’." },
+          { "when": "1500s", "text": "Enters English meaning able to be touched." },
+          { "when": "Later", "text": "Extends to ‘real, definite, measurable’." }
+        ]
+      },
+      "forms": [
+        { "term": "tangibly", "label": "adverb" },
+        { "term": "intangible", "label": "opposite adjective" }
+      ],
+      "similar": ["concrete", "real", "measurable", "palpable"],
+      "opposite": "intangible"
+    },
+    {
+      "id": "prioritize",
+      "kind": "word",
+      "term": "Prioritize",
+      "pos": "verb",
+      "phonetic": "/praɪˈɔrəˌtaɪz/",
+      "register": "Common at work",
+      "meaning": "To decide which things are most important and deal with them first.",
+      "nuance": "Implies choosing, which means something else waits. Saying everything is a priority usually means nothing is.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Sprint planning · too many tickets",
+          "sentence": "We can’t do all twelve, so let’s prioritize the three that block customers.",
+          "highlight": "prioritize",
+          "tip": "Say what you’re dropping as well as what you’re keeping."
+        },
+        {
+          "setting": "social",
+          "where": "Phone call · busy month",
+          "sentence": "I’m prioritizing sleep this week, so I’ll skip Thursday drinks.",
+          "highlight": "prioritizing",
+          "tip": "A kind, firm way to turn down plans."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to your manager · workload",
+          "sentence": "Could you help me prioritize? The audit and the launch are both due Friday.",
+          "highlight": "prioritize",
+          "tip": "Asking a manager to prioritize hands them the trade-off they own."
+        }
+      ],
+      "origin": {
+        "summary": "Built in English from priority, which comes via Medieval Latin prioritas from prior, ‘earlier, first’. The verb is a 20th-century coinage.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Latin", "text": "prior, ‘former, first’." },
+          { "when": "1300s", "text": "Priority enters English." },
+          { "when": "Mid-1900s", "text": "Prioritize appears, first criticized as jargon, now standard." }
+        ]
+      },
+      "forms": [
+        { "term": "priority", "label": "noun" },
+        { "term": "prioritization", "label": "noun" }
+      ],
+      "similar": ["rank", "put first", "focus on", "triage"],
+      "opposite": "deprioritize",
+      "pitfall": "British English often spells it prioritise; pick one spelling and stick to it in a document."
+    },
+    {
+      "id": "viable",
+      "kind": "word",
+      "term": "Viable",
+      "pos": "adjective",
+      "phonetic": "/ˈvaɪəbəl/",
+      "register": "Common at work",
+      "meaning": "Able to work successfully and keep going, especially in practical or financial terms.",
+      "nuance": "Focuses on whether something can survive and last, not just start. Common for plans, businesses and options.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Investor meeting · pricing model",
+          "sentence": "At that price the subscription isn’t viable; we’d lose money on every customer.",
+          "highlight": "viable",
+          "tip": "Use it when the question is whether something can sustain itself."
+        },
+        {
+          "setting": "social",
+          "where": "Talking with friends · getting home",
+          "sentence": "The night bus is the only viable option after midnight.",
+          "highlight": "viable",
+          "tip": "“The only viable option” is a very natural pairing."
+        },
+        {
+          "setting": "writing",
+          "where": "Business plan · market section",
+          "sentence": "Early sign-ups suggest a viable market for weekend repair classes.",
+          "highlight": "viable",
+          "tip": "Support it with evidence such as numbers or early demand."
+        }
+      ],
+      "origin": {
+        "summary": "From French viable, ‘able to live’, from vie, ‘life’, which comes from Latin vita. It first described newborns and seeds able to survive.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Latin", "text": "vita, ‘life’." },
+          { "when": "Early 1800s", "text": "Enters English for living things able to survive." },
+          { "when": "Later 1800s", "text": "Extends to plans and ideas that can work." }
+        ]
+      },
+      "forms": [
+        { "term": "viability", "label": "noun" }
+      ],
+      "similar": ["workable", "feasible", "sustainable", "practicable"],
+      "opposite": "unviable",
+      "pitfall": "Feasible asks whether it can be done; viable asks whether it can keep working once it is."
+    },
+    {
+      "id": "articulate",
+      "kind": "word",
+      "term": "Articulate",
+      "pos": "verb",
+      "phonetic": "/ɑrˈtɪkjəˌleɪt/",
+      "register": "Slightly formal",
+      "meaning": "To express an idea or feeling clearly in words.",
+      "nuance": "Suggests turning something fuzzy into something clear. Useful when you or others are struggling to explain.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Design critique · unclear feedback",
+          "sentence": "Something feels off but I can’t articulate it yet; give me a minute to look again.",
+          "highlight": "articulate",
+          "tip": "An honest way to buy time without dismissing your instinct."
+        },
+        {
+          "setting": "social",
+          "where": "Late-night chat · a close friend",
+          "sentence": "You articulated exactly what I’ve been feeling about my job.",
+          "highlight": "articulated",
+          "tip": "A warm compliment when someone puts your thoughts into words."
+        },
+        {
+          "setting": "writing",
+          "where": "Strategy doc · opening paragraph",
+          "sentence": "This document aims to articulate why we are moving to a single product line.",
+          "highlight": "articulate",
+          "tip": "Common in mission and strategy writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin articulatus, ‘jointed, divided into distinct parts’, from articulus, ‘small joint’. Clear speech is speech divided into distinct sounds.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Latin", "text": "articulus, ‘small joint’, from artus, ‘joint’." },
+          { "when": "1500s", "text": "Enters English for jointed things and distinct speech." },
+          { "when": "Today", "text": "Mostly means expressing ideas clearly." }
+        ]
+      },
+      "forms": [
+        { "term": "articulate", "label": "adjective" },
+        { "term": "articulation", "label": "noun" },
+        { "term": "articulately", "label": "adverb" }
+      ],
+      "similar": ["express", "put into words", "spell out", "convey"],
+      "pitfall": "The adjective (good at speaking) ends in ‘-lit’; the verb ends in ‘-late’. Praising someone as articulate can sound patronizing if it implies surprise."
+    },
+    {
+      "id": "consensus",
+      "kind": "word",
+      "term": "Consensus",
+      "pos": "noun",
+      "phonetic": "/kənˈsɛnsəs/",
+      "register": "Common at work",
+      "meaning": "General agreement among a group of people.",
+      "nuance": "Suggests everyone can live with the decision, not that everyone loves it. Waiting for full consensus can slow teams down.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Decision meeting · choosing a vendor",
+          "sentence": "I think we have consensus on vendor B, so let’s confirm in writing today.",
+          "highlight": "consensus",
+          "tip": "Check out loud before assuming you have it."
+        },
+        {
+          "setting": "social",
+          "where": "Friends choosing a restaurant · group chat",
+          "sentence": "The consensus seems to be Thai, unless anyone strongly objects.",
+          "highlight": "consensus",
+          "tip": "“The consensus seems to be” moves a group to a choice gently."
+        },
+        {
+          "setting": "writing",
+          "where": "Meeting notes · summary",
+          "sentence": "There was broad consensus on the timeline, but budget remains open.",
+          "highlight": "consensus",
+          "tip": "Broad consensus signals most, not all, people agree."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin consensus, ‘agreement’, from consentire, ‘to feel together, agree’, from con-, ‘together’, and sentire, ‘to feel’.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Latin", "text": "consentire, ‘to agree’." },
+          { "when": "1800s", "text": "Becomes common in English for group agreement." },
+          { "when": "Today", "text": "Everyday in meetings and politics." }
+        ]
+      },
+      "forms": [
+        { "term": "consensual", "label": "adjective" },
+        { "term": "consent", "label": "related noun/verb" }
+      ],
+      "similar": ["agreement", "accord", "common ground", "unanimity"],
+      "opposite": "disagreement",
+      "pitfall": "It’s spelled consensus, not concensus. And general consensus of opinion is redundant; consensus is enough."
+    },
+    {
+      "id": "scrutinize",
+      "kind": "word",
+      "term": "Scrutinize",
+      "pos": "verb",
+      "phonetic": "/ˈskrutəˌnaɪz/",
+      "register": "Slightly formal",
+      "meaning": "To examine something very carefully and in detail, often looking for problems.",
+      "nuance": "Implies close, critical attention. Being scrutinized can feel uncomfortable, so it sounds tougher than check.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Contract review · before signing",
+          "sentence": "Legal will scrutinize every clause, so flag anything unusual before we send it.",
+          "highlight": "scrutinize",
+          "tip": "A useful warning that something will face close review."
+        },
+        {
+          "setting": "social",
+          "where": "Meeting the parents · telling a friend",
+          "sentence": "Her dad scrutinized me all evening, but I think I passed.",
+          "highlight": "scrutinized",
+          "tip": "Fun for describing being sized up."
+        },
+        {
+          "setting": "writing",
+          "where": "News article · public spending",
+          "sentence": "The new contract will face public scrutiny when the council meets next week.",
+          "highlight": "scrutiny",
+          "tip": "Face scrutiny and come under scrutiny are common phrases."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin scrutinium, ‘a search’, from scrutari, ‘to search, examine’. That verb is often linked to scruta, ‘rags, trash’, as if picking through rubbish, though the link is uncertain.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Latin", "text": "scrutari, ‘to search carefully’." },
+          { "when": "1400s", "text": "Scrutiny enters English, first for vote counting and inquiry." },
+          { "when": "1600s", "text": "The verb scrutinize appears." }
+        ]
+      },
+      "forms": [
+        { "term": "scrutiny", "label": "noun" }
+      ],
+      "similar": ["examine", "inspect", "study", "go over"],
+      "opposite": "skim",
+      "pitfall": "It means looking closely, not glancing; don’t say you scrutinized something you only skimmed."
+    },
+    {
+      "id": "proactive",
+      "kind": "word",
+      "term": "Proactive",
+      "pos": "adjective",
+      "phonetic": "/proʊˈæktɪv/",
+      "register": "Common at work",
+      "meaning": "Acting early to prepare for or prevent a problem, instead of waiting to react.",
+      "nuance": "Real praise when tied to a specific action; on its own it can sound like empty office jargon.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · giving praise",
+          "sentence": "You were proactive about the security update, and it saved us a stressful weekend.",
+          "highlight": "proactive",
+          "tip": "Name the action so the praise feels real."
+        },
+        {
+          "setting": "social",
+          "where": "Chatting with a friend · health check",
+          "sentence": "I’m trying to be more proactive about my health, so I booked a check-up.",
+          "highlight": "proactive",
+          "tip": "Works well for personal habits and admin."
+        },
+        {
+          "setting": "writing",
+          "where": "Customer email · planned maintenance",
+          "sentence": "We’re proactively letting you know that the app will be down on Sunday morning.",
+          "highlight": "proactively",
+          "tip": "Shows customers you’re ahead of the problem."
+        }
+      ],
+      "origin": {
+        "summary": "Formed from pro-, ‘before’, and active. It began as a psychology term and became popular in business in the late 1900s.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "1930s", "text": "Used in psychology, as in proactive inhibition." },
+          { "when": "Late 1900s", "text": "Spreads into management and self-help writing." },
+          { "when": "Today", "text": "Standard workplace vocabulary." }
+        ]
+      },
+      "forms": [
+        { "term": "proactively", "label": "adverb" },
+        { "term": "proactivity", "label": "noun" }
+      ],
+      "similar": ["forward-thinking", "anticipatory", "on the front foot", "enterprising"],
+      "opposite": "reactive",
+      "pitfall": "Overused in job ads and reviews; show proactive behavior with an example rather than just claiming it."
+    }
+  ]
+}

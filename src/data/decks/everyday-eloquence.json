@@ -1,0 +1,593 @@
+{
+  "id": "everyday-eloquence",
+  "kind": "word",
+  "name": "Everyday eloquence",
+  "blurb": "Sharper words for normal days",
+  "cards": [
+    {
+      "id": "pragmatic",
+      "kind": "word",
+      "term": "Pragmatic",
+      "pos": "adjective",
+      "phonetic": "/præɡˈmætɪk/",
+      "register": "Common at work",
+      "meaning": "Dealing with things in a sensible, practical way based on what actually works, rather than on theory or ideals.",
+      "nuance": "Usually a compliment that suggests good judgement. Used about yourself it can sound like an excuse for cutting corners.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · scoping a release",
+          "sentence": "Let’s be pragmatic and ship the core feature now, then polish the settings page next sprint.",
+          "highlight": "pragmatic",
+          "tip": "Use it to steer a group from the ideal plan to the doable one."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · planning a trip",
+          "sentence": "Pragmatically, we can’t do three cities in four days, so let’s pick two.",
+          "highlight": "Pragmatically",
+          "tip": "The adverb works well at the start of a sentence to signal a reality check."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a landlord · repair request",
+          "sentence": "A pragmatic solution would be to replace the seal now and review the whole boiler in spring.",
+          "highlight": "pragmatic",
+          "tip": "Pairs naturally with solution, approach, choice and compromise."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek pragmatikos, ‘fit for business’, built on pragma, ‘a deed or affair’. It reached English through Latin pragmaticus.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Greek", "text": "pragma, ‘thing done, business’, from prassein, ‘to do’." },
+          { "when": "1500s–1600s", "text": "Enters English, first in legal and official senses." },
+          { "when": "Today", "text": "Mainly means practical and realistic." }
+        ]
+      },
+      "forms": [
+        { "term": "pragmatism", "label": "noun" },
+        { "term": "pragmatist", "label": "noun (person)" },
+        { "term": "pragmatically", "label": "adverb" }
+      ],
+      "similar": ["practical", "realistic", "sensible", "down-to-earth"],
+      "opposite": "idealistic",
+      "pitfall": "Don’t mix it up with programmatic, which means following a program or done by code."
+    },
+    {
+      "id": "candid",
+      "kind": "word",
+      "term": "Candid",
+      "pos": "adjective",
+      "phonetic": "/ˈkændɪd/",
+      "register": "Everyday",
+      "meaning": "Honest and direct, saying what you really think even when it isn’t comfortable.",
+      "nuance": "Warmer than blunt: it suggests honesty with good intent. A candid photo is one taken naturally, without posing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "One-to-one · asking for feedback",
+          "sentence": "Can I be candid? The deck is strong, but the pricing slide will confuse people.",
+          "highlight": "candid",
+          "tip": "“Can I be candid?” is a polite way to warn someone that honest feedback is coming."
+        },
+        {
+          "setting": "social",
+          "where": "Coffee with a friend · catching up",
+          "sentence": "She was really candid about how hard the first year with the baby had been.",
+          "highlight": "candid",
+          "tip": "Often used to praise someone for opening up."
+        },
+        {
+          "setting": "writing",
+          "where": "Book review · personal blog",
+          "sentence": "The memoir is candid and funny, and it never feels like it’s fishing for sympathy.",
+          "highlight": "candid",
+          "tip": "A good word for describing interviews, memoirs and conversations."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin candidus, ‘white, shining, pure’. The idea of purity shifted to ‘free from bias’ and then to ‘frank’.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Latin", "text": "candidus, ‘white, bright’, from candere, ‘to shine’." },
+          { "when": "1600s", "text": "Used in English to mean white, then pure or fair-minded." },
+          { "when": "1700s", "text": "The modern sense of ‘frank, outspoken’ takes over." }
+        ]
+      },
+      "forms": [
+        { "term": "candidly", "label": "adverb" },
+        { "term": "candor", "label": "noun" }
+      ],
+      "similar": ["frank", "open", "honest", "forthright"],
+      "opposite": "guarded",
+      "pitfall": "Candid isn’t a license to be harsh: candid implies honesty with care, while blunt or brutal suggests not caring how it lands."
+    },
+    {
+      "id": "meticulous",
+      "kind": "word",
+      "term": "Meticulous",
+      "pos": "adjective",
+      "phonetic": "/məˈtɪkjələs/",
+      "register": "Slightly formal",
+      "meaning": "Very careful and precise, paying close attention to every small detail.",
+      "nuance": "Almost always praise. If you mean someone is too careful, choose fussy or pedantic instead.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · praising a colleague",
+          "sentence": "Priya’s notes on the audit were meticulous, so we caught the error before it reached the client.",
+          "highlight": "meticulous",
+          "tip": "Strong praise for reviewers, editors, accountants and anyone who checks things."
+        },
+        {
+          "setting": "social",
+          "where": "Visiting a friend · admiring their home",
+          "sentence": "He meticulously restored every chair in the apartment himself.",
+          "highlight": "meticulously",
+          "tip": "The adverb fits craft and hobbies: restored, planned, labeled."
+        },
+        {
+          "setting": "writing",
+          "where": "Cover letter · describing yourself",
+          "sentence": "I keep meticulous records, which made handover painless when I changed teams.",
+          "highlight": "meticulous",
+          "tip": "Back it up with a concrete result so it doesn’t read as an empty claim."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin meticulosus, ‘fearful, timid’, from metus, ‘fear’. Being afraid of mistakes slowly became being careful about details.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Latin", "text": "meticulosus, ‘full of fear’." },
+          { "when": "1500s", "text": "Appears in English meaning timid or fearful." },
+          { "when": "1800s", "text": "Takes on the modern sense of extremely careful, partly via French méticuleux." }
+        ]
+      },
+      "forms": [
+        { "term": "meticulously", "label": "adverb" },
+        { "term": "meticulousness", "label": "noun" }
+      ],
+      "similar": ["thorough", "painstaking", "precise", "scrupulous"],
+      "opposite": "careless"
+    },
+    {
+      "id": "ubiquitous",
+      "kind": "word",
+      "term": "Ubiquitous",
+      "pos": "adjective",
+      "phonetic": "/juˈbɪkwɪtəs/",
+      "register": "Slightly formal",
+      "meaning": "Seeming to be everywhere at the same time; extremely common.",
+      "nuance": "Often a little wry or tired, as if something is so common you can’t escape it. Fine in conversation if said lightly.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product meeting · market research",
+          "sentence": "QR menus are ubiquitous now, so customers already know how to use them.",
+          "highlight": "ubiquitous",
+          "tip": "Useful for saying something is so common it no longer needs explaining."
+        },
+        {
+          "setting": "social",
+          "where": "Walking around town · chatting",
+          "sentence": "Have you noticed how ubiquitous those electric scooters have become?",
+          "highlight": "ubiquitous",
+          "tip": "A playful way to complain about a trend."
+        },
+        {
+          "setting": "writing",
+          "where": "Opinion piece · local newsletter",
+          "sentence": "Smartphones are so ubiquitous that we forget how recently they arrived.",
+          "highlight": "ubiquitous",
+          "tip": "Strong as an opening line that sets up a contrast."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin ubique, ‘everywhere’. The noun ubiquity came first, in religious debates about God being present everywhere.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Latin", "text": "ubique, ‘everywhere’, from ubi, ‘where’." },
+          { "when": "1500s", "text": "Ubiquity used in theology for being everywhere at once." },
+          { "when": "1800s", "text": "Ubiquitous becomes a general word for ‘found everywhere’." }
+        ]
+      },
+      "forms": [
+        { "term": "ubiquity", "label": "noun" },
+        { "term": "ubiquitously", "label": "adverb" }
+      ],
+      "similar": ["everywhere", "pervasive", "widespread", "omnipresent"],
+      "opposite": "rare",
+      "pitfall": "Say it you-BIK-wit-us, starting with a ‘you’ sound, not ‘oo’."
+    },
+    {
+      "id": "ephemeral",
+      "kind": "word",
+      "term": "Ephemeral",
+      "pos": "adjective",
+      "phonetic": "/ɪˈfɛmərəl/",
+      "register": "Slightly formal",
+      "meaning": "Lasting for only a very short time.",
+      "nuance": "Has a slightly poetic, wistful feel. In tech it simply means temporary, like disappearing messages.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Marketing sync · social campaign",
+          "sentence": "Stories are ephemeral, so put the key offer in the pinned post as well.",
+          "highlight": "ephemeral",
+          "tip": "Handy for content or data that disappears after a while."
+        },
+        {
+          "setting": "social",
+          "where": "Picnic in the park · spring",
+          "sentence": "Cherry blossom is so ephemeral, we have to come back next weekend before it’s gone.",
+          "highlight": "ephemeral",
+          "tip": "Fits beautiful things that don’t last: blossom, sunsets, moods."
+        },
+        {
+          "setting": "writing",
+          "where": "Personal essay · reflecting on a trend",
+          "sentence": "Most viral fame is ephemeral; the people who last keep making things after the attention fades.",
+          "highlight": "ephemeral",
+          "tip": "Contrasts nicely with words like lasting or enduring."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek ephēmeros, ‘lasting only a day’, from epi, ‘on’, and hēmera, ‘day’. It was first used in English for short fevers.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Greek", "text": "ephēmeros, ‘for a day’." },
+          { "when": "1500s", "text": "Used in medicine for a fever lasting one day." },
+          { "when": "1600s onward", "text": "Widens to anything short-lived." }
+        ]
+      },
+      "forms": [
+        { "term": "ephemera", "label": "noun (short-lived items)" },
+        { "term": "ephemerally", "label": "adverb" }
+      ],
+      "similar": ["fleeting", "short-lived", "transient", "momentary"],
+      "opposite": "lasting",
+      "pitfall": "Don’t confuse it with ethereal, which means delicate and otherworldly, not short-lived."
+    },
+    {
+      "id": "nuance",
+      "kind": "word",
+      "term": "Nuance",
+      "pos": "noun",
+      "phonetic": "/ˈnuɑns/",
+      "register": "Everyday",
+      "meaning": "A small, subtle difference in meaning, feeling, tone or color.",
+      "nuance": "Saying something needs nuance politely suggests it is more complicated than it looks. Nuanced is praise for careful thinking.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Strategy meeting · reviewing survey data",
+          "sentence": "The headline number looks bad, but there’s nuance here: new users are actually happier.",
+          "highlight": "nuance",
+          "tip": "“There’s nuance here” slows a group down before it jumps to conclusions."
+        },
+        {
+          "setting": "social",
+          "where": "Book club · discussing a character",
+          "sentence": "I liked that the film gave the villain a more nuanced story.",
+          "highlight": "nuanced",
+          "tip": "Nuanced is the most common everyday form."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a friend · heated debate",
+          "sentence": "Twitter isn’t the place for nuance, so let’s talk about it properly over coffee.",
+          "highlight": "nuance",
+          "tip": "Use it to move a hard conversation somewhere better suited."
+        }
+      ],
+      "origin": {
+        "summary": "Borrowed from French nuance, ‘shade of color’, from nuer, ‘to shade’. That verb is usually traced to nue, ‘cloud’, from Latin nubes.",
+        "confidence": "likely",
+        "timeline": [
+          { "when": "Latin", "text": "nubes, ‘cloud’, probably the distant source." },
+          { "when": "French", "text": "nuance, ‘a shade or gradation of color’." },
+          { "when": "1700s", "text": "Enters English for subtle shades of meaning." }
+        ]
+      },
+      "forms": [
+        { "term": "nuanced", "label": "adjective" }
+      ],
+      "similar": ["subtlety", "shade", "distinction", "fine point"],
+      "pitfall": "Nuanced means carefully balanced, not vague; don’t use it to dodge giving a clear answer."
+    },
+    {
+      "id": "resilient",
+      "kind": "word",
+      "term": "Resilient",
+      "pos": "adjective",
+      "phonetic": "/rɪˈzɪljənt/",
+      "register": "Everyday",
+      "meaning": "Able to recover quickly from difficulty, shock or damage.",
+      "nuance": "Positive and hopeful. Be careful telling someone in pain to be resilient; it can sound like you’re dismissing their struggle.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Engineering review · after an outage",
+          "sentence": "We need a more resilient setup, so one failed server doesn’t take the whole site down.",
+          "highlight": "resilient",
+          "tip": "In tech it means systems that keep working when parts fail."
+        },
+        {
+          "setting": "social",
+          "where": "Chatting with a parent · school drop-off",
+          "sentence": "Kids are more resilient than we think; she’d forgotten the fall by lunchtime.",
+          "highlight": "resilient",
+          "tip": "A common, reassuring thing to say about children."
+        },
+        {
+          "setting": "writing",
+          "where": "LinkedIn post · career change",
+          "sentence": "That year taught me resilience more than any job I’ve had.",
+          "highlight": "resilience",
+          "tip": "The noun resilience is everywhere in professional writing; pair it with a real story."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin resilire, ‘to leap back, rebound’, from re-, ‘back’, and salire, ‘to jump’. It first described things springing back into shape.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Latin", "text": "resilire, ‘to jump back’." },
+          { "when": "1600s", "text": "Used in English for physical rebounding." },
+          { "when": "1800s onward", "text": "Applied to people bouncing back from hardship." }
+        ]
+      },
+      "forms": [
+        { "term": "resilience", "label": "noun" },
+        { "term": "resiliently", "label": "adverb" }
+      ],
+      "similar": ["tough", "hardy", "adaptable", "robust"],
+      "opposite": "fragile",
+      "pitfall": "Resilient means bouncing back after a hit; resistant means not being affected in the first place."
+    },
+    {
+      "id": "ambivalent",
+      "kind": "word",
+      "term": "Ambivalent",
+      "pos": "adjective",
+      "phonetic": "/æmˈbɪvələnt/",
+      "register": "Everyday",
+      "meaning": "Having mixed or opposite feelings about something at the same time.",
+      "nuance": "An honest, grown-up way to say you’re torn. It signals conflict, not lack of interest.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · new office layout",
+          "sentence": "I’m ambivalent about open desks: they help us talk, but focus time suffers.",
+          "highlight": "ambivalent",
+          "tip": "Follow it with both sides of your feeling."
+        },
+        {
+          "setting": "social",
+          "where": "Texting a friend · moving cities",
+          "sentence": "Honestly, I’m ambivalent about the move; I’m excited but I’ll miss everyone.",
+          "highlight": "ambivalent",
+          "tip": "Good for life decisions where you feel two things at once."
+        },
+        {
+          "setting": "writing",
+          "where": "Film review · newsletter",
+          "sentence": "The ending left me ambivalent, impressed by its nerve but unsure it earned it.",
+          "highlight": "ambivalent",
+          "tip": "Reviewers use it to give a fair, two-sided reaction."
+        }
+      ],
+      "origin": {
+        "summary": "Coined in German as Ambivalenz by the Swiss psychiatrist Eugen Bleuler around 1910, from Latin ambi-, ‘both’, and valentia, ‘strength’.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Latin", "text": "ambi-, ‘both’, and valere, ‘to be strong’." },
+          { "when": "Early 1900s", "text": "Bleuler uses Ambivalenz for conflicting feelings in psychiatry." },
+          { "when": "Today", "text": "Everyday word for mixed feelings." }
+        ]
+      },
+      "forms": [
+        { "term": "ambivalence", "label": "noun" },
+        { "term": "ambivalently", "label": "adverb" }
+      ],
+      "similar": ["torn", "conflicted", "in two minds", "uncertain"],
+      "opposite": "wholehearted",
+      "pitfall": "It doesn’t mean indifferent (not caring) or ambiguous (unclear in meaning); ambivalent means caring in two directions."
+    },
+    {
+      "id": "tenacious",
+      "kind": "word",
+      "term": "Tenacious",
+      "pos": "adjective",
+      "phonetic": "/təˈneɪʃəs/",
+      "register": "Slightly formal",
+      "meaning": "Refusing to give up; holding on firmly to a goal, idea or grip.",
+      "nuance": "Admiring, with a hint of stubbornness. Stronger and more active than patient.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Sales team call · celebrating a deal",
+          "sentence": "Sam was tenacious with that client, and after six months of follow-ups they finally signed.",
+          "highlight": "tenacious",
+          "tip": "Great for praising persistence without calling someone pushy."
+        },
+        {
+          "setting": "social",
+          "where": "Watching a match · with friends",
+          "sentence": "Their goalkeeper is tenacious; he never gives up on a ball.",
+          "highlight": "tenacious",
+          "tip": "Common in sports talk about defenders and underdogs."
+        },
+        {
+          "setting": "writing",
+          "where": "Reference letter · former intern",
+          "sentence": "She tackled problems with real tenacity and never left a bug half-fixed.",
+          "highlight": "tenacity",
+          "tip": "The noun tenacity reads well in recommendations."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin tenax, ‘holding fast’, from tenere, ‘to hold’, the same root as tenant and retain.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Latin", "text": "tenere, ‘to hold’; tenax, ‘gripping’." },
+          { "when": "1600s", "text": "Enters English for things that grip or stick." },
+          { "when": "Today", "text": "Mostly describes determined people." }
+        ]
+      },
+      "forms": [
+        { "term": "tenacity", "label": "noun" },
+        { "term": "tenaciously", "label": "adverb" }
+      ],
+      "similar": ["persistent", "determined", "dogged", "relentless"],
+      "opposite": "irresolute",
+      "pitfall": "Don’t confuse it with tenuous, which means weak or flimsy, as in a tenuous link."
+    },
+    {
+      "id": "frugal",
+      "kind": "word",
+      "term": "Frugal",
+      "pos": "adjective",
+      "phonetic": "/ˈfruɡəl/",
+      "register": "Everyday",
+      "meaning": "Careful with money or resources, avoiding waste and unnecessary spending.",
+      "nuance": "A respectful word for saving. Cheap and stingy are the insulting versions.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget review · next quarter",
+          "sentence": "We’ll need to be frugal with travel this quarter and hold most meetings online.",
+          "highlight": "frugal",
+          "tip": "A neutral way to announce cost-cutting."
+        },
+        {
+          "setting": "social",
+          "where": "Chatting with a roommate · saving up",
+          "sentence": "I’m being frugal until the trip, so it’s home-cooked dinners for me.",
+          "highlight": "frugal",
+          "tip": "Sounds disciplined rather than broke."
+        },
+        {
+          "setting": "writing",
+          "where": "Food blog · a simple recipe",
+          "sentence": "This frugal soup uses up whatever vegetables are left at the end of the week.",
+          "highlight": "frugal",
+          "tip": "Also describes meals or lifestyles that are simple and inexpensive."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin frugalis, ‘economical’, from frux, ‘fruit, produce’, and so ‘value, worth’.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Latin", "text": "frux, ‘fruit, produce’; frugalis, ‘thrifty’." },
+          { "when": "1500s", "text": "Enters English meaning economical." },
+          { "when": "Today", "text": "Common for careful spending and simple living." }
+        ]
+      },
+      "forms": [
+        { "term": "frugality", "label": "noun" },
+        { "term": "frugally", "label": "adverb" }
+      ],
+      "similar": ["thrifty", "economical", "careful", "sparing"],
+      "opposite": "extravagant",
+      "pitfall": "Frugal is respectful; cheap and stingy are insults. Don’t say frugal when you mean someone never pays their share."
+    },
+    {
+      "id": "gregarious",
+      "kind": "word",
+      "term": "Gregarious",
+      "pos": "adjective",
+      "phonetic": "/ɡrɪˈɡɛriəs/",
+      "register": "Slightly formal",
+      "meaning": "Enjoying the company of other people; sociable and outgoing.",
+      "nuance": "Warm and positive. A bit more formal than outgoing, so it can sound playful in casual talk.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Hiring debrief · discussing a candidate",
+          "sentence": "He’s gregarious and great with clients, but we should check he enjoys deep solo work too.",
+          "highlight": "gregarious",
+          "tip": "Useful when describing personality fit."
+        },
+        {
+          "setting": "social",
+          "where": "House party · introducing a friend",
+          "sentence": "You’ll love Maya, she’s the most gregarious person I know.",
+          "highlight": "gregarious",
+          "tip": "A flattering way to describe a friend who knows everyone."
+        },
+        {
+          "setting": "writing",
+          "where": "Nature article · animal behavior",
+          "sentence": "Starlings are gregarious birds, gathering in huge flocks over winter.",
+          "highlight": "gregarious",
+          "tip": "In biology it means living in groups, the word’s original sense."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin gregarius, ‘belonging to a flock’, from grex, ‘flock, herd’, the same root as congregate and aggregate.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Latin", "text": "grex, greg-, ‘flock, herd’." },
+          { "when": "1600s", "text": "Enters English for animals that live in flocks." },
+          { "when": "1700s onward", "text": "Used for sociable people." }
+        ]
+      },
+      "forms": [
+        { "term": "gregariousness", "label": "noun" },
+        { "term": "gregariously", "label": "adverb" }
+      ],
+      "similar": ["sociable", "outgoing", "convivial", "extroverted"],
+      "opposite": "reserved"
+    },
+    {
+      "id": "serendipity",
+      "kind": "word",
+      "term": "Serendipity",
+      "pos": "noun",
+      "phonetic": "/ˌsɛrənˈdɪpəti/",
+      "register": "Everyday",
+      "meaning": "The luck of finding something good or useful when you weren’t looking for it.",
+      "nuance": "Feels charming and a little magical. Works best for happy accidents, not just any good luck.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team retro · telling a story",
+          "sentence": "It was pure serendipity: I sat next to their CTO at a wedding and we ended up partnering.",
+          "highlight": "serendipity",
+          "tip": "“Pure serendipity” is the classic phrase."
+        },
+        {
+          "setting": "social",
+          "where": "Telling friends · how you met",
+          "sentence": "We met by a serendipitous mix-up over who had booked the last table.",
+          "highlight": "serendipitous",
+          "tip": "The adjective serendipitous suits meet-cute stories."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel blog · a day in Lisbon",
+          "sentence": "Leave room in your plans for serendipity; my best meal came from a wrong turn.",
+          "highlight": "serendipity",
+          "tip": "Good advice-style line in travel writing."
+        }
+      ],
+      "origin": {
+        "summary": "Coined by the writer Horace Walpole in a 1754 letter, inspired by the tale The Three Princes of Serendip, whose heroes kept making lucky discoveries. Serendip is an old name for Sri Lanka.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Persian tale", "text": "The Three Princes of Serendip, known in Europe through translations." },
+          { "when": "1754", "text": "Walpole coins serendipity in a letter." },
+          { "when": "1900s", "text": "Becomes widely used, especially for scientific discoveries." }
+        ]
+      },
+      "forms": [
+        { "term": "serendipitous", "label": "adjective" },
+        { "term": "serendipitously", "label": "adverb" }
+      ],
+      "similar": ["happy accident", "chance", "good fortune", "fluke"],
+      "opposite": "misfortune",
+      "pitfall": "It isn’t just luck; it is finding something good while looking for something else, or nothing at all."
+    }
+  ]
+}

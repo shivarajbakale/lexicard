@@ -1,0 +1,537 @@
+{
+  "id": "meeting-phrases",
+  "kind": "phrase",
+  "name": "Meeting phrases",
+  "blurb": "On the same page, circle back…",
+  "cards": [
+    {
+      "id": "on-the-same-page",
+      "kind": "phrase",
+      "term": "On the same page",
+      "pos": "phrase",
+      "hint": "agreement, not reading",
+      "register": "Common at work",
+      "meaning": "In agreement, or sharing the same understanding of a plan, goal or situation.",
+      "nuance": "Friendly and neutral; useful for checking alignment before moving on. Asking “Are we on the same page?” too often can sound like you doubt people were listening.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project kickoff · confirming scope",
+          "sentence": "Before we split up, let’s make sure we’re all on the same page about the launch date.",
+          "highlight": "on the same page",
+          "tip": "Use it as a check-in at the end of a discussion, not the start."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a trip with friends",
+          "sentence": "Just so we’re on the same page, nobody’s booking anything until we agree on the budget.",
+          "highlight": "on the same page",
+          "tip": "“Just so we’re on the same page” softens a firm reminder."
+        },
+        {
+          "setting": "writing",
+          "where": "Follow-up email after a call",
+          "sentence": "To keep everyone on the same page, I’ve summarised the decisions from today’s call below.",
+          "highlight": "on the same page",
+          "tip": "Pair it with a written summary so it actually happens."
+        }
+      ],
+      "origin": {
+        "summary": "Probably from people reading from the same page of a book, script or hymnal so everyone can follow along. It spread as American sports and business talk in the late 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          { "when": "Earlier", "text": "Literal sense: following along on the same page of a shared text." },
+          { "when": "1970s–80s", "text": "Figurative “in agreement” sense spreads in US sports and business speech." },
+          { "when": "Today", "text": "A standard alignment check in meetings worldwide." }
+        ]
+      },
+      "similar": ["in agreement", "aligned", "on the same wavelength"],
+      "pitfall": "Saying “on the same page” doesn’t create agreement — spell out what you’ve actually agreed."
+    },
+    {
+      "id": "circle-back",
+      "kind": "phrase",
+      "term": "Circle back",
+      "pos": "phrase",
+      "hint": "no actual circles",
+      "register": "Corporate — use sparingly",
+      "meaning": "To return to a topic or person later, usually once you have more information or time.",
+      "nuance": "Sounds polished but is one of the most mocked bits of office jargon. Without a specific time attached, it can read as a polite way of stalling.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · open question",
+          "sentence": "I don’t have the numbers yet, so let me circle back on Thursday once finance replies.",
+          "highlight": "circle back",
+          "tip": "Always attach a day or trigger so it doesn’t sound like a brush-off."
+        },
+        {
+          "setting": "social",
+          "where": "Group chat · weekend plans",
+          "sentence": "I’ll circle back about Saturday once I know what time my shift ends.",
+          "highlight": "circle back",
+          "tip": "With friends, “get back to you” sounds less corporate."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a client",
+          "sentence": "Thanks for the detailed feedback — we’ll circle back with a revised quote by Friday.",
+          "highlight": "circle back",
+          "tip": "A firm deadline in the same sentence makes it credible."
+        }
+      ],
+      "origin": {
+        "summary": "Built from the ordinary idea of going round in a loop to return to a starting point. The “revisit later” sense is US business jargon that took hold from the 1980s onward.",
+        "confidence": "likely",
+        "timeline": [
+          { "when": "Earlier", "text": "Literal use: to move in a curve back to where you began." },
+          { "when": "1980s–90s", "text": "Becomes US office shorthand for returning to a topic later." },
+          { "when": "2010s", "text": "Widely listed among the most annoying business buzzwords." }
+        ]
+      },
+      "similar": ["get back to you", "follow up", "come back to this"],
+      "pitfall": "Promising to “circle back” and never doing it is so common that people may hear it as “no”."
+    },
+    {
+      "id": "touch-base",
+      "kind": "phrase",
+      "term": "Touch base",
+      "pos": "phrase",
+      "hint": "a baseball habit",
+      "register": "Common at work",
+      "meaning": "To briefly contact someone to check in, share an update or see how things are going.",
+      "nuance": "Light and informal; suggests a short conversation rather than a full meeting. Usually followed by “with”.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Hallway chat · after a deadline",
+          "sentence": "Can we touch base tomorrow morning to see where the design review landed?",
+          "highlight": "touch base",
+          "tip": "Signals a quick check-in — don’t use it for a two-hour workshop."
+        },
+        {
+          "setting": "social",
+          "where": "Message to an old friend",
+          "sentence": "It’s been ages — I just wanted to touch base and see how the new job is going.",
+          "highlight": "touch base",
+          "tip": "Works well for reconnecting without much pressure."
+        },
+        {
+          "setting": "writing",
+          "where": "Short email to a supplier",
+          "sentence": "I’m writing to touch base about the order we placed last week.",
+          "highlight": "touch base",
+          "tip": "Fine as an opener, but get to the actual request quickly."
+        }
+      ],
+      "origin": {
+        "summary": "Most likely from baseball, where a runner must touch each base to be safe. The “brief contact” sense appears in American English in the mid-20th century and became standard office talk.",
+        "confidence": "likely",
+        "timeline": [
+          { "when": "19th c.", "text": "Baseball rule: runners must touch each base as they pass." },
+          { "when": "Mid-20th c.", "text": "Figurative “make contact, check in” sense appears in US speech." },
+          { "when": "1980s–", "text": "Becomes everyday business vocabulary." }
+        ]
+      },
+      "similar": ["check in", "catch up", "get in touch"],
+      "pitfall": "It’s “touch base”, not “touch bases” — and you touch base with someone, not touch them base."
+    },
+    {
+      "id": "take-this-offline",
+      "kind": "phrase",
+      "term": "Take this offline",
+      "pos": "phrase",
+      "hint": "not about the internet",
+      "register": "Corporate — use sparingly",
+      "meaning": "To continue a discussion privately or later, outside the current meeting.",
+      "nuance": "Useful for keeping meetings on track when two people get deep into detail. Said sharply, it can feel like being shut down in front of others.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Weekly sync · a side debate",
+          "sentence": "This is getting into the weeds, so let’s take this offline and keep the agenda moving.",
+          "highlight": "take this offline",
+          "tip": "Follow up within a day so it doesn’t feel like a dismissal."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · awkward topic",
+          "sentence": "Maybe we take this offline — I don’t think everyone wants to hear about my landlord drama.",
+          "highlight": "take this offline",
+          "tip": "Said jokingly among friends, it gently changes the subject."
+        },
+        {
+          "setting": "writing",
+          "where": "Reply on a long email thread",
+          "sentence": "To spare the wider group, I suggest we take this offline and I’ll call you this afternoon.",
+          "highlight": "take this offline",
+          "tip": "Say how you’ll continue — call, chat, meeting."
+        }
+      ],
+      "origin": {
+        "summary": "“Offline” began as a computing and engineering term for equipment not connected to the main system. Office workers in the 1990s borrowed it to mean “outside this meeting”.",
+        "confidence": "likely",
+        "timeline": [
+          { "when": "Mid-20th c.", "text": "“Off-line” describes machines working apart from a central computer." },
+          { "when": "1990s", "text": "Tech-heavy workplaces start using it for side conversations." },
+          { "when": "Today", "text": "Standard meeting jargon, even for in-person talks." }
+        ]
+      },
+      "similar": ["discuss this separately", "talk after the meeting", "pick this up later"],
+      "pitfall": "In a video call it can confuse non-native speakers — some think it means hanging up."
+    },
+    {
+      "id": "low-hanging-fruit",
+      "kind": "phrase",
+      "term": "Low-hanging fruit",
+      "pos": "phrase",
+      "hint": "no orchard required",
+      "register": "Corporate — use sparingly",
+      "meaning": "The easiest tasks or gains, which give results quickly with little effort.",
+      "nuance": "Practical when prioritising, but heavily overused. It can also imply the people who did that work only did the easy bits.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning session · picking priorities",
+          "sentence": "Fixing the broken signup link is low-hanging fruit — let’s do that before the redesign.",
+          "highlight": "low-hanging fruit",
+          "tip": "Name the actual task so it’s not just a buzzword."
+        },
+        {
+          "setting": "social",
+          "where": "Friends talking about saving money",
+          "sentence": "Cancelling the streaming services you never watch is the low-hanging fruit.",
+          "highlight": "low-hanging fruit",
+          "tip": "Works naturally for any “start with the easy wins” advice."
+        },
+        {
+          "setting": "writing",
+          "where": "Report recommendations",
+          "sentence": "Several of these savings are low-hanging fruit and could be delivered within a month.",
+          "highlight": "low-hanging fruit",
+          "tip": "In formal writing, “quick wins” may read better."
+        }
+      ],
+      "origin": {
+        "summary": "A plain image: fruit on the lowest branches is easiest to pick. The figurative business sense spread in American English in the late 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          { "when": "Earlier", "text": "Literal picture of easy-to-reach fruit in orchards." },
+          { "when": "Late 20th c.", "text": "Becomes common US business and policy jargon for easy wins." },
+          { "when": "2000s–", "text": "Regularly appears on lists of overused buzzwords." }
+        ]
+      },
+      "similar": ["quick wins", "easy wins", "the easy part"],
+      "pitfall": "Calling someone’s work “low-hanging fruit” can sound dismissive of their effort."
+    },
+    {
+      "id": "move-the-needle",
+      "kind": "phrase",
+      "term": "Move the needle",
+      "pos": "phrase",
+      "hint": "watch the gauge",
+      "register": "Corporate — use sparingly",
+      "meaning": "To make a noticeable, measurable difference to a result.",
+      "nuance": "Usually used in the negative (“won’t move the needle”) to dismiss small efforts. Sounds data-driven but can feel vague without a number behind it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Marketing review · budget debate",
+          "sentence": "A new logo is nice, but it won’t move the needle on sales this quarter.",
+          "highlight": "move the needle",
+          "tip": "Say which metric you mean — sales, sign-ups, churn."
+        },
+        {
+          "setting": "social",
+          "where": "Chatting about a fitness plan",
+          "sentence": "Skipping one dessert a week isn’t going to move the needle, honestly.",
+          "highlight": "move the needle",
+          "tip": "Among friends it sounds a bit tongue-in-cheek, which is fine."
+        },
+        {
+          "setting": "writing",
+          "where": "Strategy memo",
+          "sentence": "We should focus on the two initiatives most likely to move the needle on retention.",
+          "highlight": "move the needle",
+          "tip": "In formal writing, back it with a target figure."
+        }
+      ],
+      "origin": {
+        "summary": "From the needle on a gauge or meter, which only moves when something real changes. It is US business jargon that became common from the 1980s–90s.",
+        "confidence": "likely",
+        "timeline": [
+          { "when": "Earlier", "text": "Needles on dials, scales and meters show measurable change." },
+          { "when": "1980s–90s", "text": "Spreads in US business and media talk about impact." },
+          { "when": "Today", "text": "Common in startup and marketing language." }
+        ]
+      },
+      "similar": ["make a real difference", "have an impact", "make a dent"],
+      "pitfall": "Overused in pitch decks; if you can’t say what the “needle” measures, pick a plainer phrase."
+    },
+    {
+      "id": "i-dont-have-the-bandwidth",
+      "kind": "phrase",
+      "term": "I don’t have the bandwidth",
+      "pos": "phrase",
+      "hint": "people, not Wi-Fi",
+      "register": "Common at work",
+      "meaning": "I don’t have enough time, energy or capacity to take on something else right now.",
+      "nuance": "A softer, less personal way to say no. Some find it dehumanising jargon, as it treats a person like a network connection.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "One-to-one · new request",
+          "sentence": "I’d love to help with the audit, but I don’t have the bandwidth until the release ships.",
+          "highlight": "I don’t have the bandwidth",
+          "tip": "Add when you will have capacity — it turns a no into a “not yet”."
+        },
+        {
+          "setting": "social",
+          "where": "Turning down an invite",
+          "sentence": "Honestly, I don’t have the bandwidth for a big night out this week.",
+          "highlight": "I don’t have the bandwidth",
+          "tip": "Works for emotional energy too, not just time."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a manager",
+          "sentence": "Our team doesn’t have the bandwidth to take on the migration without moving another deadline.",
+          "highlight": "doesn’t have the bandwidth",
+          "tip": "Offer a trade-off so it reads as planning, not refusal."
+        }
+      ],
+      "origin": {
+        "summary": "“Bandwidth” is an engineering term for the range of frequencies a signal or channel can carry. Tech workplaces in the 1980s–90s began using it for a person’s capacity to handle work.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Early 20th c.", "text": "Radio and electronics use “band width” for a range of frequencies." },
+          { "when": "Late 20th c.", "text": "Computing uses it for data-carrying capacity." },
+          { "when": "1980s–90s", "text": "Figurative sense — mental or work capacity — spreads in tech offices." }
+        ]
+      },
+      "similar": ["I don’t have time", "I’m at capacity", "I’m stretched too thin"],
+      "pitfall": "Using it for everything can make you sound evasive; sometimes “I’m busy until Friday” is clearer."
+    },
+    {
+      "id": "keep-me-in-the-loop",
+      "kind": "phrase",
+      "term": "Keep me in the loop",
+      "pos": "phrase",
+      "hint": "no rope involved",
+      "register": "Common at work",
+      "meaning": "Keep me informed about what is happening, even if I’m not directly involved.",
+      "nuance": "Friendly and collaborative. Its opposite, “out of the loop”, can sound like a complaint about being left out.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Handing a task to a colleague",
+          "sentence": "You run with the vendor calls, but please keep me in the loop on pricing.",
+          "highlight": "keep me in the loop",
+          "tip": "Say what you want to hear about, or you’ll get every email."
+        },
+        {
+          "setting": "social",
+          "where": "Friend organising a surprise party",
+          "sentence": "I can’t help plan it, but keep me in the loop so I know when to show up.",
+          "highlight": "keep me in the loop",
+          "tip": "Casual and warm among friends."
+        },
+        {
+          "setting": "writing",
+          "where": "Email cc’ing a stakeholder",
+          "sentence": "I’ve copied Priya to keep her in the loop as the project moves forward.",
+          "highlight": "keep her in the loop",
+          "tip": "Explains a cc without making it sound like surveillance."
+        }
+      ],
+      "origin": {
+        "summary": "Likely from the idea of a closed loop, such as a circuit or communication chain, where everyone inside receives the signal. “Out of the loop” became famous in US politics in the 1980s.",
+        "confidence": "likely",
+        "timeline": [
+          { "when": "Mid-20th c.", "text": "“Loop” used for circuits and feedback systems in engineering." },
+          { "when": "1970s–80s", "text": "“In the loop” used in US government and business for those kept informed." },
+          { "when": "1987", "text": "George H. W. Bush’s claim he was “out of the loop” on Iran–Contra popularises the phrase." }
+        ]
+      },
+      "similar": ["keep me posted", "keep me updated", "let me know how it goes"],
+      "pitfall": "Asking to be “in the loop” on everything can look like micromanaging."
+    },
+    {
+      "id": "the-big-picture",
+      "kind": "phrase",
+      "term": "The big picture",
+      "pos": "phrase",
+      "hint": "step back from details",
+      "register": "Common at work",
+      "meaning": "The overall situation or main goal, rather than the small details.",
+      "nuance": "Useful for refocusing a discussion. Telling someone to “think about the big picture” can sound like you’re waving away their valid concerns.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Retro · stuck on minor bugs",
+          "sentence": "These bugs matter, but the big picture is that customers can finally pay online.",
+          "highlight": "the big picture",
+          "tip": "Acknowledge the detail first, then zoom out."
+        },
+        {
+          "setting": "social",
+          "where": "Comforting a friend after a bad week",
+          "sentence": "One rough week doesn’t change the big picture — you’re doing great at the new job.",
+          "highlight": "the big picture",
+          "tip": "Good for perspective, but don’t rush past someone’s feelings."
+        },
+        {
+          "setting": "writing",
+          "where": "Opening of a report",
+          "sentence": "Before getting into the figures, this section sets out the big picture for the year.",
+          "highlight": "the big picture",
+          "tip": "In formal writing, “overview” is a plainer option."
+        }
+      ],
+      "origin": {
+        "summary": "A simple visual metaphor: stepping back to see a whole painting or scene instead of one corner. The figurative “overall view” sense is common from the mid-20th century.",
+        "confidence": "likely",
+        "timeline": [
+          { "when": "Earlier", "text": "Literal idea of viewing a whole picture from a distance." },
+          { "when": "Mid-20th c.", "text": "Figurative “overall situation” sense becomes common in English." },
+          { "when": "Today", "text": "Also used as an adjective: “big-picture thinking”." }
+        ]
+      },
+      "similar": ["the overall view", "the main point", "the wider context"],
+      "pitfall": "Used to dismiss details that actually matter, it can come across as hand-waving."
+    },
+    {
+      "id": "ballpark-figure",
+      "kind": "phrase",
+      "term": "Ballpark figure",
+      "pos": "phrase",
+      "hint": "a rough number",
+      "register": "Common at work",
+      "meaning": "A rough estimate that is roughly right but not exact.",
+      "nuance": "Lowers the pressure to be precise and invites a quick answer. Make clear it’s an estimate, or people may treat it as a promise.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget call · early scoping",
+          "sentence": "I don’t need an exact quote yet — just give me a ballpark figure for the build.",
+          "highlight": "ballpark figure",
+          "tip": "Great for unblocking early planning conversations."
+        },
+        {
+          "setting": "social",
+          "where": "Asking about a friend’s renovation",
+          "sentence": "What did the kitchen cost, ballpark figure? We’re thinking of doing ours.",
+          "highlight": "ballpark figure",
+          "tip": "Makes a personal money question feel less nosy."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a contractor",
+          "sentence": "Could you send a ballpark figure so we can check it fits our budget?",
+          "highlight": "ballpark figure",
+          "tip": "Follow up with a request for a formal quote later."
+        }
+      ],
+      "origin": {
+        "summary": "From American baseball: a ballpark is the stadium, so being “in the ballpark” means within the right general area. “Ballpark figure” appears in US English around the mid-20th century.",
+        "confidence": "likely",
+        "timeline": [
+          { "when": "Late 19th c.", "text": "“Ballpark” used for baseball grounds in the US." },
+          { "when": "Mid-20th c.", "text": "“In the ballpark” and “ballpark figure” mean a roughly correct estimate." },
+          { "when": "Today", "text": "Used worldwide, even where baseball isn’t played." }
+        ]
+      },
+      "similar": ["rough estimate", "rough idea", "approximate number"],
+      "pitfall": "A ballpark figure quoted once often gets remembered as a firm commitment."
+    },
+    {
+      "id": "table-this",
+      "kind": "phrase",
+      "term": "Table this",
+      "pos": "phrase",
+      "hint": "means opposite things",
+      "register": "Formal — know your audience",
+      "meaning": "In US English, to postpone discussing something. In British English, to put it forward for discussion now.",
+      "nuance": "Sounds procedural and official. Because UK and US meanings are opposite, it can cause real confusion in international teams.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "US team meeting · running out of time",
+          "sentence": "We’re over time, so let’s table this until next week’s meeting.",
+          "highlight": "table this",
+          "tip": "With mixed UK/US teams, say “postpone” or “put on the agenda” instead."
+        },
+        {
+          "setting": "social",
+          "where": "Couple debating holiday plans",
+          "sentence": "Can we table this until after dinner? I’m too hungry to argue about flights.",
+          "highlight": "table this",
+          "tip": "Among friends it sounds playfully formal."
+        },
+        {
+          "setting": "writing",
+          "where": "UK committee minutes",
+          "sentence": "The treasurer will table the revised budget at the next committee meeting.",
+          "highlight": "table the revised budget",
+          "tip": "In British usage this means it will be presented for discussion."
+        }
+      ],
+      "origin": {
+        "summary": "From parliamentary procedure: laying a document on the table. In Britain that means bringing it forward; in the US, “lay on the table” came to mean setting it aside.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "17th–18th c.", "text": "Parliamentary use: papers are laid on the table of the house." },
+          { "when": "19th c.", "text": "US legislative motion “to lay on the table” means to postpone." },
+          { "when": "Today", "text": "UK and US office speech keep the opposite meanings." }
+        ]
+      },
+      "similar": ["postpone", "put on hold", "park this"],
+      "opposite": "raise this now",
+      "pitfall": "A Brit and an American can both agree to “table it” and come away with opposite plans."
+    },
+    {
+      "id": "a-game-changer",
+      "kind": "phrase",
+      "term": "A game changer",
+      "pos": "phrase",
+      "hint": "from the sports pages",
+      "register": "Casual",
+      "meaning": "Something that completely changes how a situation works or what is possible.",
+      "nuance": "Enthusiastic and punchy. Heavily used in marketing, so applying it to small improvements sounds like hype.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Demo day · new tool rollout",
+          "sentence": "Automated testing has been a game changer — releases that took a week now take a day.",
+          "highlight": "a game changer",
+          "tip": "Back it with a before-and-after so it’s not just hype."
+        },
+        {
+          "setting": "social",
+          "where": "Chatting about a new gadget",
+          "sentence": "Noise-cancelling headphones were a game changer for my commute.",
+          "highlight": "a game changer",
+          "tip": "Perfectly natural in casual product talk."
+        },
+        {
+          "setting": "writing",
+          "where": "Product review",
+          "sentence": "The longer battery life isn’t a game changer, but it’s a welcome improvement.",
+          "highlight": "a game changer",
+          "tip": "Using it in the negative sounds more measured."
+        }
+      ],
+      "origin": {
+        "summary": "From sport, where a game changer is a player or play that turns the result of a match. Business and tech marketing adopted it heavily from the 1990s–2000s.",
+        "confidence": "likely",
+        "timeline": [
+          { "when": "Mid-20th c.", "text": "Sports reporting describes decisive players or plays as game-changing." },
+          { "when": "1990s–2000s", "text": "Business and tech marketing adopt it for breakthrough products." },
+          { "when": "Today", "text": "Common in ads, reviews and everyday speech." }
+        ]
+      },
+      "similar": ["a breakthrough", "a big deal", "transformative"],
+      "pitfall": "Calling every update “a game changer” quickly makes people stop believing you."
+    }
+  ]
+}

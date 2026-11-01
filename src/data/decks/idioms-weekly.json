@@ -1,0 +1,573 @@
+{
+  "id": "idioms-weekly",
+  "kind": "idiom",
+  "name": "Idioms you’ll hear weekly",
+  "blurb": "Break the ice, spill the beans…",
+  "cards": [
+    {
+      "id": "break-the-ice",
+      "kind": "idiom",
+      "term": "Break the ice",
+      "pos": "idiom",
+      "hint": "no hammer required",
+      "register": "Everyday",
+      "meaning": "To do or say something that eases tension and gets people talking when they first meet or feel awkward.",
+      "literal": "Smashing a sheet of frozen water so a boat can get through.",
+      "nuance": "Warm and positive. Use it for the first awkward moments of a meeting, party or new relationship, not for ongoing problems.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Workshop kickoff · new team",
+          "sentence": "Priya broke the ice by asking everyone to share the worst job they’d ever had.",
+          "highlight": "broke the ice",
+          "tip": "Often used about the first few minutes of a meeting."
+        },
+        {
+          "setting": "social",
+          "where": "First date · coffee shop",
+          "sentence": "We were both nervous until the barista spelled my name wrong, which really broke the ice.",
+          "highlight": "broke the ice",
+          "tip": "The ‘thing’ that breaks the ice can be an accident, a joke or a question."
+        },
+        {
+          "setting": "writing",
+          "where": "Event recap email",
+          "sentence": "A short quiz at the start helped break the ice between the two departments.",
+          "highlight": "break the ice",
+          "tip": "Works fine in friendly business writing; too casual for formal reports."
+        }
+      ],
+      "origin": {
+        "summary": "Ships once needed ice broken to reach frozen ports, and English writers turned that into a metaphor for opening the way. Thomas North used it in his 1579 translation of Plutarch, and Shakespeare soon after.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "1500s", "text": "Small boats break river ice to clear a route for trading ships." },
+          { "when": "1579", "text": "Thomas North’s translation of Plutarch’s Lives uses ‘to break the ice’ figuratively." },
+          { "when": "1590s", "text": "Shakespeare’s The Taming of the Shrew has a character offer to ‘break the ice’." },
+          { "when": "Today", "text": "‘Icebreaker’ names both the ships and the party games." }
+        ]
+      },
+      "forms": [
+        { "term": "icebreaker", "label": "noun · a game or question that breaks the ice" }
+      ],
+      "similar": ["Warm up the room", "Get the ball rolling"],
+      "pitfall": "Don’t mix it up with ‘on thin ice’, which means being in a risky situation."
+    },
+    {
+      "id": "spill-the-beans",
+      "kind": "idiom",
+      "term": "Spill the beans",
+      "pos": "idiom",
+      "hint": "not a kitchen accident",
+      "register": "Casual",
+      "meaning": "To reveal a secret or surprise, often too early or by accident.",
+      "literal": "Knocking over a container so the beans scatter everywhere.",
+      "nuance": "Playful and light. Fine for gossip, surprises and spoilers; sounds too jokey for serious leaks or confidential breaches.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Hallway chat · before an announcement",
+          "sentence": "Someone spilled the beans about the reorg before the CEO could announce it.",
+          "highlight": "spilled the beans",
+          "tip": "Often hints the reveal was premature or unauthorised."
+        },
+        {
+          "setting": "social",
+          "where": "Friends at dinner",
+          "sentence": "Come on, spill the beans — how did the proposal actually go?",
+          "highlight": "spill the beans",
+          "tip": "As a command it means ‘tell me everything’."
+        },
+        {
+          "setting": "writing",
+          "where": "Blog post teaser",
+          "sentence": "In next week’s post, our designers spill the beans on how the new logo was made.",
+          "highlight": "spill the beans",
+          "tip": "Handy in marketing copy for a behind-the-scenes reveal."
+        }
+      ],
+      "origin": {
+        "summary": "A popular story says ancient Greeks voted with beans and a spilled jar revealed the result early. There’s no evidence linking that to the phrase, which first shows up in early-1900s American slang.",
+        "confidence": "myth",
+        "timeline": [
+          { "when": "Ancient Greece", "text": "Beans really were used in some lotteries and votes, which inspired the later story." },
+          { "when": "Early 1900s", "text": "‘Spill the beans’ appears in American newspapers and slang." },
+          { "when": "Today", "text": "A standard casual way to say ‘reveal the secret’." }
+        ]
+      },
+      "similar": ["Let the cat out of the bag", "Give the game away", "Spill the tea"],
+      "pitfall": "‘Spill the tea’ is newer slang for sharing gossip; ‘spill the beans’ is about revealing a secret."
+    },
+    {
+      "id": "the-ball-is-in-your-court",
+      "kind": "idiom",
+      "term": "The ball is in your court",
+      "pos": "idiom",
+      "hint": "your move now",
+      "register": "Common at work",
+      "meaning": "It’s now your turn to act or decide; the other side has done their part.",
+      "literal": "The tennis ball has landed on your side of the net.",
+      "nuance": "Polite but pointed: it shifts responsibility to someone else. Can sound slightly pushy if said bluntly.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Negotiation · after sending an offer",
+          "sentence": "We’ve sent our best offer, so the ball is in their court now.",
+          "highlight": "the ball is in their court",
+          "tip": "Swap the pronoun: my court, your court, their court."
+        },
+        {
+          "setting": "social",
+          "where": "Texting a friend about a crush",
+          "sentence": "I asked her out last week, so honestly the ball is in her court.",
+          "highlight": "the ball is in her court",
+          "tip": "A gentle way to say ‘I’m waiting on them’."
+        },
+        {
+          "setting": "writing",
+          "where": "Opinion column on politics",
+          "sentence": "With the bill passed by the House, the ball is in the Senate’s court.",
+          "highlight": "the ball is in the Senate’s court",
+          "tip": "Works with institutions and organisations, not just people."
+        }
+      ],
+      "origin": {
+        "summary": "The image comes from tennis, where play passes to whoever has the ball on their side. The figurative use became common in the mid-1900s; no single first user is known.",
+        "confidence": "likely",
+        "timeline": [
+          { "when": "1870s", "text": "Lawn tennis is codified in England and spreads quickly." },
+          { "when": "Mid-1900s", "text": "‘The ball is in your court’ appears in figurative use, especially in politics and business." },
+          { "when": "Today", "text": "A stock phrase in negotiations and dating advice alike." }
+        ]
+      },
+      "similar": ["Your move", "Over to you"],
+      "pitfall": "Not the same as ‘on the ball’, which means alert and competent."
+    },
+    {
+      "id": "hit-the-nail-on-the-head",
+      "kind": "idiom",
+      "term": "Hit the nail on the head",
+      "pos": "idiom",
+      "hint": "precision, not carpentry",
+      "register": "Everyday",
+      "meaning": "To describe something exactly right or identify the precise cause of a problem.",
+      "literal": "Striking a nail squarely so it goes in straight.",
+      "nuance": "A compliment on accuracy. Often said in response to someone else’s point, as in ‘you’ve hit the nail on the head’.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Retro meeting · finding the cause",
+          "sentence": "You hit the nail on the head — the real problem is that nobody owns the release checklist.",
+          "highlight": "hit the nail on the head",
+          "tip": "A quick way to agree strongly and credit someone."
+        },
+        {
+          "setting": "social",
+          "where": "Chatting about a film",
+          "sentence": "Your review hit the nail on the head: great visuals, but the story dragged.",
+          "highlight": "hit the nail on the head",
+          "tip": "Works for opinions and descriptions, not just problem-solving."
+        },
+        {
+          "setting": "writing",
+          "where": "Book review",
+          "sentence": "The author hits the nail on the head when she says burnout is a design problem, not a personal failing.",
+          "highlight": "hits the nail on the head",
+          "tip": "Fine in reviews and essays; slightly informal for academic papers."
+        }
+      ],
+      "origin": {
+        "summary": "A straightforward carpentry image. The phrase is recorded in English by the 1500s, and Latin had a similar saying about touching the point exactly with a needle.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Ancient Rome", "text": "Plautus uses a needle image for getting something exactly right." },
+          { "when": "1500s", "text": "‘Hit the nail on the head’ appears in English writing." },
+          { "when": "Today", "text": "Still everyday praise for a precise point." }
+        ]
+      },
+      "similar": ["Spot on", "Bang on", "Put your finger on it"],
+      "pitfall": "Not related to ‘nail it’, which means doing something very well rather than being accurate."
+    },
+    {
+      "id": "under-the-weather",
+      "kind": "idiom",
+      "term": "Under the weather",
+      "pos": "idiom",
+      "hint": "not about rain",
+      "register": "Everyday",
+      "meaning": "Feeling slightly ill, tired or low, but not seriously sick.",
+      "literal": "Standing beneath bad weather, like a storm overhead.",
+      "nuance": "Mild and polite. Ideal for explaining an absence without details; sounds odd for a serious illness.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Message to manager · morning",
+          "sentence": "I’m feeling a bit under the weather, so I’ll work from home today.",
+          "highlight": "under the weather",
+          "tip": "Pair with ‘a bit’ or ‘a little’ to keep it mild."
+        },
+        {
+          "setting": "social",
+          "where": "Cancelling plans",
+          "sentence": "Sorry to bail, I’ve been under the weather since Sunday.",
+          "highlight": "under the weather",
+          "tip": "A tactful excuse that nobody will question."
+        },
+        {
+          "setting": "writing",
+          "where": "Newsletter note to readers",
+          "sentence": "This issue is late because half our team was under the weather last week.",
+          "highlight": "under the weather",
+          "tip": "Keeps health details private while still explaining."
+        }
+      ],
+      "origin": {
+        "summary": "Often traced to sailors: a seasick crewman was sent below deck, away from the weather. That nautical story is plausible but unproven; the phrase is recorded from the early 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          { "when": "1700s", "text": "Sailors use ‘weather’ for the windward side of a ship, where conditions are roughest." },
+          { "when": "Early 1800s", "text": "‘Under the weather’ meaning unwell appears in print." },
+          { "when": "Today", "text": "The go-to polite phrase for feeling off." }
+        ]
+      },
+      "similar": ["Off colour", "Out of sorts", "Not feeling myself"],
+      "opposite": "Fit as a fiddle",
+      "pitfall": "Not the same as ‘weather the storm’, which means surviving a difficult period."
+    },
+    {
+      "id": "cut-corners",
+      "kind": "idiom",
+      "term": "Cut corners",
+      "pos": "idiom",
+      "hint": "shortcuts with a catch",
+      "register": "Common at work",
+      "meaning": "To do something cheaply or quickly by skipping steps, usually at the cost of quality or safety.",
+      "literal": "Taking the diagonal across a corner instead of going around it.",
+      "nuance": "Usually critical. Saying a team ‘cut corners’ implies they were careless; ‘without cutting corners’ is praise.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Incident review",
+          "sentence": "We cut corners on testing to hit the deadline, and the bug slipped through.",
+          "highlight": "cut corners",
+          "tip": "Common in post-mortems when admitting a trade-off."
+        },
+        {
+          "setting": "social",
+          "where": "Talking about a home renovation",
+          "sentence": "The previous owners clearly cut corners — none of the tiles are level.",
+          "highlight": "cut corners",
+          "tip": "Often used to complain about builders or landlords."
+        },
+        {
+          "setting": "writing",
+          "where": "Restaurant review",
+          "sentence": "The kitchen doesn’t cut corners: the pasta, bread and sauces are all made in-house.",
+          "highlight": "cut corners",
+          "tip": "In the negative it becomes a compliment."
+        }
+      ],
+      "origin": {
+        "summary": "Most likely from the literal shortcut of going diagonally across a corner rather than around it, which saves time but breaks the proper route. The figurative sense is recorded from the 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          { "when": "1800s", "text": "‘Cutting corners’ describes taking a shorter path, on foot, horseback or in races." },
+          { "when": "Early 1900s", "text": "The sense shifts to skipping proper steps to save time or money." },
+          { "when": "Today", "text": "Common in business, building and quality discussions." }
+        ]
+      },
+      "forms": [
+        { "term": "corner-cutting", "label": "noun · the practice of cutting corners" }
+      ],
+      "similar": ["Take shortcuts", "Do a half-baked job"],
+      "pitfall": "‘Turn a corner’ is different: it means things are starting to improve."
+    },
+    {
+      "id": "on-the-fence",
+      "kind": "idiom",
+      "term": "On the fence",
+      "pos": "idiom",
+      "hint": "can’t pick a side",
+      "register": "Everyday",
+      "meaning": "Undecided between two options or unwilling to take a side.",
+      "literal": "Sitting on the fence that divides two fields.",
+      "nuance": "Neutral when describing yourself; slightly critical when you say someone is ‘sitting on the fence’ to avoid commitment.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Vendor decision meeting",
+          "sentence": "I’m still on the fence about switching vendors until we see the pricing.",
+          "highlight": "on the fence",
+          "tip": "A soft way to say you haven’t decided yet."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a trip",
+          "sentence": "Jake’s on the fence about coming to Lisbon, so book without him for now.",
+          "highlight": "on the fence",
+          "tip": "Often followed by ‘about’ plus the choice."
+        },
+        {
+          "setting": "writing",
+          "where": "Political analysis",
+          "sentence": "Several senators are sitting on the fence until public opinion becomes clearer.",
+          "highlight": "sitting on the fence",
+          "tip": "‘Sitting on the fence’ adds a hint of criticism."
+        }
+      ],
+      "origin": {
+        "summary": "Someone perched on a dividing fence can jump either way. The phrase took off in 1800s American politics to describe people who wouldn’t commit to a party or issue.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Early 1800s", "text": "American political writing mocks undecided voters and politicians as ‘on the fence’." },
+          { "when": "1900s", "text": "Spreads beyond politics to any decision." },
+          { "when": "Today", "text": "Common in everyday talk; ‘fence-sitter’ is the noun." }
+        ]
+      },
+      "forms": [
+        { "term": "fence-sitter", "label": "noun · someone who won’t take a side" },
+        { "term": "sit on the fence", "label": "verb phrase" }
+      ],
+      "similar": ["Torn between", "In two minds", "Undecided"],
+      "pitfall": "Not ‘on the edge’ (nervous) or ‘over the fence’ — the fence is the middle ground."
+    },
+    {
+      "id": "a-blessing-in-disguise",
+      "kind": "idiom",
+      "term": "A blessing in disguise",
+      "pos": "idiom",
+      "hint": "bad luck that wasn’t",
+      "register": "Everyday",
+      "meaning": "Something that seems bad at first but turns out to be good.",
+      "literal": "A gift wearing a costume so you don’t recognise it.",
+      "nuance": "Reflective and positive, usually said looking back. Avoid saying it to someone in the middle of a loss.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "One-on-one · after a project was cancelled",
+          "sentence": "Losing that contract was a blessing in disguise — it freed us to build our own product.",
+          "highlight": "a blessing in disguise",
+          "tip": "Best used with hindsight, once the good part is clear."
+        },
+        {
+          "setting": "social",
+          "where": "Story over drinks",
+          "sentence": "Missing my flight turned out to be a blessing in disguise, because I met my wife at the airport bar.",
+          "highlight": "a blessing in disguise",
+          "tip": "‘Turned out to be’ is the classic partner phrase."
+        },
+        {
+          "setting": "writing",
+          "where": "Personal essay",
+          "sentence": "In hindsight, the injury was a blessing in disguise: it forced me to slow down.",
+          "highlight": "a blessing in disguise",
+          "tip": "Popular in memoir and reflective writing."
+        }
+      ],
+      "origin": {
+        "summary": "The idea that misfortunes may be hidden gifts comes from religious writing. ‘Blessings in disguise’ is recorded in English by the mid-1700s, and the phrase became proverbial soon after.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Mid-1700s", "text": "English devotional writers describe hardships as ‘blessings in disguise’." },
+          { "when": "1800s", "text": "Becomes a common proverbial phrase." },
+          { "when": "Today", "text": "Used freely in secular, everyday talk." }
+        ]
+      },
+      "similar": ["Every cloud has a silver lining", "It all worked out for the best"],
+      "opposite": "A poisoned chalice",
+      "pitfall": "It describes the event, not a person: say ‘the delay was a blessing in disguise’."
+    },
+    {
+      "id": "call-it-a-day",
+      "kind": "idiom",
+      "term": "Call it a day",
+      "pos": "idiom",
+      "hint": "time to clock out",
+      "register": "Casual",
+      "meaning": "To stop working on something, either for today or for good.",
+      "literal": "Declaring that the day’s work is officially done.",
+      "nuance": "Friendly and relaxed. Can also mean ending something permanently, like a career or relationship.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Late-afternoon debugging",
+          "sentence": "We’re not getting anywhere with this bug — let’s call it a day and look fresh tomorrow.",
+          "highlight": "call it a day",
+          "tip": "A gentle way to suggest everyone stops."
+        },
+        {
+          "setting": "social",
+          "where": "Long hike",
+          "sentence": "My legs are done, so I’m calling it a day at the next campsite.",
+          "highlight": "calling it a day",
+          "tip": "Works for any activity, not just work."
+        },
+        {
+          "setting": "writing",
+          "where": "Sports news",
+          "sentence": "After eighteen seasons, the goalkeeper has decided to call it a day.",
+          "highlight": "call it a day",
+          "tip": "In news it often means retiring."
+        }
+      ],
+      "origin": {
+        "summary": "An earlier American form was ‘call it half a day’, for quitting before the day was over. By the early 1900s it had shortened to ‘call it a day’.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "1800s", "text": "‘Call it half a day’ appears for stopping work early." },
+          { "when": "Early 1900s", "text": "‘Call it a day’ becomes the usual form." },
+          { "when": "Today", "text": "Also used for ending careers, bands and relationships." }
+        ]
+      },
+      "forms": [
+        { "term": "call it a night", "label": "variant · used in the evening" }
+      ],
+      "similar": ["Wrap it up", "Pack it in", "Knock off"],
+      "pitfall": "Not ‘make my day’, which means to make someone very happy."
+    },
+    {
+      "id": "get-the-ball-rolling",
+      "kind": "idiom",
+      "term": "Get the ball rolling",
+      "pos": "idiom",
+      "hint": "someone has to start",
+      "register": "Common at work",
+      "meaning": "To start an activity or process so that others can join in and it keeps going.",
+      "literal": "Giving a ball the first push so it rolls by itself.",
+      "nuance": "Upbeat and practical. Common when volunteering to go first or kicking off a project.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Brainstorm · silent room",
+          "sentence": "To get the ball rolling, I’ll share one rough idea and you can tear it apart.",
+          "highlight": "get the ball rolling",
+          "tip": "Classic opener when nobody wants to speak first."
+        },
+        {
+          "setting": "social",
+          "where": "Organising a group gift",
+          "sentence": "I’ll put in twenty dollars to get the ball rolling on Sam’s present.",
+          "highlight": "get the ball rolling",
+          "tip": "Often used when you make the first contribution."
+        },
+        {
+          "setting": "writing",
+          "where": "Project kickoff email",
+          "sentence": "To get the ball rolling, please send your availability for a planning call by Friday.",
+          "highlight": "get the ball rolling",
+          "tip": "Fine in professional emails."
+        }
+      ],
+      "origin": {
+        "summary": "Probably from ball games, where play begins once the ball is set moving; ‘keep the ball rolling’ is older still. The 1840 US election, where campaigners literally rolled giant balls, helped popularise it but didn’t invent it.",
+        "confidence": "likely",
+        "timeline": [
+          { "when": "1700s", "text": "‘Keep the ball up’ and ‘keep the ball rolling’ describe keeping a game or talk going." },
+          { "when": "1840", "text": "William Henry Harrison’s supporters roll huge campaign balls across the US." },
+          { "when": "1800s", "text": "‘Set’ or ‘get the ball rolling’ becomes common for starting something." },
+          { "when": "Today", "text": "A meeting-room staple." }
+        ]
+      },
+      "forms": [
+        { "term": "keep the ball rolling", "label": "variant · keep it going" },
+        { "term": "start the ball rolling", "label": "variant" }
+      ],
+      "similar": ["Kick things off", "Break the ice"],
+      "pitfall": "‘Get the ball rolling’ is about starting; ‘the ball is in your court’ is about whose turn it is."
+    },
+    {
+      "id": "once-in-a-blue-moon",
+      "kind": "idiom",
+      "term": "Once in a blue moon",
+      "pos": "idiom",
+      "hint": "rarer than you think",
+      "register": "Everyday",
+      "meaning": "Very rarely; almost never.",
+      "literal": "Only when the moon turns blue.",
+      "nuance": "Light and conversational. Exaggerates rarity, so it often describes things that happen occasionally rather than never.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Onboarding a new hire",
+          "sentence": "You’ll only need this admin panel once in a blue moon, mostly for year-end reports.",
+          "highlight": "once in a blue moon",
+          "tip": "Useful for reassuring people that something is rare."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with an old friend",
+          "sentence": "We only see each other once in a blue moon, so let’s make tonight count.",
+          "highlight": "once in a blue moon",
+          "tip": "Often carries a hint of regret or nostalgia."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel article",
+          "sentence": "Once in a blue moon, the desert floods and the whole valley blooms with flowers.",
+          "highlight": "Once in a blue moon",
+          "tip": "Works well at the start of a sentence for effect."
+        }
+      ],
+      "origin": {
+        "summary": "In the 1500s, saying ‘the moon is blue’ meant something absurd. By the 1800s ‘once in a blue moon’ meant ‘very rarely’. The astronomical ‘second full moon in a month’ meaning came later, from a 1940s magazine misreading.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "1500s", "text": "Claiming ‘the moon is blue’ is a byword for nonsense." },
+          { "when": "1800s", "text": "‘Once in a blue moon’ appears meaning very rarely." },
+          { "when": "1940s", "text": "A Sky & Telescope article popularises ‘blue moon’ as the second full moon in a month." },
+          { "when": "Today", "text": "Both senses coexist; the idiom still just means rarely." }
+        ]
+      },
+      "similar": ["Hardly ever", "Every so often", "When pigs fly"],
+      "opposite": "All the time",
+      "pitfall": "‘When pigs fly’ means never; ‘once in a blue moon’ means rarely but it does happen."
+    },
+    {
+      "id": "piece-of-cake",
+      "kind": "idiom",
+      "term": "Piece of cake",
+      "pos": "idiom",
+      "hint": "easier than baking",
+      "register": "Casual",
+      "meaning": "Something very easy to do.",
+      "literal": "A slice of cake, which takes no effort to enjoy.",
+      "nuance": "Casual and confident. Can sound boastful or dismissive if used about something others find hard.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Stand-up · estimating a task",
+          "sentence": "Updating the copy is a piece of cake; the hard part is getting legal sign-off.",
+          "highlight": "a piece of cake",
+          "tip": "Often contrasted with the genuinely hard part."
+        },
+        {
+          "setting": "social",
+          "where": "After a driving test",
+          "sentence": "Honestly, the parallel parking was a piece of cake once I stopped panicking.",
+          "highlight": "a piece of cake",
+          "tip": "Usually takes ‘a’: ‘it was a piece of cake’."
+        },
+        {
+          "setting": "writing",
+          "where": "Product how-to guide",
+          "sentence": "Setting up the speaker is a piece of cake: plug it in and hold the button for three seconds.",
+          "highlight": "a piece of cake",
+          "tip": "Friendly in consumer copy; too casual for technical docs."
+        }
+      ],
+      "origin": {
+        "summary": "Recorded in 1930s America, including a 1936 Ogden Nash poem with ‘life’s a piece of cake’. It became popular RAF slang in the Second World War. Stories linking it to cakewalk prizes are unproven.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "1800s", "text": "Cake is a common prize and symbol of something pleasant and easy." },
+          { "when": "1936", "text": "Ogden Nash writes ‘life’s a piece of cake’ in a poem." },
+          { "when": "1940s", "text": "RAF pilots use ‘piece of cake’ for an easy mission." },
+          { "when": "Today", "text": "Everyday English worldwide." }
+        ]
+      },
+      "similar": ["Easy as pie", "A walk in the park", "A breeze"],
+      "opposite": "Easier said than done",
+      "pitfall": "‘You can’t have your cake and eat it’ is unrelated: it’s about not getting both of two things."
+    }
+  ]
+}

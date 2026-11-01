@@ -1,0 +1,536 @@
+{
+  "id": "polite-pushback",
+  "kind": "phrase",
+  "name": "Polite pushback",
+  "blurb": "Disagree without the drama",
+  "cards": [
+    {
+      "id": "i-see-it-a-bit-differently",
+      "kind": "phrase",
+      "term": "I see it a bit differently",
+      "pos": "phrase",
+      "hint": "a soft “no”",
+      "register": "Polite",
+      "meaning": "A gentle way of saying you disagree, by presenting your view as a different perspective.",
+      "nuance": "Calm and non-confrontational; it frames disagreement as viewpoint, not error. Follow it with your reasoning, or it can sound evasive.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Design review · disagreeing with a lead",
+          "sentence": "I see it a bit differently — I think users will miss the search bar if we hide it.",
+          "highlight": "I see it a bit differently",
+          "tip": "Give your reason straight after the dash."
+        },
+        {
+          "setting": "social",
+          "where": "Friends discussing a film",
+          "sentence": "I see it a bit differently, actually — I thought the ending was hopeful.",
+          "highlight": "I see it a bit differently",
+          "tip": "Adding “actually” keeps it light and conversational."
+        },
+        {
+          "setting": "writing",
+          "where": "Reply in a shared doc comment",
+          "sentence": "I see this a bit differently: the delay came from approvals, not engineering.",
+          "highlight": "I see this a bit differently",
+          "tip": "In writing, a colon and one clear reason works best."
+        }
+      ],
+      "origin": {
+        "summary": "No single origin story: it is plain English. It relies on “see” meaning “understand or judge”, a sense recorded since medieval English, plus the modern softener “a bit”.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Old English", "text": "“Sēon” means to see with the eyes." },
+          { "when": "Middle English", "text": "“See” gains the sense “understand, perceive mentally”." },
+          { "when": "Modern", "text": "Hedges like “a bit” soften disagreement in polite speech." }
+        ]
+      },
+      "similar": ["I disagree", "I have a different view", "I’m not sure I agree"],
+      "pitfall": "If you never explain how you see it, people may assume you have no real objection."
+    },
+    {
+      "id": "play-devils-advocate",
+      "kind": "phrase",
+      "term": "Play devil’s advocate",
+      "pos": "phrase",
+      "hint": "a real church job",
+      "register": "Common at work",
+      "meaning": "To argue against an idea, even one you may support, to test how strong it is.",
+      "nuance": "Signals that your objection is a thought experiment, not personal. Overused, it can look like a shield for opinions you actually hold.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Strategy meeting · testing a plan",
+          "sentence": "Let me play devil’s advocate — what happens if the competitor drops their price first?",
+          "highlight": "play devil’s advocate",
+          "tip": "Follow it with a genuine question, not a lecture."
+        },
+        {
+          "setting": "social",
+          "where": "Debate over dinner",
+          "sentence": "Just to play devil’s advocate, maybe the new neighbours didn’t know about the noise rules.",
+          "highlight": "play devil’s advocate",
+          "tip": "Useful for calming a pile-on by offering another side."
+        },
+        {
+          "setting": "writing",
+          "where": "Opinion column",
+          "sentence": "To play devil’s advocate for a moment, the four-day week may not suit every industry.",
+          "highlight": "play devil’s advocate",
+          "tip": "“For a moment” signals you’ll return to your main argument."
+        }
+      ],
+      "origin": {
+        "summary": "From the Catholic Church’s advocatus diaboli, an official who argued against making someone a saint. The office was formalised in 1587 under Pope Sixtus V.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "1587", "text": "Sixtus V formalises the office of Promoter of the Faith, nicknamed “devil’s advocate”." },
+          { "when": "18th c.", "text": "English writers use “devil’s advocate” for anyone arguing the opposing side." },
+          { "when": "1983", "text": "John Paul II greatly reduces the office’s role in canonisation." }
+        ]
+      },
+      "similar": ["argue the other side", "test the idea", "raise a counterpoint"],
+      "pitfall": "Playing devil’s advocate on sensitive personal topics can come across as insensitive."
+    },
+    {
+      "id": "with-all-due-respect",
+      "kind": "phrase",
+      "term": "With all due respect",
+      "pos": "phrase",
+      "hint": "a disagreement is coming",
+      "register": "Formal — handle with care",
+      "meaning": "A polite opener before disagreeing with or criticising someone, especially someone senior.",
+      "nuance": "Literally respectful, but often heard as a warning that criticism is coming. Tone matters: said coldly, it can sound sarcastic or even rude.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Board meeting · challenging a director",
+          "sentence": "With all due respect, the survey only covered twenty customers, so I’d be careful drawing conclusions.",
+          "highlight": "With all due respect",
+          "tip": "Keep the criticism factual so the respect feels real."
+        },
+        {
+          "setting": "social",
+          "where": "Disagreeing with a relative",
+          "sentence": "With all due respect, Uncle Raj, the bank won’t lend us money because of a lucky number.",
+          "highlight": "With all due respect",
+          "tip": "With family it can sound stiff — a smile helps."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal letter of complaint",
+          "sentence": "With all due respect, the policy you cite does not apply to orders placed before March.",
+          "highlight": "With all due respect",
+          "tip": "In writing, follow it with evidence, not emotion."
+        }
+      ],
+      "origin": {
+        "summary": "Built from “due respect”, meaning the respect someone is owed. It became a set formula in legal and parliamentary speech, where speakers must disagree courteously; its edgy, ironic use is more modern.",
+        "confidence": "likely",
+        "timeline": [
+          { "when": "Middle English", "text": "“Due” (owed, proper) comes into English from Old French." },
+          { "when": "Earlier centuries", "text": "“With due respect” used as a courtesy in courts and parliaments." },
+          { "when": "Modern", "text": "Widely recognised as a signal that disagreement is coming." }
+        ]
+      },
+      "similar": ["respectfully", "I’d gently disagree", "I see it differently"],
+      "pitfall": "Many listeners hear “with all due respect” as “I don’t respect this at all” — use it sparingly."
+    },
+    {
+      "id": "i-hear-you-but",
+      "kind": "phrase",
+      "term": "I hear you, but…",
+      "pos": "phrase",
+      "hint": "listening, then disagreeing",
+      "register": "Casual",
+      "meaning": "I understand your point, but I still disagree or have a concern.",
+      "nuance": "Shows you’ve listened before pushing back. If the “but” comes too fast, it can sound like you didn’t really hear them at all.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Stand-up · deadline pressure",
+          "sentence": "I hear you, but if we skip testing now we’ll spend twice as long fixing bugs later.",
+          "highlight": "I hear you, but",
+          "tip": "Briefly restate their point first to prove you heard it."
+        },
+        {
+          "setting": "social",
+          "where": "Friend wants to quit their job",
+          "sentence": "I hear you, but maybe line up something new before you hand in your notice?",
+          "highlight": "I hear you, but",
+          "tip": "Ending with a question keeps it supportive."
+        },
+        {
+          "setting": "writing",
+          "where": "Chat reply to a teammate",
+          "sentence": "I hear you, but the client asked for this specifically, so I’d keep it in.",
+          "highlight": "I hear you, but",
+          "tip": "Fine in chat; in formal email, “I understand, however” fits better."
+        }
+      ],
+      "origin": {
+        "summary": "“I hear you” for “I understand you” is 20th-century American speech. It gained weight through counselling’s “active listening”, a term coined by Carl Rogers and Richard Farson in 1957.",
+        "confidence": "likely",
+        "timeline": [
+          { "when": "Early 20th c.", "text": "“I hear you” used in US speech to mean “I understand”." },
+          { "when": "1957", "text": "Rogers and Farson describe “active listening”, encouraging people to reflect back what they hear." },
+          { "when": "Today", "text": "“I hear you, but” is a common softener before disagreement." }
+        ]
+      },
+      "similar": ["I understand, but", "I get that, but", "fair enough, but"],
+      "pitfall": "Used every time, it becomes a verbal tic that signals you’re about to dismiss the other person."
+    },
+    {
+      "id": "push-back-on-that",
+      "kind": "phrase",
+      "term": "Let me push back on that",
+      "pos": "phrase",
+      "hint": "no shoving involved",
+      "register": "Common at work",
+      "meaning": "I want to challenge or question what was just said.",
+      "nuance": "Direct but professional; it names the disagreement openly. In some cultures it can feel more confrontational than English speakers intend.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · scope creep",
+          "sentence": "Let me push back on that a little — adding three features now puts the launch at risk.",
+          "highlight": "push back on that",
+          "tip": "“A little” makes it sound collaborative rather than combative."
+        },
+        {
+          "setting": "social",
+          "where": "Friends planning a holiday",
+          "sentence": "I’m going to push back on that — a 5 a.m. flight is not a holiday.",
+          "highlight": "push back on that",
+          "tip": "With friends, a joke takes the edge off."
+        },
+        {
+          "setting": "writing",
+          "where": "Feedback on a proposal",
+          "sentence": "I’d push back on the assumption that remote teams are less productive; our data suggests otherwise.",
+          "highlight": "push back on the assumption",
+          "tip": "Point to evidence so it reads as reasoned, not stubborn."
+        }
+      ],
+      "origin": {
+        "summary": "From the physical image of pushing against a force. The figurative sense of resisting a plan or argument, and the noun “pushback”, spread in American English in the second half of the 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          { "when": "Earlier", "text": "Literal “push back”: to shove something in the opposite direction." },
+          { "when": "Mid–late 20th c.", "text": "Figurative “resist, object” sense appears in US politics and business." },
+          { "when": "Today", "text": "Standard workplace vocabulary for respectful disagreement." }
+        ]
+      },
+      "similar": ["challenge that", "question that", "I’m not convinced"],
+      "pitfall": "In British English, “push back” can also mean postpone (“push the meeting back”) — context matters."
+    },
+    {
+      "id": "agree-to-disagree",
+      "kind": "phrase",
+      "term": "Agree to disagree",
+      "pos": "phrase",
+      "hint": "a truce, not a win",
+      "register": "Polite",
+      "meaning": "To accept that you hold different opinions and stop arguing about it.",
+      "nuance": "A graceful exit from a debate that’s going nowhere. Said abruptly, it can sound like “I’m done listening to you.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Long debate over a tool choice",
+          "sentence": "We clearly won’t settle this today, so let’s agree to disagree and let the pilot data decide.",
+          "highlight": "agree to disagree",
+          "tip": "Name a next step so the disagreement doesn’t just linger."
+        },
+        {
+          "setting": "social",
+          "where": "Football rivalry at the pub",
+          "sentence": "You think Messi’s better, I think Ronaldo is — let’s agree to disagree and order food.",
+          "highlight": "agree to disagree",
+          "tip": "Perfect for friendly arguments with no right answer."
+        },
+        {
+          "setting": "writing",
+          "where": "Closing a long email exchange",
+          "sentence": "I think we’ll have to agree to disagree on this point, but I appreciate you hearing me out.",
+          "highlight": "agree to disagree",
+          "tip": "Adding thanks keeps the relationship warm."
+        }
+      ],
+      "origin": {
+        "summary": "Recorded in the 1700s and associated with Methodist founder John Wesley, who used it about doctrinal differences with fellow preacher George Whitefield. The older “agree to differ” means the same.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "1700s", "text": "“Agree to differ” used in English for accepting different views." },
+          { "when": "1770", "text": "Wesley’s sermon on Whitefield’s death uses “agree to disagree” for minor doctrinal differences." },
+          { "when": "Today", "text": "A standard, friendly way to end an argument." }
+        ]
+      },
+      "similar": ["agree to differ", "let’s leave it there", "we see it differently"],
+      "pitfall": "Used to shut down a conversation the other person still cares about, it can feel dismissive."
+    },
+    {
+      "id": "food-for-thought",
+      "kind": "phrase",
+      "term": "Food for thought",
+      "pos": "phrase",
+      "hint": "nothing to eat here",
+      "register": "Polite",
+      "meaning": "An idea or remark worth thinking about carefully.",
+      "nuance": "A soft way to raise a concern without demanding a decision. It can also be a polite way of saying “I’m not convinced yet.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "End of a strategy discussion",
+          "sentence": "I won’t block the plan, but here’s some food for thought: our biggest client hates long contracts.",
+          "highlight": "food for thought",
+          "tip": "Great for raising a risk without derailing the decision."
+        },
+        {
+          "setting": "social",
+          "where": "After a friend’s advice",
+          "sentence": "That’s real food for thought — I hadn’t considered moving closer to work.",
+          "highlight": "food for thought",
+          "tip": "Shows appreciation even if you haven’t decided anything."
+        },
+        {
+          "setting": "writing",
+          "where": "Closing line of a newsletter",
+          "sentence": "As food for thought, try tracking how many meetings you could have replaced with an email.",
+          "highlight": "food for thought",
+          "tip": "Works as a gentle sign-off that invites reflection."
+        }
+      ],
+      "origin": {
+        "summary": "A metaphor of ideas as nourishment for the mind. The exact phrase is recorded in English by the early 19th century, building on older expressions like “food for the mind”.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Earlier", "text": "Writers describe reading and ideas as “food for the mind”." },
+          { "when": "Early 1800s", "text": "“Food for thought” appears in print in its modern sense." },
+          { "when": "Today", "text": "A common, gentle way to flag an idea for reflection." }
+        ]
+      },
+      "similar": ["something to think about", "worth considering", "something to chew on"],
+      "pitfall": "Saying “just some food for thought” after a strong criticism can sound passive-aggressive."
+    },
+    {
+      "id": "thats-a-fair-point-however",
+      "kind": "phrase",
+      "term": "That’s a fair point, however…",
+      "pos": "phrase",
+      "hint": "credit first, then counter",
+      "register": "Polite",
+      "meaning": "I accept that part of your argument is reasonable, but I still have a different view.",
+      "nuance": "Gives genuine credit before disagreeing, which lowers defensiveness. Sincerity matters — if you don’t mean “fair”, people notice.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Hiring panel · debating a candidate",
+          "sentence": "That’s a fair point, however her portfolio shows she learns new tools quickly.",
+          "highlight": "That’s a fair point, however",
+          "tip": "Name what’s fair about their point to make it sincere."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing a restaurant",
+          "sentence": "That’s a fair point, however the cheap place has a two-hour wait on Fridays.",
+          "highlight": "That’s a fair point, however",
+          "tip": "Casually, “fair point, but” sounds more natural."
+        },
+        {
+          "setting": "writing",
+          "where": "Reply to reviewer comments",
+          "sentence": "That is a fair point; however, the sample was chosen to reflect our target market.",
+          "highlight": "a fair point; however",
+          "tip": "In formal writing, use a semicolon before “however”."
+        }
+      ],
+      "origin": {
+        "summary": "Uses “fair” in its sense of “just, reasonable”. The word comes from Old English fæger, meaning “beautiful, pleasing”; the “just” sense developed in Middle English.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Old English", "text": "“Fæger” means beautiful or pleasing." },
+          { "when": "Middle English", "text": "“Fair” gains the sense of just, honest and reasonable." },
+          { "when": "Modern", "text": "“Fair point” becomes a common concession in debate." }
+        ]
+      },
+      "similar": ["good point, but", "I take your point, but", "fair enough, though"],
+      "pitfall": "Starting every reply with “fair point” and never changing your mind makes it sound hollow."
+    },
+    {
+      "id": "can-we-revisit-this",
+      "kind": "phrase",
+      "term": "Can we revisit this?",
+      "pos": "phrase",
+      "hint": "reopening a decision",
+      "register": "Common at work",
+      "meaning": "A polite request to look again at a decision or topic that seemed settled.",
+      "nuance": "Less confrontational than saying a decision was wrong. Repeatedly revisiting the same decision can look like you won’t accept the outcome.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Sprint planning · new information",
+          "sentence": "Now that legal has flagged the data issue, can we revisit this before we commit?",
+          "highlight": "can we revisit this",
+          "tip": "Give a new reason — it shows you’re not just reopening old arguments."
+        },
+        {
+          "setting": "social",
+          "where": "Partner’s holiday decision",
+          "sentence": "Can we revisit the beach idea? I just saw how expensive the flights are.",
+          "highlight": "Can we revisit",
+          "tip": "Pointing to a specific change keeps it fair."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a committee chair",
+          "sentence": "Given the revised costs, I’d like to ask whether we can revisit last month’s budget decision.",
+          "highlight": "we can revisit",
+          "tip": "In formal writing, frame it as a request, not a demand."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin revisere, “to look at again”, via French. In English, “revisit” meant returning to a place; the figurative “reconsider a decision” sense became common in modern usage.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "Latin", "text": "“Revisere” means to look back at or visit again." },
+          { "when": "Middle English", "text": "“Revisit” enters English via French, mainly for places." },
+          { "when": "Modern", "text": "Widely used for reconsidering ideas and decisions." }
+        ]
+      },
+      "similar": ["can we look at this again", "can we reconsider", "can we reopen this"],
+      "pitfall": "Asking to revisit a decision without new information can feel like relitigating it."
+    },
+    {
+      "id": "take-it-with-a-pinch-of-salt",
+      "kind": "phrase",
+      "term": "Take it with a pinch of salt",
+      "pos": "phrase",
+      "hint": "nothing to do with cooking",
+      "register": "Casual",
+      "meaning": "Treat something with doubt, because it may not be completely true or reliable.",
+      "nuance": "A gentle way to question a claim without calling anyone a liar. Americans more often say “a grain of salt”.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Reviewing a vendor’s pitch",
+          "sentence": "I’d take their uptime claims with a pinch of salt until we see independent data.",
+          "highlight": "with a pinch of salt",
+          "tip": "Say what evidence would change your mind."
+        },
+        {
+          "setting": "social",
+          "where": "Talking about online reviews",
+          "sentence": "Take those five-star reviews with a pinch of salt — half of them were posted the same day.",
+          "highlight": "with a pinch of salt",
+          "tip": "Giving a reason makes it sound fair, not cynical."
+        },
+        {
+          "setting": "writing",
+          "where": "Research summary",
+          "sentence": "Early survey results should be taken with a pinch of salt given the small sample size.",
+          "highlight": "with a pinch of salt",
+          "tip": "In formal writing, “treated with caution” is a plainer option."
+        }
+      ],
+      "origin": {
+        "summary": "Often traced to Pliny the Elder’s recipe for an antidote to poison, taken “with a grain of salt”. The link is plausible but unproven; the doubting sense appears in English much later.",
+        "confidence": "likely",
+        "timeline": [
+          { "when": "c. AD 77", "text": "Pliny’s Natural History lists an antidote taken with a grain of salt." },
+          { "when": "17th c.", "text": "Latin “cum grano salis” used to mean “with some scepticism”." },
+          { "when": "20th c.", "text": "“With a grain/pinch of salt” becomes common in English." }
+        ]
+      },
+      "similar": ["be sceptical", "treat it with caution", "don’t take it at face value"],
+      "pitfall": "Saying this about a colleague’s own work, to their face, can sound like you think they’re dishonest."
+    },
+    {
+      "id": "dont-throw-the-baby-out-with-the-bathwater",
+      "kind": "phrase",
+      "term": "Don’t throw the baby out with the bathwater",
+      "pos": "phrase",
+      "hint": "keep the good part",
+      "register": "Casual",
+      "meaning": "Don’t reject something completely just because part of it is bad; keep what works.",
+      "nuance": "A friendly, vivid way to argue against an overreaction. It can feel patronising if aimed at someone who has already thought it through.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Retro after a failed launch",
+          "sentence": "The rollout failed, but let’s not throw the baby out with the bathwater — the onboarding flow tested really well.",
+          "highlight": "throw the baby out with the bathwater",
+          "tip": "Name the “baby” — the part worth keeping."
+        },
+        {
+          "setting": "social",
+          "where": "Friend wants to quit the gym",
+          "sentence": "You hate the classes, fine, but don’t throw the baby out with the bathwater — keep swimming.",
+          "highlight": "throw the baby out with the bathwater",
+          "tip": "Works well when someone is about to quit everything."
+        },
+        {
+          "setting": "writing",
+          "where": "Policy commentary",
+          "sentence": "Scrapping the whole scheme would throw the baby out with the bathwater.",
+          "highlight": "throw the baby out with the bathwater",
+          "tip": "In formal writing, it’s vivid but use it once."
+        }
+      ],
+      "origin": {
+        "summary": "A German proverb first recorded in 1512 in Thomas Murner’s satire Narrenbeschwörung. Thomas Carlyle brought it into English in 1849.",
+        "confidence": "recorded",
+        "timeline": [
+          { "when": "1512", "text": "Murner writes “das Kind mit dem Bade ausschütten” in Narrenbeschwörung." },
+          { "when": "1849", "text": "Carlyle uses it in an English essay, adapting the German proverb." },
+          { "when": "Today", "text": "A standard English warning against overreacting." }
+        ]
+      },
+      "similar": ["keep what works", "don’t overreact", "don’t scrap the whole thing"],
+      "pitfall": "A popular claim that it comes from medieval families sharing one bath is a myth — the real source is Murner’s proverb."
+    },
+    {
+      "id": "not-the-best-use-of-our-time",
+      "kind": "phrase",
+      "term": "I’m not sure that’s the best use of our time",
+      "pos": "phrase",
+      "hint": "a polite “let’s not”",
+      "register": "Polite",
+      "meaning": "A polite way of saying a task or discussion isn’t worth the time it would take.",
+      "nuance": "Frames refusal as a question of priorities, not personal dislike. Said about someone’s pet project, it can sound dismissive.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Meeting · proposal for another report",
+          "sentence": "I’m not sure that’s the best use of our time — nobody has read the last two reports.",
+          "highlight": "I’m not sure that’s the best use of our time",
+          "tip": "Suggest what would be a better use of the time."
+        },
+        {
+          "setting": "social",
+          "where": "Friends planning a day out",
+          "sentence": "I’m not sure that’s the best use of our time when we only have one day in Rome.",
+          "highlight": "I’m not sure that’s the best use of our time",
+          "tip": "Linking it to a shared limit (one day) keeps it fair."
+        },
+        {
+          "setting": "writing",
+          "where": "Email declining a request",
+          "sentence": "I’m not sure a full audit is the best use of our time before the deadline; could we do a spot check instead?",
+          "highlight": "the best use of our time",
+          "tip": "Offer an alternative so it reads as constructive."
+        }
+      ],
+      "origin": {
+        "summary": "Plain modern English with no single origin. It draws on the long-standing idea that time is a resource to spend wisely, famously put by Benjamin Franklin as “time is money” in 1748.",
+        "confidence": "likely",
+        "timeline": [
+          { "when": "1748", "text": "Franklin’s “Advice to a Young Tradesman” says “time is money”." },
+          { "when": "20th c.", "text": "Management talk frames choices in terms of priorities and opportunity cost." },
+          { "when": "Today", "text": "A common, polite way to decline work in meetings." }
+        ]
+      },
+      "similar": ["I don’t think that’s worth it", "let’s prioritise", "is this the priority?"],
+      "pitfall": "Without an alternative, it can sound like you just don’t want to do the work."
+    }
+  ]
+}
