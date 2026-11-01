@@ -7,7 +7,7 @@ import Animated, { FadeIn, useAnimatedStyle, useSharedValue, withTiming } from '
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { DeckCard, type DeckCardHandle } from '../../components/DeckCard';
-import { LevelChip } from '../../components/LevelChip';
+import { LevelPill } from '../../components/LevelChip';
 import { Icon, IconButton, PressScale, Txt } from '../../components/ui';
 import { cardsById, cardsForScope, openDeckIds, scopeLabel } from '../../data';
 import { levelState } from '../../lib/levels';
@@ -172,14 +172,12 @@ export default function Learn() {
               L
             </Txt>
           </View>
-          <Txt weight="semibold" size={19} style={{ letterSpacing: -0.4 }}>
-            Lexicard
-          </Txt>
         </View>
-        <View style={styles.streak}>
+        <LevelPill level={level} />
+        <View style={styles.streak} accessibilityLabel={streak > 0 ? `${streak}-day streak` : 'No streak yet'}>
           <Icon name="zap" size={14} color={colors.lime} />
           <Txt weight="medium" size={13}>
-            {streak > 0 ? `${streak}-day streak` : 'Start a streak'}
+            {streak > 0 ? `${streak} ${streak === 1 ? 'day' : 'days'}` : 'Start'}
           </Txt>
           {freezes > 0 && (
             <View style={styles.freeze} accessibilityLabel={`${freezes} streak ${freezes === 1 ? 'freeze' : 'freezes'}`}>
@@ -192,9 +190,6 @@ export default function Learn() {
         </View>
       </View>
 
-      <View style={{ paddingHorizontal: 20, paddingTop: 4, paddingBottom: 4 }}>
-        <LevelChip level={level} compact={short} />
-      </View>
 
       <View style={styles.progressWrap}>
         <View style={styles.progressRow}>
@@ -311,7 +306,7 @@ export default function Learn() {
 
 const styles = StyleSheet.create({
   screen: { flex: 1, backgroundColor: colors.bg },
-  header: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingHorizontal: 20, paddingBottom: 8 },
+  header: { flexDirection: 'row', alignItems: 'center', gap: 10, paddingHorizontal: 20, paddingBottom: 8 },
   brand: { flexDirection: 'row', alignItems: 'center', gap: 10 },
   logo: { width: 32, height: 32, borderRadius: 10, backgroundColor: colors.lime, alignItems: 'center', justifyContent: 'center' },
   streak: {

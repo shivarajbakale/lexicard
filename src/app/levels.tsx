@@ -263,13 +263,13 @@ export default function Levels() {
           Rewards
         </Txt>
         <View style={{ paddingHorizontal: 16, gap: 8 }}>
-          <View style={styles.tool}>
+          <View style={[styles.tool, !slots && styles.toolLocked]}>
             <View style={styles.toolIcon}>
-              <Icon name="cloud-snow" size={18} color={slots ? colors.text : colors.textFaint} />
+              <Icon name={slots ? 'cloud-snow' : 'lock'} size={18} color={slots ? colors.lime : colors.textFaint} />
             </View>
             <View style={{ flex: 1, gap: 2 }}>
               <Txt weight="semibold" size={15} color={slots ? colors.text : colors.textMuted}>
-                Streak freezes · {freezes}/{slots}
+                {slots ? `Streak freezes · ${freezes}/${slots}` : 'Streak freezes'}
               </Txt>
               <Txt size={12} color={colors.textMuted}>
                 {slots ? 'Each covers one missed day. Earn one every 7-day streak.' : 'Opens at level 3 · Speaker'}

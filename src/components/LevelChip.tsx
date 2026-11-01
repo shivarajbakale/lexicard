@@ -1,6 +1,6 @@
 import { useRouter } from 'expo-router';
 import { useEffect } from 'react';
-import { StyleSheet, View } from 'react-native';
+import { StyleSheet, useWindowDimensions, View } from 'react-native';
 import Animated, { useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated';
 
 import type { LevelState } from '../lib/levels';
@@ -77,7 +77,53 @@ export function LevelChip({ level, compact = false }: { level: LevelState; compa
   );
 }
 
+/** Header-sized level pill: badge, name, points to next, and a hairline progress bar. Opens the level path. */
+export function LevelPill({ level }: { level: LevelState }) {
+  const router = useRouter();
+  // On the narrowest phones the name wins; the points live on the path screen.
+  const narrow = useWindowDimensions().width < 360;
+  const target = level.next ? `${level.points}/${level.next.points}` : level.stars > 0 ? `★${level.stars}` : `${level.points}`;
+  return (
+    <PressScale
+      style={styles.pill}
+      scaleTo={0.97}
+      onPress={() => router.push('/levels')}
+      accessibilityRole="link"
+      accessibilityLabel={`Level ${level.n}, ${level.def.name}. ${nextStep(level)}. Open your level path.`}
+    >
+      <LevelBadge level={level} size={22} />
+      <Txt weight="semibold" size={13} numberOfLines={1} style={{ flexShrink: 1 }}>
+        {level.def.name}
+      </Txt>
+      {!narrow && (
+        <Txt weight="mono" size={11} color={level.trialReady ? colors.limeSoft : colors.textMuted} style={{ marginLeft: 'auto' }}>
+          {target}
+        </Txt>
+      )}
+      <View style={styles.pillTrack} pointerEvents="none">
+        <ProgressTrack frac={level.next ? level.frac : 1} height={2} track="transparent" />
+      </View>
+    </PressScale>
+  );
+}
+
 const styles = StyleSheet.create({
+  pill: {
+    flex: 1,
+    minWidth: 0,
+    height: 36,
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 8,
+    paddingLeft: 6,
+    paddingRight: 12,
+    borderRadius: radius.pill,
+    backgroundColor: colors.surface2,
+    borderWidth: 1,
+    borderColor: '#2A2D27',
+    overflow: 'hidden',
+  },
+  pillTrack: { position: 'absolute', left: 14, right: 14, bottom: 0 },
   chip: { padding: 12, paddingHorizontal: 14, borderRadius: radius.lg, backgroundColor: colors.surface, borderWidth: 1, borderColor: colors.border, gap: 10 },
   chipCompact: { paddingVertical: 8 },
   row: { flexDirection: 'row', alignItems: 'center', gap: 12 },
