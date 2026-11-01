@@ -112,15 +112,28 @@ export function IconButton({
   );
 }
 
-export function Highlighted({ sentence, highlight, size = 18 }: { sentence: string; highlight: string; size?: number }) {
+/** `marker` draws the term like a highlighter on light backgrounds instead of coloring the text lime. */
+export function Highlighted({
+  sentence,
+  highlight,
+  size = 18,
+  color = colors.text,
+  marker = false,
+}: {
+  sentence: string;
+  highlight: string;
+  size?: number;
+  color?: string;
+  marker?: boolean;
+}) {
   const i = sentence.indexOf(highlight);
   const before = i >= 0 ? sentence.slice(0, i) : sentence;
   const after = i >= 0 ? sentence.slice(i + highlight.length) : '';
   return (
-    <Txt size={size} style={{ lineHeight: size * 1.5 }}>
+    <Txt size={size} color={color} style={{ lineHeight: size * 1.5 }}>
       “{before}
       {i >= 0 && (
-        <Txt weight="semibold" size={size} color={colors.lime}>
+        <Txt weight="semibold" size={size} color={marker ? colors.ink : colors.lime} style={marker ? { backgroundColor: colors.lime, borderRadius: 4 } : undefined}>
           {highlight}
         </Txt>
       )}
