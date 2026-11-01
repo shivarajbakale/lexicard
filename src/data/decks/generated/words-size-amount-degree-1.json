@@ -1,0 +1,1754 @@
+{
+  "id": "words-size-amount-degree-1",
+  "kind": "word",
+  "name": "Size, amount & degree · 1",
+  "blurb": "25 words about size, amount & degree",
+  "cards": [
+    {
+      "id": "abate",
+      "kind": "word",
+      "term": "abate",
+      "pos": "verb",
+      "phonetic": "/əˈbeɪt/",
+      "sayIt": "uh-BAYT",
+      "register": "Common in formal writing",
+      "meaning": "To become less intense or widespread, or to make something weaker or smaller.",
+      "nuance": "Use it for problems, pressures, complaints or symptoms that gradually reduce in strength. It is more formal than “get better” or “calm down.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing customer complaints",
+          "sentence": "Support tickets began to abate after the team released a clearer setup guide.",
+          "highlight": "abate",
+          "tip": "Use it when a difficult situation is becoming less severe."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · explaining a change in the weather",
+          "sentence": "The wind finally began to abate, so we went out to the park.",
+          "highlight": "abate",
+          "tip": "It often describes wind, rain, heat or other conditions losing intensity."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · describing a rise in noise complaints",
+          "sentence": "The number of complaints abated following the installation of soundproof barriers.",
+          "highlight": "abated",
+          "tip": "The past tense “abated” fits naturally when describing what happened earlier."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French abatre, meaning ‘to beat down’, which developed from a- ‘down’ and Latin battere ‘to beat’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root battere meant ‘to beat’."
+          },
+          {
+            "when": "Old French",
+            "text": "Abatre combined ‘down’ with ‘beat’, giving it the sense of reducing or overpowering."
+          },
+          {
+            "when": "14th century",
+            "text": "The word entered English and began to mean ‘to lower’ or ‘subdue’."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used for problems, symptoms, noise, wind or complaints becoming less severe."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "abatement",
+          "label": "noun"
+        },
+        {
+          "term": "abated",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "lessen",
+        "subside",
+        "diminish",
+        "ease"
+      ],
+      "opposite": "intensify",
+      "pitfall": "“Abate” means to become or make something less severe; it does not mean to remove the problem completely."
+    },
+    {
+      "id": "abound",
+      "kind": "word",
+      "term": "abound",
+      "pos": "verb",
+      "phonetic": "/əˈbaʊnd/",
+      "sayIt": "uh-BOUND",
+      "register": "Common at work",
+      "meaning": "To exist in large numbers or amounts.",
+      "nuance": "Often suggests a situation feels full of something because there is plenty of it. It is usually followed by “in,” but can also take a direct object.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · reviewing customer feedback",
+          "sentence": "Positive comments abound in the latest survey, so we should identify which themes deserve attention.",
+          "highlight": "abound",
+          "tip": "Common in reports and presentations when something appears frequently."
+        },
+        {
+          "setting": "social",
+          "where": "Garden visit · discussing wildlife",
+          "sentence": "Butterflies abound here once the warm weather arrives.",
+          "highlight": "abound",
+          "tip": "Use it to describe places, periods or groups that contain something in abundance."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel article · describing a lively market",
+          "sentence": "Street stalls, music and the smell of spices abound in the old market.",
+          "highlight": "abound",
+          "tip": "A vivid alternative to “there are many” or “there is plenty of.”"
+        }
+      ],
+      "origin": {
+        "summary": "From Latin abundare, meaning “to overflow,” built from ab- and unda, “wave.” The idea originally pictured something rising or overflowing like water.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Abundare means “to overflow” or “exist in excess.”"
+          },
+          {
+            "when": "1300s–1400s",
+            "text": "The word enters Middle English in senses connected with being plentiful."
+          },
+          {
+            "when": "Today",
+            "text": "It means to be present in large numbers or amounts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "abundance",
+          "label": "noun"
+        },
+        {
+          "term": "abundant",
+          "label": "adjective"
+        },
+        {
+          "term": "abundantly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "abundant",
+        "plentiful",
+        "prevalent",
+        "numerous"
+      ],
+      "opposite": "scarce",
+      "pitfall": "“Abound” is not normally used directly with a quantity word: say “abounds in opportunities,” not “abounds many opportunities.”"
+    },
+    {
+      "id": "acme",
+      "kind": "word",
+      "term": "acme",
+      "pos": "noun",
+      "phonetic": "/ˈækiː/",
+      "sayIt": "AK-mee",
+      "register": "Formal",
+      "meaning": "The highest point or greatest degree of something.",
+      "nuance": "This literary word adds grandeur or intensity. It often follows “the” and is used in phrases such as “the acme of luxury.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · recognizing achievement",
+          "sentence": "Her ability to turn a difficult client into a loyal customer is the acme of excellent service.",
+          "highlight": "acme",
+          "tip": "Use it in polished writing to describe the highest standard of a skill or quality."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · praising a performance",
+          "sentence": "That was the acme of elegance: calm, precise and completely effortless.",
+          "highlight": "acme",
+          "tip": "It sounds impressive among friends who enjoy formal or literary language."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel feature · describing a famous venue",
+          "sentence": "The hotel has become the acme of old-world luxury, with marble halls and a celebrated dining room.",
+          "highlight": "acme",
+          "tip": "A strong choice for editorial prose, but too dramatic for an everyday message."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek akmē, meaning “peak” or “highest point,” and later used figuratively for the greatest degree of something.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "akmē, “peak” or “highest point.”"
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The figurative sense develops as “the highest point or degree.”"
+          },
+          {
+            "when": "Today",
+            "text": "It remains formal and literary, especially in the phrase “the acme of.”"
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "acme",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "zenith",
+        "apogee",
+        "pinnacle",
+        "culmination"
+      ],
+      "opposite": "nadir",
+      "pitfall": "Write it lowercase when you mean the highest point; capital “Acme” commonly refers to a business name or trademark."
+    },
+    {
+      "id": "acute",
+      "kind": "word",
+      "term": "acute",
+      "pos": "adjective",
+      "phonetic": "/əˈkjuːt/",
+      "sayIt": "uh-KYOOT",
+      "register": "Common at work",
+      "meaning": "Describing something that is sharp and intense, especially sudden pain, a serious problem, or keen perception.",
+      "nuance": "Acute suggests a strong or urgent quality. It can describe a short-lived condition, such as acute pain, or an unusually quick and perceptive person.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · raising a risk",
+          "sentence": "We have an acute staffing problem, so we should postpone the launch until next week.",
+          "highlight": "acute",
+          "tip": "Use it for a serious difficulty that needs prompt attention."
+        },
+        {
+          "setting": "social",
+          "where": "At dinner · describing an injury",
+          "sentence": "I woke up with an acute pain in my lower back and had to cancel our outing.",
+          "highlight": "acute",
+          "tip": "Often used for pain that feels sharp and severe."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · noting judgement",
+          "sentence": "Her acute understanding of the client's needs shaped the final proposal.",
+          "highlight": "acute",
+          "tip": "Here it means especially perceptive, sharp, and effective at understanding."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin acutus, meaning 'sharp' or 'pointed', originally a past participle of acuere, 'to sharpen'.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Acutus develops from acuere, 'to sharpen', and also comes to mean 'pointed' or 'intense'."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in medical, geometric, and figurative senses."
+          },
+          {
+            "when": "Today",
+            "text": "It describes severe or sudden conditions, sharp angles, and keen perception."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "acutely",
+          "label": "adverb"
+        },
+        {
+          "term": "acuteness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "intense",
+        "severe",
+        "sharp",
+        "keen",
+        "urgent"
+      ],
+      "opposite": "chronic",
+      "pitfall": "In medicine, acute means sudden and short-lived, while chronic means continuing over a long period."
+    },
+    {
+      "id": "affluent",
+      "kind": "word",
+      "term": "affluent",
+      "pos": "adjective",
+      "phonetic": "/ˈæfluənt/",
+      "sayIt": "AF-flu-uhnt",
+      "register": "Everyday and common in formal writing",
+      "meaning": "Having enough money to live comfortably and enjoy a high standard of living.",
+      "nuance": "Often describes a person, place or community with substantial wealth. It can sound slightly formal and may suggest comfortable surroundings rather than extreme riches.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client meeting · discussing a market",
+          "sentence": "Affluent customers are willing to pay more for products that save them time.",
+          "highlight": "Affluent",
+          "tip": "Useful in reports and presentations when describing a target audience."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans · choosing a restaurant",
+          "sentence": "That part of the city is affluent, but the restaurant prices are surprisingly reasonable.",
+          "highlight": "affluent",
+          "tip": "In conversation, it often describes an area rather than a person."
+        },
+        {
+          "setting": "writing",
+          "where": "Property listing · neighborhood details",
+          "sentence": "The property is close to schools and an affluent commercial district.",
+          "highlight": "affluent",
+          "tip": "It sounds natural in property, travel and market-research writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin affluens, meaning ‘flowing toward’ or ‘overflowing’, originally suggesting abundance and wealth.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Affluens comes from affluere, formed from ad, ‘toward’, and fluere, ‘to flow’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with meanings connected with abundance and wealth."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes people, places or groups that are comfortably wealthy."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "affluence",
+          "label": "noun"
+        },
+        {
+          "term": "affluently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "wealthy",
+        "prosperous",
+        "well-off",
+        "moneyed"
+      ],
+      "opposite": "impoverished",
+      "pitfall": "Use affluent for people or communities; use affluence when you need the noun form."
+    },
+    {
+      "id": "alleviate",
+      "kind": "word",
+      "term": "alleviate",
+      "pos": "verb",
+      "phonetic": "/əˈliːvieɪt/",
+      "sayIt": "uh-LEE-vee-AYT",
+      "register": "Formal",
+      "meaning": "To make a problem, difficulty, or suffering less severe.",
+      "nuance": "It suggests reducing the impact of something rather than removing the cause altogether. It is often used with pain, pressure, hardship, or financial problems.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · easing workload",
+          "sentence": "Hiring two temporary staff could alleviate pressure on the support team during the busy period.",
+          "highlight": "alleviate",
+          "tip": "Use it for problems that can be made easier to manage."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · supporting a friend",
+          "sentence": "I hope talking about the situation will alleviate some of your worries.",
+          "highlight": "alleviate",
+          "tip": "It is a considerate way to describe reducing someone’s discomfort or anxiety."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · describing impact",
+          "sentence": "The measures are intended to alleviate the effects of the disruption on local communities.",
+          "highlight": "alleviate",
+          "tip": "It fits well in formal writing when describing measures that reduce harm."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin alleviare, meaning ‘to lighten’, formed from ad- ‘to’ and leviare ‘to lighten or lessen’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Alleviare develops from elements meaning ‘to’ and ‘to lighten or lessen’."
+          },
+          {
+            "when": "Late Middle English",
+            "text": "The word enters English in the sense of relieving or mitigating difficulty."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used for reducing the severity of problems or suffering."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "alleviation",
+          "label": "noun"
+        },
+        {
+          "term": "alleviative",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "ease",
+        "lessen",
+        "mitigate",
+        "assuage"
+      ],
+      "opposite": "worsen",
+      "pitfall": "It does not mean to solve the underlying problem; it means to make the problem less severe."
+    },
+    {
+      "id": "attenuated",
+      "kind": "word",
+      "term": "attenuated",
+      "pos": "adjective",
+      "phonetic": "/əˈtɛn.ju.eɪ.tɪd/",
+      "sayIt": "uh-TEN-yoo-AY-tid",
+      "register": "Formal",
+      "meaning": "Made weaker, smaller, or less intense in strength, sound, or effect.",
+      "nuance": "Often used in technical or formal contexts. It suggests a gradual reduction rather than something being completely removed.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Risk review · assessing a safety measure",
+          "sentence": "The attenuator reduced the machine’s noise, but its effect on vibration was only slightly attenuated.",
+          "highlight": "attenuated",
+          "tip": "Common in engineering, medicine, acoustics, and safety discussions."
+        },
+        {
+          "setting": "social",
+          "where": "Concert · describing fading music",
+          "sentence": "The band continued playing as the sound became progressively attenuated toward the back of the venue.",
+          "highlight": "attenuated",
+          "tip": "Use it when describing something that becomes steadily weaker rather than simply stopping."
+        },
+        {
+          "setting": "writing",
+          "where": "Research summary · explaining a limiting factor",
+          "sentence": "Extreme heat attenuated the device’s performance, although the original design remained largely intact.",
+          "highlight": "attenuated",
+          "tip": "It gives a formal tone and is useful when describing a reduced effect or intensity."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin attenuare, meaning ‘to make thin’, which comes from tenuis, meaning ‘thin’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Attenuare means ‘to make thin or weaker’, based on tenuis, ‘thin’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in scientific, medical, and general contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes a reduction in strength, intensity, size, or effect."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "attenuate",
+          "label": "verb"
+        },
+        {
+          "term": "attenuation",
+          "label": "noun"
+        },
+        {
+          "term": "attenuator",
+          "label": "noun (device)"
+        }
+      ],
+      "similar": [
+        "weakened",
+        "reduced",
+        "diluted",
+        "subdued"
+      ],
+      "opposite": "strengthened",
+      "pitfall": "Don’t confuse it with attenuated in the technical phrase attenuated wave, where the wave’s amplitude decreases with distance."
+    },
+    {
+      "id": "atypical",
+      "kind": "word",
+      "term": "atypical",
+      "pos": "adjective",
+      "phonetic": "/eɪˈtɪpɪkəl/",
+      "sayIt": "ay-TIP-ik-uhl",
+      "register": "Common at work",
+      "meaning": "Different from what is usual, expected or typical.",
+      "nuance": "It can sound neutral and descriptive, but sometimes suggests that something is unusual in a way that may be interesting, unusual or undesirable.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing performance",
+          "sentence": "Sales were atypical last quarter, so we should check whether the campaign ran for the full period.",
+          "highlight": "atypical",
+          "tip": "Use it for results, behaviour or conditions that differ from the normal pattern."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · describing a trip",
+          "sentence": "We had an atypical weekend because the weather was unusually warm.",
+          "highlight": "atypical",
+          "tip": "It works well when you want to describe an experience without calling it strange."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · explaining unusual findings",
+          "sentence": "The region experienced an atypical period of heavy rainfall, leading to several flooding warnings.",
+          "highlight": "atypical",
+          "tip": "Choose it when the focus is on deviation from a usual pattern."
+        }
+      ],
+      "origin": {
+        "summary": "Built from Greek roots meaning ‘not typical’. The word entered English through French in the 1600s and originally referred to something outside the usual rules.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "The prefix a- means ‘not’, while typicalus means ‘typical’ or ‘usual’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word appears in English, initially meaning irregular or not conforming to a standard."
+          },
+          {
+            "when": "Today",
+            "text": "It broadly means different from what is normal, expected or typical."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "atypicality",
+          "label": "noun"
+        },
+        {
+          "term": "atypically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "unusual",
+        "abnormal",
+        "exceptional",
+        "irregular",
+        "nonstandard"
+      ],
+      "opposite": "typical",
+      "pitfall": "Atypical does not automatically mean rare; it only means different from the usual or expected pattern."
+    },
+    {
+      "id": "augment",
+      "kind": "word",
+      "term": "augment",
+      "pos": "verb",
+      "phonetic": "/ɔːɡˈment/",
+      "sayIt": "awg-MENT",
+      "register": "Formal; common at work",
+      "meaning": "To make something larger or more complete by adding to it.",
+      "nuance": "Formal and slightly technical, but useful when discussing budgets, teams, systems or evidence. It suggests adding to something that already exists rather than creating it from scratch.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · allocating resources",
+          "sentence": "We augmented the training budget to cover the new compliance course.",
+          "highlight": "augmented",
+          "tip": "Use it for an increase that supports an existing plan, budget or system."
+        },
+        {
+          "setting": "social",
+          "where": "Music gathering · sharing a playlist",
+          "sentence": "Could you augment the playlist with a few jazz tracks?",
+          "highlight": "augment",
+          "tip": "It sounds more formal than “add,” so use it when a light, polished tone suits the conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Research summary · presenting findings",
+          "sentence": "The follow-up study augments the original results with data from three additional sites.",
+          "highlight": "augments",
+          "tip": "A strong choice for explaining that new evidence or detail strengthens existing information."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin augmentare, meaning “to increase,” which comes from augere, “to make bigger” or “grow.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Augere develops into augmentare, meaning “to increase” or “make larger.”"
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English through French in the sense of increasing or adding to something."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal word for increasing size, scope, value or completeness."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "augmentation",
+          "label": "noun"
+        },
+        {
+          "term": "augmented",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "enhance",
+        "expand",
+        "supplement",
+        "increase"
+      ],
+      "opposite": "reduce",
+      "pitfall": "Use “augment” when something is being added to or enlarged; for simply making a number bigger, “increase” is more direct."
+    },
+    {
+      "id": "bagatelle",
+      "kind": "word",
+      "term": "bagatelle",
+      "pos": "noun",
+      "phonetic": "/ˌbæɡəˈtɛl/",
+      "sayIt": "BAG-uh-TEL",
+      "register": "Formal",
+      "meaning": "A matter that is considered small, unimportant, or not worth serious attention.",
+      "nuance": "This is a formal, slightly old-fashioned word often used to dismiss a problem as trivial. It can sound dismissive, especially when someone else sees the issue as important.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · dismissing a delay",
+          "sentence": "Treating the scheduling mix-up as a bagatelle annoyed the client, because it had delayed their launch.",
+          "highlight": "bagatelle",
+          "tip": "Use it in formal discussion when describing an issue as insignificant."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · settling a disagreement",
+          "sentence": "Let’s not turn a bagatelle into an argument: the restaurant moved our table, but the food is still good.",
+          "highlight": "bagatelle",
+          "tip": "It adds a literary tone and works best when playfully minimising something."
+        },
+        {
+          "setting": "writing",
+          "where": "Meeting notes · editing an objection",
+          "sentence": "The complaint about font colour was a bagatelle, so I left it out of the meeting notes.",
+          "highlight": "bagatelle",
+          "tip": "It can make a blunt editorial judgment sound polished, but watch how dismissive it feels."
+        }
+      ],
+      "origin": {
+        "summary": "From French bagatelle, meaning a small or insignificant thing, which came from Italian bagattella, a diminutive form associated with a small thing.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "French bagatelle is used for a small or insignificant matter."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English, initially meaning a trifle."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal figurative word and also names a type of light card game."
+          }
+        ]
+      },
+      "similar": [
+        "trifle",
+        "triviality",
+        "minor matter",
+        "trivia"
+      ],
+      "opposite": "essential matter",
+      "pitfall": "It means unimportant, not merely easy or convenient; using it can dismiss someone’s concern."
+    },
+    {
+      "id": "catastrophic",
+      "kind": "word",
+      "term": "catastrophic",
+      "pos": "adjective",
+      "phonetic": "/ˌkætəˈstrɒfɪk/",
+      "sayIt": "KAT-uh-STROF-ik",
+      "register": "Common at work",
+      "meaning": "Causing enormous and often irreversible harm or loss.",
+      "nuance": "This is a strong word for a disaster with severe consequences. It can describe physical damage, financial loss, environmental harm or a serious failure.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · reporting system failure",
+          "sentence": "The outage was catastrophic, costing several major clients thousands of pounds in lost business.",
+          "highlight": "catastrophic",
+          "tip": "Use it when the scale of the damage is central to the message."
+        },
+        {
+          "setting": "social",
+          "where": "Friends’ conversation · recounting a storm",
+          "sentence": "The storm was catastrophic; several roads disappeared and one village had to be evacuated.",
+          "highlight": "catastrophic",
+          "tip": "It suits serious real-world events rather than ordinary inconveniences."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · explaining financial damage",
+          "sentence": "Catastrophic flooding destroyed warehouses and forced the company to delay production for months.",
+          "highlight": "Catastrophic",
+          "tip": "It adds force to headlines and formal reports when the consequences are severe."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek katastrophē, meaning a sudden downfall or disaster, and first entered English in the early 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "Built from kata, ‘down’, and strephein, ‘to turn’, describing a sudden change for the worse."
+          },
+          {
+            "when": "Early 1600s",
+            "text": "Catastrophe enters English in medical and literary writing with the sense of an overwhelming disaster."
+          },
+          {
+            "when": "Today",
+            "text": "Catastrophic is the adjective for harm or loss on a massive scale."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "catastrophe",
+          "label": "noun"
+        },
+        {
+          "term": "catastrophically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "devastating",
+        "disastrous",
+        "calamitous",
+        "severe"
+      ],
+      "opposite": "minor",
+      "pitfall": "Catastrophic is stronger than disastrous; reserve it for harm that is exceptionally serious."
+    },
+    {
+      "id": "commodious",
+      "kind": "word",
+      "term": "commodious",
+      "pos": "adjective",
+      "phonetic": "/kəˈmoʊdiəs/",
+      "sayIt": "kuh-MOH-dee-us",
+      "register": "Formal",
+      "meaning": "Describing a room or building that has plenty of space and is comfortable to be in.",
+      "nuance": "It suggests generous space as well as comfort, so it sounds more refined than simply roomy. The word is uncommon in everyday conversation but useful in formal descriptions of accommodation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office review · selecting a venue",
+          "sentence": "The upstairs meeting room is commodious, with enough space for the whole team.",
+          "highlight": "commodious",
+          "tip": "Use it when describing a room that is spacious and comfortable, especially in formal writing."
+        },
+        {
+          "setting": "social",
+          "where": "House viewing · discussing a property",
+          "sentence": "The kitchen is commodious, so we could fit a dining table there without making it feel crowded.",
+          "highlight": "commodious",
+          "tip": "It sounds slightly old-fashioned in conversation; roomy is more natural."
+        },
+        {
+          "setting": "writing",
+          "where": "Hotel review · describing a suite",
+          "sentence": "We were delighted by the commodious suite, which had a separate sitting area and plenty of storage.",
+          "highlight": "commodious",
+          "tip": "Choose it for polished travel or property descriptions rather than casual messages."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin commodus, meaning convenient or suitable, developed through French into an English word for roomy or spacious.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Commodus meant convenient, suitable or large enough for comfort."
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered English with meanings related to convenience and comfort."
+          },
+          {
+            "when": "1800s",
+            "text": "Its meaning narrowed to describing something roomy and comfortably spacious."
+          }
+        ]
+      },
+      "similar": [
+        "spacious",
+        "roomy",
+        "comfortable",
+        "airy"
+      ],
+      "opposite": "cramped",
+      "pitfall": "Commodious does not merely mean pleasant; it specifically suggests that there is ample space."
+    },
+    {
+      "id": "comprehensive",
+      "kind": "word",
+      "term": "comprehensive",
+      "pos": "adjective",
+      "phonetic": "/ˌkɒm.prɪˈhen.sɪv/",
+      "sayIt": "kuhm-PREN-siv",
+      "register": "Common at work and in formal writing",
+      "meaning": "Including all the important parts, details or elements of something.",
+      "nuance": "It suggests that nothing significant has been left out. It is often used for tests, plans, reviews and explanations, but can sound repetitive if overused.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · assessing progress",
+          "sentence": "We need a comprehensive review of customer feedback before deciding which features to improve.",
+          "highlight": "comprehensive",
+          "tip": "Use it when you mean the review covers every significant area."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a course · discussing options",
+          "sentence": "The course provides a comprehensive introduction to photography, from camera settings to editing.",
+          "highlight": "comprehensive",
+          "tip": "It fits naturally when describing something that covers the whole subject."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · presenting findings",
+          "sentence": "The report gives a comprehensive account of the project’s costs, delays and final results.",
+          "highlight": "comprehensive",
+          "tip": "Common in reports and formal summaries; choose it only when the coverage is genuinely broad."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin comprehensivus, meaning ‘comprehending’ or ‘inclusive’, which came from comprehendere, ‘to grasp or understand in full’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Comprehensivus develops from comprehendere, meaning ‘to grasp, understand or include’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English and begins to mean complete in scope or detail."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for anything that includes all the important parts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "comprehensively",
+          "label": "adverb"
+        },
+        {
+          "term": "comprehension",
+          "label": "noun"
+        },
+        {
+          "term": "comprehensiveness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "thorough",
+        "exhaustive",
+        "complete",
+        "extensive",
+        "in-depth"
+      ],
+      "opposite": "partial",
+      "pitfall": "Do not confuse it with comprehensible, which means able to be understood."
+    },
+    {
+      "id": "constrict",
+      "kind": "word",
+      "term": "constrict",
+      "pos": "verb",
+      "phonetic": "/kənˈstrɪkt/",
+      "sayIt": "kun-STRIKT",
+      "register": "Formal",
+      "meaning": "To make something narrower, tighter, or more restricted.",
+      "nuance": "Often describes physical narrowing, but it can also mean limiting someone’s choices, opportunities, or freedom.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget review · limiting options",
+          "sentence": "Hiring freeze constricted the team’s options for handling the increased workload.",
+          "highlight": "constricted",
+          "tip": "Common in formal workplace writing when describing limits on growth, resources, or flexibility."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · physical discomfort",
+          "sentence": "The tight collar constricted my breathing as soon as I sat down.",
+          "highlight": "constricted",
+          "tip": "Use it for a physical passage that has been squeezed or narrowed."
+        },
+        {
+          "setting": "writing",
+          "where": "Research summary · tightening conditions",
+          "sentence": "Cold water constricted the blood vessels in my fingers.",
+          "highlight": "constricted",
+          "tip": "A precise choice for describing a bodily reaction in formal or scientific writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin constringere, meaning ‘to draw tightly’ or ‘bind together’, with constrictus referring to something drawn close or narrow.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Constringere, ‘to draw tightly, bind’, develops the form constrictus."
+          },
+          {
+            "when": "1500s",
+            "text": "Constrict enters English with meanings connected with tightening or binding."
+          },
+          {
+            "when": "Today",
+            "text": "Used for physical narrowing and, figuratively, for restricting freedom, opportunities, or movement."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "constriction",
+          "label": "noun"
+        },
+        {
+          "term": "constricted",
+          "label": "adjective"
+        },
+        {
+          "term": "constrictive",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "narrow",
+        "tighten",
+        "restrict",
+        "compress",
+        "constrain"
+      ],
+      "opposite": "expand",
+      "pitfall": "Constrict usually suggests making something narrower or more limited; for rules and regulations alone, restrict is often more natural."
+    },
+    {
+      "id": "copious",
+      "kind": "word",
+      "term": "copious",
+      "pos": "adjective",
+      "phonetic": "/ˈkəʊpiəs/",
+      "sayIt": "KOH-pee-us",
+      "register": "Formal; common in writing",
+      "meaning": "Existing in a large amount, often more than is needed.",
+      "nuance": "It suggests plentiful quantity, but it can also imply that there is more than necessary. It sounds especially natural in formal or descriptive writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Research presentation · sharing findings",
+          "sentence": "We have copious evidence that customers prefer the simpler design.",
+          "highlight": "copious",
+          "tip": "Use it before evidence, data or detail to emphasize how much you have."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · commenting on the food",
+          "sentence": "There were copious snacks on the table, so nobody left hungry.",
+          "highlight": "copious",
+          "tip": "It can add a slightly formal or humorous tone to an everyday observation."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel review · describing a location",
+          "sentence": "The market offers copious choices of fresh bread, fruit and regional cheeses.",
+          "highlight": "copious",
+          "tip": "It works well in descriptions when you want to emphasize abundance."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin copiousus, meaning ‘abundant’, which was based on copia, meaning ‘plenty’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Roman Latin",
+            "text": "Copiosus is formed from copia, meaning ‘plenty’ or ‘abundance’."
+          },
+          {
+            "when": "Late Middle English",
+            "text": "The word enters English with the sense of plentiful or abundant."
+          },
+          {
+            "when": "Today",
+            "text": "It describes large quantities and can sometimes suggest excess."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "copiously",
+          "label": "adverb"
+        },
+        {
+          "term": "copiousness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "abundant",
+        "plentiful",
+        "ample",
+        "profuse"
+      ],
+      "opposite": "scarce",
+      "pitfall": "Don’t use it when quantity alone is unclear; say what is plentiful, such as copious evidence or copious amounts of time."
+    },
+    {
+      "id": "cumbersome",
+      "kind": "word",
+      "term": "cumbersome",
+      "pos": "adjective",
+      "phonetic": "/ˈkʌmbərsəm/",
+      "sayIt": "KUM-bur-suhm",
+      "register": "Common at work",
+      "meaning": "Difficult to carry, handle, manage or use because it is large, heavy or complicated.",
+      "nuance": "It often suggests that something is inconvenient rather than completely impossible. It can describe physical objects, systems, processes or formalities.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing a new process",
+          "sentence": "The approval process is too cumbersome for routine requests, so we need a simpler route.",
+          "highlight": "cumbersome",
+          "tip": "Use it to describe a process that creates unnecessary effort or delay."
+        },
+        {
+          "setting": "social",
+          "where": "Helping a friend move · carrying equipment",
+          "sentence": "These camping bags are cumbersome on the train, but they fit everything we need.",
+          "highlight": "cumbersome",
+          "tip": "It is useful when an object is awkward to carry or manage."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · describing a legacy system",
+          "sentence": "The report notes that the cumbersome system makes it hard for new employees to access information.",
+          "highlight": "cumbersome",
+          "tip": "It sounds slightly formal and works well in reports, reviews and proposals."
+        }
+      ],
+      "origin": {
+        "summary": "Built from the word cumber, meaning to hinder or burden, with the suffix -some. The sense of being a burden developed into the modern idea of being difficult to handle.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1400s",
+            "text": "Cumber appears in English with meanings such as to hinder, encumber or burden."
+          },
+          {
+            "when": "1500s",
+            "text": "Cumbersome develops as an adjective meaning burdensome or obstructive."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes anything awkward, heavy, complicated or inconvenient to use."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "cumber",
+          "label": "verb"
+        },
+        {
+          "term": "encumber",
+          "label": "verb"
+        },
+        {
+          "term": "encumbrance",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "unwieldy",
+        "awkward",
+        "clumsy",
+        "burdensome",
+        "complicated"
+      ],
+      "opposite": "manageable",
+      "pitfall": "Use cumbersome for difficulty handling or using something; use clumsy mainly for awkward movement or poor coordination."
+    },
+    {
+      "id": "cumulative",
+      "kind": "word",
+      "term": "cumulative",
+      "pos": "adjective",
+      "phonetic": "/ˈkjuːmjələtɪv/",
+      "sayIt": "KYOO-myuh-luh-tiv",
+      "register": "Common at work and in formal writing",
+      "meaning": "Growing by adding smaller amounts together, especially when the total gradually becomes larger.",
+      "nuance": "Often highlights the combined effect of several changes, losses or gains. It can sound slightly formal and is especially useful with figures, impacts and results.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget review · tracking delays",
+          "sentence": "The cumulative effect of three small delays pushed the launch date back by two weeks.",
+          "highlight": "cumulative",
+          "tip": "Use it when separate factors are combining to create a larger overall impact."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans · counting costs",
+          "sentence": "After adding parking, lunch and the entry fee, the cumulative cost was higher than we expected.",
+          "highlight": "cumulative",
+          "tip": "It fits when you want to emphasize the growing total without listing every amount again."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · summarizing performance",
+          "sentence": "Sales rose steadily, and the report showed a cumulative increase of 18% over the year.",
+          "highlight": "cumulative",
+          "tip": "Pairs naturally with increase, total, effect, impact and growth in reports."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin cumulativus, meaning ‘heaped up’, based on cumulus, a heap or pile.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Cumulativus is formed from cumulus, meaning ‘heap’, with a suffix indicating accumulation."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English in legal and scholarly contexts concerning totals and accumulated amounts."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes effects, totals or changes that build up over time."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "accumulation",
+          "label": "noun"
+        },
+        {
+          "term": "cumulatively",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "accumulated",
+        "aggregate",
+        "compounding",
+        "increasing"
+      ],
+      "opposite": "individual",
+      "pitfall": "Cumulative describes a total built from several parts; it does not necessarily mean the increase happens continuously."
+    },
+    {
+      "id": "curtail",
+      "kind": "word",
+      "term": "curtail",
+      "pos": "verb",
+      "phonetic": "/kɜːrˈteɪl/",
+      "sayIt": "kur-TAYL",
+      "register": "Formal",
+      "meaning": "To reduce something or make it shorter than planned.",
+      "nuance": "It suggests cutting a process, activity or amount of time short, often deliberately. It is more formal than “reduce” or “cut back.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · reducing scope",
+          "sentence": "We had to curtail the launch to finish testing on time.",
+          "highlight": "curtail",
+          "tip": "Common in business and project language when plans are reduced."
+        },
+        {
+          "setting": "social",
+          "where": "Family event · changing arrangements",
+          "sentence": "We curtailed the evening plans because everyone was tired.",
+          "highlight": "curtail",
+          "tip": "It sounds slightly formal but can describe any planned activity being shortened."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · explaining fewer activities",
+          "sentence": "Budget cuts curtailed the number of community events held this year.",
+          "highlight": "curtail",
+          "tip": "Pairs naturally with nouns such as plans, work, travel, activities and spending."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French curtaller, meaning “to cut short,” with roots connected to the idea of cutting or trimming.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old French",
+            "text": "The word meant to cut or shorten something."
+          },
+          {
+            "when": "1500s",
+            "text": "It appears in English with the sense of cutting short or restricting."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used for reducing plans, activities, time or spending."
+          }
+        ]
+      },
+      "similar": [
+        "reduce",
+        "cut back",
+        "shorten",
+        "restrict",
+        "abbreviate"
+      ],
+      "opposite": "expand",
+      "pitfall": "Don't confuse it with “curtail” as a noun; in this card it is a verb. It also sounds more formal than everyday alternatives such as “cut back.”"
+    },
+    {
+      "id": "dearth",
+      "kind": "word",
+      "term": "dearth",
+      "pos": "noun",
+      "phonetic": "/dɜːθ/",
+      "sayIt": "DURTH",
+      "register": "Formal",
+      "meaning": "A shortage or lack of something that people need or value.",
+      "nuance": "Often suggests that a serious shortage is limiting people or opportunities. It is more common in formal writing than everyday speech.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Hiring meeting · specialist skills",
+          "sentence": "There is a dearth of experienced engineers who can work with our legacy systems.",
+          "highlight": "dearth",
+          "tip": "Use it to describe a serious shortage of skills, experience or resources."
+        },
+        {
+          "setting": "social",
+          "where": "Community event · local services",
+          "sentence": "A dearth of affordable homes is pushing many families away from the area.",
+          "highlight": "dearth",
+          "tip": "It gives a more formal tone than saying there are not enough homes."
+        },
+        {
+          "setting": "writing",
+          "where": "Research report · evidence",
+          "sentence": "The study found a dearth of reliable evidence about the treatment's long-term effects.",
+          "highlight": "dearth",
+          "tip": "Common in reports and journalism, especially in the phrase ‘a dearth of evidence’."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Old English dīerþ, meaning scarcity or lack, and passed through Middle English before reaching its modern form.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "Dīerþ meant scarcity, lack or a shortage."
+          },
+          {
+            "when": "Middle English",
+            "text": "It appears as derth or derthe, with the sense of scarcity continuing."
+          },
+          {
+            "when": "Modern English",
+            "text": "It is now mainly used in formal contexts to describe a serious shortage."
+          }
+        ]
+      },
+      "similar": [
+        "scarcity",
+        "shortage",
+        "paucity",
+        "deficit"
+      ],
+      "opposite": "abundance",
+      "pitfall": "Do not confuse dearth with death; the final consonant sound is unvoiced, as in bath."
+    },
+    {
+      "id": "decrepit",
+      "kind": "word",
+      "term": "decrepit",
+      "pos": "adjective",
+      "phonetic": "/dɪˈkrɪpɪt/",
+      "sayIt": "dih-KRIP-it",
+      "register": "Formal and literary",
+      "meaning": "Extremely old, weak, or damaged through age and long use.",
+      "nuance": "It suggests that something has deteriorated so much that it seems barely fit to function. The word is often more dramatic than simply saying “old” or “worn-out.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Site inspection · unsafe equipment",
+          "sentence": "We should replace the decrepit generator before the winter storm.",
+          "highlight": "decrepit",
+          "tip": "Use it when age and deterioration make something clearly unreliable."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · old furniture",
+          "sentence": "Our decrepit armchair has survived three moves and two cats.",
+          "highlight": "decrepit",
+          "tip": "It can add a humorous or affectionate touch when describing well-worn possessions."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · ageing infrastructure",
+          "sentence": "The report highlights decrepit bridges and unreliable water systems across the region.",
+          "highlight": "decrepit",
+          "tip": "It is effective in formal writing when you want to emphasise serious deterioration."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin decrepitus, meaning worn out or broken down, originally connected with the sound of creaking and with deterioration through age.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "decrepitus develops from roots meaning to grow weaker and to creak."
+          },
+          {
+            "when": "1600s",
+            "text": "The word begins appearing in English in the sense of old, worn out, or decayed."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly formal or literary and describes severe age-related deterioration."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "decrepitude",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "weathered",
+        "worn-out",
+        "dilapidated",
+        "shabby",
+        "antiquated"
+      ],
+      "opposite": "new",
+      "pitfall": "Do not confuse it with “decimate,” which means to destroy or reduce a large proportion of something."
+    },
+    {
+      "id": "diminutive",
+      "kind": "word",
+      "term": "diminutive",
+      "pos": "adjective",
+      "phonetic": "/dɪˈmɪnjətɪv/",
+      "sayIt": "dih-MIN-yuh-tiv",
+      "register": "Common in formal and literary English",
+      "meaning": "Small in size, scale or importance; sometimes appealingly or affectionately small.",
+      "nuance": "It can describe a physical object, a minor role or an endearing quality. It may sound patronising when used about a person.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product review · comparing versions",
+          "sentence": "The compact model has a surprisingly dimmutive footprint, yet it performs almost like the full-sized unit.",
+          "highlight": "dimmutive",
+          "tip": "Use it for something noticeably small in size, especially when the smallness is surprising."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · teasing a child",
+          "sentence": "What a dimmutive little nephew you have grown into!",
+          "highlight": "dimmutive",
+          "tip": "The affectionate tone makes it suitable for a warm compliment, but not for someone you barely know."
+        },
+        {
+          "setting": "writing",
+          "where": "Novel description · introducing a character",
+          "sentence": "She was a dimmutive figure in an oversized coat, always the first to vanish into the crowd.",
+          "highlight": "dimmutive",
+          "tip": "It can add a vivid sense of smallness, slightness or quiet importance to a description."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin diminutivus, meaning ‘of small size’, formed from diminuere, ‘to make smaller or lessen’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Diminutivus is formed from diminuere, ‘to make smaller or lessen’."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters Middle English in senses connected with reduction and smallness."
+          },
+          {
+            "when": "Today",
+            "text": "It describes small size or importance and can also convey affection."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "diminutive",
+          "label": "noun (small word or form)"
+        },
+        {
+          "term": "diminution",
+          "label": "noun"
+        },
+        {
+          "term": "diminish",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "tiny",
+        "small",
+        "compact",
+        "minuscule",
+        "slight"
+      ],
+      "opposite": "large",
+      "pitfall": "Avoid calling a person ‘diminutive’ unless the context is clearly affectionate; it can sound patronising or insulting."
+    },
+    {
+      "id": "dispersed",
+      "kind": "word",
+      "term": "dispersed",
+      "pos": "adjective",
+      "phonetic": "/dɪˈspɜːrsd/",
+      "sayIt": "dis-PERSD",
+      "register": "Common at work",
+      "meaning": "Scattered over a wide area rather than gathered in one place.",
+      "nuance": "Describes people, objects, or groups spread across different locations. It can sound neutral and factual, or suggest that something has been separated more than intended.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · assigning field staff",
+          "sentence": "Our sales team is dispersed across six offices, so we’ll hold the main meeting by video call.",
+          "highlight": "dispersed",
+          "tip": "Natural for describing teams or resources located in different places."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · first introductions",
+          "sentence": "The guests were dispersed around the garden until dinner was ready.",
+          "highlight": "dispersed",
+          "tip": "Use it when people are spread out rather than all together."
+        },
+        {
+          "setting": "writing",
+          "where": "Event report · describing attendance",
+          "sentence": "A small but dispersed audience attended the seminar, joining from locations across the country.",
+          "highlight": "dispersed",
+          "tip": "Often appears in reports about audiences, communities, or populations across a region."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin dispersus, the past participle of dispergere, meaning to scatter or send apart.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Dispergere combines dis- ‘apart’ with spargere ‘to scatter or throw’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English in the sense of scattered or distributed."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly describes people or things spread over a wide area."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "disperse",
+          "label": "verb"
+        },
+        {
+          "term": "dispersion",
+          "label": "noun"
+        },
+        {
+          "term": "dispersal",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "scattered",
+        "spread out",
+        "distributed",
+        "diffuse"
+      ],
+      "opposite": "concentrated",
+      "pitfall": "Dispersed means spread across an area; it does not necessarily mean the spacing is even or the objects are few."
+    },
+    {
+      "id": "evanescent",
+      "kind": "word",
+      "term": "evanescent",
+      "pos": "adjective",
+      "phonetic": "/ˌɪvəˈnesənt/",
+      "sayIt": "ee-vuh-NES-uhnt",
+      "register": "Formal",
+      "meaning": "Lasting for only a very short time before disappearing.",
+      "nuance": "Often describes beauty, joy, interest or opportunities that fade quickly. It sounds polished and slightly poetic rather than everyday.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · discussing a short-lived trend",
+          "sentence": "The launch generated evanescent excitement, but sales remained steady.",
+          "highlight": "evanescent",
+          "tip": "Use it to describe enthusiasm, attention or interest that quickly disappears."
+        },
+        {
+          "setting": "social",
+          "where": "Party conversation · remembering a brief romance",
+          "sentence": "Their happiness seemed evanescent, lasting only the few hours they spent together.",
+          "highlight": "evanescent",
+          "tip": "It adds a poetic touch when describing a brief feeling or beautiful moment."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel essay · describing a sunset",
+          "sentence": "The evanescent glow faded within minutes, leaving the hills in shadow.",
+          "highlight": "evanescent",
+          "tip": "Especially effective for beauty, light, sounds and emotions that vanish quickly."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin evanescere, meaning ‘to disappear’ or ‘vanish’, formed from evadere, ‘to go out’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Evanescere develops from evadere, meaning ‘to go out or escape’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with the sense of disappearing or becoming imperceptible."
+          },
+          {
+            "when": "Today",
+            "text": "It is used mainly for things that are beautiful or appealing but very short-lived."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "evanescence",
+          "label": "noun"
+        },
+        {
+          "term": "evanesce",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "fleeting",
+        "transient",
+        "ephemeral",
+        "fugacious"
+      ],
+      "opposite": "lasting",
+      "pitfall": "It means short-lived, not completely invisible; use ‘vanishing’ for something that cannot be seen."
+    },
+    {
+      "id": "exacerbate",
+      "kind": "word",
+      "term": "exacerbate",
+      "pos": "verb",
+      "phonetic": "/ɪɡˈzæsərbeɪt/",
+      "sayIt": "ig-ZAS-ur-bayt",
+      "register": "Formal",
+      "meaning": "To make a problem, difficult situation or negative feeling worse.",
+      "nuance": "This sounds serious and somewhat formal. It is especially useful when a factor is adding to an already bad situation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · discussing delays",
+          "sentence": "Changing the deadline now could exacerbate the staffing problem.",
+          "highlight": "exacerbate",
+          "tip": "Use it for an action that makes an existing difficulty worse."
+        },
+        {
+          "setting": "social",
+          "where": "Argument · calming a disagreement",
+          "sentence": "Raising it again would only exacerbate the tension between us.",
+          "highlight": "exacerbate",
+          "tip": "Often describes words, actions or events that intensify conflict."
+        },
+        {
+          "setting": "writing",
+          "where": "Complaint email · reporting a service issue",
+          "sentence": "The lack of updates may exacerbate customers’ frustration.",
+          "highlight": "exacerbate",
+          "tip": "Pairs naturally with frustration, tension, problems and difficulties."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin exacerbare, meaning ‘to make harsh or more bitter’, based on ex-, ‘out’, and acerbus, ‘harsh or bitter’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Exacerbare develops the sense of making something harsher or more bitter."
+          },
+          {
+            "when": "Early 1600s",
+            "text": "The word enters English with the meaning of making worse or more severe."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal writing for worsening problems, tensions or negative feelings."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "exacerbated",
+          "label": "adjective"
+        },
+        {
+          "term": "exacerbating",
+          "label": "adjective"
+        },
+        {
+          "term": "exacerbation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "aggravate",
+        "worsen",
+        "intensify",
+        "aggravated"
+      ],
+      "opposite": "alleviate",
+      "pitfall": "Don’t confuse it with aggravate: aggravate can describe a person’s irritation, while exacerbate usually focuses on making a situation or negative feeling worse."
+    },
+    {
+      "id": "extravagant",
+      "kind": "word",
+      "term": "extravagant",
+      "pos": "adjective",
+      "phonetic": "/ɪkˈstrævəɡənt/",
+      "sayIt": "ik-STRAV-uh-guhnt",
+      "register": "Common at work",
+      "meaning": "Spending or doing far more than is necessary, especially in a showy or excessive way.",
+      "nuance": "It suggests unreasonable expense, display or behaviour, and often carries a critical tone.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget review · challenging spending",
+          "sentence": "The launch party was extravagant, and we now have less money for customer support.",
+          "highlight": "extravagant",
+          "tip": "Use it to criticise spending that goes well beyond what the situation needs."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception · discussing the venue",
+          "sentence": "Their reception was extravagant, with a seven-course dinner and a fireworks display.",
+          "highlight": "extravagant",
+          "tip": "It can describe impressive luxury as well as wastefully excessive spending."
+        },
+        {
+          "setting": "writing",
+          "where": "Expense report · justifying a claim",
+          "sentence": "The hotel charged an extravagant amount for a single night, so I queried the bill.",
+          "highlight": "extravagant",
+          "tip": "The adjective fits naturally before cost, spending, lifestyle or behaviour."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin extravagans, meaning ‘wandering beyond bounds’, which developed into the idea of going beyond ordinary limits.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "Extravagans develops from extra, ‘outside’, and vagari, ‘to wander’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "Enters English with senses involving going beyond limits or boundaries."
+          },
+          {
+            "when": "1600s onward",
+            "text": "The sense expands to describe unusually high spending and showy excess."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "extravagance",
+          "label": "noun"
+        },
+        {
+          "term": "extravagantly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "lavish",
+        "excessive",
+        "lavishly",
+        "exorbitant"
+      ],
+      "opposite": "frugal",
+      "pitfall": "Don’t use it simply to mean expensive: a sensible premium purchase may still be extravagant if it goes far beyond normal limits."
+    }
+  ]
+}

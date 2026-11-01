@@ -1,0 +1,1501 @@
+{
+  "id": "idioms-at-work-2",
+  "kind": "idiom",
+  "name": "At work · 2",
+  "blurb": "25 idioms about at work",
+  "cards": [
+    {
+      "id": "duty-calls",
+      "kind": "idiom",
+      "term": "duty calls",
+      "pos": "idiom",
+      "hint": "a summons to do what you should",
+      "register": "Everyday",
+      "meaning": "To say that your responsibilities or obligations are calling you to act.",
+      "nuance": "It suggests that duty is more important than personal plans. It can sound serious and dutiful, or humorous when used about an unwelcome task.",
+      "literal": "A call summoning someone to perform their duty.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Late shift · unexpected problem",
+          "sentence": "Duty calls, so I need to stay behind and fix the payment system.",
+          "highlight": "Duty calls",
+          "tip": "Often introduces an action that feels necessary rather than enjoyable."
+        },
+        {
+          "setting": "social",
+          "where": "Leaving a party · family commitment",
+          "sentence": "Duty calls, and I promised my sister I would help her move tonight.",
+          "highlight": "Duty calls",
+          "tip": "Can be playful when you are joking about an obligation."
+        },
+        {
+          "setting": "writing",
+          "where": "Community response · storm cleanup",
+          "sentence": "After the storm, duty called volunteers across the region to help residents.",
+          "highlight": "duty called",
+          "tip": "A slightly literary option that emphasizes moral responsibility."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase grew from the idea of a “call of duty,” especially the military sense of a summons to serve. The exact wording became established in the 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "The expression “call of duty” begins appearing in writing, drawing on religious and military ideas of obligation."
+          },
+          {
+            "when": "1800s",
+            "text": "The wording “duty calls” becomes established as a way to announce that a duty requires attention."
+          },
+          {
+            "when": "Today",
+            "text": "It means that responsibilities are prompting someone to act."
+          }
+        ]
+      },
+      "similar": [
+        "the call of duty",
+        "your country calls",
+        "you’ve been called"
+      ],
+      "pitfall": "It usually points to a real obligation, not simply something you would like to do."
+    },
+    {
+      "id": "factor-in",
+      "kind": "idiom",
+      "term": "factor in",
+      "pos": "verb",
+      "hint": "include as an influence",
+      "register": "Common at work",
+      "meaning": "To include something as an important influence when making a decision or forming a judgment.",
+      "nuance": "Neutral and practical. It suggests that the factor should be considered rather than automatically ignored.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch review · weighing risks",
+          "sentence": "We need to factor in customer feedback before changing the product.",
+          "highlight": "factor in",
+          "tip": "Common when discussing decisions, risks, costs, or results."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing a venue · guest numbers",
+          "sentence": "Let’s factor in the weather and choose somewhere with an indoor area.",
+          "highlight": "factor in",
+          "tip": "Natural when planning around a condition that may affect the outcome."
+        },
+        {
+          "setting": "writing",
+          "where": "Project proposal · explaining assumptions",
+          "sentence": "The forecast factors in slower hiring and a modest rise in operating costs.",
+          "highlight": "factors in",
+          "tip": "Useful for explaining what a calculation or prediction already includes."
+        }
+      ],
+      "origin": {
+        "summary": "The word “factor” comes from Latin and originally referred to someone or something that makes or does. It later became a mathematical term, and “factor in” developed from the idea of including an element in a calculation or consideration.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1400s",
+            "text": "The word enters English from Latin factor, meaning a maker or doer."
+          },
+          {
+            "when": "1700s",
+            "text": "Mathematics uses factor for a number or element involved in a calculation."
+          },
+          {
+            "when": "1900s",
+            "text": "Factor in develops the broader sense of including something in a decision or estimate."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "factor",
+          "label": "noun"
+        },
+        {
+          "term": "factoring",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "take into account",
+        "account for",
+        "allow for"
+      ],
+      "opposite": "leave out",
+      "pitfall": "Do not confuse it with “a factor in,” which names something that influences an outcome."
+    },
+    {
+      "id": "farm-out",
+      "kind": "idiom",
+      "term": "farm out",
+      "pos": "idiom",
+      "hint": "send work to someone else",
+      "register": "Common at work",
+      "meaning": "To give a task or responsibility to another person or organisation, especially an outside contractor.",
+      "nuance": "It can suggest that you are transferring both the work and responsibility to someone else. It often fits business discussions, but it may sound slightly dismissive when talking about a team member.",
+      "literal": "To send work out to a farm, where someone else performs it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · specialist work",
+          "sentence": "We decided to farm out the accessibility audit to an external consultancy.",
+          "highlight": "farm out",
+          "tip": "Common when a task needs specialist skills or an outside supplier."
+        },
+        {
+          "setting": "social",
+          "where": "Group planning · practical arrangements",
+          "sentence": "Let's farm out the catering and let volunteers handle the music.",
+          "highlight": "farm out",
+          "tip": "Can be used casually when dividing responsibilities among different people."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · managing capacity",
+          "sentence": "The agency farmed out overflow projects rather than turning away new clients.",
+          "highlight": "farmed out",
+          "tip": "The past tense is often used in reports and news coverage."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely developed from older meanings of farming out work or responsibility to other people. Its modern business sense is well established, though the exact transition is difficult to trace.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The verb 'farm' could mean to rent land or entrust work to another person."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase 'farm out' appears in business and employment contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It means assigning work or responsibility to someone outside the immediate team."
+          }
+        ]
+      },
+      "similar": [
+        "contract out",
+        "outsource",
+        "delegate"
+      ],
+      "pitfall": "It can imply passing responsibility elsewhere, not simply asking a colleague for help."
+    },
+    {
+      "id": "fill-in",
+      "kind": "idiom",
+      "term": "fill in",
+      "pos": "verb",
+      "hint": "complete the blanks—or pass the time",
+      "register": "Common at work",
+      "meaning": "To supply missing information, complete a form or blank, or temporarily take someone else’s place.",
+      "nuance": "The phrase can describe adding missing details, helping briefly, or simply keeping yourself occupied. The exact meaning depends on the context.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project update · clarifying a brief",
+          "sentence": "Could you fill in the details about the budget before we send this to the client?",
+          "highlight": "fill in",
+          "tip": "Common when someone needs missing information or sections completed."
+        },
+        {
+          "setting": "social",
+          "where": "At a café · waiting for a friend",
+          "sentence": "I’ll fill in for a few minutes by ordering another coffee and checking my messages.",
+          "highlight": "fill in",
+          "tip": "Means doing something else while waiting or temporarily taking a role."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · asking for a quick reply",
+          "sentence": "Please fill in the blank with the name of the person who approved the request.",
+          "highlight": "fill in",
+          "tip": "Natural for forms, documents and unfinished text."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely began with the literal act of putting material into empty spaces. It later extended to supplying missing facts and, by the 1800s, to occupying someone’s time or position.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used “fill” for placing writing or other material into empty spaces."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression “fill in” was also used for occupying time or temporarily taking someone’s place."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly means completing missing information or helping briefly."
+          }
+        ]
+      },
+      "similar": [
+        "fill out",
+        "fill someone in",
+        "fill in for someone"
+      ],
+      "pitfall": "“Fill in” usually means adding missing content or helping temporarily; “fill out” more often means completing a form or writing in detail."
+    },
+    {
+      "id": "get-ones-priorities-straight",
+      "kind": "idiom",
+      "term": "get one's priorities straight",
+      "pos": "phrase",
+      "hint": "know what matters most",
+      "register": "Common at work",
+      "meaning": "To decide what matters most and make sure those things come first.",
+      "nuance": "Often used when someone has been focusing on less important things or trying to decide what to do first. It can sound corrective, but it is usually practical rather than hostile.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · competing deadlines",
+          "sentence": "Let’s get our priorities straight before assigning more work.",
+          "highlight": "get our priorities straight",
+          "tip": "A natural way to begin a discussion about workload or deadlines."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans · limited free time",
+          "sentence": "I need to get my priorities straight and finally repair the kitchen.",
+          "highlight": "get my priorities straight",
+          "tip": "Use it when choosing between several worthwhile personal tasks."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · missed goals",
+          "sentence": "The team did not get its priorities straight and spent most of the sprint fixing minor issues.",
+          "highlight": "get its priorities straight",
+          "tip": "Useful in a review when explaining why results fell short."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is uncertain, but the phrase developed from the older sense of a priority as something placed ahead of other things in importance.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English had long used ‘priority’ to mean a matter of greater importance or precedence."
+          },
+          {
+            "when": "20th century",
+            "text": "Phrases such as ‘get priorities straight’ appeared in discussion of planning, business and public affairs."
+          },
+          {
+            "when": "Today",
+            "text": "The expression means clarifying what matters most and focusing on it."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "prioritize",
+          "label": "verb"
+        },
+        {
+          "term": "priority",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "get one's ducks in a row",
+        "sort out one's priorities",
+        "put the cart before the horse"
+      ],
+      "opposite": "lose track of what matters",
+      "pitfall": "Do not confuse it with ‘get things straight’, which means understanding facts or resolving confusion rather than deciding what matters most."
+    },
+    {
+      "id": "glass-ceiling",
+      "kind": "idiom",
+      "term": "glass ceiling",
+      "pos": "noun",
+      "hint": "an invisible barrier to advancement",
+      "register": "Common at work",
+      "meaning": "An invisible barrier that prevents women or other underrepresented groups from advancing to senior positions.",
+      "nuance": "The phrase describes barriers that may be unofficial, ignored, or difficult to prove. It is often used when hiring, promotion, pay, or leadership opportunities appear unequal.",
+      "literal": "A transparent ceiling that looks solid but cannot be passed through.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Promotion review · leadership team",
+          "sentence": "Several experienced employees believe they have hit a glass ceiling in senior management.",
+          "highlight": "glass ceiling",
+          "tip": "Often paired with ‘hit’, ‘reach’, or ‘face’."
+        },
+        {
+          "setting": "social",
+          "where": "Networking dinner · career discussion",
+          "sentence": "At the networking dinner, Maya talked about the glass ceiling she had faced in finance.",
+          "highlight": "glass ceiling",
+          "tip": "A natural choice when discussing unequal career opportunities."
+        },
+        {
+          "setting": "writing",
+          "where": "Workplace report · gender equality",
+          "sentence": "The report identifies a glass ceiling affecting progression into senior leadership roles.",
+          "highlight": "glass ceiling",
+          "tip": "Useful in reports, research summaries, and equality campaigns."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from early uses of glass as a symbol of a barrier, sometimes tied to restrictions on women’s employment. By the late twentieth century, it had become the standard term for an invisible workplace promotion barrier.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1912",
+            "text": "The phrase appears in an American newspaper discussion of barriers affecting women’s employment and advancement."
+          },
+          {
+            "when": "1944",
+            "text": "The expression is used in a magazine article examining barriers faced by women in employment."
+          },
+          {
+            "when": "1980s",
+            "text": "It becomes widely established in debate about workplace equality and senior leadership."
+          }
+        ]
+      },
+      "similar": [
+        "glass cliff",
+        "old boys’ network",
+        "ceiling effect"
+      ],
+      "opposite": "level playing field",
+      "pitfall": "Use it for barriers that are invisible or widely accepted, not every clear instance of unequal treatment."
+    },
+    {
+      "id": "go-the-extra-mile",
+      "kind": "idiom",
+      "term": "go the extra mile",
+      "pos": "idiom",
+      "hint": "do more than is expected",
+      "register": "Common at work",
+      "meaning": "To make more effort than is expected or required.",
+      "nuance": "It suggests going beyond your normal duties to help, improve a result or support someone. It is positive but can sound like a high standard in a demanding workplace.",
+      "literal": "Travelling one mile farther than the route requires.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project handover · deadline pressure",
+          "sentence": "Maya went the extra mile to finish the report before the client meeting.",
+          "highlight": "went the extra mile",
+          "tip": "Natural for describing effort that goes beyond the basic job requirement."
+        },
+        {
+          "setting": "social",
+          "where": "Helping a friend · moving house",
+          "sentence": "Sam went the extra mile and stayed late to help us finish moving.",
+          "highlight": "went the extra mile",
+          "tip": "Shows especially generous or thoughtful effort."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · recommendation",
+          "sentence": "He consistently goes the extra mile, so I recommend him for promotion.",
+          "highlight": "goes the extra mile",
+          "tip": "Common in workplace reviews and recommendation letters."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely developed from the literal idea of travelling farther than the expected route. Its figurative use became established in the 1900s, especially in descriptions of unusually generous effort.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The expression ‘extra mile’ appears in writing as a way of describing going farther than required."
+          },
+          {
+            "when": "1900s",
+            "text": "The phrase begins to be used figuratively for doing more than expected."
+          },
+          {
+            "when": "Today",
+            "text": "Means making exceptional effort in work, relationships or everyday tasks."
+          }
+        ]
+      },
+      "similar": [
+        "Go above and beyond",
+        "Make an extra effort",
+        "Go to great lengths"
+      ],
+      "opposite": "Do the bare minimum",
+      "pitfall": "It is about greater effort, not literally travelling an additional distance."
+    },
+    {
+      "id": "go-to-bat",
+      "kind": "idiom",
+      "term": "go to bat",
+      "pos": "idiom",
+      "hint": "support someone in a difficult situation",
+      "register": "Common at work",
+      "meaning": "To speak up for or strongly support someone who is being challenged, criticised, or pressured.",
+      "nuance": "It suggests taking a public position and accepting some risk for another person. It often works in workplace conversations, team loyalty, and friendly arguments.",
+      "literal": "Enter the baseball batter’s box to face the pitcher.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · defending a colleague",
+          "sentence": "I’m going to go to bat for Sam when the manager questions the missed deadline.",
+          "highlight": "go to bat",
+          "tip": "Use ‘go to bat for’ when naming the person you are supporting."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · backing up a friend",
+          "sentence": "When my friend was being teased, I went to bat for her and told everyone to stop.",
+          "highlight": "went to bat",
+          "tip": "Works for showing loyalty, even when you disagree with part of the situation."
+        },
+        {
+          "setting": "writing",
+          "where": "Team announcement · thanking a contributor",
+          "sentence": "The whole department went to bat for the support team after the difficult launch.",
+          "highlight": "went to bat",
+          "tip": "A natural choice in emails and workplace updates about people or teams standing together."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from baseball, where a player goes to bat to face the opposing pitcher. Its figurative use for taking someone’s side is likely to have developed from that sporting image, but the exact first figurative use is not firmly documented.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Baseball language established ‘go to bat’ as a way of describing a batter’s turn at the plate."
+          },
+          {
+            "when": "Later 1800s",
+            "text": "The phrase begins appearing in broader English, initially with the baseball meaning."
+          },
+          {
+            "when": "20th century onward",
+            "text": "The figurative meaning becomes established: to support or defend someone in a difficult situation."
+          }
+        ]
+      },
+      "similar": [
+        "stick up for",
+        "speak up for",
+        "have someone’s back"
+      ],
+      "opposite": "abandon",
+      "pitfall": "Usually use ‘go to bat for’ when you mean to support someone; ‘go to bat against’ means to oppose them."
+    },
+    {
+      "id": "green-light",
+      "kind": "idiom",
+      "term": "green light",
+      "pos": "idiom",
+      "hint": "permission to go ahead",
+      "register": "Common at work",
+      "meaning": "Official permission or approval to proceed with something.",
+      "nuance": "It often suggests that an approval process has been completed and the action can begin. It can also mean informal encouragement from someone with the authority to decide.",
+      "literal": "A green traffic signal telling road users to go ahead.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch meeting · approving a campaign",
+          "sentence": "We got the green light to launch the campaign next Monday.",
+          "highlight": "green light",
+          "tip": "Often used with ‘get’ or ‘give’."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding planning · approving a venue",
+          "sentence": "My parents gave us the green light to book the venue.",
+          "highlight": "green light",
+          "tip": "Natural when one person or group grants approval."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · confirming approval",
+          "sentence": "The project received the green light after the final review.",
+          "highlight": "green light",
+          "tip": "Useful in updates and reports about formal approval."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from the use of coloured traffic and railway signals. A green light meant ‘proceed’, and people began using it figuratively for permission to continue.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "Green railway and traffic signals become established signals for permission to proceed."
+          },
+          {
+            "when": "Early 20th century",
+            "text": "The phrase begins appearing in figurative use for approval or authorization."
+          },
+          {
+            "when": "Today",
+            "text": "Means permission to begin or continue an action."
+          }
+        ]
+      },
+      "similar": [
+        "the go-ahead",
+        "the all-clear",
+        "sign-off"
+      ],
+      "opposite": "red light",
+      "pitfall": "A ‘green light’ is permission, not necessarily a guarantee that the plan will succeed."
+    },
+    {
+      "id": "hand-over",
+      "kind": "idiom",
+      "term": "hand over",
+      "pos": "verb",
+      "register": "Common at work",
+      "meaning": "To give someone control, possession, or responsibility for something.",
+      "nuance": "It suggests a deliberate transfer, often because the task, role, or item now belongs to someone else. It can also mean surrendering something you have been holding.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project handover · changing owners",
+          "sentence": "Please hand over the client notes before you leave for the day.",
+          "highlight": "hand over",
+          "tip": "Common when transferring responsibility or ownership."
+        },
+        {
+          "setting": "social",
+          "where": "At the table · sharing food",
+          "sentence": "Here, let me hand over the serving spoon.",
+          "highlight": "hand over",
+          "tip": "Often used for passing an item directly to another person."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · ending a role",
+          "sentence": "I’ve asked the team to hand over my responsibilities by Friday.",
+          "highlight": "hand over",
+          "tip": "Useful in workplace emails about delegating or leaving a role."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the literal act of placing something into another person’s hand. Its figurative use for transferring control or responsibility is well documented.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Late 1500s",
+            "text": "Early recorded uses refer to giving or delivering something directly into another person’s hands."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase is increasingly used for transferring possession, authority, or control."
+          },
+          {
+            "when": "Today",
+            "text": "It is common for handing over work, duties, documents, possessions, or control."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "handover",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "hand off",
+        "pass on",
+        "turn over"
+      ],
+      "pitfall": "In British English, “hand over” is often also written as one word: “handover.”"
+    },
+    {
+      "id": "hit-the-ground-running",
+      "kind": "idiom",
+      "term": "hit the ground running",
+      "pos": "idiom",
+      "hint": "start at full speed",
+      "register": "Common at work",
+      "meaning": "To begin a new job, project, or activity quickly and with lots of energy.",
+      "nuance": "It suggests that someone is keen, prepared, and ready to make progress immediately rather than easing into the work.",
+      "literal": "Touching the ground while moving quickly, as a runner does at the start of a race.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "First day · new role",
+          "sentence": "She hit the ground running in her new role and led her first client call.",
+          "highlight": "hit the ground running",
+          "tip": "Natural for a strong, energetic start."
+        },
+        {
+          "setting": "social",
+          "where": "Event organising · first task",
+          "sentence": "We hit the ground running by setting up tables before the guests arrived.",
+          "highlight": "hit the ground running",
+          "tip": "Also works when starting an event or activity with no pause."
+        },
+        {
+          "setting": "writing",
+          "where": "Company update · new manager",
+          "sentence": "Our new regional manager hit the ground running and expanded the team within a month.",
+          "highlight": "hit the ground running",
+          "tip": "Often used in updates, profiles, and performance reviews."
+        }
+      ],
+      "origin": {
+        "summary": "The exact source is uncertain. The image is likely connected with horses, runners, or soldiers moving at full speed without slowing down, and similar wording was used in American English in the early 1900s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Late 1800s–early 1900s",
+            "text": "Expressions about running immediately after a start begin appearing in accounts of sport, travel, and military activity."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "The wording becomes established in American English for starting an activity with immediate speed and energy."
+          },
+          {
+            "when": "Today",
+            "text": "It describes an enthusiastic, productive beginning to a job or undertaking."
+          }
+        ]
+      },
+      "similar": [
+        "get off the ground",
+        "hit the deck running",
+        "hit it out of the park"
+      ],
+      "opposite": "get off to a slow start",
+      "pitfall": "Don’t confuse it with “hit the ground,” which can describe someone falling or being knocked down."
+    },
+    {
+      "id": "jump-through-hoops",
+      "kind": "idiom",
+      "term": "jump through hoops",
+      "pos": "idiom",
+      "hint": "do several demanding steps to get a result",
+      "register": "Common at work",
+      "meaning": "To complete a series of tiring, complicated steps in order to achieve something.",
+      "nuance": "It often suggests that the process feels excessive, frustrating, or full of unnecessary obstacles. It is common for approvals, job searches, budgets, and applications.",
+      "literal": "A performer jumping through a series of hoops.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Hiring · approving a contractor",
+          "sentence": "We had to jump through hoops before the contractor could begin working.",
+          "highlight": "jump through hoops",
+          "tip": "Often implies several demanding approval stages."
+        },
+        {
+          "setting": "social",
+          "where": "Planning · organizing an event",
+          "sentence": "Getting a permit for the party meant jumping through hoops all week.",
+          "highlight": "jumping through hoops",
+          "tip": "Natural for a frustrating bureaucratic process."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · requesting budget approval",
+          "sentence": "The team had to jump through hoops to secure funding for the project.",
+          "highlight": "jump through hoops",
+          "tip": "Works well when describing delays or complicated approvals."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably began with the literal image of performers or athletes jumping through hoops. Its figurative use for difficult procedures appears in the early 1900s and became common later in the 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Circus and gymnastic performances regularly featured people jumping through hoops."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "Writers began using the image for difficult procedures, tests, and obstacles."
+          },
+          {
+            "when": "Today",
+            "text": "It describes completing demanding steps to obtain approval, access, or a desired result."
+          }
+        ]
+      },
+      "similar": [
+        "go through the wringer",
+        "run the gauntlet",
+        "face a mountain of paperwork"
+      ],
+      "opposite": "walk straight through it",
+      "pitfall": "Do not use it for a single minor obstacle; the phrase suggests a demanding series of steps."
+    },
+    {
+      "id": "last-mile",
+      "kind": "idiom",
+      "term": "last mile",
+      "pos": "idiom",
+      "hint": "the final part of a journey",
+      "register": "Common at work",
+      "meaning": "The final stage of delivering something to its destination, especially the part that involves the last customer or handoff.",
+      "nuance": "In logistics, it focuses on the difficult details of local delivery. Figuratively, it means the final steps needed to put an idea or plan into practice.",
+      "literal": "The final mile of a journey between the main transport network and the destination.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Delivery planning · reaching customers",
+          "sentence": "Our warehouse system works well, but the last mile still takes drivers twice as long each afternoon.",
+          "highlight": "last mile",
+          "tip": "Often used in logistics, transport and delivery businesses."
+        },
+        {
+          "setting": "social",
+          "where": "Planning an event · final preparations",
+          "sentence": "The decorations are ready, but the last mile—getting everything to the venue—will be stressful.",
+          "highlight": "last mile",
+          "tip": "A flexible way to describe the final, often troublesome stage of a process."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · rollout concerns",
+          "sentence": "The software is nearly ready, but the last mile involves installing it across every department.",
+          "highlight": "last mile",
+          "tip": "Useful in reports when the remaining work is implementation, handover or completion."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from transportation language, where a route is divided into stages and the final short section is the last mile. Its broader business use developed as logistics companies focused on the difficulty of completing deliveries.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 20th century",
+            "text": "Transport and postal systems begin using the phrase for the final section of a delivery route."
+          },
+          {
+            "when": "Later 20th century",
+            "text": "Logistics businesses use it more broadly for the difficult final stage of getting products to customers."
+          },
+          {
+            "when": "Today",
+            "text": "It also describes the last steps needed to complete a project or make a plan operational."
+          }
+        ]
+      },
+      "similar": [
+        "final stretch",
+        "final leg",
+        "door-to-door delivery"
+      ],
+      "opposite": "first mile",
+      "pitfall": "It does not necessarily mean exactly one mile; the distance can vary widely."
+    },
+    {
+      "id": "nuts-and-bolts",
+      "kind": "idiom",
+      "term": "nuts and bolts",
+      "pos": "idiom",
+      "hint": "practical, essential details",
+      "register": "Common at work",
+      "meaning": "The basic practical details of a subject, system, or task.",
+      "nuance": "It focuses on the hands-on information needed to understand or complete something. Use it when discussing practical elements rather than broader ideas.",
+      "literal": "The metal screws and fasteners used to hold a machine or structure together.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · onboarding a new hire",
+          "sentence": "The orientation covered the nuts and bolts of using our customer database.",
+          "highlight": "nuts and bolts",
+          "tip": "Common when explaining the basic practical steps of a job or system."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · planning a shared trip",
+          "sentence": "We covered the nuts and bolts of driving there, but still need to book the hotel.",
+          "highlight": "nuts and bolts",
+          "tip": "Fits casual conversations about the practical details of a plan."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining delays",
+          "sentence": "The report explains the nuts and bolts of the migration without discussing its wider impact.",
+          "highlight": "nuts and bolts",
+          "tip": "Useful in formal writing when you want to signal a focus on technical details."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase began as a literal reference to the fasteners used in machinery and construction. By the early to mid-1900s, it was also being used for basic practical information.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1900s",
+            "text": "The expression was used for the literal nuts and bolts that held objects and machinery together."
+          },
+          {
+            "when": "Early to mid-1900s",
+            "text": "The figurative meaning developed: the essential practical details of a subject or task."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly refers to practical information that helps someone understand or act."
+          }
+        ]
+      },
+      "similar": [
+        "the basics",
+        "the ins and outs",
+        "the fine print"
+      ],
+      "pitfall": "It usually refers to practical details, not every part of a subject in full detail."
+    },
+    {
+      "id": "on-the-front-burner",
+      "kind": "idiom",
+      "term": "on the front burner",
+      "pos": "idiom",
+      "hint": "a current top priority",
+      "register": "Common at work",
+      "meaning": "Being actively handled or given high priority right now.",
+      "nuance": "It suggests something needs attention soon, though it may not be the longest-term goal. It is often used for work, projects or problems.",
+      "literal": "Placed on a stove burner where it needs immediate attention.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · choosing priorities",
+          "sentence": "The customer login issue is on the front burner while the redesign waits.",
+          "highlight": "on the front burner",
+          "tip": "Often contrasts with something less urgent."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a party",
+          "sentence": "Finding a venue is on the front burner because the guest list is getting longer.",
+          "highlight": "on the front burner",
+          "tip": "Works for any issue that needs attention now."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update",
+          "sentence": "Budget approval remains on the front burner before we can begin construction.",
+          "highlight": "on the front burner",
+          "tip": "Common in informal business updates and planning notes."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely grew from the image of food placed on a stove’s front burner for immediate attention. Its figurative use was established in American English by the early 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 20th century",
+            "text": "American English sources begin using ‘front burner’ to describe something requiring immediate attention."
+          },
+          {
+            "when": "Today",
+            "text": "Means a current priority that needs active attention."
+          }
+        ]
+      },
+      "similar": [
+        "top priority",
+        "in the pipeline",
+        "a pressing issue"
+      ],
+      "opposite": "on the back burner",
+      "pitfall": "Keep the full phrase ‘on the front burner’; ‘front burner’ alone is less idiomatic in this sense."
+    },
+    {
+      "id": "pass-up",
+      "kind": "idiom",
+      "term": "pass up",
+      "pos": "idiom",
+      "hint": "let an opportunity go",
+      "register": "Everyday",
+      "meaning": "To decline or reject an opportunity, offer, or chance.",
+      "nuance": "It sounds like a deliberate choice, even when the opportunity would have been useful. Use it when someone refuses or overlooks something that was available.",
+      "literal": "To let something go by without taking it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Career planning · considering a promotion",
+          "sentence": "I decided to pass up the chance to lead the project because I’m happy on my current team.",
+          "highlight": "pass up",
+          "tip": "Common for refusing an offer, opportunity, or possible benefit."
+        },
+        {
+          "setting": "social",
+          "where": "Invitations · choosing plans",
+          "sentence": "She passed up the invitation because she already had dinner plans with her sister.",
+          "highlight": "passed up",
+          "tip": "Can describe declining an invitation or social opportunity."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · reviewing a proposal",
+          "sentence": "We shouldn’t pass up this partnership because it could expand the company internationally.",
+          "highlight": "pass up",
+          "tip": "Natural in reports and advice when a worthwhile opportunity is being discussed."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is uncertain, but the phrase appears to have developed from older uses of ‘pass’ meaning to reject or refuse, with ‘up’ adding emphasis.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "In older English, ‘pass’ could mean to reject, refuse, or let something go."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression ‘pass up’ appears in English for rejecting or declining something."
+          },
+          {
+            "when": "Today",
+            "text": "It usually refers to turning down an opportunity or missing a chance by choice."
+          }
+        ]
+      },
+      "similar": [
+        "turn down",
+        "decline",
+        "forgo",
+        "let slip"
+      ],
+      "opposite": "accept",
+      "pitfall": "Don’t confuse ‘pass up’ with ‘pass on’, which means to refuse an offer or let someone else have a turn."
+    },
+    {
+      "id": "put-ones-best-foot-forward",
+      "kind": "idiom",
+      "term": "put one's best foot forward",
+      "pos": "idiom",
+      "hint": "make a strong first impression",
+      "register": "Common at work and in social settings",
+      "meaning": "To make a deliberate effort to show your best qualities or to make a good first impression.",
+      "nuance": "This often describes presenting yourself especially well before meeting someone important, starting a new role or making a strong introduction. It can also mean handling an early opportunity with extra care.",
+      "literal": "Lead with your strongest or most graceful foot.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client meeting · first impressions",
+          "sentence": "She put her best foot forward by preparing clear examples before the client presentation.",
+          "highlight": "put her best foot forward",
+          "tip": "Often used when someone wants to create a favourable first impression."
+        },
+        {
+          "setting": "social",
+          "where": "New job · meeting the team",
+          "sentence": "I wanted to put my best foot forward, so I arrived early and asked thoughtful questions.",
+          "highlight": "put my best foot forward",
+          "tip": "Common when starting a new job or meeting new people."
+        },
+        {
+          "setting": "writing",
+          "where": "Application email · asking for an interview",
+          "sentence": "I wanted to put my best foot forward, so I applied with a concise email and a polished résumé.",
+          "highlight": "put my best foot forward",
+          "tip": "Useful in informal emails and profiles when describing a careful first impression."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is well documented from the early 1900s and grew from older expressions about placing the best or leading foot foremost. Its figurative sense is making the strongest possible impression.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Similar expressions appear in descriptions of walking or dancing with the best foot placed first."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "The phrase begins appearing in print with the meaning of making a strong first impression."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a natural way to describe showing your strongest qualities in a first encounter or important opportunity."
+          }
+        ]
+      },
+      "similar": [
+        "make a good impression",
+        "show your best side",
+        "put on a good show"
+      ],
+      "opposite": "let oneself down",
+      "pitfall": "It does not mean literally making an effort with your feet; it refers to presenting yourself well, especially at the beginning."
+    },
+    {
+      "id": "red-tape",
+      "kind": "idiom",
+      "term": "red tape",
+      "pos": "idiom",
+      "hint": "bureaucratic delays and rules",
+      "register": "Common at work",
+      "meaning": "Official rules and procedures that make a process slow, complicated, and frustrating.",
+      "nuance": "It often implies frustration with unnecessary paperwork, approvals, or bureaucracy rather than the work itself.",
+      "literal": "Red tape tied around official documents.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Permit application · delayed approval",
+          "sentence": "Getting the permit approved took weeks because of all the red tape.",
+          "highlight": "red tape",
+          "tip": "Natural for delays caused by official procedures."
+        },
+        {
+          "setting": "social",
+          "where": "Event planning · insurance forms",
+          "sentence": "The venue’s insurance requirements were so much red tape that we hired someone to handle them.",
+          "highlight": "red tape",
+          "tip": "Use with “a lot of,” “endless,” or similar quantity words."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · new hiring process",
+          "sentence": "The report criticizes excessive red tape in the company’s new hiring process.",
+          "highlight": "red tape",
+          "tip": "Common in reports about government, administration, and business."
+        }
+      ],
+      "origin": {
+        "summary": "The expression probably developed from tape used to tie official documents together. The connection to official paperwork was well established by the 1800s, although the exact first figurative use is unclear.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Red tape was used to bind legal and official papers, especially in Britain."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers began using “red tape” for official procedures and administrative requirements."
+          },
+          {
+            "when": "Today",
+            "text": "It means rules and procedures that cause delay or excessive effort."
+          }
+        ]
+      },
+      "similar": [
+        "bureaucracy",
+        "paperwork",
+        "the bureaucratic process"
+      ],
+      "opposite": "a streamlined process",
+      "pitfall": "It usually criticizes procedures or bureaucracy, not physical tape or office decoration."
+    },
+    {
+      "id": "scope-out",
+      "kind": "idiom",
+      "term": "scope out",
+      "pos": "verb",
+      "hint": "look something over before deciding",
+      "register": "Common at work",
+      "meaning": "To look at or assess something carefully in order to understand it or decide what to do.",
+      "nuance": "Informal and practical. It suggests an initial look rather than a detailed review or final decision.",
+      "literal": "Looking around carefully with a viewing instrument.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning · reviewing a new supplier",
+          "sentence": "Let’s scope out the supplier’s delivery process before we commit to a contract.",
+          "highlight": "scope out",
+          "tip": "Often used before a deeper investigation or decision."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing a restaurant",
+          "sentence": "We should scope out that new place before booking a table for eight.",
+          "highlight": "scope out",
+          "tip": "Natural when making a quick, informal assessment."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update",
+          "sentence": "The team spent Friday scoping out the redesign and shared its initial findings.",
+          "highlight": "scoping out",
+          "tip": "In formal writing, ‘assessing’ may sound more precise."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably developed from military use of “scope,” meaning to examine or survey an area, and later extended to informal assessments of options or places.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "A scope is used to observe a distant area or object closely."
+          },
+          {
+            "when": "Early 20th century",
+            "text": "Military language begins using “scope” for surveying an area or situation."
+          },
+          {
+            "when": "Later",
+            "text": "“Scope out” becomes a general expression for making an initial assessment."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "scope",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "look into",
+        "check out",
+        "assess"
+      ],
+      "opposite": "ignore",
+      "pitfall": "It usually means an informal first look, not a complete investigation; use “examine in depth” for a detailed review."
+    },
+    {
+      "id": "seal-the-deal",
+      "kind": "idiom",
+      "term": "seal the deal",
+      "pos": "idiom",
+      "hint": "make it official",
+      "register": "Common at work",
+      "meaning": "To finalize an agreement or arrangement so that it cannot easily be changed.",
+      "nuance": "It suggests the last decisive step after the main details have been settled. It often sounds confident and slightly celebratory.",
+      "literal": "Closing a document with wax or another seal to make the agreement final.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client meeting · agreeing terms",
+          "sentence": "She offered the discount, and we sealed the deal before lunch.",
+          "highlight": "sealed the deal",
+          "tip": "Use after the important terms have been agreed."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a trip · choosing a venue",
+          "sentence": "We sealed the deal by booking the cottage for the weekend.",
+          "highlight": "sealed the deal",
+          "tip": "Natural when a shared plan becomes definite."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · partnership announcement",
+          "sentence": "The two companies sealed the deal after several rounds of negotiation.",
+          "highlight": "sealed the deal",
+          "tip": "Useful in reports about contracts, partnerships, and acquisitions."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the old practice of closing important documents with wax or a stamp called a seal. By the 1800s, “seal” was also used figuratively for making an agreement final.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Important documents were closed with wax or stamped with a seal to show that they were final."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase “seal the deal” appears in English, drawing on legal and commercial ideas of finalizing an agreement."
+          },
+          {
+            "when": "Today",
+            "text": "It means to complete an agreement with a decisive final step."
+          }
+        ]
+      },
+      "similar": [
+        "close the deal",
+        "shake hands on it",
+        "strike a deal",
+        "finalize the agreement"
+      ],
+      "opposite": "call off the deal",
+      "pitfall": "It usually implies that the agreement is already settled and only needs to be made final."
+    },
+    {
+      "id": "see-the-forest-for-the-trees",
+      "kind": "idiom",
+      "term": "see the forest for the trees",
+      "pos": "idiom",
+      "hint": "miss the bigger picture",
+      "register": "Common at work",
+      "meaning": "To focus so closely on small details that you fail to understand the wider situation.",
+      "nuance": "Usually critical or gently corrective. It fits when someone is examining individual details but has lost sight of the overall pattern, goal, or impact.",
+      "literal": "Standing so close to the trees that a whole forest cannot be seen.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · checking minor issues",
+          "sentence": "We’re so focused on wording changes that we can’t see the forest for the trees.",
+          "highlight": "see the forest for the trees",
+          "tip": "Use it when a team is distracted by details and missing the main objective."
+        },
+        {
+          "setting": "social",
+          "where": "Group conversation · comparing complaints",
+          "sentence": "She listed every awkward moment, but she couldn’t see the forest for the trees.",
+          "highlight": "see the forest for the trees",
+          "tip": "Often follows a story that makes a situation seem worse than it is."
+        },
+        {
+          "setting": "writing",
+          "where": "Management commentary · prioritising changes",
+          "sentence": "The report risks seeing the forest for the trees by describing symptoms without addressing the underlying problem.",
+          "highlight": "seeing the forest for the trees",
+          "tip": "A useful criticism in reports, reviews, and professional analysis."
+        }
+      ],
+      "origin": {
+        "summary": "The wording comes from a traditional proverb about being unable to recognize the whole because of the parts. Its modern figurative use is well established, though the exact first recorded wording is difficult to trace.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Traditional proverbs warned that focusing on individual things can prevent a person from understanding the wider whole."
+          },
+          {
+            "when": "1800s",
+            "text": "English writers used variations of the proverb about not seeing the forest because of the trees."
+          },
+          {
+            "when": "Today",
+            "text": "It means getting lost in details while missing the bigger picture."
+          }
+        ]
+      },
+      "similar": [
+        "miss the big picture",
+        "lose the wood for the trees",
+        "too close to see the forest for the trees"
+      ],
+      "pitfall": "The idiom means focusing too much on details, not simply failing to notice something obvious."
+    },
+    {
+      "id": "seismic-shift",
+      "kind": "idiom",
+      "term": "seismic shift",
+      "pos": "idiom",
+      "hint": "a major change that reshapes everything",
+      "register": "Common at work",
+      "meaning": "A major change that noticeably transforms an organization, industry, market, or set of circumstances.",
+      "nuance": "Strong and slightly dramatic. It suits a change that alters direction or structure rather than a routine adjustment.",
+      "literal": "A large movement of the Earth’s crust that can reshape the landscape.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company strategy · changing direction",
+          "sentence": "The move to remote work was a seismic shift in how our teams collaborate.",
+          "highlight": "seismic shift",
+          "tip": "Common when describing a change with broad, lasting effects."
+        },
+        {
+          "setting": "social",
+          "where": "Friends · changing plans",
+          "sentence": "Moving cities was a seismic shift, but our friendship has stayed strong.",
+          "highlight": "seismic shift",
+          "tip": "Often sounds more dramatic than a normal life change."
+        },
+        {
+          "setting": "writing",
+          "where": "Business article · market disruption",
+          "sentence": "AI could represent a seismic shift for industries built around routine administrative work.",
+          "highlight": "seismic shift",
+          "tip": "Useful in analysis and commentary, but avoid overusing it."
+        }
+      ],
+      "origin": {
+        "summary": "The expression combines the geological sense of seismic movement with the idea of shifting something. Its figurative use became established in the late 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "The word seismic comes from a Greek word associated with shaking, especially earthquakes."
+          },
+          {
+            "when": "19th century",
+            "text": "Geology uses seismic shift for large movements of the Earth’s crust."
+          },
+          {
+            "when": "Late 20th century",
+            "text": "The phrase began to describe major changes in organizations, markets, and social attitudes."
+          }
+        ]
+      },
+      "similar": [
+        "paradigm shift",
+        "sea change",
+        "turning point",
+        "game changer"
+      ],
+      "opposite": "minor adjustment",
+      "pitfall": "It does not simply mean an earthquake; the focus is on the scale and impact of a change."
+    },
+    {
+      "id": "selling-point",
+      "kind": "idiom",
+      "term": "selling point",
+      "pos": "noun",
+      "hint": "a feature that helps something sell",
+      "register": "Common at work",
+      "meaning": "A quality, feature, or benefit that makes a product, service, or person appealing to others.",
+      "nuance": "It sounds positive and practical, especially in sales, marketing, and workplace presentations.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Sales meeting · pitching a product",
+          "sentence": "Fast setup is our biggest selling point.",
+          "highlight": "selling point",
+          "tip": "Often used when explaining why a customer should choose something."
+        },
+        {
+          "setting": "social",
+          "where": "Restaurant recommendation",
+          "sentence": "The huge portions were definitely a selling point.",
+          "highlight": "selling point",
+          "tip": "Works in conversation when highlighting an attractive feature."
+        },
+        {
+          "setting": "writing",
+          "where": "Product review",
+          "sentence": "Its simple interface remains the product’s main selling point.",
+          "highlight": "selling point",
+          "tip": "Common in reviews, advertisements, and business proposals."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the idea of a point or feature that helps sell something. Its exact first use is difficult to trace, but it was established by the late 1500s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "The phrase begins appearing in English as a commercial term."
+          },
+          {
+            "when": "1800s",
+            "text": "Use expands to include qualities that make a person, place, or idea appealing."
+          },
+          {
+            "when": "Today",
+            "text": "It refers to any persuasive benefit used to win attention or customers."
+          }
+        ]
+      },
+      "similar": [
+        "key feature",
+        "drawback",
+        "deal breaker"
+      ],
+      "pitfall": "A selling point is positive; a drawback or disadvantage is the opposite."
+    },
+    {
+      "id": "set-in-stone",
+      "kind": "idiom",
+      "term": "set in stone",
+      "pos": "idiom",
+      "hint": "decided and unlikely to change",
+      "register": "Common at work",
+      "meaning": "To be firmly established and very unlikely to change.",
+      "nuance": "It suggests that a decision, rule, or arrangement has been treated as permanent. It often appears when discussing plans, policies, or traditions.",
+      "literal": "Fixed permanently in stone.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning · discussing company policy",
+          "sentence": "The new approval process isn’t set in stone, so teams can suggest improvements.",
+          "highlight": "set in stone",
+          "tip": "Use it to say a decision may still be open to discussion."
+        },
+        {
+          "setting": "social",
+          "where": "Family tradition · changing plans",
+          "sentence": "Our Sunday dinners are set in stone, even when the weather is terrible.",
+          "highlight": "set in stone",
+          "tip": "Often describes a custom that everyone treats as permanent."
+        },
+        {
+          "setting": "writing",
+          "where": "Proposal · explaining a flexible plan",
+          "sentence": "These targets are a starting point, not a plan set in stone.",
+          "highlight": "set in stone",
+          "tip": "Useful in reports when you want to signal room for adjustment."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely comes from the idea of carving words or designs into stone, where they cannot easily be changed. Its figurative use is well established, but the exact first recorded example is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Stone was traditionally used for durable inscriptions and memorials."
+          },
+          {
+            "when": "1600s–1800s",
+            "text": "Writers begin using expressions about things being fixed in stone to mean permanent or unchangeable."
+          },
+          {
+            "when": "Today",
+            "text": "Means firmly established and unlikely to change."
+          }
+        ]
+      },
+      "similar": [
+        "cast in stone",
+        "written in stone",
+        "a fait accompli"
+      ],
+      "opposite": "open to change",
+      "pitfall": "It does not mean change is impossible; it emphasizes that something is being treated as fixed."
+    },
+    {
+      "id": "set-the-bar",
+      "kind": "idiom",
+      "term": "set the bar",
+      "pos": "idiom",
+      "hint": "establish a standard to meet",
+      "register": "Common at work",
+      "meaning": "To establish the standard that you or others are expected to reach.",
+      "nuance": "Often suggests raising expectations or creating a challenging target. It can be encouraging when you set the bar for yourself and critical when you set it for someone else.",
+      "literal": "Positioning a bar at a particular height, like the standard used in a high-jump competition.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · agreeing on quality",
+          "sentence": "We set the bar high, but everyone knew what excellent work looked like.",
+          "highlight": "set the bar",
+          "tip": "Often followed by ‘high’ or ‘low’."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a celebration",
+          "sentence": "She set the bar for our holiday party by booking the whole rooftop.",
+          "highlight": "set the bar",
+          "tip": "Use it when talking about an impressive first attempt."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review",
+          "sentence": "Her first quarter set the bar for the rest of the department.",
+          "highlight": "set the bar",
+          "tip": "Useful when describing a result that others are expected to match."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the idea of placing a bar at a chosen height in a jumping competition. Its figurative use for establishing a standard is well established, but the exact first recorded use is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Athletic competitions used bars to set different heights for jumps."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression began appearing in writing for establishing a standard or limit."
+          },
+          {
+            "when": "Today",
+            "text": "It means to create the level of performance or quality expected."
+          }
+        ]
+      },
+      "similar": [
+        "raise the stakes",
+        "set the standard",
+        "set the benchmark"
+      ],
+      "opposite": "lower expectations",
+      "pitfall": "Usually take an object with it: ‘set the bar high’, not simply ‘set a bar’ unless you mean a physical bar."
+    }
+  ]
+}

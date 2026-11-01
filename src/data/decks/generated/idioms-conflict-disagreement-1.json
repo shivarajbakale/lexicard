@@ -1,0 +1,1497 @@
+{
+  "id": "idioms-conflict-disagreement-1",
+  "kind": "idiom",
+  "name": "Conflict & disagreement · 1",
+  "blurb": "25 idioms about conflict & disagreement",
+  "cards": [
+    {
+      "id": "world-of-difference",
+      "kind": "idiom",
+      "term": "a world of difference",
+      "pos": "idiom",
+      "hint": "not the whole world",
+      "register": "Common at work",
+      "meaning": "A very large difference between two people, things, or situations.",
+      "nuance": "Emphasizes that the contrast is major, not merely noticeable. It fits comparisons of quality, size, behaviour, or approach.",
+      "literal": "A difference as vast as the distance between two worlds.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Comparing interview candidates",
+          "sentence": "There is a world of difference between a prepared candidate and one who walks in cold.",
+          "highlight": "a world of difference",
+          "tip": "Often followed by ‘between’ and two people or situations."
+        },
+        {
+          "setting": "social",
+          "where": "Comparing cooking styles",
+          "sentence": "There is a world of difference between my grandmother’s recipes and mine.",
+          "highlight": "a world of difference",
+          "tip": "Natural when explaining a big personal or practical contrast."
+        },
+        {
+          "setting": "writing",
+          "where": "Reviewing two products",
+          "sentence": "There is a world of difference between the basic model and the premium version.",
+          "highlight": "a world of difference",
+          "tip": "Useful in reviews and reports when the difference is substantial."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase appears in English writing during the 19th century for a very large difference. Its development is documented, but no single vivid origin story is well established.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The wording begins appearing in English writing to express an enormous difference."
+          },
+          {
+            "when": "1900s onward",
+            "text": "The pattern ‘a world of difference between’ becomes established in comparisons."
+          },
+          {
+            "when": "Today",
+            "text": "Common in speech and writing for emphasizing a major contrast."
+          }
+        ]
+      },
+      "similar": [
+        "a big difference",
+        "a marked difference",
+        "a sea change"
+      ],
+      "opposite": "no meaningful difference",
+      "pitfall": "Use the singular phrase ‘a world of difference’, not ‘worlds of difference’, when emphasizing one major contrast."
+    },
+    {
+      "id": "at-odds",
+      "kind": "idiom",
+      "term": "at odds",
+      "pos": "idiom",
+      "hint": "not in agreement",
+      "register": "Common at work",
+      "meaning": "To disagree with someone or to be in conflict with another position, person or situation.",
+      "nuance": "It can describe a clear disagreement between people, principles or plans. It often sounds measured and professional rather than emotional.",
+      "literal": "Two sides positioned against each other, as in a contest decided by odds.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · conflicting priorities",
+          "sentence": "The finance team and the product team are at odds over when to launch the new service.",
+          "highlight": "at odds",
+          "tip": "Often followed by ‘over’ or ‘about’ and the subject of disagreement."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a trip · different budgets",
+          "sentence": "We’re at odds about the holiday, so we’re comparing costs before choosing.",
+          "highlight": "at odds",
+          "tip": "Natural when two people have incompatible preferences or plans."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · unresolved risk",
+          "sentence": "The deadline is at odds with the testing schedule, so the scope may need to change.",
+          "highlight": "at odds",
+          "tip": "Useful in reports when two requirements, goals or conditions conflict."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from ‘odds’, an older word for the balance of chances or opposing sides. By the 1600s, ‘at odds’ was already being used to mean in conflict or disagreement.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "‘Odds’ could refer to the balance between two opposing sides or outcomes."
+          },
+          {
+            "when": "1600s",
+            "text": "The expression ‘at odds’ appears in writing with the meaning in conflict or disagreement."
+          },
+          {
+            "when": "Today",
+            "text": "It describes disagreement between people, ideas, goals or circumstances."
+          }
+        ]
+      },
+      "similar": [
+        "at loggerheads",
+        "in conflict",
+        "at cross purposes"
+      ],
+      "opposite": "in agreement",
+      "pitfall": "Use ‘at odds with’ for a conflict between two things; use ‘at odds with someone’ when the other side is a person or group."
+    },
+    {
+      "id": "bad-apple",
+      "kind": "idiom",
+      "term": "bad apple",
+      "pos": "idiom",
+      "hint": "one troublemaker in a group",
+      "register": "Everyday",
+      "meaning": "A person who causes trouble, behaves badly, or spoils the standards of a group.",
+      "nuance": "It is often critical and can sound harsh because it labels someone as disruptive or disloyal. Use it when focusing on one person’s negative effect on a team, class, or other group.",
+      "literal": "A rotten apple that can spoil the fruit stored beside it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · blaming a colleague",
+          "sentence": "He missed three deadlines and undermined the project, so everyone started seeing him as the bad apple.",
+          "highlight": "bad apple",
+          "tip": "Often used when one person is blamed for a wider team problem."
+        },
+        {
+          "setting": "social",
+          "where": "Neighborhood group · complaining about someone",
+          "sentence": "We invited Sam to the meeting, but he turned it into an argument and behaved like the bad apple.",
+          "highlight": "bad apple",
+          "tip": "Sounds informal and can be insulting, so use it carefully."
+        },
+        {
+          "setting": "writing",
+          "where": "School newsletter · reporting misconduct",
+          "sentence": "The committee said one bad apple had created a hostile atmosphere for the rest of the staff.",
+          "highlight": "bad apple",
+          "tip": "Useful in journalism when identifying a disruptive individual without naming them."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the older idea that one rotten apple spoils the fruit around it. The comparison between people and fruit is old, and the modern expression follows that established metaphor.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "The proverb develops around the idea that one rotten apple spoils a whole store of fruit."
+          },
+          {
+            "when": "1700s",
+            "text": "The expression ‘bad apple’ begins appearing for a person who spoils or disrupts a group."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly labels one disruptive or disloyal member of a team or community."
+          }
+        ]
+      },
+      "similar": [
+        "odd one out",
+        "troublemaker",
+        "black sheep"
+      ],
+      "opposite": "team player",
+      "pitfall": "A ‘bad apple’ is not necessarily guilty of serious wrongdoing; the phrase may simply mean someone disruptive."
+    },
+    {
+      "id": "bad-blood",
+      "kind": "idiom",
+      "term": "bad blood",
+      "pos": "idiom",
+      "hint": "ongoing hostility between people",
+      "register": "Common at work",
+      "meaning": "A lasting feeling of anger, resentment, or hostility between people.",
+      "nuance": "It suggests tension that may continue after the original disagreement. Use it when describing strained relationships rather than a single moment of annoyance.",
+      "literal": "Blood regarded as spoiled or unhealthy, reimagined as personal hostility.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · unresolved conflict",
+          "sentence": "There has been bad blood between the two teams since the budget was cut.",
+          "highlight": "bad blood",
+          "tip": "Often used when past conflict is still affecting cooperation."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · an old argument",
+          "sentence": "There was bad blood between them after the argument, so dinner was tense.",
+          "highlight": "bad blood",
+          "tip": "Common for personal relationships as well as workplace tensions."
+        },
+        {
+          "setting": "writing",
+          "where": "Community report · declining trust",
+          "sentence": "Years of ignored complaints created bad blood between the residents and council.",
+          "highlight": "bad blood",
+          "tip": "Useful in reporting when describing growing resentment or distrust."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase draws on an older idea of bad or unhealthy blood as a metaphor for harmful feelings. Its figurative use is documented from the early 1800s, but the precise source is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Bad or unhealthy blood was associated with illness, poison, and physical deterioration."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase begins appearing in English for animosity and ill feeling between people."
+          },
+          {
+            "when": "Today",
+            "text": "It describes continuing resentment, conflict, or damaged relationships."
+          }
+        ]
+      },
+      "similar": [
+        "ill will",
+        "a grudge",
+        "a bitter feud"
+      ],
+      "pitfall": "It usually implies lasting tension, not just a brief disagreement."
+    },
+    {
+      "id": "between-a-rock-and-a-hard-place",
+      "kind": "idiom",
+      "term": "between a rock and a hard place",
+      "pos": "idiom",
+      "hint": "stuck between two bad options",
+      "register": "Common",
+      "meaning": "To be forced to choose between two difficult, dangerous, or unpleasant options.",
+      "nuance": "It describes a situation with no easy escape, where every choice carries a serious drawback. It often works for practical dilemmas as well as conflicts between people.",
+      "literal": "Caught between a rock on one side and a hard place on the other.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget meeting · choosing priorities",
+          "sentence": "We’re between a rock and a hard place: cut the project’s scope or miss the launch date.",
+          "highlight": "between a rock and a hard place",
+          "tip": "Useful when explaining why a team has to accept a painful trade-off."
+        },
+        {
+          "setting": "social",
+          "where": "Family plans · competing commitments",
+          "sentence": "I’m between a rock and a hard place because both events are important, but I can’t attend both.",
+          "highlight": "between a rock and a hard place",
+          "tip": "Shows that the speaker understands the problem but cannot easily solve it."
+        },
+        {
+          "setting": "writing",
+          "where": "News analysis · difficult policy choice",
+          "sentence": "Small businesses are between a rock and a hard place as rising costs limit their options.",
+          "highlight": "between a rock and a hard place",
+          "tip": "Common in reporting about trade-offs, pressure, and competing risks."
+        }
+      ],
+      "origin": {
+        "summary": "The exact wording is most likely a 19th-century development from older expressions about being trapped between dangers. The idea of being caught between two threats is older than the modern phrase.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Older expressions describe people trapped between dangers, debts, or other serious difficulties."
+          },
+          {
+            "when": "1800s",
+            "text": "The modern image of being between a rock and a hard place appears in use."
+          },
+          {
+            "when": "Today",
+            "text": "It means facing two bad options with no painless solution."
+          }
+        ]
+      },
+      "similar": [
+        "caught between two stools",
+        "in a dilemma",
+        "damned if you do, damned if you don’t"
+      ],
+      "opposite": "in an easy position",
+      "pitfall": "It describes a difficult choice, not simply being busy or overwhelmed."
+    },
+    {
+      "id": "common-ground",
+      "kind": "idiom",
+      "term": "common ground",
+      "pos": "phrase",
+      "hint": "a shared starting point",
+      "register": "Everyday",
+      "meaning": "A shared belief, interest, or area of agreement that gives people a basis for discussion or cooperation.",
+      "nuance": "It is useful when finding a starting point in a conversation or negotiation. It can refer to one specific overlap or, more generally, the ground two people or groups share.",
+      "literal": "A piece of ground that both sides stand on.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project kickoff · agreeing on priorities",
+          "sentence": "We may disagree on the timeline, but improving customer support is common ground.",
+          "highlight": "common ground",
+          "tip": "Often used to move a discussion toward cooperation."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · planning a trip",
+          "sentence": "Our plans for the weekend are different, but wanting to spend time together is common ground.",
+          "highlight": "common ground",
+          "tip": "Works well for softening disagreement and rebuilding connection."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · proposing a compromise",
+          "sentence": "Both teams have shared goals, so there is plenty of common ground for a workable partnership.",
+          "highlight": "common ground",
+          "tip": "Common in emails, reports, and diplomatic writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the literal idea of shared ground and came to mean a basis of agreement. Its documented figurative use dates back to the 1800s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Writers began using the phrase for a shared basis of agreement or understanding."
+          },
+          {
+            "when": "1900s",
+            "text": "The expression became established in discussion, negotiation, and political writing."
+          },
+          {
+            "when": "Today",
+            "text": "Means a shared area of agreement between people or groups."
+          }
+        ]
+      },
+      "similar": [
+        "common denominator",
+        "point of agreement",
+        "shared ground"
+      ],
+      "opposite": "fault line",
+      "pitfall": "Common ground does not mean a complete agreement; it can refer to just one shared belief or interest."
+    },
+    {
+      "id": "cry-foul",
+      "kind": "idiom",
+      "term": "cry foul",
+      "pos": "idiom",
+      "hint": "protest that something is unfair",
+      "register": "Common at work",
+      "meaning": "To complain loudly that someone has acted unfairly, broken the rules, or been treated badly.",
+      "nuance": "It often suggests a forceful public protest, sometimes implying that the complaint is exaggerated. It can refer to a genuine grievance or be used critically when someone objects strongly.",
+      "literal": "To call out that someone has broken the rules.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Contract dispute · unexpected charges",
+          "sentence": "The vendor cried foul after the buyer added late charges that weren’t in the contract.",
+          "highlight": "cried foul",
+          "tip": "Use it when someone strongly denies wrongdoing or unfair treatment."
+        },
+        {
+          "setting": "social",
+          "where": "Group plans · changing the venue",
+          "sentence": "Everyone cried foul when the host moved the dinner without telling anyone.",
+          "highlight": "cried foul",
+          "tip": "Often implies that people think the decision was unfair."
+        },
+        {
+          "setting": "writing",
+          "where": "Sports report · disputed decision",
+          "sentence": "The coach cried foul after the referee awarded a late penalty.",
+          "highlight": "cried foul",
+          "tip": "Common in reporting about sporting decisions and other public disputes."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from calling a violation a ‘foul’, especially in sport, then broadened to accusing someone of unfair or improper conduct. Its exact first use is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The phrase appears in the language of rules, games and public complaints."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "Sporting reporting increasingly uses ‘cry foul’ for protesting a decision."
+          },
+          {
+            "when": "Today",
+            "text": "It can express a serious objection to unfair treatment, wrongdoing or a disputed decision."
+          }
+        ]
+      },
+      "similar": [
+        "cry wolf",
+        "protest loudly",
+        "raise an objection",
+        "blow the whistle"
+      ],
+      "opposite": "accept the decision",
+      "pitfall": "It does not necessarily prove that the complaint is fair; the wording can suggest an exaggerated reaction."
+    },
+    {
+      "id": "devils-advocate",
+      "kind": "idiom",
+      "term": "devil's advocate",
+      "pos": "idiom",
+      "hint": "argue the other side",
+      "register": "Common at work",
+      "meaning": "To argue against a position deliberately, usually to test it, challenge assumptions, or encourage better thinking.",
+      "nuance": "The goal is usually to improve the discussion rather than sincerely oppose the group. It can be useful for exposing weaknesses before a decision is made.",
+      "literal": "A figure who argues the opposing case so that a disputed belief can be tested.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget review · testing an assumption",
+          "sentence": "Marcus played devil's advocate and challenged the assumption that hiring more staff would improve speed.",
+          "highlight": "played devil's advocate",
+          "tip": "Common when someone challenges a popular plan to uncover possible weaknesses."
+        },
+        {
+          "setting": "social",
+          "where": "Trip planning · questioning a decision",
+          "sentence": "I played devil's advocate at dinner by asking whether we should really cancel the trip.",
+          "highlight": "played devil's advocate",
+          "tip": "Use it when presenting a serious objection, not just complaining."
+        },
+        {
+          "setting": "writing",
+          "where": "Argumentative essay · examining a thesis",
+          "sentence": "The essay plays devil's advocate by presenting the strongest case against its own position.",
+          "highlight": "plays devil's advocate",
+          "tip": "Helpful for showing that a position survives careful scrutiny."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from the role of a devil's advocate in church legal proceedings. This official argued the case against a proposed belief or candidate so the decision could be tested before acceptance.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Medieval period",
+            "text": "Church courts use a formal opposing role to test proposed beliefs and candidates."
+          },
+          {
+            "when": "1500s–1800s",
+            "text": "Writers use the image of the devil arguing against a case in religious and legal debate."
+          },
+          {
+            "when": "1900s",
+            "text": "The expression becomes established for deliberately challenging a group's favoured position."
+          },
+          {
+            "when": "Today",
+            "text": "It describes questioning assumptions, testing an argument, or encouraging more balanced discussion."
+          }
+        ]
+      },
+      "similar": [
+        "contrarian",
+        "naysayer",
+        "sockpuppet"
+      ],
+      "opposite": "yes-man",
+      "pitfall": "A devil's advocate usually tests the argument rather than simply disagreeing or acting as a paid opponent."
+    },
+    {
+      "id": "die-hard",
+      "kind": "idiom",
+      "term": "die hard",
+      "pos": "idiom",
+      "hint": "refuse to surrender",
+      "register": "Common at work",
+      "meaning": "To resist giving up, changing your mind, or accepting defeat, especially when the odds are against you.",
+      "nuance": "It suggests stubborn determination and may be approving or critical depending on the context. It is also used for people who strongly resist change.",
+      "literal": "Someone who continues resisting even when they appear to be losing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · defending a decision",
+          "sentence": "Two directors die hard over the proposal, so we postponed the vote.",
+          "highlight": "die hard",
+          "tip": "Often describes strong, prolonged resistance to a decision or compromise."
+        },
+        {
+          "setting": "social",
+          "where": "Family argument · changing plans",
+          "sentence": "My aunt will die hard if we rearrange the holiday at the last minute.",
+          "highlight": "die hard",
+          "tip": "Natural when discussing someone who strongly opposes a change."
+        },
+        {
+          "setting": "writing",
+          "where": "Local news · community campaign",
+          "sentence": "Shop owners are fighting to save the market, but many residents say the old building will die hard.",
+          "highlight": "die hard",
+          "tip": "Can describe something continuing despite serious decline."
+        }
+      ],
+      "origin": {
+        "summary": "The exact source is unclear. The phrase probably developed from the idea of resisting death or defeat stubbornly before being applied more broadly to determined people and causes.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1840s",
+            "text": "The phrase appears in nineteenth-century writing about stubborn or determined resistance."
+          },
+          {
+            "when": "1900s",
+            "text": "Its use broadens to describe uncompromising people, causes, and institutions."
+          },
+          {
+            "when": "Today",
+            "text": "It means resisting defeat, pressure, or change with firm determination."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "diehard",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "hold your ground",
+        "stand your ground",
+        "never give up"
+      ],
+      "opposite": "give in",
+      "pitfall": "It does not mean simply having a strong opinion; it usually implies determined resistance over time."
+    },
+    {
+      "id": "draw-the-line",
+      "kind": "idiom",
+      "term": "draw the line",
+      "pos": "idiom",
+      "hint": "establish a firm limit",
+      "register": "Common at work and in everyday life",
+      "meaning": "To clearly state the point beyond which you will not go.",
+      "nuance": "It signals a firm boundary and often ends a discussion about acceptable behaviour. It can sound decisive, though sometimes defensive.",
+      "literal": "Drawing a line to mark the edge of an area or limit.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · working hours",
+          "sentence": "My manager drew the line and said the team could not work through the weekend again.",
+          "highlight": "drew the line",
+          "tip": "Often used when someone sets a limit on time, effort or conduct."
+        },
+        {
+          "setting": "social",
+          "where": "At a party · unwanted behaviour",
+          "sentence": "He kept making jokes about her divorce, so she finally drew the line.",
+          "highlight": "drew the line",
+          "tip": "Natural when stopping repeated behaviour that feels unacceptable."
+        },
+        {
+          "setting": "writing",
+          "where": "Complaint email · repeated delays",
+          "sentence": "We must draw the line at further changes without an agreed adjustment to the deadline.",
+          "highlight": "draw the line",
+          "tip": "Useful in firm but professional messages about limits."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely developed from the everyday idea of marking a boundary with a drawn line. Its figurative use became established during the 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Drawing a line was a familiar way to mark a physical or administrative boundary."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers began using the expression for establishing a limit on behaviour or action."
+          },
+          {
+            "when": "Today",
+            "text": "It means refusing to accept or continue beyond a stated limit."
+          }
+        ]
+      },
+      "similar": [
+        "set a limit",
+        "draw a boundary",
+        "put your foot down"
+      ],
+      "opposite": "cross the line",
+      "pitfall": "Use ‘draw the line at’ for a specific limit, but use ‘draw the line between’ when distinguishing two people, ideas or choices."
+    },
+    {
+      "id": "dress-down",
+      "kind": "idiom",
+      "term": "dress down",
+      "pos": "idiom",
+      "hint": "give someone a stern telling-off",
+      "register": "Common at work",
+      "meaning": "To criticize or reprimand someone harshly.",
+      "nuance": "It suggests a forceful, sometimes embarrassing telling-off rather than a calm complaint. It is more natural when describing how a boss, manager or senior person treats a subordinate.",
+      "literal": "Give someone a severe verbal dressing-down.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · missed target",
+          "sentence": "The director dressed me down for presenting numbers I knew were incomplete.",
+          "highlight": "dressed me down",
+          "tip": "Usually takes the person being reprimanded as its object."
+        },
+        {
+          "setting": "social",
+          "where": "Argument · forgotten plans",
+          "sentence": "My sister dressed me down for forgetting the dinner reservation.",
+          "highlight": "dressed me down",
+          "tip": "Often sounds strong and personal, so use it carefully."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial review · weak proposal",
+          "sentence": "The editor dressed the proposal down before sending it to the committee.",
+          "highlight": "dressed the proposal down",
+          "tip": "Often used in reporting when describing a stern criticism."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is unclear, but the phrase was already recorded by the 1600s. Its force comes from the older idea of dressing down a subordinate, which later became a metaphor for harsh criticism.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "Writers use “dress down” for stern criticism or reprimand."
+          },
+          {
+            "when": "1800s",
+            "text": "A separate sense develops for wearing less formal clothes."
+          },
+          {
+            "when": "Today",
+            "text": "It most often means reprimanding someone, while “dress down for an occasion” means wearing something casual."
+          }
+        ]
+      },
+      "similar": [
+        "Call someone out",
+        "Give someone a hard time",
+        "Reprimand someone",
+        "Tell someone off"
+      ],
+      "opposite": "Praise someone",
+      "pitfall": "Don't confuse it with “dress down for the picnic,” which means to wear more casual clothes."
+    },
+    {
+      "id": "dyed-in-the-wool",
+      "kind": "idiom",
+      "term": "dyed in the wool",
+      "pos": "phrase",
+      "hint": "so deeply that it cannot be changed",
+      "register": "Common at work",
+      "meaning": "Describing a belief, attitude, or habit that is deeply fixed in someone’s character.",
+      "nuance": "It suggests something more than a temporary preference: the idea is so rooted that it shapes how someone thinks and acts.",
+      "literal": "Wool that has been coloured so thoroughly that the dye has become part of the fabric.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · changing strategy",
+          "sentence": "Some managers are dyed in the wool and refuse to consider a different approach.",
+          "highlight": "dyed in the wool",
+          "tip": "Use it for a stubborn, deeply held attitude, not simply a strong opinion."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · politics",
+          "sentence": "My grandfather is dyed in the wool and will never change his views on local politics.",
+          "highlight": "dyed in the wool",
+          "tip": "Often sounds mildly critical or teasing."
+        },
+        {
+          "setting": "writing",
+          "where": "Opinion column · cultural change",
+          "sentence": "The argument assumes that prejudice is dyed in the wool and therefore impossible to shift.",
+          "highlight": "dyed in the wool",
+          "tip": "A vivid alternative to saying a belief is deeply rooted or ingrained."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the practice of dyeing wool before spinning it into cloth, a process that makes the colour difficult to remove. Its figurative use for fixed attitudes is well documented.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Some wool was dyed before spinning, so the colour became firmly embedded in the fibres."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression appears in writing for beliefs or habits that are firmly fixed."
+          },
+          {
+            "when": "Today",
+            "text": "It describes attitudes, assumptions, and character traits that seem impossible to change."
+          }
+        ]
+      },
+      "similar": [
+        "hardwired",
+        "deep-rooted",
+        "set in stone"
+      ],
+      "opposite": "open to change",
+      "pitfall": "Usually describes a lasting belief, habit, or attitude; it is not a natural way to describe someone’s favourite food or style."
+    },
+    {
+      "id": "eat-crow",
+      "kind": "idiom",
+      "term": "eat crow",
+      "pos": "idiom",
+      "hint": "admit you were wrong",
+      "register": "Everyday",
+      "meaning": "To admit that you were wrong or have been defeated after your claims or actions proved unsuccessful.",
+      "nuance": "It suggests humiliation as well as admission, so it can sound blunt or teasing. Use it when someone has to acknowledge a mistake, failed argument or unsuccessful plan.",
+      "literal": "Eating a crow, an unpleasant food associated with defeat and humiliation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · a missed deadline",
+          "sentence": "We had to eat crow after the launch failed and ignored every warning from the team.",
+          "highlight": "eat crow",
+          "tip": "Often used when someone admits that their earlier confidence or decision was mistaken."
+        },
+        {
+          "setting": "social",
+          "where": "Friendly debate · a wrong prediction",
+          "sentence": "I said the match would be boring, so I suppose I have to eat crow.",
+          "highlight": "eat crow",
+          "tip": "A little humorous and self-deprecating when you admit you were wrong."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · a rejected proposal",
+          "sentence": "After the committee rejected her proposal, she had to eat crow and support the new plan.",
+          "highlight": "eat crow",
+          "tip": "Use it in reporting or commentary when the defeat is clear and public."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is recorded in American English in the early 1800s. Its exact origin is uncertain, but it likely draws on the old idea that eating crow was an unpleasant or humiliating experience.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Early 1800s",
+            "text": "The expression ‘eat crow’ appears in American printed English, associated with admitting defeat."
+          },
+          {
+            "when": "Later 1800s",
+            "text": "It becomes established as a way to describe humiliation and being proven wrong."
+          },
+          {
+            "when": "Today",
+            "text": "It means admitting a mistake or accepting that you were wrong or defeated."
+          }
+        ]
+      },
+      "similar": [
+        "eat humble pie",
+        "swallow your pride",
+        "admit defeat"
+      ],
+      "opposite": "hold your ground",
+      "pitfall": "It is usually about admitting a mistake or defeat, not simply changing your opinion."
+    },
+    {
+      "id": "egg-on",
+      "kind": "idiom",
+      "term": "egg on",
+      "pos": "verb",
+      "hint": "urge someone to act",
+      "register": "Everyday",
+      "meaning": "To urge or provoke someone to do something.",
+      "nuance": "It can sound playful among friends, but it often suggests pressure, manipulation or a deliberate challenge.",
+      "literal": "Pushing someone toward an action.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · handling a complaint",
+          "sentence": "Don’t egg on Sam to argue with the client before we check the numbers.",
+          "highlight": "egg on",
+          "tip": "Common when describing someone being pushed into a confrontation."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · trying the hot sauce",
+          "sentence": "Please don’t egg on my brother to order the hottest food on the menu.",
+          "highlight": "egg on",
+          "tip": "Often sounds teasing or daring between friends."
+        },
+        {
+          "setting": "writing",
+          "where": "Media commentary · online arguments",
+          "sentence": "The article should not egg on readers to harass people they disagree with.",
+          "highlight": "egg on",
+          "tip": "Useful in reporting when describing provocation or incitement."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from an older meaning of egg: to irritate or provoke. The deeper origin of that older verb is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Egg was used as a verb meaning to irritate or provoke someone."
+          },
+          {
+            "when": "16th century",
+            "text": "The phrase egg on appears in use for urging or inciting someone."
+          },
+          {
+            "when": "Today",
+            "text": "It means to provoke, dare or encourage someone to act."
+          }
+        ]
+      },
+      "similar": [
+        "goad",
+        "prod",
+        "incite",
+        "dare"
+      ],
+      "opposite": "discourage",
+      "pitfall": "The phrase can be playful, but at work it may imply that someone is being deliberately pressured into a decision."
+    },
+    {
+      "id": "elephant-in-the-room",
+      "kind": "idiom",
+      "term": "elephant in the room",
+      "pos": "idiom",
+      "hint": "an obvious problem nobody mentions",
+      "register": "Common at work",
+      "meaning": "A significant problem that everyone knows about but avoids discussing.",
+      "nuance": "Usually points to a problem affecting a group, such as poor morale, financial trouble or a serious safety risk. It can refer to the problem itself or to the habit of ignoring it.",
+      "literal": "A huge elephant standing in a room while the people around it pretend it is not there.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · declining sales",
+          "sentence": "We need to discuss why orders are falling; the elephant in the room is that our main client may leave.",
+          "highlight": "elephant in the room",
+          "tip": "Often introduces an issue the group has been avoiding."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · strained friendship",
+          "sentence": "Nobody mentioned the argument, but the elephant in the room was how badly things had deteriorated.",
+          "highlight": "elephant in the room",
+          "tip": "Useful when describing tension that everyone notices."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · delivery risk",
+          "sentence": "The report calls staffing shortages the elephant in the room because they threaten the launch.",
+          "highlight": "elephant in the room",
+          "tip": "Works well in reports and articles to label a neglected issue."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase’s exact first use is difficult to pin down, but dictionaries trace its figurative form to the 1800s. It became widely established in the early 1900s for a conspicuous problem that a group avoids mentioning.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Early printed uses describe a problem that is obvious to everyone but goes unmentioned."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "The phrase becomes established in British writing and discussion."
+          },
+          {
+            "when": "Today",
+            "text": "It means any major problem that people acknowledge indirectly or ignore."
+          }
+        ]
+      },
+      "similar": [
+        "the elephant in the room",
+        "sweep it under the rug",
+        "bury the hatchet",
+        "open can of worms"
+      ],
+      "opposite": "Let the dog out of the bag",
+      "pitfall": "It describes a shared, obvious problem; use “open can of worms” for a complicated issue whose full extent is unclear."
+    },
+    {
+      "id": "eye-for-an-eye",
+      "kind": "idiom",
+      "term": "eye for an eye",
+      "pos": "idiom",
+      "hint": "punishment that matches the crime",
+      "register": "Common at work",
+      "meaning": "To punish someone for wrongdoing in a way that reflects the harm they caused.",
+      "nuance": "The phrase can suggest firm fairness, revenge, or a demand for proportionate consequences. It often has a stern tone, especially when discussing discipline, law, or negotiation.",
+      "literal": "One eye taken for one eye.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · addressing repeated misconduct",
+          "sentence": "The company ignored every warning, so some employees felt they deserved an eye for an eye.",
+          "highlight": "eye for an eye",
+          "tip": "Use it for a serious breach that warrants a strong response."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · a broken promise",
+          "sentence": "After he missed her birthday twice, she decided it was an eye for an eye.",
+          "highlight": "eye for an eye",
+          "tip": "It sounds more rhetorical than sincere in casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · discussing online punishment",
+          "sentence": "The columnist argued that anonymous users should face an eye for an eye rather than receive unlimited second chances.",
+          "highlight": "eye for an eye",
+          "tip": "Common in forceful arguments about justice, accountability, and punishment."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the ancient biblical principle of proportionate punishment, most famously stated in the Book of Exodus and later repeated in the Gospels of Matthew.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Near East",
+            "text": "The Code of Hammurabi and other early legal collections describe punishment based on the harm done."
+          },
+          {
+            "when": "Old Testament",
+            "text": "Exodus states that a person who causes an injury should suffer a comparable injury."
+          },
+          {
+            "when": "1st century",
+            "text": "The Gospel of Matthew gives the phrase its familiar wording: ‘An eye for an eye, and a tooth for a tooth.’"
+          },
+          {
+            "when": "Today",
+            "text": "It means punishment or retaliation that matches the original offence."
+          }
+        ]
+      },
+      "similar": [
+        "tit for tat",
+        "give as good as you get",
+        "pay back",
+        "fight fire with fire"
+      ],
+      "opposite": "let the punishment fit the crime",
+      "pitfall": "It can sound like a threat or call for revenge, so consider the context and whether proportionate accountability is really your point."
+    },
+    {
+      "id": "face-the-music",
+      "kind": "idiom",
+      "term": "Face the music",
+      "pos": "idiom",
+      "hint": "accept an unwelcome outcome",
+      "register": "Common at work",
+      "meaning": "To accept the unpleasant results of your actions or decisions.",
+      "nuance": "It implies accepting consequences that you may find difficult, embarrassing or costly. It is often used when someone has delayed dealing with a problem and can no longer avoid it.",
+      "literal": "Walking onstage and performing while the music plays.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · missed deadline",
+          "sentence": "We delivered two days late, so we had to face the music and explain the delay.",
+          "highlight": "face the music",
+          "tip": "Natural for acknowledging consequences at work."
+        },
+        {
+          "setting": "social",
+          "where": "Repairs · broken television",
+          "sentence": "I ignored the warning light for months, and now I have to face the music with a huge repair bill.",
+          "highlight": "face the music",
+          "tip": "Often suggests accepting a financial or practical consequence."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · company closure",
+          "sentence": "Several small suppliers will face the music after losing their largest customer.",
+          "highlight": "face the music",
+          "tip": "Useful in reporting when consequences are serious but unavoidable."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase was recorded in the early 1800s. Its exact origin is unclear, although older theatre settings provide a natural literal image: a performer had to step forward and play.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Early written uses apply the phrase to confronting an unwelcome consequence."
+          },
+          {
+            "when": "Today",
+            "text": "It means accepting responsibility for the result, especially when the result is unpleasant."
+          }
+        ]
+      },
+      "similar": [
+        "Bite the bullet",
+        "Face the consequences",
+        "Take the fall"
+      ],
+      "opposite": "Avoid the consequences",
+      "pitfall": "It usually means accepting consequences, not simply receiving criticism or facing another person."
+    },
+    {
+      "id": "fight-fire-with-fire",
+      "kind": "idiom",
+      "term": "Fight fire with fire",
+      "pos": "idiom",
+      "hint": "use the same aggressive approach",
+      "register": "Common at work",
+      "meaning": "To deal with a difficult or hostile situation by using methods that are just as forceful or aggressive.",
+      "nuance": "This can sound practical and decisive, but it may also suggest that escalation is making things worse. It fits arguments, negotiations, and competitive responses.",
+      "literal": "To extinguish one fire by setting another fire burning.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Negotiation · competing suppliers",
+          "sentence": "Our vendor refused to budge, so we decided to fight fire with fire and bring in another supplier.",
+          "highlight": "fight fire with fire",
+          "tip": "Use it when matching a rival’s tactics rather than backing down."
+        },
+        {
+          "setting": "social",
+          "where": "Argument · late-night disagreement",
+          "sentence": "When my brother started mocking me, I chose to fight fire with fire and tease him back.",
+          "highlight": "fight fire with fire",
+          "tip": "It can describe playful retaliation, though it may also escalate a quarrel."
+        },
+        {
+          "setting": "writing",
+          "where": "Sports report · a heated rivalry",
+          "sentence": "The team’s aggressive strategy showed they were willing to fight fire with fire against their opponents.",
+          "highlight": "fight fire with fire",
+          "tip": "Common in reporting when one side responds to pressure with equal force."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from an older idea that one fire can be controlled by using another. Its figurative use was established by the 1700s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used fires and counter-fires to clear or control land and buildings."
+          },
+          {
+            "when": "1700s",
+            "text": "The phrase began appearing in writing as advice about meeting one danger with another."
+          },
+          {
+            "when": "Today",
+            "text": "It describes responding to hostility or pressure with equally forceful tactics."
+          }
+        ]
+      },
+      "similar": [
+        "Meet force with force",
+        "Fight like with like",
+        "Return fire"
+      ],
+      "pitfall": "It does not mean using dangerous methods casually; the phrase usually describes matching someone else’s tactics."
+    },
+    {
+      "id": "final-say",
+      "kind": "idiom",
+      "term": "final say",
+      "pos": "idiom",
+      "hint": "the last word",
+      "register": "Common at work",
+      "meaning": "The final authority to approve, reject, or decide something.",
+      "nuance": "It means the power to settle a matter after everyone else has had an opportunity to comment. Use it when someone has the decisive vote or approval.",
+      "literal": "The last word spoken, after which no further decision is expected.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · setting priorities",
+          "sentence": "The director has the final say on which projects receive funding.",
+          "highlight": "final say",
+          "tip": "Often used to describe a manager’s or executive’s decision-making authority."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing a restaurant · settling the order",
+          "sentence": "We asked everyone to vote, but Sam still has the final say on dessert.",
+          "highlight": "final say",
+          "tip": "Natural when a group is trying to reach a decision."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · approving a proposal",
+          "sentence": "The committee will review the proposal before the chair has the final say.",
+          "highlight": "final say",
+          "tip": "Useful in reports and emails when the decision-maker is clear."
+        }
+      ],
+      "origin": {
+        "summary": "The expression combines ‘final’, meaning last or conclusive, with ‘say’, meaning a decision or opinion. The phrase is recorded in English by the 19th century and developed into a common way of describing ultimate decision-making power.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "The phrase appears in English in the sense of a decisive opinion or the last word in a discussion."
+          },
+          {
+            "when": "19th–20th centuries",
+            "text": "Its use expands to describe the authority to approve or settle a matter."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly means the power to make the definitive decision."
+          }
+        ]
+      },
+      "similar": [
+        "last word",
+        "final decision",
+        "deciding vote"
+      ],
+      "opposite": "no say",
+      "pitfall": "Use ‘have the final say’ or ‘has the final say’ for a person or group with decision-making power; ‘a final say’ can also mean one last contribution to a discussion."
+    },
+    {
+      "id": "hash-out",
+      "kind": "idiom",
+      "term": "hash out",
+      "pos": "idiom",
+      "hint": "work something out together",
+      "register": "Common at work",
+      "meaning": "To discuss something thoroughly, often to solve a problem or reach an agreement.",
+      "nuance": "It suggests an active, often detailed discussion. It is especially useful when people need to settle disagreements, clarify plans, or work through a complicated issue.",
+      "literal": "Working over a messy mixture until its details become clear.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · disputed deadline",
+          "sentence": "We need to hash out the timeline before we promise the client Friday.",
+          "highlight": "hash out",
+          "tip": "Common for resolving uncertainty or disagreement at work."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner plans · choosing a venue",
+          "sentence": "Let’s hash out where to meet once everyone knows the budget.",
+          "highlight": "hash out",
+          "tip": "Natural when a group needs to compare options and decide."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · delayed launch",
+          "sentence": "The committee will hash out a revised launch date at its next meeting.",
+          "highlight": "hash out",
+          "tip": "Useful in reports when a decision is still under discussion."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably developed from the idea of working through a mess or mixture. Its early figurative uses appear in the early 20th century, but the precise origin is not firmly documented.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 20th century",
+            "text": "Writers begin using “hash” for a confused mixture or unsettled state of affairs."
+          },
+          {
+            "when": "Early 20th century",
+            "text": "“Hash out” emerges in the figurative sense of working through a difficult matter."
+          },
+          {
+            "when": "Today",
+            "text": "Means discussing an issue in detail, usually to reach agreement or a decision."
+          }
+        ]
+      },
+      "similar": [
+        "work out",
+        "talk through",
+        "sort out",
+        "hammer out"
+      ],
+      "opposite": "leave unresolved",
+      "pitfall": "“Hash out” usually implies a discussion; use “work out” when you mean solving or calculating something."
+    },
+    {
+      "id": "in-a-bind",
+      "kind": "idiom",
+      "term": "in a bind",
+      "pos": "idiom",
+      "hint": "caught between two difficulties",
+      "register": "Everyday",
+      "meaning": "In a difficult situation where you feel trapped or unable to choose the best option.",
+      "nuance": "It often suggests that two demands or problems are pulling you in opposite directions. Use it when a person, team, or plan is under pressure and has little room to manoeuvre.",
+      "literal": "Tied tightly, with your hands unable to move freely.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · competing deadlines",
+          "sentence": "We’re in a bind because both projects were promised for Friday.",
+          "highlight": "in a bind",
+          "tip": "Common when two commitments make it hard to deliver on time."
+        },
+        {
+          "setting": "social",
+          "where": "Plans · choosing between friends",
+          "sentence": "I’m in a bind because I promised to help Sam, but I already agreed to join Priya’s dinner.",
+          "highlight": "in a bind",
+          "tip": "Sounds natural when explaining a scheduling or loyalty conflict."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining delay",
+          "sentence": "The team was in a bind until the supplier confirmed a new delivery date.",
+          "highlight": "in a bind",
+          "tip": "Useful in a professional explanation of why work is blocked or delayed."
+        }
+      ],
+      "origin": {
+        "summary": "The expression likely developed from the older sense of being tied or bound, then extended to describe being constrained by circumstances.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The word ‘bind’ could mean to tie or fasten something securely."
+          },
+          {
+            "when": "1800s",
+            "text": "Figurative uses of ‘bind’ appear for a troublesome or constrained situation."
+          },
+          {
+            "when": "Today",
+            "text": "‘In a bind’ describes feeling trapped between difficulties or competing obligations."
+          }
+        ]
+      },
+      "similar": [
+        "in a tight spot",
+        "between a rock and a hard place",
+        "under pressure"
+      ],
+      "opposite": "in the clear",
+      "pitfall": "Say ‘in a bind’, not ‘in a bind of trouble’; it means being constrained, not simply having a problem."
+    },
+    {
+      "id": "it-takes-two-to-tango",
+      "kind": "idiom",
+      "term": "it takes two to tango",
+      "pos": "idiom",
+      "hint": "a partnership is needed",
+      "register": "Common at work and socially",
+      "meaning": "A disagreement, negotiation, or close relationship needs participation from both people involved.",
+      "nuance": "Often used when both parties must contribute, compromise, or take responsibility. It can suggest that one person cannot succeed alone.",
+      "literal": "Two dancers are needed to perform the tango.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team review · shared responsibility",
+          "sentence": "If the handover failed, it takes two to tango: both teams need to explain what went wrong.",
+          "highlight": "it takes two to tango",
+          "tip": "Useful when asking both sides to accept some responsibility."
+        },
+        {
+          "setting": "social",
+          "where": "Friendship · making plans",
+          "sentence": "I’m happy to arrange the dinner, but it takes two to tango, so your friends should contribute too.",
+          "highlight": "it takes two to tango",
+          "tip": "A playful way to remind someone that effort should be mutual."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial comment · resolving conflict",
+          "sentence": "A lasting settlement will be difficult to achieve, because it takes two to tango.",
+          "highlight": "it takes two to tango",
+          "tip": "Often adds a slightly informal or gently humorous tone."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase plays on the tango as a two-person dance. Its direct association with the dance was made famous by Roy Willis’s 1952 song “It Takes Two to Tango.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Late 1800s",
+            "text": "The tango develops in Argentina and becomes known as a dance for couples."
+          },
+          {
+            "when": "1952",
+            "text": "Roy Willis records the song “It Takes Two to Tango,” helping establish the familiar phrase."
+          },
+          {
+            "when": "Today",
+            "text": "The expression means that participation or responsibility must be mutual."
+          }
+        ]
+      },
+      "similar": [
+        "It’s a two-way street",
+        "Both sides must play their part",
+        "You can’t have your cake and eat it too"
+      ],
+      "pitfall": "It does not always mean that responsibility is shared equally; it mainly emphasizes that both sides are involved."
+    },
+    {
+      "id": "knee-jerk-reaction",
+      "kind": "idiom",
+      "term": "knee-jerk reaction",
+      "pos": "idiom",
+      "hint": "an instant response with little thought",
+      "register": "Common at work",
+      "meaning": "An immediate reaction based on instinct rather than careful thought.",
+      "nuance": "Often mildly critical: it suggests that someone reacted too quickly and without considering the wider picture.",
+      "literal": "The automatic movement of the lower leg when the knee is tapped.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · new policy",
+          "sentence": "The knee-jerk reaction to the new policy was to cancel every client meeting that week.",
+          "highlight": "knee-jerk reaction",
+          "tip": "Use it when a decision is made in a rush."
+        },
+        {
+          "setting": "social",
+          "where": "Friends · online post",
+          "sentence": "His knee-jerk reaction was to defend the comment even though he had barely read it.",
+          "highlight": "knee-jerk reaction",
+          "tip": "Often describes an emotional response to something controversial."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · heated debate",
+          "sentence": "The article avoids a knee-jerk reaction by considering the evidence from both sides.",
+          "highlight": "knee-jerk reaction",
+          "tip": "Useful for criticizing hasty reactions in an argument."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the knee-jerk reflex, where tapping the knee causes the lower leg to move automatically. Writers later used it for quick, unthinking responses.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The knee-jerk reflex is long known in medicine and physiology."
+          },
+          {
+            "when": "1950s",
+            "text": "The expression “knee-jerk” becomes established for automatic, thoughtless reactions."
+          },
+          {
+            "when": "Today",
+            "text": "“Knee-jerk reaction” labels an immediate response made without enough consideration."
+          }
+        ]
+      },
+      "similar": [
+        "snap reaction",
+        "instant reaction",
+        "rash response"
+      ],
+      "pitfall": "It does not necessarily mean a physical reaction; it usually criticizes a quick response based on instinct."
+    },
+    {
+      "id": "line-in-the-sand",
+      "kind": "idiom",
+      "term": "line in the sand",
+      "pos": "idiom",
+      "hint": "a clear limit you must not cross",
+      "register": "Common at work",
+      "meaning": "A clear boundary that signals one side will not accept or tolerate what happens beyond it.",
+      "nuance": "It often announces a firm warning or separates acceptable behaviour from a breaking point. Use it when you want to make a limit especially emphatic.",
+      "literal": "A line drawn in sand as a visible boundary.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · setting expectations",
+          "sentence": "We can compromise on the launch date, but missing the safety review is a line in the sand.",
+          "highlight": "line in the sand",
+          "tip": "Useful when a limit is non-negotiable."
+        },
+        {
+          "setting": "social",
+          "where": "Friends · discussing respect",
+          "sentence": "I’m willing to overlook one late message, but mocking someone is a line in the sand.",
+          "highlight": "line in the sand",
+          "tip": "Shows that a limit matters to you."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · condemning a decision",
+          "sentence": "The editor drew a line in the sand by refusing to publish unverified claims.",
+          "highlight": "line in the sand",
+          "tip": "Often used in reporting to describe a firm moral or editorial standard."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the image of drawing a line in sand to mark a boundary. Its figurative use is well established, but the exact first recorded use is difficult to trace, so the precise origin is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People have long used a line drawn in sand as a simple, visible boundary."
+          },
+          {
+            "when": "19th–20th century",
+            "text": "The expression appears in writing as a metaphor for a firm limit or dividing point."
+          },
+          {
+            "when": "Today",
+            "text": "It means a clear point beyond which behaviour, demands, or consequences become unacceptable."
+          }
+        ]
+      },
+      "similar": [
+        "draw the line",
+        "bright line",
+        "firm boundary",
+        "point of no return"
+      ],
+      "opposite": "blank check",
+      "pitfall": "Usually refers to a limit or warning, not a physical argument or a literal mark."
+    },
+    {
+      "id": "lock-horns",
+      "kind": "idiom",
+      "term": "lock horns",
+      "pos": "idiom",
+      "hint": "come into direct conflict",
+      "register": "Common at work",
+      "meaning": "To argue, compete, or confront someone directly.",
+      "nuance": "It suggests a clash of interests or opinions rather than a calm disagreement. It works for debates, rivalries, and difficult negotiations.",
+      "literal": "Two animals interlocking their horns as they push against each other.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · competing priorities",
+          "sentence": "Engineering and sales locked horns over whether to delay the launch.",
+          "highlight": "locked horns",
+          "tip": "Use the past tense for a completed clash and ‘lock horns’ for an ongoing one."
+        },
+        {
+          "setting": "social",
+          "where": "Family dinner · dividing the bill",
+          "sentence": "My brothers locked horns about who should pick up the restaurant tab.",
+          "highlight": "locked horns",
+          "tip": "Often implies disagreement that becomes lively or stubborn."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · market competition",
+          "sentence": "The two retailers locked horns in a price battle that lasted most of the year.",
+          "highlight": "locked horns",
+          "tip": "Useful for describing rivals competing over customers, money, or market share."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from cattle locking horns during a fight. Writers began using it for direct arguments and competition by the 1800s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Cattle and other horned animals lock horns when competing or defending themselves."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers use ‘lock horns’ for close argument or conflict."
+          },
+          {
+            "when": "Today",
+            "text": "It describes a direct clash between people, teams, or organisations."
+          }
+        ]
+      },
+      "similar": [
+        "butt heads",
+        "go head-to-head",
+        "clash",
+        "cross swords"
+      ],
+      "opposite": "see eye to eye",
+      "pitfall": "‘Lock horns’ describes the clash itself; it does not mean the participants agree or cooperate."
+    }
+  ]
+}

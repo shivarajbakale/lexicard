@@ -1,0 +1,1482 @@
+{
+  "id": "phrases-reacting-2",
+  "kind": "phrase",
+  "name": "Reacting · 2",
+  "blurb": "25 phrases about reacting",
+  "cards": [
+    {
+      "id": "chin-up",
+      "kind": "phrase",
+      "term": "chin up",
+      "pos": "idiom",
+      "hint": "an encouraging expression",
+      "register": "Common at work",
+      "meaning": "A cheerful way to tell someone not to give up and to face difficulties with a positive attitude.",
+      "nuance": "It is friendly and encouraging, but can sound a little old-fashioned or too casual in formal settings.",
+      "literal": "Lift your head and hold your chin high, as if showing confidence and optimism.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague facing a setback",
+          "sentence": "Chin up—we can revise the proposal before the client sees it.",
+          "highlight": "Chin up",
+          "tip": "Use it with colleagues you know well; offer a specific next step for extra encouragement."
+        },
+        {
+          "setting": "social",
+          "where": "Friend missing a flight",
+          "sentence": "Chin up, there’s another one in two hours.",
+          "highlight": "Chin up",
+          "tip": "A warm response to bad news, especially when you cannot change the situation."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a teammate",
+          "sentence": "Chin up; the first draft was rough, but the new version is much clearer.",
+          "highlight": "Chin up",
+          "tip": "It works best in an informal message and may feel abrupt in serious communication."
+        }
+      ],
+      "origin": {
+        "summary": "Probably comes from the physical gesture of holding your chin high as a sign of confidence or optimism. The expression later developed into an informal encouragement.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used the image of lifting the chin to suggest confidence, pride or resilience."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression began appearing in writing as an encouraging command."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar, informal way to encourage someone who is discouraged."
+          }
+        ]
+      },
+      "similar": [
+        "keep your chin up",
+        "hang in there",
+        "cheer up",
+        "stay positive"
+      ],
+      "opposite": "give up",
+      "pitfall": "“Chin up” is not suitable for every serious situation; in a formal or sensitive context, offer practical support instead."
+    },
+    {
+      "id": "close-but-no-cigar",
+      "kind": "phrase",
+      "term": "Close, but no cigar",
+      "pos": "idiom",
+      "hint": "almost, but not quite",
+      "register": "Common at work",
+      "meaning": "Used when a result is very close to success but falls just short of the desired outcome.",
+      "nuance": "It adds a light, conversational tone while acknowledging an attempt that nearly worked. It can describe a near miss or a target that was almost met.",
+      "literal": "Someone was close, but did not win the cigar prize.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · discussing an unfinished proposal",
+          "sentence": "The draft was close, but no cigar; it needed a clearer budget before we could approve it.",
+          "highlight": "close, but no cigar",
+          "tip": "Use it to give feedback while showing that you recognise the effort."
+        },
+        {
+          "setting": "social",
+          "where": "Friendly competition · reacting to a near win",
+          "sentence": "You were close, but no cigar — we beat you by just two points.",
+          "highlight": "close, but no cigar",
+          "tip": "It works well for playful teasing and keeps a disappointing result light."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · explaining a missed target",
+          "sentence": "Sales were close, but no cigar, reaching 92% of the quarterly target.",
+          "highlight": "close, but no cigar",
+          "tip": "Pair it with the actual result so the meaning stays clear."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from American slang, combining “close” with “no cigar,” an expression for lacking luck or success. The modern phrase became a familiar way to describe a near miss.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“No cigar” was used informally to mean that someone was not lucky or did not succeed."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression developed into a playful phrase for being almost successful."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in casual speech and workplace feedback for a result that nearly succeeded."
+          }
+        ]
+      },
+      "similar": [
+        "so close, but not quite",
+        "a near miss",
+        "almost made it"
+      ],
+      "opposite": "a clear success",
+      "pitfall": "It usually describes missing a target by a small margin, so it may sound inaccurate if the result was nowhere near success."
+    },
+    {
+      "id": "cool-calm-and-collected",
+      "kind": "phrase",
+      "term": "cool, calm and collected",
+      "pos": "phrase",
+      "hint": "relaxed, steady and in control",
+      "register": "Common at work and in social situations",
+      "meaning": "Relaxed, emotionally steady and able to think clearly under pressure.",
+      "nuance": "It describes someone who stays composed when others may be tense or confused. Use it for someone who handles a difficult moment with poise, not simply someone who feels calm.",
+      "literal": "The phrase pictures a person as cool, calm and carefully organized, especially during a stressful moment.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · handling a setback",
+          "sentence": "She stayed cool, calm and collected while the server outage slowed everyone else down.",
+          "highlight": "cool, calm and collected",
+          "tip": "Use it to recognize calm leadership or careful handling of a crisis."
+        },
+        {
+          "setting": "social",
+          "where": "Busy party · finding a lost friend",
+          "sentence": "He remained cool, calm and collected and soon spotted his friend across the room.",
+          "highlight": "cool, calm and collected",
+          "tip": "It sounds natural when describing composure in an unexpected or mildly chaotic situation."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · praising a colleague",
+          "sentence": "Mina handled the difficult questions cool, calm and collected, which earned the client’s trust.",
+          "highlight": "cool, calm and collected",
+          "tip": "In writing, consider naming the pressure or challenge so the praise feels specific."
+        }
+      ],
+      "origin": {
+        "summary": "The exact starting point is uncertain, but the wording develops from older expressions about being “cool” and “collected,” meaning relaxed and self-controlled. Its memorable alliteration helped make it a modern description of composure.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The words “cool” and “collected” were used separately to describe relaxed, self-controlled behavior."
+          },
+          {
+            "when": "1900s",
+            "text": "Similar alliterative expressions became established for people who stayed composed in demanding situations."
+          },
+          {
+            "when": "Today",
+            "text": "The full phrase is commonly used for calm, effective behavior under pressure."
+          }
+        ]
+      },
+      "similar": [
+        "calm and collected",
+        "unflappable",
+        "composed",
+        "level-headed"
+      ],
+      "opposite": "flustered",
+      "pitfall": "The phrase can sound like praise, but it does not by itself show what the person did well, so add a concrete example when the feedback matters."
+    },
+    {
+      "id": "could-hear-a-pin-drop",
+      "kind": "phrase",
+      "term": "could hear a pin drop",
+      "pos": "idiom",
+      "hint": "a room so quiet you could hear a pin hit the floor",
+      "register": "Common at work",
+      "meaning": "To describe a place or moment that is completely silent.",
+      "nuance": "It emphasizes how quiet people are, often because everyone is listening closely or waiting for someone to speak.",
+      "literal": "A pin falling onto the floor would make an audible sound in the silent room.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company meeting · waiting for input",
+          "sentence": "The whole room went silent; you could hear a pin drop after the director asked for questions.",
+          "highlight": "could hear a pin drop",
+          "tip": "Use it when silence is striking or everyone is carefully listening."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner table · after an announcement",
+          "sentence": "There was an awkward pause, and you could hear a pin drop before anyone replied.",
+          "highlight": "could hear a pin drop",
+          "tip": "It works well for a noticeably awkward or expectant silence."
+        },
+        {
+          "setting": "writing",
+          "where": "Event report · describing the audience",
+          "sentence": "During the presentation, you could hear a pin drop as hundreds of guests listened intently.",
+          "highlight": "could hear a pin drop",
+          "tip": "Use vivid language when the silence itself is worth noticing."
+        }
+      ],
+      "origin": {
+        "summary": "Likely grew from older expressions about hearing a pin fall in a quiet room. The familiar wording became established in the 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Similar expressions describe hearing a pin fall in an extremely quiet place."
+          },
+          {
+            "when": "Early 20th century",
+            "text": "The expression “hear a pin drop” became established in English."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a vivid, slightly literary way to describe absolute silence."
+          }
+        ]
+      },
+      "similar": [
+        "dead silence",
+        "complete silence",
+        "silent as the grave"
+      ],
+      "opposite": "a hive of activity",
+      "pitfall": "“Could hear a pin drop” describes near-total silence; it is not meant to suggest that only a pin could be heard."
+    },
+    {
+      "id": "cross-my-heart",
+      "kind": "phrase",
+      "term": "cross my heart",
+      "pos": "idiom",
+      "hint": "a sincere promise",
+      "register": "Casual",
+      "meaning": "Used to promise that something you say is completely true.",
+      "nuance": "It adds warmth and emotional emphasis, so it works best among people who know each other. It can sound playful or overly dramatic depending on the situation.",
+      "literal": "Making a cross over one’s heart as a sign of a solemn promise.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague chat · returning equipment",
+          "sentence": "I cross my heart, I’ll return the laptop before lunch.",
+          "highlight": "cross my heart",
+          "tip": "Keep it light; for a serious work commitment, use a clear deadline instead."
+        },
+        {
+          "setting": "social",
+          "where": "Friend’s party · denying a spoiler",
+          "sentence": "Cross my heart, I didn’t peek at your surprise party message.",
+          "highlight": "Cross my heart",
+          "tip": "This adds a playful note when reassuring someone that you are telling the truth."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal email · making a firm promise",
+          "sentence": "Cross my heart, I’ll have the draft ready by Friday.",
+          "highlight": "Cross my heart",
+          "tip": "It suits friendly messages, but professional emails usually need a straightforward promise."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is linked to an old pledge-making gesture involving the heart. Its precise early history is difficult to pin down, but the expression later became part of longer promises such as “cross my heart and hope to die.”",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used gestures over the heart to show that a promise or statement was sincere."
+          },
+          {
+            "when": "Late medieval period",
+            "text": "Writers used “cross my heart” in formulas for swearing that something was true."
+          },
+          {
+            "when": "Modern period",
+            "text": "The shorter phrase survives as a casual way to emphasize an honest promise."
+          }
+        ]
+      },
+      "similar": [
+        "hand on my heart",
+        "I swear",
+        "on my honor",
+        "word of honor"
+      ],
+      "pitfall": "It can sound childish or melodramatic, and it does not replace a specific commitment about what you will do or when."
+    },
+    {
+      "id": "dont-get-me-wrong",
+      "kind": "phrase",
+      "term": "don't get me wrong",
+      "pos": "idiom",
+      "hint": "a qualification before making a point",
+      "register": "Common at work",
+      "meaning": "Used to clarify that what you are saying is correct, often after you have expressed an opinion that others may have misunderstood.",
+      "nuance": "It can sound defensive or emphatic, especially when someone challenges you. It works best when you immediately explain what you mean.",
+      "literal": "Do not misunderstand what I am saying.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Clarifying a concern · team discussion",
+          "sentence": "Don’t get me wrong, I’m not criticizing the proposal; I’m asking whether it fits the deadline.",
+          "highlight": "Don’t get me wrong",
+          "tip": "Follow it with the clarification so it does not sound defensive."
+        },
+        {
+          "setting": "social",
+          "where": "Explaining a preference · friendly disagreement",
+          "sentence": "Don’t get me wrong, I do enjoy the party; I’m just not staying until midnight.",
+          "highlight": "Don’t get me wrong",
+          "tip": "Use it when your first statement may sound stronger than your actual view."
+        },
+        {
+          "setting": "writing",
+          "where": "Email explanation · correcting a misunderstanding",
+          "sentence": "Don’t get me wrong, I’m not rejecting the offer; I need another day to review the details.",
+          "highlight": "Don’t get me wrong",
+          "tip": "It can sound slightly confrontational in email, so keep the explanation calm."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the expression “get me wrong,” meaning to misunderstand someone. The negative form became common as a way to interrupt a misunderstanding and clarify a speaker’s point.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The basic expression “get me wrong” began as a way of saying “understand me incorrectly.”"
+          },
+          {
+            "when": "20th century",
+            "text": "“Don’t get me wrong” became a familiar conversational formula for adding an important qualification."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely used in speech and informal writing, though it can sound defensive."
+          }
+        ]
+      },
+      "similar": [
+        "let me clarify",
+        "misunderstand me",
+        "to be clear"
+      ],
+      "opposite": "get me wrong",
+      "pitfall": "It can sound like you are blaming the other person for misunderstanding you, so soften it with a clear explanation."
+    },
+    {
+      "id": "dont-knock-it-till-youve-tried-it",
+      "kind": "phrase",
+      "term": "don't knock it till you've tried it",
+      "pos": "idiom",
+      "hint": "give it a chance before judging",
+      "register": "Everyday",
+      "meaning": "You should try or experience something before criticising it.",
+      "nuance": "Friendly and persuasive, often used when someone is being too negative or dismissing an unfamiliar option.",
+      "literal": "Don't criticise something before you have tried it yourself.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · considering a new tool",
+          "sentence": "Don't knock it till you've tried it; the new scheduling tool may solve our biggest problem.",
+          "highlight": "Don't knock it till you've tried it",
+          "tip": "Use it to encourage an open-minded attitude, but show willingness to test the idea yourself."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · trying unfamiliar food",
+          "sentence": "Don't knock it till you've tried it—the soup smells strange, but it might be delicious.",
+          "highlight": "Don't knock it till you've tried it",
+          "tip": "This is a light way to encourage someone to be less dismissive."
+        },
+        {
+          "setting": "writing",
+          "where": "Message · recommending a new restaurant",
+          "sentence": "Don't knock it till you've tried it, so give this little café a chance.",
+          "highlight": "Don't knock it till you've tried it",
+          "tip": "It works best in informal messages rather than formal recommendations."
+        }
+      ],
+      "origin": {
+        "summary": "Probably developed from older English advice about judging things only through direct experience, with the familiar wording becoming established in the 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English speakers long expressed the idea that firsthand experience is better than prejudgement."
+          },
+          {
+            "when": "19th century",
+            "text": "The wording 'never know till you've tried' and related versions circulate widely."
+          },
+          {
+            "when": "Today",
+            "text": "The shorter saying remains common in informal British, Irish and Australian speech."
+          }
+        ]
+      },
+      "similar": [
+        "give it a chance",
+        "try before you criticise",
+        "don't judge a book by its cover"
+      ],
+      "opposite": "judge it before trying it",
+      "pitfall": "The phrase suggests giving something a fair trial, not pretending that every new experience is good."
+    },
+    {
+      "id": "dont-mention-it",
+      "kind": "phrase",
+      "term": "Don't mention it",
+      "pos": "phrase",
+      "hint": "no thanks needed",
+      "register": "Everyday",
+      "meaning": "A friendly way of saying that someone does not need to thank you or apologise for something.",
+      "nuance": "It is warm and reassuring, especially in response to thanks or an apology. It can also mean that you are willing to overlook a small problem.",
+      "literal": "There is no need to mention the matter again.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Coworker thanks you for covering a task",
+          "sentence": "Don't mention it—I was happy to help before the deadline.",
+          "highlight": "Don't mention it",
+          "tip": "Use it to accept thanks casually without making the exchange feel formal."
+        },
+        {
+          "setting": "social",
+          "where": "Friend apologises for arriving late",
+          "sentence": "Don't mention it, we all had to deal with the traffic.",
+          "highlight": "Don't mention it",
+          "tip": "It gently puts an awkward apology behind you."
+        },
+        {
+          "setting": "writing",
+          "where": "Reply to a colleague’s thank-you email",
+          "sentence": "Don't mention it; I'm glad I could sort that out for you.",
+          "highlight": "Don't mention it",
+          "tip": "Keep it brief and natural when closing an email exchange."
+        }
+      ],
+      "origin": {
+        "summary": "The wording is a polite response to thanks or apologies and is especially common in British and Irish English. Its exact first use is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The phrase developed as a polite way of saying that a matter requires no further attention."
+          },
+          {
+            "when": "19th–20th century",
+            "text": "Its use as a response to thanks and apologies became established in everyday English."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common spoken and written expression, particularly in British English."
+          }
+        ]
+      },
+      "similar": [
+        "you're welcome",
+        "not at all",
+        "think nothing of it"
+      ],
+      "opposite": "I appreciate you mentioning it",
+      "pitfall": "In a serious context, the phrase may sound dismissive; a more specific acknowledgment can be better."
+    },
+    {
+      "id": "dont-quote-me",
+      "kind": "phrase",
+      "term": "don't quote me",
+      "pos": "phrase",
+      "hint": "please do not repeat what I said",
+      "register": "Casual",
+      "meaning": "A request that someone not repeat your words, often because they are personal, uncertain or not meant for others.",
+      "nuance": "This is usually a playful or firm boundary, not necessarily a demand for complete secrecy. It often adds informality to casual conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · sharing a concern",
+          "sentence": "I’m still worried about the deadline, but don’t quote me when you raise it with the client.",
+          "highlight": "don’t quote me",
+          "tip": "It can protect candidness, but clarify what you do want your colleague to do."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation with a friend",
+          "sentence": "I might take another job next year, but don’t quote me—I haven’t decided anything yet.",
+          "highlight": "don’t quote me",
+          "tip": "Use it when you want to share something without making it a public announcement."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message to a colleague",
+          "sentence": "That idea came from me, but don’t quote me because I’m not ready to pitch it yet.",
+          "highlight": "don’t quote me",
+          "tip": "It keeps a message light while still setting a clear limit on repeating it."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the older expression “quote me,” meaning to repeat someone’s words. The exact point when “don’t quote me” became common is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The word “quote” begins to mean repeat someone’s exact words."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression “quote me” appears as a way of asking someone to repeat what was said."
+          },
+          {
+            "when": "20th century onward",
+            "text": "“Don’t quote me” becomes a familiar way to ask someone not to repeat a remark."
+          }
+        ]
+      },
+      "similar": [
+        "keep this between us",
+        "don't spread that around",
+        "don't repeat that"
+      ],
+      "opposite": "feel free to share",
+      "pitfall": "It may sound playful, so if the request is serious, state plainly that the information should remain confidential."
+    },
+    {
+      "id": "dont-tell-me",
+      "kind": "phrase",
+      "term": "don't tell me",
+      "pos": "phrase",
+      "hint": "a reaction of surprise or disbelief",
+      "register": "Everyday",
+      "meaning": "An expression of surprise, disbelief or mild frustration at something unexpected.",
+      "nuance": "It usually shows that you had hoped for a better or different result. Depending on tone and context, it can also mean “I understand” or act as a playful prompt for someone to continue.",
+      "literal": "An invitation to keep the information private, often used when reacting to something surprising.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project update · hearing bad news",
+          "sentence": "Don't tell me we have to redo the report after yesterday's meeting.",
+          "highlight": "Don't tell me",
+          "tip": "Use a warm tone here, or it may sound harsher than you intend."
+        },
+        {
+          "setting": "social",
+          "where": "Friend's travel story · hearing the details",
+          "sentence": "Don't tell me you lost your suitcase before the flight.",
+          "highlight": "Don't tell me",
+          "tip": "In conversation, it often invites the other person to explain what happened."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a colleague · confirming a delay",
+          "sentence": "Don't tell me the delivery is going to be late again.",
+          "highlight": "Don't tell me",
+          "tip": "It can sound impatient in writing, so consider naming the problem directly instead."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from a literal call for secrecy. Its expressive sense, showing surprise or disbelief, is well established in modern English.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Literal sense: asking someone not to reveal information."
+          },
+          {
+            "when": "20th century",
+            "text": "The reactive sense became common for surprise, disappointment and disbelief."
+          },
+          {
+            "when": "Today",
+            "text": "Used in conversation, though often replaced by more direct wording in formal writing."
+          }
+        ]
+      },
+      "similar": [
+        "you're kidding",
+        "no way",
+        "seriously?"
+      ],
+      "opposite": "of course",
+      "pitfall": "In writing, “don't tell me” can sound more impatient or dismissive than it does when spoken casually."
+    },
+    {
+      "id": "dream-on",
+      "kind": "phrase",
+      "term": "dream on",
+      "pos": "idiom",
+      "hint": "keep hoping, perhaps unrealistically",
+      "register": "Casual",
+      "meaning": "To continue hoping for something even though it may be unlikely or unrealistic.",
+      "nuance": "It can sound encouraging when someone needs support, but it can also gently suggest that they should face reality. The tone depends heavily on the situation.",
+      "literal": "Continue dreaming or hoping for a desired outcome.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · an unrealistic proposal",
+          "sentence": "The prototype may take months, but dream on while we find a faster way to test it.",
+          "highlight": "dream on",
+          "tip": "Use it lightly when offering encouragement, not when dismissing a serious proposal."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation with a friend",
+          "sentence": "He’s still waiting to become a professional footballer, so I just told him to dream on.",
+          "highlight": "dream on",
+          "tip": "This often sounds affectionate or gently teasing rather than openly rude."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a colleague",
+          "sentence": "We can explore the idea, but let’s dream on while we also prepare a realistic plan.",
+          "highlight": "dream on",
+          "tip": "Pair it with practical wording so it does not sound cynical."
+        }
+      ],
+      "origin": {
+        "summary": "The expression grew from the older idea of continuing to hope or daydream. Its modern meaning combines encouragement with the suggestion that the hope may not come true.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The phrase originally meant to continue dreaming or imagining a possible future."
+          },
+          {
+            "when": "1800s",
+            "text": "It developed the additional sense of hoping for something despite doubtful prospects."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in casual speech as both encouragement and gentle dismissal."
+          }
+        ]
+      },
+      "similar": [
+        "keep hoping",
+        "keep your fingers crossed",
+        "the sky’s the limit"
+      ],
+      "opposite": "face reality",
+      "pitfall": "In formal or serious settings, “dream on” can sound dismissive, so explain your concern more directly."
+    },
+    {
+      "id": "dust-settles",
+      "kind": "phrase",
+      "term": "dust settles",
+      "pos": "phrase",
+      "hint": "things calm down after a disturbance",
+      "register": "Common at work",
+      "meaning": "A tense or uncertain situation calms down, and the consequences become easier to understand.",
+      "nuance": "It suggests that the immediate excitement or conflict is fading, not necessarily that everything has been resolved. It is often used when waiting for people’s reactions or decisions to become clear.",
+      "literal": "Dust in the air gradually falls to the ground, making the air clear and the scene visible again.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "After a difficult meeting · waiting for feedback",
+          "sentence": "Let’s give the team a day, then we’ll see if the dust settles and talk about next steps.",
+          "highlight": "dust settles",
+          "tip": "Use it when you want to pause before responding to a tense discussion."
+        },
+        {
+          "setting": "social",
+          "where": "After an argument · checking on a friend",
+          "sentence": "I won’t bring it up again tonight, but let’s give everyone some time for the dust to settle.",
+          "highlight": "dust to settle",
+          "tip": "It can show patience without pretending the disagreement never happened."
+        },
+        {
+          "setting": "writing",
+          "where": "Update after an announcement",
+          "sentence": "Once the dust settles, I’ll send a short summary of what the new policy means for the team.",
+          "highlight": "dust settles",
+          "tip": "It works well for information that may cause confusion or strong reactions at first."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the literal image of airborne dust falling and clearing the air. Its figurative use for a situation calming down developed during the 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal image of dust settling appears in ordinary English writing."
+          },
+          {
+            "when": "20th century",
+            "text": "The figurative meaning becomes established for situations in which conflict, uncertainty, or excitement dies down."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in workplace conversations, news reporting, and informal speech."
+          }
+        ]
+      },
+      "similar": [
+        "things calm down",
+        "the dust clears",
+        "the situation settles down"
+      ],
+      "opposite": "things heat up",
+      "pitfall": "“Dust settles” usually means the immediate reaction has faded; it does not guarantee that the underlying problem has been solved."
+    },
+    {
+      "id": "earth-to-someone",
+      "kind": "phrase",
+      "term": "Earth to someone",
+      "pos": "idiom",
+      "hint": "a humorous way to get someone’s attention",
+      "register": "Casual",
+      "meaning": "A playful way to tell someone to pay attention, especially when they seem distracted or have not noticed what is happening.",
+      "nuance": "It is humorous and slightly dramatic, often used among colleagues or friends. In a serious conversation, it may sound flippant or even dismissive.",
+      "literal": "A call from Earth meant to reach someone who seems far away or mentally elsewhere.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Meeting · a colleague is distracted",
+          "sentence": "Earth to you, have you actually read the brief?",
+          "highlight": "Earth to you",
+          "tip": "Use it when a light nudge is friendlier than a direct interruption."
+        },
+        {
+          "setting": "social",
+          "where": "Group chat · someone misses a remark",
+          "sentence": "Earth to you, we’ve been talking about this for ten minutes.",
+          "highlight": "Earth to you",
+          "tip": "It works best with people you already know well."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal team email · checking for a response",
+          "sentence": "Earth to you — I’ve sent the updated files twice, so please let me know when you’ve got them.",
+          "highlight": "Earth to you",
+          "tip": "Keep it playful; in formal writing, name the missing action instead."
+        }
+      ],
+      "origin": {
+        "summary": "Probably comes from the language of science fiction and cartoons, where characters might call to someone on Earth who seemed unreachable or distracted.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression links Earth with someone who seems far away in space or attention."
+          },
+          {
+            "when": "20th century",
+            "text": "Science fiction, comics and other playful media helped establish it as a call for attention."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar informal joke for interrupting someone’s distraction."
+          }
+        ]
+      },
+      "similar": [
+        "anybody home",
+        "pay attention",
+        "are you with me",
+        "wake up"
+      ],
+      "opposite": "on the same wavelength",
+      "pitfall": "It can sound mocking or impatient, so avoid it when someone is upset, confused or dealing with something serious."
+    },
+    {
+      "id": "enough-is-enough",
+      "kind": "phrase",
+      "term": "enough is enough",
+      "pos": "idiom",
+      "hint": "time to stop",
+      "register": "Everyday",
+      "meaning": "A firm way of saying that something has gone far enough and should stop.",
+      "nuance": "It can sound impatient, decisive or slightly annoyed. Use it when a clear limit needs to be set, but soften it with context when you do not want to sound harsh.",
+      "literal": "Having enough of something is all that is needed, so there is no reason to continue.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · repeated requests",
+          "sentence": "We’ve heard your feedback three times, and enough is enough—let’s move on to the next item.",
+          "highlight": "enough is enough",
+          "tip": "Use it after the issue has been clearly raised, not as your first response."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · an overly enthusiastic topic",
+          "sentence": "I know you love this restaurant, but enough is enough—please don’t make us go there again next week.",
+          "highlight": "enough is enough",
+          "tip": "A playful tone can make the boundary sound less confrontational."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a colleague · repeated follow-ups",
+          "sentence": "I appreciate the additional notes, but enough is enough; please send any final comments by Thursday.",
+          "highlight": "enough is enough",
+          "tip": "Pair it with a clear deadline or next step so the limit is practical."
+        }
+      ],
+      "origin": {
+        "summary": "The expression is likely built on the older idea that once you have enough, more is unnecessary. Its exact first use is difficult to pin down, but it became established as a way to call for restraint or an end to repetition.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The building block “enough” came from a long-standing idea that having sufficient quantity makes further additions unnecessary."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression appeared in English writing as a blunt way to say that a limit had been reached."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in everyday conversation for setting a firm boundary."
+          }
+        ]
+      },
+      "similar": [
+        "that’s enough",
+        "we’ve reached the limit",
+        "no more"
+      ],
+      "opposite": "the more the merrier",
+      "pitfall": "It can sound rude when used before the other person has had a fair chance to explain themselves."
+    },
+    {
+      "id": "enough-said",
+      "kind": "phrase",
+      "term": "enough said",
+      "pos": "phrase",
+      "hint": "no more needs explaining",
+      "register": "Everyday",
+      "meaning": "What has just been said makes further explanation or discussion unnecessary.",
+      "nuance": "It can signal that you understand or accept what was said, but it may sound impatient or abrupt when used in a serious conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · clarifying a decision",
+          "sentence": "We’ll release the report on Friday; enough said, right?",
+          "highlight": "enough said",
+          "tip": "Use it casually when the decision is already clear."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · settling a topic",
+          "sentence": "You’re meeting her at seven, so enough said—enjoy your evening.",
+          "highlight": "enough said",
+          "tip": "It works well with friends but can sound dismissive with people you don’t know well."
+        },
+        {
+          "setting": "writing",
+          "where": "Message ending · closing a subject",
+          "sentence": "The meeting starts at nine, and the agenda is attached. Enough said!",
+          "highlight": "Enough said",
+          "tip": "Keep the exclamation mark for a friendly tone; omit it in a serious message."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from the plain meaning of “enough” plus “said,” with the sense that what someone has said is sufficient.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "The expression appears in English as a compact way of saying that no more words are needed."
+          },
+          {
+            "when": "20th century",
+            "text": "It becomes common in speech as a response that ends further discussion."
+          },
+          {
+            "when": "Today",
+            "text": "It is still used conversationally, though its brevity can sound impatient."
+          }
+        ]
+      },
+      "similar": [
+        "that will do",
+        "that says it all",
+        "need I say more",
+        "case closed"
+      ],
+      "opposite": "let me explain",
+      "pitfall": "It can feel rude or dismissive, so avoid it when the other person still needs reassurance or details."
+    },
+    {
+      "id": "fools-rush-in",
+      "kind": "phrase",
+      "term": "fools rush in",
+      "pos": "idiom",
+      "hint": "enter boldly without thinking",
+      "register": "Common in conversation and writing",
+      "meaning": "To enter a situation boldly without considering the risks or checking the details first.",
+      "nuance": "It is usually a mild criticism of impulsive behaviour. It can sound playful among friends but more pointed in professional criticism.",
+      "literal": "Foolish people run into a place that wiser, more cautious people would avoid.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product review · assessing a proposal",
+          "sentence": "Fools rush in when the team treats an untested idea as a guaranteed success.",
+          "highlight": "Fools rush in",
+          "tip": "Use it to challenge impulsive decisions without being unnecessarily harsh."
+        },
+        {
+          "setting": "social",
+          "where": "Party invitation · discussing who might attend",
+          "sentence": "I told them fools rush in when nobody has checked whether the party is actually open.",
+          "highlight": "fools rush in",
+          "tip": "It adds a teasing warning when someone is acting on incomplete information."
+        },
+        {
+          "setting": "writing",
+          "where": "Business commentary · discussing a crowded market",
+          "sentence": "Fools rush in when a popular market attracts competitors who ignore basic costs.",
+          "highlight": "Fools rush in",
+          "tip": "A blunt opening works well, but support it with the risks you mean."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the longer proverb “Fools rush in where angels fear to tread,” which warns that reckless people enter places where caution would be wiser.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "A traditional proverb expressed the idea that hasty people take risks that wiser people avoid."
+          },
+          {
+            "when": "1678",
+            "text": "The longer expression appeared in John Dryden’s comedy The Wild Gallant."
+          },
+          {
+            "when": "Later",
+            "text": "The shortened form “fools rush in” became common as a warning about impulsive action."
+          }
+        ]
+      },
+      "similar": [
+        "haste makes waste",
+        "jump in with both feet",
+        "act without thinking"
+      ],
+      "opposite": "proceed with caution",
+      "pitfall": "The phrase criticises lack of thought, not enthusiasm itself; ordinary confidence or quick action may not deserve it."
+    },
+    {
+      "id": "forget-it",
+      "kind": "phrase",
+      "term": "forget it",
+      "pos": "phrase",
+      "hint": "drop the subject and move on",
+      "register": "Casual",
+      "meaning": "To stop thinking about something, let the matter go, or treat a request as unimportant and refuse it.",
+      "nuance": "The meaning depends on the situation: it can end an argument, brush off a request, or mean “never mind.” It is usually direct and informal, so choose warmer wording around sensitive issues.",
+      "literal": "Do not remember or think about the thing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · ending a side issue",
+          "sentence": "We can revisit the reporting format next week; for now, forget it.",
+          "highlight": "forget it",
+          "tip": "Use it to close a minor topic, but state what happens next."
+        },
+        {
+          "setting": "social",
+          "where": "Casual conversation · dismissing a favour",
+          "sentence": "Could you help me move this table? Actually, forget it, I’ll manage.",
+          "highlight": "forget it",
+          "tip": "It sounds more casual and abrupt than “Never mind.”"
+        },
+        {
+          "setting": "writing",
+          "where": "Chat message · rejecting an extra request",
+          "sentence": "No need to add those charts this week—forget it, and send what you already have.",
+          "highlight": "forget it",
+          "tip": "Use it only when the extra work is genuinely optional."
+        }
+      ],
+      "origin": {
+        "summary": "This is a plain instruction not to remember or think about something. Its dismissive use developed from that literal sense.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Literal sense: do not remember or think about something."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase appears in writing as a way to dismiss a matter or tell someone not to bother."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common informal way to drop a topic, reject a request, or say “never mind.”"
+          }
+        ]
+      },
+      "similar": [
+        "never mind",
+        "drop it",
+        "let it go",
+        "leave it"
+      ],
+      "opposite": "keep it in mind",
+      "pitfall": "In a serious conversation, “forget it” can sound dismissive or suggest that the other person’s concern does not matter."
+    },
+    {
+      "id": "game-over",
+      "kind": "phrase",
+      "term": "game over",
+      "pos": "phrase",
+      "hint": "the contest is decided",
+      "register": "Casual",
+      "meaning": "The outcome has been decided, or a difficult situation has become hopeless.",
+      "nuance": "Informal and sometimes dramatic, it can mean that the result is settled or simply that you are giving up. It is often more playful than serious in everyday conversation.",
+      "literal": "A final message announcing that the game has ended and no further play is possible.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Sales pitch · losing momentum",
+          "sentence": "The client kept asking for more changes, so by Friday it was basically game over.",
+          "highlight": "game over",
+          "tip": "Use it for a clearly lost situation; a direct “the deal is lost” sounds more formal."
+        },
+        {
+          "setting": "social",
+          "where": "Friendly competition · conceding",
+          "sentence": "You found the best hiding place twice, so I’m calling it game over.",
+          "highlight": "game over",
+          "tip": "This playful use softens the fact that you have lost."
+        },
+        {
+          "setting": "writing",
+          "where": "Status update · ending a topic",
+          "sentence": "We’re not making further changes, so game over for this round of revisions.",
+          "highlight": "game over",
+          "tip": "It works in casual messages, but “final” is clearer in formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "The wording probably comes from an older sense of a contest being finished, later becoming familiar through video games that displayed “Game Over” when play ended.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The phrase referred literally to the end of a game or contest."
+          },
+          {
+            "when": "Late 20th century",
+            "text": "Video games used a prominent “Game Over” screen to announce that the player had lost or run out of time."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely used for a decided outcome, a failed effort or a playful admission of defeat."
+          }
+        ]
+      },
+      "similar": [
+        "that's it",
+        "final",
+        "too late"
+      ],
+      "opposite": "game on",
+      "pitfall": "Because it can sound dramatic or playful, avoid it when you need a precise, professional description of a decision."
+    },
+    {
+      "id": "get-out-of-here",
+      "kind": "phrase",
+      "term": "get out of here",
+      "pos": "phrase",
+      "hint": "leave this place immediately",
+      "register": "Rude; sometimes threatening",
+      "meaning": "To leave this place immediately, often in a forceful or angry way.",
+      "nuance": "It can be a serious warning to someone who is unwelcome, but friends may also use it jokingly. The tone depends heavily on the relationship and situation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office security · confronting a trespasser",
+          "sentence": "Security told the visitor, “Get out of here,” because he was entering a restricted floor.",
+          "highlight": "Get out of here",
+          "tip": "Use a clear, calm warning when safety is genuinely at risk."
+        },
+        {
+          "setting": "social",
+          "where": "Friends leaving a party",
+          "sentence": "It was getting late, so I jokingly told everyone, “Get out of here.”",
+          "highlight": "Get out of here",
+          "tip": "Among close friends, it can be playful; with strangers, it may sound hostile."
+        },
+        {
+          "setting": "writing",
+          "where": "Describing a scene in a novel",
+          "sentence": "A furious shopkeeper pointed at the window and shouted, “Get out of here!”",
+          "highlight": "Get out of here",
+          "tip": "The punctuation and surrounding action help show whether the command is angry or comic."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from the older command “get out” with “of here” added to emphasize leaving the speaker’s immediate location. The exact first use is difficult to establish.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Get out” was used as a command to leave."
+          },
+          {
+            "when": "19th century",
+            "text": "Adding “of here” made the direction more immediate and emphatic."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase remains common as both a warning and a joke."
+          }
+        ]
+      },
+      "similar": [
+        "get out",
+        "leave this place",
+        "clear out"
+      ],
+      "opposite": "come in",
+      "pitfall": "This can sound threatening even when you only mean “please leave.” In formal or customer-facing situations, use a polite request instead."
+    },
+    {
+      "id": "get-well-soon",
+      "kind": "phrase",
+      "term": "get well soon",
+      "pos": "phrase",
+      "hint": "a wish for someone to recover",
+      "register": "Everyday",
+      "meaning": "A warm wish for someone to recover from an illness or injury.",
+      "nuance": "It is caring and brief, often sent in a message, card or conversation. It suits a temporary illness rather than a long-term health problem.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Message to a colleague · illness leave",
+          "sentence": "I heard you’re off sick today, so I just wanted to say, get well soon.",
+          "highlight": "get well soon",
+          "tip": "Keep it personal without discussing medical details."
+        },
+        {
+          "setting": "social",
+          "where": "Talking with a friend · seasonal illness",
+          "sentence": "You look drained today—get well soon and rest as much as you can.",
+          "highlight": "get well soon",
+          "tip": "It works well as a friendly sign-off."
+        },
+        {
+          "setting": "writing",
+          "where": "Card to a friend · recovery wish",
+          "sentence": "Thinking of you today—get well soon, and I hope you’re back to your usual self by next week.",
+          "highlight": "get well soon",
+          "tip": "Use it in a card or caring message for an ordinary illness."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines an everyday wish for someone to become well with the familiar time expression “soon.” Its exact first use is uncertain, but it became established as a standard expression of sympathy.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People commonly wished that a sick person would become well again."
+          },
+          {
+            "when": "20th century",
+            "text": "The concise form “get well soon” became familiar in letters, cards and everyday conversation."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a standard get-well wish in personal and workplace messages."
+          }
+        ]
+      },
+      "similar": [
+        "feel better soon",
+        "hope you recover soon",
+        "best wishes for a speedy recovery"
+      ],
+      "pitfall": "For a serious or long-term condition, “I hope you recover soon” may sound more thoughtful and less final."
+    },
+    {
+      "id": "give-credit-where-credit-is-due",
+      "kind": "phrase",
+      "term": "give credit where credit is due",
+      "pos": "phrase",
+      "hint": "acknowledge who deserves the praise",
+      "register": "Common at work",
+      "meaning": "To acknowledge and praise people for the contribution or achievement they genuinely deserve.",
+      "nuance": "It is generous and fair-minded, especially when someone’s help has been overlooked. It can also sound slightly formal or pointed if used after an injustice.",
+      "literal": "Give praise to a person when that person has earned it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team presentation · acknowledging support",
+          "sentence": "We should give credit where credit is due: Lena wrote most of the proposal.",
+          "highlight": "give credit where credit is due",
+          "tip": "Use it to name the contribution directly, not just offer general praise."
+        },
+        {
+          "setting": "social",
+          "where": "After a friend helps with a move",
+          "sentence": "Give credit where credit is due—you saved us from carrying the sofa upstairs.",
+          "highlight": "Give credit where credit is due",
+          "tip": "A light, sincere compliment often works better than a long thank-you speech."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update email · recognizing a contribution",
+          "sentence": "We should give credit where credit is due, especially to the customer team for spotting the issue early.",
+          "highlight": "give credit where credit is due",
+          "tip": "Follow it with the specific contribution you want readers to notice."
+        }
+      ],
+      "origin": {
+        "summary": "The wording comes from an older idea that praise should be given to those who deserve it. Its precise origin is not clear, but the phrase was already in use in English by the early 1600s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1600s",
+            "text": "Similar wording appears in English, expressing the principle of acknowledging deserved merit."
+          },
+          {
+            "when": "19th century",
+            "text": "The phrase becomes established in general English use."
+          },
+          {
+            "when": "Today",
+            "text": "Common for recognizing overlooked work, help or achievement."
+          }
+        ]
+      },
+      "similar": [
+        "give thanks where thanks are due",
+        "acknowledge someone's contribution",
+        "give someone their due"
+      ],
+      "opposite": "take credit for someone else's work",
+      "pitfall": "Name what the person contributed; vague praise can sound like a formality."
+    },
+    {
+      "id": "go-fig",
+      "kind": "phrase",
+      "term": "Go fig",
+      "pos": "idiom",
+      "hint": "a dismissive refusal",
+      "register": "Casual",
+      "meaning": "An informal way to dismiss a request, suggestion or idea and refuse to discuss it further.",
+      "nuance": "It can sound playful among friends, but it may come across as rude or dismissive at work. Use it only when a light, blunt rejection fits the relationship.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team chat · rejecting a proposal",
+          "sentence": "I asked twice for an explanation, so Go fig with the new dashboard.",
+          "highlight": "Go fig",
+          "tip": "In a workplace, state the concern directly instead; this can sound hostile."
+        },
+        {
+          "setting": "social",
+          "where": "Friends chatting · avoiding a question",
+          "sentence": "She wanted details about my surprise party, so I gave her a playful “Go fig.”",
+          "highlight": "Go fig",
+          "tip": "A warm tone makes it sound teasing rather than genuinely dismissive."
+        },
+        {
+          "setting": "writing",
+          "where": "Casual message · ending a debate",
+          "sentence": "I’ve explained the plan twice, so Go fig if you still disagree with it.",
+          "highlight": "Go fig",
+          "tip": "Keep it in an informal message; formal writing calls for a clearer boundary."
+        }
+      ],
+      "origin": {
+        "summary": "Probably a shortened, more confrontational form of the older expression “go figure,” meaning to go and work something out for yourself.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The phrase “go figure” develops the sense of telling someone to solve a problem by themselves."
+          },
+          {
+            "when": "20th century",
+            "text": "“Go fig” emerges as a clipped variation, especially in informal American speech."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a casual, dismissive expression used for playful or blunt refusal."
+          }
+        ]
+      },
+      "similar": [
+        "go figure",
+        "figure it out",
+        "take it or leave it"
+      ],
+      "opposite": "let’s talk it through",
+      "pitfall": "The phrase can end a conversation rather than resolve the issue, and “Go fig” is usually harsher than “go figure.”"
+    },
+    {
+      "id": "go-figure",
+      "kind": "phrase",
+      "term": "go figure",
+      "pos": "idiom",
+      "hint": "work it out for yourself",
+      "register": "Casual",
+      "meaning": "To tell someone to solve a question or problem themselves, often because you find the question obvious or do not want to explain it.",
+      "nuance": "It can sound playful, but it may also feel dismissive or impatient. Use it mainly with people you know well and avoid using it in sensitive or high-stakes conversations.",
+      "literal": "A sarcastic instruction to go away and work out the answer.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague asks a basic question",
+          "sentence": "The password is in the shared document, but if you can’t find it, go figure.",
+          "highlight": "go figure",
+          "tip": "Keep it light between colleagues, but it may sound unhelpful to someone who genuinely needs help."
+        },
+        {
+          "setting": "social",
+          "where": "Friend asks how a puzzle works",
+          "sentence": "I could explain it, but you’ll learn more if you go figure.",
+          "highlight": "go figure",
+          "tip": "Use it as a playful challenge when the other person is actually interested in solving it."
+        },
+        {
+          "setting": "writing",
+          "where": "Responding to a repeated question",
+          "sentence": "The meeting time is in the calendar invite, so please go figure rather than asking me again.",
+          "highlight": "go figure",
+          "tip": "This is more likely to sound rude in writing, where tone can be difficult to judge."
+        }
+      ],
+      "origin": {
+        "summary": "Probably developed from the older expression “go and figure,” meaning to calculate or find an answer. Its modern sense is usually sarcastic rather than a literal invitation to calculate.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression “go and figure” meant to go and work out a calculation or solution."
+          },
+          {
+            "when": "Late 19th–20th century",
+            "text": "Shortened and developed a dismissive meaning: “work it out yourself.”"
+          },
+          {
+            "when": "Today",
+            "text": "Common in informal American English, especially as a mildly sarcastic response."
+          }
+        ]
+      },
+      "similar": [
+        "work it out yourself",
+        "figure it out",
+        "do the math"
+      ],
+      "opposite": "let me help you",
+      "pitfall": "It can come across as rude or unhelpful, especially with a manager, client, or someone who may not know the answer."
+    },
+    {
+      "id": "go-get-em",
+      "kind": "phrase",
+      "term": "go get 'em",
+      "pos": "phrase",
+      "hint": "a cheer for someone heading into a challenge",
+      "register": "Casual",
+      "meaning": "An encouraging way to wish someone success as they face a difficult task or competition.",
+      "nuance": "It sounds enthusiastic and supportive, but informal. It is especially natural when someone is about to compete, make a presentation, or take on a demanding challenge.",
+      "literal": "Go and win or succeed.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague before a client pitch",
+          "sentence": "You’ve prepared well, so go get 'em.",
+          "highlight": "go get 'em",
+          "tip": "Use it with colleagues you know well; it may sound too casual in a formal meeting."
+        },
+        {
+          "setting": "social",
+          "where": "Friend entering a sports match",
+          "sentence": "Your opponent is tough, but go get 'em!",
+          "highlight": "go get 'em",
+          "tip": "It adds energy to a spontaneous cheer for a player or competitor."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a teammate before an interview",
+          "sentence": "Good luck on Thursday—go get 'em!",
+          "highlight": "go get 'em",
+          "tip": "It works best in a friendly message, not in professional correspondence with a stranger."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from expressions used to encourage competitors, especially in sports and other public performances. Its exact first use is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Similar phrases encouraged people to fight, compete, or succeed."
+          },
+          {
+            "when": "20th century",
+            "text": "The shortened form became associated with informal support and cheering in sports and everyday conversation."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a casual, enthusiastic way to wish someone success."
+          }
+        ]
+      },
+      "similar": [
+        "good luck",
+        "give it your all",
+        "show them what you've got"
+      ],
+      "opposite": "give up",
+      "pitfall": "Because it is very informal and sounds like a rally cry, avoid using it with a manager, client, or someone you have just met."
+    },
+    {
+      "id": "god-knows",
+      "kind": "phrase",
+      "term": "God knows",
+      "pos": "phrase",
+      "hint": "only a higher power could know",
+      "register": "Common in everyday speech",
+      "meaning": "Used to say that nobody knows the answer, or that something is impossible to understand or predict.",
+      "nuance": "It can sound resigned, emphatic, or slightly frustrated. In a relaxed conversation, it often means “who knows?” rather than making a serious religious statement.",
+      "literal": "The idea that only God could know a hidden or unknowable fact.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · missing information",
+          "sentence": "God knows why the report is missing, but we need to find the latest version before the deadline.",
+          "highlight": "God knows",
+          "tip": "Use it when admitting that an explanation is unclear; it is usually less direct than asking who is responsible."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · explaining plans",
+          "sentence": "God knows how long we’ll be waiting for the bus today.",
+          "highlight": "God knows",
+          "tip": "It adds a note of impatience or resignation to casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · unclear delay",
+          "sentence": "God knows what caused the delay, but I’m checking with the vendor and will update you tomorrow.",
+          "highlight": "God knows",
+          "tip": "In business writing, follow it with a clear action so the message does not sound like an excuse."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the traditional idea that God knows everything, including facts that people cannot understand. Its figurative use for uncertainty is well established, though the exact point where it became common is difficult to trace.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Religious expressions referring to God’s knowledge appear in English religious writing."
+          },
+          {
+            "when": "Middle English",
+            "text": "The wording “God knows” becomes established as a way to refer to knowledge beyond human understanding."
+          },
+          {
+            "when": "Today",
+            "text": "People use it conversationally to mean “nobody knows” or to express uncertainty and frustration."
+          }
+        ]
+      },
+      "similar": [
+        "who knows",
+        "only God knows",
+        "there’s no telling"
+      ],
+      "opposite": "I know",
+      "pitfall": "Because it can sound dismissive, name the action you will take when using it at work."
+    }
+  ]
+}

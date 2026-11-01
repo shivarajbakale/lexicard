@@ -1,0 +1,1709 @@
+{
+  "id": "words-change-time-1",
+  "kind": "word",
+  "name": "Change & time · 1",
+  "blurb": "25 words about change & time",
+  "cards": [
+    {
+      "id": "abortive",
+      "kind": "word",
+      "term": "abortive",
+      "pos": "adjective",
+      "phonetic": "/əˈbɔːrtɪv/",
+      "sayIt": "uh-BOR-tiv",
+      "register": "Formal",
+      "meaning": "Ending without success or completion, usually because the attempt was stopped or failed.",
+      "nuance": "It describes an unsuccessful attempt or process. It sounds formal and often appears in legal, political or historical writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · failed proposal",
+          "sentence": "The committee abandoned its attempt to agree on a budget after an abortive two-hour meeting.",
+          "highlight": "abortive",
+          "tip": "Use it for an attempt or effort that ends without achieving its purpose."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a party · changing arrangements",
+          "sentence": "After our abortive attempt to organise a picnic, we settled on dinner at home instead.",
+          "highlight": "abortive",
+          "tip": "It can describe a social plan that was abandoned or failed."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · describing negotiations",
+          "sentence": "Several abortive rounds of negotiation left both sides unable to reach an agreement.",
+          "highlight": "abortive",
+          "tip": "It fits formal reports and summaries of failed negotiations."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin abortivus, meaning ‘causing abortion’, which developed into the English sense of unsuccessful or brought to an end.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Abortivus is formed from abortus, ‘miscarriage or unsuccessful birth’, related to aboriri, ‘to miscarry’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in medical and legal contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes an attempt or process that ends without success."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "abort",
+          "label": "verb"
+        },
+        {
+          "term": "abortion",
+          "label": "noun"
+        },
+        {
+          "term": "abortively",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "unsuccessful",
+        "failed",
+        "abandoned",
+        "fruitless"
+      ],
+      "opposite": "successful",
+      "pitfall": "Abortive describes an unsuccessful attempt; abort is the verb for stopping a process before it is complete."
+    },
+    {
+      "id": "advent",
+      "kind": "word",
+      "term": "advent",
+      "pos": "noun",
+      "phonetic": "/ˈæd.vent/",
+      "sayIt": "AD-vent",
+      "register": "Formal",
+      "meaning": "The arrival of something important, or the period when it begins to appear.",
+      "nuance": "Often used for a major development that changes society, work or everyday life. It sounds more formal than “arrival” and is commonly paired with “of.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Strategy meeting · entering a new market",
+          "sentence": "The advent of automation has changed which skills our sales team needs most.",
+          "highlight": "advent",
+          "tip": "Use it for a development that noticeably changes established ways of working."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · discussing new technology",
+          "sentence": "Few of us expected the advent of food delivery apps to reshape the way we eat.",
+          "highlight": "advent",
+          "tip": "It adds a formal tone when describing a significant change in ordinary life."
+        },
+        {
+          "setting": "writing",
+          "where": "Industry report · describing a trend",
+          "sentence": "Since the advent of digital payments, customer expectations for speed have risen sharply.",
+          "highlight": "advent",
+          "tip": "Use it in reports and essays to introduce the arrival of a major trend or development."
+        }
+      ],
+      "origin": {
+        "summary": "It comes through French from Latin adventus, meaning an arrival or approach, originally associated with someone coming somewhere.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Classical Latin",
+            "text": "Adventus develops from advenire, meaning “to come to” or “arrive.”"
+          },
+          {
+            "when": "Old French",
+            "text": "The word enters French and is used for an arrival, including the coming of a significant person or event."
+          },
+          {
+            "when": "Middle English",
+            "text": "English adopts it in religious, historical and general senses."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly refers to the arrival of an important development or the beginning of a new period."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "adventurous",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "arrival",
+        "appearance",
+        "onset",
+        "introduction"
+      ],
+      "pitfall": "Don’t confuse it with “adventure”: an advent is an arrival or important development, while an adventure is an unusual experience."
+    },
+    {
+      "id": "ameliorate",
+      "kind": "word",
+      "term": "ameliorate",
+      "pos": "verb",
+      "phonetic": "/əˈmiːliəreɪt/",
+      "sayIt": "uh-MEE-lee-uh-RAYT",
+      "register": "Formal",
+      "meaning": "To make a difficult or unsatisfactory situation better.",
+      "nuance": "A formal word often used for problems affecting communities, organisations or working conditions. It suggests steady improvement rather than a complete solution.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team review · addressing a recurring problem",
+          "sentence": "We introduced flexible hours to ameliorate the impact of long commutes.",
+          "highlight": "ameliorate",
+          "tip": "Often takes a noun naming the difficult condition being made better."
+        },
+        {
+          "setting": "social",
+          "where": "Community meeting · discussing local facilities",
+          "sentence": "Better lighting could ameliorate safety concerns around the park after dark.",
+          "highlight": "ameliorate",
+          "tip": "Use it when proposing a practical improvement to a difficult situation."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · summarising social initiatives",
+          "sentence": "The mentoring programme helped ameliorate isolation among newly recruited staff.",
+          "highlight": "ameliorate",
+          "tip": "It suits formal reports and essays, especially when describing social or organisational conditions."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin meliorare, meaning ‘to make better’, based on melior, meaning ‘better’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Meliorare means ‘to make better’, from melior, ‘better’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English in the sense of making something better."
+          },
+          {
+            "when": "Today",
+            "text": "It remains formal and is often used for social, institutional or working conditions."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "amelioration",
+          "label": "noun"
+        },
+        {
+          "term": "ameliorative",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "improve",
+        "enhance",
+        "upgrade",
+        "remedy"
+      ],
+      "opposite": "worsen",
+      "pitfall": "It means to make something better, not simply to improve it yourself; avoid saying ‘ameliorate my skills’."
+    },
+    {
+      "id": "annals",
+      "kind": "word",
+      "term": "annals",
+      "pos": "noun",
+      "phonetic": "/ˈænəlz/",
+      "sayIt": "AN-uhlz",
+      "register": "Formal",
+      "meaning": "A written record of events arranged in the order in which they happened.",
+      "nuance": "Often refers to a detailed historical record or the official yearly records of an organisation. It has a formal, slightly old-fashioned tone.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Annual report · reviewing changes",
+          "sentence": "The company’s annals show how its hiring practices have changed over the past decade.",
+          "highlight": "annals",
+          "tip": "Use it for a formal historical record, especially one presented year by year."
+        },
+        {
+          "setting": "social",
+          "where": "Family history · sharing old stories",
+          "sentence": "My grandmother’s annals describe the small changes that shaped our town after the war.",
+          "highlight": "annals",
+          "tip": "It can sound impressive when referring to a collection of personal or community memories."
+        },
+        {
+          "setting": "writing",
+          "where": "History article · explaining a tradition",
+          "sentence": "The annals of the school record every headteacher since it opened in 1892.",
+          "highlight": "annals",
+          "tip": "Use it when the events are recorded chronologically in a formal narrative."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin annales, meaning yearly records, from annus, meaning year. The word later came to mean a general record of events.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Annales referred to records kept year by year, based on annus, “year”."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word entered English in the sense of a historical record of events."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal word for a chronological record, especially an annual one."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "annal",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "chronicle",
+        "history",
+        "record",
+        "archives"
+      ],
+      "pitfall": "“Annals” is usually plural; use “annal” for a single year’s record or one entry."
+    },
+    {
+      "id": "antiquated",
+      "kind": "word",
+      "term": "antiquated",
+      "pos": "adjective",
+      "phonetic": "/ænˈtɪkwəteɪd/",
+      "sayIt": "an-TIK-wuh-ted",
+      "register": "Formal",
+      "meaning": "Too old-fashioned to be useful or acceptable in modern times.",
+      "nuance": "Often describes systems, methods or ideas that have been replaced by newer ones. It can sound more critical than simply saying something is old.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Software review · replacing an old system",
+          "sentence": "The installation guide uses an antiquated process that no longer works.",
+          "highlight": "antiquated",
+          "tip": "Use it when something is not just old, but no longer suitable for current practice."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · discussing etiquette",
+          "sentence": "His antiquated view of hospitality includes serving every guest a formal handwritten card.",
+          "highlight": "antiquated",
+          "tip": "It can describe customs or attitudes that seem strangely old-fashioned today."
+        },
+        {
+          "setting": "writing",
+          "where": "Proposal · explaining a policy change",
+          "sentence": "We are removing several antiquated rules that create unnecessary delays.",
+          "highlight": "antiquated",
+          "tip": "This gives a formal, slightly forceful reason for changing or replacing something."
+        }
+      ],
+      "origin": {
+        "summary": "Built from Latin antiquatus, meaning ‘made old’, with a later English sense of being old-fashioned or no longer current.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Antiquatus develops from antiquare, ‘to make old’, based on antiquus, ‘old’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English and is used for things belonging to former times."
+          },
+          {
+            "when": "1800s",
+            "text": "Its meaning expands to include things considered old-fashioned or no longer useful."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "antiquate",
+          "label": "verb"
+        },
+        {
+          "term": "antiquation",
+          "label": "noun"
+        },
+        {
+          "term": "antiquarian",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "outdated",
+        "obsolete",
+        "archaic",
+        "dated"
+      ],
+      "opposite": "modern",
+      "pitfall": "Antiquated describes something that is outdated; antique usually means genuinely old and may suggest age, history or value."
+    },
+    {
+      "id": "archaic",
+      "kind": "word",
+      "term": "archaic",
+      "pos": "adjective",
+      "phonetic": "/ɑːrˈkeɪɪk/",
+      "sayIt": "ar-KAY-ik",
+      "register": "Formal",
+      "meaning": "So old or outdated that it belongs to an earlier period and may sound strange today.",
+      "nuance": "It often describes language, customs or objects that are no longer current, even if they can still be understood.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product review · naming options",
+          "sentence": "We rejected the archaic title because most customers would struggle to understand it.",
+          "highlight": "archaic",
+          "tip": "Use it when something feels out of date because it comes from an earlier era."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · old photograph",
+          "sentence": "My aunt described the family’s archaic fashion sense with a laugh.",
+          "highlight": "archaic",
+          "tip": "It can sound playful when you are gently teasing someone about old-fashioned tastes."
+        },
+        {
+          "setting": "writing",
+          "where": "Novel dialogue · historical scene",
+          "sentence": "The character’s archaic vocabulary immediately places the conversation in the 1800s.",
+          "highlight": "archaic",
+          "tip": "Use it to explain why certain words, expressions or customs sound out of place."
+        }
+      ],
+      "origin": {
+        "summary": "From the Greek archaikos, meaning ‘ancient’, which was based on archaos, ‘old or beginning’. It entered English through Latin in the 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "Archaikos means ‘ancient’ and archaos means ‘old’ or ‘beginning’."
+          },
+          {
+            "when": "1600s",
+            "text": "The form archaic enters English in scholarly and historical contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It describes anything belonging to a much earlier and often outdated style."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "archaically",
+          "label": "adverb"
+        },
+        {
+          "term": "archaicism",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "antiquated",
+        "obsolete",
+        "old-fashioned",
+        "outdated"
+      ],
+      "opposite": "modern",
+      "pitfall": "Archaic often means old-fashioned but still understandable; obsolete usually means no longer used at all."
+    },
+    {
+      "id": "ascend",
+      "kind": "word",
+      "term": "ascend",
+      "pos": "verb",
+      "phonetic": "/əˈsend/",
+      "sayIt": "uh-SEND",
+      "register": "Formal",
+      "meaning": "To move or rise to a higher position, level or status.",
+      "nuance": "It sounds formal and often implies a deliberate upward movement. It can describe physical climbing, career advancement or gaining greater prominence.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing career growth",
+          "sentence": "After leading two successful projects, she began to ascend into senior management.",
+          "highlight": "ascend",
+          "tip": "Use it for a formal or elevated career progression, especially in writing."
+        },
+        {
+          "setting": "social",
+          "where": "Mountain hike · reaching a viewpoint",
+          "sentence": "We climbed steadily until the path became too steep for us to ascend safely.",
+          "highlight": "ascend",
+          "tip": "It describes moving upward and sounds more formal than “climb.”"
+        },
+        {
+          "setting": "writing",
+          "where": "Newsletter · describing a company’s growth",
+          "sentence": "The startup continued to ascend in the market while expanding into new regions.",
+          "highlight": "ascend",
+          "tip": "It can make a business or social trend sound polished and impressive."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin ascendere, meaning ‘to climb up’, built from ad- ‘to, toward’ and scandere ‘to climb’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Ascendere combines ad- ‘toward’ with scandere ‘to climb’."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word appears in English with the sense of moving or rising upward."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for physical movement, advancement and increasing prominence."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "ascent",
+          "label": "noun"
+        },
+        {
+          "term": "ascendant",
+          "label": "adjective"
+        },
+        {
+          "term": "ascendancy",
+          "label": "noun"
+        },
+        {
+          "term": "ascender",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "climb",
+        "mount",
+        "rise",
+        "soar"
+      ],
+      "opposite": "descend",
+      "pitfall": "In general English, “ascend” is more formal than “climb,” so use “climb” for ordinary physical movement unless the elevated tone suits the context."
+    },
+    {
+      "id": "barometer",
+      "kind": "word",
+      "term": "barometer",
+      "pos": "noun",
+      "phonetic": "/bəˈrɒmɪtə/",
+      "sayIt": "buh-ROM-uh-ter",
+      "register": "Common at work",
+      "meaning": "An instrument for measuring atmospheric pressure, or something that indicates how conditions or opinions are changing.",
+      "nuance": "Figuratively, a barometer is a useful sign of a wider trend, such as changing customer confidence or public mood. It shows direction and pressure rather than giving a precise prediction.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing customer sentiment",
+          "sentence": "Our latest survey is a barometer of customer sentiment, even though it does not cover every market.",
+          "highlight": "barometer",
+          "tip": "Use it for evidence that reveals a broader trend."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · discussing public opinion",
+          "sentence": "Attendance at the rally was a rough barometer of how people were feeling about the proposed policy.",
+          "highlight": "barometer",
+          "tip": "A natural way to describe a visible sign of public opinion."
+        },
+        {
+          "setting": "writing",
+          "where": "Market report · explaining a shift",
+          "sentence": "Rising subscription renewals are a positive barometer for the market.",
+          "highlight": "barometer",
+          "tip": "Often used in reports to link a specific signal with a wider trend."
+        }
+      ],
+      "origin": {
+        "summary": "Built from Greek baros, meaning weight or pressure, and metron, meaning measure. The word reached English in the 1600s as the name of an atmospheric-pressure instrument.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "The roots baros, ‘weight or pressure’, and metron, ‘measure’, combine to form the idea of measuring pressure."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English for an instrument that measures atmospheric pressure."
+          },
+          {
+            "when": "Today",
+            "text": "It also refers figuratively to a sign of changing conditions, opinions or trends."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "barometric",
+          "label": "adjective"
+        },
+        {
+          "term": "barometry",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "indicator",
+        "benchmark",
+        "gauge",
+        "sign"
+      ],
+      "pitfall": "A barometer indicates a trend, but it does not guarantee what will happen next."
+    },
+    {
+      "id": "belated",
+      "kind": "word",
+      "term": "belated",
+      "pos": "adjective",
+      "phonetic": "/bɪˈleɪtɪd/",
+      "sayIt": "bi-LAY-tid",
+      "register": "Common at work",
+      "meaning": "Happening or arriving later than expected or appropriate.",
+      "nuance": "It can sound slightly formal and often carries a hint of regret or apology. It is useful for late replies, belated recognition, or anything that arrives after the expected time.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Email · responding to a request",
+          "sentence": "Please accept my belated reply; I was away when your message arrived.",
+          "highlight": "belated",
+          "tip": "Use it when acknowledging a reply or response that came late."
+        },
+        {
+          "setting": "social",
+          "where": "Birthday message · offering congratulations",
+          "sentence": "A belated birthday wish, but I hope you had a wonderful day.",
+          "highlight": "belated",
+          "tip": "It softens the awkwardness of greeting someone after the occasion."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · describing a late contribution",
+          "sentence": "The editor included a belated comment from the reviewer in the final version.",
+          "highlight": "belated",
+          "tip": "It fits formal reporting when something arrives or is added after the usual time."
+        }
+      ],
+      "origin": {
+        "summary": "Formed in the 1600s from late and the ending -ated, originally meaning 'late' or 'arriving late'.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "The word appears in English with the sense of 'late' or 'too late'."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "Its use expands to describe replies, notices and other things that come late."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal or mildly apologetic way to describe lateness."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "belatedly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "late",
+        "delayed",
+        "overdue",
+        "tardy"
+      ],
+      "opposite": "timely",
+      "pitfall": "Belated usually describes something that is late in a noticeable or mildly apologetic way; use delayed for a more neutral description."
+    },
+    {
+      "id": "burgeoned",
+      "kind": "word",
+      "term": "burgeoned",
+      "pos": "verb",
+      "phonetic": "/ˈbɜːrdʒənd/",
+      "sayIt": "BUR-juhnd",
+      "register": "Common at work",
+      "meaning": "To grow or develop suddenly and strongly.",
+      "nuance": "It suggests rapid, often impressive growth. Use it for a business, career, movement or idea that expanded quickly after a period of being small or inactive.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company meeting · reviewing growth",
+          "sentence": "Our sales team burgeoned after we introduced the new service and expanded into three markets.",
+          "highlight": "burgeoned",
+          "tip": "Use it when the speed and scale of growth are important parts of the story."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend with friends · discussing plans",
+          "sentence": "Her interest in gardening burgeoned once she inherited a house with a neglected backyard.",
+          "highlight": "burgeoned",
+          "tip": "This gives a vivid sense of something growing from nothing into something substantial."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · business results",
+          "sentence": "Demand for the product burgeoned following a highly successful launch in the spring.",
+          "highlight": "burgeoned",
+          "tip": "It is a strong formal alternative to grew rapidly or expanded sharply."
+        }
+      ],
+      "origin": {
+        "summary": "Probably comes from Old French words meaning ‘bud’, though the exact development is uncertain. Its modern sense of rapid growth became established in the 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Late Middle English",
+            "text": "The word first appears in the sense of putting forth buds or sprouting."
+          },
+          {
+            "when": "1800s",
+            "text": "The sense expands to mean grow or develop rapidly."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used for strong, fast growth in businesses, careers and movements."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "burgeon",
+          "label": "verb"
+        },
+        {
+          "term": "burgeoning",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "surged",
+        "expanded",
+        "flourished",
+        "proliferated"
+      ],
+      "opposite": "declined",
+      "pitfall": "Use it for noticeable, rapid growth; it is too dramatic for an ordinary or slight increase."
+    },
+    {
+      "id": "celerity",
+      "kind": "word",
+      "term": "celerity",
+      "pos": "noun",
+      "phonetic": "/səˈlɛrəti/",
+      "sayIt": "suh-LER-ih-tee",
+      "register": "Formal",
+      "meaning": "Great speed or swiftness in doing something.",
+      "nuance": "It sounds polished and slightly literary, so it suits formal writing or a description of quick action. In everyday speech, speed is usually more natural.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Incident response · coordinating a fix",
+          "sentence": "The security team acted with celerity, containing the breach before any customer data was lost.",
+          "highlight": "celerity",
+          "tip": "Use it when you want to praise fast, effective action."
+        },
+        {
+          "setting": "social",
+          "where": "Friends meeting · arranging a quick change of plans",
+          "sentence": "With a little celerity, we can still catch the train if we leave now.",
+          "highlight": "celerity",
+          "tip": "It can add a slightly dramatic, formal tone to social conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · describing operational results",
+          "sentence": "The company restored service with celerity and kept disruption to a minimum.",
+          "highlight": "celerity",
+          "tip": "Consider it for formal reports when speed is an achievement worth emphasising."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin celeritas, meaning ‘swiftness’, which comes from celer, ‘fast’ or ‘swift’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Celeritas develops from celer, ‘fast’ or ‘swift’, and refers to speed."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English, initially in literary and formal contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal word for swiftness, especially in action or movement."
+          }
+        ]
+      },
+      "similar": [
+        "speed",
+        "swiftness",
+        "haste",
+        "promptness"
+      ],
+      "opposite": "slowness",
+      "pitfall": "Celerity is more formal and literary than speed, so use it in careful writing rather than casual conversation."
+    },
+    {
+      "id": "cessation",
+      "kind": "word",
+      "term": "cessation",
+      "pos": "noun",
+      "phonetic": "/səˈseɪʃən/",
+      "sayIt": "sih-SAY-shun",
+      "register": "Formal",
+      "meaning": "The stopping or ending of an activity, process or state.",
+      "nuance": "It suggests that something has stopped, often for a deliberate or definite period. The word sounds formal and works best in official, legal or carefully written contexts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project update · ending a trial",
+          "sentence": "The team confirmed the cessation of the pilot once the final results were reviewed.",
+          "highlight": "cessation",
+          "tip": "Useful when describing the formal end of a temporary activity."
+        },
+        {
+          "setting": "social",
+          "where": "Community meeting · closing a discussion",
+          "sentence": "There was an immediate cessation of noise when the announcement came over the speakers.",
+          "highlight": "cessation",
+          "tip": "It can sound slightly formal, so plain words may fit better in casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Legal report · describing a strike",
+          "sentence": "The report notes the cessation of the strike after both sides agreed to negotiations.",
+          "highlight": "cessation",
+          "tip": "Pairs naturally with formal references to strikes, hostilities, payments or operations."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin cessatio, meaning a stopping or pause, related to cessare, ‘to stop or cease’. English borrowed it through French in the 1400s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "cessatio, ‘a stopping or pause’, from cessare, ‘to stop or yield’."
+          },
+          {
+            "when": "1400s",
+            "text": "The word enters English in legal and formal contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means the ending or suspension of an activity or process."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "cease",
+          "label": "verb"
+        },
+        {
+          "term": "cessation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "ending",
+        "halt",
+        "stoppage",
+        "suspension"
+      ],
+      "opposite": "resumption",
+      "pitfall": "Cessation usually means an activity has ended or stopped; it does not simply describe a brief pause."
+    },
+    {
+      "id": "culminate",
+      "kind": "word",
+      "term": "culminate",
+      "pos": "verb",
+      "phonetic": "/ˈkʌlmɪneɪt/",
+      "sayIt": "KUL-mih-nayt",
+      "register": "Formal",
+      "meaning": "To reach the final point or result after a period of development or effort.",
+      "nuance": "Often used for a process, effort or series of events that builds toward a major outcome. It sounds polished and slightly formal, especially in presentations or reports.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team presentation · announcing a launch",
+          "sentence": "The three-month campaign will culminate in a customer event next Friday.",
+          "highlight": "culminate",
+          "tip": "Use “culminate in” to connect a long process with its final outcome."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding speech · recalling shared experiences",
+          "sentence": "Their years of planning culminated in a joyful afternoon at the lakeside.",
+          "highlight": "culminated",
+          "tip": "The past tense is natural when describing something that has already reached its final point."
+        },
+        {
+          "setting": "writing",
+          "where": "Project report · explaining progress",
+          "sentence": "The research culminated in a set of practical recommendations for the committee.",
+          "highlight": "culminated",
+          "tip": "It works well in formal writing to show that earlier work led to a clear conclusion."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin culminare, meaning ‘to reach the summit’, based on culmen, meaning ‘top’ or ‘peak’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Culminare means ‘to reach the summit or highest point’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with the sense of reaching a highest point."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes the final result of a process, effort or series of events."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "culmination",
+          "label": "noun"
+        },
+        {
+          "term": "culminating",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "conclude",
+        "end",
+        "peak",
+        "crown"
+      ],
+      "opposite": "begin",
+      "pitfall": "Use “culminate in” when naming the final outcome: “The project culminated in a new product.”"
+    },
+    {
+      "id": "decade",
+      "kind": "word",
+      "term": "decade",
+      "pos": "noun",
+      "phonetic": "/ˈdekeɪd/",
+      "sayIt": "DEH-kayd",
+      "register": "Everyday",
+      "meaning": "A period of ten years.",
+      "nuance": "Use it for a named stretch of time or for a major period marked by a particular event or development. It can also mean ten years in general.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing long-term progress",
+          "sentence": "Our customer base has grown steadily over the past decade.",
+          "highlight": "decade",
+          "tip": "Common for discussing long-term business trends and results."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with friends · reflecting on the past",
+          "sentence": "It feels strange that we graduated almost a decade ago.",
+          "highlight": "decade",
+          "tip": "Use it when connecting a personal experience with a period of about ten years."
+        },
+        {
+          "setting": "writing",
+          "where": "History article · describing social change",
+          "sentence": "The city changed dramatically during the decade following the war.",
+          "highlight": "decade",
+          "tip": "A useful time marker in essays, reports and historical writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin decas, meaning 'a group of ten', which comes from Greek deka, 'ten'. The word originally referred to a group of ten things before developing its modern sense of ten years.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "The root deka means 'ten'."
+          },
+          {
+            "when": "Latin",
+            "text": "Decas refers to a group of ten."
+          },
+          {
+            "when": "1400s",
+            "text": "The word enters English and develops the meaning 'a period of ten years'."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "decadal",
+          "label": "adjective"
+        },
+        {
+          "term": "decades",
+          "label": "plural noun"
+        }
+      ],
+      "similar": [
+        "ten years",
+        "period",
+        "span"
+      ],
+      "pitfall": "A decade is exactly ten years, not an indefinite period of time."
+    },
+    {
+      "id": "desist",
+      "kind": "word",
+      "term": "desist",
+      "pos": "verb",
+      "phonetic": "/dɪˈzɪst/",
+      "sayIt": "di-SIST",
+      "register": "Formal",
+      "meaning": "To stop doing something that you have continued doing.",
+      "nuance": "Usually used when an action should end and someone is expected to stop. It can sound firm, official or mildly impatient, especially when you ask someone to “desist from” a particular activity.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · repeated interruptions",
+          "sentence": "Please desist from sending duplicate messages while we investigate the delivery issue.",
+          "highlight": "desist",
+          "tip": "Use it to request an end to a recurring workplace behaviour, but keep your tone measured."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation with a friend · repeated teasing",
+          "sentence": "Could you desist from mentioning my old haircut every time we meet?",
+          "highlight": "desist",
+          "tip": "A slightly formal, dry way to ask someone to stop an annoying habit."
+        },
+        {
+          "setting": "writing",
+          "where": "Complaint letter · unwanted contact",
+          "sentence": "We ask that you desist from contacting our customers about this matter.",
+          "highlight": "desist",
+          "tip": "Common in formal complaints and legal-style letters where a firm boundary is needed."
+        }
+      ],
+      "origin": {
+        "summary": "From French desistir, borrowed from Latin desistere, meaning ‘to stand away from’ or ‘to cease’. The modern sense of stopping an activity developed from that older meaning.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Desistere combines de- ‘away from’ with stare ‘to stand’, originally suggesting withdrawing or stopping."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English through French as desist, meaning to cease or refrain."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal contexts, especially in the pattern ‘desist from’ something."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "desistance",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "cease",
+        "stop",
+        "refrain",
+        "abstain"
+      ],
+      "opposite": "continue",
+      "pitfall": "Desist usually requires an object or a phrase beginning with “from”: “desist from arguing,” not simply “desist arguing.”"
+    },
+    {
+      "id": "dismantle",
+      "kind": "word",
+      "term": "dismantle",
+      "pos": "verb",
+      "phonetic": "/dɪsˈmæntəl/",
+      "sayIt": "dis-MAN-tuhl",
+      "register": "Common at work",
+      "meaning": "To take something apart, separating it into its individual pieces.",
+      "nuance": "It can describe physically taking an object apart or carefully examining a system, plan or argument to reveal how it works. It often suggests a methodical process rather than sudden destruction.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Operations review · simplifying a workflow",
+          "sentence": "We dismantled the old approval process and rebuilt it around clearer decision-making.",
+          "highlight": "dismantled",
+          "tip": "Use it for taking a complicated system apart in order to understand or improve it."
+        },
+        {
+          "setting": "social",
+          "where": "DIY project · preparing old furniture",
+          "sentence": "We spent Saturday dismantling an old wardrobe before sanding and repainting it.",
+          "highlight": "dismantling",
+          "tip": "This is the natural word for carefully separating furniture, equipment or fittings into parts."
+        },
+        {
+          "setting": "writing",
+          "where": "Policy critique · testing an argument",
+          "sentence": "The report dismantles the proposal by showing how its costs outweigh its benefits.",
+          "highlight": "dismantles",
+          "tip": "Use it metaphorically when an analysis removes an argument’s supporting assumptions."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through French dismanteler, a verb originally associated with removing roofs or coverings and later extended to taking structures apart.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "French develops dismanteler from mantel, referring to a covering or roof."
+          },
+          {
+            "when": "Early 19th century",
+            "text": "Dismantle appears in English for taking structures or equipment apart."
+          },
+          {
+            "when": "Today",
+            "text": "It is also widely used for carefully unpacking systems, plans and arguments."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "disassembly",
+          "label": "noun"
+        },
+        {
+          "term": "disassemble",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "take apart",
+        "break down",
+        "strip down",
+        "deconstruct"
+      ],
+      "opposite": "assemble",
+      "pitfall": "Dismantle means separating something into parts; it does not necessarily mean destroying it completely."
+    },
+    {
+      "id": "dormant",
+      "kind": "word",
+      "term": "dormant",
+      "pos": "adjective",
+      "phonetic": "/ˈdɔːrmənt/",
+      "sayIt": "DOR-muhnt",
+      "register": "Common at work",
+      "meaning": "Currently inactive but still capable of becoming active or useful later.",
+      "nuance": "Often describes potential, resources, or forces that have not been developed. It suggests a temporary inactive state rather than permanent absence.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product review · unused features",
+          "sentence": "The notification feature has remained dormant since its launch, so we should decide whether to improve or remove it.",
+          "highlight": "dormant",
+          "tip": "Use it for something inactive that could still become valuable if action is taken."
+        },
+        {
+          "setting": "social",
+          "where": "Community event · planning a campaign",
+          "sentence": "There’s plenty of dormant interest in the idea, but it may take a few conversations to bring it to life.",
+          "highlight": "dormant",
+          "tip": "It can describe an unrealized interest, talent, or possibility waiting to be activated."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining a delay",
+          "sentence": "Funding remained dormant until additional grants were secured earlier this year.",
+          "highlight": "dormant",
+          "tip": "In reports, it gives a more formal tone than ‘unused’ or ‘inactive.’"
+        }
+      ],
+      "origin": {
+        "summary": "From Latin dormire, meaning ‘to sleep.’ The word originally referred to sleep and later developed the sense of being inactive.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Dormire means ‘to sleep,’ providing the root for words such as dormant."
+          },
+          {
+            "when": "1500s",
+            "text": "Dormant enters English with meanings connected with sleeping and being inactive."
+          },
+          {
+            "when": "Modern use",
+            "text": "It describes inactive forces, resources, or possibilities that may become active later."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "dormancy",
+          "label": "noun"
+        },
+        {
+          "term": "dormantly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "inactive",
+        "latent",
+        "quiescent",
+        "suspended"
+      ],
+      "opposite": "active",
+      "pitfall": "Don’t use dormant simply to mean someone is asleep; it usually describes something inactive that could become active later."
+    },
+    {
+      "id": "elapse",
+      "kind": "word",
+      "term": "elapse",
+      "pos": "verb",
+      "phonetic": "/ɪˈlæps/",
+      "sayIt": "ih-LAPS",
+      "register": "Formal",
+      "meaning": "To pass by as time moves forward.",
+      "nuance": "It is a slightly formal way of saying that a period of time has finished, especially when describing a deadline, journey or event.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project update · checking a deadline",
+          "sentence": "Six weeks elapsed before the team received approval for the new system.",
+          "highlight": "elapsed",
+          "tip": "Use it when reporting how long a delay or period has continued."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · reflecting on a trip",
+          "sentence": "The weekend elapsed so quickly that we barely had time to explore the town.",
+          "highlight": "elapsed",
+          "tip": "It can describe time passing without focusing on a precise duration."
+        },
+        {
+          "setting": "writing",
+          "where": "Project report · explaining a delay",
+          "sentence": "A further ten days elapsed while the necessary documents were being reviewed.",
+          "highlight": "elapsed",
+          "tip": "It gives formal reports a measured, professional tone."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin elapsus, meaning ‘passed away’, formed from ex-, meaning ‘out’, and labi, meaning ‘to slip or glide’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Elapsus means ‘passed away’ or ‘gone by’, especially in the sense of slipping past."
+          },
+          {
+            "when": "1600s",
+            "text": "The verb appears in English with the meaning of passing by in time."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in formal writing, especially for deadlines and periods of delay."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "elapsed",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "pass",
+        "lapse",
+        "go by",
+        "expire"
+      ],
+      "opposite": "remain",
+      "pitfall": "Elapse refers to time passing. Lapse more often suggests a period ends, often because it was not renewed, or that standards slip."
+    },
+    {
+      "id": "eventuate",
+      "kind": "word",
+      "term": "eventuate",
+      "pos": "verb",
+      "phonetic": "/ɪˈvɛntʃueɪt/",
+      "sayIt": "ih-VEN-choo-ayt",
+      "register": "Formal",
+      "meaning": "To happen as a result of particular actions or developments.",
+      "nuance": "It sounds formal and often suggests an outcome that follows from earlier events. It is not limited to planned events, though those are usually described with this word.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · explaining a result",
+          "sentence": "The revised timeline eventuated from months of testing and repeated delays.",
+          "highlight": "eventuated",
+          "tip": "Use it to link an outcome clearly to its cause."
+        },
+        {
+          "setting": "social",
+          "where": "Gathering friends · reflecting on plans",
+          "sentence": "Our quiet dinner eventuated into a long conversation that nobody wanted to end.",
+          "highlight": "eventuated",
+          "tip": "It can add a slightly formal or humorous tone when describing what ultimately happened."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · describing consequences",
+          "sentence": "Several complications eventuated after the system was introduced without proper training.",
+          "highlight": "eventuated",
+          "tip": "Common in formal reports, especially with phrases such as “eventuate from” or “eventuate in.”"
+        }
+      ],
+      "origin": {
+        "summary": "Borrowed from Latin eventuari, ‘to happen’, based on evenire, ‘to come out’ or ‘happen’. English later formed eventuate directly from the Latin stem.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root evenire means ‘to come out’ or ‘to happen’, while eventuari develops the sense of happening or turning out."
+          },
+          {
+            "when": "1600s",
+            "text": "Eventuate enters English with the meaning of happening or coming to pass."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal word, often used to describe a result that follows from earlier actions."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "eventuation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "happen",
+        "occur",
+        "result",
+        "ensue"
+      ],
+      "opposite": "prevent",
+      "pitfall": "Eventuate is more formal than happen, but it does not mean that the outcome was planned."
+    },
+    {
+      "id": "extant",
+      "kind": "word",
+      "term": "extant",
+      "pos": "adjective",
+      "phonetic": "/ɪkˈstænt/",
+      "sayIt": "ihk-STANT",
+      "register": "Formal",
+      "meaning": "Still existing or surviving rather than having disappeared.",
+      "nuance": "Often used for texts, artworks, species or records that remain from an earlier time. It is more common in academic, historical and cultural contexts than in everyday speech.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Archive review · checking a document",
+          "sentence": "This is the only extant draft of the original contract.",
+          "highlight": "extant",
+          "tip": "Use it when the survival of a document or record matters."
+        },
+        {
+          "setting": "social",
+          "where": "Antique discussion · identifying an old object",
+          "sentence": "Is this the oldest extant example of the pottery style?",
+          "highlight": "extant",
+          "tip": "It sounds natural when discussing rare objects and surviving traditions."
+        },
+        {
+          "setting": "writing",
+          "where": "History article · describing lost evidence",
+          "sentence": "Few written accounts survive, but the extant letters reveal a much earlier stage of the dispute.",
+          "highlight": "extant",
+          "tip": "It works well in formal writing to show that evidence still exists."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin extans, meaning ‘standing out’ or ‘existing’, formed from extare, ‘to exist or be present’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Extans comes from extare, built from ex-, ‘out’, and stare, ‘to stand’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in the sense of existing or present."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means still existing or surviving."
+          }
+        ]
+      },
+      "similar": [
+        "surviving",
+        "existing",
+        "current",
+        "remaining"
+      ],
+      "opposite": "extinct",
+      "pitfall": "Do not confuse extant with extinct: extant means still in existence, while extinct means no longer existing."
+    },
+    {
+      "id": "fleeting",
+      "kind": "word",
+      "term": "fleeting",
+      "pos": "adjective",
+      "phonetic": "/ˈfliːtɪŋ/",
+      "sayIt": "FLEE-ting",
+      "register": "Common at work",
+      "meaning": "Lasting for only a short time and passing quickly.",
+      "nuance": "It often describes feelings, thoughts, opportunities or moments that are temporary. It can sound poetic when describing emotions and more practical when discussing time-limited chances.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Meeting · reviewing priorities",
+          "sentence": "The feedback was fleeting, so we discussed it before moving on to the next issue.",
+          "highlight": "fleeting",
+          "tip": "Use it for a feeling or reaction that disappears quickly."
+        },
+        {
+          "setting": "social",
+          "where": "Coffee with a friend · catching up",
+          "sentence": "We had a fleeting conversation before heading into the office.",
+          "highlight": "fleeting",
+          "tip": "It suggests the interaction was brief, not necessarily that it felt unimportant."
+        },
+        {
+          "setting": "writing",
+          "where": "Event invitation · setting expectations",
+          "sentence": "The afternoon tea will be a fleeting break between two busy days.",
+          "highlight": "fleeting",
+          "tip": "It adds an elegant, slightly poetic touch to a short-lived moment."
+        }
+      ],
+      "origin": {
+        "summary": "Formed from the older word fleet, meaning ‘quickly moving or temporary’, with the ending -ing.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "The adjective fleet begins appearing with meanings related to quick movement and transience."
+          },
+          {
+            "when": "1800s",
+            "text": "Fleeting becomes established for something brief or passing quickly."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "fleet",
+          "label": "adjective"
+        },
+        {
+          "term": "fleetly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "brief",
+        "momentary",
+        "transient",
+        "ephemeral"
+      ],
+      "opposite": "lasting",
+      "pitfall": "Fleeting does not mean something is moving quickly; it means that it does not last long."
+    },
+    {
+      "id": "forthwith",
+      "kind": "word",
+      "term": "forthwith",
+      "pos": "adverb",
+      "phonetic": "/ˈfɔːrθwɪð/",
+      "sayIt": "FORTH-with",
+      "register": "Formal",
+      "meaning": "Immediately or without delay.",
+      "nuance": "It sounds formal, old-fashioned and slightly dramatic, so it suits official notices, dramatic writing or deliberate humour more than ordinary conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project update · urgent deadline",
+          "sentence": "The revised figures must be approved forthwith so we can close the budget review.",
+          "highlight": "forthwith",
+          "tip": "Use it in a formal instruction when action is required immediately."
+        },
+        {
+          "setting": "social",
+          "where": "Costume party · mock-serious announcement",
+          "sentence": "The host has vanished, but the mystery quiz will begin forthwith.",
+          "highlight": "forthwith",
+          "tip": "Its dated formality can create playful tension when said with exaggerated seriousness."
+        },
+        {
+          "setting": "writing",
+          "where": "Historical novel · urgent dispatch",
+          "sentence": "The messenger departed forthwith, carrying the order through the rain.",
+          "highlight": "forthwith",
+          "tip": "It adds urgency and an archaic atmosphere, so use it sparingly in modern prose."
+        }
+      ],
+      "origin": {
+        "summary": "A Middle English compound of forth, meaning onward or forward, and with, meaning in accordance with or along. Its sense soon came to mean at once or immediately.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The separate elements forth and with were already used in English."
+          },
+          {
+            "when": "Middle English",
+            "text": "The compound appears with the meaning immediately or without delay."
+          },
+          {
+            "when": "Modern English",
+            "text": "It survives mainly in formal, literary and deliberately old-fashioned usage."
+          }
+        ]
+      },
+      "similar": [
+        "immediately",
+        "at once",
+        "promptly",
+        "without delay"
+      ],
+      "opposite": "later",
+      "pitfall": "This can sound theatrical or comically old-fashioned in casual speech; say immediately when that is the natural choice."
+    },
+    {
+      "id": "fortuitous",
+      "kind": "word",
+      "term": "fortuitous",
+      "pos": "adjective",
+      "phonetic": "/fɔːrˈtjuːɪtəs/",
+      "sayIt": "for-TOO-ee-tuhs",
+      "register": "Formal",
+      "meaning": "Happening by chance, often in a way that is helpful or welcome.",
+      "nuance": "It often suggests a lucky chance, but it can also refer to any accidental event. It sounds more polished than “by chance” and less clearly positive than “fortunate.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · recovering from a delay",
+          "sentence": "The outage happened at just the right moment, giving the team a fortuitous chance to fix the backlog.",
+          "highlight": "fortuitous",
+          "tip": "Useful for describing an unplanned development that creates an opportunity."
+        },
+        {
+          "setting": "social",
+          "where": "Train journey · meeting someone new",
+          "sentence": "A fortuitous conversation on the train led us to start a book club together.",
+          "highlight": "fortuitous",
+          "tip": "It adds a slightly formal tone; in casual conversation, “by chance” is simpler."
+        },
+        {
+          "setting": "writing",
+          "where": "Event proposal · changing the schedule",
+          "sentence": "Through a fortuitous change in the schedule, we were able to meet before the holiday.",
+          "highlight": "fortuitous",
+          "tip": "Works well for introducing an unexpected development in formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin fortuitus, meaning “by chance,” which was associated with fors, the idea of chance or luck. English borrowed the word in the late 1500s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Fortuitus develops from fors, meaning “chance” or “luck.”"
+          },
+          {
+            "when": "Late 1500s",
+            "text": "The word enters English in the sense of occurring by chance."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes an accidental event that is helpful or welcome."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "fortuity",
+          "label": "noun"
+        },
+        {
+          "term": "fortuitously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "accidental",
+        "fortunate",
+        "lucky",
+        "serendipitous"
+      ],
+      "opposite": "planned",
+      "pitfall": "Fortuitous describes something arising by chance; it does not always imply that the result was beneficial."
+    },
+    {
+      "id": "gradual",
+      "kind": "word",
+      "term": "gradual",
+      "pos": "adjective",
+      "phonetic": "/ˈɡrædʒuəl/",
+      "sayIt": "GRAJ-oo-uhl",
+      "register": "Common at work",
+      "meaning": "Happening slowly over a period of time, in small stages rather than all at once.",
+      "nuance": "It describes a steady change or increase without sharp jumps. It can sound reassuring when describing progress, but too slow when describing a response or improvement.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing progress",
+          "sentence": "The gradual improvement in customer response times shows that the new process is working.",
+          "highlight": "gradual",
+          "tip": "Use it to present steady progress as a positive result."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · changing a habit",
+          "sentence": "Making a gradual change is usually easier than trying to change everything overnight.",
+          "highlight": "gradual",
+          "tip": "It works well when you want to encourage patience and realistic expectations."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining a timeline",
+          "sentence": "The transition will be gradual, allowing teams to adjust their routines over several weeks.",
+          "highlight": "gradual",
+          "tip": "Pairs naturally with change, increase, improvement and transition."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin gradalis, meaning ‘proceeding by steps’, based on gradus, ‘step’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Gradalis is formed from gradus, meaning ‘step’ or ‘degree’."
+          },
+          {
+            "when": "1400s",
+            "text": "The word enters English with the sense of proceeding step by step."
+          },
+          {
+            "when": "Today",
+            "text": "It describes change that happens slowly and in stages."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "gradualism",
+          "label": "noun"
+        },
+        {
+          "term": "gradually",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "progressive",
+        "steady",
+        "incremental",
+        "phased"
+      ],
+      "opposite": "abrupt",
+      "pitfall": "Use gradual for change that happens over time; don’t use it when the change is sudden and complete."
+    },
+    {
+      "id": "halcyon",
+      "kind": "word",
+      "term": "halcyon",
+      "pos": "adjective",
+      "phonetic": "/ˈhæl.si.ən/",
+      "sayIt": "HAL-see-uhn",
+      "register": "Literary; nostalgic",
+      "meaning": "Peaceful, happy and prosperous, especially when describing an idealised time in the past.",
+      "nuance": "It often creates a tender, dreamlike mood, but the past being described may have been better in memory than in reality.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team reunion · recalling a former era",
+          "sentence": "The team still calls the old quarterly-offsite era its halcyon days, though deadlines were brutal.",
+          "highlight": "halcyon",
+          "tip": "Usually appears in the phrase “halcyon days” when comparing work life across different periods."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · remembering holidays",
+          "sentence": "We spent halcyon summers at our grandparents’ cottage before the family moved.",
+          "highlight": "halcyon",
+          "tip": "Use it for an idyllic period that feels warm and distant from everyday life."
+        },
+        {
+          "setting": "writing",
+          "where": "Memoir · reflecting on childhood",
+          "sentence": "The memoir treats those halcyon days before the divorce with obvious affection.",
+          "highlight": "halcyon",
+          "tip": "It adds a poetic, nostalgic tone, so it suits personal or reflective writing rather than plain factual reporting."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from an ancient sea bird believed to calm the winter sea. It later developed into a poetic word for peaceful, prosperous times.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "The name referred to a sea bird whose arrival was said to calm the waves."
+          },
+          {
+            "when": "1300s",
+            "text": "The bird’s name entered English through Latin and medieval writers."
+          },
+          {
+            "when": "1500s",
+            "text": "The expression “halcyon days” came to mean a calm and prosperous period."
+          },
+          {
+            "when": "Today",
+            "text": "The word is mainly literary and often recalls an idealised past."
+          }
+        ]
+      },
+      "similar": [
+        "idyllic",
+        "peaceful",
+        "tranquil",
+        "prosperous"
+      ],
+      "opposite": "turbulent",
+      "pitfall": "It is usually nostalgic rather than simply a general word for calm; “halcyon days” is its most familiar expression."
+    }
+  ]
+}

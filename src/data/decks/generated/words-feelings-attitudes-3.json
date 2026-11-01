@@ -1,0 +1,1772 @@
+{
+  "id": "words-feelings-attitudes-3",
+  "kind": "word",
+  "name": "Feelings & attitudes · 3",
+  "blurb": "25 words about feelings & attitudes",
+  "cards": [
+    {
+      "id": "exultation",
+      "kind": "word",
+      "term": "exultation",
+      "pos": "noun",
+      "phonetic": "/ˌeksəlˈteɪʃən/",
+      "sayIt": "ig-zul-TAY-shun",
+      "register": "Formal",
+      "meaning": "A burst of intense joy or triumph.",
+      "nuance": "This word sounds more dramatic than happiness because it suggests sudden, overwhelming delight. It is often used in writing when celebrating a major success or victory.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · celebrating a launch",
+          "sentence": "The sales team burst into exultation when the campaign broke every target.",
+          "highlight": "exultation",
+          "tip": "Use it for a dramatic moment of shared triumph, not ordinary satisfaction."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception · good news",
+          "sentence": "There was pure exultation when the couple learned that all their friends had arrived.",
+          "highlight": "exultation",
+          "tip": "It fits emotional storytelling but may sound unusually elevated in casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Sports report · championship win",
+          "sentence": "Her exultation was unmistakable as she raised the trophy and grinned at the crowd.",
+          "highlight": "exultation",
+          "tip": "Pair it with visible actions or reactions to make the joy feel vivid."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin exultatio, meaning “a leaping for joy.” It comes from exultare, “to leap or jump,” which was especially associated with unrestricted delight.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Exultatio develops from exultare, “to leap or exult,” related to exsilire, “to leap out.”"
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English in religious and literary writing about overwhelming joy."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal descriptions of ecstatic celebration or triumph."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "exult",
+          "label": "verb"
+        },
+        {
+          "term": "exultant",
+          "label": "adjective"
+        },
+        {
+          "term": "exultantly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "jubilation",
+        "elation",
+        "merriment",
+        "triumph"
+      ],
+      "opposite": "dejection",
+      "pitfall": "Do not confuse it with exaltation, which can mean intense joy but also praise, spiritual elevation, or being raised to a higher rank."
+    },
+    {
+      "id": "fervid",
+      "kind": "word",
+      "term": "fervid",
+      "pos": "adjective",
+      "phonetic": "/ˈfɜːrvɪd/",
+      "sayIt": "FUR-vid",
+      "register": "Formal",
+      "meaning": "Showing intense enthusiasm, excitement, or passion.",
+      "nuance": "Often used for strong feelings or energetic advocacy. It can sound admiring, but it may also suggest excessive heat or agitation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · proposing a campaign",
+          "sentence": "Her fervid pitch convinced us to make the campaign our biggest launch this year.",
+          "highlight": "fervid",
+          "tip": "Use it for a presentation or argument charged with enthusiasm."
+        },
+        {
+          "setting": "social",
+          "where": "Concert crowd · celebrating an encore",
+          "sentence": "The crowd’s fervid reaction made the small venue feel like a stadium.",
+          "highlight": "fervid",
+          "tip": "It adds a formal, dramatic tone to descriptions of intense excitement."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · praising a performance",
+          "sentence": "The conductor led the orchestra with fervid energy from the opening bars.",
+          "highlight": "fervid",
+          "tip": "Effective in literary criticism when describing energetic performance or advocacy."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin fervere, meaning ‘to boil’ or ‘to be hot’, which developed into the sense of intense heat and then strong passion.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root fervere means ‘to boil’ and can describe intense heat or agitation."
+          },
+          {
+            "when": "1600s",
+            "text": "The English word appears in the sense of hot, burning, or intensely emotional."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly a formal word for intensely enthusiastic or passionate."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "fervidly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "ardent",
+        "passionate",
+        "impassioned",
+        "heated"
+      ],
+      "opposite": "apathetic",
+      "pitfall": "Fervid is more formal and often stronger than enthusiastic; it can imply an intensity that is excessive."
+    },
+    {
+      "id": "fetish",
+      "kind": "word",
+      "term": "fetish",
+      "pos": "noun",
+      "phonetic": "/ˈfɛtɪʃ/",
+      "sayIt": "FEE-tish",
+      "register": "Common; sensitive in sexual contexts",
+      "meaning": "An unusually strong and lasting interest in or attraction to something.",
+      "nuance": "In general use, it can mean an intense enthusiasm; in psychology and adult contexts, it refers to a strong sexual attraction to a particular object, type of person, or body part.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product review · comparing priorities",
+          "sentence": "Our team has a fetish for polished slides, but customers care more about a product that works.",
+          "highlight": "fetish",
+          "tip": "This use is slightly playful, but it can sound judgmental when directed at colleagues."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend market · browsing stalls",
+          "sentence": "My friend has a fetish for old maps and checks every antique shop we pass.",
+          "highlight": "fetish",
+          "tip": "It works here for an unusually enthusiastic hobby or preference."
+        },
+        {
+          "setting": "writing",
+          "where": "Article critique · discussing style",
+          "sentence": "The article has a fetish for jargon, which makes the main point harder to understand.",
+          "highlight": "fetish",
+          "tip": "Use this metaphor when a text overemphasizes a feature or habit."
+        }
+      ],
+      "origin": {
+        "summary": "The word entered English from French fétiche, meaning a charm or magical object. It developed through Portuguese from a Latin word associated with enchantment.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "A Latin word for enchantment or magical influence appears in the word’s history."
+          },
+          {
+            "when": "1500s",
+            "text": "Portuguese uses a related word for a charm, spell or object believed to have magical power."
+          },
+          {
+            "when": "1600s",
+            "text": "English borrows the French word for an object connected with magical power or intense devotion."
+          },
+          {
+            "when": "Today",
+            "text": "It usually means an intense attraction or fascination, including the specialist sexual sense."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "fetishism",
+          "label": "noun"
+        },
+        {
+          "term": "fetishize",
+          "label": "verb"
+        },
+        {
+          "term": "fetishistic",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "obsession",
+        "fixation",
+        "preference",
+        "fascination"
+      ],
+      "opposite": "aversion",
+      "pitfall": "Calling someone’s preferences a “fetish” can sound rude and may imply sexual attraction when that is not intended."
+    },
+    {
+      "id": "flabbergasted",
+      "kind": "word",
+      "term": "flabbergasted",
+      "pos": "adjective",
+      "phonetic": "/ˈflæbəɡɑːstɪd/",
+      "sayIt": "FLAB-uhr-GAST-id",
+      "register": "Everyday",
+      "meaning": "Extremely surprised and shocked by something unexpected.",
+      "nuance": "It describes a strong, often sudden reaction, especially when the news is startling or hard to believe. It can sound slightly dramatic, so keep it for situations that genuinely amaze you.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · unexpected feedback",
+          "sentence": "We were all flabbergasted when the client praised the proposal we had almost rewritten.",
+          "highlight": "flabbergasted",
+          "tip": "Use it when something surprising overturns what the team expected."
+        },
+        {
+          "setting": "social",
+          "where": "Birthday party · surprise visit",
+          "sentence": "She was completely flabbergasted when her oldest friends appeared at the door.",
+          "highlight": "flabbergasted",
+          "tip": "It works well for a dramatic reaction to good or bad news."
+        },
+        {
+          "setting": "writing",
+          "where": "News update · unexpected result",
+          "sentence": "Readers were flabbergasted by the sudden change in the election result.",
+          "highlight": "flabbergasted",
+          "tip": "It adds a personal sense of astonishment to a report."
+        }
+      ],
+      "origin": {
+        "summary": "An English word from the early 1800s whose exact formation is unclear; the popular explanation that it comes from a blend of separate words is not firmly established.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1800s",
+            "text": "The word first appears in English, with a meaning close to ‘confused’ or ‘stunned by surprise’."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "Its meaning shifts toward being overwhelmed by astonishment."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for intense surprise, often with a touch of drama."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "flabbergast",
+          "label": "verb"
+        },
+        {
+          "term": "flabbergasting",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "astonished",
+        "astounded",
+        "stunned",
+        "taken aback"
+      ],
+      "opposite": "unsurprised",
+      "pitfall": "Don’t confuse it with flustered, which usually means nervous or confused rather than amazed."
+    },
+    {
+      "id": "forlorn",
+      "kind": "word",
+      "term": "forlorn",
+      "pos": "adjective",
+      "phonetic": "/fərˈlɔːrn/",
+      "sayIt": "fur-LORN",
+      "register": "Literary and poetic; sometimes used humorously",
+      "meaning": "Feeling or appearing sadly abandoned, rejected, or alone.",
+      "nuance": "It describes a lonely, often helpless state and can create a melancholy or dramatic effect. In casual speech, it may be used playfully to exaggerate how abandoned someone feels.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · an unstaffed project",
+          "sentence": "After the budget was cut, the analytics team looked forlorn, waiting to hear whether its work would continue.",
+          "highlight": "forlorn",
+          "tip": "Use it for a vivid image of people left uncertain or unsupported."
+        },
+        {
+          "setting": "social",
+          "where": "Party · arriving after everyone else",
+          "sentence": "We found him forlorn by the dessert table, wondering where the rest of the party had gone.",
+          "highlight": "forlorn",
+          "tip": "It adds a slightly theatrical or humorous note to a scene of loneliness."
+        },
+        {
+          "setting": "writing",
+          "where": "Short story · describing an empty home",
+          "sentence": "She opened the door to the cold house and stood there forlorn, holding the letter she had been afraid to post.",
+          "highlight": "forlorn",
+          "tip": "Pair it with posture, silence, or an empty setting to strengthen the mood."
+        }
+      ],
+      "origin": {
+        "summary": "Forlorn combines an intensifying for- with lorn, an old word meaning lost or forsaken.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The root word lorn meant lost, abandoned, or left behind."
+          },
+          {
+            "when": "1500s",
+            "text": "Forlorn appears in English with the sense of lost or forsaken."
+          },
+          {
+            "when": "Today",
+            "text": "It survives mainly in literary writing and evocative descriptions of loneliness."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "forlornly",
+          "label": "adverb"
+        },
+        {
+          "term": "forlornness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "abandoned",
+        "lonely",
+        "desolate",
+        "wretched",
+        "helpless"
+      ],
+      "opposite": "cheerful",
+      "pitfall": "It is not pronounced with two syllables: say fur-LORN, not for-LORN."
+    },
+    {
+      "id": "frenzy",
+      "kind": "word",
+      "term": "frenzy",
+      "pos": "noun",
+      "phonetic": "/ˈfrenzi/",
+      "sayIt": "FREN-zee",
+      "register": "Common at work and in conversation",
+      "meaning": "A period of wild excitement, frantic activity, or panic.",
+      "nuance": "A frenzy suggests that people are reacting with intense energy and have lost a sense of calm or proportion. It can describe enthusiasm, agitation, or frantic buying and selling.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch planning · sudden customer demand",
+          "sentence": "The support team was in a frenzy when thousands of customers arrived with questions at once.",
+          "highlight": "frenzy",
+          "tip": "Use it when normal procedures are overwhelmed by sudden activity."
+        },
+        {
+          "setting": "social",
+          "where": "Sale event · crowd outside a shop",
+          "sentence": "There was a frenzy outside the store when the discounted shoes went on sale.",
+          "highlight": "frenzy",
+          "tip": "It often describes a crowd acting with intense excitement."
+        },
+        {
+          "setting": "writing",
+          "where": "Market report · sharp rise in buying",
+          "sentence": "A buying frenzy pushed the shares sharply higher before trading settled.",
+          "highlight": "frenzy",
+          "tip": "Common in reporting about crowds, markets, and sudden bursts of demand."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through French from Greek roots associated with the mind and mental excitement. Its early English sense referred to delirium or mental disorder before it developed the modern meaning of frantic activity.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "The word ultimately comes from Greek roots meaning mind and inflammation or delirium."
+          },
+          {
+            "when": "Late 1500s",
+            "text": "Entered English through French, initially describing delirium or a disturbed state of mind."
+          },
+          {
+            "when": "1600s onward",
+            "text": "Expanded to mean wild excitement, frantic activity, or agitation."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "frenzied",
+          "label": "adjective"
+        },
+        {
+          "term": "frantically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "commotion",
+        "hysteria",
+        "mayhem",
+        "frenzy",
+        "uproar"
+      ],
+      "opposite": "calm",
+      "pitfall": "A frenzy is more intense and uncontrolled than ordinary busyness; it suggests excitement, panic, or agitation."
+    },
+    {
+      "id": "fretful",
+      "kind": "word",
+      "term": "fretful",
+      "pos": "adjective",
+      "phonetic": "/ˈfrɛtfəl/",
+      "sayIt": "FRET-ful",
+      "register": "Everyday",
+      "meaning": "Easily worried, upset, or irritated, especially over small problems.",
+      "nuance": "It describes a tense, slightly complaining mood rather than deep sadness. It is often used for children, tired people, and anyone who seems difficult to reassure.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · changing plans",
+          "sentence": "She became fretful when the deadline moved forward again.",
+          "highlight": "fretful",
+          "tip": "Use it for a visible shift from calm to worried or easily irritated."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · waiting for guests",
+          "sentence": "The kids grew fretful after an hour of waiting for the entertainment to start.",
+          "highlight": "fretful",
+          "tip": "This sounds natural when describing someone who is anxious and hard to please."
+        },
+        {
+          "setting": "writing",
+          "where": "Update to a colleague · project delay",
+          "sentence": "After several delays, the client sounded fretful and wanted a firm delivery date.",
+          "highlight": "fretful",
+          "tip": "It conveys irritation or anxiety without suggesting a dramatic emotional crisis."
+        }
+      ],
+      "origin": {
+        "summary": "Formed in English by adding the suffix -ful to fret, an older word for worry or vexation. The word's exact earlier ancestry is less certain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Middle English",
+            "text": "Fret is used for anxiety, worry, or mental distress."
+          },
+          {
+            "when": "1500s",
+            "text": "The form fretful appears, describing someone worried, restless, or inclined to complain."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in everyday descriptions of anxious or irritable behaviour."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "fretfulness",
+          "label": "noun"
+        },
+        {
+          "term": "fretfully",
+          "label": "adverb"
+        },
+        {
+          "term": "fret",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "anxious",
+        "irritable",
+        "restless",
+        "uneasy"
+      ],
+      "opposite": "calm",
+      "pitfall": "Fretful suggests visible worry or fussiness; it is not the usual word for someone experiencing serious anxiety."
+    },
+    {
+      "id": "frustrate",
+      "kind": "word",
+      "term": "frustrate",
+      "pos": "verb",
+      "phonetic": "/frʌˈstreɪt/",
+      "sayIt": "fruh-STRAYT",
+      "register": "Common at work",
+      "meaning": "To prevent someone from achieving a goal or make progress feel difficult or impossible.",
+      "nuance": "It describes a mix of blocked goals, irritation and sometimes helplessness. It can also mean to prevent an action or plan from succeeding.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project meeting · discussing delays",
+          "sentence": "Frequent approval requests are frustrating the team and delaying the launch.",
+          "highlight": "frustrating",
+          "tip": "Use the present participle when the person or process is causing the frustration."
+        },
+        {
+          "setting": "social",
+          "where": "Plans with friends · changing the venue",
+          "sentence": "It frustrates me that we chose a restaurant with no online booking.",
+          "highlight": "frustrates",
+          "tip": "Common for expressing mild annoyance when plans do not go your way."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a service provider · seeking a refund",
+          "sentence": "Your repeated cancellations have frustrated our efforts to organize the event.",
+          "highlight": "frustrated",
+          "tip": "The past participle suits an email describing the effect of someone’s actions."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin frustra, meaning ‘without purpose or effect’, and frustrari, ‘to render ineffective or deceive’. It entered English with senses connected to vain or ineffective efforts.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "frustrari means ‘to deceive’ or ‘render ineffective’, related to frustra, ‘without purpose or effect’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word begins appearing in English with meanings involving obstruction, disappointment and vain effort."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for blocked goals, irritation and actions that prevent success."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "frustrated",
+          "label": "adjective"
+        },
+        {
+          "term": "frustrating",
+          "label": "adjective"
+        },
+        {
+          "term": "frustration",
+          "label": "noun"
+        },
+        {
+          "term": "frustrate",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "annoy",
+        "impede",
+        "obstruct",
+        "disappoint"
+      ],
+      "opposite": "assist",
+      "pitfall": "A frustrated person feels blocked or irritated; a frustrating experience is the thing causing those feelings."
+    },
+    {
+      "id": "gloomy",
+      "kind": "word",
+      "term": "gloomy",
+      "pos": "adjective",
+      "phonetic": "/ˈɡluːmi/",
+      "sayIt": "GLOO-mee",
+      "register": "Everyday",
+      "meaning": "Dark, sad, and without much hope or cheer.",
+      "nuance": "It can describe a person’s mood, an atmosphere, or an outlook on the future. It often suggests that things seem depressing rather than that one specific event is upsetting.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team check-in · missed deadline",
+          "sentence": "The atmosphere became gloomy after the deadline was moved forward again.",
+          "highlight": "gloomy",
+          "tip": "Useful for describing a shared mood without blaming anyone."
+        },
+        {
+          "setting": "social",
+          "where": "Pub conversation · bad weather",
+          "sentence": "It was one of those gloomy Sundays when nobody wanted to leave the house.",
+          "highlight": "gloomy",
+          "tip": "Often paints a whole scene or mood rather than personal sadness."
+        },
+        {
+          "setting": "writing",
+          "where": "Market report · future outlook",
+          "sentence": "The report offers a gloomy picture of the industry over the next year.",
+          "highlight": "gloomy",
+          "tip": "Pairs naturally with picture, forecast and outlook."
+        }
+      ],
+      "origin": {
+        "summary": "From the English noun gloom, which developed from an Old English word for darkness or twilight.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "Glōm meant darkness, shadow, or twilight."
+          },
+          {
+            "when": "Middle English",
+            "text": "Gloom developed senses including darkness, melancholy, and a lack of cheerfulness."
+          },
+          {
+            "when": "1600s",
+            "text": "Gloomy begins appearing in English as an adjective."
+          },
+          {
+            "when": "Today",
+            "text": "It describes sad atmospheres, outlooks, and predictions."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "gloom",
+          "label": "noun"
+        },
+        {
+          "term": "gloomily",
+          "label": "adverb"
+        },
+        {
+          "term": "gloominess",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "dreary",
+        "grim",
+        "melancholy",
+        "depressing",
+        "dismal"
+      ],
+      "opposite": "cheerful",
+      "pitfall": "Use gloomy for an atmosphere or outlook; a person who is merely unhappy may sound better described as sad or glum."
+    },
+    {
+      "id": "gusto",
+      "kind": "word",
+      "term": "gusto",
+      "pos": "noun",
+      "phonetic": "/ˈɡʌstəʊ/",
+      "sayIt": "GUS-toh",
+      "register": "Everyday; common at work",
+      "meaning": "Lively enthusiasm, energy and enjoyment for doing something.",
+      "nuance": "It suggests active, confident interest rather than a mild preference. Use it when you want to praise someone’s enthusiasm or describe a spirited approach.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · starting a difficult project",
+          "sentence": "She brought real gusto to the project and got the whole team excited.",
+          "highlight": "gusto",
+          "tip": "Use it for enthusiasm that energizes others, not simply willingness to do a task."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · trying a new restaurant",
+          "sentence": "We ordered the tasting menu with plenty of gusto and loved every bite.",
+          "highlight": "gusto",
+          "tip": "This gives the sentence a warm, energetic feeling."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · praising someone’s contribution",
+          "sentence": "His presentation combined careful planning with genuine gusto.",
+          "highlight": "gusto",
+          "tip": "It works well in reviews and profiles when you want to recognize confident, lively effort."
+        }
+      ],
+      "origin": {
+        "summary": "English borrowed gusto from Spanish, where it meant “taste” or “enjoyment.” Its deeper root is the Latin word for taste.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The source word was gustus, meaning “taste” or “enjoyment,” connected with the idea of tasting."
+          },
+          {
+            "when": "1500s",
+            "text": "The Spanish form gusto entered English with meanings connected to taste, pleasure and appetite."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes lively enthusiasm and energetic enjoyment."
+          }
+        ]
+      },
+      "similar": [
+        "enthusiasm",
+        "relish",
+        "zest",
+        "vigour"
+      ],
+      "opposite": "apathy",
+      "pitfall": "A gust is a sudden, short burst of wind; gusto is enthusiasm or energetic enjoyment."
+    },
+    {
+      "id": "idyllic",
+      "kind": "word",
+      "term": "idyllic",
+      "pos": "adjective",
+      "phonetic": "/ɪˈdɪlɪk/",
+      "sayIt": "eye-DIL-ik",
+      "register": "Formal and literary",
+      "meaning": "Extremely pleasant, peaceful, and beautiful, especially in the way of the countryside or a simple scene.",
+      "nuance": "It suggests charm and calm, often with a slightly nostalgic or idealized feeling. Use it for places and experiences rather than people’s behaviour.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team retreat · countryside venue",
+          "sentence": "The lakeside lodge was idyllic, but the poor Wi-Fi made it a difficult place for a company retreat.",
+          "highlight": "idyllic",
+          "tip": "It can introduce a contrast between a beautiful setting and a practical work problem."
+        },
+        {
+          "setting": "social",
+          "where": "Garden party · relaxing with friends",
+          "sentence": "We spent the afternoon in the idyllic garden, drinking cold drinks and talking about nothing important.",
+          "highlight": "idyllic",
+          "tip": "A warm, slightly poetic word that suits describing a peaceful social scene."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel article · describing a village",
+          "sentence": "Beyond the crowded city, the village offered an idyllic escape through quiet lanes, old cottages, and shaded gardens.",
+          "highlight": "idyllic",
+          "tip": "It works well in travel writing but can sound overly romantic if a place is not truly peaceful."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin idyllicus, meaning “of or like an idyll,” which came from Greek idyllios, relating to a short pastoral poem.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "The related word idyllion referred to a small, often pastoral poem depicting rural life."
+          },
+          {
+            "when": "1600s",
+            "text": "Idyll enters English in the sense of a poem or scene presenting an idealized picture of rural peace."
+          },
+          {
+            "when": "1800s",
+            "text": "Idylic develops as an adjective meaning charmingly peaceful, beautiful, or pastoral."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "idyll",
+          "label": "noun"
+        },
+        {
+          "term": "idyllically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "picturesque",
+        "pastoral",
+        "tranquil",
+        "peaceful",
+        "charming"
+      ],
+      "opposite": "harsh",
+      "pitfall": "Remember that idyllic has two l’s, and avoid using it for a place that is merely pleasant rather than exceptionally peaceful and beautiful."
+    },
+    {
+      "id": "impious",
+      "kind": "word",
+      "term": "impious",
+      "pos": "adjective",
+      "phonetic": "/ɪmˈpaɪəs/",
+      "sayIt": "im-PYE-uhs",
+      "register": "Formal",
+      "meaning": "Showing a lack of reverence for God, or behaving in a deeply wicked or disrespectful way.",
+      "nuance": "This is a strong, old-fashioned word with a religious tone. By extension, it can describe anyone who treats sacred things or moral principles with contempt.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · unethical request",
+          "sentence": "Treating customer data so carelessly would be impious, regardless of what the targets ask for.",
+          "highlight": "impious",
+          "tip": "Use it for conduct that violates serious moral or religious principles."
+        },
+        {
+          "setting": "social",
+          "where": "Family argument · mocking faith",
+          "sentence": "His impious joke about the ceremony offended everyone at the table.",
+          "highlight": "impious",
+          "tip": "It is especially fitting when someone shows disrespect toward religion or sacred customs."
+        },
+        {
+          "setting": "writing",
+          "where": "Historical essay · religious rebellion",
+          "sentence": "The novel presents the rebellion as both politically dangerous and morally impious.",
+          "highlight": "impious",
+          "tip": "This formal word often appears in literary, religious or historical writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin impius, meaning ‘not pious’ or ‘ungodly’, formed from the negative prefix in- and pius, ‘devout’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Impius develops from in-, ‘not’, and pius, ‘devout or dutiful’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with religious and moral meanings."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly formal or literary, especially when describing disrespect toward God."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "impiety",
+          "label": "noun"
+        },
+        {
+          "term": "impiously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "irreverent",
+        "profane",
+        "sacrilegious",
+        "ungodly"
+      ],
+      "opposite": "pious",
+      "pitfall": "Impious is much stronger than simply impolite, and it usually suggests deliberate moral or religious disrespect."
+    },
+    {
+      "id": "incredulous",
+      "kind": "word",
+      "term": "incredulous",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈkrɛdjələs/",
+      "sayIt": "in-KRED-yuh-lus",
+      "register": "Everyday",
+      "meaning": "Feeling or showing that you cannot believe something because it seems surprising or unlikely.",
+      "nuance": "It often combines disbelief with surprise, suspicion or mild frustration. It describes your reaction to a claim or situation, not your general opinion about a person.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · questioning an estimate",
+          "sentence": "The project manager was incredulous when the supposedly simple update took three hours to review.",
+          "highlight": "incredulous",
+          "tip": "Use it to show strong disbelief about something that seems implausible."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · hearing an unexpected claim",
+          "sentence": "My friends were incredulous when I said the café had closed permanently.",
+          "highlight": "incredulous",
+          "tip": "It works well for a surprised reaction to news that strains your belief."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · responding to an unusual excuse",
+          "sentence": "She sounded incredulous, but she listened carefully before deciding what to do next.",
+          "highlight": "incredulous",
+          "tip": "Often describes a tone, look or reaction when you want to show that someone did not believe what they heard."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin incredulus, meaning ‘unbelieving’ or ‘distrustful’, built from in- ‘not’ and credulus ‘credible or trusting’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Incredulus combines ‘not’ with credulus, meaning trusting or easily believed."
+          },
+          {
+            "when": "1500s",
+            "text": "Enters English in the sense of unwilling to believe something."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly describes a surprised or suspicious reaction to an unexpected claim."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "incredulously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "disbelieving",
+        "skeptical",
+        "astonished",
+        "unconvinced"
+      ],
+      "opposite": "credulous",
+      "pitfall": "Do not confuse incredulous, meaning unwilling to believe something, with credulous, meaning too willing to believe it."
+    },
+    {
+      "id": "indifference",
+      "kind": "word",
+      "term": "indifference",
+      "pos": "noun",
+      "phonetic": "/ɪnˈdɪfrəns/",
+      "sayIt": "in-DIF-runs",
+      "register": "Common in formal writing",
+      "meaning": "A lack of interest, concern, or preference toward someone or something.",
+      "nuance": "It can describe calm neutrality, but it often suggests that something important has been ignored or does not matter.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · agreeing priorities",
+          "sentence": "Her indifference to the deadline made it unclear whether she supported the launch.",
+          "highlight": "indifference",
+          "tip": "Use it when someone’s lack of engagement affects the team."
+        },
+        {
+          "setting": "social",
+          "where": "Gathering · joining a conversation",
+          "sentence": "He pretended not to notice her indifference and started talking to someone else.",
+          "highlight": "indifference",
+          "tip": "Often describes a person’s failure to show interest or concern."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · assessing public feedback",
+          "sentence": "The report was marked by indifference to the concerns raised by residents.",
+          "highlight": "indifference",
+          "tip": "Useful in critical writing when something has been treated as unimportant."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin indifferentia, meaning neutrality or lack of preference, and French indifférence.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Indifferentia combines in-, ‘not’, and differre, ‘to differ’, referring to neutrality or lack of preference."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English through French in senses connected with neutrality and lack of concern."
+          },
+          {
+            "when": "Today",
+            "text": "It most often means showing no interest, concern, or preference."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "indifferent",
+          "label": "adjective"
+        },
+        {
+          "term": "indifferently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "apathy",
+        "neutrality",
+        "unconcern",
+        "disregard"
+      ],
+      "opposite": "concern",
+      "pitfall": "Indifference is not always negative: it can mean fair neutrality, but context usually reveals whether a lack of concern is intended."
+    },
+    {
+      "id": "indignant",
+      "kind": "word",
+      "term": "indignant",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈdɪɡnənt/",
+      "sayIt": "in-DIG-nuhnt",
+      "register": "Common at work",
+      "meaning": "Feeling or showing strong anger about something unfair, unjust, or disrespectful.",
+      "nuance": "It is more than simply being angry: it suggests moral objection or a sense that something should not be allowed to happen. It can sound formal or emotionally strong, depending on the context.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing unfair treatment",
+          "sentence": "Several employees were indignant after the pay increase was given only to senior staff.",
+          "highlight": "indignant",
+          "tip": "Use it when describing anger caused by unfairness, not ordinary frustration."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation with a friend · unfair treatment",
+          "sentence": "My friend was indignant when the restaurant refused to honour the booking she had made.",
+          "highlight": "indignant",
+          "tip": "This is a natural choice for expressing anger at an injustice or insult."
+        },
+        {
+          "setting": "writing",
+          "where": "Letter to a company · complaint about a decision",
+          "sentence": "We are indignant that customers were told the change was a good-news discount rather than a fee.",
+          "highlight": "indignant",
+          "tip": "It gives a formal, emphatic tone, so place it carefully in professional writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin indignari, meaning ‘to be angry at’ or ‘to regard as improper’, from in-, ‘not’, and dignus, ‘worthy’. The word entered English in the 16th century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root indignari means ‘to be angry at’ or ‘to regard as unworthy or improper’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "Indignant enters English with the sense of angry at something shameful or unfair."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes anger prompted by injustice, disrespect, or improper conduct."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "indignation",
+          "label": "noun"
+        },
+        {
+          "term": "indignantly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "outraged",
+        "offended",
+        "angry",
+        "aggrieved"
+      ],
+      "opposite": "indifferent",
+      "pitfall": "Indignant is stronger and more specific than angry: it usually implies anger at unfairness or disrespect."
+    },
+    {
+      "id": "inhibition",
+      "kind": "word",
+      "term": "inhibition",
+      "pos": "noun",
+      "phonetic": "/ˌɪnɪˈbɪʃən/",
+      "sayIt": "in-HIB-ish-uhn",
+      "register": "Common in academic, clinical and workplace contexts",
+      "meaning": "A process that holds back an action, impulse, emotion or expression.",
+      "nuance": "The word can refer to a deliberate control, such as pausing before reacting, or to a difficulty that prevents someone from acting freely.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing a new leader",
+          "sentence": "Her initial inhibition disappeared once she understood that questions were encouraged.",
+          "highlight": "inhibition",
+          "tip": "Often describes temporary hesitation caused by uncertainty, authority or unfamiliar situations."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · entering a conversation",
+          "sentence": "A few minutes of friendly conversation helped ease my inhibition and join the group.",
+          "highlight": "inhibition",
+          "tip": "Common when talking about social confidence, awkwardness or fear of speaking."
+        },
+        {
+          "setting": "writing",
+          "where": "Research summary · behaviour and self-control",
+          "sentence": "The study links stronger inhibition with better resistance to impulsive choices.",
+          "highlight": "inhibition",
+          "tip": "Useful in academic writing for the mental control involved in resisting distractions or automatic responses."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin inhibitio, meaning ‘a holding back’, from inhibitere, formed from in- ‘into’ and habere ‘to hold’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Inhibere develops from in- ‘into’ and habere ‘to hold’, with the sense of holding something back."
+          },
+          {
+            "when": "1400s",
+            "text": "The noun inhibition enters English in medical and legal contexts."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "Psychological use expands to cover suppression of impulses and expressions."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "inhibit",
+          "label": "verb"
+        },
+        {
+          "term": "inhibited",
+          "label": "adjective"
+        },
+        {
+          "term": "inhibitory",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "restraint",
+        "suppression",
+        "self-control",
+        "impediment"
+      ],
+      "opposite": "encouragement",
+      "pitfall": "Inhibition does not always mean prohibition: it can describe an internal process that delays or restrains an action."
+    },
+    {
+      "id": "innocuous",
+      "kind": "word",
+      "term": "innocuous",
+      "pos": "adjective",
+      "phonetic": "/ɪˈnɑːkjuəs/",
+      "sayIt": "ih-NOK-yoo-uhs",
+      "register": "Formal",
+      "meaning": "Not likely to cause harm, offence, or trouble.",
+      "nuance": "Often describes something that looks harmless or seems unlikely to have a bad effect. It can also sound slightly formal or ironic when someone is hinting that something is more troublesome than it appears.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Code review · discussing a small change",
+          "sentence": "The change looks innocuous, but let’s confirm it doesn’t affect older accounts.",
+          "highlight": "innocuous",
+          "tip": "Use it when something appears harmless and you are encouraging a quick safety check."
+        },
+        {
+          "setting": "social",
+          "where": "Chat with a friend · explaining a minor issue",
+          "sentence": "I thought the question was innocuous, but it clearly touched a nerve.",
+          "highlight": "innocuous",
+          "tip": "Useful for saying that something seemed harmless even if it caused discomfort."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal email · requesting clarification",
+          "sentence": "Could you explain whether this seemingly innocuous clause carries any risk?",
+          "highlight": "innocuous",
+          "tip": "Pairs naturally with words like clause, question, change or comment."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin innocuus, meaning ‘harmless’, built from in- ‘not’ and nocere ‘to harm’. It entered English with the sense of being harmless or blameless.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "innocuus, ‘harmless, blameless’, from in- ‘not’ and nocere ‘to harm’."
+          },
+          {
+            "when": "1500s",
+            "text": "Recorded in English in legal and moral contexts, meaning harmless or free from blame."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly means harmless, often suggesting that something may not be as harmless as it looks."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "innocuously",
+          "label": "adverb"
+        },
+        {
+          "term": "innocuousness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "harmless",
+        "inoffensive",
+        "unthreatening",
+        "benign"
+      ],
+      "opposite": "harmful",
+      "pitfall": "Don’t use it to mean unimportant; innocuous describes lack of harm or danger, not significance."
+    },
+    {
+      "id": "insatiable",
+      "kind": "word",
+      "term": "insatiable",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈseɪʃəbəl/",
+      "sayIt": "in-SAY-shuh-bul",
+      "register": "Everyday",
+      "meaning": "Having a desire or appetite that cannot be satisfied.",
+      "nuance": "It often describes an appetite, curiosity or ambition that keeps growing no matter how much is gained. It can sound strongly critical when applied to a person.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · expanding a project",
+          "sentence": "Her insatiable curiosity keeps the team finding better ways to solve the problem.",
+          "highlight": "insatiable",
+          "tip": "Use it for a drive that never seems to fade, especially curiosity, ambition or appetite."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · ordering dessert",
+          "sentence": "The children have an insatiable appetite, so there is never enough pizza.",
+          "highlight": "insatiable",
+          "tip": "It adds emphasis to a hunger that remains even after plenty of food."
+        },
+        {
+          "setting": "writing",
+          "where": "Product review · praising a feature",
+          "sentence": "Once you start exploring the archive, its insatiable range of material invites you back.",
+          "highlight": "insatiable",
+          "tip": "A slightly literary choice that suits vivid praise or criticism."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin insatiabilis, meaning ‘not sated’ or ‘unable to be satisfied’, formed from in- ‘not’ and saturare ‘to fill or sate’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Insatiabilis develops from roots meaning ‘not’ and ‘sated’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in descriptions of appetites that cannot be satisfied."
+          },
+          {
+            "when": "Today",
+            "text": "It describes hunger, curiosity, ambition and other desires that never seem fully satisfied."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "insatiability",
+          "label": "noun"
+        },
+        {
+          "term": "insatiably",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "unquenchable",
+        "relentless",
+        "inexhaustible",
+        "voracious"
+      ],
+      "opposite": "satisfied",
+      "pitfall": "Use it for a desire that cannot be satisfied; for food you simply cannot eat more, say ‘I’m full’ or ‘I’ve had enough.’"
+    },
+    {
+      "id": "irascible",
+      "kind": "word",
+      "term": "irascible",
+      "pos": "adjective",
+      "phonetic": "/ɪˈræsəbəl/",
+      "sayIt": "eye-RAS-uh-buhl",
+      "register": "Formal",
+      "meaning": "Quick-tempered and easily angered.",
+      "nuance": "It suggests a tendency to become angry rather than a single moment of anger. The word often sounds literary, formal or slightly old-fashioned.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client meeting · frustrating delay",
+          "sentence": "The client became irascible when he learned the delivery had been delayed again.",
+          "highlight": "irascible",
+          "tip": "Use it to describe a visible pattern of anger, but keep the tone measured in formal reports."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · crowded table",
+          "sentence": "My grandfather is irascible when the conversation turns to noisy neighbours.",
+          "highlight": "irascible",
+          "tip": "This sounds more literary than angry or short-tempered in everyday conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · evaluating a character",
+          "sentence": "The novel portrays him as an irascible man whose anger rarely disappears.",
+          "highlight": "irascible",
+          "tip": "Use it when character or temperament is the focus, not simply to report an angry reaction."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin irascibilis, meaning ‘easily angered’, related to ira, ‘anger’, and irascor, ‘to become angry’. English borrowed it through French.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Irascibilis is formed from ira, ‘anger’, with a suffix meaning ‘able or inclined to’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English through French as a formal description of an angry temperament."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal or literary word for someone who is habitually quick-tempered."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "irascibility",
+          "label": "noun"
+        },
+        {
+          "term": "irascibly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "irritable",
+        "short-tempered",
+        "hot-tempered",
+        "touchy"
+      ],
+      "opposite": "even-tempered",
+      "pitfall": "Use irascible for a habitual tendency; use irritable when a temporary mood or minor irritation is meant."
+    },
+    {
+      "id": "irate",
+      "kind": "word",
+      "term": "irate",
+      "pos": "adjective",
+      "phonetic": "/aɪˈreɪt/",
+      "sayIt": "eye-RATE",
+      "register": "Formal",
+      "meaning": "Extremely angry, especially about something that feels unfair or intolerable.",
+      "nuance": "Stronger than simply angry and often used when someone demands action. It can suggest deep anger that is being controlled.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Customer call · repeated service failure",
+          "sentence": "The customer was irate after three failed appointments, so I brought my manager into the call.",
+          "highlight": "irate",
+          "tip": "Use it for intense anger, especially when patience has run out."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · plans changed again",
+          "sentence": "My father was irate when the venue cancelled with only two hours’ notice.",
+          "highlight": "irate",
+          "tip": "It sounds formal but can still describe anger in a personal story."
+        },
+        {
+          "setting": "writing",
+          "where": "Complaint email · delayed delivery",
+          "sentence": "Hundreds of customers were irate when the order arrived two weeks late.",
+          "highlight": "irate",
+          "tip": "Common in news reports and formal descriptions of public anger."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin iratus, meaning ‘made angry’ or ‘enraged’, based on ira, ‘anger’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Roman Latin",
+            "text": "Iratus means ‘made angry’, with ira meaning ‘anger’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in the sense of angry or enraged."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal word for extreme anger."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "irritate",
+          "label": "verb"
+        },
+        {
+          "term": "irritation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "furious",
+        "enraged",
+        "incensed",
+        "outraged"
+      ],
+      "opposite": "calm",
+      "pitfall": "Do not confuse irate, meaning extremely angry, with irritate, meaning to annoy someone."
+    },
+    {
+      "id": "jocose",
+      "kind": "word",
+      "term": "jocose",
+      "pos": "adjective",
+      "phonetic": "/dʒəˈkoʊs/",
+      "sayIt": "juh-KOHS",
+      "register": "Formal",
+      "meaning": "Humorous or playful, especially in a way that is lighthearted and good-natured.",
+      "nuance": "It suits teasing, banter and gentle humour. The word often sounds literary or slightly old-fashioned rather than everyday.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · easing tension",
+          "sentence": "Her jocose comment about the disappearing biscuits briefly broke the tension in the room.",
+          "highlight": "jocose",
+          "tip": "Use it for humour that is playful rather than sharp or hostile."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · playful banter",
+          "sentence": "His jocose reply made everyone laugh, but nobody was quite sure whether he was joking.",
+          "highlight": "jocose",
+          "tip": "It works when the humour is friendly, though the tone can sound a little formal."
+        },
+        {
+          "setting": "writing",
+          "where": "Speech · welcoming guests",
+          "sentence": "We ended the evening on a jocose note, joking about which team would host the next reunion.",
+          "highlight": "jocose",
+          "tip": "A useful word when you want to describe a lighthearted tone without repeating ‘funny’."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin jocosus, meaning humorous or playful, which was related to jocus, meaning joke or jest.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Jocosus develops from jocus, ‘joke’ or ‘jest’, and means humorous or playful."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in the sense of humorous, jesting or playful."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal or literary word for lighthearted humour."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "jocosely",
+          "label": "adverb"
+        },
+        {
+          "term": "jocosity",
+          "label": "noun"
+        },
+        {
+          "term": "jocular",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "playful",
+        "humorous",
+        "facetious",
+        "waggish"
+      ],
+      "opposite": "serious",
+      "pitfall": "Don’t confuse it with jocular, which focuses more on joking or being humorous; jocose also carries a sense of playful good humour."
+    },
+    {
+      "id": "jubilant",
+      "kind": "word",
+      "term": "jubilant",
+      "pos": "adjective",
+      "phonetic": "/ˈdʒuː.bɪ.lənt/",
+      "sayIt": "joo-BIH-lunt",
+      "register": "Everyday",
+      "meaning": "Extremely happy and excited because of a success or happy event.",
+      "nuance": "It is stronger and more energetic than simply happy. It often suggests open celebration, though it can sound slightly formal or exaggerated.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · celebrating a win",
+          "sentence": "The team was jubilant after the client approved the proposal.",
+          "highlight": "jubilant",
+          "tip": "Use it for shared excitement about a clear professional success."
+        },
+        {
+          "setting": "social",
+          "where": "Birthday party · announcing good news",
+          "sentence": "We were jubilant when the cake arrived, because it was much bigger than expected.",
+          "highlight": "jubilant",
+          "tip": "It naturally conveys intense, animated happiness."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · describing a public celebration",
+          "sentence": "Jubilant supporters sang and waved flags as the winning team entered the stadium.",
+          "highlight": "Jubilant",
+          "tip": "It works well before a noun when describing a visibly excited crowd."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin jūbilāre, meaning ‘to shout for joy’, which is also related to jubilee.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Jūbilāre meant ‘to shout for joy’ or ‘rejoice loudly’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word began appearing in English in joyful or celebratory contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It describes very strong happiness, usually linked with celebration."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "jubilance",
+          "label": "noun"
+        },
+        {
+          "term": "jubilantly",
+          "label": "adverb"
+        },
+        {
+          "term": "jubilation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "elated",
+        "overjoyed",
+        "exultant",
+        "triumphant"
+      ],
+      "opposite": "despondent",
+      "pitfall": "Jubilant describes a joyful state, while jubilate is a verb meaning to celebrate enthusiastically."
+    },
+    {
+      "id": "lassitude",
+      "kind": "word",
+      "term": "lassitude",
+      "pos": "noun",
+      "phonetic": "/ˈlæsɪtjuːd/",
+      "sayIt": "LAS-ih-tood",
+      "register": "Formal",
+      "meaning": "A state of physical weariness or low energy, especially when caused by tiredness or boredom.",
+      "nuance": "It suggests a heavy, listless feeling rather than ordinary tiredness. The word has a formal, often literary tone.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "End of a long shift · winding down",
+          "sentence": "The afternoon meeting was so draining that everyone showed signs of lassitude.",
+          "highlight": "lassitude",
+          "tip": "Use it for weariness that seems to affect both body and motivation."
+        },
+        {
+          "setting": "social",
+          "where": "After a formal dinner · quiet conversation",
+          "sentence": "Her lassitude disappeared as soon as the live music began.",
+          "highlight": "lassitude",
+          "tip": "It can create a polished, slightly dramatic effect in social conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel diary · describing a slow journey",
+          "sentence": "Heat, traffic and a long wait for the ferry filled me with lassitude.",
+          "highlight": "lassitude",
+          "tip": "Choose a specific cause when using it in descriptive writing."
+        }
+      ],
+      "origin": {
+        "summary": "Borrowed from French lassitude, which came from Latin lassitudo, meaning weariness or tiredness.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Lassitudo, ‘weariness, lassitude’, developed from lassus, ‘tired or weary’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The French form enters English, initially as a medical or scholarly term."
+          },
+          {
+            "when": "Today",
+            "text": "Used in formal writing for physical weariness or listlessness."
+          }
+        ]
+      },
+      "similar": [
+        "weariness",
+        "fatigue",
+        "listlessness",
+        "lethargy"
+      ],
+      "opposite": "vitality",
+      "pitfall": "Lassitude is more than feeling sleepy: it can also suggest exhaustion, boredom or a lack of interest in what is happening."
+    },
+    {
+      "id": "lethargic",
+      "kind": "word",
+      "term": "lethargic",
+      "pos": "adjective",
+      "phonetic": "/ləˈθɑːrdʒɪk/",
+      "sayIt": "luh-THAR-jik",
+      "register": "Everyday",
+      "meaning": "Showing very little energy, movement, or interest in doing anything.",
+      "nuance": "It suggests a noticeable lack of energy or motivation, often lasting for some time. It can describe a person’s mood, behaviour, or an unusually slow pace of activity.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · low participation",
+          "sentence": "The team became lethargic after lunch and barely discussed the new proposal.",
+          "highlight": "lethargic",
+          "tip": "Use it for a persistent lack of energy, not simply a few quiet minutes."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans · cancelling an activity",
+          "sentence": "I felt lethargic after a long week and decided to stay home instead.",
+          "highlight": "lethargic",
+          "tip": "A natural way to explain low motivation without sounding dramatic."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · describing progress",
+          "sentence": "His lethargic approach to the project delayed several important decisions.",
+          "highlight": "lethargic",
+          "tip": "Use it carefully in criticism because it can sound blunt about someone’s character."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek lethargia, meaning drowsiness or a state of forgetfulness, and entered English through Latin and French.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "The word was associated with drowsiness, numbness, and a passive or forgetful state."
+          },
+          {
+            "when": "Middle Ages",
+            "text": "Latin and French forms referring to drowsiness or deep sleep entered English."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "English usage expanded to include physical slowness and a lack of activity or interest."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes a person, mood, or approach that lacks energy."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "lethargy",
+          "label": "noun"
+        },
+        {
+          "term": "lethargically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "listless",
+        "sluggish",
+        "drowsy",
+        "inactive"
+      ],
+      "opposite": "energetic",
+      "pitfall": "Don’t use lethargic as a medical diagnosis; listless may be a gentler alternative for mild low energy."
+    },
+    {
+      "id": "levity",
+      "kind": "word",
+      "term": "levity",
+      "pos": "noun",
+      "phonetic": "/ˈlɛvəti/",
+      "sayIt": "LEV-uh-tee",
+      "register": "Formal and literary",
+      "meaning": "Lighthearted amusement, especially during a serious or tense situation.",
+      "nuance": "It suggests humour that eases tension or keeps people from becoming too solemn. It can sound slightly formal and is often used when describing remarks, conversation or atmosphere.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · easing tension",
+          "sentence": "Her levity helped the team relax after a difficult morning of reviewing customer complaints.",
+          "highlight": "levity",
+          "tip": "Use it for humour that brings people together without dismissing the problem."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · after a serious announcement",
+          "sentence": "His playful levity lightened the mood without making light of what had happened.",
+          "highlight": "levity",
+          "tip": "It often describes a playful tone that relieves an awkward or heavy moment."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing a formal event",
+          "sentence": "The speaker combined a serious message with flashes of levity that kept the audience engaged.",
+          "highlight": "levity",
+          "tip": "It works well in reviews, profiles and reports when describing a change in tone."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin levitas, meaning lightness, and ultimately levis, meaning light or not heavy.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Levitas means lightness and comes from levis, meaning light or not heavy."
+          },
+          {
+            "when": "1400s",
+            "text": "The word enters English and initially refers to lightness of weight or character."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means lighthearted amusement, often in a serious setting."
+          }
+        ]
+      },
+      "similar": [
+        "lightheartedness",
+        "humour",
+        "playfulness",
+        "mirth"
+      ],
+      "opposite": "seriousness",
+      "pitfall": "Levity is usually a noun; don’t use it to mean a light or weightless object."
+    }
+  ]
+}

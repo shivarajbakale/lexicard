@@ -1,0 +1,1697 @@
+{
+  "id": "words-praise-criticism-2",
+  "kind": "word",
+  "name": "Praise & criticism · 2",
+  "blurb": "25 words about praise & criticism",
+  "cards": [
+    {
+      "id": "fiasco",
+      "kind": "word",
+      "term": "fiasco",
+      "pos": "noun",
+      "phonetic": "/fiˈæskoʊ/",
+      "sayIt": "fee-AS-koh",
+      "register": "Common in writing and conversation",
+      "meaning": "A complete failure, especially one that is public, embarrassing, or much worse than expected.",
+      "nuance": "It often suggests a situation that ends in chaos or humiliation. It is usually more dramatic than simply saying something failed, so reserve it for a major mishap.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · launch disaster",
+          "sentence": "The presentation crashed twice, and the whole client meeting became a fiasco.",
+          "highlight": "fiasco",
+          "tip": "Use it for a major professional failure, not an ordinary delay or setback."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · hosting mishap",
+          "sentence": "We burned the roast, spilled the wine, and turned our dinner party into a fiasco.",
+          "highlight": "fiasco",
+          "tip": "It adds a note of embarrassment and mild amusement when describing a social mishap."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · analysing an event",
+          "sentence": "The poorly organised festival was widely described as a fiasco after thousands of visitors were turned away.",
+          "highlight": "fiasco",
+          "tip": "It works well in journalism and criticism when the scale of the failure is clear."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Italian fiasco, which originally referred to a bottle or flask. Its path to the modern meaning is not fully certain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Italian",
+            "text": "Fiasco originally meant a bottle or flask, probably from a regional word connected with flask."
+          },
+          {
+            "when": "1800s",
+            "text": "The word appears in English, initially in contexts associated with breakdown or failure."
+          },
+          {
+            "when": "Today",
+            "text": "It means a conspicuous, often embarrassing, complete failure."
+          }
+        ]
+      },
+      "similar": [
+        "debacle",
+        "disaster",
+        "botch",
+        "shambles"
+      ],
+      "opposite": "success",
+      "pitfall": "Don't use fiasco for a small inconvenience or an ordinary mistake; it implies a serious and often public failure."
+    },
+    {
+      "id": "flagrant",
+      "kind": "word",
+      "term": "flagrant",
+      "pos": "adjective",
+      "phonetic": "/ˈfleɪɡrənt/",
+      "sayIt": "FLAY-grunt",
+      "register": "Common at work",
+      "meaning": "So obvious or shocking that it is difficult to ignore.",
+      "nuance": "Strongly negative and often used for behaviour that is deliberately outrageous or openly unacceptable. It can also describe an obvious mistake or unfairness.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · addressing repeated misconduct",
+          "sentence": "Ignoring the safety report was flagrant, and someone needs to explain why.",
+          "highlight": "flagrant",
+          "tip": "Strong language for conduct that is openly wrong and impossible to excuse."
+        },
+        {
+          "setting": "social",
+          "where": "Group chat · reacting to bad manners",
+          "sentence": "Leaving without saying goodbye was flagrant, especially after she had travelled all that way.",
+          "highlight": "flagrant",
+          "tip": "Works for social behaviour that others find especially rude or outrageous."
+        },
+        {
+          "setting": "writing",
+          "where": "Complaint letter · describing unfair treatment",
+          "sentence": "The company made a flagrant attempt to shift the blame onto junior staff.",
+          "highlight": "flagrant",
+          "tip": "Use it when you want to stress that the behaviour was conspicuous as well as wrong."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin flagrare, meaning ‘to blaze’ or ‘to burn’, which developed into the idea of something standing out openly.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "flagrare means ‘to blaze’ and ‘to burn with a glaring light’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English and begins to mean openly scandalous or shocking."
+          },
+          {
+            "when": "Today",
+            "text": "It describes behaviour, actions or mistakes that are glaringly wrong or impossible to overlook."
+          }
+        ]
+      },
+      "similar": [
+        "blatant",
+        "glaring",
+        "brazen",
+        "egregious"
+      ],
+      "opposite": "subtle",
+      "pitfall": "Use flagrant for something openly outrageous; egregious is often better for an extreme example that is serious but may not have been intended for attention."
+    },
+    {
+      "id": "flashy",
+      "kind": "word",
+      "term": "flashy",
+      "pos": "adjective",
+      "phonetic": "/ˈflæʃi/",
+      "sayIt": "FLASH-ee",
+      "register": "Everyday",
+      "meaning": "Designed to attract attention through bright colours, bold details, or an impressive display.",
+      "nuance": "Often suggests that something is eye-catching but perhaps too showy or not very practical. It can also describe something impressively fast or powerful.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Design review · comparing presentations",
+          "sentence": "The dashboard looked flashy, but the team preferred the simpler version people could understand quickly.",
+          "highlight": "flashy",
+          "tip": "Useful when describing a polished design that may prioritise appearance over usability."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception · noticing an outfit",
+          "sentence": "Her metallic jacket was flashy, but she wore it with confidence and kept the rest of her outfit simple.",
+          "highlight": "flashy",
+          "tip": "Use it when you want to comment on bold style without directly criticising it."
+        },
+        {
+          "setting": "writing",
+          "where": "Product review · describing packaging",
+          "sentence": "The packaging is flashy and colourful, although the product inside looks fairly ordinary.",
+          "highlight": "flashy",
+          "tip": "It works well for describing visual style, displays or features that grab attention."
+        }
+      ],
+      "origin": {
+        "summary": "Likely formed in the early 1800s by adding the suffix -y to flash, which referred to a sudden display of light or attention.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Flash is already used for a brief burst of light, a sudden display, or something that attracts attention."
+          },
+          {
+            "when": "Early 1800s",
+            "text": "Flashy likely develops as an adjective meaning bright, showy or ostentatious."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes colourful, attention-grabbing style or displays."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "flash",
+          "label": "verb"
+        },
+        {
+          "term": "flash",
+          "label": "noun"
+        },
+        {
+          "term": "flashiness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "showy",
+        "ostentatious",
+        "gaudy",
+        "eye-catching"
+      ],
+      "opposite": "understated",
+      "pitfall": "Flashy does not always mean badly made; it mainly focuses on visual impact or attention-grabbing style."
+    },
+    {
+      "id": "flay",
+      "kind": "word",
+      "term": "flay",
+      "pos": "verb",
+      "phonetic": "/fleɪ/",
+      "sayIt": "FLAY",
+      "register": "Formal; literary",
+      "meaning": "To criticize someone or something very harshly, exposing every weakness.",
+      "nuance": "It is stronger and more dramatic than criticize or attack, suggesting an attack designed to leave no defense. It can also literally mean to strip skin from an animal or person, though that use is uncommon and often unsettling.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · questioning a proposal",
+          "sentence": "The director proceeded to flay the proposal for ignoring the budget and the deadline.",
+          "highlight": "flay",
+          "tip": "This is forceful criticism, so use it when the tone is deliberately harsh."
+        },
+        {
+          "setting": "social",
+          "where": "Argument with friends · defending a choice",
+          "sentence": "Why are you flaying me for choosing the cheaper restaurant when you said money was tight?",
+          "highlight": "flaying",
+          "tip": "It can sound exaggerated or theatrical, which makes it useful in an emotional argument."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · evaluating a film",
+          "sentence": "The essay does more than challenge the film; it flays the director’s claim of authenticity.",
+          "highlight": "flays",
+          "tip": "The metaphor is vivid in criticism, but it may sound excessive in a polite review."
+        }
+      ],
+      "origin": {
+        "summary": "From Old English fleyan, meaning to strip skin, probably related to a word for a wooden board or a piece of wood; the figurative sense of severe criticism developed later.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The word referred to stripping skin from an animal or person."
+          },
+          {
+            "when": "1600s",
+            "text": "The figurative sense began to mean attacking someone’s conduct or work severely."
+          },
+          {
+            "when": "Today",
+            "text": "Usually appears as flay someone or something, meaning to criticize it harshly."
+          }
+        ]
+      },
+      "similar": [
+        "criticize",
+        "dissect",
+        "attack",
+        "savage"
+      ],
+      "opposite": "praise",
+      "pitfall": "Don’t confuse it with flaunt, which means to display something proudly, or with fray, which means to become worn or unravel."
+    },
+    {
+      "id": "florid",
+      "kind": "word",
+      "term": "florid",
+      "pos": "adjective",
+      "phonetic": "/ˈflɒrɪd/",
+      "sayIt": "FLOR-id",
+      "register": "Formal and literary",
+      "meaning": "Too elaborate, ornate or decorative for the purpose.",
+      "nuance": "It often criticises writing, speech or design that seems crowded with unnecessary detail. It can also describe a ruddy, healthy-looking face, though this use is less common.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Design review · simplifying slides",
+          "sentence": "The florid illustrations distract from the data, so let’s simplify them.",
+          "highlight": "florid",
+          "tip": "Use it when decoration overwhelms clarity or professional restraint."
+        },
+        {
+          "setting": "social",
+          "where": "At a party · reacting to a speech",
+          "sentence": "His welcome was florid, but everyone understood that he was sincere.",
+          "highlight": "florid",
+          "tip": "This use suggests grand language that may sound exaggerated or overly enthusiastic."
+        },
+        {
+          "setting": "writing",
+          "where": "Editing a novel · trimming a description",
+          "sentence": "The passage is florid; three plain images would make it stronger.",
+          "highlight": "florid",
+          "tip": "Often used in editorial feedback for writing that needs to be less showy."
+        }
+      ],
+      "origin": {
+        "summary": "From the Latin floridus, meaning ‘flowering’ or ‘bright red’, and later used to describe elaborate decoration.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin floridus, from flos, means ‘flower’ or ‘bloom’."
+          },
+          {
+            "when": "1600s",
+            "text": "English uses florid for richly decorated writing, speech or design."
+          },
+          {
+            "when": "1800s",
+            "text": "The adjective also comes to mean having a ruddy, healthy-looking complexion."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "floridly",
+          "label": "adverb"
+        },
+        {
+          "term": "floridity",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "ornate",
+        "elaborate",
+        "embellished",
+        "baroque"
+      ],
+      "opposite": "plain",
+      "pitfall": "Do not confuse it with flourished, which can mean became successful or was displayed prominently."
+    },
+    {
+      "id": "fulsome",
+      "kind": "word",
+      "term": "fulsome",
+      "pos": "adjective",
+      "phonetic": "/ˈfʊlsəm/",
+      "sayIt": "FOOL-sum",
+      "register": "Formal",
+      "meaning": "Generous or abundant to an excessive degree, especially when praising or expressing something.",
+      "nuance": "It can suggest a warm, abundant response, but it often implies that praise or emotion is overstated. Context determines whether it sounds generous or inflated.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · recognizing strong work",
+          "sentence": "Her fulsome praise lifted the whole team, although some colleagues wondered whether it was exaggerated.",
+          "highlight": "fulsome",
+          "tip": "Useful when you want to show that praise feels excessive or unusually generous."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception · giving a toast",
+          "sentence": "He offered a fulsome toast that had everyone laughing before the newlyweds could even respond.",
+          "highlight": "fulsome",
+          "tip": "It often adds a slightly humorous or ironic tone when describing exaggerated praise."
+        },
+        {
+          "setting": "writing",
+          "where": "Recommendation letter · supporting a colleague",
+          "sentence": "I cannot recommend her more highly; her support for our project was fulsome and genuinely valuable.",
+          "highlight": "fulsome",
+          "tip": "In formal writing, pair it with something concrete so the praise does not seem merely inflated."
+        }
+      ],
+      "origin": {
+        "summary": "The word developed from an Old English adjective related to full, originally conveying abundance. Its modern sense can suggest excess, especially in praise or emotional expression.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "An adjective formed from full and the suffix -some, with the sense of abundant or plentiful."
+          },
+          {
+            "when": "Middle English",
+            "text": "Used for qualities or amounts that were abundant."
+          },
+          {
+            "when": "1600s",
+            "text": "The sense of excess or overstatement becomes established."
+          }
+        ]
+      },
+      "similar": [
+        "abundant",
+        "extravagant",
+        "excessive",
+        "effusive"
+      ],
+      "opposite": "measured",
+      "pitfall": "Do not confuse fulsome with wholesome, which means healthy or beneficial. Fulsome praise can also be sincere, so the word does not always mean false or insincere."
+    },
+    {
+      "id": "gaudy",
+      "kind": "word",
+      "term": "gaudy",
+      "pos": "adjective",
+      "phonetic": "/ˈɡɔːdi/",
+      "sayIt": "GAW-dee",
+      "register": "Common",
+      "meaning": "Too bright, colourful, or decorated to look tasteful.",
+      "nuance": "It criticises something as flashy or excessive, often suggesting that its appearance hides poor taste rather than beauty.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Design review · reviewing a presentation",
+          "sentence": "The bright colours and oversized graphics made the campaign look gaudy rather than premium.",
+          "highlight": "gaudy",
+          "tip": "Use it to criticise decoration or colour that feels excessive."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception · describing an outfit",
+          "sentence": "Her sequined dress was colourful and fun, but some people thought it was gaudy.",
+          "highlight": "gaudy",
+          "tip": "It can sound harsh, so consider the listener and how directly you are giving an opinion."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · evaluating a new product",
+          "sentence": "Although the phone works well, its gaudy casing makes it look less refined than competing models.",
+          "highlight": "gaudy",
+          "tip": "Pair it with design, colours, outfit or decoration to make the criticism clear."
+        }
+      ],
+      "origin": {
+        "summary": "Gaudy probably developed from the older word gaud, meaning a piece of jewellery or a bright ornament, before gaining its modern negative sense.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Gaud referred to jewellery, decoration or a brightly coloured ornament."
+          },
+          {
+            "when": "1600s",
+            "text": "Gaudy began appearing in English as an adjective describing showy or brilliant things."
+          },
+          {
+            "when": "Today",
+            "text": "It usually means excessively showy and lacking taste."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "gaudily",
+          "label": "adverb"
+        },
+        {
+          "term": "gaudiness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "garish",
+        "flashy",
+        "showy",
+        "lurid",
+        "tasteless"
+      ],
+      "opposite": "understated",
+      "pitfall": "Gaudy describes something judged to be excessively bright or showy; it is not simply a synonym for colourful or decorative."
+    },
+    {
+      "id": "gratuitous",
+      "kind": "word",
+      "term": "gratuitous",
+      "pos": "adjective",
+      "phonetic": "/ɡrəˈtjuːɪtəs/",
+      "sayIt": "gra-TOO-ee-tus",
+      "register": "Formal",
+      "meaning": "Unnecessary, unwarranted, and not justified by any good reason.",
+      "nuance": "It often describes harm, insults, or attention to detail that serves no purpose. It can also mean simply unwanted or excessive.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team feedback · reviewing a proposal",
+          "sentence": "The slide includes several gratuitous comments about the intern’s handwriting.",
+          "highlight": "gratuitous",
+          "tip": "Use it for criticism or remarks that add no value."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · reacting to an argument",
+          "sentence": "His gratuitous remark about her appearance turned a quiet dinner into an awkward scene.",
+          "highlight": "gratuitous",
+          "tip": "It emphasizes that the remark was needlessly rude or hurtful."
+        },
+        {
+          "setting": "writing",
+          "where": "Complaint letter · describing harassment",
+          "sentence": "The report alleges that staff received gratuitous threats unrelated to their work.",
+          "highlight": "gratuitous",
+          "tip": "A strong formal word for behaviour that is hostile and lacks justification."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin gratuitus, meaning ‘free’ or ‘without cost’, which developed into the sense of ‘unfounded’ or ‘without reason’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Gratuitus originally meant ‘free’ or ‘given without charge’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered English and began to mean unwarranted or unnecessary."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes harm, criticism, or detail that has no good reason behind it."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "gratuitously",
+          "label": "adverb"
+        },
+        {
+          "term": "gratuity",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "unnecessary",
+        "unwarranted",
+        "unprovoked",
+        "excessive"
+      ],
+      "opposite": "warranted",
+      "pitfall": "Don’t confuse it with ‘gracious’, which means polite, kind, or thankful."
+    },
+    {
+      "id": "heinous",
+      "kind": "word",
+      "term": "heinous",
+      "pos": "adjective",
+      "phonetic": "/ˈhiːnəs/",
+      "sayIt": "HEE-nus",
+      "register": "Formal; strong",
+      "meaning": "Extremely evil, cruel, or objectionable.",
+      "nuance": "This is a forceful word for something seriously wrong, especially an act that harms others or violates basic moral standards. It is more common in formal speech and writing than in everyday conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · reporting misconduct",
+          "sentence": "The manager’s decision to blame an absent employee was heinous and completely unfair.",
+          "highlight": "heinous",
+          "tip": "Use it for conduct that is exceptionally harmful or morally shocking."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · describing a cruel act",
+          "sentence": "She was horrified by the heinous treatment of the animals.",
+          "highlight": "heinous",
+          "tip": "It adds strong moral disapproval, so choose it only when the behaviour is truly extreme."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · condemning a serious abuse",
+          "sentence": "The report described the company’s refusal to protect vulnerable workers as a heinous failure.",
+          "highlight": "heinous",
+          "tip": "It works well in formal writing when you want to convey grave moral condemnation."
+        }
+      ],
+      "origin": {
+        "summary": "Recorded in English by the 1400s, from Old French hainos, meaning hateful or detestable, ultimately linked to Germanic roots associated with harm and hostility.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Medieval period",
+            "text": "The word develops through Old French and Medieval Latin forms meaning hateful, harmful or detestable."
+          },
+          {
+            "when": "1400s",
+            "text": "It appears in English with the sense of extremely wicked or hateful."
+          },
+          {
+            "when": "Today",
+            "text": "It is used to describe acts or conduct that are exceptionally cruel or morally shocking."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "heinously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "egregious",
+        "atrocious",
+        "abhorrent",
+        "monstrous"
+      ],
+      "opposite": "commendable",
+      "pitfall": "Do not use it merely as a softer substitute for “bad”; its force is closer to “extremely evil or shocking.”"
+    },
+    {
+      "id": "ignominious",
+      "kind": "word",
+      "term": "ignominious",
+      "pos": "adjective",
+      "phonetic": "/ɪɡˈnɒmɪniəs/",
+      "sayIt": "ig-NOM-ih-nee-uss",
+      "register": "Formal",
+      "meaning": "So shameful or disgraceful that it causes public humiliation.",
+      "nuance": "Stronger and more formal than “shameful.” It is often used for scandals, defeats or conduct that damages someone’s reputation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company meeting · discussing a public failure",
+          "sentence": "The board considered the handling of the data breach deeply ignominious and demanded a full investigation.",
+          "highlight": "ignominious",
+          "tip": "Use it for a failure that is not merely bad but humiliating and damaging to reputation."
+        },
+        {
+          "setting": "social",
+          "where": "Argument with friends · reacting to an apology",
+          "sentence": "He called her excuse for missing the wedding an ignominious attempt to shift the blame.",
+          "highlight": "ignominious",
+          "tip": "It sounds severe, so reserve it for especially disgraceful behaviour."
+        },
+        {
+          "setting": "writing",
+          "where": "History essay · describing a military defeat",
+          "sentence": "The retreat became an ignominious disaster after the troops lost their supplies and lost contact with headquarters.",
+          "highlight": "ignominious",
+          "tip": "The word fits serious historical writing, especially when describing defeat, scandal or humiliation."
+        }
+      ],
+      "origin": {
+        "summary": "From the Latin ignominiosus, meaning “disgraceful” or “dishonourable,” based on ignominia, a word associated with loss of reputation.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Ignominia referred to disgrace or the loss of a good name before honour."
+          },
+          {
+            "when": "Early 1500s",
+            "text": "The adjective enters English in formal descriptions of shame and disgrace."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a strong, formal word for something profoundly shameful."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "ignominy",
+          "label": "noun"
+        },
+        {
+          "term": "ignominiously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "shameful",
+        "disgraceful",
+        "humiliating",
+        "infamous"
+      ],
+      "opposite": "honourable",
+      "pitfall": "Do not confuse it with “innominious,” which is very rare and can mean unnamed or undistinguished."
+    },
+    {
+      "id": "impeccable",
+      "kind": "word",
+      "term": "impeccable",
+      "pos": "adjective",
+      "phonetic": "/ɪmˈpekəbəl/",
+      "sayIt": "im-PEK-uh-buhl",
+      "register": "Formal",
+      "meaning": "Completely faultless, with no mistakes or flaws.",
+      "nuance": "This is a strong, formal compliment, often used for behaviour, work, taste or performance. It suggests that nothing could reasonably be criticised.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client presentation · showcasing a proposal",
+          "sentence": "Her presentation was impeccable, with clear slides, accurate figures, and no technical glitches.",
+          "highlight": "impeccable",
+          "tip": "Stronger than ‘good’ or ‘excellent’; use it when you mean flawless."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · meeting the host’s guests",
+          "sentence": "His manners at the dinner were impeccable, so nobody felt uncomfortable.",
+          "highlight": "impeccable",
+          "tip": "Often describes etiquette, conduct or hospitality with polished formality."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · praising a colleague’s work",
+          "sentence": "The report is impeccable: every claim is sourced, and every figure has been checked.",
+          "highlight": "impeccable",
+          "tip": "Works well in reviews and recommendations when the praise is emphatic."
+        }
+      ],
+      "origin": {
+        "summary": "From French impeccable, which came from Latin impeccabilis, meaning ‘blameless’ or ‘faultless’. The Latin prefix in- means ‘not’, and peccare means ‘to sin’ or ‘make an error’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Impeccabilis develops from roots meaning ‘not’ and ‘to sin’, giving the sense ‘blameless’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English through French, initially meaning beyond blame or criticism."
+          },
+          {
+            "when": "1800s onward",
+            "text": "It becomes common in the modern sense of being completely free from faults or mistakes."
+          }
+        ]
+      },
+      "similar": [
+        "flawless",
+        "faultless",
+        "perfect",
+        "spotless",
+        "immaculate"
+      ],
+      "opposite": "flawed",
+      "pitfall": "Reserve it for something genuinely outstanding; using it for merely good work can sound exaggerated or insincere."
+    },
+    {
+      "id": "infamous",
+      "kind": "word",
+      "term": "infamous",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈfɔːməs/",
+      "sayIt": "in-FAM-us",
+      "register": "Common at work",
+      "meaning": "Known or talked about for something bad or shameful.",
+      "nuance": "The word strongly suggests a bad reputation, whether or not the accusation is true. It can be more forceful than “notorious” and is often used in reporting or criticism.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · reviewing a failed project",
+          "sentence": "The team avoided another disastrous launch after the previous release became infamous for crashing on every device.",
+          "highlight": "infamous",
+          "tip": "Use it when a bad reputation is central to the story."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · recommending a restaurant",
+          "sentence": "That tiny bakery has an infamous hot sauce, but the sandwiches are excellent.",
+          "highlight": "infamous",
+          "tip": "It adds a humorous note when something is notorious for a memorable trait."
+        },
+        {
+          "setting": "writing",
+          "where": "Article · introducing a controversial figure",
+          "sentence": "The politician became infamous for public disputes with members of her own party.",
+          "highlight": "infamous",
+          "tip": "It works well in formal writing when describing a widely known negative reputation."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin infamis, meaning “notorious” or “of bad reputation,” formed from in-, meaning “not,” and fama, meaning “reputation” or “fame.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Infamis originally meant “notorious” or “held in ill repute.”"
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English in legal, literary and historical contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for people, places, events and things known for something bad."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "infamy",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "notorious",
+        "disreputable",
+        "famous",
+        " infamousness"
+      ],
+      "opposite": "widely respected",
+      "pitfall": "Don’t use it simply to mean “not famous.” It normally carries a clear suggestion of shame, wrongdoing or a memorable negative quality."
+    },
+    {
+      "id": "lackluster",
+      "kind": "word",
+      "term": "lackluster",
+      "pos": "adjective",
+      "phonetic": "/ˈlæk.lʌs.tər/",
+      "sayIt": "LAK-lus-ter",
+      "register": "Common at work",
+      "meaning": "Not bright, energetic, or impressive enough to create enthusiasm.",
+      "nuance": "It criticises something for being dull or disappointing without suggesting that it is a complete failure. It often sounds measured and professional.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · assessing a project",
+          "sentence": "The launch was lackluster, with few customers engaging beyond the first week.",
+          "highlight": "lackluster",
+          "tip": "Use it when results were disappointing but not disastrous."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · reviewing a concert",
+          "sentence": "The second half felt lackluster after such an energetic opening.",
+          "highlight": "lackluster",
+          "tip": "It works naturally for events that began well but faded."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a manager · requesting feedback",
+          "sentence": "The first draft was lackluster, so I added a stronger opening and clearer examples.",
+          "highlight": "lackluster",
+          "tip": "Use it to describe work without sounding overly harsh."
+        }
+      ],
+      "origin": {
+        "summary": "Formed in English by combining “lack” with “luster,” the word literally describes something without brightness or shine.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "Lackluster first appears in English, joining “lack” with “luster.”"
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "Its meaning broadens from a lack of brightness or polish to a lack of energy or impact."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly used to describe dull, disappointing, or uninspiring work and events."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "luster",
+          "label": "noun"
+        },
+        {
+          "term": "lustre",
+          "label": "noun (British spelling)"
+        }
+      ],
+      "similar": [
+        "dull",
+        "lifeless",
+        "uninspiring",
+        "mediocre"
+      ],
+      "opposite": "vibrant",
+      "pitfall": "In British English, “lacklustre” with a final “e” is also common."
+    },
+    {
+      "id": "laudable",
+      "kind": "word",
+      "term": "laudable",
+      "pos": "adjective",
+      "phonetic": "/ˈlɔːdəbəl/",
+      "sayIt": "LAW-duh-buhl",
+      "register": "Formal",
+      "meaning": "Deserving praise or approval because something is done well or has a good effect.",
+      "nuance": "It sounds positive and respectful, especially when discussing actions, efforts or decisions. It is more formal than simply saying something is good.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing a colleague’s contribution",
+          "sentence": "Her decision to document the problem clearly was laudable, even though the project was behind schedule.",
+          "highlight": "laudable",
+          "tip": "Use it for an action or choice that deserves recognition, not just for a person in general."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · thanking a friend for helping",
+          "sentence": "It was laudable of you to check on your neighbour when the storm arrived.",
+          "highlight": "laudable",
+          "tip": "A slightly formal but warm way to praise considerate behaviour."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · explaining a positive result",
+          "sentence": "The team made a laudable effort to reduce delays while keeping quality high.",
+          "highlight": "laudable",
+          "tip": "It works well before a noun such as effort, initiative, contribution or response."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin laudabilis, meaning ‘praiseworthy’, based on laudare, ‘to praise’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Laudabilis means ‘worthy of praise’, from laudare, ‘to praise’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English in formal praise-related contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It means deserving praise for good actions or qualities."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "laudably",
+          "label": "adverb"
+        },
+        {
+          "term": "laudation",
+          "label": "noun"
+        },
+        {
+          "term": "laudatory",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "commendable",
+        "praiseworthy",
+        "admirable",
+        "creditworthy"
+      ],
+      "opposite": "deplorable",
+      "pitfall": "Laudable describes something worthy of praise; laudatory usually means containing praise, as in a laudatory speech."
+    },
+    {
+      "id": "modest",
+      "kind": "word",
+      "term": "modest",
+      "pos": "adjective",
+      "phonetic": "/ˈmɒdɪst/",
+      "sayIt": "MOD-ist",
+      "register": "Common at work",
+      "meaning": "Not showing or claiming more ability, importance, wealth or achievement than you really have.",
+      "nuance": "It can describe someone who is humble and unshowy, or something that is fairly small in size, scope or value. It is often complimentary, but can also suggest that someone is being too self-effacing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing a successful project",
+          "sentence": "She was modest about the praise and gave most of the credit to the team.",
+          "highlight": "modest",
+          "tip": "Use it to describe someone handling success with humility rather than boasting."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · introducing a new restaurant",
+          "sentence": "The place is modest, but the food is excellent and the prices are reasonable.",
+          "highlight": "modest",
+          "tip": "Use it when something is simple, small or unpretentious without sounding negative."
+        },
+        {
+          "setting": "writing",
+          "where": "Project summary · explaining the scale of a result",
+          "sentence": "Although the pilot produced a modest improvement, it gave us useful information for the next stage.",
+          "highlight": "modest",
+          "tip": "Use it to describe a limited or relatively small amount without exaggerating it."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin modestus, meaning ‘moderate’ or ‘within proper limits’. The word originally described behaviour that stayed within suitable bounds and later developed the sense of being humble or unshowy.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "modestus, meaning ‘moderate’ or ‘within proper limits’, related to modus, ‘measure’ or ‘manner’."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "Enters English with meanings connected with moderation, restraint and suitable behaviour."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly describes humility, unpretentiousness or a relatively small result."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "modesty",
+          "label": "noun"
+        },
+        {
+          "term": "modestly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "humble",
+        "unassuming",
+        "moderate",
+        "discreet"
+      ],
+      "opposite": "boastful",
+      "pitfall": "Don’t confuse modest with modestate; modest can describe both a person’s manner and the size or scale of something."
+    },
+    {
+      "id": "nondescript",
+      "kind": "word",
+      "term": "nondescript",
+      "pos": "adjective",
+      "phonetic": "/ˌnɒndɪˈskrɪpt/",
+      "sayIt": "non-de-SKRIPT",
+      "register": "Formal",
+      "meaning": "Lacking distinctive or memorable features; ordinary and hard to describe specifically.",
+      "nuance": "Often used for buildings, objects or places that blend into their surroundings. It is more neutral than bland, though it can imply that something is dull.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office tour · showing a visitor around",
+          "sentence": "We have converted the nondescript meeting room into a bright, flexible workspace.",
+          "highlight": "nondescript",
+          "tip": "Useful when describing a place that looks ordinary without sounding insulting."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend walk · discussing a neighbourhood",
+          "sentence": "The café had a nondescript exterior, but the food was excellent.",
+          "highlight": "nondescript",
+          "tip": "Common when describing a modest frontage or an unremarkable-looking venue."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel notes · reviewing a hotel",
+          "sentence": "The hotel is nondescript, with simple rooms and no distinctive design.",
+          "highlight": "nondescript",
+          "tip": "It fits formal descriptions when you want to emphasise plainness or lack of character."
+        }
+      ],
+      "origin": {
+        "summary": "Built from Latin non-, meaning ‘not’, and English descript, from Latin describere, meaning ‘to describe’. The combination means ‘not describable in a distinctive way’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "describere means ‘to describe’, with the past participle descriptus."
+          },
+          {
+            "when": "1800s",
+            "text": "nondescript appears in English, initially meaning ‘not distinctive’."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used for places, objects or features that look ordinary or unremarkable."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "nondescriptly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "bland",
+        "ordinary",
+        "unremarkable",
+        "featureless"
+      ],
+      "opposite": "distinctive",
+      "pitfall": "It means lacking distinctive character, not that something cannot be described at all."
+    },
+    {
+      "id": "obloquy",
+      "kind": "word",
+      "term": "obloquy",
+      "pos": "noun",
+      "phonetic": "/ˈɒb.lə.kwi/",
+      "sayIt": "OB-lok-wee",
+      "register": "Formal",
+      "meaning": "Strong blame, criticism, or public disgrace directed at someone.",
+      "nuance": "It is a formal, forceful word, often suggesting that the criticism damages a person’s reputation as well as their character.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · defending a colleague",
+          "sentence": "She faced obloquy after the report suggested she had ignored repeated warnings.",
+          "highlight": "obloquy",
+          "tip": "Use it for unusually harsh criticism, especially when reputation is at stake."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · defending someone’s motives",
+          "sentence": "Her absence was treated as an insult, and she endured considerable obloquy from the family.",
+          "highlight": "obloquy",
+          "tip": "This formal word can add gravity when describing public blame or disgrace."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · condemning a public scandal",
+          "sentence": "Rather than explain the false claims, the minister allowed a cloud of obloquy to settle over his career.",
+          "highlight": "obloquy",
+          "tip": "It fits formal editorial writing better than everyday phrases such as “a wave of criticism.”"
+        }
+      ],
+      "origin": {
+        "summary": "From Latin obloquium, a word for speaking against someone, built from ob- ‘against’ and loqui ‘to speak’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "obloquium develops from obloqui, ‘to speak against or blame’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in formal senses connected with blame, disgrace and public criticism."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in literary, legal and historical writing."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "obloquious",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "vilification",
+        "censure",
+        "derision",
+        "disgrace"
+      ],
+      "opposite": "acclaim",
+      "pitfall": "This is a formal and relatively uncommon noun; do not use it as a general word for any mild criticism."
+    },
+    {
+      "id": "opprobrium",
+      "kind": "word",
+      "term": "opprobrium",
+      "pos": "noun",
+      "phonetic": "/əˈprəʊbriəm/",
+      "sayIt": "uh-PRO-bree-um",
+      "register": "Formal",
+      "meaning": "Public disgrace or severe criticism that damages someone’s reputation.",
+      "nuance": "This is a strong, formal word for shame brought on by others’ condemnation. It is often used in writing about public disgrace, political scandal, or serious moral criticism.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company announcement · apologising for misconduct",
+          "sentence": "The inaccurate report brought the organisation into opprobrium and forced the director to resign.",
+          "highlight": "opprobrium",
+          "tip": "Use it for serious disgrace at work, especially when the harm is public and reputation-altering."
+        },
+        {
+          "setting": "social",
+          "where": "Discussion of a public scandal",
+          "sentence": "She faced opprobrium after the committee found that she had concealed a serious safety risk.",
+          "highlight": "opprobrium",
+          "tip": "It sounds more severe than embarrassment and suggests public condemnation."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · condemning unethical conduct",
+          "sentence": "Rather than accept opprobrium, the charity published the evidence and allowed an independent review.",
+          "highlight": "opprobrium",
+          "tip": "A useful formal noun in arguments about accountability, integrity and public trust."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin opprobrium, meaning ‘disgrace’ or ‘infamy’, associated with reproach and public shame.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Opprobrium referred to disgrace, infamy, and the public shame attached to wrongdoing."
+          },
+          {
+            "when": "1600s",
+            "text": "The word began appearing in English in formal writing about disgrace and moral condemnation."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly formal and literary, expressing strong disapproval or reputational damage."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "opprobrious",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "disgrace",
+        "ignominy",
+        "obloquy",
+        "reproach"
+      ],
+      "opposite": "acclaim",
+      "pitfall": "This noun is usually preceded by ‘into’ or ‘faced’, not ‘under’: say ‘brought into opprobrium’, not ‘brought under opprobrium’."
+    },
+    {
+      "id": "ostentatious",
+      "kind": "word",
+      "term": "ostentatious",
+      "pos": "adjective",
+      "phonetic": "/ˌɒstenˈteɪʃəs/",
+      "sayIt": "os-ten-TAY-shus",
+      "register": "Everyday",
+      "meaning": "Deliberately designed to attract attention by being flashy, showy or excessive.",
+      "nuance": "Usually negative, suggesting that someone wants their status, wealth or success noticed. It can also describe bold displays intended to impress.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team presentation · unveiling a proposal",
+          "sentence": "The design was polished, but the oversized graphics felt ostentatious rather than useful.",
+          "highlight": "ostentatious",
+          "tip": "Use it to criticise attention-seeking style without directly attacking the person."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · noticing an outfit",
+          "sentence": "Her sequined jacket was stylish without being ostentatious.",
+          "highlight": "ostentatious",
+          "tip": "This sounds tactful when paired with a positive word such as stylish."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing an expensive car",
+          "sentence": "The car looked powerful, but its gold trim seemed ostentatious.",
+          "highlight": "ostentatious",
+          "tip": "Useful in reviews and profiles for describing displays of wealth or status."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin ostentatiousus, meaning ‘showing off’, based on ostendere, ‘to display’ or ‘show publicly’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Derived from ostentare, ‘to display publicly or show off’."
+          },
+          {
+            "when": "1600s",
+            "text": "The English form emerges with the sense of showing or displaying something conspicuously."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly describes flashy behaviour, clothing, design or displays intended to attract attention."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "ostentation",
+          "label": "noun"
+        },
+        {
+          "term": "ostentatiously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "showy",
+        "flamboyant",
+        "conspicuous",
+        "pretentious"
+      ],
+      "opposite": "understated",
+      "pitfall": "It describes a deliberate public display, so it may be too strong for something merely colourful or noticeable."
+    },
+    {
+      "id": "paragon",
+      "kind": "word",
+      "term": "paragon",
+      "pos": "noun",
+      "phonetic": "/ˈpærəɡɑːn/",
+      "sayIt": "PAR-uh-gon",
+      "register": "Formal",
+      "meaning": "A person or thing regarded as an outstanding model of a particular quality.",
+      "nuance": "This is a strong, often literary word for someone or something admired for excellence. It can sound overly grand in casual conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team appraisal · praising an employee",
+          "sentence": "Her calm leadership made her a paragon of good judgement under pressure.",
+          "highlight": "paragon",
+          "tip": "Use it for high, public praise rather than routine compliments at work."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding toast · praising a couple",
+          "sentence": "They are a paragon of teamwork, always supporting each other through every change.",
+          "highlight": "paragon",
+          "tip": "It works best with a clear quality, especially in a speech or heartfelt toast."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing an exceptional novel",
+          "sentence": "The novel is a paragon of tightly plotted crime fiction, without a wasted scene.",
+          "highlight": "paragon",
+          "tip": "Pair it with of plus the quality or type being praised."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek paragōn, meaning ‘a model for comparison’, and especially ‘one who sets an example’. It entered English through French and Latin.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Paragōn referred to a model used for comparison or imitation."
+          },
+          {
+            "when": "1500s",
+            "text": "Entered English through French and Latin in the sense of an outstanding example."
+          },
+          {
+            "when": "Today",
+            "text": "Usually praises someone or something as an ideal model of a quality."
+          }
+        ]
+      },
+      "similar": [
+        "exemplar",
+        "model",
+        "benchmark",
+        "touchstone"
+      ],
+      "opposite": "a poor example",
+      "pitfall": "Don’t use it for merely a good example; a paragon is someone or something outstandingly excellent."
+    },
+    {
+      "id": "pathetic",
+      "kind": "word",
+      "term": "pathetic",
+      "pos": "adjective",
+      "phonetic": "/pəˈθetɪk/",
+      "sayIt": "puh-THET-ik",
+      "register": "Informal and often insulting",
+      "meaning": "So weak, inadequate, or disappointing that it deserves contempt or ridicule.",
+      "nuance": "Today it usually expresses harsh criticism rather than simple sympathy. It can also sound theatrical or exaggerated, so use it carefully when speaking directly to people.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · reviewing a weak proposal",
+          "sentence": "The security check is pathetic; anyone could bypass it.",
+          "highlight": "pathetic",
+          "tip": "Use it for a clear, serious failing, but consider a more specific criticism in a formal workplace."
+        },
+        {
+          "setting": "social",
+          "where": "Complaining to a friend · a bad film",
+          "sentence": "That excuse is pathetic—everyone knows you forgot the meeting.",
+          "highlight": "pathetic",
+          "tip": "It fits informal teasing or frustration, but may embarrass you if the other person takes it personally."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · criticising a poor performance",
+          "sentence": "The defence was pathetic, with goal after goal conceded.",
+          "highlight": "pathetic",
+          "tip": "Pair it with the specific failure to make the criticism sound grounded rather than merely exaggerated."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek pathētikos, meaning able to suffer or arousing pity, and connected with pathos, suffering or emotion.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Pathētikos develops meanings connected with suffering, feeling, or arousing pity."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with the sense of expressive or emotional."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "Its meaning shifts toward something contemptibly poor or worthy of pity."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly an insulting word for something feeble or hopeless."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "pathetically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "pitiful",
+        "hopeless",
+        "inadequate",
+        "contemptible"
+      ],
+      "opposite": "impressive",
+      "pitfall": "It does not simply mean “emotional” or “moving.” In careful or formal writing, name the specific problem instead of calling it pathetic."
+    },
+    {
+      "id": "pompous",
+      "kind": "word",
+      "term": "pompous",
+      "pos": "adjective",
+      "phonetic": "/ˈpɒmpəs/",
+      "sayIt": "POM-pus",
+      "register": "Common in criticism",
+      "meaning": "Behaving as if you are more important than you really are, especially by using exaggerated language or showing off.",
+      "nuance": "It is usually a blunt criticism of someone’s self-important manner. It can also describe overly grand speech, writing or behaviour.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · reviewing a colleague’s introduction",
+          "sentence": "His pompous introduction made everyone uncomfortable, especially when he dismissed the support team’s work.",
+          "highlight": "pompous",
+          "tip": "Use this when describing a person’s needlessly self-important manner."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · introducing someone",
+          "sentence": "He was rather pompous about the restaurant, as though ordinary food had offended him.",
+          "highlight": "pompous",
+          "tip": "A softer alternative is “self-important” when you want less severity."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · mocking a corporate announcement",
+          "sentence": "The announcement was pompous and full of grand claims, but it offered no practical details.",
+          "highlight": "pompous",
+          "tip": "This works well for criticising inflated language or an overly grand tone."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin pomposus, meaning showy or magnificent, and connected with pomp, an elaborate public display.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Pomposus develops from pompa, meaning a procession or elaborate public display."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with meanings connected with ceremony, display and magnificence."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes speech or behaviour that seems self-important and exaggerated."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "pomposity",
+          "label": "noun"
+        },
+        {
+          "term": "pompously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "self-important",
+        "pretentious",
+        "grandiose",
+        "bombastic",
+        "ostentatious"
+      ],
+      "opposite": "modest",
+      "pitfall": "Don’t use it simply to describe someone who enjoys luxury or ceremony; it is more about exaggerated self-importance."
+    },
+    {
+      "id": "prestigious",
+      "kind": "word",
+      "term": "prestigious",
+      "pos": "adjective",
+      "phonetic": "/prɛˈstɪdʒəs/",
+      "sayIt": "pres-TIJ-uhss",
+      "register": "Common at work",
+      "meaning": "Respected and admired because of an organisation’s status, quality or influence.",
+      "nuance": "It is usually a strong compliment, especially for universities, employers, awards and events. It can sound slightly formal or imply that people value status as much as substance.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Conference · introducing a speaker",
+          "sentence": "We’re delighted to welcome a leading researcher from one of the field’s most prestigious institutions.",
+          "highlight": "prestigious",
+          "tip": "A polished way to praise an organisation or person’s standing."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding conversation · a university offer",
+          "sentence": "That’s a prestigious university, so you should be proud of the acceptance.",
+          "highlight": "prestigious",
+          "tip": "Common when describing universities, awards, jobs and famous places."
+        },
+        {
+          "setting": "writing",
+          "where": "Application · career history",
+          "sentence": "During my time at a prestigious design studio, I learned how to work closely with demanding clients.",
+          "highlight": "prestigious",
+          "tip": "Useful in applications and profiles, but explain what you achieved there."
+        }
+      ],
+      "origin": {
+        "summary": "It comes through French from Latin praestigiosus, originally connected with deception or conjuring, but English later used it for distinction and excellence.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Praestigiosus is formed from praestigiae, a word associated with deception or tricks."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English through French and is used for people or things regarded as distinguished."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means respected, important or admired because of status."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "prestige",
+          "label": "noun"
+        },
+        {
+          "term": "prestigiously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "distinguished",
+        "renowned",
+        "esteemed",
+        "acclaimed"
+      ],
+      "opposite": "disreputable",
+      "pitfall": "Don’t use it as a synonym for popular; an event can be prestigious without being widely attended."
+    },
+    {
+      "id": "prodigy",
+      "kind": "word",
+      "term": "prodigy",
+      "pos": "noun",
+      "phonetic": "/ˈprɒd.ə.dʒi/",
+      "sayIt": "PRO-duh-jee",
+      "register": "Everyday",
+      "meaning": "A person with exceptional talent or ability, especially a young person whose gifts are widely admired.",
+      "nuance": "It often suggests someone unusually gifted in a particular field, such as music or mathematics. It is strong praise and can sound slightly old-fashioned in casual conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · introducing a new colleague",
+          "sentence": "Our new data analyst is a prodigy who solved problems that had stumped the rest of us.",
+          "highlight": "prodigy",
+          "tip": "Use it for exceptional ability that others quickly noticed."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · discussing a child’s hobbies",
+          "sentence": "Her nephew is a musical prodigy; he has been playing the violin since he was four.",
+          "highlight": "prodigy",
+          "tip": "A natural choice when a child shows an extraordinary gift."
+        },
+        {
+          "setting": "writing",
+          "where": "Profile of a young musician",
+          "sentence": "By sixteen, the prodigy had already performed with several major orchestras.",
+          "highlight": "prodigy",
+          "tip": "It adds a note of admiration and youthful promise to a profile."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Latin prodigium, meaning “an omen” or “sign of something unusual,” and originally referred to a remarkable sign or portent. It later developed the sense of an exceptionally gifted person.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin prodigium referred to a portent, omen or extraordinary sign."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in religious and literary contexts for something miraculous or extraordinary."
+          },
+          {
+            "when": "1600s",
+            "text": "Its use develops toward the sense of an unusually gifted person."
+          },
+          {
+            "when": "Today",
+            "text": "It usually praises exceptional talent, especially in a young person."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "prodigious",
+          "label": "adjective"
+        },
+        {
+          "term": "prodigiously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "wunderkind",
+        "virtuoso",
+        "phenomenon",
+        "savant"
+      ],
+      "opposite": "underachiever",
+      "pitfall": "A prodigy is a person. Use prodigious for something remarkable in size, ability or effort, as in prodigious talent or prodigious amounts of work."
+    },
+    {
+      "id": "reproach",
+      "kind": "word",
+      "term": "reproach",
+      "pos": "verb",
+      "phonetic": "/rɪˈprəʊtʃ/",
+      "sayIt": "re-PROHCH",
+      "register": "Formal",
+      "meaning": "To criticise or express strong disapproval of someone’s behaviour or actions.",
+      "nuance": "It sounds stern and disapproving, suggesting that the other person has done something clearly wrong. It is more formal and more openly judgmental than simply saying someone has made a mistake.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing missed deadlines",
+          "sentence": "The director reproached the team for ignoring the warning signs.",
+          "highlight": "reproached",
+          "tip": "Use it for a serious, direct criticism, especially when speaking officially."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · apologising for poor treatment",
+          "sentence": "She reproached me for leaving without explaining, and she was right to.",
+          "highlight": "reproached",
+          "tip": "It can express personal hurt or anger, not just disapproval."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal complaint · explaining misconduct",
+          "sentence": "The report reproaches the company for failing to inform its customers about the risk.",
+          "highlight": "reproaches",
+          "tip": "The verb often takes an object that identifies the person or organisation being criticised."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French reprochier, meaning ‘to blame’ or ‘to reproach’, with roots in Latin words referring to bringing something against someone.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The roots combine re-, ‘against’, and words related to bringing or accusing."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English through Old French reprochier, ‘to blame’."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal word for expressing strong disapproval."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "reproach",
+          "label": "noun"
+        },
+        {
+          "term": "reproachful",
+          "label": "adjective"
+        },
+        {
+          "term": "reproachingly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "admonish",
+        "criticise",
+        "reprimand",
+        "rebuke"
+      ],
+      "opposite": "praise",
+      "pitfall": "In formal English, reproach often means to blame or express disapproval; do not use it as a simple substitute for ‘approach’ or ‘touch’."
+    }
+  ]
+}

@@ -1,0 +1,1476 @@
+{
+  "id": "idioms-talking-honesty-2",
+  "kind": "idiom",
+  "name": "Talking & honesty · 2",
+  "blurb": "25 idioms about talking & honesty",
+  "cards": [
+    {
+      "id": "gloss-over",
+      "kind": "idiom",
+      "term": "gloss over",
+      "pos": "verb",
+      "hint": "give a brief, superficial account",
+      "register": "Formal",
+      "meaning": "To mention a subject briefly and without dealing with its important details.",
+      "nuance": "It often suggests that something difficult, embarrassing, or potentially incriminating is being avoided. It can also describe a deliberately incomplete explanation.",
+      "literal": "To apply a thin, shiny layer of gloss that hides the surface beneath.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client meeting · addressing delays",
+          "sentence": "The director glossed over the repeated delays and moved on to next quarter’s targets.",
+          "highlight": "glossed over",
+          "tip": "Often implies that a significant problem received too little attention."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · an awkward question",
+          "sentence": "He glossed over why he had missed her birthday and quickly changed the subject.",
+          "highlight": "glossed over",
+          "tip": "Useful for describing politely evasive conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · highlighting risks",
+          "sentence": "The report glosses over the risks of moving the service before testing is complete.",
+          "highlight": "glosses over",
+          "tip": "Common in critical writing about reports, summaries, and presentations."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from the literal practice of putting a glossy coating over a surface. Its figurative use for treating a subject superficially developed later.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "The verb ‘gloss’ is recorded for adding a polished or shiny layer or explanation."
+          },
+          {
+            "when": "1800s",
+            "text": "‘Gloss over’ begins to be used figuratively for discussing something briefly or evasively."
+          },
+          {
+            "when": "Today",
+            "text": "It means to avoid important details, often in a way that feels deliberate or incomplete."
+          }
+        ]
+      },
+      "similar": [
+        "sweep under the rug",
+        "skirt around",
+        "paper over"
+      ],
+      "opposite": "address head-on",
+      "pitfall": "It is more than simply discussing something briefly: it usually implies avoiding the details that matter."
+    },
+    {
+      "id": "go-without-saying",
+      "kind": "idiom",
+      "term": "go without saying",
+      "pos": "idiom",
+      "hint": "already understood without words",
+      "register": "Common at work",
+      "meaning": "To be so obvious that there is no need to say it.",
+      "nuance": "Often used to introduce a point that everyone already accepts. It can sound slightly impatient if the point has actually caused disagreement.",
+      "literal": "Something being true without anyone needing to state it aloud.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · discussing priorities",
+          "sentence": "That the final version needs approval goes without saying after yesterday’s delays.",
+          "highlight": "goes without saying",
+          "tip": "Useful for stating an expectation that everyone already understands."
+        },
+        {
+          "setting": "social",
+          "where": "Planning dinner · dietary needs",
+          "sentence": "Going without saying that we need to check for allergies first.",
+          "highlight": "Going without saying",
+          "tip": "Works when you want to point out an obvious next step without sounding forceful."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · explaining repeated mistakes",
+          "sentence": "It goes without saying that regular training could have prevented most of these delays.",
+          "highlight": "goes without saying",
+          "tip": "Common in reports, essays and professional explanations."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the older expression ‘go without’, meaning to lack something, combined with ‘saying’. Its figurative use is well documented from the 19th century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression ‘go without’ means to do or continue without something normally expected."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase ‘go without saying’ appears in writing meaning that something does not need to be stated."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for facts, expectations or conclusions that are treated as obvious."
+          }
+        ]
+      },
+      "similar": [
+        "needless to say",
+        "self-evident",
+        "implicit"
+      ],
+      "opposite": "it needs saying",
+      "pitfall": "Avoid using it when the point is controversial, because listeners may think you are dismissing their concern."
+    },
+    {
+      "id": "had-better",
+      "kind": "idiom",
+      "term": "had better",
+      "pos": "phrase",
+      "hint": "you should, before something goes wrong",
+      "register": "Everyday",
+      "meaning": "You should do something because there may be a bad result if you do not.",
+      "nuance": "It sounds like advice, a warning or a mild threat. It is stronger than “should” and can imply that waiting could cause trouble.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Deadline · unfinished report",
+          "sentence": "You had better finish that report before the client arrives.",
+          "highlight": "had better",
+          "tip": "Useful for giving firm advice or warning a colleague."
+        },
+        {
+          "setting": "social",
+          "where": "Plans · bad weather",
+          "sentence": "We had better leave now if we want to arrive before the storm.",
+          "highlight": "had better",
+          "tip": "Often used when a situation is becoming urgent."
+        },
+        {
+          "setting": "writing",
+          "where": "Safety notice · faulty equipment",
+          "sentence": "You had better have the machine checked before using it again.",
+          "highlight": "had better",
+          "tip": "Suitable for warnings, instructions and practical advice."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the ordinary comparison of “had” with “better,” meaning “would have the advantage of.” Over time, it became a way of advising someone to take action.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English speakers used forms of “had better” when comparing one choice with another."
+          },
+          {
+            "when": "1600s–1700s",
+            "text": "The expression began to appear in writing as a way of giving advice."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly expresses a warning that action is needed."
+          }
+        ]
+      },
+      "similar": [
+        "might want to",
+        "should probably",
+        "would be wise to"
+      ],
+      "opposite": "might as well",
+      "pitfall": "Do not use it for a neutral preference when there is no risk or urgency; “You might prefer tea” is gentler."
+    },
+    {
+      "id": "have-the-ball-in-ones-court",
+      "kind": "idiom",
+      "term": "have the ball in one's court",
+      "pos": "idiom",
+      "hint": "the next move is yours",
+      "register": "Common at work",
+      "meaning": "To be responsible for making the next decision or taking the next action.",
+      "nuance": "It suggests that responsibility has clearly passed to someone else, usually after a delay or disagreement. Use it when you need to make clear that the other person must act next.",
+      "literal": "A ball is positioned in a player's court, ready for that player to return it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project handover · waiting for approval",
+          "sentence": "The proposal is ready, so we have the ball in our court until the client responds.",
+          "highlight": "have the ball in our court",
+          "tip": "A polite way to say that the next move belongs to someone else."
+        },
+        {
+          "setting": "social",
+          "where": "Plans · choosing a restaurant",
+          "sentence": "I’ve suggested three places, so now you have the ball in your court.",
+          "highlight": "have the ball in your court",
+          "tip": "Often used lightly when asking someone to make a choice."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · assigning follow-up work",
+          "sentence": "We have completed our review; the ball is now in your court.",
+          "highlight": "the ball is now in your court",
+          "tip": "A concise way to pass responsibility in formal correspondence."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from ball games, where the position of the ball determines whose turn it is to play. Its figurative sense of responsibility follows that sporting idea.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "The expression appears in writing using the idea of a ball being in someone's court."
+          },
+          {
+            "when": "Today",
+            "text": "It means that the next decision or action is someone else's responsibility."
+          }
+        ]
+      },
+      "similar": [
+        "your move",
+        "the next step is yours",
+        "it's up to you"
+      ],
+      "opposite": "the ball is in someone else's court",
+      "pitfall": "Use “one's” in the fixed form, but change the possessive pronoun to match the subject: “I have the ball in my court,” “we have the ball in our court,” and “you have the ball in your court.”"
+    },
+    {
+      "id": "heads-up",
+      "kind": "idiom",
+      "term": "Heads-up",
+      "pos": "noun",
+      "hint": "an early warning",
+      "register": "Common at work",
+      "meaning": "Advance warning or useful information that gives someone time to prepare.",
+      "nuance": "Friendly and informal. It often means a quick tip rather than a formal warning.",
+      "literal": "A signal to raise your head and look out.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team chat · changing a deadline",
+          "sentence": "Give the client a heads-up before the release date moves.",
+          "highlight": "heads-up",
+          "tip": "Common when you want to warn someone without sounding alarming."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a surprise party",
+          "sentence": "Thanks for the heads-up; I would have arrived in the wrong outfit.",
+          "highlight": "heads-up",
+          "tip": "Often used when someone shares news that helps you avoid a problem."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update email",
+          "sentence": "Just a quick heads-up: the application will be unavailable on Friday afternoon.",
+          "highlight": "heads-up",
+          "tip": "Natural in emails that introduce a change or potential problem."
+        }
+      ],
+      "origin": {
+        "summary": "The expression probably comes from a command used to tell people to look up or be alert. The exact development is difficult to pin down, although the military link is often suggested.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 20th century",
+            "text": "The warning “Heads up!” appears in American English, especially in military and public-safety contexts."
+          },
+          {
+            "when": "Mid-20th century",
+            "text": "“Heads-up” develops as a noun meaning an advance warning."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in workplaces, messages and everyday conversation."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "head up",
+          "label": "interjection"
+        }
+      ],
+      "similar": [
+        "advance warning",
+        "tip-off",
+        "warning sign"
+      ],
+      "opposite": "surprise",
+      "pitfall": "When used as a noun, “heads-up” usually has a hyphen; “head up” is the expression people may shout as a warning."
+    },
+    {
+      "id": "hear-through-the-grapevine",
+      "kind": "idiom",
+      "term": "hear through the grapevine",
+      "pos": "idiom",
+      "hint": "learn something informally",
+      "register": "Everyday",
+      "meaning": "To learn about something indirectly by hearing it from people in a social or workplace network.",
+      "nuance": "It often suggests unofficial, informal information rather than a confirmed report. It can sound casual or slightly suspicious, depending on the context.",
+      "literal": "Information passing from person to person like messages along a grapevine.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office conversation · a possible transfer",
+          "sentence": "I heard through the grapevine that Marcus might be moving to the Dublin team.",
+          "highlight": "heard through the grapevine",
+          "tip": "Use it when the information has not come directly from the person involved."
+        },
+        {
+          "setting": "social",
+          "where": "At a party · discussing wedding plans",
+          "sentence": "We heard through the grapevine that two people who barely know each other are getting married.",
+          "highlight": "heard through the grapevine",
+          "tip": "Common when sharing gossip or news passed between friends."
+        },
+        {
+          "setting": "writing",
+          "where": "Team update · clarifying a rumour",
+          "sentence": "We heard through the grapevine that the deadline was moving, but we are waiting for official confirmation.",
+          "highlight": "heard through the grapevine",
+          "tip": "Useful for showing that a report is indirect and may need checking."
+        }
+      ],
+      "origin": {
+        "summary": "The image of information traveling along a grapevine is an old metaphor for quick, unofficial communication. The exact wording became established in the 1800s, but its precise first use is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The grapevine was used as a picture for information spreading rapidly through conversation."
+          },
+          {
+            "when": "1800s",
+            "text": "Phrases such as ‘through the grapevine’ appear in writing for news or information passed indirectly."
+          },
+          {
+            "when": "Today",
+            "text": "The expression means hearing information through informal, indirect channels."
+          }
+        ]
+      },
+      "similar": [
+        "hear on the grapevine",
+        "get wind of",
+        "learn by word of mouth"
+      ],
+      "opposite": "hear directly from the source",
+      "pitfall": "It usually does not mean that the information is definitely true, only that it reached you indirectly."
+    },
+    {
+      "id": "in-a-nutshell",
+      "kind": "idiom",
+      "term": "in a nutshell",
+      "pos": "idiom",
+      "hint": "the short version",
+      "register": "Common at work",
+      "meaning": "In a very brief way that gives the main point.",
+      "nuance": "Clear, direct and informal. It suits explanations and summaries where you want to cut through detail quickly.",
+      "literal": "Inside the shell of a small nut, where the essential part is found.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project update · explaining a delay",
+          "sentence": "In a nutshell, we need another week because the supplier missed two key components.",
+          "highlight": "In a nutshell",
+          "tip": "Useful at the start of an update when everyone needs the central point."
+        },
+        {
+          "setting": "social",
+          "where": "Chat · explaining a complicated trip",
+          "sentence": "In a nutshell, we drove for six hours, missed the sunset, and ended up eating at a motorway café.",
+          "highlight": "In a nutshell",
+          "tip": "Often introduces a funny or complicated retelling in conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · clarifying a proposal",
+          "sentence": "In a nutshell, the new plan costs less and should make onboarding faster.",
+          "highlight": "In a nutshell",
+          "tip": "Common in friendly emails when a detailed explanation follows."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably developed from the older expression “the nutshell of the matter,” meaning the essential point. Its modern wording was established in the early 1900s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Nutshell” was used to mean something that contains the essential parts of a larger subject."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "Writers began using “the nutshell of the matter” for a concise summary."
+          },
+          {
+            "when": "Today",
+            "text": "“In a nutshell” introduces the main point in a compact way."
+          }
+        ]
+      },
+      "similar": [
+        "to sum up",
+        "in short",
+        "bottom line"
+      ],
+      "opposite": "at length",
+      "pitfall": "It introduces or summarizes information; it does not mean that someone is speaking carelessly or briefly."
+    },
+    {
+      "id": "its-none-of-your-business",
+      "kind": "idiom",
+      "term": "it's none of your business",
+      "pos": "phrase",
+      "hint": "mind your own affairs",
+      "register": "Casual",
+      "meaning": "You are saying that another person’s affairs or decisions do not concern you.",
+      "nuance": "This is a direct way to reject personal questions or unwanted involvement. It can sound defensive, rude or hostile, so use it carefully and consider a gentler alternative when the relationship matters.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · questioning a colleague’s decision",
+          "sentence": "I think it's none of your business why she chose another employer.",
+          "highlight": "it's none of your business",
+          "tip": "Use only to set a firm boundary; workplace language is usually less blunt."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · an intrusive question",
+          "sentence": "When I asked about their divorce, they replied that it's none of your business.",
+          "highlight": "it's none of your business",
+          "tip": "A clear way to end a personal question, but it may cool the conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message · defending a decision",
+          "sentence": "You may think it's none of your business, but I need to explain how this affects the project.",
+          "highlight": "it's none of your business",
+          "tip": "Common in casual writing; formal messages often need a softer boundary."
+        }
+      ],
+      "origin": {
+        "summary": "The wording developed from the older phrase ‘none of your business’, used to dismiss questions about another person’s private affairs. The shorter ‘it’s none of your business’ became established in casual speech.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Writers use forms of ‘none of your business’ when telling someone not to ask about private matters."
+          },
+          {
+            "when": "1900s",
+            "text": "The shorter expression ‘it’s none of your business’ appears in informal speech and writing."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar but potentially blunt way to reject involvement or personal questions."
+          }
+        ]
+      },
+      "similar": [
+        "mind your own business",
+        "that's your business, not mine",
+        "out of scope"
+      ],
+      "opposite": "that is my business",
+      "pitfall": "It can sound rude or aggressive. At work, say ‘that’s outside my remit’ or ‘I’d rather not discuss it’ when you want to sound professional."
+    },
+    {
+      "id": "keep-someone-in-the-loop",
+      "kind": "idiom",
+      "term": "keep someone in the loop",
+      "pos": "idiom",
+      "hint": "keep them informed",
+      "register": "Common at work",
+      "meaning": "To keep someone informed about what is happening, especially by giving them updates as work or plans develop.",
+      "nuance": "It suggests ongoing communication, not just sharing the final result. Use it when someone needs to stay involved or avoid being surprised.",
+      "literal": "Keep someone inside the circle of people who know what is going on.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project update · sharing progress",
+          "sentence": "I’ll keep you in the loop while we confirm the launch date.",
+          "highlight": "keep you in the loop",
+          "tip": "Use it when the person wants regular updates."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a trip · changing details",
+          "sentence": "We’re still comparing hotels, but I’ll keep you in the loop.",
+          "highlight": "keep you in the loop",
+          "tip": "Works naturally when plans are still changing."
+        },
+        {
+          "setting": "writing",
+          "where": "Email update · explaining next steps",
+          "sentence": "Please keep the whole team in the loop about the revised schedule.",
+          "highlight": "keep the whole team in the loop",
+          "tip": "Common in workplace emails and project updates."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is uncertain. The phrase likely developed from the idea of a ‘loop’ being a group or circle of people who share the same information.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "‘Loop’ could refer to a group of people connected by shared information."
+          },
+          {
+            "when": "1900s",
+            "text": "The expression ‘in the loop’ appears in writing for being part of an informed group."
+          },
+          {
+            "when": "Today",
+            "text": "‘Keep someone in the loop’ means to give someone continuing updates."
+          }
+        ]
+      },
+      "similar": [
+        "keep someone posted",
+        "keep someone informed",
+        "bring someone up to speed"
+      ],
+      "opposite": "leave someone out of the loop",
+      "pitfall": "Use ‘keep someone in the loop’ when the person is included but not necessarily responsible for making decisions."
+    },
+    {
+      "id": "let-that-sink-in",
+      "kind": "idiom",
+      "term": "let that sink in",
+      "pos": "idiom",
+      "hint": "give yourself time to absorb it",
+      "register": "Everyday",
+      "meaning": "To pause and allow yourself to fully understand and accept what you have just heard or seen.",
+      "nuance": "It emphasizes reflection rather than an instant reaction. Use it when a fact, comment or piece of news deserves careful thought.",
+      "literal": "Allow a statement or fact to settle into the mind like water soaking into the ground.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team briefing · disappointing results",
+          "sentence": "The client rejected our proposal, so let that sink in before we suggest another plan.",
+          "highlight": "let that sink in",
+          "tip": "Often used to pause a conversation and reset expectations."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · major news",
+          "sentence": "Your cousin is moving abroad? Let that sink in for a minute.",
+          "highlight": "Let that sink in",
+          "tip": "Sounds conversational and shows that the news may take a moment to process."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal email · reviewing feedback",
+          "sentence": "Read the comments once more and let that sink in before replying.",
+          "highlight": "let that sink in",
+          "tip": "Useful in friendly or informal writing when inviting someone to think carefully."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely developed from the older expression ‘sink in’, meaning information becomes gradually understood or accepted. The exact first recorded use of ‘let that sink in’ is difficult to establish.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Writers use ‘sink in’ for a fact or idea becoming firmly understood."
+          },
+          {
+            "when": "Mid-1900s",
+            "text": "The wording begins appearing in the familiar form ‘let that sink in’."
+          },
+          {
+            "when": "Today",
+            "text": "It invites someone to absorb and reflect on important information."
+          }
+        ]
+      },
+      "similar": [
+        "sink in",
+        "take it in",
+        "come to terms with it"
+      ],
+      "pitfall": "It does not mean something is physically sinking; it is about taking time to understand or accept information."
+    },
+    {
+      "id": "mind-you",
+      "kind": "idiom",
+      "term": "mind you",
+      "pos": "phrase",
+      "hint": "a qualification you’re adding",
+      "register": "Casual",
+      "meaning": "Used to introduce a qualification, contrast, or important point about what you have just said.",
+      "nuance": "It sounds conversational and slightly reconsidering, like “that said” or “but remember”. It is especially common in British and Irish English.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning · agreeing on a deadline",
+          "sentence": "We can deliver on Friday, mind you, provided the testing goes well.",
+          "highlight": "mind you",
+          "tip": "Adds a condition without making the whole point sound negative."
+        },
+        {
+          "setting": "social",
+          "where": "Chatting · changing weekend plans",
+          "sentence": "I’m happy to join you for dinner, mind you, but I can’t stay late.",
+          "highlight": "mind you",
+          "tip": "Natural when gently limiting or adjusting what you have said."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · recommending an option",
+          "sentence": "The smaller apartment is cheaper, mind you, but it may feel cramped.",
+          "highlight": "mind you",
+          "tip": "Keeps the tone direct and conversational in an informal email."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely developed from the standalone use of “mind” to mean “take note”, followed by “you” to frame an aside or qualification.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Mind” was used as an imperative meaning “take note” or “consider this”."
+          },
+          {
+            "when": "19th century",
+            "text": "Conversational forms of “mind you” appear as a way to introduce an additional point."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in British and Irish English as a soft qualification."
+          }
+        ]
+      },
+      "similar": [
+        "that said",
+        "admittedly",
+        "of course",
+        "having said that"
+      ],
+      "pitfall": "Here, “mind you” does not mean “pay attention to you”; it introduces a qualification or contrast."
+    },
+    {
+      "id": "moment-of-truth",
+      "kind": "idiom",
+      "term": "moment of truth",
+      "pos": "idiom",
+      "hint": "the point of no pretending",
+      "register": "Common at work",
+      "meaning": "The moment when a situation becomes clear and you find out the truth or have to make a decisive choice.",
+      "nuance": "It often brings pressure, uncertainty, or honesty after a period of delay. Use it for a revealing conversation, a crucial test, or the instant when a decision can no longer be avoided.",
+      "literal": "The exact moment when the truth is revealed.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · waiting for feedback",
+          "sentence": "The moment of truth arrives when the manager explains whether the team has met its targets.",
+          "highlight": "moment of truth",
+          "tip": "Use it when a result or evaluation is about to be revealed."
+        },
+        {
+          "setting": "social",
+          "where": "Honest conversation · making plans",
+          "sentence": "After months of vague promises, our dinner together was the moment of truth.",
+          "highlight": "moment of truth",
+          "tip": "Common when someone finally has to be straightforward."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · decisive hearing",
+          "sentence": "The hearing became the moment of truth for the accused and the witnesses.",
+          "highlight": "moment of truth",
+          "tip": "Often used in reporting when the outcome is finally decided."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is recorded from the early 19th century and originally referred to the critical point at which a test or outcome became decisive. Its modern meaning developed from that sense of truth being revealed.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Early 1800s",
+            "text": "The phrase appears in writing as a point when a test or important outcome could no longer be avoided."
+          },
+          {
+            "when": "1800s",
+            "text": "Its association with revealing the truth becomes established."
+          },
+          {
+            "when": "Today",
+            "text": "Means a decisive moment of truth, confrontation, or evaluation."
+          }
+        ]
+      },
+      "similar": [
+        "point of no return",
+        "decisive moment",
+        "truth comes out"
+      ],
+      "opposite": "open secret",
+      "pitfall": "It usually describes a revealing or decisive moment, not any ordinary moment that happens to be important."
+    },
+    {
+      "id": "on-the-other-hand",
+      "kind": "idiom",
+      "term": "on the other hand",
+      "pos": "phrase",
+      "hint": "but from another perspective",
+      "register": "Everyday",
+      "meaning": "Used to introduce a contrasting point or possibility.",
+      "nuance": "It creates a balanced comparison by acknowledging one side before presenting another. It is common in thoughtful discussion, though it can sound formulaic if repeated.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · choosing a launch date",
+          "sentence": "Friday would give us more testing time; on the other hand, it would delay the announcement.",
+          "highlight": "on the other hand",
+          "tip": "Natural for weighing two practical options."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · career plans",
+          "sentence": "Moving abroad sounds exciting; on the other hand, I’d miss my friends here.",
+          "highlight": "on the other hand",
+          "tip": "Shows that you are considering both sides."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · restaurant trade-offs",
+          "sentence": "The food was impressive; on the other hand, the service was slow and the room was noisy.",
+          "highlight": "on the other hand",
+          "tip": "Useful in reviews and reports for a measured contrast."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from older expressions that contrasted what could be said “on one hand” with what could be said “on the other.” Its use as a transition for contrasting viewpoints was established by the 1600s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Older English writers used “on one hand” and “on the other hand” to set ideas against each other."
+          },
+          {
+            "when": "1600s",
+            "text": "“On the other hand” appears in writing as a way to introduce a contrasting consideration."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common transition in speech and writing."
+          }
+        ]
+      },
+      "similar": [
+        "that said",
+        "conversely",
+        "then again",
+        "on the one hand"
+      ],
+      "pitfall": "It normally introduces a genuine contrast, not a completely unrelated point."
+    },
+    {
+      "id": "pot-calling-the-kettle-black",
+      "kind": "idiom",
+      "term": "pot calling the kettle black",
+      "pos": "idiom",
+      "hint": "a critic with the same fault",
+      "register": "Everyday",
+      "meaning": "To criticise someone for a fault that you also have.",
+      "nuance": "It points out hypocrisy, usually with a slightly amused but pointed tone. Use it when the accuser is just as guilty as the person being accused.",
+      "literal": "A black pot accusing a black kettle of being black.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · missed deadlines",
+          "sentence": "Calling out the team for poor planning was a bit like pot calling the kettle black.",
+          "highlight": "pot calling the kettle black",
+          "tip": "Use it when the speaker shares the behaviour they are criticising."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · hypocrisy",
+          "sentence": "She criticises her friends for leaving cups everywhere, which is pot calling the kettle black.",
+          "highlight": "pot calling the kettle black",
+          "tip": "Often sounds playful among friends, but can be sharper in an argument."
+        },
+        {
+          "setting": "writing",
+          "where": "Opinion column · double standards",
+          "sentence": "Rejecting the policy over its fairness is pot calling the kettle black when the same group applies different rules to itself.",
+          "highlight": "pot calling the kettle black",
+          "tip": "Useful in commentary when highlighting a double standard."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from an old English proverb comparing two objects with the same visible fault. Its exact first appearance is difficult to pin down, but it was circulating in printed proverb collections by the 1700s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The image likely developed from older sayings comparing vessels, soot or similarly marked household objects."
+          },
+          {
+            "when": "1700s",
+            "text": "Versions of the proverb appeared in English collections of familiar sayings."
+          },
+          {
+            "when": "Today",
+            "text": "It is used to describe hypocrisy and accusation of a double standard."
+          }
+        ]
+      },
+      "similar": [
+        "practice what you preach",
+        "double standards",
+        "two can play at that game"
+      ],
+      "pitfall": "This means hypocrisy, not simply accusing someone of doing something wrong."
+    },
+    {
+      "id": "public-eye",
+      "kind": "idiom",
+      "term": "public eye",
+      "pos": "idiom",
+      "hint": "visible to everyone",
+      "register": "Common",
+      "meaning": "The attention and scrutiny of the general public.",
+      "nuance": "It often suggests that someone or something is being closely watched, discussed, or judged. It can also simply mean being widely visible or famous.",
+      "literal": "The eye of the public, as if everyone were looking directly at you.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company announcement · handling criticism",
+          "sentence": "After the layoffs were announced, the finance team found itself in the public eye.",
+          "highlight": "public eye",
+          "tip": "Common when a business decision attracts public criticism."
+        },
+        {
+          "setting": "social",
+          "where": "Small town · unexpected fame",
+          "sentence": "Her unexpected role in the viral video put her firmly in the public eye.",
+          "highlight": "public eye",
+          "tip": "Often used for people who become famous or widely noticed."
+        },
+        {
+          "setting": "writing",
+          "where": "News article · a public figure",
+          "sentence": "The charity's new director was immediately in the public eye because of past controversies.",
+          "highlight": "public eye",
+          "tip": "Frequent in reporting about celebrities, politicians, and prominent organisations."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely grew from the older idea of an eye meaning a view, glance, or area of attention. By the 1800s, writers were using the public eye as a metaphor for public attention and reputation.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The word ‘eye’ had long been used figuratively for attention, observation, or a person's view."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers began associating the public with a collective ‘eye’, suggesting widespread scrutiny and attention."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase means visible to public attention, often with the added sense of being judged."
+          }
+        ]
+      },
+      "similar": [
+        "media spotlight",
+        "public spotlight",
+        "public scrutiny",
+        "under scrutiny"
+      ],
+      "pitfall": "It describes public attention, not literal surveillance by a particular person or organisation."
+    },
+    {
+      "id": "put-ones-cards-on-the-table",
+      "kind": "idiom",
+      "term": "put one's cards on the table",
+      "pos": "idiom",
+      "hint": "reveal your plans or position",
+      "register": "Common at work",
+      "meaning": "To reveal your intentions, position, or information so that others can understand what you are thinking or doing.",
+      "nuance": "It suggests being open and direct, often before making a decision or negotiating. It can also imply that you are finally making your position clear.",
+      "literal": "Turning your cards face up on the table so everyone can see them.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · clarifying priorities",
+          "sentence": "Before we choose a supplier, let’s put our cards on the table and discuss the budget openly.",
+          "highlight": "put our cards on the table",
+          "tip": "Often used when inviting honest discussion before a decision."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · sharing feelings",
+          "sentence": "I think it’s time to put my cards on the table and tell you how I really feel.",
+          "highlight": "put my cards on the table",
+          "tip": "A natural way to announce a frank or vulnerable confession."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · explaining a proposal",
+          "sentence": "The committee put its cards on the table by publishing the full costs before the meeting.",
+          "highlight": "put its cards on the table",
+          "tip": "Common in reporting when someone reveals a position, plan, or piece of information."
+        }
+      ],
+      "origin": {
+        "summary": "The image comes from card games, where players reveal their hands. The figurative sense of openly showing one's intentions developed in the 1800s and later became especially associated with negotiation and honesty.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Card players traditionally revealed their hands by turning their cards face up on the table."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase began to appear in the figurative sense of revealing one's position or intentions."
+          },
+          {
+            "when": "Today",
+            "text": "It means making plans, feelings, or information openly clear."
+          }
+        ]
+      },
+      "similar": [
+        "lay one's cards on the table",
+        "show one's hand",
+        "spill the beans"
+      ],
+      "opposite": "keep one's cards close to one's chest",
+      "pitfall": "Use a form of ‘put’ that matches the subject: ‘put my cards on the table’, not ‘puts my cards’."
+    },
+    {
+      "id": "put-ones-foot-in-ones-mouth",
+      "kind": "idiom",
+      "term": "put one's foot in one's mouth",
+      "pos": "idiom",
+      "hint": "say exactly what you wish you hadn't",
+      "register": "Everyday",
+      "meaning": "To say something that causes embarrassment, offence or an awkward situation for yourself.",
+      "nuance": "It often describes a comment made without thinking that later looks foolish or hurtful. It can be light and funny or serious, depending on the context.",
+      "literal": "Physically putting your foot in your mouth.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · correcting a colleague",
+          "sentence": "I put my foot in my mouth when I said the new report was overdue; I’d just seen it.",
+          "highlight": "put my foot in my mouth",
+          "tip": "Often used for an accidental remark that embarrasses the speaker."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · explaining an invitation",
+          "sentence": "I put my foot in my mouth by mentioning her ex before anyone else had.",
+          "highlight": "put my foot in my mouth",
+          "tip": "Use it when your own words create an awkward social moment."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · apologising for a joke",
+          "sentence": "I put my foot in my mouth in that email, so I wrote back to clarify what I meant.",
+          "highlight": "put my foot in my mouth",
+          "tip": "A natural way to describe a regrettable comment in a message."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the image of physically putting a foot in one’s mouth. Its figurative use is documented from the 1800s and means making a self-defeating remark.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The expression appears in writing as a metaphor for an unfortunate or self-embarrassing remark."
+          },
+          {
+            "when": "1900s",
+            "text": "The phrase becomes established in everyday English for saying something damaging to oneself."
+          },
+          {
+            "when": "Today",
+            "text": "It describes a remark that leaves the speaker embarrassed, offending or caught in an awkward position."
+          }
+        ]
+      },
+      "similar": [
+        "stick one's foot in it",
+        "shoot oneself in the foot",
+        "drop a stone in one's own shoe"
+      ],
+      "pitfall": "Usually takes ‘one’s’ or a possessive form such as ‘my’, ‘your’ or ‘his’, not ‘the’."
+    },
+    {
+      "id": "read-between-the-lines",
+      "kind": "idiom",
+      "term": "read between the lines",
+      "pos": "idiom",
+      "hint": "find the hidden meaning",
+      "register": "Common at work",
+      "meaning": "To understand the true or intended meaning of something from indirect clues.",
+      "nuance": "It suggests that the obvious message does not tell the whole story. Use it when someone suspects a hidden concern, motive, or criticism.",
+      "literal": "Finding a message hidden between the written lines of a letter.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing feedback",
+          "sentence": "I read between the lines and thought she wasn’t happy with the proposal.",
+          "highlight": "read between the lines",
+          "tip": "Common when interpreting a colleague’s indirect comments."
+        },
+        {
+          "setting": "social",
+          "where": "Friends · planning a party",
+          "sentence": "She said she was free, but I could read between the lines that she didn’t want to come.",
+          "highlight": "read between the lines",
+          "tip": "Often suggests noticing a concern that wasn’t stated directly."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · giving feedback",
+          "sentence": "His email sounded supportive, although you could read between the lines that he had serious reservations.",
+          "highlight": "read between the lines",
+          "tip": "Useful for explaining the subtext in messages or reviews."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from the literal possibility of finding hidden information between the lines of written text. Its figurative use is well established, but the exact first recorded use is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Writers and readers have long used spacing between lines for codes, annotations, and hidden messages."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers begin using the phrase for meanings implied rather than directly stated."
+          },
+          {
+            "when": "Today",
+            "text": "Means interpreting hidden meaning or implications in words."
+          }
+        ]
+      },
+      "similar": [
+        "see between the lines",
+        "take the hint",
+        "read the subtext"
+      ],
+      "opposite": "take at face value",
+      "pitfall": "Don’t confuse it with literally examining the gaps between lines of text."
+    },
+    {
+      "id": "read-the-room",
+      "kind": "idiom",
+      "term": "read the room",
+      "pos": "idiom",
+      "hint": "notice what people are feeling",
+      "register": "Common at work",
+      "meaning": "To understand the mood and reactions of the people around you.",
+      "nuance": "It often means noticing what others feel and adjusting your words or behaviour accordingly. It can also suggest that someone has failed to notice the mood.",
+      "literal": "Look around and understand how the people in the room are responding.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · raising a concern",
+          "sentence": "The team looked uncomfortable, so she read the room and moved on to the next topic.",
+          "highlight": "read the room",
+          "tip": "Useful when you need to notice a shift in people’s reactions."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · telling a joke",
+          "sentence": "No one laughed, so I read the room and dropped the joke.",
+          "highlight": "read the room",
+          "tip": "Often used when a joke or topic is not landing."
+        },
+        {
+          "setting": "writing",
+          "where": "Scene description · a tense meeting",
+          "sentence": "He tried to read the room, but every silence made the argument feel worse.",
+          "highlight": "read the room",
+          "tip": "A natural way to show social awareness in fiction."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the ordinary act of noticing what people are saying and feeling. Its figurative use is documented from the early 1900s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Early 1900s",
+            "text": "The figurative sense is first recorded in writing."
+          },
+          {
+            "when": "Mid-1900s",
+            "text": "The expression becomes established in political and social commentary."
+          },
+          {
+            "when": "Today",
+            "text": "It means noticing the mood of a group and responding appropriately."
+          }
+        ]
+      },
+      "similar": [
+        "pick up on the vibe",
+        "sense the mood",
+        "gauge the situation"
+      ],
+      "pitfall": "It describes understanding people’s reactions, not merely looking around the physical room."
+    },
+    {
+      "id": "reality-check",
+      "kind": "idiom",
+      "term": "reality check",
+      "pos": "phrase",
+      "hint": "a pause to face the facts",
+      "register": "Common at work",
+      "meaning": "A reminder to look at a situation honestly and accept what is actually happening.",
+      "nuance": "It can be gentle guidance or a blunt challenge, depending on the tone. Use it when expectations, excitement, or denial may be distorting someone’s view.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · assessing a delay",
+          "sentence": "The deadline has slipped twice, so we need a reality check before promising another date.",
+          "highlight": "reality check",
+          "tip": "Common when bringing unrealistic plans back into perspective."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation about travel plans",
+          "sentence": "A reality check: our budget covers the train, but not the hotel.",
+          "highlight": "reality check",
+          "tip": "Works casually when pointing out a practical limitation."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update",
+          "sentence": "The report offers a reality check, comparing our progress with the original timeline.",
+          "highlight": "reality check",
+          "tip": "A slightly formal option for summarizing an objective assessment."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is commonly associated with checking whether a mental state matches objective facts. Its precise origin is uncertain, though figurative uses are documented from the mid-20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1950s",
+            "text": "The expression begins appearing in uses connected with returning to practical facts or checking one’s thinking."
+          },
+          {
+            "when": "Later",
+            "text": "It expands beyond literal checks and becomes a reminder not to ignore reality."
+          },
+          {
+            "when": "Today",
+            "text": "It often signals that a claim, plan, or expectation needs a more realistic assessment."
+          }
+        ]
+      },
+      "similar": [
+        "wake-up call",
+        "dose of reality",
+        "sanity check"
+      ],
+      "opposite": "pipe dream",
+      "pitfall": "A reality check points out facts; it does not necessarily mean that someone’s feelings are invalid."
+    },
+    {
+      "id": "rest-assured",
+      "kind": "idiom",
+      "term": "rest assured",
+      "pos": "phrase",
+      "hint": "certainty, please",
+      "register": "Formal",
+      "meaning": "To tell someone they can be certain that something is true or safely settled.",
+      "nuance": "This gives firm reassurance and often carries the weight of a promise. It is especially suitable in professional communication, but it can sound overly formal in casual conversation.",
+      "literal": "Remain certain and calm about the outcome.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch update · reassuring a team",
+          "sentence": "Rest assured, the customer data is protected, and we will continue the release today.",
+          "highlight": "Rest assured",
+          "tip": "A confident opening for resolving workplace uncertainty."
+        },
+        {
+          "setting": "social",
+          "where": "Promise to a friend",
+          "sentence": "Rest assured, I’ll return your borrowed camera before Sunday.",
+          "highlight": "Rest assured",
+          "tip": "Use it when you want to make a sincere promise more emphatic."
+        },
+        {
+          "setting": "writing",
+          "where": "Customer service email",
+          "sentence": "Rest assured, every application receives a response within five business days.",
+          "highlight": "Rest assured",
+          "tip": "Common in formal emails that promise a clear service commitment."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from older English expressions used to give firm reassurance. It is recorded from around 1600, while the verb assure comes through Old French from Latin words associated with safety and security.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Before 1600",
+            "text": "The verb assure was already in English use, deriving from Old French and Latin words connected with safety."
+          },
+          {
+            "when": "1600",
+            "text": "The phrase rest assured first appears in recorded English use."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal way to promise certainty and remove doubt."
+          }
+        ]
+      },
+      "similar": [
+        "You can be certain",
+        "I assure you",
+        "Have no doubt"
+      ],
+      "pitfall": "It promises genuine certainty, so avoid it when the outcome is still uncertain or based on a guess."
+    },
+    {
+      "id": "say-it-all",
+      "kind": "idiom",
+      "term": "say it all",
+      "pos": "idiom",
+      "hint": "expresses the whole situation",
+      "register": "Everyday",
+      "meaning": "To express in a few words everything that is important about a situation.",
+      "nuance": "It often suggests that one result, image, or piece of news captures the entire situation better than a longer explanation.",
+      "literal": "Those words say everything that needs to be said.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing a failed launch",
+          "sentence": "The empty dashboard and the missed deadline say it all: we were not ready to launch.",
+          "highlight": "say it all",
+          "tip": "Useful when pointing to a clear example that sums up a wider problem."
+        },
+        {
+          "setting": "social",
+          "where": "Chatting about a friend’s new job",
+          "sentence": "She has been exhausted and miserable for months, so her resignation really says it all.",
+          "highlight": "says it all",
+          "tip": "Often follows a result or detail that makes the larger point obvious."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · praising a memorable performance",
+          "sentence": "Her final scene says it all; the entire play felt different after that moment.",
+          "highlight": "says it all",
+          "tip": "Common in reviews and commentary when one detail carries the main meaning."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from ordinary wording about saying everything that matters. Its exact first use is difficult to trace, and it became established through broad everyday and literary use.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression developed from the ordinary phrase ‘say it all’, meaning to tell the whole story."
+          },
+          {
+            "when": "19th–20th century",
+            "text": "Writers and speakers began using it figuratively for a detail or result that captures the entire situation."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in conversation, work updates, reviews, and news commentary."
+          }
+        ]
+      },
+      "similar": [
+        "sum it up",
+        "speak volumes",
+        "tell the whole story"
+      ]
+    },
+    {
+      "id": "say-the-quiet-part-loud",
+      "kind": "idiom",
+      "term": "say the quiet part loud",
+      "pos": "idiom",
+      "hint": "state the obvious truth",
+      "register": "Informal",
+      "meaning": "To openly say something obvious that everyone else has been carefully avoiding.",
+      "nuance": "It often feels direct, candid, or confrontational because it challenges a shared pretence. Use it when someone wants to bring an unspoken issue into the open.",
+      "literal": "Saying aloud the part of the situation that everyone has quietly ignored.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing delays",
+          "sentence": "Let’s say the quiet part loud: the project needed another developer three weeks ago.",
+          "highlight": "say the quiet part loud",
+          "tip": "Useful for raising an issue the team has politely avoided."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · friendship",
+          "sentence": "It’s time to say the quiet part loud and admit that neither of us wanted to host.",
+          "highlight": "say the quiet part loud",
+          "tip": "Sounds candid and slightly confrontational, so use it gently."
+        },
+        {
+          "setting": "writing",
+          "where": "Opinion column · public debate",
+          "sentence": "Columnists should say the quiet part loud instead of pretending the disagreement does not exist.",
+          "highlight": "say the quiet part loud",
+          "tip": "Common in informal commentary and social media writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines the older expression ‘say it out loud’ with ‘the quiet part’, a term for the subtext or issue people avoid discussing. Its exact first appearance is unclear, but it became established in informal online and spoken English.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "‘Say it out loud’ was already used for stating something openly."
+          },
+          {
+            "when": "2010s",
+            "text": "The expression ‘the quiet part’ was used for the unspoken truth within a situation or conversation."
+          },
+          {
+            "when": "Today",
+            "text": "The combined phrase means openly naming an obvious but uncomfortable truth."
+          }
+        ]
+      },
+      "similar": [
+        "say it out loud",
+        "spill the beans",
+        "address the elephant in the room"
+      ],
+      "opposite": "leave it unsaid",
+      "pitfall": "It is not a formal phrase, and it may sound blunt or accusing in sensitive conversations."
+    },
+    {
+      "id": "say-the-word",
+      "kind": "idiom",
+      "term": "say the word",
+      "pos": "idiom",
+      "hint": "give me the signal",
+      "register": "Common at work",
+      "meaning": "To give someone the signal or permission to do something.",
+      "nuance": "It often implies that action can begin as soon as you approve. The tone may be encouraging, respectful or urgent, depending on the situation.",
+      "literal": "Speak a single word that tells another person to act.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · approving a launch",
+          "sentence": "The copy is ready, so just say the word and we’ll publish it.",
+          "highlight": "say the word",
+          "tip": "Common when one person has approval and another is waiting to act."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a party · confirming attendance",
+          "sentence": "I’ve booked the table; say the word and I’ll tell everyone.",
+          "highlight": "say the word",
+          "tip": "Often adds a friendly note of readiness or cooperation."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · requesting confirmation",
+          "sentence": "We can move forward as soon as you say the word.",
+          "highlight": "say the word",
+          "tip": "A concise way to ask someone to give approval or a clear instruction."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the idea of giving a command with a word. By the early 1800s, it was used figuratively for giving a signal or permission.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English speakers used similar expressions such as ‘at a word’ for immediate action."
+          },
+          {
+            "when": "1800s",
+            "text": "The wording ‘say the word’ appears in figurative use for giving an instruction or signal."
+          },
+          {
+            "when": "Today",
+            "text": "It means to give permission, approval or a cue to begin."
+          }
+        ]
+      },
+      "similar": [
+        "give the go-ahead",
+        "give the word",
+        "let the word out"
+      ],
+      "pitfall": "Usually it means giving permission or a signal, not simply speaking a particular word."
+    },
+    {
+      "id": "see-eye-to-eye",
+      "kind": "idiom",
+      "term": "see eye to eye",
+      "pos": "idiom",
+      "hint": "agree completely",
+      "register": "Common at work",
+      "meaning": "To agree fully with someone about something.",
+      "nuance": "It emphasizes complete agreement, especially after discussing an issue or working toward a shared decision. It is common and friendly in both casual and professional settings.",
+      "literal": "Looking directly at each other as equals.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · agreeing on priorities",
+          "sentence": "We finally see eye to eye on the deadline and can move forward.",
+          "highlight": "see eye to eye",
+          "tip": "Often followed by “on” when naming the subject of agreement."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · choosing a restaurant",
+          "sentence": "My partner and I don’t always see eye to eye, but we both want a quiet table.",
+          "highlight": "see eye to eye",
+          "tip": "A natural way to describe agreement without sounding too formal."
+        },
+        {
+          "setting": "writing",
+          "where": "Negotiation update · resolving concerns",
+          "sentence": "Both teams now see eye to eye on the revised launch plan.",
+          "highlight": "see eye to eye",
+          "tip": "Useful in reports and emails when confirming shared agreement."
+        }
+      ],
+      "origin": {
+        "summary": "The image comes from the biblical expression “face to face” or “eye to eye,” which appears in translations of Genesis. The idea of two people literally seeing each other directly later became a metaphor for complete agreement, although the exact point of that figurative development is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1600s",
+            "text": "English Bible translations use “eye to eye” for a direct, face-to-face encounter."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers begin using similar comparisons to suggest direct understanding or agreement."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "The expression “see eye to eye” becomes established for complete agreement."
+          },
+          {
+            "when": "Today",
+            "text": "It means sharing the same view, often after discussion or negotiation."
+          }
+        ]
+      },
+      "similar": [
+        "be on the same page",
+        "agree with someone",
+        "be in agreement"
+      ],
+      "opposite": "disagree",
+      "pitfall": "Use “see eye to eye on” for agreement about something, but say “see eye to eye with” for agreement with a person."
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "id": "idioms-money-effort-2",
+  "kind": "idiom",
+  "name": "Money & effort · 2",
+  "blurb": "4 idioms about money & effort",
+  "cards": [
+    {
+      "id": "tighten-the-purse-strings",
+      "kind": "idiom",
+      "term": "tighten the purse strings",
+      "pos": "idiom",
+      "hint": "control spending",
+      "register": "Common at work",
+      "meaning": "To reduce spending or become more careful with money.",
+      "nuance": "It suggests limiting expenses, often because budgets are tight or financial conditions are difficult. It can sound practical or mildly critical, depending on the context.",
+      "literal": "Pulling the strings of a purse closed to keep money inside.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget meeting · planning next quarter",
+          "sentence": "We may need to tighten the purse strings if sales stay flat.",
+          "highlight": "tighten the purse strings",
+          "tip": "Often used for company budgets and business spending."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · holiday costs",
+          "sentence": "We’re tightening the purse strings this year because the trip cost more than expected.",
+          "highlight": "tightening the purse strings",
+          "tip": "The phrase can apply to household or personal spending."
+        },
+        {
+          "setting": "writing",
+          "where": "Economic report · rising costs",
+          "sentence": "Small businesses are tightening the purse strings as borrowing costs increase.",
+          "highlight": "tightening the purse strings",
+          "tip": "Useful in reporting when describing reduced consumer or business spending."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from older expressions about tightening a purse, a literal way of keeping coins secure. Its figurative use for limiting spending became established in the 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used wording such as ‘tighten one’s purse’ to describe holding money closely."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression became established for reducing or carefully controlling spending."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly refers to cautious household or business finances."
+          }
+        ]
+      },
+      "similar": [
+        "cut back",
+        "watch your pennies",
+        "tighten your belt"
+      ],
+      "opposite": "loosen the purse strings",
+      "pitfall": "This means being more careful with money, not simply paying a bill or saving for a particular purchase."
+    },
+    {
+      "id": "top-up",
+      "kind": "idiom",
+      "term": "top up",
+      "pos": "verb",
+      "hint": "add a little more",
+      "register": "Common at work",
+      "meaning": "To add more of something when an amount is used, used up, or running low.",
+      "nuance": "It can describe topping up a drink, a mobile data allowance, a fuel tank, or a savings account. It often means adding only enough to reach a comfortable or usable level.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Phone allowance · before a trip",
+          "sentence": "I topped up my work phone with extra data before the conference.",
+          "highlight": "topped up",
+          "tip": "Common for mobile data, prepaid credit, or workplace supplies."
+        },
+        {
+          "setting": "social",
+          "where": "Pub · buying another drink",
+          "sentence": "Can I top up your glass while I’m at the bar?",
+          "highlight": "top up",
+          "tip": "Often used when topping up someone else’s drink."
+        },
+        {
+          "setting": "writing",
+          "where": "Personal finance · budgeting",
+          "sentence": "She tops up her savings each month rather than spending the extra cash.",
+          "highlight": "tops up",
+          "tip": "Useful when describing adding money to a savings pot or budget."
+        }
+      ],
+      "origin": {
+        "summary": "The expression combines “top”, meaning to fill something, with “up”, meaning to make it fuller or bring it to a sufficient level.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Top” was already used for filling a vessel or bringing it to a higher level."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression appears in written English in the sense of filling or replenishing something."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for money, drinks, fuel, data, and other things that need replenishing."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "top-up",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "fill up",
+        "top off",
+        "replenish"
+      ],
+      "opposite": "run low",
+      "pitfall": "For money, say “top up” or “top up on”; do not say “top up with” when you mean adding a specific amount of data or credit."
+    },
+    {
+      "id": "turn-a-profit",
+      "kind": "idiom",
+      "term": "turn a profit",
+      "pos": "idiom",
+      "hint": "make more than you spend",
+      "register": "Common at work",
+      "meaning": "To earn more money than a business or activity costs.",
+      "nuance": "It focuses on the result of becoming financially successful. Use it when reporting a company’s earnings, performance, or shift from losing money to making money.",
+      "literal": "Turning a business’s activity into a financial gain.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company review · quarterly results",
+          "sentence": "The regional branch finally turned a profit after we cut its operating costs.",
+          "highlight": "turned a profit",
+          "tip": "Common in business reviews and performance reports."
+        },
+        {
+          "setting": "social",
+          "where": "Talking about a market stall",
+          "sentence": "Our little market stall turned a profit once enough regular customers found us.",
+          "highlight": "turned a profit",
+          "tip": "Works for any money-making activity, even a small one."
+        },
+        {
+          "setting": "writing",
+          "where": "Business newsletter",
+          "sentence": "The subscription service turned a profit in its second year.",
+          "highlight": "turned a profit",
+          "tip": "A clear and formal way to describe a business becoming profitable."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is uncertain, but the phrase reflects an older business use of ‘profit’ as the financial gain from trade. Its modern sense is firmly established.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The word ‘profit’ has long referred to financial gain from business or trade."
+          },
+          {
+            "when": "18th–19th century",
+            "text": "Business writing increasingly links ‘turn’ with financial gains, treating a business as something that can be turned into profit."
+          },
+          {
+            "when": "Today",
+            "text": "Means earning more than the costs of a business or activity."
+          }
+        ]
+      },
+      "similar": [
+        "make a profit",
+        "show a profit",
+        "break even"
+      ],
+      "opposite": "lose money",
+      "pitfall": "‘Turn a profit’ means earning money overall; it does not necessarily mean making a large amount."
+    },
+    {
+      "id": "whatever-it-takes",
+      "kind": "idiom",
+      "term": "whatever it takes",
+      "pos": "idiom",
+      "hint": "any effort, however difficult",
+      "register": "Common at work",
+      "meaning": "To do whatever is necessary to achieve a particular result.",
+      "nuance": "It expresses strong determination and usually implies that the effort will be difficult, costly or exhausting.",
+      "literal": "Using any method, sacrifice or action that gets the job done.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · solving a technical problem",
+          "sentence": "We will hire a specialist if whatever it takes to get the system running by Friday.",
+          "highlight": "whatever it takes",
+          "tip": "Natural when discussing urgent goals and the commitment to meet them."
+        },
+        {
+          "setting": "social",
+          "where": "Event planning · fixing a venue problem",
+          "sentence": "I’ll make more calls and drive across town if that’s whatever it takes to save the party.",
+          "highlight": "whatever it takes",
+          "tip": "Often used with ‘if’ or ‘that’s’ in informal conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Sports preview · preparing for a final",
+          "sentence": "The players have said they are ready to give whatever it takes to win the championship.",
+          "highlight": "whatever it takes",
+          "tip": "Strong and direct in profiles, interviews and motivational writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines ‘whatever’, meaning any thing at all, with ‘take’, meaning make an effort or use a method. Its exact first appearance is uncertain, but the modern expression developed from older wording about taking any action needed.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English speakers used expressions such as ‘take any means’ and ‘by all means’ for using every available method."
+          },
+          {
+            "when": "20th century",
+            "text": "The wording ‘whatever it takes’ became established as a forceful way to express determination."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes doing something difficult or costly to reach a goal."
+          }
+        ]
+      },
+      "similar": [
+        "by any means necessary",
+        "at any cost",
+        "do whatever it takes"
+      ],
+      "pitfall": "It can sound overly dramatic when the task or problem is minor."
+    }
+  ]
+}

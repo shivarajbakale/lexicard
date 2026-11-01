@@ -1,0 +1,1489 @@
+{
+  "id": "idioms-talking-honesty-1",
+  "kind": "idiom",
+  "name": "Talking & honesty · 1",
+  "blurb": "25 idioms about talking & honesty",
+  "cards": [
+    {
+      "id": "aha-moment",
+      "kind": "idiom",
+      "term": "aha moment",
+      "pos": "phrase",
+      "hint": "sudden realization",
+      "register": "Common at work",
+      "meaning": "A sudden moment when you understand something that had been confusing or unclear.",
+      "nuance": "It suggests a quick flash of insight rather than a gradual conclusion. The phrase often refers to solving a problem, noticing an important connection, or finally understanding someone.",
+      "literal": "The sudden feeling of understanding expressed with an “aha!”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product review · customer confusion",
+          "sentence": "Looking at the support logs gave us an aha moment about where customers were getting stuck.",
+          "highlight": "aha moment",
+          "tip": "Common when a team suddenly spots the cause of a problem."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · explaining a habit",
+          "sentence": "When my friend said she enjoys cooking, I had an aha moment about all those early-morning messages.",
+          "highlight": "aha moment",
+          "tip": "Often used when a surprising detail makes everything click."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining a breakthrough",
+          "sentence": "The researcher had an aha moment after comparing the two datasets and noticed the missing pattern.",
+          "highlight": "aha moment",
+          "tip": "Natural in reports and informal updates when describing a breakthrough."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase develops from “aha,” an exclamation used for sudden realization. Its exact first use is difficult to pin down, but “aha moment” became established during the 20th century as a modern description of insight.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "English records use “aha” as an exclamation of surprise, delight, or realization."
+          },
+          {
+            "when": "20th century",
+            "text": "Writers begin using “aha moment” to label a sudden discovery or realization."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in workplaces, education, creative work, and everyday conversation."
+          }
+        ]
+      },
+      "similar": [
+        "eureka moment",
+        "lightbulb moment",
+        "epiphany"
+      ],
+      "pitfall": "Write it as two words: “aha moment.” It describes a moment of realization, not the insight itself."
+    },
+    {
+      "id": "angels-advocate",
+      "kind": "idiom",
+      "term": "angel's advocate",
+      "pos": "idiom",
+      "hint": "someone who argues the opposite side",
+      "register": "Common at work",
+      "meaning": "To argue for a position that you may not personally support in order to test an idea or help someone see it more clearly.",
+      "nuance": "It is useful in debates, meetings, and creative discussions where examining the other side can reveal weaknesses or fresh ideas. It can sound slightly formal, but it is widely understood.",
+      "literal": "An advocate who speaks in support of angels.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product meeting · testing a proposal",
+          "sentence": "Let me play angel's advocate and ask whether customers will actually use this feature.",
+          "highlight": "play angel's advocate",
+          "tip": "Often introduced with ‘let me’ or ‘to be clear’."
+        },
+        {
+          "setting": "social",
+          "where": "Friends discussing a restaurant choice",
+          "sentence": "As angel's advocate, I have to point out that the place is usually crowded on Saturdays.",
+          "highlight": "As angel's advocate",
+          "tip": "Makes disagreement sound exploratory rather than hostile."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial discussion · weighing a decision",
+          "sentence": "Playing angel's advocate, the author considers whether the policy would work in smaller communities.",
+          "highlight": "Playing angel's advocate",
+          "tip": "Useful in essays and reports when you want to acknowledge an opposing argument seriously."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from medieval Christian debates, where an 'advocate of the angels' presented arguments for angels against opposing views. Its modern meaning developed from the related idea of examining the strongest opposing case.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Medieval period",
+            "text": "The phrase referred to someone who argued the case for angels in theological debates."
+          },
+          {
+            "when": "1500s",
+            "text": "The expression appears in English writing, including religious and scholarly contexts."
+          },
+          {
+            "when": "Today",
+            "text": "Means arguing an opposing position to test an idea, clarify a debate, or look for weaknesses."
+          }
+        ]
+      },
+      "similar": [
+        "Devil's advocate",
+        "Straw man",
+        "Steel man"
+      ],
+      "opposite": "to agree without question",
+      "pitfall": "It does not mean you secretly support the position you are arguing; the point is usually to test or clarify the discussion."
+    },
+    {
+      "id": "ask-around",
+      "kind": "idiom",
+      "term": "ask around",
+      "pos": "idiom",
+      "hint": "question several people",
+      "register": "Everyday",
+      "meaning": "To ask several people for information, advice, or help.",
+      "nuance": "It suggests checking with more than one person, often because you do not yet know who has the answer. It works in informal conversations, workplaces, and practical situations.",
+      "literal": "Asking around means asking different people instead of asking only one.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · finding a missing document",
+          "sentence": "I’ll ask around and let you know who has the latest version of the plan.",
+          "highlight": "ask around",
+          "tip": "Useful when you need to identify the right person or source."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a party · finding a good venue",
+          "sentence": "Ask around if you know anyone who has hired that caterer.",
+          "highlight": "Ask around",
+          "tip": "Often used when seeking a recommendation through your contacts."
+        },
+        {
+          "setting": "writing",
+          "where": "Workplace request · locating a service",
+          "sentence": "Please ask around to find out which supplier offers the shortest delivery time.",
+          "highlight": "ask around",
+          "tip": "A clear way to request a wider search."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines the ordinary word ‘ask’ with ‘around’, suggesting asking people in different places. Its exact first use is not clearly documented.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression developed from asking people in various places for information."
+          },
+          {
+            "when": "Today",
+            "text": "It means to approach several people with the same question."
+          }
+        ]
+      },
+      "similar": [
+        "ask about",
+        "inquire around",
+        "word around"
+      ],
+      "opposite": "ask one person directly",
+      "pitfall": "It usually implies speaking to several people, not asking only one person."
+    },
+    {
+      "id": "at-the-end-of-the-day",
+      "kind": "idiom",
+      "term": "at the end of the day",
+      "pos": "idiom",
+      "hint": "when everything is considered",
+      "register": "Common at work",
+      "meaning": "When all the relevant facts, costs and consequences have been considered.",
+      "nuance": "It introduces a final judgment after weighing several factors. It can sound reasonable and conclusive, but sometimes dismissive if used to end a discussion too quickly.",
+      "literal": "At the point in the day when it finishes.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · choosing priorities",
+          "sentence": "At the end of the day, the simplest solution is the one we can maintain.",
+          "highlight": "At the end of the day",
+          "tip": "Useful for giving a balanced final view after a discussion."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a night out · comparing options",
+          "sentence": "At the end of the day, we both want somewhere quiet.",
+          "highlight": "At the end of the day",
+          "tip": "Often softens a statement that summarizes what matters most."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · reviewing setbacks",
+          "sentence": "At the end of the day, the delay gave us time to improve the report.",
+          "highlight": "At the end of the day",
+          "tip": "Common in reflective business writing and presentations."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase originally referred to events occurring later in a day. Its modern figurative sense—considering everything before reaching a conclusion—became established during the 1900s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The expression begins appearing in writing with the literal sense of late in the day."
+          },
+          {
+            "when": "1900s",
+            "text": "Writers start using it to mean considering a matter in its final or broadest context."
+          },
+          {
+            "when": "Today",
+            "text": "It introduces a summary judgment after weighing the important points."
+          }
+        ]
+      },
+      "similar": [
+        "when all is said and done",
+        "all things considered",
+        "on balance"
+      ],
+      "opposite": "right off the bat",
+      "pitfall": "Avoid using it to dismiss someone’s concern before they have explained it fully."
+    },
+    {
+      "id": "ax-to-grind",
+      "kind": "idiom",
+      "term": "ax to grind",
+      "pos": "idiom",
+      "hint": "a personal reason for pushing something",
+      "register": "Common at work",
+      "meaning": "A personal motive, grievance, or benefit behind someone’s actions.",
+      "nuance": "It suggests that someone may be promoting a decision to serve their own interests. Use it when discussing possible bias or hidden motives.",
+      "literal": "A tool with an axe blade for shaping or splitting wood.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · choosing a vendor",
+          "sentence": "Of course, Jordan has an ax to grind because their team manages the contract.",
+          "highlight": "ax to grind",
+          "tip": "Common when questioning someone’s motives at work."
+        },
+        {
+          "setting": "social",
+          "where": "Family chat · local politics",
+          "sentence": "Her cousin has an ax to grind and won’t admit the proposal benefits him.",
+          "highlight": "ax to grind",
+          "tip": "Use it when you suspect a personal agenda, but keep your tone measured."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · company announcement",
+          "sentence": "Several directors have an ax to grind, so readers should consider the proposal carefully.",
+          "highlight": "ax to grind",
+          "tip": "Useful in commentary that examines conflicts of interest."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely comes from an older proverb comparing people to workers sharpening an axe. The exact source is uncertain, but the wording was recorded in American writing by the early 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "A traditional proverb compared people to workers who need an axe before they can grind."
+          },
+          {
+            "when": "Early 1800s",
+            "text": "The expression appears in American writing in forms referring to a person with an axe to grind."
+          },
+          {
+            "when": "Today",
+            "text": "It means having a personal motive or interest behind one’s actions."
+          }
+        ]
+      },
+      "similar": [
+        "hidden agenda",
+        "personal motive",
+        "conflict of interest",
+        "self-interest"
+      ],
+      "opposite": "no hidden agenda",
+      "pitfall": "It is usually preceded by “have,” as in “have an ax to grind.”"
+    },
+    {
+      "id": "backhanded-compliment",
+      "kind": "idiom",
+      "term": "backhanded compliment",
+      "pos": "idiom",
+      "hint": "praise with an edge",
+      "register": "Everyday",
+      "meaning": "A remark that sounds like praise but carries a criticism, insult, or hidden implication.",
+      "nuance": "It can be playful between friends or subtly cutting in other settings. The tone depends heavily on the relationship and the speaker’s delivery.",
+      "literal": "A compliment delivered with the back of the hand rather than the palm.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team feedback · reviewing a proposal",
+          "sentence": "Her comment that my proposal was impressively detailed sounded like a backhanded compliment.",
+          "highlight": "backhanded compliment",
+          "tip": "Often follows praise that highlights an inconvenient weakness."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · reacting to an achievement",
+          "sentence": "He called my presentation unusual, which felt like a backhanded compliment.",
+          "highlight": "backhanded compliment",
+          "tip": "Common when someone is unsure whether the praise is genuine."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · assessing an employee",
+          "sentence": "Calling his inconsistent work ‘refreshingly flexible’ was a backhanded compliment.",
+          "highlight": "backhanded compliment",
+          "tip": "Often used in reviews, articles, and critical commentary."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the older adjective ‘backhanded’, meaning indirect or insincere, and the longstanding word ‘compliment’. Its figurative use is well documented from the late nineteenth century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "‘Backhanded’ is used for praise or approval that is indirect, guarded, or insincere."
+          },
+          {
+            "when": "Late 1800s",
+            "text": "The combined phrase ‘backhanded compliment’ appears in English writing."
+          },
+          {
+            "when": "Today",
+            "text": "It means a compliment whose wording contains a sting, criticism, or ambiguity."
+          }
+        ]
+      },
+      "similar": [
+        "left-handed compliment",
+        "sarcastic praise",
+        "damning praise"
+      ],
+      "opposite": "a genuine compliment",
+      "pitfall": "It is usually indirect criticism disguised as praise, not simply an awkward compliment."
+    },
+    {
+      "id": "bad-rap",
+      "kind": "idiom",
+      "term": "bad rap",
+      "pos": "noun",
+      "hint": "an unfairly negative reputation",
+      "register": "Casual",
+      "meaning": "A reputation for being dishonest, unreliable, or otherwise disreputable.",
+      "nuance": "It often suggests that the reputation is unfair or stronger than the facts justify, but it can also refer to a genuinely poor reputation.",
+      "literal": "The reputation people give you is bad.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · explaining a delay",
+          "sentence": "The supplier has a bad rap, but they fixed the last issue early.",
+          "highlight": "bad rap",
+          "tip": "Common when discussing a company or colleague’s perceived reliability."
+        },
+        {
+          "setting": "social",
+          "where": "Friends talking · defending a new restaurant",
+          "sentence": "That café has a bad rap, but the food is actually excellent.",
+          "highlight": "bad rap",
+          "tip": "Useful when separating a rumour from someone’s real character."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · introducing a new hire",
+          "sentence": "Despite her bad rap with deadlines, Priya has never missed a launch.",
+          "highlight": "bad rap",
+          "tip": "Informal; use a more neutral phrase in formal reports."
+        }
+      ],
+      "origin": {
+        "summary": "The word “rap” had begun to mean a person’s reputation by the early 1800s. The modern expression developed from that established sense rather than from a specific story.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1800s",
+            "text": "“Rap” appears in writing as a word for reputation or character."
+          },
+          {
+            "when": "Later 1800s",
+            "text": "“Bad rap” becomes a natural way to describe a negative reputation."
+          },
+          {
+            "when": "Today",
+            "text": "Often means someone is viewed negatively, whether deservedly or not."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "rap",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "bad name",
+        "poor reputation",
+        "bad reputation"
+      ],
+      "opposite": "good reputation",
+      "pitfall": "In this expression, “rap” does not mean music or a prison cell; it means reputation."
+    },
+    {
+      "id": "beat-around-the-bush",
+      "kind": "idiom",
+      "term": "beat around the bush",
+      "pos": "idiom",
+      "hint": "avoid saying it directly",
+      "register": "Everyday",
+      "meaning": "To avoid discussing a topic directly, often by giving indirect or vague answers.",
+      "nuance": "It can sound mildly evasive or impatient, especially when the speaker wants someone to be straightforward.",
+      "literal": "Searching for game by striking the bushes rather than going straight to it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing feedback",
+          "sentence": "Don’t beat around the bush—what did you think of the proposal?",
+          "highlight": "beat around the bush",
+          "tip": "Common when asking someone to be clear and direct."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · explaining plans",
+          "sentence": "She beat around the bush for ten minutes before admitting she wanted to leave.",
+          "highlight": "beat around the bush",
+          "tip": "Often suggests the speaker finds the subject awkward or uncomfortable."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · requesting an explanation",
+          "sentence": "Please don’t beat around the bush; tell me exactly why the deadline changed.",
+          "highlight": "beat around the bush",
+          "tip": "Use it when indirect wording is making a message unnecessarily difficult to understand."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably began as a hunting expression involving searching bushes for game. Its figurative use is well documented from the early 1600s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "Expressions such as ‘beat the bushes’ were used for searching thick cover while hunting."
+          },
+          {
+            "when": "1610",
+            "text": "Shakespeare uses the older wording ‘beat about the bush’ in The Merchant of Venice."
+          },
+          {
+            "when": "Today",
+            "text": "Means avoiding a subject directly or speaking in an indirect way."
+          }
+        ]
+      },
+      "similar": [
+        "talk around the point",
+        "beat the bush",
+        "sugarcoat the truth"
+      ],
+      "opposite": "get to the point",
+      "pitfall": "It describes avoiding the main subject, not simply discussing something in a complicated way."
+    },
+    {
+      "id": "behind-closed-doors",
+      "kind": "idiom",
+      "term": "behind closed doors",
+      "pos": "idiom",
+      "hint": "kept out of public view",
+      "register": "Common at work",
+      "meaning": "In private, without the public or other people being able to know what is happening.",
+      "nuance": "It often suggests secrecy, but it can also neutrally mean that something happens privately. It fits confidential conversations, private decisions and concealed actions.",
+      "literal": "In a room with the doors shut, away from everyone else.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Staff meeting · discussing a reorganization",
+          "sentence": "The directors made their decision behind closed doors and informed employees the next morning.",
+          "highlight": "behind closed doors",
+          "tip": "Often implies that important details are being kept private."
+        },
+        {
+          "setting": "social",
+          "where": "Family chat · a private disagreement",
+          "sentence": "They argued behind closed doors rather than bringing the disagreement up at dinner.",
+          "highlight": "behind closed doors",
+          "tip": "Can describe either sensible privacy or questionable secrecy."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · undisclosed negotiations",
+          "sentence": "The agreement was reached behind closed doors after several weeks of confidential talks.",
+          "highlight": "behind closed doors",
+          "tip": "Common in reporting on private talks, decisions or negotiations."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the literal image of being in a room with closed doors, away from observers. Its figurative use for private or secret activity is well documented from the 16th century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "The phrase began appearing in writing with the meaning of being privately, in a place away from others."
+          },
+          {
+            "when": "1600s",
+            "text": "It was used for actions or discussions hidden from public view."
+          },
+          {
+            "when": "Today",
+            "text": "It means something happens privately, often with an implication of secrecy."
+          }
+        ]
+      },
+      "similar": [
+        "in private",
+        "under wraps",
+        "off the record",
+        "out of the public eye"
+      ],
+      "opposite": "in the open",
+      "pitfall": "It does not always imply wrongdoing; it can simply describe a private meeting or conversation."
+    },
+    {
+      "id": "behind-someones-back",
+      "kind": "idiom",
+      "term": "behind someone's back",
+      "pos": "idiom",
+      "hint": "when nobody important is watching",
+      "register": "Everyday",
+      "meaning": "To say, do, or arrange something secretly without the knowledge or approval of the person concerned.",
+      "nuance": "It implies that the other person would probably object or feel hurt if they knew. It can describe either harmless secrecy or a deliberate betrayal.",
+      "literal": "Someone doing something while another person is facing the opposite direction.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · changing a deadline",
+          "sentence": "The manager changed the deadline behind our backs without asking the team.",
+          "highlight": "behind our backs",
+          "tip": "Plural ‘backs’ is natural when several people are affected."
+        },
+        {
+          "setting": "social",
+          "where": "Friends · sharing news",
+          "sentence": "He went behind my back and told everyone about the argument.",
+          "highlight": "behind my back",
+          "tip": "Often suggests that the speaker feels excluded or betrayed."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · explaining a decision",
+          "sentence": "The decision was made behind the committee’s back, so several members objected.",
+          "highlight": "behind the committee’s back",
+          "tip": "Common when reporting a decision made without consultation."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the idea of doing something while another person cannot see. Its meaning of acting secretly is well documented and has been in use for centuries.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1400s",
+            "text": "Early English forms of the phrase describe something happening while a person is not looking."
+          },
+          {
+            "when": "1600s",
+            "text": "The figurative sense of acting secretly without someone’s knowledge is established."
+          },
+          {
+            "when": "Today",
+            "text": "It means saying, doing, or arranging something without the knowledge or approval of the person concerned."
+          }
+        ]
+      },
+      "similar": [
+        "under someone's nose",
+        "behind closed doors",
+        "in secret"
+      ],
+      "opposite": "in the open",
+      "pitfall": "Use ‘behind someone’s back’ for secrecy, not for simply arriving after them."
+    },
+    {
+      "id": "behind-the-scenes",
+      "kind": "idiom",
+      "term": "behind the scenes",
+      "pos": "idiom",
+      "hint": "the part nobody sees",
+      "register": "Common at work",
+      "meaning": "The hidden work, planning, or activity that helps something happen but is not visible to the public.",
+      "nuance": "It can describe backstage work in a broad sense or the private decisions and negotiations behind an event. It often implies effort that audiences do not normally notice.",
+      "literal": "In the part of a theatre where performers and crew work out of sight.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · launching a product",
+          "sentence": "Behind the scenes, the team spent weeks testing the product before the announcement.",
+          "highlight": "Behind the scenes",
+          "tip": "Introduces activity that happened privately or without public attention."
+        },
+        {
+          "setting": "social",
+          "where": "Event gossip · an organised surprise",
+          "sentence": "Behind the scenes, my friends planned the party while keeping the secret from me.",
+          "highlight": "Behind the scenes",
+          "tip": "Useful when describing private arrangements that others do not see."
+        },
+        {
+          "setting": "writing",
+          "where": "Arts coverage · making a show happen",
+          "sentence": "The article explores the technical work behind the scenes of a successful stage production.",
+          "highlight": "behind the scenes",
+          "tip": "Common in reporting about theatre, film, music, and events."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from theatre, where performers and crew work in areas hidden from the audience. By the early 20th century, it was being used figuratively for hidden or less visible activity.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1600s–1700s",
+            "text": "European theatres develop backstage spaces where performers and crew prepare away from the audience."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase appears in the theatrical sense of activity outside the audience’s view."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "The expression begins being used for the private work behind public events and performances."
+          }
+        ]
+      },
+      "similar": [
+        "offstage",
+        "behind closed doors",
+        "out of the spotlight",
+        "in the background"
+      ],
+      "opposite": "in the spotlight",
+      "pitfall": "It does not always mean a secret; it may simply refer to work that audiences do not see."
+    },
+    {
+      "id": "believe-it-or-not",
+      "kind": "idiom",
+      "term": "Believe it or not",
+      "pos": "idiom",
+      "hint": "whether you accept this surprising fact",
+      "register": "Everyday",
+      "meaning": "Used to introduce a surprising statement that the speaker believes is true, whether the listener accepts it or not.",
+      "nuance": "The phrase adds emphasis and can sound conversational, amused or slightly challenging. It often signals that the statement may seem unlikely.",
+      "literal": "Whether you believe it or not.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · sharing an update",
+          "sentence": "Believe it or not, the delayed report was caused by one missing password.",
+          "highlight": "Believe it or not",
+          "tip": "Often starts a surprising update about work."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up · surprising news",
+          "sentence": "Believe it or not, she completed the marathon while working full-time.",
+          "highlight": "Believe it or not",
+          "tip": "Natural when the news may sound exaggerated or hard to accept."
+        },
+        {
+          "setting": "writing",
+          "where": "Personal email · sharing an achievement",
+          "sentence": "Believe it or not, my application has finally been accepted.",
+          "highlight": "Believe it or not",
+          "tip": "A friendly way to introduce an unexpected piece of good news."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably grew from the older expression “believe it” combined with “or not” to contrast what someone believes with what another person may accept. Its exact first use is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Believe it” and “or not” were used in separate expressions involving acceptance or doubt."
+          },
+          {
+            "when": "1700s",
+            "text": "Similar wording appears in writing as the two parts became a familiar set phrase."
+          },
+          {
+            "when": "Today",
+            "text": "It introduces a surprising claim without requiring the listener to agree."
+          }
+        ]
+      },
+      "similar": [
+        "You won’t believe this",
+        "Strange as it may seem",
+        "Surprisingly enough"
+      ],
+      "pitfall": "When it begins a sentence and is followed by another clause, use a comma: “Believe it or not, it worked.”"
+    },
+    {
+      "id": "beneath-the-surface",
+      "kind": "idiom",
+      "term": "beneath the surface",
+      "pos": "idiom",
+      "hint": "not visible at first",
+      "register": "Common at work",
+      "meaning": "Hidden below what people can immediately see or notice.",
+      "nuance": "It often suggests deeper feelings, problems or tensions. It can sound thoughtful or subtly concerned, depending on the context.",
+      "literal": "Below the top of water, soil or another material.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · changing deadlines",
+          "sentence": "The team agreed on the plan, but frustration was growing beneath the surface.",
+          "highlight": "beneath the surface",
+          "tip": "Use it when an apparent calm hides an underlying problem."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · an old disagreement",
+          "sentence": "They kept smiling, but the awkwardness beneath the surface made the evening tense.",
+          "highlight": "beneath the surface",
+          "tip": "Often describes emotions that are not openly discussed."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · unresolved risks",
+          "sentence": "Progress looked good, but technical debt remained beneath the surface.",
+          "highlight": "beneath the surface",
+          "tip": "Useful in reports when mentioning a problem that is not yet visible."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase began as a description of something physically below a surface. Its figurative use for hidden feelings and problems became established in the 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used the literal phrase for objects below water, soil or another surface."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers began using the phrase for feelings, tensions and problems that were not immediately visible."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly points to deeper issues beneath an outwardly calm situation."
+          }
+        ]
+      },
+      "similar": [
+        "below the surface",
+        "under the surface",
+        "under the hood"
+      ],
+      "pitfall": "Do not confuse it with “at the surface,” which means only in a general or superficial way."
+    },
+    {
+      "id": "beyond-a-shadow-of-a-doubt",
+      "kind": "idiom",
+      "term": "beyond a shadow of a doubt",
+      "pos": "idiom",
+      "hint": "with absolutely no uncertainty",
+      "register": "Common at work",
+      "meaning": "With complete certainty, leaving no possible room for doubt.",
+      "nuance": "This is a strong, emphatic way to say you are completely sure. It suits both spoken arguments and careful written conclusions.",
+      "literal": "Even the smallest shadow of doubt lies beyond reach.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Presenting audit findings",
+          "sentence": "The logs prove beyond a shadow of a doubt that the backup failed before the update.",
+          "highlight": "beyond a shadow of a doubt",
+          "tip": "Use it when presenting evidence that leaves no real uncertainty."
+        },
+        {
+          "setting": "social",
+          "where": "Confirming a plan",
+          "sentence": "She knows beyond a shadow of a doubt that we are taking the wrong train.",
+          "highlight": "beyond a shadow of a doubt",
+          "tip": "Adds emphasis to something you feel certain about."
+        },
+        {
+          "setting": "writing",
+          "where": "Supporting an argument",
+          "sentence": "The survey results show beyond a shadow of a doubt that customers value faster support.",
+          "highlight": "beyond a shadow of a doubt",
+          "tip": "Common in reports, reviews and persuasive writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase develops from the idea that even a slight visual shadow represents something uncertain. Its exact origin is not securely documented, but the wording is attested in the early 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English writers used ‘beyond a doubt’ to mean certainly or unquestionably."
+          },
+          {
+            "when": "1800s",
+            "text": "The expanded wording ‘beyond a shadow of a doubt’ appears in use."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar emphatic expression of complete certainty."
+          }
+        ]
+      },
+      "similar": [
+        "without a doubt",
+        "beyond doubt",
+        "there is no question"
+      ],
+      "opposite": "in any doubt",
+      "pitfall": "This is stronger than ‘probably’ or ‘almost certainly’; it claims complete confidence."
+    },
+    {
+      "id": "bona-fide",
+      "kind": "idiom",
+      "term": "bona fide",
+      "pos": "phrase",
+      "hint": "genuine and legitimate",
+      "register": "Formal",
+      "meaning": "Genuine, legitimate, and made in good faith.",
+      "nuance": "Formal and reassuring, especially for credentials, documents, offers, or intentions. It often suggests that something has been properly checked or honestly intended.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Recruitment · checking an offer",
+          "sentence": "The company confirmed that it was a bona fide job offer before the interview.",
+          "highlight": "bona fide",
+          "tip": "Useful when confirming that something is legitimate."
+        },
+        {
+          "setting": "social",
+          "where": "Friends · showing sincerity",
+          "sentence": "She apologized sincerely, which showed that she wanted to repair the friendship bona fide.",
+          "highlight": "bona fide",
+          "tip": "Less usual in casual conversation; formal writing suits it better."
+        },
+        {
+          "setting": "writing",
+          "where": "Business email · verifying documents",
+          "sentence": "Please send the original certificate so we can confirm it is bona fide.",
+          "highlight": "bona fide",
+          "tip": "Often used in legal, academic, or professional contexts."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from Latin, where bona fides means ‘good faith.’ English legal writers borrowed it to describe honest dealings before it developed the broader sense of genuine or authentic.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Roman period",
+            "text": "Latin uses bona fides for honesty, good faith, and genuine intent."
+          },
+          {
+            "when": "1600s",
+            "text": "English legal writing adopts bona fide to refer to actions performed honestly and in good faith."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "The expression expands beyond good intentions to mean genuine, legitimate, or properly issued."
+          },
+          {
+            "when": "Today",
+            "text": "It is a formal way to emphasize authenticity, legitimacy, or sincerity."
+          }
+        ]
+      },
+      "similar": [
+        "authentic",
+        "legitimate",
+        "genuine",
+        "for real"
+      ],
+      "opposite": "fake",
+      "pitfall": "It can also appear before a noun, as in ‘a bona fide certificate’, but it should not replace the adjective ‘genuine’ in every context."
+    },
+    {
+      "id": "by-the-way",
+      "kind": "idiom",
+      "term": "by the way",
+      "pos": "phrase",
+      "hint": "a quick side note",
+      "register": "Everyday",
+      "meaning": "Used to introduce something additional or unrelated to the main point of a conversation.",
+      "nuance": "It sounds casual and friendly, often helping you add a thought without sharply changing the subject.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · adding context",
+          "sentence": "By the way, we moved the deadline to Friday.",
+          "highlight": "By the way",
+          "tip": "Use it to add a brief update after the main discussion."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with a friend",
+          "sentence": "By the way, are you still coming to dinner on Saturday?",
+          "highlight": "By the way",
+          "tip": "A natural way to bring up a question you have just remembered."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · adding a reminder",
+          "sentence": "By the way, please send me the revised figures when you have a moment.",
+          "highlight": "By the way",
+          "tip": "Common in friendly emails, though it can sound informal in very formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase grew from the literal meaning of passing something near the route someone was travelling, then came to mean adding a related remark while speaking.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The words ‘by’ and ‘the way’ could describe something encountered beside a route."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression appears in writing as a way of introducing an additional point in conversation."
+          },
+          {
+            "when": "Today",
+            "text": "It is used to add a quick side comment or reminder."
+          }
+        ]
+      },
+      "similar": [
+        "by the way of",
+        "on the way",
+        "in the way"
+      ],
+      "pitfall": "‘By the way’ is not the same as ‘on the way’, which describes something happening during a journey."
+    },
+    {
+      "id": "cut-both-ways",
+      "kind": "idiom",
+      "term": "cut both ways",
+      "pos": "idiom",
+      "hint": "can help and harm",
+      "register": "Everyday",
+      "meaning": "To have two opposite effects or consequences.",
+      "nuance": "It suggests that a decision, choice, or situation may bring benefits and problems at the same time. Use it when the same action or factor works in more than one way.",
+      "literal": "A blade that cuts in two directions.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · choosing a new supplier",
+          "sentence": "The lower price cut both ways: it saved money, but the unreliable deliveries cost us time.",
+          "highlight": "cut both ways",
+          "tip": "Useful for showing that one choice has both advantages and drawbacks."
+        },
+        {
+          "setting": "social",
+          "where": "Friends · discussing a shared apartment",
+          "sentence": "Having a central office cut both ways, since we have more space but less privacy.",
+          "highlight": "cut both ways",
+          "tip": "Common when describing a practical option that helps in one way and hurts in another."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · reviewing a policy",
+          "sentence": "The policy cut both ways by improving access while also making the application process more complicated.",
+          "highlight": "cut both ways",
+          "tip": "A clear, professional way to balance benefits and disadvantages in writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the idea that a sharp tool can cut on either side. Its figurative sense is well established, but the exact earliest wording is difficult to trace.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Comparable expressions about a cut working in both directions appear in English writing."
+          },
+          {
+            "when": "19th century",
+            "text": "The phrase appears in forms closely connected with the modern meaning."
+          },
+          {
+            "when": "Today",
+            "text": "Means that something can have both positive and negative effects."
+          }
+        ]
+      },
+      "similar": [
+        "have pros and cons",
+        "be a double-edged sword",
+        "work both ways"
+      ],
+      "pitfall": "It describes opposite effects of one thing, not two separate actions that happen to help."
+    },
+    {
+      "id": "dead-giveaway",
+      "kind": "idiom",
+      "term": "dead giveaway",
+      "pos": "idiom",
+      "hint": "an obvious sign that reveals something",
+      "register": "Everyday",
+      "meaning": "An obvious sign or clue that reveals a hidden fact, feeling, or intention.",
+      "nuance": "It often suggests that someone has unintentionally exposed what they were trying to keep private. It can also refer to a clear sign that makes a conclusion easy.",
+      "literal": "A giveaway so unmistakable that it completely reveals the secret.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · a missed deadline",
+          "sentence": "Your repeated status updates are a dead giveaway that the project is behind schedule.",
+          "highlight": "dead giveaway",
+          "tip": "Use it when a visible detail makes someone’s situation obvious."
+        },
+        {
+          "setting": "social",
+          "where": "Catching a friend · hiding excitement",
+          "sentence": "That smile is a dead giveaway that you already know what happened.",
+          "highlight": "dead giveaway",
+          "tip": "Often describes a facial expression or reaction that reveals the truth."
+        },
+        {
+          "setting": "writing",
+          "where": "Crime story · describing a clue",
+          "sentence": "The muddy shoes were a dead giveaway, so the detective knew someone had crossed the garden.",
+          "highlight": "dead giveaway",
+          "tip": "Useful in narrative writing for a clue that is easy for the reader to recognise."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely grew from the older word ‘giveaway’, meaning something that reveals a hidden fact. Adding ‘dead’ emphasizes how obvious or unmistakable the clue is.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The word ‘giveaway’ is used for a sign or indication that reveals something concealed."
+          },
+          {
+            "when": "Late 1800s–1900s",
+            "text": "The expression ‘dead giveaway’ becomes established for an unmistakable sign."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for obvious clues in everyday conversation, work, and stories."
+          }
+        ]
+      },
+      "similar": [
+        "giveaway",
+        "telltale sign",
+        "sleeper clue"
+      ],
+      "opposite": "subtle hint",
+      "pitfall": "It usually describes a sign or clue, not the hidden fact itself."
+    },
+    {
+      "id": "drum-into",
+      "kind": "idiom",
+      "term": "drum into",
+      "pos": "idiom",
+      "hint": "repeat firmly until someone remembers",
+      "register": "Common at work",
+      "meaning": "To repeat something to someone many times so they clearly understand and remember it.",
+      "nuance": "It suggests persistent, deliberate emphasis, sometimes with a slightly impatient tone. It fits when a rule, lesson, or key point must not be forgotten.",
+      "literal": "To play a rhythm over and over on a drum.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team briefing · safety rules",
+          "sentence": "Our manager drummed the need for strong passwords into the team for months.",
+          "highlight": "drummed",
+          "tip": "The word changes form to show tense: drummed, drumming, drums."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a trip · packing",
+          "sentence": "I drummed it into my friends that we needed to bring identification.",
+          "highlight": "drummed it into",
+          "tip": "Often followed by the subject, a pronoun, or a clause explaining the point."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · project deadline",
+          "sentence": "The memo drummed into every department that expenses must be filed by Friday.",
+          "highlight": "drummed into",
+          "tip": "Common in firm messages about rules, deadlines, or repeated warnings."
+        }
+      ],
+      "origin": {
+        "summary": "The expression likely developed from the idea of repeating a message like a drum rhythm, with the figurative sense appearing in the 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Writers begin using ‘drum’ figuratively for repeatedly presenting information or an idea."
+          },
+          {
+            "when": "Later 1800s",
+            "text": "The expression expands into forms such as ‘drum a fact into someone’ and ‘drum it into him.’"
+          },
+          {
+            "when": "Today",
+            "text": "Means to insist repeatedly that someone understands or remembers something."
+          }
+        ]
+      },
+      "similar": [
+        "hammer home",
+        "emphasize",
+        "stress"
+      ],
+      "pitfall": "Usually takes an object: you drum a point into someone, not drum someone a point."
+    },
+    {
+      "id": "face-facts",
+      "kind": "idiom",
+      "term": "face facts",
+      "pos": "idiom",
+      "hint": "accept reality",
+      "register": "Common at work",
+      "meaning": "To accept a situation as it really is rather than deny or avoid it.",
+      "nuance": "Direct and sometimes uncomfortable. Use it when someone must acknowledge losses, mistakes or an unwelcome reality.",
+      "literal": "Looking directly at the facts of a situation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget review · missed targets",
+          "sentence": "We need to face facts: the current campaign is not reaching enough customers.",
+          "highlight": "face facts",
+          "tip": "Common when a team acknowledges a difficult result."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · changing plans",
+          "sentence": "It’s time to face facts and choose a different venue.",
+          "highlight": "face facts",
+          "tip": "Often sounds practical, firm or slightly impatient."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · performance review",
+          "sentence": "The company must face facts if it hopes to restore customer confidence.",
+          "highlight": "face facts",
+          "tip": "Useful in reports when recommending a change based on clear evidence."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase has no single vivid origin story. Its meaning comes from “face” meaning to confront openly and “facts” meaning established or proven truths.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1800s",
+            "text": "The combination “face facts” appears in English writing."
+          },
+          {
+            "when": "1800s",
+            "text": "It becomes established for acknowledging reality, especially unwelcome reality."
+          },
+          {
+            "when": "Today",
+            "text": "It means accepting what is true and responding accordingly."
+          }
+        ]
+      },
+      "similar": [
+        "accept reality",
+        "face the truth",
+        "face the music",
+        "come to terms with"
+      ],
+      "opposite": "ignore the facts",
+      "pitfall": "It is about accepting reality, not simply looking at information."
+    },
+    {
+      "id": "fair-enough",
+      "kind": "idiom",
+      "term": "fair enough",
+      "pos": "idiom",
+      "hint": "that makes sense",
+      "register": "Everyday",
+      "meaning": "Used to say that someone’s point or reaction is reasonable and understandable.",
+      "nuance": "It shows that you accept what another person has said, often while gently ending a disagreement. It can sound friendly, neutral, or slightly dismissive depending on the context.",
+      "literal": "A fair response or standard.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · resolving a concern",
+          "sentence": "The deadline is tight, but fair enough—we’ll focus on the most urgent requests first.",
+          "highlight": "fair enough",
+          "tip": "Use it to accept a practical point and move the discussion forward."
+        },
+        {
+          "setting": "social",
+          "where": "Chat · explaining a late arrival",
+          "sentence": "You had to cross town in the rain? Fair enough, I would’ve been annoyed too.",
+          "highlight": "Fair enough",
+          "tip": "Shows empathy and agreement in a relaxed conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · replying to feedback",
+          "sentence": "Fair enough—I’ll clarify the budget assumptions in the next draft.",
+          "highlight": "Fair enough",
+          "tip": "A common way to acknowledge valid feedback before taking action."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the idea that something is fair or reasonable. Its exact first use is difficult to pin down, but it was already established in British English by the early 1900s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "‘Fair’ long meant equal, just, or reasonable, and ‘enough’ could emphasize that quality."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "The expression appears in British English as a way of conceding that a point is reasonable."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in speech, though it is less common in formal writing."
+          }
+        ]
+      },
+      "similar": [
+        "That's a fair point",
+        "I see what you mean",
+        "Point taken"
+      ],
+      "opposite": "That makes no sense",
+      "pitfall": "It does not mean that something is only adequate; it means that the other person’s view is reasonable."
+    },
+    {
+      "id": "far-be-it",
+      "kind": "idiom",
+      "term": "far be it",
+      "pos": "idiom",
+      "hint": "definitely not me",
+      "register": "Formal",
+      "meaning": "To say strongly that something is absolutely not the case, often with “from me” or “from us.”",
+      "nuance": "This sounds emphatic and sometimes slightly formal or ironic. It is commonly followed by “to” and a verb, or by “that” and a clause.",
+      "literal": "Let it be a long way away from me.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · missed deadline",
+          "sentence": "Honestly, far be it from me to criticize the team, but the deadline still needs to move.",
+          "highlight": "far be it",
+          "tip": "Use “far be it from me to” when firmly rejecting a criticism or accusation."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · giving advice",
+          "sentence": "I know nothing about sailing, so far be it from me to give you advice.",
+          "highlight": "far be it",
+          "tip": "Often signals that the speaker does not want to claim knowledge or control."
+        },
+        {
+          "setting": "writing",
+          "where": "Project assessment · cautious praise",
+          "sentence": "Far be it from us to call the project a failure; the first results are still encouraging.",
+          "highlight": "Far be it",
+          "tip": "Useful in reports and articles for a firm but measured rejection of a conclusion."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from older English wording in which “far” meant “far away” and “be it” expressed rejection or denial. Its exact development is difficult to trace with certainty.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English speakers used “far be it” to mean “let it be far away,” especially in expressions of denial."
+          },
+          {
+            "when": "1500s",
+            "text": "The wording appears in English in forms resembling the modern “far be it from me.”"
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal way to strongly deny something or disown an action or opinion."
+          }
+        ]
+      },
+      "similar": [
+        "far from me",
+        "not likely",
+        "I'd be the last person",
+        "on no account"
+      ],
+      "opposite": "I'm all for it",
+      "pitfall": "It is normally used within a fuller expression, especially “far be it from me to” or “far be it that,” rather than entirely on its own."
+    },
+    {
+      "id": "feel-out",
+      "kind": "idiom",
+      "term": "feel out",
+      "pos": "phrase",
+      "hint": "find out someone’s opinion carefully",
+      "register": "Common at work",
+      "meaning": "To find out what someone thinks or is willing to do by asking or testing the idea gently.",
+      "nuance": "It suggests a cautious, indirect approach rather than a blunt request. Common when checking interest, reactions, or possible support.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · suggesting a new process",
+          "sentence": "I’m trying to feel out the team before proposing another change.",
+          "highlight": "feel out",
+          "tip": "Often used when you want to test support without making a formal request."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a trip · checking the date",
+          "sentence": "I felt her out about the weekend and sensed she wasn’t enthusiastic.",
+          "highlight": "felt",
+          "tip": "In this example, the inflected form means you discovered her reaction."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · asking about a proposal",
+          "sentence": "Could you feel out your team and let me know whether they are open to the idea?",
+          "highlight": "feel out",
+          "tip": "Useful when you want someone to gauge interest before committing."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is unclear. The phrase combines the older sense of ‘feel’ with ‘out’, meaning to discover something by trying to sense it or asking indirectly.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Uses of ‘feel’ meaning to try or discover by perception are well established."
+          },
+          {
+            "when": "1900s",
+            "text": "‘Feel out’ appears in the sense of cautiously trying to discover someone’s attitude or intention."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used for checking interest, reactions, or willingness."
+          }
+        ]
+      },
+      "similar": [
+        "Sound out",
+        "Test the waters",
+        "Pick someone's brains"
+      ],
+      "pitfall": "‘Feel out’ usually means to discover someone’s view or reaction; it does not mean physically search around."
+    },
+    {
+      "id": "fine-line",
+      "kind": "idiom",
+      "term": "fine line",
+      "pos": "idiom",
+      "hint": "a very small difference",
+      "register": "Common at work",
+      "meaning": "A very small difference between two things, activities, or forms of behaviour.",
+      "nuance": "It suggests that the distinction is easy to overlook or cross. Use it when two choices may seem similar but have meaningfully different consequences.",
+      "literal": "A thin line drawn with great precision.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · choosing priorities",
+          "sentence": "There’s a fine line between being helpful and taking on work that isn’t yours.",
+          "highlight": "fine line",
+          "tip": "Often used to introduce a warning or clarify a professional boundary."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · online posts",
+          "sentence": "There’s a fine line between posting a joke and making fun of someone.",
+          "highlight": "fine line",
+          "tip": "Natural when discussing where casual behaviour becomes unkind."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial comment · workplace conduct",
+          "sentence": "The report draws a fine line between flexible working and employees always being available.",
+          "highlight": "fine line",
+          "tip": "Useful in articles and reports when showing that two practices are not quite the same."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from the literal picture of a very thin line. Standard dictionaries record figurative use by the mid-19th century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1851",
+            "text": "Standard dictionaries date the earliest known use of “fine line” to this year."
+          },
+          {
+            "when": "Later",
+            "text": "The phrase developed its modern sense of a delicate difference between ideas or behaviours."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes a narrow boundary that someone could easily misunderstand or cross."
+          }
+        ]
+      },
+      "similar": [
+        "thin line",
+        "narrow distinction",
+        "fine distinction"
+      ],
+      "opposite": "a wide gap",
+      "pitfall": "Include “a” when starting a sentence: “There’s a fine line…” It can also appear without an article in phrases such as “cross the fine line.”"
+    },
+    {
+      "id": "get-a-clue",
+      "kind": "idiom",
+      "term": "get a clue",
+      "pos": "idiom",
+      "hint": "become aware of the obvious",
+      "register": "Casual",
+      "meaning": "To become aware of something that should already be obvious.",
+      "nuance": "It can sound helpful when gently telling someone to think, but often expresses impatience or frustration with someone’s lack of understanding.",
+      "literal": "Find the piece of information that explains what is happening.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · repeated confusion",
+          "sentence": "The dashboard has been showing the same warning all morning, so please get a clue.",
+          "highlight": "get a clue",
+          "tip": "Often sounds impatient or insulting at work."
+        },
+        {
+          "setting": "social",
+          "where": "Friends · missing the point",
+          "sentence": "We’re meeting at eight, not nine. Get a clue and check the message.",
+          "highlight": "Get a clue",
+          "tip": "Use with close friends when the teasing is comfortable."
+        },
+        {
+          "setting": "writing",
+          "where": "Comment reply · explaining a basic error",
+          "sentence": "The email says Friday, so get a clue and stop guessing.",
+          "highlight": "get a clue",
+          "tip": "Sharper in casual writing; choose kinder wording for professional communication."
+        }
+      ],
+      "origin": {
+        "summary": "The word “clue” once referred to a ball of thread that helped someone follow a trail. Its sense of a guiding hint developed from that metaphor, and “get a clue” is recorded in use by the early 1900s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Clue” developed from “clew,” an old word for a ball of thread."
+          },
+          {
+            "when": "1500s–1700s",
+            "text": "The word came to mean something that provides guidance or a solution."
+          },
+          {
+            "when": "1900s",
+            "text": "The phrase “get a clue” became established in its current meaning."
+          },
+          {
+            "when": "Today",
+            "text": "It usually means someone has failed to notice something obvious."
+          }
+        ]
+      },
+      "similar": [
+        "get the picture",
+        "piece it together",
+        "read between the lines"
+      ],
+      "opposite": "be in the dark",
+      "pitfall": "It can be rude because it implies that someone is slow or misses obvious information."
+    }
+  ]
+}

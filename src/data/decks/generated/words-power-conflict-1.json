@@ -1,0 +1,1685 @@
+{
+  "id": "words-power-conflict-1",
+  "kind": "word",
+  "name": "Power & conflict · 1",
+  "blurb": "25 words about power & conflict",
+  "cards": [
+    {
+      "id": "abrogate",
+      "kind": "word",
+      "term": "abrogate",
+      "pos": "verb",
+      "phonetic": "/ˈæbrəˌɡeɪt/",
+      "sayIt": "AB-roh-gayt",
+      "register": "Formal",
+      "meaning": "To formally end, cancel, or revoke a law, agreement, privilege, or established authority.",
+      "nuance": "This is a forceful, formal word for removing something that previously had legal or official standing. It is more common in legal, political, and institutional contexts than in everyday conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Board meeting · ending a policy",
+          "sentence": "The directors voted to abrogate the old approval process after the merger.",
+          "highlight": "abrogate",
+          "tip": "Use it when a formal body cancels a rule or procedure."
+        },
+        {
+          "setting": "social",
+          "where": "Dispute · calling off an agreement",
+          "sentence": "Both families agreed to abrogate the arrangement they had made after the argument.",
+          "highlight": "abrogate",
+          "tip": "It sounds unusually official for a personal disagreement, so reserve it for serious situations."
+        },
+        {
+          "setting": "writing",
+          "where": "Legal opinion · challenging a rule",
+          "sentence": "The court held that the authority could not abrogate the safeguard without legislative approval.",
+          "highlight": "abrogate",
+          "tip": "It often appears in legal writing about powers, rules, and constitutional protections."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin abrogare, meaning ‘to repeal by popular decree’ or ‘cancel’. It developed in Roman legal language before entering English.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Roman Latin",
+            "text": "Abrogare was used for repealing a law or proposal through a formal decision."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in legal and political writing."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal term for revoking an authority, rule, or agreement."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "abrogation",
+          "label": "noun"
+        },
+        {
+          "term": "abrogated",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "revoke",
+        "repeal",
+        "annul",
+        "rescind"
+      ],
+      "opposite": "ratify",
+      "pitfall": "Do not confuse it with abdicate: abdicate means to give up a right or position, while abrogate means to annul a rule, agreement, or authority."
+    },
+    {
+      "id": "accomplice",
+      "kind": "word",
+      "term": "accomplice",
+      "pos": "noun",
+      "phonetic": "/əˈkɒmplɪs/",
+      "sayIt": "uh-KOM-plis",
+      "register": "Formal",
+      "meaning": "Someone who helps another person commit wrongdoing.",
+      "nuance": "The word can suggest a planned partnership in an offence or helping in a way that makes the wrongdoing easier. It is accusatory, so only use it when someone has knowingly helped.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Internal investigation · altered records",
+          "sentence": "The employee who changed the invoices was identified as an accomplice to the fraud.",
+          "highlight": "accomplice",
+          "tip": "Use this when someone knowingly helped another carry out wrongdoing."
+        },
+        {
+          "setting": "social",
+          "where": "Community event · stolen charity goods",
+          "sentence": "He acted as an accomplice by keeping the entrance open while the others took the goods.",
+          "highlight": "accomplice",
+          "tip": "It can describe help in everyday wrongdoing, but it carries a strong blame or legal tone."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · corruption investigation",
+          "sentence": "The report alleges that the contractor was an accomplice in hiding the conflict of interest.",
+          "highlight": "accomplice",
+          "tip": "A common alternative in reporting is co-conspirator, especially when the wrongdoing was planned."
+        }
+      ],
+      "origin": {
+        "summary": "From French accomplice, a word borrowed from Latin. Its root evokes being folded or entangled with another person, so helping another become involved.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The form accomplice originally referred to a helper or accomplice and was associated with being involved or entangled."
+          },
+          {
+            "when": "French",
+            "text": "Old French accomplice develops the sense of someone who helps another commit wrongdoing."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English, initially in legal contexts."
+          }
+        ]
+      },
+      "similar": [
+        "accessory",
+        "partner in crime",
+        "co-conspirator",
+        "helper"
+      ],
+      "opposite": "innocent bystander",
+      "pitfall": "An accomplice helps the wrongdoing; an accessory helps before or after the main act. Merely being present without assistance usually does not make someone an accomplice."
+    },
+    {
+      "id": "acrimonious",
+      "kind": "word",
+      "term": "acrimonious",
+      "pos": "adjective",
+      "phonetic": "/əˈkrɪməniəs/",
+      "sayIt": "uh-KRIM-uh-nee-us",
+      "register": "Formal",
+      "meaning": "Full of bitterness and sharp hostility, especially in a disagreement or relationship.",
+      "nuance": "It suggests a prolonged or unpleasant conflict marked by resentment and harsh feelings. It is more forceful and formal than simply saying an argument was difficult.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · handling a dispute",
+          "sentence": "The acrimonious debate over responsibilities slowed down the whole project.",
+          "highlight": "acrimonious",
+          "tip": "Use it for conflict that is unusually bitter or hostile, not every disagreement."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · old disagreement",
+          "sentence": "Their relationship became acrimonious after years of arguing over money.",
+          "highlight": "acrimonious",
+          "tip": "This sounds formal, so it may be better in a serious conversation than casual chat."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · describing a legal dispute",
+          "sentence": "The report describes an acrimonious dispute between the two former partners.",
+          "highlight": "acrimonious",
+          "tip": "Use it to characterise a conflict in formal writing without describing every incident."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin acrimonius, meaning sharp or bitter, related to acer, sharp, and acrimonia, bitterness.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Acrimonius develops from roots connected with acer, meaning sharp or pungent."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in the sense of sharp, bitter or harsh."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used to describe bitter personal, legal or institutional conflict."
+          }
+        ]
+      },
+      "similar": [
+        "bitter",
+        "hostile",
+        "contentious",
+        "vitriolic"
+      ],
+      "opposite": "amicable",
+      "pitfall": "Don’t use it for a routine disagreement; “acrimonious” suggests deep bitterness or harsh hostility."
+    },
+    {
+      "id": "activism",
+      "kind": "word",
+      "term": "activism",
+      "pos": "noun",
+      "phonetic": "/ækˈtɪvɪzəm/",
+      "sayIt": "ak-TIV-iz-um",
+      "register": "Common in social and political contexts",
+      "meaning": "Active support for a political, social, or environmental cause, often involving public campaigns or direct action.",
+      "nuance": "It can sound principled and energetic, but some people use it critically when they think a campaign is disruptive or overly forceful.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Staff meeting · discussing a company policy",
+          "sentence": "Several employees organized workplace activism to push for clearer climate targets.",
+          "highlight": "activism",
+          "tip": "Use it for organised efforts intended to influence workplace decisions."
+        },
+        {
+          "setting": "social",
+          "where": "Community meeting · planning a local campaign",
+          "sentence": "Her activism began when neighbours started demanding safer streets and better lighting.",
+          "highlight": "activism",
+          "tip": "It often describes sustained action connected to a wider social goal."
+        },
+        {
+          "setting": "writing",
+          "where": "Essay introduction · discussing public participation",
+          "sentence": "The essay examines how digital activism can mobilise people while also spreading misinformation.",
+          "highlight": "activism",
+          "tip": "It works well in formal writing about collective action, protest, or social change."
+        }
+      ],
+      "origin": {
+        "summary": "Built from “active” and the suffix “-ism”. English usage developed during the 1800s, alongside growing political movements and campaigns for social reform.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Activus, meaning “active” or “doing”, provides the root."
+          },
+          {
+            "when": "1800s",
+            "text": "Activism appears in English in connection with active political and social movements."
+          },
+          {
+            "when": "Today",
+            "text": "The word covers campaigns, protests, organising, and other forms of public action."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "activist",
+          "label": "noun (person)"
+        },
+        {
+          "term": "activist",
+          "label": "adjective"
+        },
+        {
+          "term": "activistically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "protest",
+        "activism",
+        "campaigning",
+        "advocacy",
+        "direct action"
+      ],
+      "opposite": "complacency",
+      "pitfall": "Activism describes collective action for a cause, while activity is broader and can refer to almost anything people do."
+    },
+    {
+      "id": "adversary",
+      "kind": "word",
+      "term": "adversary",
+      "pos": "noun",
+      "phonetic": "/ˈæd.vər.sər.i/",
+      "sayIt": "AD-vur-suh-ree",
+      "register": "Formal",
+      "meaning": "A person or group that opposes or works against another person, organisation or plan.",
+      "nuance": "It often suggests a serious or persistent conflict, so it may sound more dramatic than “opponent.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Business meeting · competing proposal",
+          "sentence": "The other company became our main adversary when both firms bid for the same contract.",
+          "highlight": "adversary",
+          "tip": "Use it when opposition is organised or significant."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · heated debate",
+          "sentence": "My sister and I may disagree, but we have never been adversaries.",
+          "highlight": "adversaries",
+          "tip": "It describes people on opposing sides, not the disagreement itself."
+        },
+        {
+          "setting": "writing",
+          "where": "History essay · explaining conflict",
+          "sentence": "The colony’s former adversary eventually became its strongest trading partner.",
+          "highlight": "adversary",
+          "tip": "It gives formal historical writing a sense of sustained opposition."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin adversarius, meaning an opponent or opponent in a lawsuit, based on adversus, “opposed” or “against.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Adversarius referred to an opponent, especially in legal disputes."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word entered Middle English through Old French."
+          },
+          {
+            "when": "Today",
+            "text": "It means a person or group opposed to another."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "adverse",
+          "label": "adjective"
+        },
+        {
+          "term": "adversarial",
+          "label": "adjective"
+        },
+        {
+          "term": "adversity",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "opponent",
+        "rival",
+        "antagonist"
+      ],
+      "opposite": "ally",
+      "pitfall": "Don’t use it for anyone who simply holds a different opinion; it suggests active or organised opposition."
+    },
+    {
+      "id": "aegis",
+      "kind": "word",
+      "term": "aegis",
+      "pos": "noun",
+      "phonetic": "/ˈiːdʒɪs/",
+      "sayIt": "EE-jis",
+      "register": "Formal",
+      "meaning": "Protection, support, or sponsorship provided by a person or organisation.",
+      "nuance": "It suggests a strong form of safeguarding or backing. It is often used in formal writing to describe an activity carried out under someone’s authority or sponsorship.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · naming supporters",
+          "sentence": "The pilot programme was developed under the aegis of the engineering department.",
+          "highlight": "aegis",
+          "tip": "Use it when an organisation officially supports or takes responsibility for a project."
+        },
+        {
+          "setting": "social",
+          "where": "Community event · thanking organisers",
+          "sentence": "The youth workshop took place under the aegis of the local library.",
+          "highlight": "aegis",
+          "tip": "It can sound respectful when acknowledging the group that oversees an event."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal proposal · stating sponsorship",
+          "sentence": "Research will continue under the aegis of the university’s ethics committee.",
+          "highlight": "aegis",
+          "tip": "The common phrase is “under the aegis of,” meaning “with the protection or authority of.”"
+        }
+      ],
+      "origin": {
+        "summary": "From the Greek aigis, a goatskin shield associated with the goddess Athena and, in later poetry, Zeus.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "The word referred to a protective goatskin shield."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "It enters English as a direct borrowing from Greek and Latin."
+          },
+          {
+            "when": "19th century onward",
+            "text": "Its figurative sense expands to include protection, authority and sponsorship."
+          }
+        ]
+      },
+      "similar": [
+        "protection",
+        "safeguard",
+        "backing",
+        "sponsorship",
+        "patronage"
+      ],
+      "opposite": "exposure",
+      "pitfall": "Don’t use it as a general synonym for “shield”; it normally adds a sense of powerful protection, authority or sponsorship."
+    },
+    {
+      "id": "amnesty",
+      "kind": "word",
+      "term": "amnesty",
+      "pos": "noun",
+      "phonetic": "/ˈæm.nɪ.sti/",
+      "sayIt": "AM-nis-tee",
+      "register": "Formal",
+      "meaning": "An official forgiveness that cancels punishment for particular offences, often for a whole group of people.",
+      "nuance": "An amnesty usually grants freedom from prosecution or punishment without denying that wrongdoing occurred. It is common in legal, political and workplace discussions.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Finance team · clearing compliance issues",
+          "sentence": "The bank offered an amnesty for customers who disclosed undeclared accounts before the deadline.",
+          "highlight": "amnesty",
+          "tip": "Use it when a group is forgiven for violating a rule, often on condition that they come forward."
+        },
+        {
+          "setting": "social",
+          "where": "Community meeting · rebuilding trust",
+          "sentence": "The council granted an amnesty to residents who had avoided minor licence fees for years.",
+          "highlight": "amnesty",
+          "tip": "It sounds institutional and formal, so it suits public decisions more than personal apologies."
+        },
+        {
+          "setting": "writing",
+          "where": "Policy proposal · considering offenders",
+          "sentence": "The report recommends an amnesty for first-time offenders who complete a rehabilitation programme.",
+          "highlight": "amnesty",
+          "tip": "Often paired with propose, grant, offer, receive or negotiate in formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek amnestia, meaning forgiveness, connected with amnestos, meaning forgetful or unforgetting.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Amnestia referred to forgiveness, especially the forgetting of offences."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word entered English through Latin in legal and political writing."
+          },
+          {
+            "when": "Today",
+            "text": "It usually means an official pardon granted to a group of people."
+          }
+        ]
+      },
+      "similar": [
+        "pardon",
+        "clemency",
+        "forgiveness",
+        "reprieve"
+      ],
+      "opposite": "prosecution",
+      "pitfall": "An amnesty usually covers a defined group or category of offences, while a pardon usually cancels the punishment of one individual."
+    },
+    {
+      "id": "appease",
+      "kind": "word",
+      "term": "appease",
+      "pos": "verb",
+      "phonetic": "/əˈpiːz/",
+      "sayIt": "uh-PEEZ",
+      "register": "Formal",
+      "meaning": "To make someone calmer or less angry by giving them what they want or reducing the conflict.",
+      "nuance": "Often suggests giving in to avoid tension or trouble. It can sound cooperative, but it may also imply papering over a problem rather than solving it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · calming a dispute",
+          "sentence": "The manager offered extra support to appease the client after the launch was delayed.",
+          "highlight": "appease",
+          "tip": "Useful when someone is angry and needs a quick gesture of goodwill."
+        },
+        {
+          "setting": "social",
+          "where": "Family dinner · resolving an argument",
+          "sentence": "She brought dessert to appease her brother, who was still annoyed about the invitation.",
+          "highlight": "appease",
+          "tip": "It describes calming a person, often by giving in to their wishes."
+        },
+        {
+          "setting": "writing",
+          "where": "Negotiation email · addressing complaints",
+          "sentence": "To appease both sides, we agreed to review the proposal again on Friday.",
+          "highlight": "appease",
+          "tip": "It can introduce a temporary compromise in formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French apaiser, meaning ‘to calm’ or ‘make peaceful’, based on pais, meaning ‘peace’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old French",
+            "text": "Apaiser meant ‘to calm’ or ‘bring to peace’."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word entered English in the sense of making someone less angry or hostile."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes giving in or making a concession to prevent conflict."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "appeasement",
+          "label": "noun"
+        },
+        {
+          "term": "appeasable",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "placate",
+        "pacify",
+        "soothe",
+        "calm"
+      ],
+      "opposite": "provoke",
+      "pitfall": "Appeasing someone may calm them for the moment, but it does not necessarily fix the underlying problem."
+    },
+    {
+      "id": "arbiter",
+      "kind": "word",
+      "term": "arbiter",
+      "pos": "noun",
+      "phonetic": "/ˈɑːrbɪtər/",
+      "sayIt": "AR-bih-ter",
+      "register": "Formal",
+      "meaning": "A person with the authority to judge a disagreement and decide how it should be resolved.",
+      "nuance": "Often suggests someone whose opinion carries significant weight, whether formal or informal. It can sound traditional or authoritarian when used outside legal settings.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · resolving a conflict",
+          "sentence": "Our compliance lead acted as the arbiter when legal and operations disagreed about the deadline.",
+          "highlight": "arbiter",
+          "tip": "Useful when describing someone trusted to make or guide a difficult decision."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · breaking a tie",
+          "sentence": "When the group could not choose a restaurant, my sister became the arbiter and ordered for everyone.",
+          "highlight": "arbiter",
+          "tip": "It adds a slightly formal or playful tone to an everyday decision."
+        },
+        {
+          "setting": "writing",
+          "where": "Contract terms · dispute process",
+          "sentence": "The agreement names an independent arbiter to settle any disputes under the contract.",
+          "highlight": "arbiter",
+          "tip": "In legal writing, clarify whether the person makes a binding decision or only helps the parties reach agreement."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin arbiter, meaning ‘judge’ or ‘one who decides a dispute,’ with a related root in arbitrare, ‘to arbitrate.’",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Classical Latin",
+            "text": "Arbiter meant a judge, mediator or person empowered to make a decision."
+          },
+          {
+            "when": "1300s–1400s",
+            "text": "Entered Middle English through Old French arbitre and Latin usage."
+          },
+          {
+            "when": "Today",
+            "text": "Refers to a judge, decision-maker or neutral authority, especially in formal contexts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "arbitration",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "adjudicator",
+        "mediator",
+        "judge",
+        "referee"
+      ],
+      "pitfall": "Do not confuse it with arbitrator. An arbiter may simply settle a dispute, while an arbitrator is usually a neutral third party selected to hear and decide a formal case."
+    },
+    {
+      "id": "belligerent",
+      "kind": "word",
+      "term": "belligerent",
+      "pos": "adjective",
+      "phonetic": "/bəˈlɪdʒərənt/",
+      "sayIt": "buh-LIJ-uh-runt",
+      "register": "Formal",
+      "meaning": "Showing a readiness to argue, threaten, or fight.",
+      "nuance": "The word is stronger and more formal than “aggressive.” It can describe a person, an organisation, or a hostile attitude, but it may make a situation sound more serious than it is.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · challenging a decision",
+          "sentence": "Her belligerent tone ended what should have been a useful discussion about the delay.",
+          "highlight": "belligerent",
+          "tip": "Use it for open hostility rather than ordinary firmness or disagreement."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · heated disagreement",
+          "sentence": "There was no need to become belligerent when everyone was only trying to agree on dinner.",
+          "highlight": "belligerent",
+          "tip": "It often implies that the person has made conflict worse."
+        },
+        {
+          "setting": "writing",
+          "where": "Complaint email · requesting a repair",
+          "sentence": "The company sent a belligerent response instead of explaining when the broken boiler would be fixed.",
+          "highlight": "belligerent",
+          "tip": "A neutral alternative is “hostile,” while “forceful” is milder and more neutral."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin belligerare, meaning “to wage war,” built from bellum, “war,” and gerere, “to carry on.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Belligerare means “to wage war” and comes from bellum, “war,” and gerere, “to carry on.”"
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English in legal and political writing about nations or parties at war."
+          },
+          {
+            "when": "Today",
+            "text": "Its main uses describe hostile behaviour, attitudes, or people."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "belligerently",
+          "label": "adverb"
+        },
+        {
+          "term": "belligerence",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "aggressive",
+        "hostile",
+        "combative",
+        "truculent"
+      ],
+      "opposite": "peaceable",
+      "pitfall": "As a noun, “belligerent” means a country or group taking part in a war, but this use is mainly in legal and historical contexts."
+    },
+    {
+      "id": "besiege",
+      "kind": "word",
+      "term": "besiege",
+      "pos": "verb",
+      "phonetic": "/bɪˈsiːdʒ/",
+      "sayIt": "be-SEEJ",
+      "register": "Formal",
+      "meaning": "To surround someone or something with a large number of people or forces so that they cannot move, communicate, or operate freely.",
+      "nuance": "The word suggests sustained, intense pressure from many directions. It can be used literally during a siege or figuratively when people overwhelm someone with requests or questions.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Press briefing · handling questions",
+          "sentence": "Reporters besiege the spokesperson with questions about the delayed launch.",
+          "highlight": "besiege",
+          "tip": "Use it figuratively when a person faces a crowd of persistent questioners."
+        },
+        {
+          "setting": "social",
+          "where": "Party · guests wanting attention",
+          "sentence": "Her friends besiege the birthday host with demands for another slice of cake.",
+          "highlight": "besiege",
+          "tip": "It adds a humorous sense of being surrounded and overwhelmed."
+        },
+        {
+          "setting": "writing",
+          "where": "Historical article · describing a siege",
+          "sentence": "The opposing army besieged the city for several months, cutting off food and supplies.",
+          "highlight": "besieged",
+          "tip": "This is the standard past-tense form for literal military use."
+        }
+      ],
+      "origin": {
+        "summary": "The word came into Middle English from Old French besieger, meaning to surround or blockade. Its deeper connection with siege is clear, although the older roots of that shared word are less certain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Old French",
+            "text": "Besieger meant to surround, occupy, or blockade."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word entered English in military and siege-related contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It is used both literally and figuratively for overwhelming pressure."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "besieger",
+          "label": "noun (person)"
+        },
+        {
+          "term": "besieged",
+          "label": "adjective"
+        },
+        {
+          "term": "besiegement",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "surround",
+        "blockade",
+        "overwhelm",
+        "swarm"
+      ],
+      "opposite": "relieve",
+      "pitfall": "Besiege is a verb; siege is the noun for the blockade or surrounding action."
+    },
+    {
+      "id": "brigand",
+      "kind": "word",
+      "term": "brigand",
+      "pos": "noun",
+      "phonetic": "/ˈbrɪɡənd/",
+      "sayIt": "BRI-guhnd",
+      "register": "Literary and historical",
+      "meaning": "A robber who attacks travellers or steals from a community, especially as part of an armed group.",
+      "nuance": "The word has a strongly historical or literary tone and may suggest a bold, dangerous outlaw rather than an ordinary thief.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Security briefing · assessing travel risk",
+          "sentence": "The briefing warned that armed brigands had been targeting vehicles near the border.",
+          "highlight": "brigands",
+          "tip": "Use it in a formal or historical context; “bandits” is more natural for modern reporting."
+        },
+        {
+          "setting": "social",
+          "where": "Storytelling · recounting an old adventure",
+          "sentence": "The villagers called him a brigand, but he claimed he only took food from the corrupt tax collector.",
+          "highlight": "brigand",
+          "tip": "It can sound dramatic and slightly romantic when describing a rebel or outlaw."
+        },
+        {
+          "setting": "writing",
+          "where": "Historical novel · describing rural unrest",
+          "sentence": "A band of brigands raided the estate, disappearing into the hills before dawn.",
+          "highlight": "brigands",
+          "tip": "Pair it with places, periods, or events where armed robbery and rebellion are central."
+        }
+      ],
+      "origin": {
+        "summary": "Borrowed from French brigand, probably from Italian brigante, a word associated with noisy fighting or quarrelling.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Medieval period",
+            "text": "Related words meaning fighters, brawlers, or soldiers appear in Italian and French."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in the sense of an armed robber or outlaw."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in historical, literary, or deliberately dramatic contexts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "brigandage",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "bandit",
+        "outlaw",
+        "highwayman",
+        "marauder"
+      ],
+      "pitfall": "Don’t use it as a general word for any thief; it usually implies an armed robber, often in a historical setting."
+    },
+    {
+      "id": "bulwark",
+      "kind": "word",
+      "term": "bulwark",
+      "pos": "noun",
+      "phonetic": "/ˈbʊlwɜːrk/",
+      "sayIt": "BUL-wurk",
+      "register": "Formal",
+      "meaning": "A strong protective barrier, or something that provides protection against danger, criticism, or financial loss.",
+      "nuance": "Originally described a defensive wall or rampart. Today it often refers to a policy, fund, or other measure that gives people a sense of security.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Risk meeting · protecting company funds",
+          "sentence": "The reserve fund is a bulwark against unexpected costs during a difficult quarter.",
+          "highlight": "bulwark",
+          "tip": "Use it for something that protects an organisation from a possible threat."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · discussing public safety",
+          "sentence": "The river embankment serves as a bulwark against flooding in the town centre.",
+          "highlight": "bulwark",
+          "tip": "It can describe a physical barrier as well as a broader form of protection."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · explaining a safeguard",
+          "sentence": "Diversification has proved to be an effective bulwark against market downturns.",
+          "highlight": "bulwark",
+          "tip": "This formal metaphor works well in reports and essays about security or resilience."
+        }
+      ],
+      "origin": {
+        "summary": "From Middle English bulwarke, influenced by Old French boulevarc and ultimately related to Latin bulwark, all referring to a defensive wall or fortification.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Middle English",
+            "text": "Bulwarke referred to a wall, rampart, or other defensive structure."
+          },
+          {
+            "when": "1500s–1800s",
+            "text": "The word became established in military and maritime contexts, including ships’ defensive structures."
+          },
+          {
+            "when": "Today",
+            "text": "It is also used figuratively for policies, systems, or resources that provide protection."
+          }
+        ]
+      },
+      "similar": [
+        "rampart",
+        "bastion",
+        "safeguard",
+        "barrier",
+        "defense"
+      ],
+      "opposite": "vulnerability",
+      "pitfall": "A bulwark protects against something; it does not itself attack or defeat the threat."
+    },
+    {
+      "id": "cabal",
+      "kind": "word",
+      "term": "cabal",
+      "pos": "noun",
+      "phonetic": "/kəˈbɑːl/",
+      "sayIt": "kuh-BAHL",
+      "register": "Formal",
+      "meaning": "A small group of people secretly working together to influence events or gain power.",
+      "nuance": "It usually suggests secretive and often cynical political maneuvering. The word can be seriously accusatory, so use it carefully when evidence is limited.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office politics · discussing a leadership change",
+          "sentence": "Several managers formed a cabal to influence the director’s decision.",
+          "highlight": "cabal",
+          "tip": "Use it for a hidden group pursuing power, especially within an organization."
+        },
+        {
+          "setting": "social",
+          "where": "Community meeting · private campaign",
+          "sentence": "A cabal of local residents quietly organized against the proposed development.",
+          "highlight": "cabal",
+          "tip": "It fits when the group’s meetings and aims are deliberately kept secret."
+        },
+        {
+          "setting": "writing",
+          "where": "Political article · explaining backroom deals",
+          "sentence": "The article alleged that a cabal of officials had been protecting the minister from scrutiny.",
+          "highlight": "cabal",
+          "tip": "Use it in serious reporting or analysis when describing secretive influence."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through French from a Hebrew term associated with a secret political gathering, and it became established in English during the political scandals of the 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Medieval period",
+            "text": "The word is linked to Hebrew traditions of secret meetings and political association."
+          },
+          {
+            "when": "1600s",
+            "text": "The Cabal became the name for a secret group associated with political influence around the English court."
+          },
+          {
+            "when": "Today",
+            "text": "It means a secretive group working to influence decisions or gain power."
+          }
+        ]
+      },
+      "similar": [
+        "clique",
+        "conspiracy",
+        "plot",
+        "coalition"
+      ],
+      "opposite": "open group",
+      "pitfall": "Don’t use it for every friendly group or informal alliance; it specifically suggests secrecy and usually carries a negative judgment."
+    },
+    {
+      "id": "capitulate",
+      "kind": "word",
+      "term": "capitulate",
+      "pos": "verb",
+      "phonetic": "/ˌkæpɪˈtjuːleɪt/",
+      "sayIt": "kuh-PIT-yoo-layt",
+      "register": "Formal",
+      "meaning": "To surrender or give in to an opponent, especially after resisting for some time.",
+      "nuance": "It has a formal, often forceful tone and suggests defeat under pressure rather than a voluntary agreement.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Negotiation · resolving a dispute",
+          "sentence": "The supplier finally capitulated and agreed to cover the cost of the faulty components.",
+          "highlight": "capitulated",
+          "tip": "Use it when someone yields after pressure, delay or repeated resistance."
+        },
+        {
+          "setting": "social",
+          "where": "Family argument · settling a disagreement",
+          "sentence": "After both sides argued for an hour, my brother capitulated and let me choose the restaurant.",
+          "highlight": "capitulated",
+          "tip": "It can sound dramatic or slightly humorous in less serious situations."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · describing a failed dispute",
+          "sentence": "The company capitulated to pressure from workers and revised its closure plan.",
+          "highlight": "capitulated",
+          "tip": "Often used in reporting to describe a powerful side forcing a concession."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin capitulare, meaning ‘to draw up terms’ or ‘submit on agreed conditions’, which developed into the sense of surrendering.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Capitulare meant ‘to draw up terms’ or ‘make a treaty’."
+          },
+          {
+            "when": "1500s",
+            "text": "Entered English with the sense of agreeing to terms or coming to an arrangement."
+          },
+          {
+            "when": "1800s",
+            "text": "Took on the stronger sense of surrendering to an opponent or superior force."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "capitulation",
+          "label": "noun"
+        },
+        {
+          "term": "capitulator",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "surrender",
+        "succumb",
+        "yield",
+        "give in"
+      ],
+      "opposite": "resist",
+      "pitfall": "Capitulate suggests defeat after resistance; use surrender or concede when no outright defeat is implied."
+    },
+    {
+      "id": "carnage",
+      "kind": "word",
+      "term": "carnage",
+      "pos": "noun",
+      "phonetic": "/ˈkɑːrnɪdʒ/",
+      "sayIt": "KAR-nij",
+      "register": "Formal and journalistic",
+      "meaning": "Extreme destruction or loss of life caused by violence, war, or a disaster.",
+      "nuance": "It is a strong, serious word, usually used when the scale of suffering is shocking. It focuses on the results of violence rather than the fighting itself.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Incident report · reviewing severe damage",
+          "sentence": "The blast caused carnage across the warehouse, leaving several workers injured.",
+          "highlight": "carnage",
+          "tip": "Use it for severe destruction or loss of life, especially in reports and headlines."
+        },
+        {
+          "setting": "social",
+          "where": "News discussion · describing a conflict",
+          "sentence": "The documentary showed the carnage caused by years of fighting and the civilians caught between both sides.",
+          "highlight": "carnage",
+          "tip": "It carries emotional weight, so place it after a clear reference to violence or disaster."
+        },
+        {
+          "setting": "writing",
+          "where": "News article · opening on a disaster",
+          "sentence": "Emergency teams arrived to find widespread carnage in the district after the earthquake.",
+          "highlight": "carnage",
+          "tip": "Common in journalism, but avoid using it when ordinary damage or a minor accident is meant."
+        }
+      ],
+      "origin": {
+        "summary": "From French carnage, meaning slaughter or butchery, ultimately connected to Latin caro, ‘flesh’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Middle French",
+            "text": "Carnage develops from carner, ‘to slaughter’, with roots in Latin caro, ‘flesh’."
+          },
+          {
+            "when": "1400s",
+            "text": "The word enters English, initially meaning slaughter or butchery."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for extreme destruction and loss of life caused by violence or disaster."
+          }
+        ]
+      },
+      "similar": [
+        "slaughter",
+        "devastation",
+        "mayhem",
+        "massacre"
+      ],
+      "opposite": "peace",
+      "pitfall": "Don’t use carnage for ordinary mess or damage; it suggests violence, disaster, or a shocking level of destruction."
+    },
+    {
+      "id": "castigate",
+      "kind": "word",
+      "term": "castigate",
+      "pos": "verb",
+      "phonetic": "/ˈkæstɪɡeɪt/",
+      "sayIt": "KAS-ti-gayt",
+      "register": "Formal",
+      "meaning": "To punish or reprimand someone severely.",
+      "nuance": "Stronger and more formal than criticize, with the sense that the person receives a serious penalty or harsh rebuke.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Board meeting · addressing misconduct",
+          "sentence": "The director casticated the manager for ignoring the safety report.",
+          "highlight": "casticated",
+          "tip": "Use it for formal, serious criticism or punishment in an official setting."
+        },
+        {
+          "setting": "social",
+          "where": "Family argument · breaking a promise",
+          "sentence": "Our father castigated us for coming home hours late without calling.",
+          "highlight": "castigated",
+          "tip": "It sounds old-fashioned and stern rather than like an everyday family complaint."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial review · condemning unethical conduct",
+          "sentence": "The report castigated the company for concealing serious environmental risks.",
+          "highlight": "castigated",
+          "tip": "It works well in formal writing when you want to condemn conduct strongly."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin castigare, meaning ‘to chasten or punish’, which comes from castus, meaning ‘chaste’ or ‘morally pure’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "castigare develops the sense of chastening or punishing someone."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in formal legal and moral contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal word for severe reprimand or punishment."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "castigation",
+          "label": "noun"
+        },
+        {
+          "term": "castigator",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "chastise",
+        "punish",
+        "berate",
+        "reprimand"
+      ],
+      "opposite": "pardon",
+      "pitfall": "Castigate means to punish or reprimand someone; it does not mean to assign someone a role, as in a casting."
+    },
+    {
+      "id": "coerce",
+      "kind": "word",
+      "term": "coerce",
+      "pos": "verb",
+      "phonetic": "/koʊˈsɜːrs/",
+      "sayIt": "koh-URSE",
+      "register": "Formal",
+      "meaning": "Force someone to do something by using threats, pressure or other forms of duress.",
+      "nuance": "Usually describes pressure that removes meaningful choice. It is especially common in legal, political and workplace discussions.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Negotiation · raising deliverables",
+          "sentence": "The deadline may pressure the team, but it cannot coerce anyone into approving an unsafe design.",
+          "highlight": "coerce",
+          "tip": "Use it when discussing force, threats or pressure that undermine genuine consent."
+        },
+        {
+          "setting": "social",
+          "where": "Family discussion · borrowing money",
+          "sentence": "He did not repay the loan willingly; his family coerced him into it.",
+          "highlight": "coerced",
+          "tip": "Past-tense forms are coerced and coercing."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · unlawful pressure",
+          "sentence": "The report alleged that officials coerced witnesses to change their statements.",
+          "highlight": "coerced",
+          "tip": "This formal verb often appears in reports about threats, intimidation or pressure."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin coercere, meaning to force or restrain, built on co-, together, and a root related to pressing or confining.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Coercere means ‘to force’, ‘to restrain’ or ‘to press together’."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English in legal and official contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It describes forcing someone to act through pressure, threats or other coercion."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "coercion",
+          "label": "noun"
+        },
+        {
+          "term": "coercive",
+          "label": "adjective"
+        },
+        {
+          "term": "coercively",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "compel",
+        "force",
+        "intimidate",
+        "pressure"
+      ],
+      "opposite": "voluntarily motivate",
+      "pitfall": "Coerce suggests force or threats that overcome someone’s will; do not use it for ordinary persuasion or a reasonable request."
+    },
+    {
+      "id": "complicity",
+      "kind": "word",
+      "term": "complicity",
+      "pos": "noun",
+      "phonetic": "/kəmˈplɪsəti/",
+      "sayIt": "kuhm-PLIS-uh-tee",
+      "register": "Formal",
+      "meaning": "Participation in wrongdoing, especially by knowingly helping someone else commit an offence.",
+      "nuance": "It suggests shared responsibility rather than direct involvement in every part of the act. The word is commonly used in legal, political and journalistic contexts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Internal investigation · reviewing misconduct",
+          "sentence": "The report found senior managers complicit in covering up safety failures.",
+          "highlight": "complicit",
+          "tip": "Use it for people or organizations that knowingly helped wrongdoing happen."
+        },
+        {
+          "setting": "social",
+          "where": "Discussion with friends · blaming a group",
+          "sentence": "Everyone who stayed silent during the harassment shared some complicity.",
+          "highlight": "complicity",
+          "tip": "It can describe partial or passive participation, not just direct wrongdoing."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · denying responsibility",
+          "sentence": "Her statement rejected any complicity in the company’s unlawful accounting.",
+          "highlight": "complicity",
+          "tip": "This formal noun fits sentences about accountability, denial and shared blame."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin complicitas, meaning partnership in an offence or shared guilt, based on complices, an accomplice.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Roman Latin",
+            "text": "Complicitas develops from words associated with an accomplice or partner in wrongdoing."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English through Old French in legal contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It means involvement in wrongdoing, especially when that involvement is deliberate."
+          }
+        ]
+      },
+      "similar": [
+        "complicity",
+        "collusion",
+        "connivance",
+        "complicity"
+      ],
+      "opposite": "innocence",
+      "pitfall": "Complicity describes shared wrongdoing; an accomplice is a person who helps commit an offence."
+    },
+    {
+      "id": "conciliate",
+      "kind": "word",
+      "term": "conciliate",
+      "pos": "verb",
+      "phonetic": "/kənˈsɪli.eɪt/",
+      "sayIt": "kun-SIL-ee-ayt",
+      "register": "Formal and relatively rare",
+      "meaning": "To bring people with different views or interests into agreement or make their positions compatible.",
+      "nuance": "This sounds diplomatic and conciliatory, especially when describing a deliberate effort to ease conflict. In everyday English, “reconcile” is usually more natural.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · resolving a dispute",
+          "sentence": "We need to conciliate the design and sales teams before the client presentation.",
+          "highlight": "conciliate",
+          "tip": "Use it for formal efforts to bring competing interests together."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · easing tension",
+          "sentence": "She tried to conciliate her brothers after the argument.",
+          "highlight": "conciliate",
+          "tip": "It suggests actively bringing people back toward agreement."
+        },
+        {
+          "setting": "writing",
+          "where": "Diplomatic note · ending a dispute",
+          "sentence": "The statement seeks to conciliate both sides without deciding who was responsible.",
+          "highlight": "conciliate",
+          "tip": "It often appears in diplomatic, political or legal writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin conciliare, meaning ‘to assemble’ or ‘reconcile’, which was based on concilium, a council or assembly.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Conciliare develops from concilium, ‘council or assembly’, with con- meaning ‘together’ and calare meaning ‘to call’."
+          },
+          {
+            "when": "Early 1600s",
+            "text": "The word enters English with meanings connected with bringing parties together or settling a disagreement."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal or diplomatic contexts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "conciliation",
+          "label": "noun"
+        },
+        {
+          "term": "conciliatory",
+          "label": "adjective"
+        },
+        {
+          "term": "conciliator",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "reconcile",
+        "mediate",
+        "pacify",
+        "appease"
+      ],
+      "opposite": "provoke",
+      "pitfall": "Conciliate people or groups; it does not normally mean to reconcile two contradictory facts."
+    },
+    {
+      "id": "conciliatory",
+      "kind": "word",
+      "term": "conciliatory",
+      "pos": "adjective",
+      "phonetic": "/kənˈsɪliətəri/",
+      "sayIt": "kun-SIL-ee-uh-TOR-ee",
+      "register": "Formal",
+      "meaning": "Showing a willingness to make peace by being friendly, reasonable and ready to compromise.",
+      "nuance": "Often used during arguments, negotiations or public disagreements. It can describe a person, tone, gesture or approach.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · resolving a dispute",
+          "sentence": "She took a conciliatory approach, acknowledging both teams’ concerns before discussing the deadline.",
+          "highlight": "conciliatory",
+          "tip": "Use it to show that you are trying to resolve a conflict rather than win an argument."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · easing tension",
+          "sentence": "His conciliatory joke helped lighten the mood after an awkward disagreement.",
+          "highlight": "conciliatory",
+          "tip": "It is often used when someone uses gentle words or actions to ease tension."
+        },
+        {
+          "setting": "writing",
+          "where": "Dispute email · proposing a compromise",
+          "sentence": "We suggest a conciliatory meeting next week so both sides can agree on a practical solution.",
+          "highlight": "conciliatory",
+          "tip": "Common in formal writing about negotiations, peace efforts and damaged relationships."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin conciliatorius, meaning “of a peace-maker,” related to conciliāre, “to win over or reconcile.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "conciliāre develops the sense of bringing people together or settling a dispute."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The Latin-derived word enters English in legal, political and religious contexts."
+          },
+          {
+            "when": "1800s onward",
+            "text": "It becomes widely used for actions and attitudes intended to ease conflict."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "conciliation",
+          "label": "noun"
+        },
+        {
+          "term": "conciliator",
+          "label": "noun (person)"
+        },
+        {
+          "term": "conciliatorily",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "peaceable",
+        "conciliative",
+        "appeasing",
+        "diplomatic"
+      ],
+      "opposite": "aggressive",
+      "pitfall": "Conciliatory describes a peace-making attitude; conciliative is less common and can mean the same thing."
+    },
+    {
+      "id": "condone",
+      "kind": "word",
+      "term": "condone",
+      "pos": "verb",
+      "phonetic": "/kənˈdoʊn/",
+      "sayIt": "kun-DOHN",
+      "register": "Formal",
+      "meaning": "To accept or approve something that is wrong or harmful.",
+      "nuance": "Condoning usually implies allowing misconduct to continue because you accept or excuse it. It is stronger and more judgemental than simply tolerating something.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · addressing repeated misconduct",
+          "sentence": "By ignoring the complaints, the manager effectively condoned a hostile workplace.",
+          "highlight": "condoned",
+          "tip": "Use it when someone’s inaction supports wrongdoing, rather than merely overlooking a minor problem."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · defending a relative",
+          "sentence": "I love my cousin, but I cannot condone the way he treats his employees.",
+          "highlight": "condone",
+          "tip": "It shows moral disapproval without necessarily ending the relationship."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · responding to unsafe conduct",
+          "sentence": "The statement does not condone the attacks and makes clear that they will not go unchallenged.",
+          "highlight": "condone",
+          "tip": "Common in official statements, criticism and discussions of ethics."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin condonare, meaning ‘to forgive’, formed from con- and donum, ‘gift’. Its sense gradually shifted from forgiving wrongdoing to accepting or approving it.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Condonare originally means ‘to forgive’, treating an offence as if it were a gift."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with the sense of forgiving or pardoning an offence."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "It develops the modern sense of accepting or approving wrongdoing."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "condonation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "tolerate",
+        "overlook",
+        "excuse",
+        "accept"
+      ],
+      "opposite": "condemn",
+      "pitfall": "Condone carries stronger moral disapproval than tolerate, which can simply mean allowing something to happen."
+    },
+    {
+      "id": "conflagration",
+      "kind": "word",
+      "term": "conflagration",
+      "pos": "noun",
+      "phonetic": "/ˌkɒnfləˈɡreɪʃən/",
+      "sayIt": "kun-fluh-GRAY-shun",
+      "register": "Formal",
+      "meaning": "A fire that spreads rapidly and destroys a great deal.",
+      "nuance": "It suggests a major, destructive blaze rather than an ordinary fire. The word often appears in reports about cities, buildings or disasters.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Emergency briefing · warehouse fire",
+          "sentence": "The conflagration spread through the warehouse before the fire crews could contain it.",
+          "highlight": "conflagration",
+          "tip": "Use it in serious reports when the scale and danger of the fire need emphasis."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · historic city fire",
+          "sentence": "The old town suffered a terrible conflagration that destroyed dozens of buildings.",
+          "highlight": "conflagration",
+          "tip": "It adds a formal, dramatic tone to a discussion of a large fire."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · explaining a disaster",
+          "sentence": "Investigators are still examining how the conflagration began and spread so quickly.",
+          "highlight": "conflagration",
+          "tip": "It works well in journalism, but use blaze or fire in more everyday writing."
+        }
+      ],
+      "origin": {
+        "summary": "It comes from Latin conflagrare, meaning to burn up or blaze, and entered English with a strong sense of destructive fire.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Conflagrare was formed from con-, meaning together, and flagrare, meaning to burn or blaze."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English, initially referring to a fierce or destructive fire."
+          },
+          {
+            "when": "Today",
+            "text": "It remains formal and is mainly used for a major fire, especially in reports and historical accounts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "conflagrate",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "blaze",
+        "inferno",
+        "firestorm"
+      ],
+      "opposite": "smothering",
+      "pitfall": "Do not confuse it with configuration, which means an arrangement or setup."
+    },
+    {
+      "id": "confront",
+      "kind": "word",
+      "term": "confront",
+      "pos": "verb",
+      "phonetic": "/kənˈfrʌnt/",
+      "sayIt": "kun-FRUNT",
+      "register": "Common at work",
+      "meaning": "To face or deal with a difficult person, situation or problem directly.",
+      "nuance": "It suggests meeting a challenge honestly rather than avoiding it. It can sound forceful, especially when describing a person or accusation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · addressing a delay",
+          "sentence": "We need to confront the supplier’s delay before it affects the launch.",
+          "highlight": "confront",
+          "tip": "Use it when a problem requires direct attention and a clear response."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · resolving tension",
+          "sentence": "My brother refused to confront the disagreement, so the argument kept growing.",
+          "highlight": "confront",
+          "tip": "It works for facing an issue, but not necessarily a person, in a personal dispute."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · discussing weaknesses",
+          "sentence": "The report confronts the main risks but offers little guidance on how to reduce them.",
+          "highlight": "confronts",
+          "tip": "Common in formal writing about problems, risks and uncomfortable realities."
+        }
+      ],
+      "origin": {
+        "summary": "From French confronter, meaning ‘to bring face to face’, which came from Latin confrontare.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Confrontare combines con-, meaning ‘together’, with frons, meaning ‘forehead or face’."
+          },
+          {
+            "when": "Old French",
+            "text": "Confronter develops the sense of bringing opposing people or forces face to face."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English, initially in legal and argumentative contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely used for facing problems, people and difficult realities directly."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "confrontation",
+          "label": "noun"
+        },
+        {
+          "term": "confrontational",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "face",
+        "tackle",
+        "address",
+        "encounter"
+      ],
+      "opposite": "avoid",
+      "pitfall": "Confront means to deal with something directly; it does not mean to confuse or accidentally meet it."
+    },
+    {
+      "id": "contentious",
+      "kind": "word",
+      "term": "contentious",
+      "pos": "adjective",
+      "phonetic": "/kənˈtenʃəs/",
+      "sayIt": "kun-TEN-shuss",
+      "register": "Common in professional and formal settings",
+      "meaning": "Likely to cause disagreement, argument or strong opposing feelings.",
+      "nuance": "It can describe a disputed issue, a difficult discussion or a person who tends to argue. It is stronger than simply saying a topic is controversial.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · resolving priorities",
+          "sentence": "The allocation of engineering resources became contentious, so we brought in an outside facilitator.",
+          "highlight": "contentious",
+          "tip": "Useful for noting that a decision or discussion is causing friction without blaming anyone."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · politics",
+          "sentence": "I avoided the contentious question of taxes until everyone had finished eating.",
+          "highlight": "contentious",
+          "tip": "A natural way to warn others that a topic may lead to an argument."
+        },
+        {
+          "setting": "writing",
+          "where": "Project report · explaining delay",
+          "sentence": "The change to the deadline was contentious because several teams had already committed resources.",
+          "highlight": "contentious",
+          "tip": "Pairs well with issue, decision, topic and debate in formal reports."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Latin contentiosus, associated with contention and dispute, and entered English with the sense of causing conflict.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Contentiosus develops from roots linked to contention, argument and legal dispute."
+          },
+          {
+            "when": "1600s",
+            "text": "The word appears in English in contexts involving dispute, contest or contentious legal matters."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes subjects, decisions and discussions that provoke disagreement."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "contentiousness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "controversial",
+        "disputed",
+        "debatable",
+        "combative"
+      ],
+      "opposite": "uncontroversial",
+      "pitfall": "Do not confuse it with contented, which means satisfied or pleased."
+    }
+  ]
+}

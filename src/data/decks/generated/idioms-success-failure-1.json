@@ -1,0 +1,1488 @@
+{
+  "id": "idioms-success-failure-1",
+  "kind": "idiom",
+  "name": "Success & failure · 1",
+  "blurb": "25 idioms about success & failure",
+  "cards": [
+    {
+      "id": "back-to-the-drawing-board",
+      "kind": "idiom",
+      "term": "back to the drawing board",
+      "pos": "idiom",
+      "hint": "start over after a failed plan",
+      "register": "Common at work",
+      "meaning": "To return to the planning stage because an earlier attempt failed or needs a major rethink.",
+      "nuance": "It suggests that the original approach did not work, so more thought and preparation are needed. Use it when a project is being redesigned or restarted rather than merely adjusted.",
+      "literal": "Returning to the desk to work out a new design after the previous one is rejected.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product meeting · failed prototype",
+          "sentence": "The prototype tested poorly, so the team is back to the drawing board with a simpler design.",
+          "highlight": "back to the drawing board",
+          "tip": "Common when a plan, product, or proposal needs to be reconsidered."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a holiday · wrong address",
+          "sentence": "We booked the wrong venue, so we are back to the drawing board and searching again.",
+          "highlight": "back to the drawing board",
+          "tip": "Often used casually when plans go wrong."
+        },
+        {
+          "setting": "writing",
+          "where": "Business update · rejected campaign",
+          "sentence": "Sales were disappointing, and management is back to the drawing board for the next campaign.",
+          "highlight": "back to the drawing board",
+          "tip": "Useful in reports and updates to explain a significant change in direction."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably comes from the idea that a designer whose proposal is rejected must return to the drawing board and create a new plan. The expression appears in print by 1915, but no single documented event confirms the popular story behind it.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Before 1915",
+            "text": "Designers and planners are expected to return to their drawings when a proposed plan does not work."
+          },
+          {
+            "when": "1915",
+            "text": "The phrase appears in early printed use."
+          },
+          {
+            "when": "Today",
+            "text": "Means returning to planning or rethinking an approach after it has failed."
+          }
+        ]
+      },
+      "similar": [
+        "back to square one",
+        "start from scratch",
+        "rethink the plan"
+      ],
+      "opposite": "make it stick",
+      "pitfall": "Use it when an attempt has failed or needs a substantial rethink, not for every small adjustment."
+    },
+    {
+      "id": "bear-fruit",
+      "kind": "idiom",
+      "term": "bear fruit",
+      "pos": "idiom",
+      "hint": "produce worthwhile results",
+      "register": "Common at work",
+      "meaning": "To produce useful results after time, effort, or planning.",
+      "nuance": "It suggests that the results are positive and worth the investment. It is often used for projects, ideas, negotiations, or efforts that eventually succeed.",
+      "literal": "A tree or plant produces fruit.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · testing a new process",
+          "sentence": "The pilot is working, so we’re giving the revised process time to bear fruit.",
+          "highlight": "bear fruit",
+          "tip": "Often suggests that improvement needs patience."
+        },
+        {
+          "setting": "social",
+          "where": "Chat about learning a language",
+          "sentence": "Daily practice may not show progress immediately, but it will bear fruit eventually.",
+          "highlight": "bear fruit",
+          "tip": "Encourages someone to keep going despite slow results."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · reviewing investments",
+          "sentence": "Support for staff training began to bear fruit as productivity improved across the department.",
+          "highlight": "bear fruit",
+          "tip": "Common in reports about results that develop over time."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from the literal idea of a plant producing fruit. Its figurative sense for results or consequences is well documented in English from the 1500s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "English writers use “fruit” figuratively for beneficial results and consequences."
+          },
+          {
+            "when": "1700s",
+            "text": "The phrase “bear fruit” is recorded in the sense of producing good results."
+          },
+          {
+            "when": "Today",
+            "text": "It means that an effort, plan, or investment produces worthwhile results."
+          }
+        ]
+      },
+      "similar": [
+        "come to fruition",
+        "pay off",
+        "come to nothing"
+      ],
+      "opposite": "come to nothing",
+      "pitfall": "Use it for positive outcomes; it does not mean that an effort produced no result."
+    },
+    {
+      "id": "big-break",
+      "kind": "idiom",
+      "term": "big break",
+      "pos": "idiom",
+      "hint": "a lucky opening",
+      "register": "Common at work",
+      "meaning": "A sudden important opportunity that brings success, recognition, or a major change.",
+      "nuance": "It often suggests a chance that arrives at the right moment and opens a new path. It can refer to a career breakthrough, a fortunate discovery, or an event that changes someone’s circumstances.",
+      "literal": "A sudden, important opening, especially one that leads to success.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · a new project",
+          "sentence": "Her presentation led to a big break: she was asked to lead the company’s first overseas expansion.",
+          "highlight": "big break",
+          "tip": "Natural for a career-changing opportunity or sudden recognition."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · a friend’s news",
+          "sentence": "She got a big break when a local restaurant invited her to cater a major event.",
+          "highlight": "big break",
+          "tip": "Often used for good news about someone’s career, studies, or creative work."
+        },
+        {
+          "setting": "writing",
+          "where": "Profile of an artist",
+          "sentence": "After years of playing small venues, the singer got her big break on a popular streaming series.",
+          "highlight": "big break",
+          "tip": "Common in biographies and profiles, especially for performers."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably developed from the idea of a performer or professional receiving a sudden important opportunity. It later broadened beyond show business to describe any major opening that can lead to success.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 20th century",
+            "text": "Performance and entertainment contexts commonly use a break to mean a career opportunity or sudden recognition."
+          },
+          {
+            "when": "Mid-20th century",
+            "text": "The expression becomes established for important opportunities in work, entertainment, and public life."
+          },
+          {
+            "when": "Today",
+            "text": "Means a fortunate opportunity that can change someone’s career or circumstances."
+          }
+        ]
+      },
+      "similar": [
+        "lucky break",
+        "breakthrough",
+        "turning point",
+        "lucky opening"
+      ],
+      "opposite": "dead end",
+      "pitfall": "A big break is usually an opportunity, not simply a rest or a disagreement."
+    },
+    {
+      "id": "bite-the-dust",
+      "kind": "idiom",
+      "term": "bite the dust",
+      "pos": "idiom",
+      "hint": "fail, die, or suffer badly",
+      "register": "Everyday",
+      "meaning": "To fail, die, or experience an unpleasant and disappointing outcome.",
+      "nuance": "It often adds drama or dark humour. The phrase can sound old-fashioned, especially when describing a business or project that fails.",
+      "literal": "Taking a mouthful of dust from the ground.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · a failed proposal",
+          "sentence": "If the proposal fails, we’ll bite the dust and try again next quarter.",
+          "highlight": "bite the dust",
+          "tip": "Common for projects, plans, or businesses that collapse."
+        },
+        {
+          "setting": "social",
+          "where": "Karaoke night · a bad performance",
+          "sentence": "My first attempt was awful, but I had to bite the dust and finish the song.",
+          "highlight": "bite the dust",
+          "tip": "Adds dark humour to an embarrassing experience."
+        },
+        {
+          "setting": "writing",
+          "where": "Local business report",
+          "sentence": "Several small stores bit the dust after the national chain opened nearby.",
+          "highlight": "bit the dust",
+          "tip": "Often used in reporting business closures or failures."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is first documented in American English in 1917, but its exact literal origin is uncertain. A popular story links it to hungry soldiers in a desert, though that connection is not firmly established.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Before 1917",
+            "text": "Its exact source is unclear; older claims that it came from desert soldiers cannot be verified."
+          },
+          {
+            "when": "1917",
+            "text": "The expression appears in American newspaper writing."
+          },
+          {
+            "when": "Today",
+            "text": "It means to fail, die, or endure an unpleasant outcome."
+          }
+        ]
+      },
+      "similar": [
+        "go down in flames",
+        "take a nosedive",
+        "fall flat",
+        "kick the bucket"
+      ],
+      "opposite": "come out on top",
+      "pitfall": "Do not confuse it with ‘bite the bullet’, which means to force yourself to do something unpleasant."
+    },
+    {
+      "id": "by-a-long-shot",
+      "kind": "idiom",
+      "term": "by a long shot",
+      "pos": "phrase",
+      "hint": "nowhere near the result",
+      "register": "Everyday",
+      "meaning": "By a large margin, or with a much greater chance.",
+      "nuance": "It emphasizes that something is decisively better, more likely or further from the expected result. In the negative form “not by a long shot,” it means nowhere near it.",
+      "literal": "A wager whose chance of succeeding is far greater than that of the other options.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · estimating delivery",
+          "sentence": "We’ll hit the deadline by a long shot if design approves the mock-up today.",
+          "highlight": "by a long shot",
+          "tip": "Often expresses the clear likelihood of an outcome."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing between weekend plans",
+          "sentence": "I’d choose Lena’s dinner party over the crowded concert by a long shot.",
+          "highlight": "by a long shot",
+          "tip": "Useful when one option is much more appealing."
+        },
+        {
+          "setting": "writing",
+          "where": "Election report",
+          "sentence": "The independent candidate won by a long shot in the final vote.",
+          "highlight": "by a long shot",
+          "tip": "Common in reporting results and clear victories."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase grew from gambling language, where a long shot is a bet with very low odds. Its later figurative use for a clear advantage is plausible, but the exact development is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1700s",
+            "text": "“Long shot” is used for an attempt or bet with little chance of success."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers use “by a long shot” to describe a decisive advantage or a result that is much more likely."
+          },
+          {
+            "when": "Today",
+            "text": "It means “by a large margin”; “not by a long shot” means “nowhere near.”"
+          }
+        ]
+      },
+      "similar": [
+        "by far",
+        "by a mile",
+        "not by a long shot"
+      ],
+      "opposite": "not by a long shot",
+      "pitfall": "With “not by a long shot,” the phrase reverses the meaning: it means nowhere near, not just not by a large margin."
+    },
+    {
+      "id": "comfort-zone",
+      "kind": "idiom",
+      "term": "comfort zone",
+      "pos": "idiom",
+      "hint": "the place where nothing feels challenging",
+      "register": "Everyday",
+      "meaning": "A familiar situation, routine, or set of abilities in which you feel comfortable and under little pressure.",
+      "nuance": "It can describe a safe space, but often implies a limit that is holding you back. Use it when discussing personal growth, work, or new challenges.",
+      "literal": "A safe area where you feel protected from difficulty or risk.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · considering new duties",
+          "sentence": "Taking on more clients felt risky, but it pushed her beyond her comfort zone.",
+          "highlight": "comfort zone",
+          "tip": "Common when someone accepts a challenge that stretches their skills."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · meeting new people",
+          "sentence": "I stayed in my comfort zone by talking only with people I already knew.",
+          "highlight": "comfort zone",
+          "tip": "Often suggests staying with familiar people and familiar behaviour."
+        },
+        {
+          "setting": "writing",
+          "where": "Leadership article · supporting change",
+          "sentence": "Leaders must help teams step outside their comfort zone without making them feel unsupported.",
+          "highlight": "comfort zone",
+          "tip": "Frequently used in business writing about skills, habits, or adaptation."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from modern psychology and education, where a comfort zone describes the performance level at which a person feels secure. Its broader use for personal or professional limits developed through the twentieth century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 20th century",
+            "text": "Psychologists and educators use ‘comfort zone’ for a level of work or challenge that feels manageable."
+          },
+          {
+            "when": "Late 20th century",
+            "text": "The phrase becomes common in education, sports, and self-improvement contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely used to discuss personal growth, risk, and developing new abilities."
+          }
+        ]
+      },
+      "similar": [
+        "safe zone",
+        "familiar territory",
+        "comfortable ground"
+      ],
+      "opposite": "growth zone",
+      "pitfall": "A comfort zone is not always bad; it can describe a reassuring place as well as a limitation."
+    },
+    {
+      "id": "cut-a-wide-swath",
+      "kind": "idiom",
+      "term": "cut a wide swath",
+      "pos": "idiom",
+      "hint": "make a big impression or clear a broad path",
+      "register": "Common at work",
+      "meaning": "To have a strong and noticeable effect on a group of people, a field, or an area of activity.",
+      "nuance": "The phrase suggests breadth and impact, often used when someone or something changes a large area or makes a major impression.",
+      "literal": "To cut a broad path through tall grass.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company announcement · new leadership",
+          "sentence": "Her new strategy cut a wide swath through the department and changed how teams make decisions.",
+          "highlight": "cut a wide swath",
+          "tip": "Use it for an influence that reaches many people or parts of an organisation."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding speech · new couple",
+          "sentence": "The couple cut a wide swath through the dance floor with their first song.",
+          "highlight": "cut a wide swath",
+          "tip": "A light, playful use can describe moving boldly through a crowded space."
+        },
+        {
+          "setting": "writing",
+          "where": "Industry report · market growth",
+          "sentence": "The company cut a wide swath through the market with its low-cost subscription.",
+          "highlight": "cut a wide swath",
+          "tip": "Common in business reporting when describing rapid, broad success."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from the physical act of cutting a broad path through grass or crops. Its figurative use for making a strong impression developed in the 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People cut swaths through fields to harvest crops or clear a route."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression begins appearing in figurative writing about moving forcefully and making a broad impact."
+          },
+          {
+            "when": "Today",
+            "text": "It describes a strong effect across a large group, area, or market."
+          }
+        ]
+      },
+      "similar": [
+        "make waves",
+        "make a splash",
+        "leave a mark"
+      ],
+      "opposite": "make little difference",
+      "pitfall": "The idiom usually emphasises broad impact; simply doing one small impressive thing may only “make a splash.”"
+    },
+    {
+      "id": "dark-horse",
+      "kind": "idiom",
+      "term": "dark horse",
+      "pos": "idiom",
+      "hint": "less expected than you first thought",
+      "register": "Common at work",
+      "meaning": "A person or thing that succeeds unexpectedly and was not widely favoured to win.",
+      "nuance": "It suggests surprise rather than certainty: the contender was overlooked, underestimated or only became strong later. Use it for people, products, teams and political candidates.",
+      "literal": "A little-known racehorse that wins against stronger rivals.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Hiring panel · choosing a candidate",
+          "sentence": "The quiet candidate from finance turned out to be a dark horse and got the job.",
+          "highlight": "dark horse",
+          "tip": "Often describes someone whose abilities were not obvious at first."
+        },
+        {
+          "setting": "social",
+          "where": "Game night · friendly competition",
+          "sentence": "My sister was the dark horse of the tournament and won three games in a row.",
+          "highlight": "dark horse",
+          "tip": "Works for an unexpected winner in any competition."
+        },
+        {
+          "setting": "writing",
+          "where": "Product review · market analysis",
+          "sentence": "The budget phone became a dark horse, appealing to buyers who overlooked the brand.",
+          "highlight": "dark horse",
+          "tip": "Common in reporting about products, companies and election candidates."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely began with horse racing, where an unfamiliar horse could defeat the favourites. Its political meaning developed in the early 19th century, but the exact origin of that use is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "Horse-racing writers used the phrase for a little-known horse that won unexpectedly."
+          },
+          {
+            "when": "1815",
+            "text": "The phrase was used in British political reporting for a candidate whose chances had been doubted."
+          },
+          {
+            "when": "Today",
+            "text": "It means any unexpectedly successful contender that people had underestimated."
+          }
+        ]
+      },
+      "similar": [
+        "long shot",
+        "underdog",
+        "sleeper"
+      ],
+      "opposite": "favourite",
+      "pitfall": "A dark horse is not automatically the favourite; the key point is that people did not expect them to win."
+    },
+    {
+      "id": "dead-end",
+      "kind": "idiom",
+      "term": "dead end",
+      "pos": "idiom",
+      "hint": "nowhere left to go",
+      "register": "Common at work and in everyday life",
+      "meaning": "A situation in which there is no practical way to continue or make progress.",
+      "nuance": "It suggests that progress has become impossible, often because of limited choices or a failed plan. It can describe a specific situation or, as “dead-end job,” a role with little opportunity for advancement.",
+      "literal": "A road that ends at a blocked or unreachable destination.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · stalled proposal",
+          "sentence": "The negotiation became a dead end, so we brought in a mediator.",
+          "highlight": "dead end",
+          "tip": "Use it when a discussion or project has no viable next step."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing a career path",
+          "sentence": "I thought the course would help me enter finance, but it turned out to be a dead end.",
+          "highlight": "dead end",
+          "tip": "Often describes an option that offers no useful or lasting result."
+        },
+        {
+          "setting": "writing",
+          "where": "Local news · business closure",
+          "sentence": "The council described the proposed site as a dead end for the regional economy.",
+          "highlight": "dead end",
+          "tip": "Works well in reporting when describing a plan or route that cannot succeed."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from the literal image of a road with no exit and was later applied to situations offering no way to advance.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1850s",
+            "text": "“Dead-end” begins appearing in writing for things that cannot lead anywhere."
+          },
+          {
+            "when": "1933",
+            "text": "“Dead end” is recorded as a noun meaning a situation with no way to advance."
+          },
+          {
+            "when": "Today",
+            "text": "It refers to any plan, choice, or situation that prevents further progress."
+          }
+        ]
+      },
+      "similar": [
+        "impasse",
+        "dead-end job",
+        "no way forward",
+        "blind alley"
+      ],
+      "opposite": "way forward",
+      "pitfall": "“Dead end” is usually written as two words unless it comes before a noun, as in “a dead-end job.”"
+    },
+    {
+      "id": "do-or-die",
+      "kind": "idiom",
+      "term": "do or die",
+      "pos": "idiom",
+      "hint": "give it everything or fail",
+      "register": "Everyday",
+      "meaning": "To make a desperate effort to succeed, accepting that you must act decisively.",
+      "nuance": "It emphasizes urgency, determination, and the idea that there is no safe option left. It can sound dramatic, so use it when a situation genuinely requires all-out effort.",
+      "literal": "Either act successfully or fail.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Final sprint · deadline",
+          "sentence": "With the launch tomorrow, we have to do or die to get the product ready.",
+          "highlight": "do or die",
+          "tip": "Common for intense deadlines or high-pressure situations."
+        },
+        {
+          "setting": "social",
+          "where": "Friendly competition · final attempt",
+          "sentence": "It is do or die if we want to reach the restaurant before it closes.",
+          "highlight": "do or die",
+          "tip": "Adds urgency and playful determination."
+        },
+        {
+          "setting": "writing",
+          "where": "Sports report · decisive match",
+          "sentence": "The team knew it was do or die, so they attacked from the opening minute.",
+          "highlight": "do or die",
+          "tip": "Often used in reporting when one result or outcome is crucial."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase appears in English by the 17th century and originally expressed the stark choice between action and failure. Its modern meaning developed from the idea of making a desperate final effort.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "English writers use wording like ‘do or die’ for a situation with no alternative to decisive action."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase becomes established in the sense of trying everything possible to succeed."
+          },
+          {
+            "when": "Today",
+            "text": "Means making an all-out, urgent effort when success is essential."
+          }
+        ]
+      },
+      "similar": [
+        "all or nothing",
+        "last-ditch effort",
+        "give it everything"
+      ],
+      "opposite": "give up easily",
+      "pitfall": "It can sound exaggerated, so avoid it for minor problems or ordinary effort."
+    },
+    {
+      "id": "even-keel",
+      "kind": "idiom",
+      "term": "even keel",
+      "pos": "phrase",
+      "hint": "stable and steady again",
+      "register": "Common at work",
+      "meaning": "A stable, balanced state in which things are moving steadily and under control.",
+      "nuance": "It suggests calm progress without major problems. It often follows “on” or “back on” and is useful for describing a project, organisation, situation, or person returning to normal.",
+      "literal": "A ship floating level and steady, without leaning to either side.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · recovering from delays",
+          "sentence": "After a difficult quarter, the team is back on an even keel and focusing on the next launch.",
+          "highlight": "even keel",
+          "tip": "Often used when a situation has become stable again."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a busy weekend",
+          "sentence": "With the venue sorted and the weather settled, our plans are on an even keel.",
+          "highlight": "even keel",
+          "tip": "Natural for anything that feels orderly and under control."
+        },
+        {
+          "setting": "writing",
+          "where": "Company update · business progress",
+          "sentence": "Revenue has recovered, and operations are now on an even keel after last year’s disruption.",
+          "highlight": "even keel",
+          "tip": "Common in reports describing a return to stability."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from the keel of a ship, the structure that helps keep it upright and moving steadily. Writers later applied the image to situations that are balanced and under control.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "A ship’s keel became a common metaphor for stability and control."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase began appearing in figurative use for steady, balanced conditions."
+          },
+          {
+            "when": "Today",
+            "text": "It describes a project, organisation, or situation that is stable and progressing calmly."
+          }
+        ]
+      },
+      "similar": [
+        "smooth sailing",
+        "under control",
+        "on track"
+      ],
+      "opposite": "in disarray",
+      "pitfall": "The usual pattern is “on an even keel” or “back on an even keel,” not simply “on even keel.”"
+    },
+    {
+      "id": "fall-short",
+      "kind": "idiom",
+      "term": "fall short",
+      "pos": "idiom",
+      "hint": "not reach the required level",
+      "register": "Common at work",
+      "meaning": "To fail to reach an expected result, amount, or standard.",
+      "nuance": "It suggests a measurable gap or unmet expectation. It is often followed by “of” and the thing that was missed.",
+      "literal": "To stop before reaching the intended point or amount.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Release planning · quality targets",
+          "sentence": "The release will fall short of our quality target unless we add more testing.",
+          "highlight": "fall short",
+          "tip": "Often used with “of” followed by a target, deadline, or expectation."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · comparing results",
+          "sentence": "My homemade cake was good, but it did fall short of my sister’s.",
+          "highlight": "fall short",
+          "tip": "A natural way to admit that a result was less impressive than expected."
+        },
+        {
+          "setting": "writing",
+          "where": "Quarterly report · reviewing sales",
+          "sentence": "Sales may fall short of the forecast, so the team is adjusting its campaign.",
+          "highlight": "fall short",
+          "tip": "Common in reports about targets, forecasts, budgets, and expectations."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase began as a plain description of something reaching less far or coming up less than intended. By the 1800s, it was also being used figuratively for missing a goal or expected standard.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression “fall short of” appears in uses meaning to come up less than needed or fail to reach a goal."
+          },
+          {
+            "when": "1800s",
+            "text": "The shorter form “fall short” becomes established in figurative writing about unmet expectations."
+          },
+          {
+            "when": "Today",
+            "text": "It means failing to reach a required result, amount, deadline, or standard."
+          }
+        ]
+      },
+      "similar": [
+        "come up short",
+        "miss the mark",
+        "underperform"
+      ],
+      "opposite": "Meet or exceed expectations",
+      "pitfall": "“Fall short” usually names a gap from a goal or standard; use “fall short of” when you state what was missed."
+    },
+    {
+      "id": "far-and-away",
+      "kind": "idiom",
+      "term": "far and away",
+      "pos": "phrase",
+      "hint": "by a much larger amount",
+      "register": "Common in everyday English",
+      "meaning": "By a much larger amount than anything else involved.",
+      "nuance": "It emphasizes a clear gap, often when comparing results, qualities, or preferences. It sounds confident and slightly conversational rather than strictly formal.",
+      "literal": "A great distance between one thing and another.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team review · choosing a proposal",
+          "sentence": "Her proposal was far and away the clearest choice for the team.",
+          "highlight": "far and away",
+          "tip": "Often placed before a superlative such as ‘best’ or ‘most useful.’"
+        },
+        {
+          "setting": "social",
+          "where": "Travel group · comparing highlights",
+          "sentence": "That museum was far and away our best stop during the trip.",
+          "highlight": "far and away",
+          "tip": "Natural when ranking experiences or personal preferences."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · reporting progress",
+          "sentence": "The new system was far and away the biggest improvement to our workflow this year.",
+          "highlight": "far and away",
+          "tip": "Useful for making a strong comparison in a report."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is recorded in English from the early 1800s. It developed as an emphatic way of expressing that one thing exceeds another by a large degree, especially before a superlative.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Early 1800s",
+            "text": "English records show the phrase in use for comparison by a large amount."
+          },
+          {
+            "when": "1800s",
+            "text": "It becomes especially common before words such as ‘best,’ ‘largest,’ and ‘greatest.’"
+          },
+          {
+            "when": "Today",
+            "text": "It emphasizes that something is clearly superior or noticeably greater."
+          }
+        ]
+      },
+      "similar": [
+        "by a mile",
+        "by far",
+        "easily the best"
+      ],
+      "opposite": "by a narrow margin",
+      "pitfall": "Do not confuse it with ‘far and wide,’ which means in many different places."
+    },
+    {
+      "id": "golden-age",
+      "kind": "idiom",
+      "term": "golden age",
+      "pos": "idiom",
+      "hint": "a period of peak prosperity",
+      "register": "Common at work",
+      "meaning": "A period of great prosperity, success, achievement, or cultural flourishing.",
+      "nuance": "It often describes a remembered or idealized time when things were especially good. It can also refer to a stage that a person, organization, or product is enjoying now.",
+      "literal": "An age imagined as being made of solid gold.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team retrospective · discussing growth",
+          "sentence": "The company entered its golden age after the new regional team launched.",
+          "highlight": "golden age",
+          "tip": "Often suggests a short period of exceptional business success."
+        },
+        {
+          "setting": "social",
+          "where": "Old friends · reminiscing",
+          "sentence": "For me, the late nineties were a golden age of cheap records and endless summer jobs.",
+          "highlight": "golden age",
+          "tip": "Natural for nostalgic memories of a carefree period."
+        },
+        {
+          "setting": "writing",
+          "where": "Film review · comparing eras",
+          "sentence": "Many critics see the original trilogy as independent cinema’s golden age.",
+          "highlight": "golden age",
+          "tip": "Common in reviews and cultural history."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the ancient idea of an ideal age of peace, prosperity, and happiness. It reached English through Renaissance descriptions of classical antiquity.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greece",
+            "text": "Poets described an ideal first age of humanity under the reign of Kronos."
+          },
+          {
+            "when": "1500s",
+            "text": "English writers began using ‘golden age’ for prosperous or admired periods, especially in classical history."
+          },
+          {
+            "when": "Today",
+            "text": "The expression refers broadly to a peak period in business, culture, personal life, or creativity."
+          }
+        ]
+      },
+      "similar": [
+        "halcyon days",
+        "heyday",
+        "golden years"
+      ],
+      "opposite": "dark age",
+      "pitfall": "It describes an idealized or especially successful period, not simply any pleasant time."
+    },
+    {
+      "id": "hands-down",
+      "kind": "idiom",
+      "term": "hands down",
+      "pos": "phrase",
+      "hint": "certainly, with no doubt",
+      "register": "Everyday",
+      "meaning": "Completely and unquestionably, often with a much larger advantage than the alternatives.",
+      "nuance": "This adds emphatic certainty to a choice, comparison, or victory. It often follows a noun or superlative, as in “the best option, hands down.”",
+      "literal": "A jockey lowering his hands because the horse is winning easily.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · choosing a proposal",
+          "sentence": "Her proposal is hands down the clearest plan we received this quarter.",
+          "highlight": "hands down",
+          "tip": "Common after a noun when you want to stress your choice."
+        },
+        {
+          "setting": "social",
+          "where": "Planning dinner · comparing restaurants",
+          "sentence": "That little Italian place is hands down our favourite spot for a relaxed dinner.",
+          "highlight": "hands down",
+          "tip": "Natural when discussing a clear personal preference."
+        },
+        {
+          "setting": "writing",
+          "where": "Product review · comparing features",
+          "sentence": "The upgraded model is hands down more reliable than the version it replaced.",
+          "highlight": "hands down",
+          "tip": "Useful in reviews and persuasive writing for an emphatic comparison."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from horse racing. A jockey who lowered his hands signalled that the horse was winning so easily that no urging was needed; the phrase later became a general expression of clear superiority.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The phrase appears in horse-racing contexts for an easy victory."
+          },
+          {
+            "when": "Late 1800s",
+            "text": "Its use broadens to mean beyond question or dispute."
+          },
+          {
+            "when": "Today",
+            "text": "It expresses emphatic certainty, often in comparisons and opinions."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "hands-down",
+          "label": "adjective before a noun"
+        }
+      ],
+      "similar": [
+        "without a doubt",
+        "by a mile",
+        "no question"
+      ],
+      "opposite": "possibly",
+      "pitfall": "Write it without hyphens when emphasizing certainty: “She won, hands down.” Use the hyphenated form before a noun: “the hands-down favourite.”"
+    },
+    {
+      "id": "knock-it-out-of-the-park",
+      "kind": "idiom",
+      "term": "knock it out of the park",
+      "pos": "idiom",
+      "hint": "perform exceptionally",
+      "register": "Common at work",
+      "meaning": "To perform a task or activity exceptionally well.",
+      "nuance": "Enthusiastic and emphatic. It often praises a result, performance or piece of work that greatly exceeded expectations.",
+      "literal": "To hit a baseball so hard that it flies out of the park.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing a launch",
+          "sentence": "The marketing team really knocked it out of the park with that campaign.",
+          "highlight": "knocked it out of the park",
+          "tip": "A warm, emphatic way to praise an outstanding team result."
+        },
+        {
+          "setting": "social",
+          "where": "At a party · hearing a performance",
+          "sentence": "Maya absolutely knocked it out of the park at the open mic.",
+          "highlight": "knocked it out of the park",
+          "tip": "Works for praise that deserves strong approval."
+        },
+        {
+          "setting": "writing",
+          "where": "Event recap · praising a presentation",
+          "sentence": "Her final presentation knocked it out of the park.",
+          "highlight": "knocked it out of the park",
+          "tip": "Keep it for clear, enthusiastic praise rather than mild compliments."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from baseball, where hitting a ball out of the park is the strongest possible result. Its use for exceptional performance developed from that sporting image.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Late 1800s",
+            "text": "Baseball writers use ‘out of the park’ for a powerful hit that leaves the field."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "The expression becomes a general metaphor for an exceptional performance."
+          },
+          {
+            "when": "Today",
+            "text": "It means to do a task or activity especially well."
+          }
+        ]
+      },
+      "similar": [
+        "slam it out of the park",
+        "hit it out of the park",
+        "knock everyone dead",
+        "knock your socks off"
+      ],
+      "opposite": "drop the ball",
+      "pitfall": "Use it for exceptional success, not simply completing a task."
+    },
+    {
+      "id": "light-at-the-end-of-the-tunnel",
+      "kind": "idiom",
+      "term": "light at the end of the tunnel",
+      "pos": "idiom",
+      "hint": "hope after a long struggle",
+      "register": "Common at work",
+      "meaning": "A sign that a difficult period will eventually end and lead to improvement.",
+      "nuance": "It expresses cautious optimism, usually while the hardship is still happening. It can also acknowledge that relief will come only after continued effort.",
+      "literal": "Daylight visible at the far end of a dark tunnel.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project update · delayed launch",
+          "sentence": "The support team is finally seeing the light at the end of the tunnel after weeks of debugging.",
+          "highlight": "the light at the end of the tunnel",
+          "tip": "Common when progress is slow but the team remains hopeful."
+        },
+        {
+          "setting": "social",
+          "where": "Career break · job hunting",
+          "sentence": "Sending out applications feels discouraging, but my interviews give me the light at the end of the tunnel.",
+          "highlight": "the light at the end of the tunnel",
+          "tip": "Often used to describe encouragement after a long or uncertain wait."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · turnaround",
+          "sentence": "Although revenue remains low, falling costs suggest the company is nearing the light at the end of the tunnel.",
+          "highlight": "the light at the end of the tunnel",
+          "tip": "Useful in reports and commentary about recovery from hardship."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from the literal sight of daylight at the end of a tunnel. Writers later applied the image to the hoped-for end of a difficult period, although its exact first figurative use is difficult to establish.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "Railway and road tunnels made the image of daylight at the end of a tunnel especially familiar."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression became common as a metaphor for hope or relief after a prolonged difficulty."
+          },
+          {
+            "when": "Today",
+            "text": "It signals that a difficult situation is improving, but not necessarily that it is already over."
+          }
+        ]
+      },
+      "similar": [
+        "a turning point",
+        "the cavalry is coming",
+        "hope on the horizon"
+      ],
+      "opposite": "a dead end",
+      "pitfall": "Keep the definite article: say 'the light at the end of the tunnel', not 'light at the end of the tunnel'."
+    },
+    {
+      "id": "lower-the-bar",
+      "kind": "idiom",
+      "term": "lower the bar",
+      "pos": "idiom",
+      "hint": "make the standard easier",
+      "register": "Common at work",
+      "meaning": "To reduce the level of skill, quality or achievement expected or required.",
+      "nuance": "It can sound practical when rules were unrealistic, but usually suggests that standards are being reduced. The tone depends on whether the speaker supports the change.",
+      "literal": "Moving a bar downward so that it is easier to clear.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Hiring · widening the candidate pool",
+          "sentence": "We lowered the bar for this role because the original requirements were unrealistic.",
+          "highlight": "lowered the bar",
+          "tip": "Often means accepting applicants or work that fall below the usual standard."
+        },
+        {
+          "setting": "social",
+          "where": "Trying a new hobby",
+          "sentence": "I lowered the bar and signed up for a beginner pottery class.",
+          "highlight": "lowered the bar",
+          "tip": "Can be self-deprecating or practical when starting something new."
+        },
+        {
+          "setting": "writing",
+          "where": "Education · changing entry rules",
+          "sentence": "The college lowered the bar for applications, increasing demand from students.",
+          "highlight": "lowered the bar",
+          "tip": "Common in reporting on changed requirements or admission standards."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is unclear, but the phrase grows from the idea of physically lowering a bar to make a test easier. Its figurative use appears in the late nineteenth century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Late 1800s",
+            "text": "Early written uses describe reducing the standard needed to pass or qualify."
+          },
+          {
+            "when": "1900s onward",
+            "text": "The phrase becomes common for discussing relaxed expectations and requirements."
+          },
+          {
+            "when": "Today",
+            "text": "It can describe deliberate flexibility, criticism of falling standards, or both."
+          }
+        ]
+      },
+      "similar": [
+        "lower your expectations",
+        "relax the requirements",
+        "scale back"
+      ],
+      "opposite": "raise the bar",
+      "pitfall": "It does not mean lowering a price; it refers to reducing standards, expectations or requirements."
+    },
+    {
+      "id": "magic-bullet",
+      "kind": "idiom",
+      "term": "magic bullet",
+      "pos": "idiom",
+      "hint": "one simple fix for everything",
+      "register": "Common at work",
+      "meaning": "A quick, simple solution that solves a difficult problem completely.",
+      "nuance": "Often used to say that no such effortless solution exists. It can be mildly critical of oversimplified advice.",
+      "literal": "A magical bullet that defeats an enemy with one shot.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product launch · planning",
+          "sentence": "Automation will help, but there is no magic bullet for improving customer support.",
+          "highlight": "magic bullet",
+          "tip": "Common when discussing realistic ways to solve a problem."
+        },
+        {
+          "setting": "social",
+          "where": "Friends · giving advice",
+          "sentence": "Exercise and sleep may help, but they are no magic bullet for stress.",
+          "highlight": "magic bullet",
+          "tip": "Often sounds practical, slightly skeptical, and informal."
+        },
+        {
+          "setting": "writing",
+          "where": "Health article · discussing treatment",
+          "sentence": "Researchers warn that the new therapy is promising, but it is not a magic bullet.",
+          "highlight": "magic bullet",
+          "tip": "Useful in reporting when a solution has limitations."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is closely associated with early advertising for medicines and household products, where nearly perfect results were promoted. Its exact first appearance is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1900s",
+            "text": "Advertising language began presenting powerful remedies as near-perfect solutions."
+          },
+          {
+            "when": "Mid-20th century",
+            "text": "The expression became established for a striking or supposedly universal solution."
+          },
+          {
+            "when": "Today",
+            "text": "Usually means there is no single easy answer to a complicated problem."
+          }
+        ]
+      },
+      "similar": [
+        "quick fix",
+        "silver bullet",
+        "panacea"
+      ],
+      "opposite": "no quick fix",
+      "pitfall": "The phrase usually questions the idea that one solution can fix every problem."
+    },
+    {
+      "id": "pick-up-the-pieces",
+      "kind": "idiom",
+      "term": "pick up the pieces",
+      "pos": "idiom",
+      "hint": "restore things after they go wrong",
+      "register": "Common at work",
+      "meaning": "To deal with the problems left behind by a failure, accident or difficult situation.",
+      "nuance": "It suggests making a practical recovery, not pretending that nothing happened. Often used when rebuilding a project, relationship or reputation.",
+      "literal": "Collecting the broken parts and putting them back together.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team retrospective · recovering from a failed launch",
+          "sentence": "After the launch went wrong, we spent the next week picking up the pieces and fixing the customer issues.",
+          "highlight": "picking up the pieces",
+          "tip": "Common when a team is recovering from a setback."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · repairing a disagreement",
+          "sentence": "We both said things we regretted, so we sat down and picked up the pieces.",
+          "highlight": "picked up the pieces",
+          "tip": "Fits personal relationships as well as practical problems."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · explaining a downturn",
+          "sentence": "The company is picking up the pieces after several major contracts were cancelled.",
+          "highlight": "picking up the pieces",
+          "tip": "Useful in reports and news coverage to describe recovery."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is a metaphor for repairing damaged things, but its exact first figurative use is not firmly documented. It became established through ordinary English usage about restoring broken objects and, later, damaged projects or relationships.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal idea of gathering up broken pieces existed in ordinary English."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers began using the expression for recovering from failures and putting matters right."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes repairing a project, organisation, reputation or relationship."
+          }
+        ]
+      },
+      "similar": [
+        "put things to rights",
+        "rebuild",
+        "get back on track"
+      ],
+      "opposite": "let things fall apart",
+      "pitfall": "It usually focuses on recovery after damage; it is not a general synonym for simply starting a new task."
+    },
+    {
+      "id": "raise-the-bar",
+      "kind": "idiom",
+      "term": "raise the bar",
+      "pos": "idiom",
+      "hint": "make expectations higher",
+      "register": "Common at work",
+      "meaning": "To increase the standard of performance, quality, or achievement expected.",
+      "nuance": "It suggests that a previous level was not good enough and that people are being asked to improve. Use it for standards, results, skills, or expectations.",
+      "literal": "Lift a bar higher on a jumping or lifting contest.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · new targets",
+          "sentence": "The new training program is raising the bar for customer service across the team.",
+          "highlight": "raising the bar",
+          "tip": "Common when discussing standards, targets, or expectations."
+        },
+        {
+          "setting": "social",
+          "where": "Cooking competition · amateur contest",
+          "sentence": "Our neighbor raised the bar by making the best dessert at the party.",
+          "highlight": "raised the bar",
+          "tip": "Can praise someone for achieving a higher standard."
+        },
+        {
+          "setting": "writing",
+          "where": "School newsletter · academic results",
+          "sentence": "The revised curriculum has raised the bar, requiring students to analyse ideas more deeply.",
+          "highlight": "raised the bar",
+          "tip": "Useful in education, business, and sports reporting."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely comes from the idea of physically raising a bar in a jumping or lifting competition. Its figurative use for higher standards is well established in modern English.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Raising the height of a bar is a familiar physical challenge in sport and contests."
+          },
+          {
+            "when": "1900s",
+            "text": "The expression begins appearing in writing for increasing standards of performance."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely used to talk about expectations, quality, achievement, and success."
+          }
+        ]
+      },
+      "similar": [
+        "set the standard",
+        "raise expectations",
+        "take it to the next level"
+      ],
+      "opposite": "lower the bar",
+      "pitfall": "It describes increasing standards, not physically moving a bar or simply setting a goal."
+    },
+    {
+      "id": "save-the-day",
+      "kind": "idiom",
+      "term": "save the day",
+      "pos": "idiom",
+      "hint": "come to the rescue",
+      "register": "Everyday",
+      "meaning": "To rescue someone or something from a difficult or failing situation.",
+      "nuance": "It often credits a person, action, or decision with fixing a problem at just the right moment. It can be sincere or lightly sarcastic.",
+      "literal": "Rescuing someone from danger or helping a situation succeed.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · fixing a failed launch",
+          "sentence": "Maya saved the day by finding the bug before the release went live.",
+          "highlight": "saved the day",
+          "tip": "Common when someone solves a serious problem at the last moment."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · a missing ingredient",
+          "sentence": "I saved the day by picking up dessert on my way over.",
+          "highlight": "saved the day",
+          "tip": "A relaxed way to praise someone for solving a small problem."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · recovering from delays",
+          "sentence": "The extra support saved the day, and the team delivered the report on time.",
+          "highlight": "saved the day",
+          "tip": "Often used in summaries to identify what prevented a bad outcome."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase appears in the 19th century and may have developed from older wording about saving a day, meaning preventing disaster or helping events succeed. Its exact origin is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "Writers begin using ‘save the day’ for preventing disaster or rescuing a situation."
+          },
+          {
+            "when": "20th century",
+            "text": "The phrase becomes common in everyday speech for crediting someone with solving a problem."
+          },
+          {
+            "when": "Today",
+            "text": "Means to rescue a person, plan, or event from failure or danger."
+          }
+        ]
+      },
+      "similar": [
+        "pull it off",
+        "come to the rescue",
+        "save the situation"
+      ],
+      "opposite": "make matters worse",
+      "pitfall": "It usually describes a successful rescue or fix, not simply helping someone in a general way."
+    },
+    {
+      "id": "school-of-hard-knocks",
+      "kind": "idiom",
+      "term": "school of hard knocks",
+      "pos": "idiom",
+      "hint": "learning through difficult experience",
+      "register": "Everyday",
+      "meaning": "The hard lessons someone learns through failures, setbacks or difficult experiences.",
+      "nuance": "It often suggests that hardship has made someone wiser, tougher or more practical. It can also be used more neutrally to describe someone’s difficult background.",
+      "literal": "A metaphorical school where painful knocks and setbacks provide instruction.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team retrospective · recovering from a failed launch",
+          "sentence": "After three failed launches, we learned in the school of hard knocks and finally improved the process.",
+          "highlight": "school of hard knocks",
+          "tip": "Often implies that experience, not formal training, made the difference."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · starting a new job",
+          "sentence": "Moving from agency work to in-house was a year in the school of hard knocks, but I learned a lot.",
+          "highlight": "school of hard knocks",
+          "tip": "Natural when describing personal hardship without dwelling on every detail."
+        },
+        {
+          "setting": "writing",
+          "where": "Company profile · founders discussing early challenges",
+          "sentence": "The founders learned in the school of hard knocks before the business became profitable.",
+          "highlight": "school of hard knocks",
+          "tip": "A vivid way to summarise difficult early experiences."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase presents hardship as a teacher: each “knock” is a setback that gives experience or instruction. Its precise first use is difficult to establish, but the figurative sense is well established.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The phrase appears in English in the sense of learning through hardship and difficult experience."
+          },
+          {
+            "when": "Today",
+            "text": "It describes the practical, often painful lessons gained through real-life setbacks."
+          }
+        ]
+      },
+      "similar": [
+        "learn the hard way",
+        "trial and error",
+        "baptism of fire"
+      ],
+      "opposite": "a sheltered upbringing",
+      "pitfall": "It refers to difficult experience, not necessarily a formal school or literal training."
+    },
+    {
+      "id": "seize-the-opportunity",
+      "kind": "idiom",
+      "term": "seize the opportunity",
+      "pos": "idiom",
+      "hint": "act now while you can",
+      "register": "Common at work",
+      "meaning": "To act quickly and take advantage of a favourable chance when it becomes available.",
+      "nuance": "It suggests decisiveness and good timing. Use it when a chance is open right now and hesitation could mean losing it.",
+      "literal": "To take hold of a chance as it arrives.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · proposing a new project",
+          "sentence": "When the director asked for ideas, we seized the opportunity and proposed a simpler way to handle customer requests.",
+          "highlight": "seized the opportunity",
+          "tip": "A natural way to describe acting decisively when a work opportunity appears."
+        },
+        {
+          "setting": "social",
+          "where": "Networking event · meeting someone useful",
+          "sentence": "She seized the opportunity to introduce herself to the event organiser before the queue grew longer.",
+          "highlight": "seized the opportunity",
+          "tip": "Often used when someone makes good use of a brief chance to meet someone or do something."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · launching a campaign",
+          "sentence": "The company seized the opportunity to expand online while competitors were slow to respond.",
+          "highlight": "seized the opportunity",
+          "tip": "Common in reports and articles describing a prompt, beneficial move."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines the longstanding sense of seizing something with the idea of acting at the right moment. Standard dictionaries record the expression in use by the early 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "The verb ‘seize’ was commonly used for taking hold of something quickly or taking possession of it."
+          },
+          {
+            "when": "Early 1600s",
+            "text": "The expression ‘seize the opportunity’ began appearing in English writing."
+          },
+          {
+            "when": "Today",
+            "text": "It means acting promptly to benefit from a favourable chance."
+          }
+        ]
+      },
+      "similar": [
+        "Seize the moment",
+        "Take advantage of the opportunity",
+        "Jump at the chance"
+      ],
+      "opposite": "Miss your chance",
+      "pitfall": "It is more about acting decisively than merely noticing an opportunity."
+    },
+    {
+      "id": "set-the-world-on-fire",
+      "kind": "idiom",
+      "term": "set the world on fire",
+      "pos": "idiom",
+      "hint": "cause a huge sensation",
+      "register": "Common at work and in everyday speech",
+      "meaning": "To achieve something so impressive or exciting that it attracts enormous attention.",
+      "nuance": "Usually praiseworthy and energetic, though it can exaggerate someone’s impact. It is stronger than saying something was simply successful.",
+      "literal": "Setting fire to the entire world.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product launch · team celebration",
+          "sentence": "Her launch presentation set the world on fire, and demo requests flooded in overnight.",
+          "highlight": "set the world on fire",
+          "tip": "Use it for an achievement with exceptional impact."
+        },
+        {
+          "setting": "social",
+          "where": "Party · unexpected performance",
+          "sentence": "When Maya started the dance-off, she really set the world on fire.",
+          "highlight": "set the world on fire",
+          "tip": "Often describes a bold, memorable performance."
+        },
+        {
+          "setting": "writing",
+          "where": "Business article · ambitious pitch",
+          "sentence": "The startup’s first product promised to set the world on fire, but the pitch sounded far too ambitious.",
+          "highlight": "set the world on fire",
+          "tip": "Common in reporting and promotional writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase grew from older dramatic expressions about the world being on fire, meaning widespread turmoil or extraordinary excitement. Its exact first figurative use is difficult to pin down, so claims of one definitive origin should be treated cautiously.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Writers used images such as ‘the world on fire’ to describe great commotion, danger or excitement."
+          },
+          {
+            "when": "19th century",
+            "text": "Print records include variants such as ‘set the world on fire’ and ‘set the world ablaze’ for extraordinary impact."
+          },
+          {
+            "when": "Today",
+            "text": "The expression usually praises a spectacular achievement or performance."
+          }
+        ]
+      },
+      "similar": [
+        "blow the world away",
+        "make waves",
+        "set the world ablaze"
+      ],
+      "pitfall": "It often means attracting extraordinary attention, not literally causing worldwide harm."
+    }
+  ]
+}

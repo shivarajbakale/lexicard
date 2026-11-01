@@ -1,0 +1,1477 @@
+{
+  "id": "phrases-agreeing-disagreeing-2",
+  "kind": "phrase",
+  "name": "Agreeing & disagreeing · 2",
+  "blurb": "25 phrases about agreeing & disagreeing",
+  "cards": [
+    {
+      "id": "i-stand-corrected",
+      "kind": "phrase",
+      "term": "I stand corrected",
+      "pos": "idiom",
+      "hint": "admitting that someone was right",
+      "register": "Formal or old-fashioned",
+      "meaning": "You admit that another person was right and you were mistaken.",
+      "nuance": "It politely concedes a mistake, often with dignity or mild humour. The wording feels formal, so it usually suits speeches, presentations or conversations where a straightforward apology would seem too casual.",
+      "literal": "The image of someone standing while another person corrects them.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Presenting a revised forecast",
+          "sentence": "I stand corrected—the meeting is on Thursday, not Wednesday.",
+          "highlight": "I stand corrected",
+          "tip": "Use it to acknowledge new information clearly, then move on."
+        },
+        {
+          "setting": "social",
+          "where": "Correcting a friend’s guess",
+          "sentence": "Well, I stand corrected: it was the museum, not the library.",
+          "highlight": "I stand corrected",
+          "tip": "A light, formal way to admit you were wrong without making the moment awkward."
+        },
+        {
+          "setting": "writing",
+          "where": "Correcting a published statement",
+          "sentence": "I stand corrected: the event begins at six, rather than at five.",
+          "highlight": "I stand corrected",
+          "tip": "It can introduce a correction, but a plain apology may be more natural in everyday email."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from the older phrase “stand corrected,” meaning to accept a correction or submit to being corrected. It was well established in English by the early 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The wording developed from older expressions about accepting correction or being set right."
+          },
+          {
+            "when": "1600s",
+            "text": "“Stand corrected” appears in English writing with the sense of acknowledging an error."
+          },
+          {
+            "when": "Today",
+            "text": "The first-person version remains mainly formal, literary or deliberately ceremonious."
+          }
+        ]
+      },
+      "similar": [
+        "I was wrong",
+        "You’re right",
+        "I’ll take that correction"
+      ],
+      "opposite": "I still disagree",
+      "pitfall": "Because it can sound ceremonious or old-fashioned, avoid using it repeatedly in ordinary conversation."
+    },
+    {
+      "id": "if-it-aint-broken-dont-fix-it",
+      "kind": "phrase",
+      "term": "If it ain't broken, don't fix it",
+      "pos": "phrase",
+      "hint": "leave something that works alone",
+      "register": "Common at work",
+      "meaning": "If something is working well, avoid changing it unnecessarily.",
+      "nuance": "This is practical advice, but it can sound inflexible if improvements are genuinely needed. Explain what is working and what risk you see before deciding not to change anything.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Release planning · reviewing a process",
+          "sentence": "If it ain't broken, don't fix it; the release process works, so let's not change it before the audit.",
+          "highlight": "If it ain't broken, don't fix it",
+          "tip": "Use it when explaining why you favour keeping a reliable process unchanged."
+        },
+        {
+          "setting": "social",
+          "where": "Home repairs · advising a friend",
+          "sentence": "Your old bike still works, so if it ain't broken, don't fix it.",
+          "highlight": "if it ain't broken, don't fix it",
+          "tip": "It can sound casual and slightly dismissive, so soften it when giving advice."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · proposing a minor change",
+          "sentence": "If it ain't broken, don't fix it, so we'll keep the current wording unless the client objects.",
+          "highlight": "If it ain't broken, don't fix it",
+          "tip": "Follow it with a brief reason rather than using it as the whole explanation."
+        }
+      ],
+      "origin": {
+        "summary": "The exact source is unclear, but this proverb has long advised against unnecessary change. The familiar wording is especially common in American English.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The idea developed as a proverb about not disturbing something that already works."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "Short versions with similar wording appeared in English-language advice and conversation."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase remains a familiar warning against needless changes at work and in everyday life."
+          }
+        ]
+      },
+      "similar": [
+        "leave well alone",
+        "don't mess with what works",
+        "if it ain't broke, don't fix it"
+      ],
+      "opposite": "time to make a change",
+      "pitfall": "Working does not always mean optimal: the phrase can stall needed improvements if you do not explain the problem clearly."
+    },
+    {
+      "id": "if-the-cap-fits",
+      "kind": "phrase",
+      "term": "if the cap fits",
+      "pos": "phrase",
+      "hint": "a suitable role or responsibility",
+      "register": "Common at work",
+      "meaning": "If a role or responsibility suits your abilities, you should be willing to accept it.",
+      "nuance": "This is usually a light challenge to someone who is avoiding a task or doubting whether they are up to it. It can sound playful, but it can also feel pointed when used with authority.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · assigning a task",
+          "sentence": "You know the client data best, so if the cap fits, take the lead on the report.",
+          "highlight": "if the cap fits",
+          "tip": "Use it to encourage someone to accept a suitable responsibility without sounding overly forceful."
+        },
+        {
+          "setting": "social",
+          "where": "Planning an event · choosing a host",
+          "sentence": "You’re organized and know everyone, so if the cap fits, why not host the dinner?",
+          "highlight": "if the cap fits",
+          "tip": "It works well as a playful nudge when the person is clearly capable."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · requesting help",
+          "sentence": "Mina has handled the schedule before; if the cap fits, she may be the best person to update the team.",
+          "highlight": "if the cap fits",
+          "tip": "Keep the tone light in writing, especially when the request could otherwise feel blunt."
+        }
+      ],
+      "origin": {
+        "summary": "Probably comes from the old practice of trying on a cap to see whether it fits. The figurative sense of being suitable for a role developed from that literal image.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Literal sense: if a cap fits your head, you can wear it."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression began to suggest that a person is suited to a particular role or responsibility."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used as a challenge or encouragement to accept an appropriate role."
+          }
+        ]
+      },
+      "similar": [
+        "if you're up to it",
+        "suit you",
+        "rise to the occasion"
+      ],
+      "opposite": "not your cup of tea",
+      "pitfall": "The full proverb is usually “if the cap fits, wear it”; using only “if the cap fits” may sound incomplete in formal writing."
+    },
+    {
+      "id": "if-the-cap-fits-wear-it",
+      "kind": "phrase",
+      "term": "if the cap fits, wear it",
+      "pos": "idiom",
+      "hint": "accept the role if it suits you",
+      "register": "Common",
+      "meaning": "If a role, responsibility or description suits you, you should accept it and make the best of it.",
+      "nuance": "It can be practical advice, but it may also sound challenging or slightly dismissive, depending on the tone and situation.",
+      "literal": "If a hat fits your head, wear it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Offering a new role",
+          "sentence": "The project needs another editor, and if the cap fits, wear it.",
+          "highlight": "if the cap fits, wear it",
+          "tip": "Use it lightly when offering someone more responsibility."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing a role in a group activity",
+          "sentence": "Nobody wants to organise the party, so if the cap fits, wear it.",
+          "highlight": "if the cap fits, wear it",
+          "tip": "It can be a humorous nudge to someone who is being evasive."
+        },
+        {
+          "setting": "writing",
+          "where": "Discussing responsibility in an email",
+          "sentence": "If the cap fits, wear it; otherwise, let me know what feels more comfortable.",
+          "highlight": "If the cap fits, wear it",
+          "tip": "Pair it with a genuine invitation to decline if the wording feels blunt."
+        }
+      ],
+      "origin": {
+        "summary": "Likely comes from the old proverb “if it fits, wear it,” using “cap” to mean a hat. It developed into advice about accepting what suits you.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The proverb “if it fits, wear it” expressed the practical idea of wearing clothing that suits you."
+          },
+          {
+            "when": "16th century",
+            "text": "The proverb appears in English collections and acquired forms involving “the cap.”"
+          },
+          {
+            "when": "Today",
+            "text": "The phrase is used figuratively for roles, responsibilities and descriptions that suit a person."
+          }
+        ]
+      },
+      "similar": [
+        "take it on",
+        "rise to the occasion",
+        "make it your own"
+      ],
+      "opposite": "if the cap doesn’t fit, leave it",
+      "pitfall": "It can sound mocking or pressuring if someone is genuinely uncertain about taking on a role."
+    },
+    {
+      "id": "in-the-final-analysis",
+      "kind": "phrase",
+      "term": "in the final analysis",
+      "pos": "phrase",
+      "hint": "when everything is considered",
+      "register": "Formal",
+      "meaning": "After considering the most important facts and possible outcomes, the overall conclusion is as stated.",
+      "nuance": "It sounds considered, serious and slightly formal. Use it to introduce a balanced conclusion, especially in a discussion or piece of writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · weighing the options",
+          "sentence": "In the final analysis, postponing the launch would create more problems than it would solve.",
+          "highlight": "In the final analysis",
+          "tip": "Use it when you have weighed several factors and want to state the main conclusion."
+        },
+        {
+          "setting": "social",
+          "where": "Friends discussing a trip",
+          "sentence": "In the final analysis, travelling by train is easier and less stressful than driving.",
+          "highlight": "In the final analysis",
+          "tip": "It can sound a little formal, so reserve it for a thoughtful or serious conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · ending the findings",
+          "sentence": "In the final analysis, the proposal offers the best balance of cost, speed and reliability.",
+          "highlight": "In the final analysis",
+          "tip": "Place it near the end of an argument to summarise the conclusion."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the literal idea of a final, careful analysis and came to mean a conclusion reached after considering all relevant factors.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The words referred to the last stage of examining a question or situation."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression began shifting towards the broader sense of an overall conclusion."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal way to introduce a considered conclusion."
+          }
+        ]
+      },
+      "similar": [
+        "on balance",
+        "all things considered",
+        "in the end"
+      ],
+      "pitfall": "It presents a conclusion but does not explain the reasoning, so make sure the main points have already been covered."
+    },
+    {
+      "id": "same-boat",
+      "kind": "phrase",
+      "term": "in the same boat",
+      "pos": "phrase",
+      "hint": "facing the same problem or situation",
+      "register": "Common at work",
+      "meaning": "In the same difficult situation as someone else, especially one you share with them.",
+      "nuance": "It builds empathy and can stress that a problem is shared rather than personal. It is especially useful when you want to offer support without blaming anyone.",
+      "literal": "Two people travelling together in one boat.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · facing a delay",
+          "sentence": "We’re in the same boat, so let’s work out how to adjust the deadline together.",
+          "highlight": "in the same boat",
+          "tip": "Use it to signal teamwork before discussing what each person will do."
+        },
+        {
+          "setting": "social",
+          "where": "Friend conversation · shared problem",
+          "sentence": "We’re in the same boat because the train stopped and neither of us can get home.",
+          "highlight": "in the same boat",
+          "tip": "It works well for mutual sympathy in an unexpected situation."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a colleague · missed deadline",
+          "sentence": "We’re in the same boat on this delay, so I’m happy to help review the schedule.",
+          "highlight": "in the same boat",
+          "tip": "Pair it with a practical offer of help so it does not sound passive."
+        }
+      ],
+      "origin": {
+        "summary": "The image comes from people sharing a boat. Writers later used it for people facing the same difficulties, and the expression became especially common during the 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal image is of people travelling together in one boat."
+          },
+          {
+            "when": "1800s",
+            "text": "The figurative meaning, sharing another person’s situation, becomes established in English."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely used to express solidarity at work and in everyday life."
+          }
+        ]
+      },
+      "similar": [
+        "in the same situation",
+        "facing the same problem",
+        "in this together"
+      ],
+      "opposite": "out on your own",
+      "pitfall": "Use “in the same boat,” not usually “in a same boat.” It shows shared experience, but it does not mean you have identical needs or responsibilities."
+    },
+    {
+      "id": "its-early-days",
+      "kind": "phrase",
+      "term": "it's early days",
+      "pos": "phrase",
+      "hint": "too soon to judge the result",
+      "register": "Common at work",
+      "meaning": "Something is at an early stage, so there is not enough information yet to judge how it will turn out.",
+      "nuance": "It can sound patient and realistic, but sometimes implies cautious optimism about a promising start. It is also used to soften criticism of an unfinished plan or process.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch review · assessing a new product",
+          "sentence": "The campaign has had strong initial results, but it's early days, so we should keep testing.",
+          "highlight": "it's early days",
+          "tip": "Use it when evidence is promising but still limited."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · a new relationship",
+          "sentence": "We've only met twice, but it's early days, so let's get to know each other.",
+          "highlight": "it's early days",
+          "tip": "It keeps you from making a confident judgment too quickly."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining limited results",
+          "sentence": "It's early days for the trial, and the team will assess the findings after six months.",
+          "highlight": "It's early days",
+          "tip": "It gives context before presenting early or incomplete results."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the literal idea of the early part of a period, especially the beginning of a year. Its figurative use for the early stage of a project or relationship was established by the early 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Early days” referred literally to the first part of a month, year or period."
+          },
+          {
+            "when": "Early 20th century",
+            "text": "The figurative meaning emerged for work, projects and relationships at an early stage."
+          },
+          {
+            "when": "Today",
+            "text": "It is common when discussing new ventures, trials and other unfinished situations."
+          }
+        ]
+      },
+      "similar": [
+        "too soon to tell",
+        "still early",
+        "in the early stages"
+      ],
+      "opposite": "in the final stages",
+      "pitfall": "It does not mean there has been no progress; it means there is not yet enough evidence to know the outcome."
+    },
+    {
+      "id": "last-time-i-checked",
+      "kind": "phrase",
+      "term": "last time I checked",
+      "pos": "phrase",
+      "hint": "according to the latest information I have",
+      "register": "Everyday",
+      "meaning": "Based on the most recent information available to you, while leaving open the possibility that things have changed.",
+      "nuance": "It adds a mild challenge or qualification to a claim, suggesting that the speaker has checked the facts rather than simply assumed. It can sound slightly defensive, so use it when the distinction genuinely matters.",
+      "literal": "At the most recent point when the speaker looked at the information.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Status update · correcting outdated information",
+          "sentence": "The deadline was moved to Friday, last time I checked.",
+          "highlight": "last time I checked",
+          "tip": "Use it when your information may be slightly out of date."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · questioning a claim",
+          "sentence": "I think that restaurant closed, but last time I checked it was still open.",
+          "highlight": "last time I checked",
+          "tip": "It softens disagreement while still showing that you have checked."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · qualifying a status claim",
+          "sentence": "The document is still in review, last time I checked, but I’ll confirm before our call.",
+          "highlight": "last time I checked",
+          "tip": "Follow it with a promise to verify when accuracy is important."
+        }
+      ],
+      "origin": {
+        "summary": "This is a modern conversational expression built from ordinary words. Its exact first use is difficult to trace, but it became established as a polite way to qualify what someone knows.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The wording “last time” developed the sense of “at the most recent occasion when something was checked.”"
+          },
+          {
+            "when": "20th century",
+            "text": "The full expression became common in everyday conversation as a way to qualify a claim."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely understood in casual, workplace and written English."
+          }
+        ]
+      },
+      "similar": [
+        "as far as I know",
+        "as of my last update",
+        "the last I heard",
+        "if my information is up to date"
+      ],
+      "opposite": "without checking",
+      "pitfall": "It can sound dismissive or passive, especially when used to avoid taking responsibility for confirming the facts."
+    },
+    {
+      "id": "let-them-eat-cake",
+      "kind": "phrase",
+      "term": "Let them eat cake",
+      "pos": "phrase",
+      "hint": "no concern for people who have less",
+      "register": "Dismissing; common in political and social debate",
+      "meaning": "Used to dismiss the needs of people who have less by suggesting they should accept what little is available.",
+      "nuance": "The phrase often signals a callous attitude toward poverty or unequal treatment. It can be used critically when quoting someone, but applying it directly may sound cruel or complacent.",
+      "literal": "A privileged person tells hungry people to eat cake instead of considering what they really need.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Benefits discussion · challenging leadership",
+          "sentence": "Calling the allowance a temporary solution sounded like “Let them eat cake” to the team.",
+          "highlight": "Let them eat cake",
+          "tip": "Use it to expose an inadequate response, not to dismiss people affected by it."
+        },
+        {
+          "setting": "social",
+          "where": "Community dinner · discussing unequal access",
+          "sentence": "His comment about skipping the food bank felt like “Let them eat cake” to everyone there.",
+          "highlight": "Let them eat cake",
+          "tip": "It is most effective when the audience already understands the reference."
+        },
+        {
+          "setting": "writing",
+          "where": "Opinion column · criticizing public policy",
+          "sentence": "The proposal offers no help to low-income families, so it amounts to “Let them eat cake”.",
+          "highlight": "Let them eat cake",
+          "tip": "Pair it with a concrete criticism to show why the response is inadequate."
+        }
+      ],
+      "origin": {
+        "summary": "The popular claim that Marie Antoinette said “Let them eat cake” is unsupported. The French expression is closely associated with Jean-Jacques Rousseau, who used it in his memoirs when describing what he called a great princess’s remark.",
+        "confidence": "myth",
+        "timeline": [
+          {
+            "when": "1760s",
+            "text": "Jean-Jacques Rousseau writes about the French expression “Qu’ils mangent de la brioche” in his Confessions."
+          },
+          {
+            "when": "1789",
+            "text": "Marie Antoinette reportedly mentions brioche during the French Revolution, but there is no reliable evidence that she used this phrase."
+          },
+          {
+            "when": "19th century",
+            "text": "The English expression becomes widely associated with the unsupported Marie Antoinette story."
+          }
+        ]
+      },
+      "similar": [
+        "they should know their place",
+        "that is their problem",
+        "pull yourself up by your bootstraps"
+      ],
+      "opposite": "share what everyone needs",
+      "pitfall": "Avoid using it sincerely when proposing cuts or ignoring people’s needs; it usually communicates contempt rather than a practical solution."
+    },
+    {
+      "id": "lets-face-it",
+      "kind": "phrase",
+      "term": "let's face it",
+      "pos": "phrase",
+      "hint": "admitting an unwelcome truth",
+      "register": "Casual",
+      "meaning": "Used when acknowledging a difficult or obvious truth that people may be avoiding.",
+      "nuance": "It sounds candid but not aggressive, often helping a conversation move from denial to practical discussion. It can sound slightly impatient if used too often.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing a recurring delay",
+          "sentence": "Let's face it, the current process takes too long, so we need to change how approvals work.",
+          "highlight": "Let's face it",
+          "tip": "Use it to name a shared problem before focusing on a solution."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation with a friend · changing plans",
+          "sentence": "Let's face it, neither of us wants to go to that party tonight.",
+          "highlight": "Let's face it",
+          "tip": "It makes blunt honesty sound relaxed and conversational."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal email to a colleague · correcting an assumption",
+          "sentence": "Let's face it, the deadline was unrealistic from the beginning.",
+          "highlight": "Let's face it",
+          "tip": "It suits friendly messages, but a formal email may need a more neutral opening."
+        }
+      ],
+      "origin": {
+        "summary": "Probably developed from the literal idea of turning one's face toward someone or something in order to acknowledge it directly. Its figurative use became common in casual English during the 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The phrase likely began with the literal idea of facing someone directly."
+          },
+          {
+            "when": "20th century",
+            "text": "It became a conversational way to introduce an honest or unwelcome observation."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely used to signal frank acknowledgment in informal speech and writing."
+          }
+        ]
+      },
+      "similar": [
+        "the truth is",
+        "let's be honest",
+        "we have to admit"
+      ],
+      "opposite": "let's pretend otherwise",
+      "pitfall": "It can sound dismissive or impatient, especially when addressing someone who has raised a concern."
+    },
+    {
+      "id": "no-contest",
+      "kind": "phrase",
+      "term": "no contest",
+      "pos": "phrase",
+      "hint": "nothing to argue about",
+      "register": "Common",
+      "meaning": "There is no need to argue or compare because one option is clearly better.",
+      "nuance": "It can also mean that people agree and there is no dispute. It often has a relaxed, slightly humorous tone.",
+      "literal": "A competition with no doubt about who has won.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Choosing a proposal",
+          "sentence": "We can approve the revised budget today; there’s no contest.",
+          "highlight": "no contest",
+          "tip": "Use it when the preferred choice is obvious and further debate would waste time."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing an activity with friends",
+          "sentence": "Between staying home and visiting the museum, it’s no contest; I want to get out.",
+          "highlight": "no contest",
+          "tip": "This sounds playful when you are comparing two options you both enjoy."
+        },
+        {
+          "setting": "writing",
+          "where": "Comparing two designs",
+          "sentence": "The proposals are similar, but there’s no contest: the second design is clearer.",
+          "highlight": "no contest",
+          "tip": "Follow it with a brief reason so the conclusion is still clear."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the idea of a contest or dispute having no uncertain outcome. It later extended to mean that there is simply no point arguing.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The phrase referred to a dispute or competition with no question about its outcome."
+          },
+          {
+            "when": "1800s",
+            "text": "Usage expanded to describe situations where one side clearly prevailed."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly means there is nothing worth debating."
+          }
+        ]
+      },
+      "similar": [
+        "no debate",
+        "no question",
+        "without a doubt"
+      ],
+      "opposite": "a close call",
+      "pitfall": "“No contest” can sound dismissive if another person is still hoping to explain their choice."
+    },
+    {
+      "id": "no-deal",
+      "kind": "phrase",
+      "term": "no deal",
+      "pos": "phrase",
+      "hint": "an agreement is not happening",
+      "register": "Common at work",
+      "meaning": "A refusal to accept an offer or reach an agreement.",
+      "nuance": "It sounds firm and final, especially when rejecting a business proposal or negotiated terms. In casual contexts, it can also mean that a plan will not work.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Negotiating a supplier contract",
+          "sentence": "The team rejected the extra fees, so it was no deal.",
+          "highlight": "no deal",
+          "tip": "Use it after explaining why the terms do not work."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing a restaurant with friends",
+          "sentence": "There is no vegetarian option here, so it’s no deal.",
+          "highlight": "no deal",
+          "tip": "It is direct but light, so use a friendly tone when appropriate."
+        },
+        {
+          "setting": "writing",
+          "where": "Declining a partnership proposal",
+          "sentence": "After reviewing the proposal, we decided it was no deal because the timeline was unrealistic.",
+          "highlight": "no deal",
+          "tip": "In formal writing, state the reason and next step clearly."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely comes from the idea that a bargain or agreement requires both sides to accept the terms. Its modern use can mean either a failed negotiation or a firm rejection of an offer.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression developed from the language of bargaining and deals."
+          },
+          {
+            "when": "20th century",
+            "text": "It became common in business and everyday speech for rejecting an offer or agreement."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a short, informal way to say that an agreement will not happen."
+          }
+        ]
+      },
+      "similar": [
+        "not a deal",
+        "dealbreaker",
+        "the deal is off",
+        "not happening"
+      ],
+      "opposite": "deal",
+      "pitfall": "“No deal” can sound blunt, so explain the reason when you want to preserve a positive working relationship."
+    },
+    {
+      "id": "no-offence",
+      "kind": "phrase",
+      "term": "no offence",
+      "pos": "phrase",
+      "hint": "I’m not trying to upset you",
+      "register": "Everyday",
+      "meaning": "A way of saying that what you are about to say is not intended to hurt or insult anyone.",
+      "nuance": "It can soften an honest observation, but it does not automatically prevent someone from feeling offended. Use it when your point is genuine rather than as an excuse to be rude.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · raising a concern",
+          "sentence": "No offence, but I think we should check the figures again before presenting them.",
+          "highlight": "No offence",
+          "tip": "It softens a disagreement, but still make your reason clear."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · explaining a preference",
+          "sentence": "No offence, but I’m not very keen on horror films.",
+          "highlight": "No offence",
+          "tip": "Useful when your opinion may be blunt but you don’t want it to sound hostile."
+        },
+        {
+          "setting": "writing",
+          "where": "Message · giving unwelcome feedback",
+          "sentence": "No offence, I’m sharing this because I think the first version could be clearer.",
+          "highlight": "No offence",
+          "tip": "Keep the feedback specific and respectful; the phrase alone does not make criticism constructive."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the idea that an intended statement is not meant to be an insult or attack. Its exact first use is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The wording connects “offence” with a statement or action that is not intended to be insulting."
+          },
+          {
+            "when": "1800s",
+            "text": "Similar expressions began appearing in English in contexts involving criticism, disagreement or blunt speech."
+          },
+          {
+            "when": "Today",
+            "text": "“No offence” remains a common informal phrase, especially in British, Irish and Commonwealth English."
+          }
+        ]
+      },
+      "similar": [
+        "without offence",
+        "I don’t mean any offence",
+        "no hard feelings"
+      ],
+      "opposite": "take it as an insult",
+      "pitfall": "“No offence” does not guarantee that your comment will be received well, and it can sound sarcastic if used after a genuinely rude remark."
+    },
+    {
+      "id": "no-question",
+      "kind": "phrase",
+      "term": "no question",
+      "pos": "phrase",
+      "hint": "without any doubt",
+      "register": "Common at work",
+      "meaning": "Certainly; there is no doubt about something.",
+      "nuance": "Use it to state that something is certain, obvious or firmly agreed. Adding “about it” can make it sound more natural when you are responding directly to someone.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · confirming a decision",
+          "sentence": "No question, we’ll finish the report before Friday.",
+          "highlight": "No question",
+          "tip": "Use it for an immediate, confident response when there is no doubt."
+        },
+        {
+          "setting": "social",
+          "where": "Plans with friends · settling a choice",
+          "sentence": "No question, take whichever restaurant you prefer.",
+          "highlight": "No question",
+          "tip": "It works well as a friendly way of giving someone permission."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · stating a clear outcome",
+          "sentence": "There is no question that the new process has reduced delays.",
+          "highlight": "no question",
+          "tip": "Use this construction to emphasize your confidence in a statement."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely developed from the older sense of “question” as doubt or uncertainty: if there is no question, then doubt does not remain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Question” was used in the sense of doubt or uncertainty."
+          },
+          {
+            "when": "1600s–1700s",
+            "text": "“No question” began appearing as a way of saying that something was certain."
+          },
+          {
+            "when": "Today",
+            "text": "The shortened expression remains common in confident spoken and written English."
+          }
+        ]
+      },
+      "similar": [
+        "undoubtedly",
+        "without a doubt",
+        "certainly"
+      ],
+      "opposite": "in doubt",
+      "pitfall": "On its own, “no question” can sound abrupt; “No question, we’re ready” is often more natural than simply saying “No question.”"
+    },
+    {
+      "id": "no-soap",
+      "kind": "phrase",
+      "term": "no soap",
+      "pos": "idiom",
+      "hint": "no chance, no deal",
+      "register": "Casual",
+      "meaning": "No chance, no possibility, or no deal.",
+      "nuance": "It is blunt and slightly dismissive, so it suits conversations among people who already know each other. In professional settings, a direct explanation may sound more polished.",
+      "literal": "No bar of soap is available.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague asks for a favour",
+          "sentence": "I can’t review that today—no soap.",
+          "highlight": "no soap",
+          "tip": "Keep it among colleagues; offer a realistic alternative if you can."
+        },
+        {
+          "setting": "social",
+          "where": "Friends make plans",
+          "sentence": "No soap, I’m staying in tonight.",
+          "highlight": "No soap",
+          "tip": "It sounds playful with friends, but dismissive with someone you do not know."
+        },
+        {
+          "setting": "writing",
+          "where": "Casual message to a friend",
+          "sentence": "No soap, I’ve already made other plans.",
+          "highlight": "No soap",
+          "tip": "Use it in informal messages, not formal emails."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is uncertain, but it likely comes from older slang in which “soap” meant a promise, agreement or favourable deal. “No soap” therefore came to mean no chance or no deal.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "“Soap” appears in some English slang for a promise, agreement or chance."
+          },
+          {
+            "when": "Early 20th century",
+            "text": "“No soap” becomes a casual way to reject a request or possibility."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly informal and can sound old-fashioned or deliberately dismissive."
+          }
+        ]
+      },
+      "similar": [
+        "no chance",
+        "no way",
+        "not a chance",
+        "no deal"
+      ],
+      "opposite": "no problem",
+      "pitfall": "It can sound rude or overly dismissive, so use it with people who know you well."
+    },
+    {
+      "id": "no-win-no-fee",
+      "kind": "phrase",
+      "term": "no win, no fee",
+      "pos": "phrase",
+      "hint": "pay only if you win",
+      "register": "Formal",
+      "meaning": "An agreement that a lawyer will not charge a fee unless the case is won.",
+      "nuance": "Common in legal services, especially claims involving injury, debt or disputed compensation. Check the terms carefully, because some clients may still owe costs such as court fees or expert expenses.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Legal consultation · hiring a solicitor",
+          "sentence": "The employment tribunal case is handled on a no win, no fee basis, so there is no upfront charge.",
+          "highlight": "no win, no fee",
+          "tip": "Confirm in writing whether the client still owes legal or court costs."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation with a friend · making a claim",
+          "sentence": "The insurer agreed to take the case on a no win, no fee basis, which made pursuing it much easier.",
+          "highlight": "no win, no fee",
+          "tip": "Use it when discussing the cost of legal representation, not as a general slogan."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a client · explaining fees",
+          "sentence": "We can pursue the claim on a no win, no fee basis, although court expenses may still be recoverable.",
+          "highlight": "no win, no fee",
+          "tip": "State the arrangement clearly and explain any costs that remain the client’s responsibility."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from contingency-fee arrangements, in which part or all of a lawyer’s payment depends on the outcome. The exact first use of this wording is not firmly documented.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Contingency-fee practices developed in legal systems where payment depended on the result of a case."
+          },
+          {
+            "when": "20th century",
+            "text": "Lawyers and legal services increasingly promoted clear phrases describing the no-win arrangement."
+          },
+          {
+            "when": "Today",
+            "text": "Common shorthand for a contingency-fee agreement, especially in personal injury and debt claims."
+          }
+        ]
+      },
+      "similar": [
+        "contingency fee",
+        "no win, no charge",
+        "win or no fee"
+      ],
+      "opposite": "upfront fee",
+      "pitfall": "“No win, no fee” does not always mean there are no costs at all; court fees, expert fees and other expenses may still apply."
+    },
+    {
+      "id": "none-of-your-beeswax",
+      "kind": "phrase",
+      "term": "none of your beeswax",
+      "pos": "phrase",
+      "hint": "not your business",
+      "register": "Casual",
+      "meaning": "A blunt way to say that something is not your concern and you should not interfere.",
+      "nuance": "It can sound playful among friends but rude or confrontational at work. A softened version, such as “That’s probably not my call,” is usually safer in professional settings.",
+      "literal": "Imagines a personal matter as something protected by the speaker’s wax, beyond another person’s access.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague asks about an unrelated decision",
+          "sentence": "How the team handles that is none of your beeswax, so let’s focus on our own task.",
+          "highlight": "none of your beeswax",
+          "tip": "Avoid this in formal workplaces; it can sound dismissive or aggressive."
+        },
+        {
+          "setting": "social",
+          "where": "Friend questions your weekend plans",
+          "sentence": "Why I changed my plans is none of your beeswax, but I’ll tell you later.",
+          "highlight": "none of your beeswax",
+          "tip": "It works among people with a relaxed, teasing relationship."
+        },
+        {
+          "setting": "writing",
+          "where": "Responding to a nosy group chat",
+          "sentence": "Her reasons are none of your beeswax, and frankly, mine neither.",
+          "highlight": "none of your beeswax",
+          "tip": "Check the tone carefully because written wording can appear harsher than spoken wording."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is uncertain, but the phrase appears to be an American expression that playfully substitutes “beeswax” for “business.”",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1900s",
+            "text": "Early forms referring to “bee’s wax” begin appearing in American speech."
+          },
+          {
+            "when": "Mid-1900s",
+            "text": "The expression becomes established as a more emphatic, informal version of “none of your business.”"
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly casual and can sound cheeky, dismissive or rude depending on context."
+          }
+        ]
+      },
+      "similar": [
+        "none of your business",
+        "mind your own business",
+        "not your call"
+      ],
+      "opposite": "that’s your business",
+      "pitfall": "This phrase tells someone to back off, so using it when you only want gentle clarification may make the conversation more confrontational."
+    },
+    {
+      "id": "not-a-patch-on",
+      "kind": "phrase",
+      "term": "not a patch on",
+      "pos": "idiom",
+      "hint": "far less impressive than",
+      "register": "Casual, especially British",
+      "meaning": "Not nearly as good, impressive or capable as someone or something else.",
+      "nuance": "It makes a direct comparison with a slightly dismissive, old-fashioned tone, so it is usually better in relaxed conversation than in formal writing.",
+      "literal": "A patched item is treated as less valuable or attractive than the original, complete item.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · comparing proposals",
+          "sentence": "The second design is not a patch on what our customer team came up with.",
+          "highlight": "not a patch on",
+          "tip": "Keep it light and avoid using it when judging a colleague’s work directly."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · comparing singers",
+          "sentence": "Honestly, Sam is not a patch on the singer we saw last summer.",
+          "highlight": "not a patch on",
+          "tip": "It sounds conversational but can sound harsh, so use it with friends you know well."
+        },
+        {
+          "setting": "writing",
+          "where": "Casual email · sharing early feedback",
+          "sentence": "This first version is not a patch on the draft you sent yesterday.",
+          "highlight": "not a patch on",
+          "tip": "Consider a less blunt phrase such as “nowhere near as polished as” in professional email."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is unclear. It probably comes from the idea that something patched is less good than something complete or new.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal comparison uses an item with a patch as an inferior version of a complete one."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression appears in British writing as a way of saying that something is far inferior."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a casual, slightly old-fashioned comparison, especially in British English."
+          }
+        ]
+      },
+      "similar": [
+        "nowhere near as good as",
+        "no match for",
+        "not in the same league as"
+      ],
+      "opposite": "far better than",
+      "pitfall": "It can sound dismissive, so avoid it for sensitive feedback or formal communication."
+    },
+    {
+      "id": "not-an-option",
+      "kind": "phrase",
+      "term": "not an option",
+      "pos": "phrase",
+      "hint": "impossible or unavailable",
+      "register": "Common",
+      "meaning": "Something that cannot be chosen, done or accepted under the circumstances.",
+      "nuance": "Firm and sometimes blunt. It works best when you briefly explain what is possible instead.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · discussing deadlines",
+          "sentence": "Delaying the launch next week is not an option because the campaign starts on Monday.",
+          "highlight": "not an option",
+          "tip": "Pair it with a clear alternative when people need a way forward."
+        },
+        {
+          "setting": "social",
+          "where": "Restaurant plans · choosing what to order",
+          "sentence": "Vegetarian food is fine, but staying in tonight is not an option for me.",
+          "highlight": "not an option",
+          "tip": "Use it casually, but soften it if the disagreement could upset someone."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · setting expectations",
+          "sentence": "A full refund is not an option under our policy, but we can offer store credit.",
+          "highlight": "not an option",
+          "tip": "In customer messages, follow it with a practical solution to sound helpful rather than rigid."
+        }
+      ],
+      "origin": {
+        "summary": "Developed from the ordinary meaning of “option,” meaning a choice available to someone, with “not” ruling that choice out.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Option” was used to mean a possible choice or course of action."
+          },
+          {
+            "when": "By the 1900s",
+            "text": "Negating “an option” became a natural way to say that a choice was unavailable or unacceptable."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase is common in everyday conversation, business and formal writing."
+          }
+        ]
+      },
+      "similar": [
+        "out of the question",
+        "not possible",
+        "not a possibility"
+      ],
+      "opposite": "a viable option",
+      "pitfall": "Saying something “is not an option” can sound dismissive if you offer no explanation or alternative."
+    },
+    {
+      "id": "not-for-nothing",
+      "kind": "phrase",
+      "term": "not for nothing",
+      "pos": "idiom",
+      "hint": "not without a good reason",
+      "register": "Common at work",
+      "meaning": "Used to say that something has a good reason behind it or that a point is worth making.",
+      "nuance": "It often introduces an observation, criticism or piece of advice while signalling that you are not saying it casually. The phrase can sound slightly defensive if used too often.",
+      "literal": "Not for no reason at all.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project check-in · raising a concern",
+          "sentence": "Not for nothing, but the deadline keeps moving and the team may need clearer priorities.",
+          "highlight": "Not for nothing",
+          "tip": "Use it to introduce a concern without sounding overly blunt."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation with a friend · giving advice",
+          "sentence": "Not for nothing, you might enjoy the museum more if you check whether it is open late.",
+          "highlight": "Not for nothing",
+          "tip": "It softens a suggestion or observation that might otherwise sound critical."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a colleague · explaining a recommendation",
+          "sentence": "Not for nothing, the earlier version may be simpler to maintain and easier for new colleagues to learn.",
+          "highlight": "Not for nothing",
+          "tip": "Use it when a reason should be made explicit but you do not want to begin too forcefully."
+        }
+      ],
+      "origin": {
+        "summary": "Probably grew from older wording such as “not for naught,” meaning “not without reason.” The modern form became established in English during the 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Similar expressions used “not for naught” and “not without cause.”"
+          },
+          {
+            "when": "19th century",
+            "text": "The phrase settled into its current form and use as a way to introduce a reason or observation."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in conversation, workplaces and written messages."
+          }
+        ]
+      },
+      "similar": [
+        "for a reason",
+        "with good cause",
+        "let the record show"
+      ],
+      "opposite": "for no reason",
+      "pitfall": "It can sound like you are insisting on a reason or subtly criticising someone, so pair it with the actual point."
+    },
+    {
+      "id": "not-necessarily",
+      "kind": "phrase",
+      "term": "not necessarily",
+      "pos": "phrase",
+      "hint": "it does not automatically follow",
+      "register": "Everyday",
+      "meaning": "Used to show that something may be true, but it is not required or certain.",
+      "nuance": "It softens a disagreement or qualifies a statement without being strongly confrontational. It can also mean “possibly not,” depending on the context.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Reviewing a proposal",
+          "sentence": "The plan may improve customer retention, but that does not necessarily mean it will increase revenue.",
+          "highlight": "not necessarily",
+          "tip": "Use it to separate an assumption from a guaranteed result."
+        },
+        {
+          "setting": "social",
+          "where": "Discussing travel plans",
+          "sentence": "Staying downtown might be cheaper, but it’s not necessarily the most convenient option for everyone.",
+          "highlight": "not necessarily",
+          "tip": "It gently points out a limitation without ruling out the other choice."
+        },
+        {
+          "setting": "writing",
+          "where": "Explaining a recommendation",
+          "sentence": "Adding more detail is helpful, although it is not necessarily the best way to make the report clearer.",
+          "highlight": "not necessarily",
+          "tip": "A useful phrase for introducing nuance while keeping your main point."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines the modern word “not” with “necessarily,” which comes from Latin and means “necessarily.” The exact expression developed as ordinary English usage over time.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Necessarily” entered English from Latin through French, with the sense of “inevitably” or “as a necessary result.”"
+          },
+          {
+            "when": "Modern English",
+            "text": "Adding “not” created the common phrase used to qualify a claim or soften a disagreement."
+          },
+          {
+            "when": "Today",
+            "text": "“Not necessarily” is widely used in everyday conversation, meetings and formal writing."
+          }
+        ]
+      },
+      "similar": [
+        "not automatically",
+        "not inevitably",
+        "possibly not",
+        "need not"
+      ],
+      "opposite": "necessarily",
+      "pitfall": "It does not always mean “no”; it may simply show that a conclusion is not certain."
+    },
+    {
+      "id": "nothing-about-us-without-us",
+      "kind": "phrase",
+      "term": "nothing about us without us",
+      "pos": "phrase",
+      "hint": "no decisions about us unless we take part",
+      "register": "Common in advocacy; increasingly used at work",
+      "meaning": "People affected by a decision should be included in making it, rather than being treated only as an audience or audience.",
+      "nuance": "It stresses meaningful participation, not merely being informed after decisions are made. It often carries a firm, values-based tone and suits advocacy, community planning and inclusive workplace discussions.",
+      "literal": "Nothing concerning us should happen unless we are involved.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Staff meeting · planning a workplace change",
+          "sentence": "If the change affects the whole team, it should be nothing about us without us.",
+          "highlight": "nothing about us without us",
+          "tip": "Use it when you want affected employees involved in the decision, not just notified about it."
+        },
+        {
+          "setting": "social",
+          "where": "Neighbourhood meeting · discussing a local facility",
+          "sentence": "Residents should shape plans for the community centre; it’s nothing about us without us.",
+          "highlight": "nothing about us without us",
+          "tip": "It works best when followed by a clear invitation to participate."
+        },
+        {
+          "setting": "writing",
+          "where": "Consultation email · gathering stakeholder feedback",
+          "sentence": "Our consultation follows the principle of nothing about us without us, so every affected group will help shape the proposal.",
+          "highlight": "nothing about us without us",
+          "tip": "Pair it with specific ways for people to contribute or make decisions."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is closely associated with disability rights activism. Its precise first use is difficult to establish, but it became widely prominent through campaigns calling for disabled people to have a direct voice in policies affecting their lives.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The wording expresses the long-standing idea that people should participate in decisions that affect them."
+          },
+          {
+            "when": "1970s–80s",
+            "text": "Disability rights movements helped popularize the phrase as a demand for participation rather than consultation alone."
+          },
+          {
+            "when": "Today",
+            "text": "It is used in disability advocacy, public involvement and inclusive workplace practices."
+          }
+        ]
+      },
+      "similar": [
+        "no decision about us without us",
+        "meaningful participation",
+        "nothing about you without you"
+      ],
+      "opposite": "decisions made without consulting the people affected",
+      "pitfall": "It should describe genuine involvement; using it while excluding people from the decision may sound contradictory."
+    },
+    {
+      "id": "now-were-talking",
+      "kind": "phrase",
+      "term": "now we're talking",
+      "pos": "idiom",
+      "hint": "something finally makes sense",
+      "register": "Casual",
+      "meaning": "Used to show that you finally understand, agree with, or are excited about what someone has said or proposed.",
+      "nuance": "It sounds enthusiastic and relieved, like the conversation has reached a useful point. It is friendly and informal, so it may not suit a formal presentation or written report.",
+      "literal": "The people are now discussing the right subject and reaching a shared understanding.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · agreeing on priorities",
+          "sentence": "Focusing on the three biggest problems first? Okay, now we're talking.",
+          "highlight": "now we're talking",
+          "tip": "Use it when a proposal feels clear, practical, and worth pursuing."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a night out · choosing a plan",
+          "sentence": "A pub quiz followed by takeaway? Now we're talking.",
+          "highlight": "Now we're talking",
+          "tip": "It shows playful enthusiasm and keeps the conversation upbeat."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal team message · confirming a direction",
+          "sentence": "We’ll start with one small pilot and learn from it; now we're talking.",
+          "highlight": "now we're talking",
+          "tip": "It works in a relaxed message to colleagues, but not in a formal report."
+        }
+      ],
+      "origin": {
+        "summary": "Probably developed from the idea that a conversation has finally become useful or reached a satisfying point. Its exact first use is unclear.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The phrase was used to mean that a discussion had become productive or appealing."
+          },
+          {
+            "when": "20th century",
+            "text": "It spread in informal British and American speech, especially at work and socially."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a casual way to show agreement, interest, or relief about a good idea."
+          }
+        ]
+      },
+      "similar": [
+        "now you're talking",
+        "that's more like it",
+        "now that makes sense",
+        "we're on the same page"
+      ],
+      "opposite": "we're not making progress",
+      "pitfall": "It can sound dismissive if you have not explained why the idea is good."
+    },
+    {
+      "id": "out-on-a-limb",
+      "kind": "phrase",
+      "term": "out on a limb",
+      "pos": "idiom",
+      "hint": "taking a risky, exposed position",
+      "register": "Common at work and in conversation",
+      "meaning": "Taking a position that leaves you exposed to criticism, failure or loss.",
+      "nuance": "It suggests going against the safer or more popular choice. It can be sympathetic when someone is courageously standing alone, or critical when they are being reckless.",
+      "literal": "Balancing or reaching out on a narrow branch, far from a secure place.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · challenging a plan",
+          "sentence": "I’m out on a limb here, but I don’t think the deadline is realistic.",
+          "highlight": "out on a limb",
+          "tip": "Use it to soften a viewpoint that may conflict with the team."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · offering an unpopular opinion",
+          "sentence": "I’ll say it, even though I’m out on a limb: that restaurant was overpriced.",
+          "highlight": "out on a limb",
+          "tip": "It signals that you know your opinion may attract disagreement."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · explaining a dissenting recommendation",
+          "sentence": "This recommendation is out on a limb, so I’ve included the evidence that led me to it.",
+          "highlight": "out on a limb",
+          "tip": "Pair it with reasons so the risk does not sound unsupported."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably grew from the image of someone balancing on a narrow branch or similar exposed support. Its figurative use for taking a vulnerable or unconventional position became established in the early 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Likely developed from the physical image of being on a narrow branch or exposed support."
+          },
+          {
+            "when": "Early 20th century",
+            "text": "Figurative uses appeared for being isolated in an opinion or exposed to risk."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly used to acknowledge a position that risks disagreement or consequences."
+          }
+        ]
+      },
+      "similar": [
+        "in the firing line",
+        "on the back foot",
+        "taking a stand",
+        "on thin ice"
+      ],
+      "opposite": "on safe ground",
+      "pitfall": "It describes risk or exposure, not necessarily foolishness; say “out on a limb” without adding “but” when you mean the person is taking a genuine stand."
+    },
+    {
+      "id": "pick-on-someone-your-own-size",
+      "kind": "phrase",
+      "term": "pick on someone your own size",
+      "pos": "idiom",
+      "hint": "challenge someone of equal strength",
+      "register": "Common in conversation",
+      "meaning": "To challenge, criticize, or target someone of comparable status, strength, or influence.",
+      "nuance": "The phrase can suggest fairness: choose an opponent or target who is your equal. It may also warn against bullying or exploiting someone weaker.",
+      "literal": "Choosing someone of the same physical size as yourself to fight or confront.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · challenging a decision",
+          "sentence": "If you disagree with the policy, take it up with the leadership rather than picking on someone your own size.",
+          "highlight": "picking on someone your own size",
+          "tip": "Use it when the person being criticized is a peer, not a weaker colleague."
+        },
+        {
+          "setting": "social",
+          "where": "Friendly debate · matching wit",
+          "sentence": "One guest kept picking on someone their own size, so the teasing quickly became less friendly.",
+          "highlight": "picking on someone their own size",
+          "tip": "It can describe banter between equals, but it may imply the teasing has gone too far."
+        },
+        {
+          "setting": "writing",
+          "where": "Sports commentary · reviewing a match",
+          "sentence": "The underdog finally picked on someone their own size and won the bout.",
+          "highlight": "picked on someone their own size",
+          "tip": "It works well for a contest between opponents of similar ability."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from the language of fighting, where choosing an opponent of similar size suggested a fair contest. Its figurative use later extended to criticism and conflict.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Literal sense: choosing an opponent of the same size to fight."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "The image became associated with fair challenges between people of equal strength or standing."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for contests, arguments, criticism, and warnings against targeting weaker people."
+          }
+        ]
+      },
+      "similar": [
+        "take on someone your own size",
+        "fight someone your own size",
+        "go toe to toe"
+      ],
+      "opposite": "pick on someone smaller",
+      "pitfall": "The phrase can sound old-fashioned or hostile; in some contexts, “challenge someone your own size” sounds more neutral."
+    }
+  ]
+}

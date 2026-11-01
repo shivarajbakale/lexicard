@@ -1,0 +1,1480 @@
+{
+  "id": "idioms-everyday-life-3",
+  "kind": "idiom",
+  "name": "Everyday life · 3",
+  "blurb": "25 idioms about everyday life",
+  "cards": [
+    {
+      "id": "make-up-ones-mind",
+      "kind": "idiom",
+      "term": "make up one's mind",
+      "pos": "idiom",
+      "hint": "reach a decision",
+      "register": "Everyday",
+      "meaning": "To decide what you want to do and stop considering other options.",
+      "nuance": "It suggests a choice has been reached, usually after thinking things over. It can sound direct when asking someone to choose.",
+      "literal": "Forming or settling one's own mind.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · choosing a priority",
+          "sentence": "We need to make up our minds about which project comes first.",
+          "highlight": "make up our minds",
+          "tip": "A natural way to ask coworkers to reach a decision."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing a restaurant",
+          "sentence": "I can't keep checking the menu; just make up your mind and order.",
+          "highlight": "make up your mind",
+          "tip": "Useful when someone is hesitating over a choice."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · confirming plans",
+          "sentence": "She finally made up her mind and accepted the job in Dublin.",
+          "highlight": "made up her mind",
+          "tip": "Past tense changes ‘make’ to ‘made’ and ‘one’s’ to ‘her’."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines the older sense of ‘make up’ as ‘form’ or ‘put together’ with ‘mind’, meaning a person's thinking or intention. The expression is recorded from the late 1500s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "The wording appears in English writing, initially meaning to form or settle one's intention."
+          },
+          {
+            "when": "1700s–1800s",
+            "text": "The phrase becomes established in the modern sense of reaching a decision."
+          },
+          {
+            "when": "Today",
+            "text": "Means choosing an option after considering the alternatives."
+          }
+        ]
+      },
+      "similar": [
+        "come to a decision",
+        "make a choice",
+        "decide"
+      ],
+      "opposite": "leave it open",
+      "pitfall": "Don't confuse it with ‘make something up’, which means inventing a story or detail."
+    },
+    {
+      "id": "make-yourself-at-home",
+      "kind": "idiom",
+      "term": "make yourself at home",
+      "pos": "phrase",
+      "hint": "feel welcome and comfortable",
+      "register": "Everyday",
+      "meaning": "To behave as though you are welcome to relax, use what you need, and settle in.",
+      "nuance": "Warm and hospitable. It tells guests they do not need to stand on ceremony, and can also refer to making a shared space feel relaxed.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Welcoming a new colleague",
+          "sentence": "Grab a mug and make yourself at home—we’re all quite informal here.",
+          "highlight": "make yourself at home",
+          "tip": "A friendly way to help someone feel included."
+        },
+        {
+          "setting": "social",
+          "where": "Hosting dinner at home",
+          "sentence": "Please make yourself at home while I finish cooking, and help yourself to a drink.",
+          "highlight": "make yourself at home",
+          "tip": "Common when welcoming guests into your home."
+        },
+        {
+          "setting": "writing",
+          "where": "A guesthouse welcome note",
+          "sentence": "Settle in, make yourself at home, and let us know if you need anything during your stay.",
+          "highlight": "make yourself at home",
+          "tip": "Often used in emails, notices, and hospitality information."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the idea of home being a place where a person can relax and act naturally. Its exact first use is not firmly documented here.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English speakers long used home to mean a comfortable, welcoming place."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase becomes established in hospitality and social conversation."
+          },
+          {
+            "when": "Today",
+            "text": "It welcomes guests and encourages them to feel relaxed."
+          }
+        ]
+      },
+      "similar": [
+        "feel at home",
+        "make yourself comfortable",
+        "settle in"
+      ],
+      "opposite": "feel like a guest",
+      "pitfall": "Do not use it when someone is actually unwelcome; the phrase assumes genuine hospitality."
+    },
+    {
+      "id": "memory-lane",
+      "kind": "idiom",
+      "term": "memory lane",
+      "pos": "idiom",
+      "hint": "a trip into the past",
+      "register": "Everyday",
+      "meaning": "A place or journey that brings back memories from the past.",
+      "nuance": "Often warm and nostalgic, though it can also refer to memories that are sad or difficult. Use it when someone is reflecting on earlier times.",
+      "literal": "A lane leading back through memories.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team reunion · looking back",
+          "sentence": "Looking at our first office photos sent us down memory lane.",
+          "highlight": "memory lane",
+          "tip": "Use it when colleagues share stories about how things used to be."
+        },
+        {
+          "setting": "social",
+          "where": "Old friends · catching up",
+          "sentence": "We stayed up talking and took a trip down memory lane.",
+          "highlight": "memory lane",
+          "tip": "Often follows ‘down’, as in ‘down memory lane’."
+        },
+        {
+          "setting": "writing",
+          "where": "Personal essay · reflecting on childhood",
+          "sentence": "The old cinema hall takes me down memory lane.",
+          "highlight": "memory lane",
+          "tip": "Useful in nostalgic writing about people, places or earlier periods."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase appears in early 1900s writing and became associated with nostalgic journeys into the past. Its exact first figurative use is difficult to establish.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1900s",
+            "text": "Writing and book titles begin using ‘Memory Lane’ for reflections on the past."
+          },
+          {
+            "when": "Early-to-mid 1900s",
+            "text": "The phrase becomes established in popular and nostalgic expression."
+          },
+          {
+            "when": "Today",
+            "text": "It means revisiting or reminiscing about earlier times."
+          }
+        ]
+      },
+      "similar": [
+        "walk down memory lane",
+        "take a trip down memory lane",
+        "nostalgia"
+      ],
+      "pitfall": "It is usually part of the phrase ‘down memory lane’ or ‘a trip down memory lane’, rather than used alone to mean a memory."
+    },
+    {
+      "id": "mess-up",
+      "kind": "idiom",
+      "term": "mess up",
+      "pos": "idiom",
+      "hint": "make a mistake or spoil something",
+      "register": "Everyday",
+      "meaning": "To make a mistake or handle something badly, leaving it confused, damaged or incomplete.",
+      "nuance": "It is informal and often criticises an action, decision or result. It can also describe the person who made the mistake, but it is more common to focus on what went wrong.",
+      "literal": "Turn something into a mess.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project handoff · correcting a report",
+          "sentence": "I messed up the figures in the quarterly report and sent a corrected version this morning.",
+          "highlight": "messed up",
+          "tip": "Use this for a specific mistake, especially when fixing it yourself."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner plans · forgetting the time",
+          "sentence": "I completely messed up our dinner plans by forgetting what day we agreed to meet.",
+          "highlight": "messed up",
+          "tip": "A friendly way to admit a small social blunder."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · explaining an error",
+          "sentence": "We messed up the booking process, so I’ve included the correct instructions below.",
+          "highlight": "messed up",
+          "tip": "Informal; use ‘made an error’ in formal business writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably developed from the word ‘mess’, meaning disorder or confusion. It became common in everyday speech during the 1800s and later broadened from physical disorder to mistakes and mishandling.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "‘Mess’ is used for a state of disorder, confusion or poor condition."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression ‘mess up’ begins appearing in written and spoken English."
+          },
+          {
+            "when": "Today",
+            "text": "Means to make a mistake, mishandle something or spoil a result."
+          }
+        ]
+      },
+      "similar": [
+        "botch",
+        "screw up",
+        "make a mess of",
+        "mishandle"
+      ],
+      "opposite": "sort out",
+      "pitfall": "It can sound harsh, so in formal writing consider ‘make an error’ or ‘handle badly’ instead."
+    },
+    {
+      "id": "middle-of-nowhere",
+      "kind": "idiom",
+      "term": "middle of nowhere",
+      "pos": "idiom",
+      "hint": "far from everything",
+      "register": "Everyday",
+      "meaning": "A place that is very far from towns, cities, or other populated areas.",
+      "nuance": "It often suggests that a place feels remote, isolated, or inconvenient to reach. It can be humorous when describing somewhere unexpectedly empty or rural.",
+      "literal": "The central point of an empty, undefined area.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Rural office · sudden site visit",
+          "sentence": "The new data centre is in the middle of nowhere, and getting there takes nearly three hours.",
+          "highlight": "middle of nowhere",
+          "tip": "Common when a workplace, event, or facility is difficult to reach."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans · quiet café",
+          "sentence": "We drove to this café in the middle of nowhere, but it serves the best coffee I’ve had all year.",
+          "highlight": "middle of nowhere",
+          "tip": "Often adds a relaxed, funny, or slightly bemused tone."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel article · hidden destination",
+          "sentence": "This tiny village in the middle of nowhere is famous for its annual music festival.",
+          "highlight": "middle of nowhere",
+          "tip": "Useful in descriptions of remote places, though ‘nowhere in particular’ can sound less negative."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is old, but its exact first use is difficult to trace. Early examples place something “in the middle of nowhere” to mean a central or unspecified location, before it became associated with remote places.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Early written uses refer to a central or undefined place, sometimes without suggesting remoteness."
+          },
+          {
+            "when": "1900s",
+            "text": "The phrase becomes established in descriptions of isolated, sparsely populated places."
+          },
+          {
+            "when": "Today",
+            "text": "It means a place far from towns, cities, and other populated areas."
+          }
+        ]
+      },
+      "similar": [
+        "the back of beyond",
+        "a world away",
+        "nowhere in particular"
+      ],
+      "opposite": "in the thick of it",
+      "pitfall": "It describes a remote location, not a feeling of being lost or confused."
+    },
+    {
+      "id": "mixed-bag",
+      "kind": "idiom",
+      "term": "mixed bag",
+      "pos": "idiom",
+      "hint": "a collection of different things",
+      "register": "Everyday",
+      "meaning": "A collection of varied things, often including both good and bad results.",
+      "nuance": "It suggests a mixture of positives, negatives, or unrelated elements rather than one clear outcome. It fits when you want to sound honest without giving every detail.",
+      "literal": "A bag containing an assortment of different items.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · reviewing a project",
+          "sentence": "The customer feedback was a mixed bag: some praised the design, while others complained about the setup.",
+          "highlight": "mixed bag",
+          "tip": "Useful when balancing positive and negative feedback."
+        },
+        {
+          "setting": "social",
+          "where": "Discussing a busy weekend",
+          "sentence": "It was a mixed bag of plans: a museum trip, a long lunch, and an afternoon helping a friend move.",
+          "highlight": "mixed bag",
+          "tip": "Often introduces a varied sequence of events or experiences."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · summarising results",
+          "sentence": "The first month has been a mixed bag, with strong interest in the trial but several technical problems.",
+          "highlight": "mixed bag",
+          "tip": "Common in reports and reviews when the results are uneven."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the ordinary picture of a bag holding assorted items. It became a way to describe a collection made up of different kinds of things.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The phrase 'mixed bag' is used for a collection or assortment of things."
+          },
+          {
+            "when": "1900s",
+            "text": "The wording becomes common in business, politics, and everyday conversation."
+          },
+          {
+            "when": "Today",
+            "text": "It describes results, experiences, or groups that contain both positives and negatives."
+          }
+        ]
+      },
+      "similar": [
+        "a mixed blessing",
+        "a mixed picture",
+        "a mixed bunch"
+      ],
+      "opposite": "an unqualified success",
+      "pitfall": "It usually means a varied collection, not a bag containing objects literally mixed together."
+    },
+    {
+      "id": "on-the-go",
+      "kind": "idiom",
+      "term": "on the go",
+      "pos": "phrase",
+      "hint": "always moving or busy",
+      "register": "Everyday",
+      "meaning": "Busy, active, and moving from one place or task to another.",
+      "nuance": "It suggests a hectic period with little time to slow down. It can also mean constantly travelling or being out.",
+      "literal": "While in the act of going or moving about.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "A busy project week",
+          "sentence": "I’ve been on the go since eight, moving between client meetings and office tasks.",
+          "highlight": "on the go",
+          "tip": "Often describes a packed schedule or a person who is constantly occupied."
+        },
+        {
+          "setting": "social",
+          "where": "Plans with friends",
+          "sentence": "We’re on the go all evening, so we’ll only stop for a quick drink.",
+          "highlight": "on the go",
+          "tip": "Natural when explaining why you are unavailable or always travelling."
+        },
+        {
+          "setting": "writing",
+          "where": "A holiday update",
+          "sentence": "We were on the go for two weeks, visiting three cities and never staying in one place.",
+          "highlight": "on the go",
+          "tip": "Useful for describing a busy trip or period of frequent activity."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely grew from the idea of someone who is literally in motion, while ‘on’ suggests activity that is already happening. It was being used in the early 1800s before becoming common for busy or mobile lifestyles.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1800s",
+            "text": "The phrase appears in writing describing people or things that are actively moving about."
+          },
+          {
+            "when": "Later 1800s",
+            "text": "It begins to convey not only physical movement but also being constantly occupied."
+          },
+          {
+            "when": "Today",
+            "text": "It describes busy schedules, frequent travel, and an active lifestyle."
+          }
+        ]
+      },
+      "similar": [
+        "on the move",
+        "in full swing",
+        "here, there and everywhere"
+      ],
+      "opposite": "at ease",
+      "pitfall": "It does not necessarily mean you dislike being busy; it mainly describes constant activity or movement."
+    },
+    {
+      "id": "on-the-radar",
+      "kind": "idiom",
+      "term": "on the radar",
+      "pos": "idiom",
+      "hint": "noticed or being considered",
+      "register": "Common at work",
+      "meaning": "To be noticed, remembered, or considered as a possibility.",
+      "nuance": "It can describe something actively being watched, or simply something you have noticed. It often suggests that an issue or opportunity has entered people’s awareness, without promising immediate action.",
+      "literal": "Showing up on a radar screen.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · raising a concern",
+          "sentence": "The issue is on the radar, but we still need more data before changing the process.",
+          "highlight": "on the radar",
+          "tip": "Often suggests awareness without a firm decision."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · making plans",
+          "sentence": "I’ve got that new café on the radar, so we should try it next weekend.",
+          "highlight": "on the radar",
+          "tip": "Common when sharing something you have noticed or might try."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · tracking risks",
+          "sentence": "Customer delays are on the radar this quarter, so the team is reviewing its schedule.",
+          "highlight": "on the radar",
+          "tip": "Useful in reports for something receiving attention or monitoring."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the military and aviation use of radar to detect objects. Writers later extended the image to mean anything noticed or under consideration.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1910s–1930s",
+            "text": "Radar technology becomes widely developed for detecting aircraft and ships."
+          },
+          {
+            "when": "1940s",
+            "text": "The metaphor begins appearing in writing about people, issues, and opportunities being noticed."
+          },
+          {
+            "when": "Today",
+            "text": "Means something has drawn attention or entered a person’s or group’s awareness."
+          }
+        ]
+      },
+      "similar": [
+        "on the map",
+        "under discussion",
+        "in the pipeline",
+        "on my radar"
+      ],
+      "opposite": "off the radar",
+      "pitfall": "Don’t use it to mean something is definitely happening; it may only be noticed or being considered."
+    },
+    {
+      "id": "out-of-nowhere",
+      "kind": "idiom",
+      "term": "out of nowhere",
+      "pos": "idiom",
+      "hint": "suddenly, with no warning",
+      "register": "Everyday",
+      "meaning": "To happen or appear suddenly without any warning or obvious cause.",
+      "nuance": "It emphasizes the suddenness and lack of explanation. It can describe news, an idea, a person or something simply appearing.",
+      "literal": "From a place that was not there.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · new proposal",
+          "sentence": "Out of nowhere, Jordan proposed replacing the entire reporting process.",
+          "highlight": "Out of nowhere",
+          "tip": "Often used when a sudden announcement or surprising idea interrupts normal discussion."
+        },
+        {
+          "setting": "social",
+          "where": "At a party · unexpected guest",
+          "sentence": "My old school friend turned up out of nowhere and stayed for dinner.",
+          "highlight": "out of nowhere",
+          "tip": "Natural for something unexpected that arrives without explanation."
+        },
+        {
+          "setting": "writing",
+          "where": "Local news · unexplained change",
+          "sentence": "The shop closed out of nowhere, leaving customers confused.",
+          "highlight": "out of nowhere",
+          "tip": "Useful in reports when an event happened suddenly and no clear reason is known."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase appears to have developed from a literal image of coming from an unseen place. Its exact origin is uncertain, though comparable wording is recorded in the late 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Writers began using expressions such as ‘out of the nowhere’ to suggest sudden arrival."
+          },
+          {
+            "when": "1900s",
+            "text": "The modern wording ‘out of nowhere’ became established in everyday English."
+          },
+          {
+            "when": "Today",
+            "text": "It means something happens suddenly, often without warning or explanation."
+          }
+        ]
+      },
+      "similar": [
+        "out of the blue",
+        "from nowhere",
+        "without warning"
+      ],
+      "opposite": "in advance",
+      "pitfall": "Use it for a sudden event, not for something gradually becoming noticeable."
+    },
+    {
+      "id": "pass-away",
+      "kind": "idiom",
+      "term": "pass away",
+      "pos": "idiom",
+      "hint": "a gentler way to say someone dies",
+      "register": "Formal",
+      "meaning": "To die, said in a more indirect or respectful way.",
+      "nuance": "It softens the news and is common in obituaries, eulogies, and formal announcements. In less careful conversation, it may sound distant when talking about someone close.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team announcement · a colleague’s death",
+          "sentence": "Our former finance director passed away on Sunday, and the company has sent its condolences to his family.",
+          "highlight": "passed away",
+          "tip": "Neutral and suitable for an official workplace announcement."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · sharing news",
+          "sentence": "My grandmother passed away last month, but she had a peaceful final few weeks with us.",
+          "highlight": "passed away",
+          "tip": "Often used when telling people personally or discussing a bereavement."
+        },
+        {
+          "setting": "writing",
+          "where": "Obituary · local news report",
+          "sentence": "The community has lost a much-loved teacher who passed away aged 87.",
+          "highlight": "passed away",
+          "tip": "Standard in obituaries, memorial notices, and reports of someone’s death."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the older sense of ‘pass’ meaning to leave or depart, with ‘away’ reinforcing the idea of going. Its use as a euphemism for death became established in English.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "‘Pass’ and ‘away’ were used separately to describe departure or movement elsewhere."
+          },
+          {
+            "when": "Later",
+            "text": "‘Pass away’ became established as an indirect way of saying that someone has died."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common euphemism, especially in formal and written contexts."
+          }
+        ]
+      },
+      "similar": [
+        "die",
+        "pass on",
+        "depart this life"
+      ],
+      "pitfall": "Use it for a person’s death; ‘pass away’ does not mean simply to leave or move elsewhere."
+    },
+    {
+      "id": "pay-attention",
+      "kind": "idiom",
+      "term": "pay attention",
+      "pos": "phrase",
+      "hint": "focus your mind",
+      "register": "Everyday",
+      "meaning": "To listen, watch, or think carefully so that you understand or notice what is happening.",
+      "nuance": "This is a neutral, common way to tell someone to focus. It can also suggest that they have missed something important.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team briefing · key instructions",
+          "sentence": "Pay attention to the deadline changes, because the client moved the launch to Friday.",
+          "highlight": "Pay attention",
+          "tip": "Direct and slightly firm; use when important details need focus."
+        },
+        {
+          "setting": "social",
+          "where": "Cafe conversation · crossing paths",
+          "sentence": "Pay attention when you cross the road; the pavement is wet and slippery.",
+          "highlight": "Pay attention",
+          "tip": "Often used as a quick warning without sounding dramatic."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · explaining a safety rule",
+          "sentence": "Please pay attention to the warning signs described in the user guide.",
+          "highlight": "pay attention",
+          "tip": "Useful in instructions, notices, and reminders."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines the older sense of paying a cost with the established idea of giving someone your attention. Its modern use developed gradually rather than from one clear story.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The word ‘pay’ already meant to give or return something, including money, effort, or regard."
+          },
+          {
+            "when": "1700s–1800s",
+            "text": "Writers increasingly used forms of ‘pay attention’ for directing focused regard or thought."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase means to concentrate carefully on people, information, or an activity."
+          }
+        ]
+      },
+      "similar": [
+        "listen carefully",
+        "take note",
+        "pay heed"
+      ],
+      "opposite": "pay no attention",
+      "pitfall": "‘Pay attention to’ is usually followed by something specific; avoid saying ‘pay attention of the deadline.’"
+    },
+    {
+      "id": "pop-in",
+      "kind": "idiom",
+      "term": "pop in",
+      "pos": "idiom",
+      "hint": "make a quick, informal visit",
+      "register": "Casual",
+      "meaning": "To visit someone briefly and informally, usually without arranging it in advance.",
+      "nuance": "Friendly, spontaneous, and relaxed. It suggests a short visit rather than staying for a long time.",
+      "literal": "A quick entrance with little warning or ceremony.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office · asking for a quick update",
+          "sentence": "Pop in after lunch and I’ll show you the figures.",
+          "highlight": "Pop in",
+          "tip": "Often used to invite someone for a brief, informal visit."
+        },
+        {
+          "setting": "social",
+          "where": "At a friend’s home",
+          "sentence": "We were having coffee when Sue and Mark popped in.",
+          "highlight": "popped in",
+          "tip": "The past tense is ‘popped in,’ not ‘popped in to’."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · arranging a short visit",
+          "sentence": "Feel free to pop in any time before Friday afternoon.",
+          "highlight": "pop in",
+          "tip": "Works in friendly messages when you want to sound welcoming but informal."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the older word ‘pop,’ meaning a quick or sudden movement. By the early 1800s, ‘pop in’ was recorded for making a brief, informal visit.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Early 1800s",
+            "text": "‘Pop in’ is first recorded as meaning a short, informal visit."
+          },
+          {
+            "when": "1900s",
+            "text": "The phrase becomes common in everyday speech for visiting or appearing briefly."
+          },
+          {
+            "when": "Today",
+            "text": "It usually suggests a friendly, spontaneous visit with no firm arrangement."
+          }
+        ]
+      },
+      "similar": [
+        "drop by",
+        "stop by",
+        "call in",
+        "pop up"
+      ],
+      "opposite": "stay",
+      "pitfall": "If the visit is formally arranged, use ‘visit’ or ‘call by’ rather than ‘pop in’."
+    },
+    {
+      "id": "pop-up",
+      "kind": "idiom",
+      "term": "pop up",
+      "pos": "idiom",
+      "hint": "appear suddenly or briefly",
+      "register": "Everyday",
+      "meaning": "To appear suddenly, especially for a short time or as an unexpected problem.",
+      "nuance": "It can describe a quick appearance or something that repeatedly interrupts you. It is also used for messages and windows that appear on a screen.",
+      "literal": "Something moves upward with a sudden pop.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project meeting · a technical issue",
+          "sentence": "A data privacy issue popped up just before the launch, so we delayed it.",
+          "highlight": "popped up",
+          "tip": "Used for problems or tasks that appear unexpectedly."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up · an old friend",
+          "sentence": "Daniel popped up in town for a few days and suggested dinner.",
+          "highlight": "popped up",
+          "tip": "Common for a brief, unplanned visit or appearance."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · scheduling a call",
+          "sentence": "Let me know what time works, or I can pop up on a video call tomorrow.",
+          "highlight": "pop up",
+          "tip": "Often describes joining briefly, especially online."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely developed from the idea of something rising or appearing suddenly. Its early written uses include both physical appearances and computer windows.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1900s",
+            "text": "Similar wording appears in descriptions of people or objects appearing suddenly."
+          },
+          {
+            "when": "Late 1900s",
+            "text": "Computer software adopts ‘pop-up’ for windows and messages that appear on screen."
+          },
+          {
+            "when": "Today",
+            "text": "Means appearing unexpectedly, briefly, or as an interruption."
+          }
+        ]
+      },
+      "similar": [
+        "show up",
+        "come up",
+        "appear out of nowhere"
+      ],
+      "opposite": "disappear",
+      "pitfall": "When referring to computer windows, the noun is usually written as two words: ‘pop-up’. The verb can be ‘pop up’."
+    },
+    {
+      "id": "put-ones-head-in-the-sand",
+      "kind": "idiom",
+      "term": "put one's head in the sand",
+      "pos": "idiom",
+      "hint": "deliberately avoid seeing a problem",
+      "register": "Everyday",
+      "meaning": "To deliberately ignore a problem, danger or unpleasant reality instead of dealing with it.",
+      "nuance": "It suggests conscious avoidance and is often critical of the person or organisation doing it.",
+      "literal": "An ostrich supposedly hides its head in the sand when danger approaches.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · missed deadline",
+          "sentence": "By ignoring the warning signs, the team put its head in the sand instead of delaying the launch.",
+          "highlight": "put its head in the sand",
+          "tip": "Often implies that someone knows about a risk but chooses to ignore it."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · credit card debt",
+          "sentence": "He put his head in the sand for months, hoping the balance would somehow disappear.",
+          "highlight": "put his head in the sand",
+          "tip": "Use it when describing deliberate avoidance of an unwelcome fact."
+        },
+        {
+          "setting": "writing",
+          "where": "Business analysis · market decline",
+          "sentence": "Putting one's head in the sand will not protect the company from the effects of the downturn.",
+          "highlight": "Putting one's head in the sand",
+          "tip": "A blunt option for editorial or professional commentary."
+        }
+      ],
+      "origin": {
+        "summary": "The popular story says ostriches bury their heads in sand when frightened. This is false: ostriches may lower their heads near the ground, but they do not hide them in the sand. The phrase comes from the image of deliberately hiding from danger or difficulty.",
+        "confidence": "myth",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "An old claim circulated that frightened ostriches bury their heads in the sand."
+          },
+          {
+            "when": "19th century",
+            "text": "English writers used expressions about burying or hiding one's head to describe refusing to face a problem."
+          },
+          {
+            "when": "Today",
+            "text": "Means deliberately ignoring a problem, risk or reality."
+          }
+        ]
+      },
+      "similar": [
+        "bury one's head in the sand",
+        "sweep something under the carpet",
+        "turn a blind eye"
+      ],
+      "opposite": "face the music",
+      "pitfall": "Don't use it for someone who simply failed to notice something; it implies deliberate avoidance."
+    },
+    {
+      "id": "round-up",
+      "kind": "idiom",
+      "term": "round up",
+      "pos": "idiom",
+      "hint": "bring scattered people or things together",
+      "register": "Common at work and in everyday conversation",
+      "meaning": "To gather people or things together, often to make a complete group or collection.",
+      "nuance": "The phrase suggests collecting people or items from different places. It can also mean briefly bringing people together to discuss something.",
+      "literal": "Driving scattered cattle into one group.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning · coordinating a meeting",
+          "sentence": "We’ll round up the project leads before Friday’s risk review.",
+          "highlight": "round up",
+          "tip": "Common when gathering several people for a specific purpose."
+        },
+        {
+          "setting": "social",
+          "where": "Arranging dinner with friends",
+          "sentence": "Let’s round up everyone who still wants to join dinner.",
+          "highlight": "round up",
+          "tip": "Sounds informal and often implies deciding on a group quickly."
+        },
+        {
+          "setting": "writing",
+          "where": "Newsletter · collecting useful links",
+          "sentence": "The editor uses Friday’s section to round up the week’s best links.",
+          "highlight": "round up",
+          "tip": "Often used for a section that gathers items of interest."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from ranching, where a roundup brought scattered cattle into one group. Its figurative use for collecting people or things was established by the nineteenth century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Ranchers used roundups to gather cattle from scattered areas into one place."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression was also used for collecting people, especially for a meeting or organized purpose."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly means gathering a group or assembling a collection."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "roundup",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "gather together",
+        "assemble",
+        "collect"
+      ],
+      "pitfall": "Do not confuse it with rounding a number upward, as in ‘round up to the nearest ten.’"
+    },
+    {
+      "id": "rule-of-thumb",
+      "kind": "idiom",
+      "term": "rule of thumb",
+      "pos": "phrase",
+      "hint": "a useful general guide",
+      "register": "Common at work",
+      "meaning": "A broad practical principle used to make a quick decision or estimate.",
+      "nuance": "It sounds informal and is best for guidance rather than a strict law. It often signals that the advice is reasonable but not exact.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · estimating a task",
+          "sentence": "As a rule of thumb, allow two days for every major feature we add.",
+          "highlight": "rule of thumb",
+          "tip": "Useful when giving a quick estimate without detailed research."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing a restaurant · discussing plans",
+          "sentence": "As a rule of thumb, we should leave home an hour before the flight.",
+          "highlight": "rule of thumb",
+          "tip": "Often introduced by ‘as a’ in casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Project proposal · planning section",
+          "sentence": "As a rule of thumb, we review the budget whenever the project changes significantly.",
+          "highlight": "rule of thumb",
+          "tip": "Makes a general operating principle sound cautious and practical."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably combines the idea of using a thumb as a rough measure with older meanings of ‘thumb’ suggesting something broad rather than exact. A popular claim that it referred to a particular medieval punishment is not well supported.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "A thumb is used as an informal measure, while ‘thumb’ can describe a broad or approximate approach."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression ‘rule of thumb’ is recorded for a practical general principle."
+          },
+          {
+            "when": "Today",
+            "text": "It means a quick, practical guide rather than an exact rule."
+          }
+        ]
+      },
+      "similar": [
+        "general rule of thumb",
+        "rough guide",
+        "general principle"
+      ],
+      "opposite": "hard-and-fast rule",
+      "pitfall": "It describes an approximate guideline, not a precise calculation or an unbreakable rule."
+    },
+    {
+      "id": "run-riot",
+      "kind": "idiom",
+      "term": "run riot",
+      "pos": "idiom",
+      "hint": "suddenly behave without control",
+      "register": "Everyday",
+      "meaning": "To behave in an uncontrolled, wild or excessive way.",
+      "nuance": "It suggests a situation that has become chaotic or has grown far beyond what was expected. It can describe people, emotions, problems or costs.",
+      "literal": "People running about wildly and ignoring ordinary limits.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning ·失控 features",
+          "sentence": "Without clear priorities, small requests can run riot across the whole team.",
+          "highlight": "run riot",
+          "tip": "Often describes problems, demands or changes getting out of control."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · children indoors",
+          "sentence": "The children ran riot as soon as the adults left the room.",
+          "highlight": "ran riot",
+          "tip": "Natural for playful or badly behaved groups."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · rising expenses",
+          "sentence": "The company’s travel expenses ran riot after staff began booking flights at short notice.",
+          "highlight": "ran riot",
+          "tip": "A vivid alternative to saying costs rose uncontrollably."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is linked to the idea of people acting in a wild, violent or lawless way. Its exact starting point is difficult to establish, but it was in use by the late 1500s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "The phrase appeared in writing describing wild, uncontrolled or disorderly behaviour."
+          },
+          {
+            "when": "Today",
+            "text": "It describes people, situations or anything that becomes excessive or chaotic."
+          }
+        ]
+      },
+      "similar": [
+        "go wild",
+        "get out of hand",
+        "run wild"
+      ],
+      "opposite": "stay under control",
+      "pitfall": "Usually implies that control has been lost, not simply that something is energetic or fun."
+    },
+    {
+      "id": "scrape-the-bottom-of-the-barrel",
+      "kind": "idiom",
+      "term": "scrape the bottom of the barrel",
+      "pos": "idiom",
+      "hint": "use the last poor options",
+      "register": "Everyday",
+      "meaning": "To use the weakest or least appealing resources available because better options are gone or too expensive.",
+      "nuance": "It suggests settling for something less satisfactory because you have run out of good choices. The phrase can sound critical, disappointed, or practical.",
+      "literal": "Scraping whatever remains at the bottom of a nearly empty barrel.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning · choosing presenters",
+          "sentence": "We had to scrape the bottom of the barrel to find someone available for the training session.",
+          "highlight": "scrape the bottom of the barrel",
+          "tip": "Use it when a team is forced to choose from a weak group of options."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing · last restaurant",
+          "sentence": "By nine o’clock, we scraped the bottom of the barrel and ended up at a takeaway place with a broken sign.",
+          "highlight": "scraped the bottom of the barrel",
+          "tip": "The phrase can describe a disappointing but workable choice."
+        },
+        {
+          "setting": "writing",
+          "where": "Commentary · declining service",
+          "sentence": "The company has clearly scraped the bottom of the barrel when it comes to customer support.",
+          "highlight": "scraped the bottom of the barrel",
+          "tip": "It is often used in reviews, reports, and criticism."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is uncertain, but the image probably comes from the idea of getting the last leftovers from the bottom of a container. The expression became established in the early twentieth century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1900s",
+            "text": "The phrase appears in English writing and speech as a way to describe using the last remaining resources."
+          },
+          {
+            "when": "Mid-1900s",
+            "text": "It becomes common for describing poor choices left after the better options have been used."
+          },
+          {
+            "when": "Today",
+            "text": "It means resorting to weak, disappointing, or leftover alternatives."
+          }
+        ]
+      },
+      "similar": [
+        "draw the short straw",
+        "settle for second best",
+        "take what you can get"
+      ],
+      "opposite": "choose from the best of the best",
+      "pitfall": "It usually means the available choices are disappointing, not that the person is physically scraping a barrel."
+    },
+    {
+      "id": "scratch-the-surface",
+      "kind": "idiom",
+      "term": "scratch the surface",
+      "pos": "idiom",
+      "hint": "explore only a little",
+      "register": "Common at work",
+      "meaning": "To begin examining a subject or issue without exploring its full complexity.",
+      "nuance": "It suggests that a discussion or investigation has only touched on the main points. It can gently imply that more detail or analysis is needed.",
+      "literal": "Scratching only the top layer of a surface rather than going deeper.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · customer feedback",
+          "sentence": "The survey only scratches the surface, so we need to interview customers before deciding.",
+          "highlight": "scratches the surface",
+          "tip": "Useful for saying that research has not gone deep enough."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · a new interest",
+          "sentence": "I’ve read one book about astronomy, but I’ve barely scratched the surface.",
+          "highlight": "scratched the surface",
+          "tip": "Often follows ‘barely’ when someone has only started exploring something."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · analysing a policy",
+          "sentence": "This article scratches the surface of the debate without addressing how the policy affects renters.",
+          "highlight": "scratches the surface",
+          "tip": "A direct way to criticise an analysis as incomplete."
+        }
+      ],
+      "origin": {
+        "summary": "The figurative use is documented from the early 1800s and develops from the literal image of scratching only the outer layer of something.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Early recorded uses refer to touching on a subject without examining it fully."
+          },
+          {
+            "when": "Today",
+            "text": "Means to begin an investigation or discussion without going beyond the basics."
+          }
+        ]
+      },
+      "similar": [
+        "dip your toes in",
+        "only get started",
+        "touch on the surface"
+      ],
+      "opposite": "explore in depth",
+      "pitfall": "With ‘barely’, use the past tense: ‘barely scratched the surface’; in other sentences, use ‘scratches’ for the present."
+    },
+    {
+      "id": "second-nature",
+      "kind": "idiom",
+      "term": "second nature",
+      "pos": "idiom",
+      "hint": "so easy and automatic that it feels innate",
+      "register": "Common at work",
+      "meaning": "A skill, habit, or way of doing something that has become automatic through practice.",
+      "nuance": "It suggests that something once had to be learned but now feels natural and requires little thought. It is often used to describe skills, routines, and habits.",
+      "literal": "A second set of instincts formed after the first, through experience.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · explaining a familiar process",
+          "sentence": "After a year with the team, filling out the weekly reports is second nature.",
+          "highlight": "second nature",
+          "tip": "Common when describing work that has become automatic through repetition."
+        },
+        {
+          "setting": "social",
+          "where": "Cooking for friends",
+          "sentence": "My sister makes pasta from scratch; for her, it is completely second nature.",
+          "highlight": "second nature",
+          "tip": "Use it for something someone does so easily that they barely think about it."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review",
+          "sentence": "By the end of the project, checking the figures before sending them became second nature.",
+          "highlight": "second nature",
+          "tip": "A natural choice in reviews, reports, and descriptions of professional habits."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is well documented in English from the 1700s. Its exact ancient source is uncertain, but it expresses the idea that repeated practice can make a skill feel as natural as instinct.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1700s",
+            "text": "English writers began using ‘second nature’ for habits and abilities made automatic through experience."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression became established in general English usage."
+          },
+          {
+            "when": "Today",
+            "text": "It describes skills, routines, and habits that feel effortless because of practice."
+          }
+        ]
+      },
+      "similar": [
+        "second wind",
+        "like second nature",
+        "common practice"
+      ],
+      "pitfall": "Do not use it for something someone is naturally good at from the start; it specifically suggests that ease comes through repetition."
+    },
+    {
+      "id": "see-stars",
+      "kind": "idiom",
+      "term": "see stars",
+      "pos": "idiom",
+      "hint": "after a painful knock",
+      "register": "Everyday",
+      "meaning": "To see flashes or spots of light because of a painful blow, dizziness, or shock.",
+      "nuance": "It suggests sudden physical discomfort, especially after being hit or struck. It can also be used lightly when someone feels overwhelmed or exhausted.",
+      "literal": "Seeing bright points of light, as if stars were appearing before your eyes.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Warehouse · moving heavy equipment",
+          "sentence": "I bumped my head on the shelf and started seeing stars.",
+          "highlight": "seeing stars",
+          "tip": "Often used when a blow causes brief dizziness or blurred vision."
+        },
+        {
+          "setting": "social",
+          "where": "Boxing match · tough exchange",
+          "sentence": "After that punch, he was seeing stars for several seconds.",
+          "highlight": "seeing stars",
+          "tip": "The continuous form describes the effect that continues after the hit."
+        },
+        {
+          "setting": "writing",
+          "where": "Sports report · heavy knockout",
+          "sentence": "The fighter was seeing stars after the final blow but remained on his feet.",
+          "highlight": "seeing stars",
+          "tip": "Common in reporting boxing, collisions, and other head impacts."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely comes from the visual effect of bright spots appearing after a hard blow to the head. Its exact first use is unclear, but the expression was appearing in writing by the late 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People described seeing flashes, spots, and stars after head injuries or sudden shocks."
+          },
+          {
+            "when": "Late 1800s",
+            "text": "The expression appears in writing referring to the effects of powerful blows."
+          },
+          {
+            "when": "Today",
+            "text": "It means experiencing the dizzy or painful effects of a blow, though it is sometimes used humorously."
+          }
+        ]
+      },
+      "similar": [
+        "see double",
+        "black out",
+        "knocked into next week"
+      ],
+      "pitfall": "It does not mean being dazzled by something beautiful; that idea is closer to “stars in your eyes.”"
+    },
+    {
+      "id": "set-foot",
+      "kind": "idiom",
+      "term": "set foot",
+      "pos": "idiom",
+      "hint": "enter a place",
+      "register": "Common at work",
+      "meaning": "To enter a place or begin travelling there.",
+      "nuance": "It sounds formal and slightly dramatic, so use it when the place or journey matters. In everyday conversation, “go” or “visit” is usually more natural.",
+      "literal": "Place your foot down in a location.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Site visit · new office",
+          "sentence": "The team will set foot in the new office on Monday.",
+          "highlight": "set foot",
+          "tip": "Often followed by “in” or “on” to name the place."
+        },
+        {
+          "setting": "social",
+          "where": "Travelling · a new city",
+          "sentence": "I’ll set foot in Barcelona for the first time next summer.",
+          "highlight": "set foot",
+          "tip": "Adds a sense of anticipation to arriving somewhere unfamiliar."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel article · city guide",
+          "sentence": "Visitors rarely set foot in the old town before nine in the morning.",
+          "highlight": "set foot",
+          "tip": "Useful in descriptive writing when you want a more polished tone."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines “set” in the sense of placing and “foot” in the sense of taking a step. Its figurative use for entering or arriving developed from that literal image.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Medieval period",
+            "text": "The expression “set foot” appears in early English, closely connected with the act of stepping or entering."
+          },
+          {
+            "when": "1500s–1700s",
+            "text": "Writers use it in contexts involving travel, arrival and visiting a place."
+          },
+          {
+            "when": "Today",
+            "text": "It means to enter a place or begin a journey there."
+          }
+        ]
+      },
+      "similar": [
+        "set foot in",
+        "set foot on",
+        "put foot"
+      ],
+      "opposite": "leave",
+      "pitfall": "It usually takes a place after “in” or “on”: “set foot in the building,” not “set foot the building.”"
+    },
+    {
+      "id": "settle-in",
+      "kind": "idiom",
+      "term": "settle in",
+      "pos": "idiom",
+      "hint": "get comfortable in a new place",
+      "register": "Everyday",
+      "meaning": "To become comfortable and familiar with a new place, role, or routine.",
+      "nuance": "It suggests a gradual adjustment rather than an immediate change. Use it when someone is starting a new job, home, school, or phase of life.",
+      "literal": "Rest comfortably in a new place and begin to feel at home.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "First week · new role",
+          "sentence": "It took me two months to settle in and understand how the team works.",
+          "highlight": "settle in",
+          "tip": "Often follows a period of adjustment after starting something new."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · new home",
+          "sentence": "Give us time to settle in, then we’ll show you around the neighbourhood.",
+          "highlight": "settle in",
+          "tip": "Natural when welcoming guests into a new home."
+        },
+        {
+          "setting": "writing",
+          "where": "Update · first month",
+          "sentence": "The new manager is settling in well and has already built strong relationships with the team.",
+          "highlight": "settling in",
+          "tip": "A form of the phrase can be used when describing someone’s adjustment."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the older sense of settling into a place physically. Its broader use for adapting to a new situation became established during the 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1700s",
+            "text": "The basic idea of ‘settling in’ referred to coming to rest or taking up residence."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase began to be used for adjusting to a new home, position, or way of life."
+          },
+          {
+            "when": "Today",
+            "text": "It describes becoming comfortable and familiar with a new situation."
+          }
+        ]
+      },
+      "similar": [
+        "move in",
+        "get settled",
+        "settle down"
+      ],
+      "opposite": "feel out of place",
+      "pitfall": "‘Settle in’ means to adapt to a new situation; ‘settle down’ often means to become calmer or less active."
+    },
+    {
+      "id": "show-up",
+      "kind": "idiom",
+      "term": "show up",
+      "pos": "phrase",
+      "hint": "make an appearance",
+      "register": "Common at work",
+      "meaning": "To arrive at a place or appear where you are expected to be.",
+      "nuance": "Neutral and everyday. It can also mean attending an event, giving a performance, or making something visible.",
+      "literal": "Cause yourself to appear or come into view.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · joining late",
+          "sentence": "Can you show up ten minutes early so we can review the agenda?",
+          "highlight": "show up",
+          "tip": "Common for arrivals, deadlines and scheduled meetings."
+        },
+        {
+          "setting": "social",
+          "where": "Party · arriving with friends",
+          "sentence": "My sister showed up with pizza, so everyone had dinner.",
+          "highlight": "showed up",
+          "tip": "Works for both arriving somewhere and attending an event."
+        },
+        {
+          "setting": "writing",
+          "where": "Event report · attendance",
+          "sentence": "More than two hundred guests showed up despite the heavy rain.",
+          "highlight": "showed up",
+          "tip": "Natural in reports about attendance or appearances."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase grew from the older verb “show,” meaning to make something or oneself visible, combined with the directional particle “up.” Its modern sense of arriving or appearing developed during the 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Before 1200",
+            "text": "The Old English ancestor of “show” referred to looking at or seeing something."
+          },
+          {
+            "when": "1800s",
+            "text": "“Show up” became established for appearing or arriving."
+          },
+          {
+            "when": "Today",
+            "text": "It means arriving at a place, attending an event or appearing on screen."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "show-up",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "turn up",
+        "show face",
+        "appear"
+      ],
+      "opposite": "skip",
+      "pitfall": "When describing visibility, say “the moon showed up,” not “the moon showed itself up.”"
+    },
+    {
+      "id": "small-print",
+      "kind": "idiom",
+      "term": "small print",
+      "pos": "idiom",
+      "hint": "the details that are easy to miss",
+      "register": "Everyday",
+      "meaning": "The fine details in a contract, agreement, policy, or other document.",
+      "nuance": "It often suggests details that may contain important obligations, restrictions, or costs. People say they forgot to read the small print when they did not notice those details.",
+      "literal": "Words printed in smaller type than the main text.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Reviewing a supplier contract",
+          "sentence": "The price looks fair, but check the small print before the team signs it.",
+          "highlight": "small print",
+          "tip": "Often used when a contract contains a condition someone might overlook."
+        },
+        {
+          "setting": "social",
+          "where": "Reading event tickets",
+          "sentence": "I nearly missed the small print saying that the ticket was non-refundable.",
+          "highlight": "small print",
+          "tip": "Useful when discussing terms that appear only after buying or signing something."
+        },
+        {
+          "setting": "writing",
+          "where": "Explaining a rental agreement",
+          "sentence": "The small print includes extra charges for late returns and cleaning.",
+          "highlight": "small print",
+          "tip": "Common in consumer advice and legal information."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from the physical practice of printing important details in a smaller typeface so they take up less space. Its figurative use became established during the 1800s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "Documents were commonly set with some information in smaller type for practical reasons."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers began using 'small print' figuratively for overlooked details in legal and commercial documents."
+          },
+          {
+            "when": "Today",
+            "text": "Means the fine-print details of an agreement, policy, offer, or legal notice."
+          }
+        ]
+      },
+      "similar": [
+        "fine print",
+        "catch",
+        "terms and conditions"
+      ],
+      "pitfall": "In legal contexts, 'fine print' is also common and often means the same thing."
+    }
+  ]
+}

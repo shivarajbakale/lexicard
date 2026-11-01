@@ -1,0 +1,1476 @@
+{
+  "id": "phrases-everyday-life-3",
+  "kind": "phrase",
+  "name": "Everyday life · 3",
+  "blurb": "25 phrases about everyday life",
+  "cards": [
+    {
+      "id": "in-the-snap-of-ones-fingers",
+      "kind": "phrase",
+      "term": "in the snap of one's fingers",
+      "pos": "idiom",
+      "hint": "almost instantly",
+      "register": "Common in conversation",
+      "meaning": "In a very short time, with almost no delay.",
+      "nuance": "It emphasizes how quickly something can happen or be done. It can sound dramatic or informal, so it is often best in speech rather than formal writing.",
+      "literal": "The quick sound made by flicking the middle finger away from the thumb.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Urgent project request",
+          "sentence": "With the right template, I can finish this report in the snap of my fingers.",
+          "highlight": "in the snap of my fingers",
+          "tip": "Use it playfully when a task truly takes only a moment."
+        },
+        {
+          "setting": "social",
+          "where": "Friends arranging a quick visit",
+          "sentence": "The café is nearby, so we can be there in the snap of our fingers.",
+          "highlight": "in the snap of our fingers",
+          "tip": "It adds a light, humorous sense of speed."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message to a colleague",
+          "sentence": "The updated file is ready, and I can send it over in the snap of my fingers.",
+          "highlight": "in the snap of my fingers",
+          "tip": "Keep this in a chatty message; formal emails usually need “right away” or “immediately.”"
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the quick clicking sound made with one’s fingers. Its figurative use for something happening almost instantly developed during the 19th century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "“Snap the fingers” was used for making a sharp clicking sound with the fingers."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression began to describe actions or events happening very quickly."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a lively, informal way to say “almost instantly.”"
+          }
+        ]
+      },
+      "similar": [
+        "in the blink of an eye",
+        "in a flash",
+        "before you know it"
+      ],
+      "opposite": "at a glacial pace",
+      "pitfall": "The phrase may sound like an exaggeration, so avoid it when discussing serious deadlines or risks."
+    },
+    {
+      "id": "it-goes-without-saying",
+      "kind": "phrase",
+      "term": "it goes without saying",
+      "pos": "idiom",
+      "hint": "so obvious that no explanation is needed",
+      "register": "Common",
+      "meaning": "Used when something is so obvious or expected that it does not need to be stated.",
+      "nuance": "It can express a shared assumption, but it may sound dismissive if the listener has not actually been told what you assume.",
+      "literal": "The point is so clear that speaking it aloud is unnecessary.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team handover · explaining a known process",
+          "sentence": "It goes without saying that customer data should never be shared in a public channel.",
+          "highlight": "It goes without saying",
+          "tip": "Use it for expectations that everyone already understands, not to skip essential instructions."
+        },
+        {
+          "setting": "social",
+          "where": "Plans with friends · choosing a meeting place",
+          "sentence": "It goes without saying that we should arrive on time if we’re going to wait for everyone else.",
+          "highlight": "It goes without saying",
+          "tip": "It works well when the point is obvious and you are not blaming anyone."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a colleague · highlighting an agreed deadline",
+          "sentence": "It goes without saying that the draft needs approval before it goes to the client.",
+          "highlight": "It goes without saying",
+          "tip": "In writing, follow it with the key point so the reader cannot miss it."
+        }
+      ],
+      "origin": {
+        "summary": "Likely grew from the idea that some statements are so clear that saying them adds nothing. The familiar wording became established in English during the early modern period.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "Early forms of “go without saying” begin appearing in English writing."
+          },
+          {
+            "when": "1600s",
+            "text": "The phrase becomes established in the sense of something being obvious or unnecessary to mention."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in speech and writing, especially when referring to an obvious shared expectation."
+          }
+        ]
+      },
+      "similar": [
+        "needless to say",
+        "self-evident",
+        "obviously",
+        "suffices to say"
+      ],
+      "opposite": "it needs saying",
+      "pitfall": "Do not use it when the point is important but has not actually been explained to everyone."
+    },
+    {
+      "id": "large-as-life",
+      "kind": "phrase",
+      "term": "large as life",
+      "pos": "phrase",
+      "hint": "clearly visible, or here in person",
+      "register": "Common at work and in everyday speech",
+      "meaning": "Used to say that something is very clearly visible, or that someone is really present in person.",
+      "nuance": "It can sound amused, emphatic or slightly humorous. It is often used when someone or something appears more noticeable or undeniable than expected.",
+      "literal": "As big and noticeable as a living person.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office visit · spotting the manager",
+          "sentence": "The project manager was standing in the doorway as large as life.",
+          "highlight": "as large as life",
+          "tip": "Use it to add a touch of surprise or humor to an unexpected appearance."
+        },
+        {
+          "setting": "social",
+          "where": "Reunion · seeing an old friend",
+          "sentence": "I opened the door and there he was, as large as life.",
+          "highlight": "as large as life",
+          "tip": "It works well for expressing amused surprise at seeing someone."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal email · describing a visitor",
+          "sentence": "The client was suddenly there as large as life, waiting in reception.",
+          "highlight": "as large as life",
+          "tip": "It gives informal writing a vivid, conversational tone."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely began as a literal comparison of size with life, then developed into a figurative way of describing someone’s striking presence or an unmistakable appearance.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Literal sense: as large as a living person or object."
+          },
+          {
+            "when": "19th century",
+            "text": "The phrase appears in English writing and speech in both literal and figurative contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar humorous expression for an unmistakable person or presence."
+          }
+        ]
+      },
+      "similar": [
+        "in the flesh",
+        "as big as life",
+        "for real",
+        "in person"
+      ],
+      "opposite": "out of sight",
+      "pitfall": "This is usually playful or emphatic, so avoid it in a tense or highly formal situation where its humorous tone could sound inappropriate."
+    },
+    {
+      "id": "last-hired-first-fired",
+      "kind": "phrase",
+      "term": "last hired, first fired",
+      "pos": "phrase",
+      "hint": "newest employees lose jobs first",
+      "register": "Common at work",
+      "meaning": "A workplace rule or expectation that the employee hired most recently will be dismissed first when jobs must be cut.",
+      "nuance": "It can describe a formal seniority-based layoff policy, but it is not a universal rule. Actual layoff decisions depend on employment contracts, company policy, and applicable law.",
+      "literal": "Imagine a line of workers ordered by hiring date; when the line must shorten, the newest worker leaves first.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing redundancies",
+          "sentence": "If the company applies the last hired, first fired policy, our newest colleague may be at the greatest risk.",
+          "highlight": "last hired, first fired",
+          "tip": "Use it when discussing a stated seniority rule, not as a reason to target someone."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation with a coworker",
+          "sentence": "My manager said it was last hired, first fired, which made the reorganization feel less fair.",
+          "highlight": "last hired, first fired",
+          "tip": "It can express frustration with how workplace seniority affects people."
+        },
+        {
+          "setting": "writing",
+          "where": "Email about staffing changes",
+          "sentence": "Please note that the proposed selection process follows a last hired, first fired policy approved by the union.",
+          "highlight": "last hired, first fired",
+          "tip": "Name the relevant policy, contract, or legal process rather than leaving the meaning unclear."
+        }
+      ],
+      "origin": {
+        "summary": "Likely grew from longstanding workplace practices that gave experienced employees greater job security. The wording became a memorable shorthand for selecting redundancies by hiring date.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Employers, unions, and public services began using length of service as a basis for layoffs."
+          },
+          {
+            "when": "20th century",
+            "text": "The phrase became common shorthand for that approach and was also used in debates about immigration and minority employment."
+          },
+          {
+            "when": "Today",
+            "text": "It remains familiar in workplaces, although modern redundancy rules vary and are often tightly regulated."
+          }
+        ]
+      },
+      "similar": [
+        "last in, first out",
+        "seniority-based layoffs",
+        "first come, first served"
+      ],
+      "pitfall": "The phrase does not describe the law of every workplace, and historical uses sometimes reflected discrimination against immigrant or minority workers."
+    },
+    {
+      "id": "last-i-checked",
+      "kind": "phrase",
+      "term": "last I checked",
+      "pos": "phrase",
+      "hint": "according to the latest information I have",
+      "register": "Everyday",
+      "meaning": "Based on the most recent information I have, though things may have changed since then.",
+      "nuance": "Casual and slightly qualified; it signals that your knowledge may not be perfectly up to date.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · checking progress",
+          "sentence": "Last I checked, the design team had finished the first draft, but that was before yesterday’s changes.",
+          "highlight": "Last I checked",
+          "tip": "Use it when offering information without claiming to know the absolute latest."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · correcting an assumption",
+          "sentence": "Last I checked, they were still working on the renovation, but you might want to ask again.",
+          "highlight": "Last I checked",
+          "tip": "It gently qualifies what you know and leaves room for a more recent update."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · noting missing information",
+          "sentence": "Last I checked, no budget approval had been recorded, so I followed up with the finance team.",
+          "highlight": "Last I checked",
+          "tip": "In writing, add a date if the information could easily change."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from the literal idea of checking something recently and then reporting what you found.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression developed from “last” meaning “most recently” and “I checked” meaning “I looked to verify.”"
+          },
+          {
+            "when": "20th century",
+            "text": "The phrase became common in everyday speech as a way to qualify information."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely understood in casual and workplace conversation."
+          }
+        ]
+      },
+      "similar": [
+        "as far as I know",
+        "the last I heard",
+        "if I’m up to date"
+      ],
+      "opposite": "definitely",
+      "pitfall": "It can sound dismissive if you use it when you do have current information; name a date or source instead."
+    },
+    {
+      "id": "many-moons-ago",
+      "kind": "phrase",
+      "term": "many moons ago",
+      "pos": "phrase",
+      "hint": "a long, story-like way to say long ago",
+      "register": "Literary and informal",
+      "meaning": "A long time ago, often used to introduce a memory or begin a story.",
+      "nuance": "It has a nostalgic, storytelling quality and can sound deliberately old-fashioned. It suits personal recollections and creative writing rather than precise factual statements about dates.",
+      "literal": "Many months have passed, as marked by the cycles of the moon.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team celebration · recalling a past milestone",
+          "sentence": "Many moons ago, we started with three people and one very untidy spreadsheet.",
+          "highlight": "Many moons ago",
+          "tip": "Use it for warm storytelling, not when the exact timing matters."
+        },
+        {
+          "setting": "social",
+          "where": "Reconnecting with an old friend",
+          "sentence": "Many moons ago, we used to stay up all night talking about moving abroad.",
+          "highlight": "Many moons ago",
+          "tip": "It softens the passage of time and creates a nostalgic mood."
+        },
+        {
+          "setting": "writing",
+          "where": "Opening a personal essay",
+          "sentence": "Many moons ago, a handwritten note from my grandmother changed the direction of my life.",
+          "highlight": "Many moons ago",
+          "tip": "It works well as a story-like opening, but use a factual date for historical writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely grew from poetic uses of “moons” to mark passing months. Its exact first appearance is uncertain, but it was already established in English before it became popular in modern fantasy and storytelling.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Poets and storytellers used “many moons” to suggest that several months or a long period had passed."
+          },
+          {
+            "when": "19th century",
+            "text": "The combined phrase “many moons ago” was in literary use as a distant-time expression."
+          },
+          {
+            "when": "20th century onward",
+            "text": "Fantasy and popular storytelling made the phrase familiar as a stylized way to open a tale."
+          }
+        ]
+      },
+      "similar": [
+        "long ago",
+        "once upon a time",
+        "in the distant past"
+      ],
+      "opposite": "just now",
+      "pitfall": "“Many moons ago” suggests a vague stretch of time, so don’t use it when a reader needs an exact date or period."
+    },
+    {
+      "id": "matter-of-fact",
+      "kind": "phrase",
+      "term": "matter of fact",
+      "pos": "phrase",
+      "hint": "to introduce a true detail",
+      "register": "Everyday",
+      "meaning": "Used to introduce a true statement that adds information or corrects what someone has just said.",
+      "nuance": "It sounds conversational and usually helpful, especially when introducing an overlooked detail. If used abruptly, it can feel like a correction.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · correcting the schedule",
+          "sentence": "As a matter of fact, the client moved Friday’s meeting, so we need to update the agenda.",
+          "highlight": "matter of fact",
+          "tip": "It softens the introduction of information that changes the plan."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · mentioning a dietary need",
+          "sentence": "As a matter of fact, I’m allergic to peanuts, so I’ll bring my own snacks.",
+          "highlight": "matter of fact",
+          "tip": "Use it when adding a practical detail to the conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · clarifying a missing attachment",
+          "sentence": "As a matter of fact, the report was sent yesterday, and the receipt is attached.",
+          "highlight": "matter of fact",
+          "tip": "It works well when a short phrase needs to introduce a relevant fact."
+        }
+      ],
+      "origin": {
+        "summary": "The wording developed from older discussions of facts as opposed to opinions or legal principles. The conversational use of “as a matter of fact” later became a way to introduce a true and relevant observation.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Matter of fact” referred to something established as a fact rather than a matter of opinion."
+          },
+          {
+            "when": "1700s–1800s",
+            "text": "The expression “as a matter of fact” became established in English conversation."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a natural way to add a relevant fact or make a gentle correction."
+          }
+        ]
+      },
+      "similar": [
+        "in fact",
+        "actually",
+        "as it happens"
+      ],
+      "pitfall": "This expression normally appears in the structure “as a matter of fact.” It introduces a true detail; it does not simply mean “factually.”"
+    },
+    {
+      "id": "nature-calls",
+      "kind": "phrase",
+      "term": "nature calls",
+      "pos": "idiom",
+      "hint": "a polite way to say you need the toilet",
+      "register": "Casual",
+      "meaning": "A polite or humorous way to say that you need to urinate.",
+      "nuance": "It is especially common among people who want to avoid mentioning the toilet directly. It can also jokingly mean that you feel a strong need to spend time outdoors.",
+      "literal": "The natural need of your body is calling for you to answer it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · needing a quick break",
+          "sentence": "Sorry, nature calls—I’ll be back in five minutes.",
+          "highlight": "nature calls",
+          "tip": "It is informal, so use it with colleagues you already know well."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · leaving the table",
+          "sentence": "Excuse me, nature calls, but I’ll join you again in a minute.",
+          "highlight": "nature calls",
+          "tip": "A light apology that keeps the conversation friendly."
+        },
+        {
+          "setting": "writing",
+          "where": "Workplace chat · stepping away",
+          "sentence": "Nature calls, so I’m stepping away from my desk for a few minutes.",
+          "highlight": "Nature calls",
+          "tip": "Keep it brief and playful; it may not suit a formal email."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase treats nature as something that can issue a summons. It developed from older humorous expressions that used “nature” as a polite label for bodily needs.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression “nature calls” was used as a playful way to describe nature making a demand on someone."
+          },
+          {
+            "when": "19th century",
+            "text": "Euphemistic versions of the phrase appeared in humorous writing about bodily needs."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar joke for saying that someone needs to use the toilet."
+          }
+        ]
+      },
+      "similar": [
+        "call of nature",
+        "need to go",
+        "the bathroom is calling"
+      ],
+      "opposite": "nature is quiet",
+      "pitfall": "Use it in relaxed situations; it can sound too casual in a formal meeting or written to someone senior."
+    },
+    {
+      "id": "new-year-new-me",
+      "kind": "phrase",
+      "term": "new year, new me",
+      "pos": "phrase",
+      "hint": "a fresh start and a different version of yourself",
+      "register": "Casual",
+      "meaning": "A playful way of saying that you plan to make changes and become a better version of yourself in the new year.",
+      "nuance": "It is lighthearted and often used in New Year posts, messages and casual conversation. The change may be serious, but the wording usually has an upbeat, self-aware tone.",
+      "literal": "The arrival of a new calendar year is presented as the chance to adopt a new identity.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team chat · announcing a goal",
+          "sentence": "New year, new me—I’ve set aside two hours each week to learn more about design.",
+          "highlight": "New year, new me",
+          "tip": "It works best informally; avoid making it sound like a formal promise to colleagues."
+        },
+        {
+          "setting": "social",
+          "where": "New Year dinner · sharing a resolution",
+          "sentence": "New year, new me: I’m going to cook more meals at home instead of ordering takeaway.",
+          "highlight": "New year, new me",
+          "tip": "Use it as a cheerful opener before explaining your resolution."
+        },
+        {
+          "setting": "writing",
+          "where": "January social post · marking a fresh start",
+          "sentence": "New year, new me: I’m leaving my phone in another room while I study.",
+          "highlight": "New year, new me",
+          "tip": "Follow it with a concrete change so the message feels genuine rather than empty."
+        }
+      ],
+      "origin": {
+        "summary": "The exact first use is difficult to trace, but the phrase developed from older expressions such as “new year, new beginning” and was popularised as a motivational slogan online.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Similar expressions connected the arrival of a new year with a fresh start or renewed effort."
+          },
+          {
+            "when": "2000s",
+            "text": "“New year, new me” becomes common in motivational posts, slogans and online year-in-review content."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar casual phrase for jokingly announcing personal change."
+          }
+        ]
+      },
+      "similar": [
+        "new year, new beginning",
+        "fresh start",
+        "new chapter"
+      ],
+      "opposite": "same old me",
+      "pitfall": "It can sound cliché if you only state the slogan; explain the specific change you want to make."
+    },
+    {
+      "id": "no-entry",
+      "kind": "phrase",
+      "term": "no entry",
+      "pos": "phrase",
+      "hint": "not allowed to enter",
+      "register": "Common at work",
+      "meaning": "A warning that people are not permitted to enter a place or area.",
+      "nuance": "Usually seen on a sign or used in instructions. It can mean entry is completely forbidden or restricted to authorised people.",
+      "literal": "Entering this place is not allowed.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office access · restricted records room",
+          "sentence": "There’s a no entry sign on the records room because only authorised staff may go inside.",
+          "highlight": "no entry",
+          "tip": "Pair it with an explanation of who is allowed if access is limited rather than completely banned."
+        },
+        {
+          "setting": "social",
+          "where": "Private event · directing guests",
+          "sentence": "The side gate has a no entry sign, so please use the main entrance.",
+          "highlight": "no entry",
+          "tip": "A clear sign works better than saying “no entry” alone, especially when guests might approach from different directions."
+        },
+        {
+          "setting": "writing",
+          "where": "Visitor policy · email notice",
+          "sentence": "There is no entry to the laboratory without an appointment and the required safety training.",
+          "highlight": "no entry",
+          "tip": "Use it to introduce the access rule, then explain any exceptions or approval process."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines the ordinary words “no” and “entry” to prohibit access. Its modern use became especially common with signs marking restricted places and traffic routes.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Entry” was used in the ordinary sense of coming into a place or building."
+          },
+          {
+            "when": "19th century",
+            "text": "The phrase appears in written notices and sign language connected with controlling access."
+          },
+          {
+            "when": "Today",
+            "text": "It is standard on workplace, event and road signs around the world."
+          }
+        ]
+      },
+      "similar": [
+        "do not enter",
+        "keep out",
+        "restricted access",
+        "authorised personnel only"
+      ],
+      "opposite": "open to the public",
+      "pitfall": "“No entry” may mean entry is forbidden altogether, while “authorised personnel only” allows specific people in."
+    },
+    {
+      "id": "no-fixed-abode",
+      "kind": "phrase",
+      "term": "no fixed abode",
+      "pos": "phrase",
+      "hint": "without a permanent home",
+      "register": "Formal",
+      "meaning": "Without a permanent place to live.",
+      "nuance": "It sounds formal and sometimes literary, so it fits official or reflective writing more easily than casual conversation.",
+      "literal": "A person with no permanent home or address.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Staff directory · contact details",
+          "sentence": "The contract lists her as having no fixed abode and asks for a forwarding address.",
+          "highlight": "no fixed abode",
+          "tip": "Useful in formal documents when someone does not have a permanent address."
+        },
+        {
+          "setting": "social",
+          "where": "Introducing a frequent traveller",
+          "sentence": "He has no fixed abode, but he stays with friends whenever he visits town.",
+          "highlight": "no fixed abode",
+          "tip": "In conversation, “I don’t have a permanent address” may sound more natural."
+        },
+        {
+          "setting": "writing",
+          "where": "Character description in a story",
+          "sentence": "With no fixed abode, she left each town as soon as the work dried up.",
+          "highlight": "no fixed abode",
+          "tip": "It gives a literary tone and suggests a deliberately unsettled life."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the idea of a person whose legal home was not permanently established. Its modern use is linked mainly to formal and official English.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Abode” referred to a person’s home or place of residence."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression became established in formal writing for people without a settled home."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal alternative to saying that someone has no permanent address."
+          }
+        ]
+      },
+      "similar": [
+        "no permanent address",
+        "without a fixed home",
+        "homeless"
+      ],
+      "opposite": "a permanent home",
+      "pitfall": "“No fixed abode” does not always mean someone is homeless; it may simply mean they have no permanent address."
+    },
+    {
+      "id": "no-free-lunch",
+      "kind": "phrase",
+      "term": "no free lunch",
+      "pos": "phrase",
+      "hint": "every benefit has a cost",
+      "register": "Everyday",
+      "meaning": "A benefit, opportunity or offer always involves some kind of cost, compromise or trade-off.",
+      "nuance": "It is often used when an offer seems unusually generous, but also more generally to show that nothing valuable comes without a downside.",
+      "literal": "In nineteenth-century America, some restaurants served lunch at a fixed price, but customers could receive only one meal from the buffet.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Vendor meeting · reviewing an offer",
+          "sentence": "There’s no free lunch here, so let’s compare the price with what the package actually includes.",
+          "highlight": "no free lunch",
+          "tip": "Use it to prompt a discussion about hidden costs, limits or trade-offs."
+        },
+        {
+          "setting": "social",
+          "where": "Friends planning a group holiday",
+          "sentence": "Renting a large house may seem cheap, but there’s no free lunch once we add cleaning fees and transport.",
+          "highlight": "no free lunch",
+          "tip": "It can sound practical or lightly humorous, depending on the conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Email explaining a new subscription",
+          "sentence": "The first month is free, but there’s no free lunch after that, when the standard charges begin.",
+          "highlight": "no free lunch",
+          "tip": "Pair it with the specific charge or limitation so readers know what you mean."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the American custom of serving all-you-can-eat lunch at a set price, with diners taking only one serving. By the early twentieth century, it had become a familiar way of saying that offers include conditions or costs.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Lunch wagons in the United States popularize the idea of a fixed-price, all-you-can-eat meal."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "The saying “There ain’t no such thing as a free lunch” begins circulating as lunch counters and dining culture expand."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely used to mean that every attractive offer comes with some cost or limitation."
+          }
+        ]
+      },
+      "similar": [
+        "nothing comes for free",
+        "everything has a catch",
+        "you have to pay a price"
+      ],
+      "opposite": "a freebie",
+      "pitfall": "It does not automatically mean an offer is dishonest; use it to identify the actual cost, condition or trade-off."
+    },
+    {
+      "id": "no-glove-no-love",
+      "kind": "phrase",
+      "term": "No glove, no love",
+      "pos": "phrase",
+      "hint": "no effort, no reward",
+      "register": "Casual",
+      "meaning": "You will not receive support, success or affection without making some effort yourself.",
+      "nuance": "Playful and mildly firm; it stresses that goodwill or rewards depend on a fair contribution. It can sound demanding if used toward someone you do not know well.",
+      "literal": "Without a glove, there is no affection, echoing the need for protective equipment in sports.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project handover · requesting a useful contribution",
+          "sentence": "No glove, no love—ask me for the template and I’ll show you how to complete it.",
+          "highlight": "No glove, no love",
+          "tip": "Keep it light when you are asking a colleague to take an action."
+        },
+        {
+          "setting": "social",
+          "where": "Planning an event · dividing tasks",
+          "sentence": "No glove, no love, so bring plates and glasses if you’re coming to the party.",
+          "highlight": "No glove, no love",
+          "tip": "Use it among friends when making a playful request about bringing something."
+        },
+        {
+          "setting": "writing",
+          "where": "Team message · following up on an action",
+          "sentence": "No glove, no love: send me your notes by Friday, and I’ll consolidate everything for the client.",
+          "highlight": "No glove, no love",
+          "tip": "Pair the joke with a clear deadline so the request is easy to understand."
+        }
+      ],
+      "origin": {
+        "summary": "Probably developed from older sports sayings such as “no ball, no game,” with the glove referring to sports equipment and “love” meaning approval, success or affection. It later became a playful slogan outside sport.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Sports sayings connected participation and preparation with the chance of success."
+          },
+          {
+            "when": "20th century",
+            "text": "Versions of “no glove, no love” circulated in sport and popular culture."
+          },
+          {
+            "when": "Today",
+            "text": "Used playfully for requests that require effort, preparation or cooperation."
+          }
+        ]
+      },
+      "similar": [
+        "no effort, no reward",
+        "you have to give something to get something",
+        "no input, no output"
+      ],
+      "opposite": "Something for nothing",
+      "pitfall": "Because it can sound like a condition or threat, avoid it with people you do not know or in sensitive negotiations."
+    },
+    {
+      "id": "no-harm-done",
+      "kind": "phrase",
+      "term": "no harm done",
+      "pos": "phrase",
+      "hint": "nothing was damaged or hurt",
+      "register": "Common at work and everyday",
+      "meaning": "No damage, injury or serious mistake resulted from something that happened.",
+      "nuance": "It reassures someone that an incident had no lasting effect. It can also respond gently to an apology: “No harm done.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague bumps a printer",
+          "sentence": "The printer still works, so no harm done.",
+          "highlight": "no harm done",
+          "tip": "Use it to close a small workplace mishess without making a big fuss."
+        },
+        {
+          "setting": "social",
+          "where": "Friend spills a drink",
+          "sentence": "It was only water, and no harm done.",
+          "highlight": "no harm done",
+          "tip": "It can reassure the other person that they do not need to apologise."
+        },
+        {
+          "setting": "writing",
+          "where": "Email after a minor delay",
+          "sentence": "The report was submitted this morning, so no harm done.",
+          "highlight": "no harm done",
+          "tip": "It works well when the issue was minor and the outcome was not affected."
+        }
+      ],
+      "origin": {
+        "summary": "The wording is old and follows the older pattern “no harm in doing something,” meaning that an action causes no damage or disadvantage.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The phrase develops from older expressions about doing something without causing harm."
+          },
+          {
+            "when": "19th century",
+            "text": "“No harm done” becomes established as a reassuring response to a mishap or apology."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in everyday conversation, workplaces and informal writing."
+          }
+        ]
+      },
+      "similar": [
+        "no damage done",
+        "no lasting harm",
+        "nothing broken"
+      ],
+      "opposite": "serious damage done",
+      "pitfall": "This implies the consequences were harmless; do not use it when someone was hurt or significant damage occurred."
+    },
+    {
+      "id": "no-matter-what",
+      "kind": "phrase",
+      "term": "no matter what",
+      "pos": "phrase",
+      "hint": "regardless of what happens",
+      "register": "Common",
+      "meaning": "Used to emphasize that something will be done or that a situation will be accepted regardless of the circumstances or outcome.",
+      "nuance": "It can express determination when followed by an action, or reassurance when describing an outcome you can accept. It is stronger and more emphatic than simply saying “whatever happens.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch support · covering urgent issues",
+          "sentence": "We’ll keep the backup running, no matter what, so the release doesn’t stop.",
+          "highlight": "no matter what",
+          "tip": "Use it to show commitment, but pair it with a practical plan."
+        },
+        {
+          "setting": "social",
+          "where": "Bad weather · making plans",
+          "sentence": "I’m taking the train, no matter what the weather does.",
+          "highlight": "no matter what",
+          "tip": "It emphasizes that your plan will not change."
+        },
+        {
+          "setting": "writing",
+          "where": "Work email · giving an urgent instruction",
+          "sentence": "Send the draft tonight, no matter what; we can revise it tomorrow.",
+          "highlight": "no matter what",
+          "tip": "It adds urgency, so make the requested action clear."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the older expression “no matter,” meaning that something was not important or would have no effect. Adding “what” created a broader phrase referring to any circumstance or outcome.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“No matter” was used in the sense of something having no importance or effect."
+          },
+          {
+            "when": "Modern English",
+            "text": "The form “no matter what” became a general way to refer to every possible situation."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in everyday speech for emphasis, determination and reassurance."
+          }
+        ]
+      },
+      "similar": [
+        "regardless of what happens",
+        "whatever happens",
+        "come what may"
+      ],
+      "opposite": "depending on the circumstances",
+      "pitfall": "It can sound dramatic or overly absolute, so use it when the emphasis is genuinely intended."
+    },
+    {
+      "id": "no-parking",
+      "kind": "phrase",
+      "term": "no parking",
+      "pos": "phrase",
+      "register": "Everyday",
+      "meaning": "A sign or instruction saying that vehicles must not be parked in a particular place.",
+      "nuance": "Clear and direct, usually used on signs, notices or instructions. It can sound blunt when addressed directly to someone.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office entrance · keeping vehicles clear",
+          "sentence": "There’s no parking outside the loading bay, so we’ll use the visitor spaces.",
+          "highlight": "no parking",
+          "tip": "Use it to explain a posted restriction, not as a general complaint."
+        },
+        {
+          "setting": "social",
+          "where": "Apartment building · visiting a friend",
+          "sentence": "The sign says no parking after six, so I’ll leave my car down the street.",
+          "highlight": "no parking",
+          "tip": "Check the times and exceptions on the sign before leaving your car there."
+        },
+        {
+          "setting": "writing",
+          "where": "Email about building access",
+          "sentence": "Please note there is no parking in front of the entrance during working hours.",
+          "highlight": "no parking",
+          "tip": "In writing, specify the location and any time limits to prevent confusion."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from short practical instructions used as automobile parking became more common. The exact first use is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English speakers used simple parking instructions as cars became widespread."
+          },
+          {
+            "when": "20th century",
+            "text": "“No Parking” became a familiar sign and notice wording."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase is standard on roads, car parks and private property."
+          }
+        ]
+      },
+      "similar": [
+        "parking prohibited",
+        "no stopping",
+        "keep clear"
+      ],
+      "opposite": "free parking",
+      "pitfall": "“No parking” usually means you cannot leave a vehicle there, while “no stopping” may allow brief stops for picking up or dropping off passengers."
+    },
+    {
+      "id": "no-picnic",
+      "kind": "phrase",
+      "term": "no picnic",
+      "pos": "idiom",
+      "hint": "not an easy or pleasant task",
+      "register": "Informal",
+      "meaning": "Something that is difficult, unpleasant, or more trouble than it first appears.",
+      "nuance": "It sounds conversational and slightly humorous, often softening criticism or describing a demanding situation. It is common at work and among friends, but usually too informal for a formal report.",
+      "literal": "A picnic is a relaxed outdoor meal; “no picnic” suggests the opposite of an easy, enjoyable experience.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · reviewing tight deadlines",
+          "sentence": "Launching the product without proper testing is no picnic.",
+          "highlight": "no picnic",
+          "tip": "Use it to flag a difficult task while keeping the tone light."
+        },
+        {
+          "setting": "social",
+          "where": "Moving apartments · helping a friend pack",
+          "sentence": "Moving all that furniture up three flights is no picnic.",
+          "highlight": "no picnic",
+          "tip": "It works well when everyone already knows the task is tough."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal update to a colleague",
+          "sentence": "Reconciling all the client feedback was no picnic, but the final version is ready.",
+          "highlight": "no picnic",
+          "tip": "Keep it for informal emails; choose “challenging” or “difficult” for formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely grew from the older figurative sense of “picnic” as an easy task. Its exact first use is not firmly established, but it was in circulation by the early 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "A “picnic” originally meant an outdoor outing where participants brought their own food."
+          },
+          {
+            "when": "1800s",
+            "text": "The word developed a figurative meaning of an easy or enjoyable task."
+          },
+          {
+            "when": "Early 20th century",
+            "text": "“No picnic” became a familiar way to describe something difficult or unpleasant."
+          }
+        ]
+      },
+      "similar": [
+        "a piece of cake",
+        "a walk in the park",
+        "easier said than done"
+      ],
+      "opposite": "a piece of cake",
+      "pitfall": "“No picnic” is usually too informal for official reports, and “not a picnic” does not mean the situation is literally difficult in every context."
+    },
+    {
+      "id": "no-probs",
+      "kind": "phrase",
+      "term": "no probs",
+      "pos": "phrase",
+      "hint": "an informal “that’s fine”",
+      "register": "Casual",
+      "meaning": "An informal way of saying “no problem” or “that’s all right.”",
+      "nuance": "Friendly and relaxed, but too casual for formal work communication. It is best with people you already know.",
+      "literal": "There are no problems.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Casual chat with a colleague",
+          "sentence": "If you need me to check the figures again, no probs.",
+          "highlight": "no probs",
+          "tip": "Use it only with colleagues you know well; “no problem” sounds more professional."
+        },
+        {
+          "setting": "social",
+          "where": "Offering help to a friend",
+          "sentence": "Could you send me the photos tomorrow? No probs.",
+          "highlight": "No probs",
+          "tip": "It gives a friendly, low-pressure sense of permission."
+        },
+        {
+          "setting": "writing",
+          "where": "Text message to a friend",
+          "sentence": "I can bring dessert instead— no probs.",
+          "highlight": "no probs",
+          "tip": "Keep it in casual texts; use “no problem” or “you’re welcome” in more formal messages."
+        }
+      ],
+      "origin": {
+        "summary": "A shortened form of “no problems,” using “problems” in the plural. It developed as informal spoken English and later appeared in casual writing.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression “no problems” was used as an informal way to say that something was acceptable."
+          },
+          {
+            "when": "Late 20th century",
+            "text": "“No probs” emerged as a shortened, more casual form in spoken English."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in friendly conversation and informal messages."
+          }
+        ]
+      },
+      "similar": [
+        "no problem",
+        "no worries",
+        "you’re welcome",
+        "all good"
+      ],
+      "opposite": "that’s a problem",
+      "pitfall": "Avoid “no probs” in formal emails, presentations, or communication with someone senior."
+    },
+    {
+      "id": "no-smoking",
+      "kind": "phrase",
+      "term": "no smoking",
+      "pos": "phrase",
+      "hint": "smoking is not allowed here",
+      "register": "Common in public places",
+      "meaning": "A notice stating that people may not smoke in a particular place.",
+      "nuance": "Usually seen on signs in workplaces, restaurants, stations and other public spaces. It is a clear instruction rather than a request.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office entrance · displaying safety rules",
+          "sentence": "There’s a no smoking notice by the entrance, so please finish your cigarette outside.",
+          "highlight": "no smoking",
+          "tip": "Use it to state a workplace rule directly and politely."
+        },
+        {
+          "setting": "social",
+          "where": "Restaurant table · explaining the policy",
+          "sentence": "It’s no smoking inside, but we can move to the outdoor seating area if you need a break.",
+          "highlight": "no smoking",
+          "tip": "Keep the tone welcoming when explaining a venue policy."
+        },
+        {
+          "setting": "writing",
+          "where": "Event email · reminding guests",
+          "sentence": "For the health and safety of everyone attending, this is a no smoking event inside the venue.",
+          "highlight": "no smoking",
+          "tip": "Specify where smoking is permitted, if anywhere."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the growing use of written rules and public notices as tobacco smoking became common in shared spaces.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The words “no smoking” were combined to prohibit smoking in a specified place."
+          },
+          {
+            "when": "19th–20th centuries",
+            "text": "Public notices and railway, workplace and venue rules helped establish the familiar wording."
+          },
+          {
+            "when": "Today",
+            "text": "It is standard wording on signs and in policies worldwide."
+          }
+        ]
+      },
+      "similar": [
+        "smoke-free",
+        "smoking prohibited",
+        "please do not smoke"
+      ],
+      "pitfall": "“No smoking” may mean smoking is not allowed only in that specific area; explain where smoking is permitted if that matters."
+    },
+    {
+      "id": "no-sooner-said-than-done",
+      "kind": "phrase",
+      "term": "no sooner said than done",
+      "pos": "idiom",
+      "hint": "something happened immediately",
+      "register": "Everyday",
+      "meaning": "Something was completed or carried out almost immediately after it was requested or mentioned.",
+      "nuance": "It often adds humorous emphasis to how quickly something happened. The wording can sound slightly old-fashioned, so use it naturally rather than in every situation.",
+      "literal": "The action was done as soon as the words were spoken.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Quick request · finishing a task",
+          "sentence": "“Can you update the figures?”—no sooner said than done.",
+          "highlight": "no sooner said than done",
+          "tip": "Use it when the result is immediate and you want to emphasize the speed."
+        },
+        {
+          "setting": "social",
+          "where": "Coffee with friends · making a plan",
+          "sentence": "I mentioned wanting dessert, and it was no sooner said than done.",
+          "highlight": "no sooner said than done",
+          "tip": "It works well in casual storytelling, especially when the result is amusing."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal email · describing quick progress",
+          "sentence": "She approved the draft, and the final version was no sooner said than done.",
+          "highlight": "no sooner said than done",
+          "tip": "It can make an informal message feel lively; a plain sentence may suit formal writing better."
+        }
+      ],
+      "origin": {
+        "summary": "This is a proverb-like English expression built around the pattern “no sooner ... than ...”. The exact wording became established in the 18th century and is now used for actions that happen almost at once.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English developed the comparison pattern “no sooner ... than ...” for events that happen in quick succession."
+          },
+          {
+            "when": "18th century",
+            "text": "The phrase “no sooner said than done” appeared in collections of English sayings and proverbs."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar idiom for describing an action completed immediately after a request."
+          }
+        ]
+      },
+      "similar": [
+        "in the blink of an eye",
+        "before you know it",
+        "right away"
+      ],
+      "opposite": "much later",
+      "pitfall": "It usually means something happened almost instantly, not merely that it eventually happened."
+    },
+    {
+      "id": "no-trespassing",
+      "kind": "phrase",
+      "term": "no trespassing",
+      "pos": "phrase",
+      "hint": "keep out of private land",
+      "register": "Formal",
+      "meaning": "A warning that people are not allowed to enter a particular piece of private or restricted property.",
+      "nuance": "Usually seen on signs at boundaries, gates, or buildings. Its legal force depends on local law, so follow any additional instructions from the owner.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Restricted site · entering a work area",
+          "sentence": "The gate says no trespassing, so we should contact the site manager before going in.",
+          "highlight": "no trespassing",
+          "tip": "Use it when explaining why an area is off-limits, not as a substitute for arranging access."
+        },
+        {
+          "setting": "social",
+          "where": "Private field · visiting friends",
+          "sentence": "The sign says no trespassing, so let’s stay on the public path with the dog.",
+          "highlight": "no trespassing",
+          "tip": "It’s a clear warning that even a short visit without permission may be unwelcome."
+        },
+        {
+          "setting": "writing",
+          "where": "Visitor email · explaining site rules",
+          "sentence": "The north entrance is marked no trespassing, so visitors should check in at the main reception desk.",
+          "highlight": "no trespassing",
+          "tip": "Pair it with the permitted route or contact person when giving directions."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the legal idea of trespassing: entering or occupying someone else’s land without permission. Public signs have used it for many years to mark protected property.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Trespass” developed in law to mean entering or interfering with another person’s property without authority."
+          },
+          {
+            "when": "19th century onward",
+            "text": "The phrase appears in legal and property-related wording, including notices about private land."
+          },
+          {
+            "when": "Today",
+            "text": "“No trespassing” is a familiar sign warning that access is restricted."
+          }
+        ]
+      },
+      "similar": [
+        "keep out",
+        "restricted access",
+        "private property"
+      ],
+      "opposite": "open to the public",
+      "pitfall": "The phrase can sound like an official legal notice, so don’t use it casually for a small personal boundary unless the warning is genuinely necessary."
+    },
+    {
+      "id": "nobodys-perfect",
+      "kind": "phrase",
+      "term": "nobody's perfect",
+      "pos": "phrase",
+      "hint": "everyone has flaws",
+      "register": "Everyday",
+      "meaning": "Everyone makes mistakes or has qualities that other people may dislike.",
+      "nuance": "Use it to show that you are forgiving or realistic about imperfection. It can sound reassuring in a casual conversation, but too casual for a serious formal complaint.",
+      "literal": "No person is without flaws or mistakes.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team feedback · easing defensiveness",
+          "sentence": "We all missed a few details this week, but nobody's perfect, so let's focus on fixing the process.",
+          "highlight": "nobody's perfect",
+          "tip": "Use it to soften criticism, but still address the problem directly."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · acknowledging a friend's mistake",
+          "sentence": "You forgot the date, but nobody's perfect—I'm glad you told me before we made plans.",
+          "highlight": "nobody's perfect",
+          "tip": "A warm way to reassure someone without dismissing the mistake."
+        },
+        {
+          "setting": "writing",
+          "where": "Friendly email · responding to an apology",
+          "sentence": "No need to keep apologizing; nobody's perfect, and I understand what happened.",
+          "highlight": "nobody's perfect",
+          "tip": "It works well in an informal email when you want to be gracious."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is uncertain, but the phrase reflects a long-standing idea that everyone has faults and makes mistakes.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English speakers used similar expressions to say that all people are imperfect."
+          },
+          {
+            "when": "20th century",
+            "text": "The familiar wording became established in everyday speech."
+          },
+          {
+            "when": "Today",
+            "text": "It is common for reassurance, gentle criticism and casual conversation worldwide."
+          }
+        ]
+      },
+      "similar": [
+        "no one is perfect",
+        "everyone makes mistakes",
+        "we're all human"
+      ],
+      "opposite": "everyone is flawless",
+      "pitfall": "Don't use it to excuse a serious mistake or to avoid taking responsibility for something important."
+    },
+    {
+      "id": "not-much",
+      "kind": "phrase",
+      "term": "not much",
+      "pos": "phrase",
+      "hint": "very little",
+      "register": "Everyday",
+      "meaning": "A small amount, or a smaller amount than expected.",
+      "nuance": "It can describe quantity, effort, impact or improvement, depending on context. It may sound casual and understated rather than negative.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team check-in · reviewing progress",
+          "sentence": "We’ve made not much progress on the report, so we may need another day.",
+          "highlight": "not much",
+          "tip": "Use it for a rough assessment; give specific details when the amount matters."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with a friend",
+          "sentence": "It was not much of a party, but everyone enjoyed talking afterwards.",
+          "highlight": "not much",
+          "tip": "It softens a disappointing assessment without sounding harsh."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal update to a colleague",
+          "sentence": "There’s not much to report this week; the main project is still awaiting approval.",
+          "highlight": "not much",
+          "tip": "Keep the wording informal unless you need to state the amount precisely."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines the negative word “not” with “much,” an old way of expressing a large or considerable amount. Negating it creates the modern sense of “a small amount.”",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Much” was used to mean a great or considerable amount in Middle English."
+          },
+          {
+            "when": "1500s",
+            "text": "The negated form “not much” began appearing in English writing."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common informal phrase for small amounts and limited results."
+          }
+        ]
+      },
+      "similar": [
+        "very little",
+        "hardly anything",
+        "not a lot"
+      ],
+      "opposite": "a lot",
+      "pitfall": "“Not much” is deliberately vague, so avoid it when an exact quantity, deadline or result is required."
+    },
+    {
+      "id": "not-ones-first-rodeo",
+      "kind": "phrase",
+      "term": "not one's first rodeo",
+      "pos": "idiom",
+      "hint": "not a complete beginner",
+      "register": "Casual",
+      "meaning": "An experience that someone has handled before and does not consider new or difficult.",
+      "nuance": "It suggests familiarity born from experience, often with a relaxed or slightly boastful tone. It can reassure others that you are capable, but may sound dismissive if used to belittle someone else.",
+      "literal": "Not the first time someone has competed in a rodeo, so the event is no longer unfamiliar.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · handling scope changes",
+          "sentence": "After three years in customer support, handling an angry caller is not one's first rodeo.",
+          "highlight": "not one's first rodeo",
+          "tip": "Use it to show composure, not to dismiss someone else's concern."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · fixing a cooking problem",
+          "sentence": "After years of hosting family dinners, dealing with a broken oven is not one's first rodeo.",
+          "highlight": "not one's first rodeo",
+          "tip": "Keep the tone light; it can sound smug if used about something genuinely serious."
+        },
+        {
+          "setting": "writing",
+          "where": "Work introduction · explaining prior experience",
+          "sentence": "For an experienced editor, correcting inconsistent headings is not one's first rodeo.",
+          "highlight": "not one's first rodeo",
+          "tip": "Pair it with concrete experience so it does not sound like empty confidence."
+        }
+      ],
+      "origin": {
+        "summary": "The expression likely comes from rodeo culture, where a rider's first performance would be understandably difficult. By the mid-20th century, it was being used more broadly for any unfamiliar challenge.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "A literal rodeo reference points to the challenge of competing for the first time."
+          },
+          {
+            "when": "Mid-20th century",
+            "text": "The expression broadens to mean doing something one has already done before."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in casual American English for familiar challenges."
+          }
+        ]
+      },
+      "similar": [
+        "been there, done that",
+        "not new to this",
+        "old hand",
+        "no stranger to this"
+      ],
+      "opposite": "first time around",
+      "pitfall": "It can sound boastful or condescending, especially when used about someone else's lack of experience."
+    },
+    {
+      "id": "not-your-fathers",
+      "kind": "phrase",
+      "term": "not your father's",
+      "pos": "phrase",
+      "hint": "not the old-fashioned version",
+      "register": "Casual; use carefully at work",
+      "meaning": "Unlike the outdated or old-fashioned approach associated with your father’s generation.",
+      "nuance": "It can sound playful among friends but dismissive when aimed at colleagues or older people. It is best used when the contrast is obvious and the tone is warm.",
+      "literal": "A comparison with whatever your father would know, do or consider normal.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Introducing a modern process",
+          "sentence": "This is not your father’s filing system anymore—we keep client records in the cloud.",
+          "highlight": "not your father’s",
+          "tip": "Keep it light, especially if colleagues from older generations are present."
+        },
+        {
+          "setting": "social",
+          "where": "Changing a family tradition",
+          "sentence": "We’re not your father’s walking group anymore—we’re trying the new trail.",
+          "highlight": "not your father’s",
+          "tip": "It works well with family or friends who know the shared reference."
+        },
+        {
+          "setting": "writing",
+          "where": "Explaining a change to customers",
+          "sentence": "Support is not your father’s telephone service; use the help centre for faster answers.",
+          "highlight": "not your father’s",
+          "tip": "In customer writing, a neutral explanation may sound more professional."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely grew from older comparisons that contrasted present customs with the habits of the previous generation. Its broader modern use replaces a specific comparison with “your father’s” as a shorthand for anything outdated.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People compared new customs with what an older generation, especially a father, considered normal."
+          },
+          {
+            "when": "20th century",
+            "text": "The wording became a general way of presenting something as different from traditional or outdated ways."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in British, Irish and Australian casual speech, especially when the older reference is familiar."
+          }
+        ]
+      },
+      "similar": [
+        "not your grandad’s",
+        "not like your father’s",
+        "a different generation"
+      ],
+      "opposite": "the same as your father’s",
+      "pitfall": "It can sound ageist or insulting if you do not know the person well or are speaking to customers."
+    }
+  ]
+}

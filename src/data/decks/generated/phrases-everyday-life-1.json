@@ -1,0 +1,1484 @@
+{
+  "id": "phrases-everyday-life-1",
+  "kind": "phrase",
+  "name": "Everyday life · 1",
+  "blurb": "25 phrases about everyday life",
+  "cards": [
+    {
+      "id": "til-the-cows-come-home",
+      "kind": "phrase",
+      "term": "'til the cows come home",
+      "pos": "idiom",
+      "hint": "a very long time, said humorously",
+      "register": "Casual",
+      "meaning": "For a very long time, or possibly never.",
+      "nuance": "This sounds playful and exaggerated, so it works best among people you know. Avoid it in formal writing or serious conversations.",
+      "literal": "Waiting until the cows return home at the end of the day.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Chat about a slow repair",
+          "sentence": "The office might stay cold 'til the cows come home if nobody fixes the heating.",
+          "highlight": "'til the cows come home",
+          "tip": "Keep it light; it can sound dismissive if the problem is serious."
+        },
+        {
+          "setting": "social",
+          "where": "Waiting for friends at a pub",
+          "sentence": "Our table is ready, but I reckon we’ll wait 'til the cows come home for the rest of them.",
+          "highlight": "'til the cows come home",
+          "tip": "A relaxed way to complain about a delay without sounding angry."
+        },
+        {
+          "setting": "writing",
+          "where": "Friendly message about a delayed reply",
+          "sentence": "Don’t worry about replying—I know I’ve been slow, and I might not answer 'til the cows come home.",
+          "highlight": "'til the cows come home",
+          "tip": "Use it only in informal messages where humor suits the relationship."
+        }
+      ],
+      "origin": {
+        "summary": "The image comes from cows returning home in the evening. The phrase was recorded in the 16th century and later became a humorous way of saying that something may take a very long time.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Based on the everyday sight of cows coming home in the evening."
+          },
+          {
+            "when": "1500s",
+            "text": "An early form of the phrase appeared in writing."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression became established as a comic way of describing a very long wait."
+          }
+        ]
+      },
+      "similar": [
+        "until hell freezes over",
+        "for ages",
+        "in a blue moon"
+      ],
+      "opposite": "in a moment",
+      "pitfall": "The phrase means an indefinite or very long wait, not just until the end of the day."
+    },
+    {
+      "id": "mile-a-minute",
+      "kind": "phrase",
+      "term": "a mile a minute",
+      "pos": "phrase",
+      "hint": "extremely fast",
+      "register": "Common",
+      "meaning": "Moving, speaking or working very quickly.",
+      "nuance": "It adds energy and emphasizes speed, sometimes suggesting that someone is talking too quickly to understand.",
+      "literal": "Covering one mile in one minute, a brisk pace for running but much faster than normal human movement.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch call · urgent updates",
+          "sentence": "We had questions coming in a mile a minute, so we postponed the detailed discussion.",
+          "highlight": "a mile a minute",
+          "tip": "Use it for a noticeable rush, not ordinary business pace."
+        },
+        {
+          "setting": "social",
+          "where": "Busy birthday party · catching up",
+          "sentence": "My sister and her friend were talking a mile a minute, but I caught most of it.",
+          "highlight": "a mile a minute",
+          "tip": "This can sound affectionate or playful when describing enthusiastic conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · workload summary",
+          "sentence": "Support tickets are arriving a mile a minute, and the team needs more time to resolve them.",
+          "highlight": "a mile a minute",
+          "tip": "Pair it with a number or time frame if the exact pace matters."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably grew from comparing speed with running a mile in a minute. Its figurative use for rapid movement and speech was established by the 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Literal comparison: the speed needed to cover one mile in one minute."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression appears in writing for very fast movement and speech."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common way to emphasize speed or a sudden rush of activity."
+          }
+        ]
+      },
+      "similar": [
+        "at full speed",
+        "very quickly",
+        "in no time",
+        "flat out"
+      ],
+      "opposite": "at a snail's pace",
+      "pitfall": "Don’t use it for a task completed quickly; it describes how fast something is moving, arriving or happening."
+    },
+    {
+      "id": "a-wee-bit",
+      "kind": "phrase",
+      "term": "a wee bit",
+      "pos": "phrase",
+      "hint": "a very small amount",
+      "register": "Casual",
+      "meaning": "A small amount of something.",
+      "nuance": "Friendly and informal, often used when the amount is small but still worth mentioning. It can sound understated or playful rather than precise.",
+      "literal": "A very small bit of something.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning a presentation · checking preparation",
+          "sentence": "I’ve done a wee bit of research, but I’d like another day to check the figures.",
+          "highlight": "a wee bit",
+          "tip": "Use it to soften a modest amount or admit that more work is needed."
+        },
+        {
+          "setting": "social",
+          "where": "Offering food at a gathering",
+          "sentence": "There’s a wee bit of cake left if you’re still hungry.",
+          "highlight": "a wee bit",
+          "tip": "It sounds warm and relaxed when offering a small remaining amount."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message to a colleague",
+          "sentence": "I’m a wee bit delayed, but I’ll send the notes before lunch.",
+          "highlight": "a wee bit",
+          "tip": "Keep the overall message casual; use a specific estimate when precision matters."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines “wee,” meaning “small” in Scots and Irish English, with “bit,” an older everyday word for a small portion. Its exact first use is unclear.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Wee” appears in Scots and Irish English as a word meaning “small” or “little.”"
+          },
+          {
+            "when": "20th century",
+            "text": "“A wee bit” becomes established in informal British and Irish speech."
+          },
+          {
+            "when": "Today",
+            "text": "It is understood in casual English worldwide, especially in speech."
+          }
+        ]
+      },
+      "similar": [
+        "a little",
+        "a bit",
+        "a touch"
+      ],
+      "opposite": "a lot",
+      "pitfall": "“A wee bit” is deliberately vague, so give an exact amount if the detail matters."
+    },
+    {
+      "id": "age-before-beauty",
+      "kind": "phrase",
+      "term": "age before beauty",
+      "pos": "phrase",
+      "hint": "older gets priority",
+      "register": "Casual",
+      "meaning": "An old-fashioned joke that the older person should be given priority over the younger, attractive one.",
+      "nuance": "Usually playful and slightly teasing, especially among people who know each other well. In formal or sensitive situations, it can sound ageist or unfair.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Choosing between two colleagues",
+          "sentence": "When the two assistants wanted the client-facing role, the older colleague joked, “Age before beauty,” but the manager chose on skills.",
+          "highlight": "Age before beauty",
+          "tip": "Keep it light; never use it as the actual basis for choosing someone."
+        },
+        {
+          "setting": "social",
+          "where": "Contesting the last slice",
+          "sentence": "My uncle grabbed the final slice and said, “Age before beauty,” while my cousin looked on in disbelief.",
+          "highlight": "Age before beauty",
+          "tip": "It works best as friendly banter with people comfortable with jokes about age."
+        },
+        {
+          "setting": "writing",
+          "where": "Playful message to a friend",
+          "sentence": "I claimed the good chair first—age before beauty, as my older brother would say.",
+          "highlight": "age before beauty",
+          "tip": "Use it in informal messages between people who already share that sense of humour."
+        }
+      ],
+      "origin": {
+        "summary": "Probably developed from the traditional idea that age or seniority deserves precedence. Its exact beginning is unclear, and the familiar joking sense became established in English long before modern workplace slang.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "A proverb-like idea that maturity, seniority or age may take priority over youth or beauty."
+          },
+          {
+            "when": "18th century",
+            "text": "The expression appears in collections of familiar English sayings and proverbs."
+          },
+          {
+            "when": "Today",
+            "text": "It survives mainly as a teasing remark between people who know each other."
+          }
+        ]
+      },
+      "similar": [
+        "old and wise",
+        "the older you are, the wiser you get",
+        "respect your elders"
+      ],
+      "opposite": "beauty before age",
+      "pitfall": "It can sound ageist, especially at work or when talking to someone who may feel overlooked because of their age."
+    },
+    {
+      "id": "all-aboard",
+      "kind": "phrase",
+      "term": "all aboard",
+      "pos": "phrase",
+      "hint": "everyone on board, ready to go",
+      "register": "Everyday",
+      "meaning": "An announcement or call for everyone to get on board because the vehicle or journey is about to begin.",
+      "nuance": "It has a lively, old-fashioned sound and can express excitement about starting something together. It may also be used figuratively to urge people to join a group or activity.",
+      "literal": "Everyone is on the vehicle, so it can depart.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team departure · heading to an event",
+          "sentence": "The taxi is here and the whole team is all aboard.",
+          "highlight": "all aboard",
+          "tip": "Use it when a group is gathering to leave, rather than for people already travelling."
+        },
+        {
+          "setting": "social",
+          "where": "Boarding a bus · day trip",
+          "sentence": "Hurry up, everyone’s all aboard and the driver wants to go.",
+          "highlight": "all aboard",
+          "tip": "This sounds playful and is best with friends or family."
+        },
+        {
+          "setting": "writing",
+          "where": "Event email · final call to join",
+          "sentence": "Registration closes at noon, so it’s all aboard for anyone joining the workshop remotely.",
+          "highlight": "all aboard",
+          "tip": "The figurative use adds energy, so keep the surrounding message clear."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed as a call made before a ship or train departed, telling passengers that boarding was complete and departure could begin. Its figurative use grew from this practical transport announcement.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The phrase appeared in announcements connected with passenger travel, especially railways."
+          },
+          {
+            "when": "Later 19th century",
+            "text": "It came to mean that everyone was on board and ready for the journey to start."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar call for departure and a playful way to invite people to join in."
+          }
+        ]
+      },
+      "similar": [
+        "everyone on board",
+        "ready to go",
+        "let's get going"
+      ],
+      "opposite": "abandon ship",
+      "pitfall": "When used figuratively, make clear who is being invited to join; the phrase alone does not explain what the group is doing."
+    },
+    {
+      "id": "all-in-a-days-work",
+      "kind": "phrase",
+      "term": "all in a day's work",
+      "pos": "phrase",
+      "hint": "part of the usual routine",
+      "register": "Common at work",
+      "meaning": "A task or problem that is routine and expected as part of someone's job.",
+      "nuance": "It can sound practical and matter-of-fact, but also slightly resigned or dismissive. The phrase often emphasizes that the task was ordinary, not necessarily easy.",
+      "literal": "The everyday tasks and problems that make up one working day.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Support team · handling a failed export",
+          "sentence": "The export failed twice, but fixing it was all in a day's work for the support team.",
+          "highlight": "all in a day's work",
+          "tip": "Use it when an experienced team treats the problem as routine."
+        },
+        {
+          "setting": "social",
+          "where": "Volunteer event · dealing with broken equipment",
+          "sentence": "The volunteers treated the broken projector as all in a day's work.",
+          "highlight": "all in a day's work",
+          "tip": "It can sound good-humoured, but watch for a slightly dismissive tone."
+        },
+        {
+          "setting": "writing",
+          "where": "Operations report · noting a minor correction",
+          "sentence": "The report noted that a minor data correction was all in a day's work for the operations team.",
+          "highlight": "all in a day's work",
+          "tip": "It works well when describing routine work without overstating the difficulty."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from the literal idea of tasks completed during a working day. The figurative sense grew as people described ordinary duties and manageable problems.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal idea: work carried out during the course of a day."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase began to describe ordinary work and problems expected in daily life."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in workplace speech, sometimes with a dry or resigned tone."
+          }
+        ]
+      },
+      "similar": [
+        "part of the job",
+        "business as usual",
+        "routine"
+      ],
+      "opposite": "an unusual occurrence",
+      "pitfall": "Avoid it for a serious crisis or a task clearly outside someone's role, because it can sound like you are minimizing the problem."
+    },
+    {
+      "id": "all-the-while",
+      "kind": "phrase",
+      "term": "all the while",
+      "pos": "phrase",
+      "hint": "throughout the whole time",
+      "register": "Everyday",
+      "meaning": "Throughout an entire period of time, without any interruption.",
+      "nuance": "It emphasizes that something continues or has been true for the whole period. It is neutral and works in both conversation and writing.",
+      "literal": "For the entire time, from beginning to end.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project update · explaining a delay",
+          "sentence": "The supplier knew about the change all the while, but nobody mentioned it until today’s meeting.",
+          "highlight": "all the while",
+          "tip": "Use it to emphasize that something continued over the full period you are discussing."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with a friend",
+          "sentence": "You were working from home all the while, and I had no idea.",
+          "highlight": "all the while",
+          "tip": "It sounds natural when the other person may have expected you to know something."
+        },
+        {
+          "setting": "writing",
+          "where": "Email describing a situation",
+          "sentence": "The office was closed all the while, so we could not collect the documents in person.",
+          "highlight": "all the while",
+          "tip": "A simple alternative is “the entire time,” which can sound slightly more formal."
+        }
+      ],
+      "origin": {
+        "summary": "This phrase comes from the ordinary sense of time continuing for the whole of a period. Its modern use is an idiomatic extension of that basic idea.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression referred literally to the whole duration of something."
+          },
+          {
+            "when": "20th century",
+            "text": "It became common in conversation and writing for describing something that continued throughout a period."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a natural, widely understood phrase in everyday English."
+          }
+        ]
+      },
+      "similar": [
+        "the whole time",
+        "the entire time",
+        "throughout"
+      ],
+      "opposite": "now and then",
+      "pitfall": "It usually implies that the full period matters, so use it when the duration is relevant."
+    },
+    {
+      "id": "and-then-some",
+      "kind": "phrase",
+      "term": "and then some",
+      "pos": "phrase",
+      "hint": "even more than you expected",
+      "register": "Casual",
+      "meaning": "Used after a description to emphasize that there is a much larger amount or degree of something than expected.",
+      "nuance": "It adds emphasis in a relaxed, conversational way. It can sound enthusiastic when describing success or abundance, but slightly dismissive when describing problems or excess.",
+      "literal": "Something extra follows after the original amount, and even more after that.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team retrospective · highlighting a strong result",
+          "sentence": "The new process cut processing time in half, and then some.",
+          "highlight": "and then some",
+          "tip": "Use it when the improvement went beyond the stated target."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · describing a generous meal",
+          "sentence": "We ordered three pizzas for four people, and then some.",
+          "highlight": "and then some",
+          "tip": "It works well for emphasizing an unexpectedly large quantity."
+        },
+        {
+          "setting": "writing",
+          "where": "Casual update · reporting extra progress",
+          "sentence": "We reached every sales target for the quarter, and then some.",
+          "highlight": "and then some",
+          "tip": "Keep the surrounding sentence simple so the emphasis remains clear."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase grew out of older expressions meaning something in addition to what has already been mentioned. Its modern use became established in American English during the 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "Earlier wording such as “and then some more” appears in English, suggesting an origin in ideas of adding a further amount."
+          },
+          {
+            "when": "Early 20th century",
+            "text": "The shorter expression “and then some” becomes established in American speech."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in casual speech as a quick way to emphasize abundance or a greater-than-expected result."
+          }
+        ]
+      },
+      "similar": [
+        "and more",
+        "much more than expected",
+        "far more than expected"
+      ],
+      "opposite": "and then less",
+      "pitfall": "The phrase usually needs something before it; saying it alone may sound incomplete."
+    },
+    {
+      "id": "any-day-now",
+      "kind": "phrase",
+      "term": "any day now",
+      "pos": "phrase",
+      "hint": "soon—or maybe not",
+      "register": "Everyday",
+      "meaning": "Very soon, often with the implication that the exact time is still uncertain.",
+      "nuance": "It can sound hopeful when something is genuinely about to happen, but it can also be mildly ironic when someone keeps postponing something. Use it casually unless you want to point out a delay.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team update · waiting for a deliverable",
+          "sentence": "The report should be ready any day now, though I still need a confirmed deadline.",
+          "highlight": "any day now",
+          "tip": "Pair it with a firm time if the delay affects other people."
+        },
+        {
+          "setting": "social",
+          "where": "Chat with a friend · making plans",
+          "sentence": "I’ll send you the photos any day now once I’ve finished sorting them.",
+          "highlight": "any day now",
+          "tip": "It sounds friendly, but it may be vague if you need a specific day."
+        },
+        {
+          "setting": "writing",
+          "where": "Email follow-up · checking progress",
+          "sentence": "We expect the final files any day now and will share them as soon as they arrive.",
+          "highlight": "any day now",
+          "tip": "Use it for a near-term update, not as a substitute for a deadline."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from the everyday idea that something could happen on any coming day. Its modern use often carries a light warning that the event is still not precisely scheduled.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal sense referred to an unspecified day in the near future."
+          },
+          {
+            "when": "20th century",
+            "text": "The phrase became common in casual speech and gained a slightly ironic tone when used for delays."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely understood as both “soon” and “without a definite date.”"
+          }
+        ]
+      },
+      "similar": [
+        "shortly",
+        "soon",
+        "in the very near future"
+      ],
+      "opposite": "at a specific time",
+      "pitfall": "“Any day now” can sound like a promise even when no date has actually been agreed."
+    },
+    {
+      "id": "anything-goes",
+      "kind": "phrase",
+      "term": "anything goes",
+      "pos": "phrase",
+      "hint": "no rules or limits",
+      "register": "Everyday",
+      "meaning": "There are no restrictions, and almost anything is allowed or possible.",
+      "nuance": "It can sound relaxed and fun, but it may also suggest that standards, rules or careful judgment have been dropped. The tone depends on whether you are describing freedom or a lack of control.",
+      "literal": "Every possible action is permitted.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team brainstorming · generating ideas",
+          "sentence": "For the first ten minutes, anything goes—just write down ideas without judging them yet.",
+          "highlight": "anything goes",
+          "tip": "Use it to encourage open thinking, not to bypass discussion of safety or standards."
+        },
+        {
+          "setting": "social",
+          "where": "Casual dinner · choosing activities",
+          "sentence": "It’s an informal night, so anything goes as long as nobody feels pressured to do anything.",
+          "highlight": "anything goes",
+          "tip": "This sounds friendly, but check that everyone is genuinely comfortable."
+        },
+        {
+          "setting": "writing",
+          "where": "Event invitation · setting expectations",
+          "sentence": "The venue is relaxed and anything goes, so come as you are and feel free to move around.",
+          "highlight": "anything goes",
+          "tip": "Pair it with a specific note if guests need to know what is actually available."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed in the early 20th century from the literal idea that anything can be done or allowed. It was later made especially familiar by the title of Cole Porter’s 1934 musical Anything Goes.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 20th century",
+            "text": "The phrase appears in contexts meaning that any action is permitted or possible."
+          },
+          {
+            "when": "1934",
+            "text": "Cole Porter’s musical Anything Goes helped popularize the expression in its familiar form."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in everyday conversation to describe unrestricted choices or a relaxed atmosphere."
+          }
+        ]
+      },
+      "similar": [
+        "no holds barred",
+        "anything is possible",
+        "the sky's the limit",
+        "anything goes"
+      ],
+      "opposite": "there are limits",
+      "pitfall": "In a serious setting, saying “anything goes” can imply that rules or risks are being ignored, so clarify what you mean."
+    },
+    {
+      "id": "be-in-luck",
+      "kind": "phrase",
+      "term": "be in luck",
+      "pos": "phrase",
+      "hint": "a fortunate chance",
+      "register": "Everyday",
+      "meaning": "To be in a fortunate situation, especially by getting a good opportunity or unexpected help.",
+      "nuance": "It often means that luck has played a part in a result, so use it when the success was partly a matter of chance.",
+      "literal": "Luck has come your way at the right moment.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "A colleague gets the project you wanted",
+          "sentence": "If you applied before the deadline, you may be in luck and hear back this afternoon.",
+          "highlight": "be in luck",
+          "tip": "Use it to describe a possibility, especially when some good news may be coming."
+        },
+        {
+          "setting": "social",
+          "where": "A friend arrives before the sold-out show",
+          "sentence": "You’re in luck; there are still two seats left near the entrance.",
+          "highlight": "in luck",
+          "tip": "This is a natural way to share good news with someone."
+        },
+        {
+          "setting": "writing",
+          "where": "Confirming that an application was accepted",
+          "sentence": "We were in luck, and the supplier agreed to deliver before the event.",
+          "highlight": "in luck",
+          "tip": "Use it in a message when explaining that something helpful happened unexpectedly."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably comes from the older expression “good luck” and a broader use of “luck” to mean a favourable chance. Its exact first appearance is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English speakers used “luck” to mean chance, including both good and bad outcomes."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression “be in luck” becomes established in ordinary English speech."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common way to say that fortune has helped someone."
+          }
+        ]
+      },
+      "similar": [
+        "get lucky",
+        "have good fortune",
+        "be lucky"
+      ],
+      "opposite": "be out of luck",
+      "pitfall": "For “luck” as a favourable chance, use “in luck”; “be in luck” is less natural than “be lucky” when describing a lasting personal advantage."
+    },
+    {
+      "id": "before-one-knows-it",
+      "kind": "phrase",
+      "term": "before one knows it",
+      "pos": "idiom",
+      "hint": "quicker than expected",
+      "register": "Everyday",
+      "meaning": "Before someone has had time to notice or understand what is happening.",
+      "nuance": "It often describes something that happened suddenly and feels much faster than expected. It can also suggest that an event slipped past without being noticed.",
+      "literal": "Before the person has realized what is taking place.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Busy project week · sudden deadline",
+          "sentence": "Before one knows it, Friday’s deadline has arrived and half the work is still unfinished.",
+          "highlight": "Before one knows it",
+          "tip": "Use it to describe how quickly time or circumstances changed."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with friends",
+          "sentence": "We were still talking when I looked up and realized that before one knows it, two hours had passed.",
+          "highlight": "before one knows it",
+          "tip": "It works naturally when you’ve lost track of time."
+        },
+        {
+          "setting": "writing",
+          "where": "News update · changing situation",
+          "sentence": "The company had barely announced the change before one knows it, competitors had adjusted their plans.",
+          "highlight": "before one knows it",
+          "tip": "Use it when events have moved faster than people expected."
+        }
+      ],
+      "origin": {
+        "summary": "The expression likely grew out of the idea that a change can happen before someone becomes aware of it. Its exact first use is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The wording connected the speed of an event with the delay in recognizing it."
+          },
+          {
+            "when": "19th–20th centuries",
+            "text": "The phrase became established in everyday English as a way to describe something happening very quickly."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in speech and informal writing."
+          }
+        ]
+      },
+      "similar": [
+        "before you know it",
+        "in the blink of an eye",
+        "before anyone realizes"
+      ],
+      "opposite": "after a very long time",
+      "pitfall": "This phrase is informal; in formal writing, name the actual time span or explain what changed quickly."
+    },
+    {
+      "id": "behind-the-wire",
+      "kind": "phrase",
+      "term": "behind the wire",
+      "pos": "phrase",
+      "hint": "on the telephone",
+      "register": "Dated; occasional in informal British speech",
+      "meaning": "On the telephone, talking or arranging to talk by phone.",
+      "nuance": "It sounds old-fashioned and slightly playful rather than neutral. In most modern situations, “on the phone” or “give me a call” is more natural.",
+      "literal": "On the other side of a telephone or telegraph wire.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office message · asking for a call",
+          "sentence": "Could you get behind the wire when you’ve got a minute? I need your view on the proposal.",
+          "highlight": "get behind the wire",
+          "tip": "This is a dated, informal alternative to “call me.”"
+        },
+        {
+          "setting": "social",
+          "where": "Family call · catching up",
+          "sentence": "We haven’t spoken behind the wire since the wedding, so we should arrange a proper chat.",
+          "highlight": "spoken behind the wire",
+          "tip": "Use it for a warm or humorous effect, not for making arrangements."
+        },
+        {
+          "setting": "writing",
+          "where": "Personal email · reminiscing",
+          "sentence": "It’s strange to think we haven’t chatted behind the wire for so long.",
+          "highlight": "chatted behind the wire",
+          "tip": "It can add a nostalgic tone, but “chatted on the phone” is clearer."
+        }
+      ],
+      "origin": {
+        "summary": "Likely comes from the image of telephone or telegraph wires carrying a voice or message. The phrase later came to mean having a telephone conversation.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "Telegraph and telephone wires become common symbols of long-distance communication."
+          },
+          {
+            "when": "Early 20th century",
+            "text": "Expressions placing someone “on” or “behind” the wire develop as ways of referring to a phone connection."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase survives mainly in dated, informal British English."
+          }
+        ]
+      },
+      "similar": [
+        "on the phone",
+        "on the line",
+        "down the wire"
+      ],
+      "opposite": "in person",
+      "pitfall": "It can sound as if you are physically using a wired telephone, so choose a clearer modern expression in professional communication."
+    },
+    {
+      "id": "bitten-by-the-same-bug",
+      "kind": "phrase",
+      "term": "bitten by the same bug",
+      "pos": "idiom",
+      "hint": "sharing the same problem",
+      "register": "Common at work",
+      "meaning": "To experience the same unexpected problem or setback as someone else.",
+      "nuance": "It emphasizes a shared difficulty and often suggests that the problem is unusual, technical or beyond the person’s control. It can build sympathy by showing that others are facing it too.",
+      "literal": "Two people being bitten by the same insect.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team troubleshooting · shared software issue",
+          "sentence": "The customer and our support team were bitten by the same bug when the payment link kept timing out.",
+          "highlight": "bitten by the same bug",
+          "tip": "Use it to show empathy when several people are affected by one technical problem."
+        },
+        {
+          "setting": "social",
+          "where": "Restaurant visit · payment system failure",
+          "sentence": "We were both bitten by the same bug at dinner when the card reader stopped working.",
+          "highlight": "bitten by the same bug",
+          "tip": "It works well when a frustrating situation affects everyone nearby."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining a delay",
+          "sentence": "The design team and the client were bitten by the same bug, so we paused the release.",
+          "highlight": "bitten by the same bug",
+          "tip": "Follow it with the actual issue if the reader needs clear details."
+        }
+      ],
+      "origin": {
+        "summary": "Likely combines the older idea of a literal insect bite with the later use of “bug” for a technical defect or troublesome issue. Its modern flavour became especially common in computing and business.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The image of people sharing a literal insect bite suggested that they were suffering the same problem."
+          },
+          {
+            "when": "Early–mid 20th century",
+            "text": "“Bug” became established informal wording for a technical defect or troublesome issue."
+          },
+          {
+            "when": "Late 20th century to today",
+            "text": "The expression spread through computing, customer support and workplace discussion."
+          }
+        ]
+      },
+      "similar": [
+        "hit by the same issue",
+        "caught in the same mess",
+        "faced the same glitch"
+      ],
+      "pitfall": "Use it for a shared unexpected problem, not for ordinary bad luck or a mistake someone chose to make."
+    },
+    {
+      "id": "blow-wide-open",
+      "kind": "phrase",
+      "term": "blow wide open",
+      "pos": "idiom",
+      "hint": "open forcefully or expose completely",
+      "register": "Common in speech and informal writing",
+      "meaning": "To open something forcefully, make it fully available, or reveal something that was previously hidden.",
+      "nuance": "The phrase adds a sense of sudden force or exposure. It works for literal openings and for problems, secrets or opportunities that become impossible to ignore.",
+      "literal": "A strong wind pushes a door or window completely open.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Security review · discussing exposed access",
+          "sentence": "Security can blow the archive wide open by leaving a test account exposed.",
+          "highlight": "blow the archive wide open",
+          "tip": "Use it for a serious access failure, not a minor security slip."
+        },
+        {
+          "setting": "social",
+          "where": "Stuffy room · fresh-air break",
+          "sentence": "Let’s blow the windows wide open; it’s smoky in here.",
+          "highlight": "blow the windows wide open",
+          "tip": "This natural literal use is especially clear in casual speech."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · highlighting hidden costs",
+          "sentence": "We can use the screenshots to blow the hidden costs wide open.",
+          "highlight": "blow the hidden costs wide open",
+          "tip": "It adds drama, so reserve it for a strong point in informal writing."
+        }
+      ],
+      "origin": {
+        "summary": "The expression likely grew from the literal force of wind opening a door or window widely. Its figurative sense of revealing something developed from that physical image.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal image is of wind forcing a door or window fully open."
+          },
+          {
+            "when": "20th century",
+            "text": "Figurative uses spread for forceful openings and revealing hidden problems."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in speech and informal professional writing."
+          }
+        ]
+      },
+      "similar": [
+        "burst open",
+        "widen the cracks",
+        "bring to light"
+      ],
+      "opposite": "keep under wraps",
+      "pitfall": "The phrase can sound dramatic or alarmist, so use a calmer expression for minor situations."
+    },
+    {
+      "id": "born-and-bred",
+      "kind": "phrase",
+      "term": "born and bred",
+      "pos": "phrase",
+      "hint": "raised in a place or culture",
+      "register": "Everyday",
+      "meaning": "Born, raised, and shaped by a particular place, family, or culture.",
+      "nuance": "It suggests a strong connection to somewhere or a way of life, not merely that you have lived there for a time.",
+      "literal": "Someone is both born and raised in the same place or community.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Introducing a colleague’s background",
+          "sentence": "Mina was born and bred in Nairobi and knows the market exceptionally well.",
+          "highlight": "born and bred",
+          "tip": "Use it to give meaningful context about someone’s background and local knowledge."
+        },
+        {
+          "setting": "social",
+          "where": "Chatting about hometown pride",
+          "sentence": "I was born and bred in Glasgow, so I’ll always defend the city’s food.",
+          "highlight": "born and bred",
+          "tip": "It works well when you want to express pride in your roots."
+        },
+        {
+          "setting": "writing",
+          "where": "Author biography",
+          "sentence": "Born and bred in rural Wales, she began writing stories inspired by her childhood.",
+          "highlight": "Born and bred",
+          "tip": "Keep the phrase near the beginning of a biography for a direct, natural introduction."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines being born in a place with being raised there, emphasizing both origin and upbringing.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "16th century",
+            "text": "Early forms appear in English writing as “born and bred,” describing a person’s place of birth and upbringing."
+          },
+          {
+            "when": "Later",
+            "text": "The expression becomes established in descriptions of people’s national, regional, or cultural backgrounds."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common when talking about identity, local knowledge, and hometown pride."
+          }
+        ]
+      },
+      "similar": [
+        "raised in",
+        "a native of",
+        "from birth",
+        "brought up"
+      ],
+      "opposite": "born elsewhere but raised here",
+      "pitfall": "It can sound proud or strongly rooted, so avoid using it to imply that someone is more authentic because of where they grew up."
+    },
+    {
+      "id": "business-as-usual",
+      "kind": "phrase",
+      "term": "business as usual",
+      "pos": "phrase",
+      "hint": "things carrying on normally",
+      "register": "Common at work",
+      "meaning": "Normal activity continues, often after a disruption or unexpected event.",
+      "nuance": "It can sound reassuring, but it may also suggest that people are ignoring a serious problem. The context decides whether it means calm continuity or deliberate business.",
+      "literal": "The business or organisation continues operating in its usual way.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office update · after a disruption",
+          "sentence": "The systems are fixed, so it’s business as usual from Monday morning.",
+          "highlight": "business as usual",
+          "tip": "Use it when normal work has genuinely resumed."
+        },
+        {
+          "setting": "social",
+          "where": "Café conversation · after awkward tension",
+          "sentence": "We chatted about the weather until things were business as usual again.",
+          "highlight": "business as usual",
+          "tip": "It can suggest that everyone is pretending the awkward moment never happened."
+        },
+        {
+          "setting": "writing",
+          "where": "Service notice · temporary closure",
+          "sentence": "We’ll be closed on Friday, but otherwise it will be business as usual.",
+          "highlight": "business as usual",
+          "tip": "Pair it with clear details so readers know exactly what remains unchanged."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the older expression “the business goes on as usual,” meaning commercial activity continues despite a disruption.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The wording referred to continuing business despite changes or troubles."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression appeared in discussion of political and commercial life during periods of disruption."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used to say that work or everyday activity has returned to normal."
+          }
+        ]
+      },
+      "similar": [
+        "back to normal",
+        "carry on as usual",
+        "the show must go on"
+      ],
+      "opposite": "business as abnormal",
+      "pitfall": "Don’t use it to dismiss a problem that still affects people; it can sound like you’re treating the disruption as unimportant."
+    },
+    {
+      "id": "buy-low-sell-high",
+      "kind": "phrase",
+      "term": "buy low, sell high",
+      "pos": "idiom",
+      "hint": "make a profit by buying cheaply and selling for more",
+      "register": "Common at work and in investing",
+      "meaning": "To buy something for less than its value and later sell it for a higher price.",
+      "nuance": "It describes a basic investing or trading strategy, but it is also used more broadly for taking advantage of a good price. In everyday conversation, it can suggest getting a bargain and selling it on.",
+      "literal": "Buy at a low price, then sell at a high one.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · planning purchases",
+          "sentence": "We buy low, sell high by consolidating suppliers and negotiating longer contracts.",
+          "highlight": "buy low, sell high",
+          "tip": "Use it to explain a commercial strategy, not as a promise of profit."
+        },
+        {
+          "setting": "social",
+          "where": "Reselling event · buying and selling items",
+          "sentence": "The resale stall lets us buy low, sell high and raise money for the shelter.",
+          "highlight": "buy low, sell high",
+          "tip": "It sounds playful when describing a small resale business."
+        },
+        {
+          "setting": "writing",
+          "where": "Investment newsletter · explaining an approach",
+          "sentence": "The fund tries to buy low, sell high without relying on short-term market timing.",
+          "highlight": "buy low, sell high",
+          "tip": "Keep the wording direct; it explains the goal of a trading strategy."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the basic idea of trading: acquire something for less and sell it for more. Its exact first recorded wording is uncertain, but the expression is closely tied to longstanding trading advice.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Merchants and traders used the general principle of buying cheaply and selling at a higher price."
+          },
+          {
+            "when": "20th century",
+            "text": "The wording became a familiar shorthand for investing and trading strategy."
+          },
+          {
+            "when": "Today",
+            "text": "It is used in finance, business and casual conversations about bargains and resale."
+          }
+        ]
+      },
+      "similar": [
+        "turn a profit",
+        "buy at a profit",
+        "flip for a profit"
+      ],
+      "opposite": "buy high, sell low",
+      "pitfall": "The phrase describes an approach, not a guarantee: prices can fall before you sell, and buying cheap does not always mean an item is worth more."
+    },
+    {
+      "id": "buy-one-get-one-free",
+      "kind": "phrase",
+      "term": "Buy one, get one free",
+      "pos": "phrase",
+      "hint": "a two-for-one offer",
+      "register": "Common in shops and advertising",
+      "meaning": "A promotion in which you pay for one item and receive another item at no extra charge.",
+      "nuance": "Clear and familiar in retail, advertising and informal conversations. It sounds more appealing than “two for the price of one,” but check whether the promotion applies to the same or different products.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team event · planning a giveaway",
+          "sentence": "Our supplier offers a buy one, get one free deal on conference passes, so we can invite more guests.",
+          "highlight": "buy one, get one free",
+          "tip": "This is a natural way to describe a commercial offer to colleagues."
+        },
+        {
+          "setting": "social",
+          "where": "Shopping with a friend",
+          "sentence": "The shoes are buy one, get one free, so we could each take a pair.",
+          "highlight": "buy one, get one free",
+          "tip": "Use it when discussing a current promotion or recommending a shop."
+        },
+        {
+          "setting": "writing",
+          "where": "Promotional email",
+          "sentence": "For a limited time, use the code SAVEEXTRA and get a buy one, get one free offer on selected items.",
+          "highlight": "buy one, get one free",
+          "tip": "Place it near the offer details so readers know exactly what they receive."
+        }
+      ],
+      "origin": {
+        "summary": "This phrase comes from retail promotions and advertising. Its precise first use is unclear, but it became a familiar way to announce two-for-one deals.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Shops began using “buy one, get one” offers to attract customers."
+          },
+          {
+            "when": "20th century",
+            "text": "The phrase became common in newspapers, shop displays and radio advertising."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely understood in stores and online, sometimes shortened to “BOGO.”"
+          }
+        ]
+      },
+      "similar": [
+        "two for the price of one",
+        "BOGO",
+        "free offer"
+      ],
+      "opposite": "buy one, get one half off",
+      "pitfall": "It usually means the second item is genuinely free, not merely discounted; check the promotion’s conditions."
+    },
+    {
+      "id": "cash-is-king",
+      "kind": "phrase",
+      "term": "cash is king",
+      "pos": "idiom",
+      "hint": "having money matters most",
+      "register": "Common at work",
+      "meaning": "Cash, or immediate access to money, is more useful and valuable than other assets or promised income.",
+      "nuance": "The phrase suggests that liquidity can give you flexibility, security or bargaining power. It can describe a personal situation or business strategy, especially when credit or future payments are uncertain.",
+      "literal": "Money in hand is more valuable than promises of money later.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company finances · managing cash flow",
+          "sentence": "The owners kept a reserve because, in uncertain markets, cash is king.",
+          "highlight": "cash is king",
+          "tip": "Use it to explain why liquidity matters, then give the practical reason."
+        },
+        {
+          "setting": "social",
+          "where": "Friends discussing a trip",
+          "sentence": "We agreed to pay in cash because cash is king when card machines are unreliable.",
+          "highlight": "cash is king",
+          "tip": "It works as a light explanation for choosing cash over other payment methods."
+        },
+        {
+          "setting": "writing",
+          "where": "Business email · explaining a budget choice",
+          "sentence": "Keeping some money available is sensible because cash is king during a slow sales period.",
+          "highlight": "cash is king",
+          "tip": "Pair it with a clear explanation of how the money will be used."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is uncertain. It is a modern business maxim based on the idea that money available immediately gives people more freedom than assets or future income.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression reflects older ideas that money in hand can provide security and flexibility."
+          },
+          {
+            "when": "20th century",
+            "text": "The wording becomes common in business and finance discussions, especially around liquidity and cash flow."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar warning or principle in conversations about money, payments and financial planning."
+          }
+        ]
+      },
+      "similar": [
+        "liquidity matters",
+        "money talks",
+        "cash flow is king"
+      ],
+      "opposite": "credit is king",
+      "pitfall": "The phrase can sound dismissive of long-term financial planning, so explain the situation rather than using it as a blanket rule."
+    },
+    {
+      "id": "check-is-in-the-mail",
+      "kind": "phrase",
+      "term": "check is in the mail",
+      "pos": "idiom",
+      "hint": "payment is on its way",
+      "register": "Common at work",
+      "meaning": "A payment has been sent but has not yet arrived or been deposited.",
+      "nuance": "It can sound like a polite reassurance that someone is waiting for money. People may say it when a payment is late, so it is best followed by a clear date when possible.",
+      "literal": "A paper check has been posted and is travelling to the recipient.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client invoice · payment delay",
+          "sentence": "The check is in the mail, but I’d like to confirm when you expect it to arrive.",
+          "highlight": "check is in the mail",
+          "tip": "Use it to explain a delay while showing that the payment is already being handled."
+        },
+        {
+          "setting": "social",
+          "where": "Splitting a bill with a friend",
+          "sentence": "Don’t worry, my check is in the mail, and I can send you the tracking details.",
+          "highlight": "check is in the mail",
+          "tip": "It reassures someone that you intend to pay, but give a date if the wait matters."
+        },
+        {
+          "setting": "writing",
+          "where": "Email about an overdue invoice",
+          "sentence": "The check is in the mail, and I’ve included the mailing date for your records.",
+          "highlight": "check is in the mail",
+          "tip": "Pair it with practical details because the phrase does not promise a specific arrival date."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely grew from the literal image of a mailed check and became a way to describe payment that has been sent but is still in transit.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal meaning referred to a check being posted to someone."
+          },
+          {
+            "when": "20th century",
+            "text": "The figurative use spread in American speech, especially when discussing delayed payment."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in informal conversations and business emails about money owed."
+          }
+        ]
+      },
+      "similar": [
+        "the money is on its way",
+        "payment is on its way",
+        "the cheque is in the post"
+      ],
+      "opposite": "the check has arrived",
+      "pitfall": "“The check is in the mail” does not guarantee when the money will arrive, so mention a mailing or expected deposit date if that matters."
+    },
+    {
+      "id": "close-at-hand",
+      "kind": "phrase",
+      "term": "close at hand",
+      "pos": "phrase",
+      "hint": "nearby and ready to use",
+      "register": "Everyday",
+      "meaning": "Nearby, easily reachable, or about to happen.",
+      "nuance": "It can describe something physically within reach or something that is approaching quickly. It often suggests that attention or action may soon be needed.",
+      "literal": "The object is so close that you could reach out and take it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office · needing a document",
+          "sentence": "The signed contract is close at hand, so we can review it before the meeting.",
+          "highlight": "close at hand",
+          "tip": "Use it when something is physically nearby or ready to be dealt with."
+        },
+        {
+          "setting": "social",
+          "where": "Coffee shop · spotting a friend",
+          "sentence": "There’s an empty table close at hand if you want somewhere to sit.",
+          "highlight": "close at hand",
+          "tip": "This use is neutral and naturally describes something nearby and convenient."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · noting a deadline",
+          "sentence": "With the release date close at hand, we should confirm that every team is ready.",
+          "highlight": "close at hand",
+          "tip": "In writing, it often means a deadline or event is approaching soon."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the idea of something being close enough to take hold of. Its use for something about to happen is a natural extension of that idea.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression “at hand” meant within reach and therefore ready to use."
+          },
+          {
+            "when": "1500s",
+            "text": "Forms resembling “close at hand” began appearing in English writing."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase can describe both nearby objects and approaching events."
+          }
+        ]
+      },
+      "similar": [
+        "nearby",
+        "within reach",
+        "on hand",
+        "not far away"
+      ],
+      "opposite": "far out of reach",
+      "pitfall": "“Close at hand” does not always mean the subject is physically near; it can also mean a time or event is approaching."
+    },
+    {
+      "id": "come-to-find-out",
+      "kind": "phrase",
+      "term": "come to find out",
+      "pos": "phrase",
+      "hint": "discover something after some time",
+      "register": "Conversational",
+      "meaning": "Discover or learn something, often after waiting, trying, or making assumptions.",
+      "nuance": "The phrase adds a retrospective or slightly surprising quality. It often works well with “that,” as in “I came to find out that the office was closed.”",
+      "literal": "Someone arrives at a place or point in time and learns the facts there.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project update · explaining a delay",
+          "sentence": "We come to find out that the delay came from an approval nobody had requested.",
+          "highlight": "come to find out",
+          "tip": "Use it to introduce information learned after an earlier assumption or wait."
+        },
+        {
+          "setting": "social",
+          "where": "Reunion · checking on an old friend",
+          "sentence": "You come to find out that she has moved somewhere completely different.",
+          "highlight": "come to find out",
+          "tip": "It suits informal stories about learning something after the event."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update email",
+          "sentence": "Only later did we come to find out that the shipment had been held at customs.",
+          "highlight": "come to find out",
+          "tip": "In writing, “only later did we…” emphasises that the information arrived unexpectedly."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines the ordinary words “come” and “find out.” Its precise first use is difficult to establish, but it developed as a conversational way of presenting a discovery.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Both “come” and “find out” were established English expressions."
+          },
+          {
+            "when": "20th century",
+            "text": "The wording emerged in conversational use for learning something after waiting or making assumptions."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in informal speech and in reports of surprising discoveries."
+          }
+        ]
+      },
+      "similar": [
+        "find out",
+        "discover",
+        "turn out"
+      ],
+      "opposite": "already know",
+      "pitfall": "It often highlights how the information was learned, so use “discover” when the process of finding out is not relevant."
+    },
+    {
+      "id": "computer-says-no",
+      "kind": "phrase",
+      "term": "computer says no",
+      "pos": "phrase",
+      "hint": "a system blocks or rejects something",
+      "register": "Common at work",
+      "meaning": "An automated system has rejected a request, application or payment for a technical or rule-based reason.",
+      "nuance": "Usually informal and mildly humorous, especially when the rejection comes from software rather than a person. It can also refer to an organisation’s system blocking access, funding or approval.",
+      "literal": "A computer displays a refusal or blocks an action.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Applying for leave · submitting a request",
+          "sentence": "I filled in the form correctly, but the computer says no.",
+          "highlight": "computer says no",
+          "tip": "Use it when describing a failed automated process, not to blame a colleague."
+        },
+        {
+          "setting": "social",
+          "where": "Buying concert tickets · online checkout",
+          "sentence": "The payment keeps failing because the computer says no.",
+          "highlight": "computer says no",
+          "tip": "It works well in casual conversation when something digital refuses to cooperate."
+        },
+        {
+          "setting": "writing",
+          "where": "Support email · reporting a technical problem",
+          "sentence": "The application was rejected because the computer says no, although all the details were correct.",
+          "highlight": "computer says no",
+          "tip": "For a formal email, name the error message and suggest a troubleshooting step."
+        }
+      ],
+      "origin": {
+        "summary": "Likely grew from the common experience of computers rejecting inputs or displaying automated refusal messages, before online systems made such responses especially familiar.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Computers began giving fixed responses when people entered invalid or blocked data."
+          },
+          {
+            "when": "Late 20th century",
+            "text": "Online forms, payments and automated decisions made system rejections routine."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase is widely used for any digital process that refuses to proceed."
+          }
+        ]
+      },
+      "similar": [
+        "the system won’t let me",
+        "access denied",
+        "the website rejected it"
+      ],
+      "opposite": "the computer says yes",
+      "pitfall": "It can sound dismissive if a real person is responsible for the decision, so specify whether the problem is with the software or the policy."
+    },
+    {
+      "id": "consider-it-done",
+      "kind": "phrase",
+      "term": "consider it done",
+      "pos": "phrase",
+      "hint": "a task is fully handled",
+      "register": "Common at work",
+      "meaning": "Used to say that a request or task has been completed successfully.",
+      "nuance": "It sounds confident and final, so it suits clear commitments. In less familiar or sensitive situations, a warmer explanation may be better.",
+      "literal": "Treat the requested task as finished and needing no further attention.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Closing a request · agreeing to deliver",
+          "sentence": "I’ll update the shared document this afternoon—consider it done.",
+          "highlight": "consider it done",
+          "tip": "Use it when the outcome is clear and you have full control of the task."
+        },
+        {
+          "setting": "social",
+          "where": "Helping a friend · confirming an errand",
+          "sentence": "I’ll pick up the cake on my way home; consider it done.",
+          "highlight": "consider it done",
+          "tip": "It adds confidence, but a simple “I will” may sound friendlier."
+        },
+        {
+          "setting": "writing",
+          "where": "Confirming arrangements · closing a message",
+          "sentence": "The venue is booked and the details are in the calendar, so consider it done.",
+          "highlight": "consider it done",
+          "tip": "Follow it with a brief detail if the reader may need confirmation."
+        }
+      ],
+      "origin": {
+        "summary": "The wording likely developed from ordinary service and business language, where a person was told to regard a matter as settled. Its exact first appearance is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The phrase emerged from conversational language about requests and completed business."
+          },
+          {
+            "when": "20th century",
+            "text": "It became established in everyday English, particularly in workplace and service settings."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common way to confirm that something has been handled."
+          }
+        ]
+      },
+      "similar": [
+        "that’s taken care of",
+        "all set",
+        "it’s sorted",
+        "you can count on it"
+      ],
+      "opposite": "still outstanding",
+      "pitfall": "Do not say it before the task is complete; it promises a final result rather than a future effort."
+    }
+  ]
+}

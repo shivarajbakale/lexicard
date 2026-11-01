@@ -1,0 +1,1751 @@
+{
+  "id": "words-thinking-reasoning-4",
+  "kind": "word",
+  "name": "Thinking & reasoning · 4",
+  "blurb": "25 words about thinking & reasoning",
+  "cards": [
+    {
+      "id": "irrelevant",
+      "kind": "word",
+      "term": "irrelevant",
+      "pos": "adjective",
+      "phonetic": "/ˌɪrəˈlɪvənt/",
+      "sayIt": "ir-uh-LIV-uhnt",
+      "register": "Common at work",
+      "meaning": "Not connected to the subject or issue being discussed.",
+      "nuance": "It can sound direct or dismissive, especially when used to end a discussion about something unimportant.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · clarifying priorities",
+          "sentence": "Let’s ignore the minor design details and focus on the features that affect this release.",
+          "highlight": "ignore",
+          "tip": "Try naming what is relevant instead of simply dismissing the other topic as irrelevant."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · changing the subject",
+          "sentence": "I realise the concert is irrelevant, but it’s the only free weekend we have.",
+          "highlight": "irrelevant",
+          "tip": "Useful when gently redirecting a conversation, though it may sound blunt."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · explaining a decision",
+          "sentence": "The server location is irrelevant because our security team will review the system before launch.",
+          "highlight": "irrelevant",
+          "tip": "A formal, clear way to say that something does not affect the outcome."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin irrelevans, meaning ‘not relevant’, formed from in-, ‘not’, and relevare, ‘to raise again’ or ‘to have a connection with’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Irrelevans develops from in-, ‘not’, and relevare, ‘to raise again’ or ‘to refer back to’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with the sense of ‘not relevant to the matter’."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for information, questions or issues that have no meaningful connection to the main subject."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "irrelevance",
+          "label": "noun"
+        },
+        {
+          "term": "irrelevantly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "unrelated",
+        "immaterial",
+        "tangential",
+        "beside the point"
+      ],
+      "opposite": "relevant",
+      "pitfall": "In everyday conversation, calling something irrelevant can sound rude; try ‘not directly relevant’ when you mean it may have only a small connection."
+    },
+    {
+      "id": "juxtapose",
+      "kind": "word",
+      "term": "juxtapose",
+      "pos": "verb",
+      "phonetic": "/ˌdʒʌkstəˈpoʊz/",
+      "sayIt": "JUK-stuh-POZE",
+      "register": "Formal",
+      "meaning": "To place two things close together so people can compare the contrast between them.",
+      "nuance": "It often suggests that the comparison reveals an interesting, revealing or unexpected difference. It is especially common in writing about art, ideas, culture and social issues.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Presentation · comparing customer groups",
+          "sentence": "Let’s juxtapose the feedback from first-time buyers with that from loyal customers to see where expectations differ.",
+          "highlight": "juxtapose",
+          "tip": "Use it when the contrast itself is important to your point."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · contrasting eras",
+          "sentence": "The exhibition juxtaposes modern city life with rural scenes from a century ago.",
+          "highlight": "juxtaposes",
+          "tip": "It can describe anything deliberately arranged to invite comparison."
+        },
+        {
+          "setting": "writing",
+          "where": "Essay · examining wealth and access",
+          "sentence": "The film juxtaposes an extravagant mansion with the crowded flat next door, making inequality feel immediate.",
+          "highlight": "juxtaposes",
+          "tip": "Strong in essays and reviews because it highlights a meaningful contrast."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin iuxtapositus, ‘placed near each other’, from iuxta, ‘near’, and positus, ‘placed’. English uses it for both the action and the resulting comparison.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root combines iuxta, ‘near’, with positus, ‘placed’ or ‘set down’."
+          },
+          {
+            "when": "1800s",
+            "text": "Juxtapose appears in English, initially in literary and art criticism."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely used to describe deliberate, revealing comparisons."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "juxtaposition",
+          "label": "noun"
+        },
+        {
+          "term": "juxtaposed",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "contrast",
+        "compare",
+        "place side by side",
+        "set against"
+      ],
+      "opposite": "separate",
+      "pitfall": "It means placing or treating things together for comparison, not merely occurring close together."
+    },
+    {
+      "id": "labyrinth",
+      "kind": "word",
+      "term": "labyrinth",
+      "pos": "noun",
+      "phonetic": "/ˈlæbərɪnθ/",
+      "sayIt": "LAB-uh-rinth",
+      "register": "Formal",
+      "meaning": "A complicated network of passages or a confusing situation full of twists, turns and difficulties.",
+      "nuance": "Often suggests that navigating the problem requires care, patience or special knowledge. Figurative uses are usually more sophisticated than simply saying something is confusing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · untangling approvals",
+          "sentence": "Our approval process became a labyrinth after three teams added separate review steps.",
+          "highlight": "labyrinth",
+          "tip": "Use it for systems or processes that are difficult to understand and navigate."
+        },
+        {
+          "setting": "social",
+          "where": "Walking tour · exploring old streets",
+          "sentence": "Finding the right restaurant in that old part of town was a labyrinth of narrow streets.",
+          "highlight": "labyrinth",
+          "tip": "A vivid image for winding routes and complicated urban layouts."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · introducing technical terms",
+          "sentence": "The report offers a labyrinth of acronyms, so I added a glossary for new readers.",
+          "highlight": "labyrinth",
+          "tip": "Works well when describing information that feels dense, indirect or hard to untangle."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from the Greek story of the labyrinth built by Daedalus for King Minos, where Theseus navigated with a thread to rescue the Minotaur.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greece",
+            "text": "Greek labyrinthos referred to the elaborate maze associated with Daedalus, Minos and the Minotaur."
+          },
+          {
+            "when": "Medieval Latin",
+            "text": "The word enters Latin as labyrinthus, retaining both the maze and its mythological associations."
+          },
+          {
+            "when": "1500s",
+            "text": "Labyrinth appears in English, initially referring to a physical maze and later to complicated situations."
+          },
+          {
+            "when": "Today",
+            "text": "It is used mainly for intricate structures, confusing systems and difficult situations."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "labyrinthine",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "maze",
+        "network",
+        "complexity",
+        "entanglement"
+      ],
+      "pitfall": "Do not confuse labyrinth with labyrinthine: labyrinth is a noun, while labyrinthine is an adjective."
+    },
+    {
+      "id": "latent",
+      "kind": "word",
+      "term": "latent",
+      "pos": "adjective",
+      "phonetic": "/ˈleɪtənt/",
+      "sayIt": "LAY-tuhnt",
+      "register": "Formal; common in academic and technical writing",
+      "meaning": "Existing in a hidden or undeveloped form, but not yet obvious or active.",
+      "nuance": "Often describes a risk, flaw, tendency or potential that has not fully appeared. It is useful when discussing what could emerge under certain conditions.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product review · hidden risks",
+          "sentence": "The release has a latent security risk that may become visible as more users join.",
+          "highlight": "latent",
+          "tip": "Use it for problems that are present but have not yet caused noticeable trouble."
+        },
+        {
+          "setting": "social",
+          "where": "Group conversation · changing opinions",
+          "sentence": "There was a latent disagreement, so we avoided discussing the trip plans too deeply.",
+          "highlight": "latent",
+          "tip": "It can suggest that a conflict or feeling is building beneath a calm surface."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · evaluating a proposal",
+          "sentence": "The report identifies a latent weakness in the system that could affect future growth.",
+          "highlight": "latent",
+          "tip": "Pairs well with weakness, risk, potential, flaw and tension in formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin latens, meaning ‘lying hidden’, a form of latere, ‘to lie concealed or be hidden’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Latens means ‘hidden’ or ‘concealed’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English, initially referring to something hidden or concealed."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes underlying qualities, risks, flaws or possibilities."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "latency",
+          "label": "noun"
+        },
+        {
+          "term": "latently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "hidden",
+        "dormant",
+        "underlying",
+        "potential",
+        "undeveloped"
+      ],
+      "opposite": "visible",
+      "pitfall": "Latent does not mean nonexistent; it means present in a hidden or not yet fully developed state."
+    },
+    {
+      "id": "leisurely",
+      "kind": "word",
+      "term": "leisurely",
+      "pos": "adjective",
+      "phonetic": "/ˈleʒəli/",
+      "sayIt": "LEZH-ur-lee",
+      "register": "Common at work",
+      "meaning": "Moving or doing something at an easy, relaxed pace rather than hurrying.",
+      "nuance": "It suggests unhurried calm, but can sometimes imply that something is taking longer than necessary.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning session · setting priorities",
+          "sentence": "We’ll review the routine reports on Monday so we can leave Friday for more leisurely planning.",
+          "highlight": "leisurely",
+          "tip": "Useful when contrasting essential tasks with work that deserves more time and thought."
+        },
+        {
+          "setting": "social",
+          "where": "Sunday brunch · catching up",
+          "sentence": "After brunch, we took a leisurely walk through the park and stopped for coffee when we felt like it.",
+          "highlight": "leisurely",
+          "tip": "It makes a relaxed activity sound especially calm and unrushed."
+        },
+        {
+          "setting": "writing",
+          "where": "Holiday email · explaining plans",
+          "sentence": "The schedule is designed for leisurely days, with plenty of time to explore the town on foot.",
+          "highlight": "leisurely",
+          "tip": "Often appears before pace, stroll, walk, meal or afternoon."
+        }
+      ],
+      "origin": {
+        "summary": "From leisure, meaning free time or recreation, with the -ly ending originally giving the sense ‘in a leisurely manner’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Leisure develops in English from Norman French leisier, meaning free or unhurried."
+          },
+          {
+            "when": "1500s",
+            "text": "The word leisurely begins appearing, initially meaning freely or without constraint."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes an unhurried pace or a relaxed approach to spending time."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "leisure",
+          "label": "noun"
+        },
+        {
+          "term": "leisurely",
+          "label": "adverb"
+        },
+        {
+          "term": "leisure",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "unhurried",
+        "relaxed",
+        "easy-going",
+        "gentle"
+      ],
+      "opposite": "hurried",
+      "pitfall": "Use it for an easy pace, not for someone who has a lot of free time; that idea is expressed by having plenty of leisure."
+    },
+    {
+      "id": "lucid",
+      "kind": "word",
+      "term": "lucid",
+      "pos": "adjective",
+      "phonetic": "/ˈluːsɪd/",
+      "sayIt": "LOO-sid",
+      "register": "Formal",
+      "meaning": "Clear and easy to understand, especially when explaining an idea or situation.",
+      "nuance": "It suggests both simple wording and sound thinking. It can also describe someone whose mind has become clear again.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · explaining a delay",
+          "sentence": "Could you give me a lucid explanation of why the system failed?",
+          "highlight": "lucid",
+          "tip": "Use it when you want clarity without sounding critical or complicated."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · recounting a confusing week",
+          "sentence": "Once she told the story in a lucid way, everything finally made sense.",
+          "highlight": "lucid",
+          "tip": "It sounds especially natural when describing an explanation or piece of writing."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · simplifying a technical issue",
+          "sentence": "The report offers a lucid overview of the main risks and recommended next steps.",
+          "highlight": "lucid",
+          "tip": "Pairs well with overview, explanation, account and account of something."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin lucidus, meaning bright or shining, from lucere, ‘to shine’. The word originally referred to light and later came to mean clear in thought or expression.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin lucidus means bright, shining or clear."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word begins to describe writing and ideas that are easy to follow."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used for clear explanations and clear thinking."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "lucidity",
+          "label": "noun"
+        },
+        {
+          "term": "lucidly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "clear",
+        "coherent",
+        "intelligible",
+        "straightforward"
+      ],
+      "opposite": "confusing",
+      "pitfall": "Lucid describes something understandable or clear-minded; lucid dreams belong to the world of sleep, not this meaning."
+    },
+    {
+      "id": "nebulous",
+      "kind": "word",
+      "term": "nebulous",
+      "pos": "adjective",
+      "phonetic": "/ˈnɛbjələs/",
+      "sayIt": "NEB-yuh-lus",
+      "register": "Formal",
+      "meaning": "Unclear or difficult to understand or define.",
+      "nuance": "It often suggests that an idea, plan or boundary is vague rather than simply unknown. It sounds more intellectual and less direct than saying something is confusing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · clarifying responsibilities",
+          "sentence": "Our role in the launch is still nebulous, so let’s agree who owns each task.",
+          "highlight": "nebulous",
+          "tip": "Useful when discussing an undefined role, responsibility or plan."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · describing distant memories",
+          "sentence": "My reasons for leaving are a bit nebulous, but I knew I needed a change.",
+          "highlight": "nebulous",
+          "tip": "Keep it conversational; in casual speech, “vague” may sound simpler."
+        },
+        {
+          "setting": "writing",
+          "where": "Proposal · explaining scope",
+          "sentence": "The proposal uses nebulous language about deliverables, which makes deadlines harder to understand.",
+          "highlight": "nebulous",
+          "tip": "A confident way to criticise wording that hides precise meaning."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin nebulosus, meaning “cloudy” or “full of mist,” which developed into the figurative sense of being unclear.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Nebulosus means “cloudy” or “misty” and is related to nebula, “cloud” or “nebula.”"
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in its literal sense of cloudy or misty."
+          },
+          {
+            "when": "1800s",
+            "text": "Its figurative use for vague or unclear ideas becomes established."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "nebulously",
+          "label": "adverb"
+        },
+        {
+          "term": "nebulosity",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "vague",
+        "hazy",
+        "obscure",
+        "ill-defined",
+        "indistinct"
+      ],
+      "opposite": "clear",
+      "pitfall": "Don’t confuse it with “nebular,” which relates to a nebula or has a misty appearance."
+    },
+    {
+      "id": "nominal",
+      "kind": "word",
+      "term": "nominal",
+      "pos": "adjective",
+      "phonetic": "/ˈnɒmɪnəl/",
+      "sayIt": "NOM-i-nuhl",
+      "register": "Formal; common at work",
+      "meaning": "Existing in name or as a label, but without a real amount, power, or effect matching that name.",
+      "nuance": "It can describe an officially recognized role with little real authority, or a stated figure used mainly as a reference. It may sound neutral, but it can also imply that something is token or mostly symbolic.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · clarifying authority",
+          "sentence": "She is the nominal project lead, although the team actually reports to the product director.",
+          "highlight": "nominal",
+          "tip": "Use it when someone has a title or formal role without much practical authority."
+        },
+        {
+          "setting": "social",
+          "where": "Group event · choosing a host",
+          "sentence": "Our neighbour was the nominal organiser, but his brother handled all the arrangements.",
+          "highlight": "nominal",
+          "tip": "It can suggest that someone is connected with an event or group only in name."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · explaining a small budget",
+          "sentence": "The maintenance budget is nominal and does not cover the cost of major repairs.",
+          "highlight": "nominal",
+          "tip": "In technical writing, it may describe a stated figure that is fixed in name rather than reflecting the real amount."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin nominalis, meaning ‘of or relating to a name’, which comes from nomen, ‘name’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Nominalis develops from nomen, ‘name’, with senses connected with names or titles."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English and is used for names, titles and stated amounts."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means existing in name or as a label rather than in substance."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "nominally",
+          "label": "adverb"
+        },
+        {
+          "term": "nominal",
+          "label": "noun (grammar)"
+        }
+      ],
+      "similar": [
+        "titular",
+        "token",
+        "notional",
+        "symbolic"
+      ],
+      "opposite": "actual",
+      "pitfall": "Nominal does not always mean completely non-existent; it can also identify a fixed or reference amount."
+    },
+    {
+      "id": "nuanced",
+      "kind": "word",
+      "term": "nuanced",
+      "pos": "adjective",
+      "phonetic": "/ˈnuːɑːnst/",
+      "sayIt": "NOO-ahnst",
+      "register": "Common at work",
+      "meaning": "Showing subtle differences in meaning, feeling, or detail rather than treating something as all-or-nothing.",
+      "nuance": "It suggests careful attention to complications and shades of meaning. It is often complimentary in professional contexts, but can sound vague if the point is not explained.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · reviewing feedback",
+          "sentence": "Her nuanced feedback acknowledged the strengths of the proposal while identifying the risks involved.",
+          "highlight": "nuanced",
+          "tip": "Use it when you want to show that you understand more than one side or layer."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · describing a situation",
+          "sentence": "It was a nuanced situation: some friends wanted to stay, while others needed an early night.",
+          "highlight": "nuanced",
+          "tip": "It works well when a situation has several complications rather than one clear answer."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · summarising public opinion",
+          "sentence": "The report offers a nuanced view of the debate instead of presenting both sides as equally extreme.",
+          "highlight": "nuanced",
+          "tip": "It is useful for analysis and criticism, where accuracy and balance matter."
+        }
+      ],
+      "origin": {
+        "summary": "The word developed from “nuance,” which came through French from a word meaning “shadow.” The suffix “-ed” later made “nuanced” an adjective.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "18th century",
+            "text": "“Nuance” enters English, originally referring to subtle differences in expression or meaning."
+          },
+          {
+            "when": "19th century",
+            "text": "“Nuanced” develops as an adjective meaning marked by subtle distinctions."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly used to describe careful, detailed, and balanced understanding."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "nuance",
+          "label": "noun"
+        },
+        {
+          "term": "nuanced",
+          "label": "adjective"
+        },
+        {
+          "term": "nuancedly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "subtle",
+        "nuanced",
+        "delicate",
+        "fine-grained",
+        "qualified"
+      ],
+      "opposite": "blunt",
+      "pitfall": "Don’t use it for something merely detailed; “nuanced” specifically implies subtle differences and layered meaning."
+    },
+    {
+      "id": "obviate",
+      "kind": "word",
+      "term": "obviate",
+      "pos": "verb",
+      "phonetic": "/əbˈviːeɪt/",
+      "sayIt": "uhb-VEE-ayt",
+      "register": "Formal",
+      "meaning": "To remove a difficulty, problem, or reason for concern before it affects something.",
+      "nuance": "Common in professional and legal writing, especially with words such as concern, risk and difficulty. It implies removing the obstacle rather than merely explaining it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · preparing for launch",
+          "sentence": "A short trial period will obviate most of the risk involved in changing the process.",
+          "highlight": "obviate",
+          "tip": "Use it when a practical step removes a potential problem."
+        },
+        {
+          "setting": "social",
+          "where": "Planning dinner · discussing seating",
+          "sentence": "Bringing extra chairs will obviate any difficulty if more people arrive than expected.",
+          "highlight": "obviate",
+          "tip": "It can sound slightly formal, so it suits planning discussions better than casual chat."
+        },
+        {
+          "setting": "writing",
+          "where": "Proposal · introducing a safety measure",
+          "sentence": "Regular checks obviate the need for lengthy explanations of how the system protects sensitive information.",
+          "highlight": "obviate",
+          "tip": "It often replaces phrases such as ‘make unnecessary’ or ‘remove the need for’."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin obviatus, meaning ‘made plain’ or ‘freed from difficulty’, based on obvius, meaning ‘plain’ or ‘easy to understand’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root obvius meant ‘plain’, ‘clear’ or ‘easy to meet’."
+          },
+          {
+            "when": "1500s",
+            "text": "The English word appears in the sense of removing difficulty or making something unnecessary."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal contexts to describe preventing a problem."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "obvious",
+          "label": "adjective"
+        },
+        {
+          "term": "obviously",
+          "label": "adverb"
+        },
+        {
+          "term": "obviation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "eliminate",
+        "remove",
+        "prevent",
+        "preclude",
+        "avert"
+      ],
+      "opposite": "create",
+      "pitfall": "Do not confuse it with obvious: an obvious answer is easy to understand, while something that obviates a problem removes that problem."
+    },
+    {
+      "id": "panacea",
+      "kind": "word",
+      "term": "panacea",
+      "pos": "noun",
+      "phonetic": "/ˌpænəˈsiːə/",
+      "sayIt": "PAN-uh-SEE-uh",
+      "register": "Formal",
+      "meaning": "A solution or remedy intended to fix a problem completely.",
+      "nuance": "Often suggests an idea or treatment that is presented as a cure for many difficulties at once. In everyday conversation, it can be used skeptically when no single solution is likely to work.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · solving several problems",
+          "sentence": "Our shared dashboard is not a panacea, but it could make some of these bottlenecks easier to track.",
+          "highlight": "panacea",
+          "tip": "Use it when referring to a proposed solution that sounds too simple for a complicated problem."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation about wellbeing · trying one habit",
+          "sentence": "Walking every day helped her mood, though nobody would call it a panacea for stress.",
+          "highlight": "panacea",
+          "tip": "It often adds a slightly ironic or doubtful tone to comments about supposed quick fixes."
+        },
+        {
+          "setting": "writing",
+          "where": "Proposal · introducing a new process",
+          "sentence": "The new workflow may reduce delays, but it should not be described as a panacea for every team problem.",
+          "highlight": "panacea",
+          "tip": "Common in formal writing about policies, products, treatments and proposed solutions."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek panakeia, ‘all remedy’, associated with Panacea, the goddess of universal healing. It entered English through Latin and French.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "Panakeia meant ‘all remedy’ and was linked with Panacea, a goddess associated with healing."
+          },
+          {
+            "when": "Ancient Rome",
+            "text": "The word appears in Latin as panacea, meaning a remedy for all diseases or troubles."
+          },
+          {
+            "when": "1500s",
+            "text": "It entered English, initially referring to a universal medicine or remedy."
+          },
+          {
+            "when": "Today",
+            "text": "It usually means a proposed solution claimed to solve many problems at once."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "panacean",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "cure-all",
+        "elixir",
+        "universal remedy",
+        "one-stop solution"
+      ],
+      "opposite": "workaround",
+      "pitfall": "Don’t use it for a remedy that simply fixes one specific problem; a panacea implies a broad or supposedly complete solution."
+    },
+    {
+      "id": "paradox",
+      "kind": "word",
+      "term": "paradox",
+      "pos": "noun",
+      "phonetic": "/ˈpærədɒks/",
+      "sayIt": "PAR-uh-doks",
+      "register": "Common at work",
+      "meaning": "A statement or situation that seems self-contradictory but may reveal a deeper truth.",
+      "nuance": "A paradox makes you reconsider an assumption or see a situation from an unexpected angle. It is not simply a confusing contradiction; it often contains two ideas that appear incompatible yet are connected.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · evaluating feedback",
+          "sentence": "The paradox is that giving customers more choice sometimes makes the decision harder.",
+          "highlight": "paradox",
+          "tip": "Use it when two apparently conflicting ideas reveal a more interesting truth."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · explaining a life change",
+          "sentence": "It sounds like a paradox, but leaving a successful job made me feel freer and more secure.",
+          "highlight": "paradox",
+          "tip": "A useful phrase for introducing a surprising but convincing truth."
+        },
+        {
+          "setting": "writing",
+          "where": "Essay · discussing success",
+          "sentence": "The central paradox is that people often become more focused when they have fewer options.",
+          "highlight": "paradox",
+          "tip": "Works well in essays and presentations when you want to signal a deeper insight."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek paradoxos, meaning ‘contrary to expectation’, built from para- ‘against’ and dokein ‘seem’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Paradoxos referred to an opinion or statement that seemed contrary to common belief."
+          },
+          {
+            "when": "1500s",
+            "text": "The word entered English through Latin and French in discussions of logic and rhetoric."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for a striking contradiction that points toward a deeper truth."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "paradoxical",
+          "label": "adjective"
+        },
+        {
+          "term": "paradoxically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "irony",
+        "contradiction",
+        "inconsistency",
+        "puzzle"
+      ],
+      "opposite": "consistency",
+      "pitfall": "Don’t use it for any confusing situation; a paradox specifically involves two ideas that seem to conflict but may reveal a deeper truth."
+    },
+    {
+      "id": "penchant",
+      "kind": "word",
+      "term": "penchant",
+      "pos": "noun",
+      "phonetic": "/ˈpɒntʃɑːnt/",
+      "sayIt": "PON-chuhnt",
+      "register": "Formal",
+      "meaning": "A strong liking or natural preference for something.",
+      "nuance": "It suggests an inclination that is easy to recognise and may shape someone’s choices. It is more elegant than “preference” and often appears in writing or professional conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Hiring discussion · choosing a candidate",
+          "sentence": "Her background gives her a penchant for solving technical problems quickly.",
+          "highlight": "penchant",
+          "tip": "Use it for a noticeable tendency rather than a single choice."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · describing a friend",
+          "sentence": "He has a penchant for introducing people he meets at parties.",
+          "highlight": "penchant",
+          "tip": "A slightly playful way to describe a habit or preference."
+        },
+        {
+          "setting": "writing",
+          "where": "Profile description · explaining a writing style",
+          "sentence": "The novel’s penchant for dark humour makes its serious moments feel unexpectedly light.",
+          "highlight": "penchant",
+          "tip": "Often used with “for” followed by a noun or gerund."
+        }
+      ],
+      "origin": {
+        "summary": "From French penchant, originally meaning a leaning or tendency, and related to the idea of bending toward something.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "French",
+            "text": "The word developed from meanings connected with leaning or inclining toward something."
+          },
+          {
+            "when": "1600s–1700s",
+            "text": "It began appearing in English, initially referring to a natural leaning or preference."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for a strong, recognisable taste or inclination."
+          }
+        ]
+      },
+      "similar": [
+        "inclination",
+        "preference",
+        "leaning",
+        "tendency"
+      ],
+      "pitfall": "The stress is on the first syllable: PENchant, not penCHANT. It is a noun, so avoid phrases like “a penchant of.”"
+    },
+    {
+      "id": "perceive",
+      "kind": "word",
+      "term": "perceive",
+      "pos": "verb",
+      "phonetic": "/pərˈsiːv/",
+      "sayIt": "per-SEEVE",
+      "register": "Everyday",
+      "meaning": "To become aware of something or form an opinion about the way things are.",
+      "nuance": "It can mean simply noticing something, but it often suggests interpreting what you notice. The word does not guarantee that your interpretation is correct.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · understanding feedback",
+          "sentence": "I perceive a gap between what customers request and what our team can realistically deliver this quarter.",
+          "highlight": "perceive",
+          "tip": "Use it when describing your interpretation of a situation."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · noticing a change",
+          "sentence": "Did you perceive the tension between them when the subject of money came up?",
+          "highlight": "perceive",
+          "tip": "It sounds more thoughtful than simply saying ‘notice’."
+        },
+        {
+          "setting": "writing",
+          "where": "Research summary · presenting findings",
+          "sentence": "Participants perceived the new process as faster, although the measured improvement was small.",
+          "highlight": "perceived",
+          "tip": "This is useful when describing how people experience something without stating that they are objectively right."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin percipere, meaning ‘to take in, seize or understand’, which entered English through Old French.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "The Latin root percipere combines per-, meaning ‘through’, with capere, meaning ‘take’ or ‘seize’."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word appears in English with senses connected with taking in, understanding and becoming aware."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used for noticing, recognizing or interpreting."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "perception",
+          "label": "noun"
+        },
+        {
+          "term": "perceptive",
+          "label": "adjective"
+        },
+        {
+          "term": "perceptibly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "notice",
+        "sense",
+        "interpret",
+        "detect",
+        "recognize"
+      ],
+      "opposite": "misperceive",
+      "pitfall": "Perceive describes how someone understands or experiences something; it does not prove that this interpretation is accurate."
+    },
+    {
+      "id": "perceptive",
+      "kind": "word",
+      "term": "perceptive",
+      "pos": "adjective",
+      "phonetic": "/pərˈseptɪv/",
+      "sayIt": "per-SEP-tiv",
+      "register": "Common at work",
+      "meaning": "Quick to notice and understand what people say, how they feel, or what a situation means.",
+      "nuance": "Often a compliment for showing good judgement or emotional insight. It can also describe someone who notices details others may overlook.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team review · reading user feedback",
+          "sentence": "Maya was perceptive enough to notice that customers were struggling with the setup process.",
+          "highlight": "perceptive",
+          "tip": "Use it for someone who understands both the words and the concern behind them."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation with a friend",
+          "sentence": "You’re very perceptive; I hadn’t realised how uncomfortable that situation made me.",
+          "highlight": "perceptive",
+          "tip": "This sounds warm and sincere when you praise someone’s understanding of people."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · describing a colleague",
+          "sentence": "Jordan offered a perceptive analysis of why the project had stalled.",
+          "highlight": "perceptive",
+          "tip": "It pairs naturally with comments, analysis, questions and observations."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin percipere, meaning ‘to perceive or grasp’, which comes from per- ‘through’ and capere ‘to take’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Percipere combines per- ‘through’ with capere ‘to take’, giving the idea of taking in something."
+          },
+          {
+            "when": "1500s",
+            "text": "The Latin root develops English forms including perception and perceptive."
+          },
+          {
+            "when": "Today",
+            "text": "Perceptive describes people, comments and analysis that show insight into a situation."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "perception",
+          "label": "noun"
+        },
+        {
+          "term": "perceptiveness",
+          "label": "noun"
+        },
+        {
+          "term": "perceptively",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "insightful",
+        "observant",
+        "discerning",
+        "attentive"
+      ],
+      "opposite": "oblivious",
+      "pitfall": "Don’t confuse it with perceptive in the sense of physically able to perceive; it usually praises insight or awareness."
+    },
+    {
+      "id": "perspicacious",
+      "kind": "word",
+      "term": "perspicacious",
+      "pos": "adjective",
+      "phonetic": "/ˌpɜːrspɪˈkeɪʃəs/",
+      "sayIt": "pur-SPI-KAY-shuss",
+      "register": "Formal; admired at work",
+      "meaning": "Having sharp insight and a quick, clear understanding of what is happening.",
+      "nuance": "This is a complimentary word for someone who notices important details and sees through confusion or deception. It sounds intelligent and perceptive rather than merely clever.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Strategy meeting · reading the market",
+          "sentence": "The perspicacious product manager quickly spotted why customers were abandoning the signup process.",
+          "highlight": "perspicacious",
+          "tip": "Use it to praise someone’s analytical insight or sound judgement."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · discussing motives",
+          "sentence": "My perspicacious friend realised that the invitation was intended to be a sales pitch.",
+          "highlight": "perspicacious",
+          "tip": "It works well for someone who understands subtle clues and hidden motives."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · judging an analysis",
+          "sentence": "Her perspicacious analysis identified the underlying problem before anyone else did.",
+          "highlight": "perspicacious",
+          "tip": "Pair it with analysis, assessment, judgement or review for a polished, formal tone."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin perspicax, meaning ‘able to see through’, related to perspicere, ‘to look through or examine closely’. The word entered English with the sense of having keen perception.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Perspicax develops from perspicere: per- ‘through’ and specere ‘to look’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word begins appearing in English for keen perception and clear-sighted judgement."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly a formal compliment for perceptive and insightful people."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "perspicacity",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "astute",
+        "shrewd",
+        "perceptive",
+        "discerning"
+      ],
+      "opposite": "obtuse",
+      "pitfall": "Do not confuse it with perspicuous, which means clear and easy to understand."
+    },
+    {
+      "id": "pertinent",
+      "kind": "word",
+      "term": "pertinent",
+      "pos": "adjective",
+      "phonetic": "/ˈpɜːrtnənt/",
+      "sayIt": "PUR-tin-unt",
+      "register": "Formal",
+      "meaning": "Directly connected to the subject or issue being discussed.",
+      "nuance": "It sounds clear, thoughtful and professional, especially when pointing out information that matters. It can also sound slightly stern if used to dismiss an unrelated question.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · clarifying a proposal",
+          "sentence": "That is a pertinent question, because the budget changes what we can realistically deliver.",
+          "highlight": "pertinent",
+          "tip": "Use it to show that a comment or question has a clear bearing on the matter."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · changing the subject",
+          "sentence": "You raise a pertinent point, but let’s leave the details for after we eat.",
+          "highlight": "pertinent",
+          "tip": "It works well when you want to acknowledge someone’s comment without continuing the discussion."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · assessing feedback",
+          "sentence": "The review includes only those comments that are pertinent to the main findings.",
+          "highlight": "pertinent",
+          "tip": "Pairs naturally with question, point, issue, detail and observation."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin pertinax, meaning ‘holding fast’ or ‘persistent’, through French pertinent, which developed the sense of ‘connected to the matter at hand’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Pertinax develops from roots connected with holding or clinging firmly."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English with meanings connected with being relevant or applicable."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used for information, questions or remarks that relate directly to a subject."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "pertinently",
+          "label": "adverb"
+        },
+        {
+          "term": "pertinence",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "relevant",
+        "germane",
+        "applicable",
+        "related"
+      ],
+      "opposite": "irrelevant",
+      "pitfall": "Pertinent means directly connected to the topic; relevant is broader and is more common in everyday speech."
+    },
+    {
+      "id": "peruse",
+      "kind": "word",
+      "term": "peruse",
+      "pos": "verb",
+      "phonetic": "/pəˈruːz/",
+      "sayIt": "puh-ROOZ",
+      "register": "Formal",
+      "meaning": "To read or examine something carefully, usually in order to understand or assess it.",
+      "nuance": "This sounds deliberate and thorough, often suggesting that you will notice details. It is especially common in professional writing and speech.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Contract review · checking a proposal",
+          "sentence": "Legal will peruse the agreement before we send it to the client.",
+          "highlight": "peruse",
+          "tip": "Use it when careful reading is expected, not merely a quick look."
+        },
+        {
+          "setting": "social",
+          "where": "Restaurant · choosing dinner",
+          "sentence": "Let me peruse the menu before we order.",
+          "highlight": "peruse",
+          "tip": "It adds a slightly formal, humorous touch to an ordinary moment."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · requesting feedback",
+          "sentence": "Please peruse the attached report and send any questions by Friday.",
+          "highlight": "peruse",
+          "tip": "A polished alternative to saying “look at” or “read.”"
+        }
+      ],
+      "origin": {
+        "summary": "Peruse comes from Latin perusere, originally meaning to use up or wear out, and later developed the sense of examining thoroughly.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Perusere combined the prefix per- with utere, “to use,” and originally meant to use up or consume."
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered English and came to mean examining or reading carefully."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "perusal",
+          "label": "noun"
+        },
+        {
+          "term": "perusable",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "examine",
+        "review",
+        "read",
+        "inspect",
+        "study"
+      ],
+      "opposite": "skim",
+      "pitfall": "Peruse suggests careful attention, so it does not mean merely glance at or skim something."
+    },
+    {
+      "id": "phenomenon",
+      "kind": "word",
+      "term": "phenomenon",
+      "pos": "noun",
+      "phonetic": "/fəˈnɒmənən/",
+      "sayIt": "fih-NOM-uh-non",
+      "register": "Common in academic and formal writing",
+      "meaning": "A fact, event or experience that can be observed and studied.",
+      "nuance": "Often used for something unusual, striking or scientifically important. In everyday speech, it can also mean an odd person or situation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team presentation · discussing customer behaviour",
+          "sentence": "The sudden increase in cancellations was a phenomenon the support team had not seen before.",
+          "highlight": "phenomenon",
+          "tip": "Use it when you want to name a noticeable pattern without explaining every detail."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · describing an unusual sight",
+          "sentence": "The fish glowing under the water was an incredible phenomenon.",
+          "highlight": "phenomenon",
+          "tip": "In casual conversation, this can add emphasis to something strange or fascinating."
+        },
+        {
+          "setting": "writing",
+          "where": "Research summary · reporting results",
+          "sentence": "Researchers observed a seasonal phenomenon that had not previously been documented.",
+          "highlight": "phenomenon",
+          "tip": "Common in academic writing, often followed by a phrase that identifies the phenomenon more precisely."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek phainomenon, meaning something that appears or is observed. It reached English through Latin and French.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Phainomenon comes from phainesthai, ‘to appear’, and originally referred to an appearance."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "Entered English through scholarly and scientific usage."
+          },
+          {
+            "when": "Today",
+            "text": "Means an observable fact or event, especially one that is unusual or studied closely."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "phenomenal",
+          "label": "adjective"
+        },
+        {
+          "term": "phenomenally",
+          "label": "adverb"
+        },
+        {
+          "term": "phenomenology",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "occurrence",
+        "event",
+        "episodic",
+        "observation"
+      ],
+      "opposite": "non-event",
+      "pitfall": "The usual plural is phenomena, pronounced fəˈnɒmɪnə. Another accepted plural is phenomenons, but phenomena is standard in academic writing."
+    },
+    {
+      "id": "ponder",
+      "kind": "word",
+      "term": "ponder",
+      "pos": "verb",
+      "phonetic": "/ˈpɒndər/",
+      "sayIt": "PON-der",
+      "register": "Common at work",
+      "meaning": "To think about something carefully and for some time.",
+      "nuance": "It suggests thoughtful, serious consideration rather than a quick opinion. It can sound formal, so it is especially useful in professional discussion or writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · evaluating an offer",
+          "sentence": "We should ponder the proposal for a day before giving the client an answer.",
+          "highlight": "ponder",
+          "tip": "Use it when you want to signal that a decision deserves more thought."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · choosing a trip",
+          "sentence": "Let’s ponder it while we look at the weather, then decide whether to stay home.",
+          "highlight": "ponder",
+          "tip": "It sounds slightly formal, but it can add a thoughtful tone to conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · assessing possible risks",
+          "sentence": "The committee was asked to ponder the long-term effects of moving the service online.",
+          "highlight": "ponder",
+          "tip": "Common in formal writing when discussing a question, proposal or consequence."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin ponderare, ‘to weigh’, based on pondus, meaning ‘weight’. The idea was to consider a matter by weighing it mentally.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Ponderare means ‘to weigh’, and pondus means ‘weight’."
+          },
+          {
+            "when": "1400s",
+            "text": "The word enters English with the sense of weighing or carefully considering."
+          },
+          {
+            "when": "Today",
+            "text": "It means to think deeply or seriously about something."
+          }
+        ]
+      },
+      "similar": [
+        "consider",
+        "reflect on",
+        "mull over",
+        "deliberate on"
+      ],
+      "opposite": "ignore",
+      "pitfall": "Do not confuse ponder with ponderous, which usually means heavy or slow-moving."
+    },
+    {
+      "id": "preclude",
+      "kind": "word",
+      "term": "preclude",
+      "pos": "verb",
+      "phonetic": "/prɪˈkluːd/",
+      "sayIt": "pri-KLOOD",
+      "register": "Formal",
+      "meaning": "To prevent something from happening or make it impossible.",
+      "nuance": "Sounds decisive and authoritative, often in legal, academic or formal business contexts. It is stronger than simply suggesting that something is unlikely.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · scheduling conflict",
+          "sentence": "The existing maintenance window precludes us from deploying the update before Friday.",
+          "highlight": "precludes",
+          "tip": "Use it when an external constraint makes an option impossible, not merely difficult."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner plans · changing the date",
+          "sentence": "Her work trip precludes accepting our invitation to the coast this weekend.",
+          "highlight": "precludes",
+          "tip": "This sounds more formal than “means I can’t” and can fit a clear explanation of why a plan cannot go ahead."
+        },
+        {
+          "setting": "writing",
+          "where": "Contract review · limiting liability",
+          "sentence": "The clause precludes former employees from sharing certain confidential information.",
+          "highlight": "precludes",
+          "tip": "Useful in legal and policy writing when you need to state that something is not permitted."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin praeccludere: prae, ‘before’, and claudere, ‘to close’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Praeccludere combines ‘before’ with ‘close’, originally suggesting shutting something off in advance."
+          },
+          {
+            "when": "1500s",
+            "text": "Enters English and develops the sense of preventing or ruling out."
+          },
+          {
+            "when": "Today",
+            "text": "Common in formal and legal writing for making something impossible."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "preclusion",
+          "label": "noun"
+        },
+        {
+          "term": "preclusive",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "prevent",
+        "rule out",
+        "obviate",
+        "exclude"
+      ],
+      "opposite": "permit",
+      "pitfall": "This is formal, and it often takes the pattern “preclude something” or “preclude someone from doing something.”"
+    },
+    {
+      "id": "premise",
+      "kind": "word",
+      "term": "premise",
+      "pos": "noun",
+      "phonetic": "/ˈprɛmɪs/",
+      "sayIt": "PRE-miss",
+      "register": "Formal",
+      "meaning": "A statement or idea that an argument, discussion or plan is based on.",
+      "nuance": "A premise supports a conclusion and may need to be proved or accepted before the reasoning can be judged. The word often suggests that the underlying idea may be questionable.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · testing a proposal",
+          "sentence": "Our proposal rests on the premise that customers will pay for faster delivery.",
+          "highlight": "premise",
+          "tip": "Use it to identify the assumption beneath a business proposal."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · challenging a claim",
+          "sentence": "I accept your premise, but I don’t agree with the conclusion you draw from it.",
+          "highlight": "premise",
+          "tip": "It sounds thoughtful but slightly formal, so it suits careful debate."
+        },
+        {
+          "setting": "writing",
+          "where": "Research report · introducing an argument",
+          "sentence": "The report begins with the premise that remote work improves productivity for most employees.",
+          "highlight": "premise",
+          "tip": "Common in essays, reports and academic writing when introducing the basis of an argument."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin praemissa, meaning a statement put forward, through Middle French prémisse. It originally referred to something offered or stated before a formal argument.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Praemissa meant a proposition or statement placed before a matter for consideration."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English through French as prémisse, initially used in legal and philosophical writing."
+          },
+          {
+            "when": "Today",
+            "text": "It means the underlying statement on which an argument, plan or discussion depends."
+          }
+        ]
+      },
+      "similar": [
+        "assumption",
+        "proposition",
+        "foundation",
+        "starting point"
+      ],
+      "pitfall": "A premise supports a conclusion; it is not the conclusion itself. Also, premises with several parts take the plural form premises."
+    },
+    {
+      "id": "prescient",
+      "kind": "word",
+      "term": "prescient",
+      "pos": "adjective",
+      "phonetic": "/ˈprɛʃənt/",
+      "sayIt": "PRESH-uhnt",
+      "register": "Formal",
+      "meaning": "Having an accurate impression of what will happen in the future.",
+      "nuance": "It suggests insight based on careful thought or observation, rather than simple guesswork. It often sounds admiring when describing a person or decision.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product review · forecasting demand",
+          "sentence": "Her prescient analysis of customer behaviour helped us avoid months of wasted development.",
+          "highlight": "prescient",
+          "tip": "Use it for insight that later proves correct, especially when discussing planning or judgement."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · explaining a career choice",
+          "sentence": "He was prescient when he warned us that the restaurant would become too popular to book easily.",
+          "highlight": "prescient",
+          "tip": "It fits naturally when someone foresaw an outcome before it happened."
+        },
+        {
+          "setting": "writing",
+          "where": "Retrospective article · assessing a decision",
+          "sentence": "The warning sounded prescient in hindsight, but at the time it had little support.",
+          "highlight": "prescient",
+          "tip": "Use it to show that a prediction was not merely lucky after the event."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin praesciens, meaning ‘foreseeing’, based on praescīre, ‘to know beforehand’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Praesciens, ‘foreseeing’, comes from praescīre, ‘to know or see in advance’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with meanings connected with foresight and prophecy."
+          },
+          {
+            "when": "Today",
+            "text": "It describes insight into future events, often with hindsight confirming the judgement."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "prescience",
+          "label": "noun"
+        },
+        {
+          "term": "presciently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "prophetic",
+        "perceptive",
+        "visionary",
+        "far-sighted"
+      ],
+      "opposite": "short-sighted",
+      "pitfall": "Prescient describes foresight of what may happen; it does not simply mean good at predicting numbers or outcomes."
+    },
+    {
+      "id": "profound",
+      "kind": "word",
+      "term": "profound",
+      "pos": "adjective",
+      "phonetic": "/prəˈfaʊnd/",
+      "sayIt": "pruh-FOUND",
+      "register": "Formal",
+      "meaning": "Showing deep thought, strong feeling, or a significance that goes beyond the ordinary.",
+      "nuance": "It describes something that is intellectually deep, emotionally intense, or far-reaching in effect. It is often used for ideas, experiences and changes, but can sound overly dramatic in casual conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Strategy meeting · reviewing customer research",
+          "sentence": "The interviews produced a profound insight: customers value speed more than extra features.",
+          "highlight": "profound",
+          "tip": "Use it for an insight or change that has deep, lasting significance."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · reflecting on a shared experience",
+          "sentence": "That trip had a profound effect on me; I returned home with a completely different view of my career.",
+          "highlight": "profound",
+          "tip": "It suits personal reflection, especially when the impact feels deep and lasting."
+        },
+        {
+          "setting": "writing",
+          "where": "Book review · evaluating a novel",
+          "sentence": "Her questions about identity and belonging give the novel a profound emotional depth.",
+          "highlight": "profound",
+          "tip": "Pair it with ideas, questions, insights or emotional depth in formal criticism."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin profundus, meaning ‘deep’, originally describing a depth that could be measured. English later extended the word to ideas, feelings and effects.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Profundus means ‘deep’, from fundus, meaning ‘bottom’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with meanings connected with depth."
+          },
+          {
+            "when": "1800s onward",
+            "text": "Its use broadens to describe deep thoughts, strong feelings and far-reaching effects."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "profoundly",
+          "label": "adverb"
+        },
+        {
+          "term": "profundity",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "deep",
+        "far-reaching",
+        "significant",
+        "thoughtful",
+        "intense"
+      ],
+      "opposite": "superficial",
+      "pitfall": "Don’t use profound simply to mean very large or extreme; it suggests depth, importance or strong impact."
+    },
+    {
+      "id": "prognosticate",
+      "kind": "word",
+      "term": "prognosticate",
+      "pos": "verb",
+      "phonetic": "/prəɡˈnɒstɪkeɪt/",
+      "sayIt": "pruh-GNOS-ti-kayt",
+      "register": "Formal",
+      "meaning": "To predict what will happen by interpreting existing signs or information.",
+      "nuance": "The word sounds authoritative and slightly old-fashioned. It can also suggest that someone is making a confident prediction without enough evidence.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · assessing a project",
+          "sentence": "The analysts prognosticate a difficult second half, given the delays and rising costs.",
+          "highlight": "prognosticate",
+          "tip": "Use it for predictions based on available evidence, especially in formal reports."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · discussing a sports season",
+          "sentence": "Friends often prognosticate the result before a match, then blame the referee.",
+          "highlight": "prognosticate",
+          "tip": "It adds a humorous, formal tone when describing casual predictions."
+        },
+        {
+          "setting": "writing",
+          "where": "Market report · economic outlook",
+          "sentence": "The report warns that economists are prognosticating a gradual recovery.",
+          "highlight": "prognosticating",
+          "tip": "The present participle works naturally before a noun such as recovery, decline or result."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek prognōstikos, meaning ‘able to foretell’, based on gignōskein, ‘to know’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "The roots combine ‘before’ and ‘know’, supporting the sense of knowing or predicting in advance."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in the sense of predicting or forecasting."
+          },
+          {
+            "when": "Today",
+            "text": "It remains formal and often implies prediction from signs or evidence."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "prognosis",
+          "label": "noun"
+        },
+        {
+          "term": "prognostic",
+          "label": "adjective"
+        },
+        {
+          "term": "prognostication",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "predict",
+        "forecast",
+        "foretell",
+        "augur"
+      ],
+      "pitfall": "Do not confuse it with diagnose, which means to identify a medical condition."
+    }
+  ]
+}

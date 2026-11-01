@@ -1,0 +1,1502 @@
+{
+  "id": "words-size-amount-degree-3",
+  "kind": "word",
+  "name": "Size, amount & degree · 3",
+  "blurb": "22 words about size, amount & degree",
+  "cards": [
+    {
+      "id": "potent",
+      "kind": "word",
+      "term": "potent",
+      "pos": "adjective",
+      "phonetic": "/ˈpoʊtənt/",
+      "sayIt": "POH-tuhnt",
+      "register": "Common at work",
+      "meaning": "Having a strong effect or power, especially a medicine, drink, force, or combination of things.",
+      "nuance": "It can describe anything that produces a powerful effect. In medicine, it may simply mean strong, while in other contexts it can suggest unusual strength or influence.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · choosing a campaign",
+          "sentence": "The agency offered a potent mix of bold ideas and careful research.",
+          "highlight": "potent",
+          "tip": "Often describes a striking or unusually effective combination."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · trying a new drink",
+          "sentence": "That coffee was potent; I was wide awake after one cup.",
+          "highlight": "potent",
+          "tip": "Common for strong drinks, medicines, or spices with a powerful effect."
+        },
+        {
+          "setting": "writing",
+          "where": "Essay · making a case",
+          "sentence": "Her examples were potent because they turned an abstract issue into something memorable.",
+          "highlight": "potent",
+          "tip": "Pairs naturally with images, examples, arguments, forces and combinations."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin potens, meaning powerful or able, related to potere, meaning to be able or have power.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Potens means powerful or able and develops from potere, to have power or be able."
+          },
+          {
+            "when": "1400s",
+            "text": "Potent appears in English in senses connected with power and strength."
+          },
+          {
+            "when": "Today",
+            "text": "It describes powerful medicines, drinks, forces, combinations and persuasive examples."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "potency",
+          "label": "noun"
+        },
+        {
+          "term": "potently",
+          "label": "adverb"
+        },
+        {
+          "term": "potential",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "powerful",
+        "strong",
+        "effective",
+        "intense"
+      ],
+      "opposite": "weak",
+      "pitfall": "Don’t confuse potent with potential: a potent effect is already powerful, while potential means the possibility of becoming powerful."
+    },
+    {
+      "id": "prodigious",
+      "kind": "word",
+      "term": "prodigious",
+      "pos": "adjective",
+      "phonetic": "/prəˈdɪdʒəs/",
+      "sayIt": "pruh-DIDJ-us",
+      "register": "Formal, but also used in everyday speech",
+      "meaning": "Exceptionally large in amount, impressive in scale, or showing remarkable ability.",
+      "nuance": "The word suggests something stands far above what is ordinary. It can describe enormous quantities, rapid progress, or a person with exceptional talent, but it often carries a note of admiration.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · reporting results",
+          "sentence": "The team made prodigious progress after simplifying the approval process.",
+          "highlight": "prodigious",
+          "tip": "Use it for progress or results that are far more impressive than expected."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · describing a child",
+          "sentence": "Their youngest child has a prodigious memory for song lyrics.",
+          "highlight": "prodigious",
+          "tip": "It can warmly praise an exceptional talent, though it may sound slightly old-fashioned."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · summarising growth",
+          "sentence": "Revenue showed a prodigious increase following the launch of the new service.",
+          "highlight": "prodigious",
+          "tip": "It fits formal reports and essays when you want to emphasise dramatic scale."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin prodigiosus, meaning ‘marvellous’ or ‘monstrous’, based on prodigium, a sign or portent that seems impossible.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Prodigious develops from prodigium, meaning ‘a portent or extraordinary event’, and prodigiosus, meaning ‘marvellous’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with senses connected with wonders, extraordinary size and monstrous qualities."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes exceptional scale, achievement or ability."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "prodigiously",
+          "label": "adverb"
+        },
+        {
+          "term": "prodigy",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "immense",
+        "enormous",
+        "remarkable",
+        "exceptional",
+        "vast"
+      ],
+      "opposite": "modest",
+      "pitfall": "Don’t use it merely for anything large; it suggests a scale or achievement that is unusually impressive."
+    },
+    {
+      "id": "profuse",
+      "kind": "word",
+      "term": "profuse",
+      "pos": "adjective",
+      "phonetic": "/prəˈfjuːs/",
+      "sayIt": "pro-FYOOS",
+      "register": "Formal",
+      "meaning": "Present in a large or excessive amount.",
+      "nuance": "It can sound complimentary when describing generous quantities, but critical when the amount is unnecessary or out of control.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team presentation · reviewing customer feedback",
+          "sentence": "The research team offered profuse praise, but gave us very little evidence for the proposed changes.",
+          "highlight": "profuse",
+          "tip": "Often criticises praise or apologies that seem excessive rather than sincere."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception · giving a speech",
+          "sentence": "There were profuse apologies for the delayed speeches, but the evening was warm and generous.",
+          "highlight": "profuse",
+          "tip": "Natural for praise, apologies, flowers or other things produced in abundance."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing a formal event",
+          "sentence": "The ceremony was marked by profuse displays of gratitude and affection.",
+          "highlight": "profuse",
+          "tip": "Sounds polished in essays and reports; use abundant or plentiful for a less formal tone."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin profusus, meaning ‘poured forth freely’, which developed from profundere, ‘to pour out’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Profusus originally described something poured out freely or in large quantities."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in senses connected with abundance and excess."
+          },
+          {
+            "when": "Today",
+            "text": "It means existing in large or excessive amounts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "profusion",
+          "label": "noun"
+        },
+        {
+          "term": "profusely",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "abundant",
+        "copious",
+        "lavish",
+        "excessive"
+      ],
+      "opposite": "sparse",
+      "pitfall": "Profuse is often mildly critical: a profuse amount of praise may sound exaggerated, while abundant can be more neutral."
+    },
+    {
+      "id": "proximity",
+      "kind": "word",
+      "term": "proximity",
+      "pos": "noun",
+      "phonetic": "/prɒkˈsɪməti/",
+      "sayIt": "prok-SIM-ih-tee",
+      "register": "Common at work",
+      "meaning": "The degree to which something is near or close to another person, place, or event in space or time.",
+      "nuance": "It often emphasizes how close something is, especially when distance affects convenience, safety, or relationships. It can sound more formal than “closeness,” particularly in workplace or technical contexts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office planning · choosing a meeting room",
+          "sentence": "The proximity of the meeting room to the main office made it a convenient choice.",
+          "highlight": "proximity",
+          "tip": "Use it when the exact distance is less important than how close or convenient something is."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · discussing where someone lives",
+          "sentence": "She enjoys the proximity of the park, the shops, and the train station.",
+          "highlight": "proximity",
+          "tip": "A slightly formal alternative to “how close” or “nearby.”"
+        },
+        {
+          "setting": "writing",
+          "where": "Location report · evaluating a property",
+          "sentence": "The property’s proximity to public transport is one of its main advantages.",
+          "highlight": "proximity",
+          "tip": "Common in property, planning, and business writing when describing access to nearby places."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin proximitas, meaning nearness, which was based on proximus, the nearest or closest.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Proximitas develops from proximus, meaning nearest or closest."
+          },
+          {
+            "when": "Medieval period",
+            "text": "The word enters Middle English in the sense of nearness."
+          },
+          {
+            "when": "Today",
+            "text": "It describes closeness in space, time, or relationship and is common in formal contexts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "proximate",
+          "label": "adjective"
+        },
+        {
+          "term": "proximal",
+          "label": "adjective"
+        },
+        {
+          "term": "approximation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "closeness",
+        "nearness",
+        "adjacency",
+        "proximity"
+      ],
+      "opposite": "distance",
+      "pitfall": "Don’t confuse it with “approximate,” which means close to an exact value but not exact. “In close proximity to” is also redundant in many contexts."
+    },
+    {
+      "id": "puny",
+      "kind": "word",
+      "term": "puny",
+      "pos": "adjective",
+      "phonetic": "/ˈpjuːni/",
+      "sayIt": "POO-nee",
+      "register": "Everyday",
+      "meaning": "So small, weak, or insignificant that it has little effect or value.",
+      "nuance": "The word often expresses impatient dismissal, although it can simply describe something physically or numerically small. It sounds harsher than “small” and more judgemental than “minor.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget review · assessing a proposal",
+          "sentence": "The team had a puny budget and no realistic chance of finishing the project on time.",
+          "highlight": "puny",
+          "tip": "Use it when a limited amount of money, time, or support is clearly inadequate."
+        },
+        {
+          "setting": "social",
+          "where": "Lunch with friends · comparing meals",
+          "sentence": "That was a puny portion for someone who had just run five miles.",
+          "highlight": "puny",
+          "tip": "It sounds informal and slightly teasing, so keep it among people you know well."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · explaining results",
+          "sentence": "A puny increase in sales did little to offset the falling subscription numbers.",
+          "highlight": "puny",
+          "tip": "Use it in analysis when the result is not only small but too weak to matter much."
+        }
+      ],
+      "origin": {
+        "summary": "From French puny, meaning small or insignificant, which was connected to Latin puniceus, a term associated with Carthage.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin puniceus referred to Carthage or the Carthaginians."
+          },
+          {
+            "when": "1500s",
+            "text": "French develops puny in the sense of small, inferior, or insignificant."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English and becomes established as a general adjective."
+          }
+        ]
+      },
+      "similar": [
+        "meagre",
+        "feeble",
+        "insignificant",
+        "paltry",
+        "tiny"
+      ],
+      "opposite": "substantial",
+      "pitfall": "Do not use “puny” merely to say that something is physically small; it suggests that the size makes it weak, inadequate, or unworthy of attention."
+    },
+    {
+      "id": "rampant",
+      "kind": "word",
+      "term": "rampant",
+      "pos": "adjective",
+      "phonetic": "/ˈræmpənt/",
+      "sayIt": "RAM-puhnt",
+      "register": "Common in formal and descriptive writing",
+      "meaning": "Spreading or occurring in a way that is uncontrolled and difficult to stop.",
+      "nuance": "Usually critical: it suggests that a problem has grown far beyond reasonable limits. It can also describe vigorous growth or activity, but that use is less common.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · priorities multiplying",
+          "sentence": "Rampant scope creep left the team with three priorities and no clear deadline.",
+          "highlight": "Rampant",
+          "tip": "Use it to describe a negative trend that has become seriously uncontrolled."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · unexpected news",
+          "sentence": "Rumours were rampant after my sister changed her job without telling anyone.",
+          "highlight": "rampant",
+          "tip": "A natural choice for gossip, rumours or other problems spreading quickly."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · analysing a social problem",
+          "sentence": "The article examines the rampant spread of misinformation during an election.",
+          "highlight": "rampant",
+          "tip": "Often appears before a noun such as spread, growth or misinformation."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French rampant, originally describing a creature rearing up on its hind legs and later developing the sense of being violent or unchecked.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1300s",
+            "text": "The Old French word appears, including in heraldic descriptions of animals rearing up on their hind legs."
+          },
+          {
+            "when": "1400s",
+            "text": "English adopts it for wild, violent or aggressive behaviour."
+          },
+          {
+            "when": "1700s",
+            "text": "It broadens to describe anything growing or spreading without restraint."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "rampantly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "unchecked",
+        "widespread",
+        "flagrant",
+        "pervasive",
+        "uncontrolled"
+      ],
+      "opposite": "controlled",
+      "pitfall": "It normally has a negative tone, so don’t use it for healthy growth or enthusiastic activity without clear context."
+    },
+    {
+      "id": "realm",
+      "kind": "word",
+      "term": "realm",
+      "pos": "noun",
+      "phonetic": "/rɛlm/",
+      "sayIt": "RELM",
+      "register": "Common in formal writing",
+      "meaning": "A particular area of activity, knowledge, experience, or authority.",
+      "nuance": "Often suggests a distinct world or field that someone enters or works in. It can sound formal, especially in phrases such as “beyond the realm of possibility.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team briefing · entering a new market",
+          "sentence": "The company is entering the realm of sustainable packaging with this new product line.",
+          "highlight": "realm",
+          "tip": "Use it when you are describing a new area of business or expertise."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · trying a new hobby",
+          "sentence": "I never thought I’d venture into the realm of baking, but my sourdough starter is thriving.",
+          "highlight": "realm",
+          "tip": "A slightly playful way to describe an unfamiliar activity or social world."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal email · setting boundaries",
+          "sentence": "Changing the payment terms falls outside the realm of my authority, so please contact the finance director.",
+          "highlight": "realm",
+          "tip": "Pair it with “of” to identify the field or limit being discussed."
+        }
+      ],
+      "origin": {
+        "summary": "Realm comes through Old French from Latin regnum, meaning “kingdom” or “rule.” Its original sense was a kingdom, but it later developed the broader meaning of an area or domain.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Regnum means “kingdom,” “rule,” or “dominion.”"
+          },
+          {
+            "when": "Old French",
+            "text": "The word reaume enters French with the sense “kingdom.”"
+          },
+          {
+            "when": "Late Middle English",
+            "text": "Realm first appears in English with the meaning “kingdom.”"
+          },
+          {
+            "when": "Today",
+            "text": "It is also widely used for an area of activity, knowledge, or authority."
+          }
+        ]
+      },
+      "similar": [
+        "domain",
+        "sphere",
+        "field",
+        "territory",
+        "kingdom"
+      ],
+      "opposite": "outside",
+      "pitfall": "A realm is not limited to physical territory; it usually means a field, experience, or area of authority."
+    },
+    {
+      "id": "replenish",
+      "kind": "word",
+      "term": "replenish",
+      "pos": "verb",
+      "phonetic": "/rɪˈplenɪʃ/",
+      "sayIt": "re-PLEE-nish",
+      "register": "Common at work",
+      "meaning": "To fill something again or restore supplies that have been used up.",
+      "nuance": "Often used for stock, shelves, accounts, or energy levels. It suggests making something available again rather than replacing it completely.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Inventory check · restocking supplies",
+          "sentence": "Please replenish the coffee and paper before the afternoon shift arrives.",
+          "highlight": "replenish",
+          "tip": "Common when stock, materials, or shared supplies need topping up."
+        },
+        {
+          "setting": "social",
+          "where": "At a gathering · preparing for guests",
+          "sentence": "We need to replenish the snacks before more people arrive.",
+          "highlight": "replenish",
+          "tip": "Natural for food, drinks, and other items that have been consumed."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · describing finances or resources",
+          "sentence": "The team replenished its reserves after a busy quarter.",
+          "highlight": "replenished",
+          "tip": "Use the past form for an event and the present form for an ongoing need."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin replenescere, meaning ‘to fill again’, built from re-, ‘again’, and plere, ‘to fill’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Replenescere forms from re-, ‘again’, and plere, ‘to fill’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English and is used for filling supplies or restoring what has been used."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in practical contexts involving stock, funds, reserves, and supplies."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "replenished",
+          "label": "past tense and past participle"
+        },
+        {
+          "term": "replenishing",
+          "label": "present participle"
+        },
+        {
+          "term": "replenishment",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "refill",
+        "restock",
+        "re-supply",
+        "restore"
+      ],
+      "opposite": "deplete",
+      "pitfall": "Replenish means to fill or restock what is already there; it does not usually mean to replace an entire object."
+    },
+    {
+      "id": "replete",
+      "kind": "word",
+      "term": "replete",
+      "pos": "adjective",
+      "phonetic": "/rɪˈpliːt/",
+      "sayIt": "ri-PLEET",
+      "register": "Formal",
+      "meaning": "Full of something, especially a quality, feature or supply of something.",
+      "nuance": "This sounds polished and slightly literary rather than everyday. It is often used with “with” and can suggest that something is richly filled or richly detailed.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client presentation · explaining a proposal",
+          "sentence": "Her proposal was replete with practical examples, so the client immediately saw the value.",
+          "highlight": "replete",
+          "tip": "Use it when you want to emphasise that a proposal, report or plan contains many useful elements."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception · describing the tables",
+          "sentence": "The dining tables were replete with flowers, candles and carefully chosen seasonal food.",
+          "highlight": "replete",
+          "tip": "It adds an elegant, descriptive tone to a scene that is full of abundance."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · reviewing findings",
+          "sentence": "The report is replete with evidence that the new training programme improved productivity.",
+          "highlight": "replete",
+          "tip": "A useful alternative to “full of” when you want a more formal, polished style."
+        }
+      ],
+      "origin": {
+        "summary": "From the Latin repletus, meaning “filled,” which came from replere, “to fill.” The word entered English in the 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Repletus meant “filled” and was based on replere, “to fill.”"
+          },
+          {
+            "when": "1600s",
+            "text": "The word began appearing in English, initially in formal and literary writing."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal contexts, especially in the pattern “replete with.”"
+          }
+        ]
+      },
+      "similar": [
+        "full",
+        "brimming",
+        "overflowing",
+        "abundant"
+      ],
+      "opposite": "lacking",
+      "pitfall": "Do not confuse it with “replicate,” which means to reproduce something or occur more than once."
+    },
+    {
+      "id": "rife",
+      "kind": "word",
+      "term": "rife",
+      "pos": "adjective",
+      "phonetic": "/raɪf/",
+      "sayIt": "RYFE",
+      "register": "Common in formal writing; slightly formal in speech",
+      "meaning": "Present in large numbers or found in great abundance, often to the point of being excessive.",
+      "nuance": "Usually has a negative tone, especially when describing problems, rumours or mistakes. It can also mean widely common, but the sense of “full of” is much more familiar.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · discussing recurring errors",
+          "sentence": "Rumours about the layoffs were rife after the announcement, so the team asked for clear guidance.",
+          "highlight": "rife",
+          "tip": "Use it for rumours, problems or mistakes that seem to be happening everywhere."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · exaggerating a busy week",
+          "sentence": "Traffic was rife across the city, so our journey took twice as long as expected.",
+          "highlight": "rife",
+          "tip": "In conversation, “rife with” often sounds more natural when describing something filled with problems."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · summarising widespread confusion",
+          "sentence": "The report notes that misinformation was rife online before the correct figures were published.",
+          "highlight": "rife",
+          "tip": "It adds a formal, slightly forceful tone to statements about widespread problems."
+        }
+      ],
+      "origin": {
+        "summary": "The word probably comes from Old Norse and originally meant “to tear”; its modern sense developed through the idea of something being torn or spreading everywhere.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Old Norse",
+            "text": "Its ancestor was connected with the sense “to tear” or “break apart”."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word appeared in English with meanings connected with tearing and being widespread."
+          },
+          {
+            "when": "Early modern English",
+            "text": "It settled into its familiar sense of being common or present in abundance."
+          },
+          {
+            "when": "Today",
+            "text": "It is especially common in the phrase “rife with” and often describes problems or rumours."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "rife with",
+          "label": "phrase"
+        }
+      ],
+      "similar": [
+        "prevalent",
+        "widespread",
+        "common",
+        "pervasive",
+        "full of"
+      ],
+      "opposite": "rare",
+      "pitfall": "Don’t confuse “rife” with “ripe”: “rife” means common or abundant, while “ripe” usually means ready to eat or fully developed."
+    },
+    {
+      "id": "saturate",
+      "kind": "word",
+      "term": "saturate",
+      "pos": "verb",
+      "phonetic": "/ˈsætʃəreɪt/",
+      "sayIt": "SAT-uh-rayt",
+      "register": "Common in formal and technical writing",
+      "meaning": "To fill something completely with liquid or make it hold as much as it can.",
+      "nuance": "It can also mean to overwhelm people, a market or a message with too much of something. The figurative use often suggests excess.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch planning · choosing channels",
+          "sentence": "We can’t saturate every channel with launch messages and still expect people to notice them.",
+          "highlight": "saturate",
+          "tip": "Use the figurative sense when the amount of communication becomes excessive."
+        },
+        {
+          "setting": "social",
+          "where": "After heavy rain · planning a picnic",
+          "sentence": "The lawn is saturated after all that rain, so we should skip the picnic.",
+          "highlight": "saturated",
+          "tip": "Here it means completely soaked and unable to absorb much more water."
+        },
+        {
+          "setting": "writing",
+          "where": "Proposal review · reducing detail",
+          "sentence": "Avoid saturating the proposal with every possible metric and lead with the three that matter.",
+          "highlight": "saturating",
+          "tip": "It sounds blunt, so use it when you want to criticise an overloaded document."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin saturare, meaning ‘to fill to capacity’, connected with satur, meaning ‘sated’ or ‘filled’. English borrowed the word in the 1500s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "saturare means ‘to fill to capacity or make sated’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with meanings involving filling something or making someone sated."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for soaking, filling to capacity and overwhelming with too much."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "saturated",
+          "label": "adjective"
+        },
+        {
+          "term": "saturation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "soak",
+        "fill",
+        "flood",
+        "imbue"
+      ],
+      "opposite": "drain",
+      "pitfall": "In business, saturated often means that a market has little room for growth; it does not simply mean very busy."
+    },
+    {
+      "id": "singular",
+      "kind": "word",
+      "term": "singular",
+      "pos": "adjective",
+      "phonetic": "/ˈsɪŋɡjələr/",
+      "sayIt": "SING-gyuh-ler",
+      "register": "Common in writing and formal speech",
+      "meaning": "Existing as one thing rather than several, or so unusual that it stands out.",
+      "nuance": "It can mean a single, individual focus, especially for something that should be shared or divided. In formal contexts, it can also mean remarkable or exceptional.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · setting priorities",
+          "sentence": "The project needs a singular goal, not five competing priorities.",
+          "highlight": "singular",
+          "tip": "Use this when concentrating attention on one clear objective."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · complimenting a host",
+          "sentence": "She has a singular talent for making strangers feel welcome.",
+          "highlight": "singular",
+          "tip": "This polished use means exceptionally noticeable or impressive."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing an author’s influence",
+          "sentence": "The novel presents a singular vision of life in a small coastal town.",
+          "highlight": "singular",
+          "tip": "Pair it with vision, style, focus or purpose for an elevated tone."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin singulus, meaning single or individual, through Old French singulier.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "The root singulus meant one apiece, single or individual."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English through French in the sense of single or individual."
+          },
+          {
+            "when": "1600s–1700s",
+            "text": "It develops the related sense of exceptional, unusual or standing apart."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "singularly",
+          "label": "adverb"
+        },
+        {
+          "term": "singularity",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "unique",
+        "individual",
+        "exceptional",
+        "singled-out"
+      ],
+      "opposite": "plural",
+      "pitfall": "Don’t use singular merely to mean one; in everyday speech, a single item may sound more natural."
+    },
+    {
+      "id": "spate",
+      "kind": "word",
+      "term": "spate",
+      "pos": "noun",
+      "phonetic": "/speɪt/",
+      "sayIt": "SPAYT",
+      "register": "Common in formal and professional English",
+      "meaning": "A large number of similar things happening or arriving over a short period of time.",
+      "nuance": "It often suggests an overwhelming amount, especially of complaints, requests, changes or other events. The phrase “a spate of” is the usual pattern.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · handling customer feedback",
+          "sentence": "We’ve had a spate of requests for dark mode, so it’s worth adding to the next development cycle.",
+          "highlight": "spate",
+          "tip": "Use it when several similar items arrive faster than the team can manage them."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · discussing shared plans",
+          "sentence": "After the announcement, there was a spate of messages asking everyone for their availability.",
+          "highlight": "spate",
+          "tip": "It sounds slightly formal, but it can add emphasis to a busy or crowded moment."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to colleagues · reporting recent incidents",
+          "sentence": "The office has experienced a spate of minor break-ins, although no valuable items were taken.",
+          "highlight": "spate",
+          "tip": "It works well in reports and news writing to show a sudden cluster of events."
+        }
+      ],
+      "origin": {
+        "summary": "The word probably began as a word for a sudden flow or flood of water and later developed its modern sense of a large number of similar things.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Middle English",
+            "text": "It first appeared in English with meanings connected with a torrent or rushing flow."
+          },
+          {
+            "when": "1500s–1800s",
+            "text": "The sense broadened to include a sudden large amount of anything arriving together."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in the pattern “a spate of” for complaints, incidents, requests or similar events."
+          }
+        ]
+      },
+      "similar": [
+        "surge",
+        "wave",
+        "flood",
+        "burst"
+      ],
+      "opposite": "trickle",
+      "pitfall": "Usually use it with “a” and “of,” as in “a spate of complaints,” rather than saying someone “did a spate.”"
+    },
+    {
+      "id": "sumptuous",
+      "kind": "word",
+      "term": "sumptuous",
+      "pos": "adjective",
+      "phonetic": "/ˈsʌmptʃuəs/",
+      "sayIt": "SUM-choo-us",
+      "register": "Formal",
+      "meaning": "Extremely rich, expensive, and luxurious in appearance or quality.",
+      "nuance": "Often describes food, rooms, clothing, or celebrations that look exceptionally lavish. It can sound admiring, but sometimes suggests extravagance.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client dinner · choosing a venue",
+          "sentence": "The client loved the sumptuous dining room, although it felt slightly too formal for our team.",
+          "highlight": "sumptuous",
+          "tip": "Use it for impressive settings, but consider whether the tone suits the occasion."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception · admiring the décor",
+          "sentence": "We were welcomed into a sumptuous hall filled with flowers, candlelight, and gold-trimmed chairs.",
+          "highlight": "sumptuous",
+          "tip": "It paints a vivid picture of luxury and works especially well with food, décor, and furnishings."
+        },
+        {
+          "setting": "writing",
+          "where": "Hotel review · describing a stay",
+          "sentence": "Our suite was sumptuous, with velvet curtains, a marble bathroom, and a panoramic view of the river.",
+          "highlight": "sumptuous",
+          "tip": "Pair it with rich materials, elaborate food, or spacious surroundings to make the description vivid."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin sumptuosus, meaning expensive or luxurious, based on sumptus, meaning expense or expenditure.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Sumptuosus describes something costly, extravagant, or luxurious."
+          },
+          {
+            "when": "Late Middle English",
+            "text": "The word enters English with meanings connected with expense and luxury."
+          },
+          {
+            "when": "Today",
+            "text": "It chiefly describes something richly luxurious or visually impressive."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "sumptuously",
+          "label": "adverb"
+        },
+        {
+          "term": "sumptuousness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "opulent",
+        "lavish",
+        "luxurious",
+        "sumptuous-looking"
+      ],
+      "opposite": "austere",
+      "pitfall": "Do not use it for anything merely comfortable or attractive; it suggests exceptional luxury."
+    },
+    {
+      "id": "superfluous",
+      "kind": "word",
+      "term": "superfluous",
+      "pos": "adjective",
+      "phonetic": "/suːˈpɜːrfluəs/",
+      "sayIt": "soo-PER-floo-us",
+      "register": "Formal",
+      "meaning": "Unnecessary, especially because there is already more than enough.",
+      "nuance": "It can sound precise and mildly critical, so use it when extra detail or resources add little value.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Presentation review · trimming slides",
+          "sentence": "The final chart is superfluous because the key figures are already highlighted in the table.",
+          "highlight": "superfluous",
+          "tip": "Use it for something that can be removed without losing value."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · bringing gifts",
+          "sentence": "Would you mind if we left the extra wine at home? It would be superfluous with all that food.",
+          "highlight": "superfluous",
+          "tip": "It is more natural in prepared or formal speech than casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · editing a proposal",
+          "sentence": "We removed the third appendix because its technical detail was superfluous for this audience.",
+          "highlight": "superfluous",
+          "tip": "Useful in professional writing when you want to justify cutting unnecessary material."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin superfluus, meaning ‘overflowing’ or ‘excessive’, formed from super- ‘over’ and fluere ‘to flow’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Superfluus develops from super- ‘over’ and fluere ‘to flow’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with meanings connected with excess or overflow."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for anything unnecessary because there is already enough."
+          }
+        ]
+      },
+      "similar": [
+        "unnecessary",
+        "redundant",
+        "excess",
+        "surplus"
+      ],
+      "opposite": "necessary",
+      "pitfall": "It is more formal than ‘not needed’ and can sound critical, so avoid using it about people’s choices without tact."
+    },
+    {
+      "id": "surge",
+      "kind": "word",
+      "term": "surge",
+      "pos": "noun and verb",
+      "phonetic": "/sɜːrdʒ/",
+      "sayIt": "SURJ",
+      "register": "Common at work",
+      "meaning": "A sudden, sharp increase or movement in amount, activity, emotion, or price.",
+      "nuance": "A surge is stronger and faster than a normal rise, often with a feeling of urgency or intensity. As a verb, it describes a sudden increase or upward movement.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Sales meeting · reviewing demand",
+          "sentence": "We saw a surge in online orders after the product appeared in a short video.",
+          "highlight": "surge",
+          "tip": "Use it for a sudden rise that is noticeable or difficult to handle."
+        },
+        {
+          "setting": "social",
+          "where": "Crowded party · unexpected arrival",
+          "sentence": "A surge of excitement passed through the room when the host announced the surprise party.",
+          "highlight": "surge",
+          "tip": "A surge of emotion is a common and vivid expression."
+        },
+        {
+          "setting": "writing",
+          "where": "Market report · describing web traffic",
+          "sentence": "The website experienced a surge in traffic on Monday, followed by a gradual decline.",
+          "highlight": "surge",
+          "tip": "It suits reports that need to emphasize a brief, sharp rise."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Latin surgere, meaning ‘to rise’, and entered Middle English through Old French.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin surgere, ‘to rise’, provides the root for the word."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "Middle English borrows surge from Old French, referring to an upward movement or swelling."
+          },
+          {
+            "when": "1600s onward",
+            "text": "The meaning broadens to include sudden increases in quantity, activity, emotion, or price."
+          },
+          {
+            "when": "Today",
+            "text": "Surge commonly describes a rapid, noticeable rise or upward movement."
+          }
+        ]
+      },
+      "similar": [
+        "soar",
+        "spike",
+        "jump",
+        "swell"
+      ],
+      "opposite": "decline",
+      "pitfall": "A surge is more sudden and forceful than a simple increase, so it may not suit a gradual rise."
+    },
+    {
+      "id": "trivial",
+      "kind": "word",
+      "term": "trivial",
+      "pos": "adjective",
+      "phonetic": "/ˈtrɪvi.əl/",
+      "sayIt": "TRIV-ee-ul",
+      "register": "Everyday",
+      "meaning": "Of little importance, difficulty or significance.",
+      "nuance": "It can describe a small practical matter, but often suggests that something is too easy to deserve serious attention.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project meeting · separating priorities",
+          "sentence": "The formatting issue is trivial compared with the deadline we’re facing.",
+          "highlight": "trivial",
+          "tip": "Use it to put a problem into perspective without making it sound too insignificant."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · discussing a shared problem",
+          "sentence": "It seemed trivial at first, but the delay affected everyone.",
+          "highlight": "trivial",
+          "tip": "Useful when you’re reconsidering something that initially looked unimportant."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · requesting focused feedback",
+          "sentence": "I’ve left out the trivial details so we can focus on the main decision.",
+          "highlight": "trivial",
+          "tip": "Common in formal writing when explaining what has been omitted or prioritised."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin trivialis, meaning ‘commonplace’, originally related to the trivium, the meeting place of three roads and later the simplest part of medieval logic.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin antiquity",
+            "text": "Trivialis develops from trivium, meaning ‘crossroads’ or ‘meeting place of three ways’."
+          },
+          {
+            "when": "Medieval period",
+            "text": "The trivium becomes the simplest branch of the seven liberal arts, associated with ordinary or elementary learning."
+          },
+          {
+            "when": "1500s onward",
+            "text": "The word enters English and gradually shifts toward meaning ‘of little importance’."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "triviality",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "unimportant",
+        "insignificant",
+        "minor",
+        "petty",
+        "trifling"
+      ],
+      "opposite": "significant",
+      "pitfall": "Don’t use it for anything you simply dislike; it focuses on importance or difficulty, not personal preference."
+    },
+    {
+      "id": "unabated",
+      "kind": "word",
+      "term": "unabated",
+      "pos": "adjective",
+      "phonetic": "/ˌʌnəˈbeɪtɪd/",
+      "sayIt": "un-uh-BAY-tid",
+      "register": "Formal",
+      "meaning": "Continuing at full strength without weakening or slowing down.",
+      "nuance": "It suggests that an activity, pressure or feeling remains intense. Use it when the force or pace has not diminished despite time, effort or obstacles.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project update · discussing delays",
+          "sentence": "Customer interest remained unabated even after the launch was delayed by two weeks.",
+          "highlight": "unabated",
+          "tip": "Use it to describe sustained demand, pressure or effort."
+        },
+        {
+          "setting": "social",
+          "where": "Football match · talking about the final minutes",
+          "sentence": "The home side’s enthusiasm was unabated, and they kept singing until everyone had left.",
+          "highlight": "unabated",
+          "tip": "It can describe strong feelings that continue without fading."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · describing storm damage",
+          "sentence": "The storm continued unabated overnight, leaving several roads closed across the region.",
+          "highlight": "unabated",
+          "tip": "Common in formal reporting about storms, conflict, pressure or activity."
+        }
+      ],
+      "origin": {
+        "summary": "Formed in English from the prefix un-, meaning ‘not’, and abate, meaning ‘to lessen or bring down’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1400s",
+            "text": "Abate appears in English with the sense of ‘to lower, weaken or bring down’."
+          },
+          {
+            "when": "1600s",
+            "text": "Unabated begins to be used for something that is not reduced in force."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes continuing intensity, pressure or activity."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "unabatedly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "sustained",
+        "undiminished",
+        "relentless",
+        "unrelenting"
+      ],
+      "opposite": "abated",
+      "pitfall": "Unabated describes something that continues at full strength; it does not simply mean ‘unchanged’."
+    },
+    {
+      "id": "universal",
+      "kind": "word",
+      "term": "universal",
+      "pos": "adjective",
+      "phonetic": "/ˌjuːnɪˈvɜːrsəl/",
+      "sayIt": "yoo-nih-VER-suhl",
+      "register": "Common at work and in writing",
+      "meaning": "Applying to everyone or every part of a particular group or situation.",
+      "nuance": "It suggests broad relevance or applicability. It can also mean something works in all countries, cultures or contexts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company policy · introducing a benefit",
+          "sentence": "The new wellbeing allowance is available to all employees on a universal basis.",
+          "highlight": "universal",
+          "tip": "Use it to show that a rule or offer applies across an entire workforce."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · discussing shared interests",
+          "sentence": "Music has a universal appeal, even when the words and instruments change from place to place.",
+          "highlight": "universal",
+          "tip": "Common before words such as appeal, truth, concern and experience."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · comparing regional differences",
+          "sentence": "The survey found that access to clean water remains a universal concern across every region studied.",
+          "highlight": "universal",
+          "tip": "Use it for an issue or principle that is relevant everywhere, not just locally."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin universalis, meaning ‘of or concerning the whole universe’, formed from universus, ‘all or the whole’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Universalis develops from universus, meaning ‘the whole’ or ‘all collectively’."
+          },
+          {
+            "when": "1400s",
+            "text": "The word enters Middle English in scholarly and legal writing."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for things that apply to everyone, everywhere or across an entire group."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "universally",
+          "label": "adverb"
+        },
+        {
+          "term": "universality",
+          "label": "noun"
+        },
+        {
+          "term": "universe",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "general",
+        "global",
+        "universal",
+        "widespread",
+        "all-encompassing"
+      ],
+      "opposite": "particular",
+      "pitfall": "Don’t confuse universal with unanimous: unanimous means everyone agrees, while universal means something applies to everyone."
+    },
+    {
+      "id": "unmitigated",
+      "kind": "word",
+      "term": "unmitigated",
+      "pos": "adjective",
+      "phonetic": "/ʌnˈmɪtɪɡeɪtɪd/",
+      "sayIt": "un-MIT-ih-gay-ted",
+      "register": "Formal",
+      "meaning": "Completely without anything that makes a bad situation less serious or easier to bear.",
+      "nuance": "This is a strong, formal word used for disasters, failures and problems that receive no relief at all. It can sound blunt or exaggerated, so it is best reserved for genuinely severe situations.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · reporting a failure",
+          "sentence": "The system outage was an unmitigated disaster for the support team.",
+          "highlight": "unmitigated",
+          "tip": "Use it when there is no practical way to reduce the damage."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · describing a disastrous trip",
+          "sentence": "Rain, lost luggage and a flat tyre made the journey an unmitigated nightmare.",
+          "highlight": "unmitigated",
+          "tip": "It adds emphasis, but may sound more dramatic than the story warrants."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · explaining severe damage",
+          "sentence": "The flood caused unmitigated damage to several small businesses in the town.",
+          "highlight": "unmitigated",
+          "tip": "It fits formal reports when the harm was total and no relief was provided."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin mitigare, ‘to make milder’, with the English prefix un- added to express the opposite.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Mitigare means ‘to make milder or less severe’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word mitigate enters English in the sense of reducing severity or hardship."
+          },
+          {
+            "when": "1800s",
+            "text": "Unmitigated becomes established as a formal adjective meaning completely unrelieved."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "mitigate",
+          "label": "verb"
+        },
+        {
+          "term": "mitigated",
+          "label": "adjective"
+        },
+        {
+          "term": "mitigation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "unrelieved",
+        "complete",
+        "unabated",
+        "unreduced"
+      ],
+      "opposite": "mitigated",
+      "pitfall": "Do not use it for ordinary inconveniences; it describes a situation with no relief at all."
+    },
+    {
+      "id": "unwieldy",
+      "kind": "word",
+      "term": "unwieldy",
+      "pos": "adjective",
+      "phonetic": "/ʌnˈwiːldi/",
+      "sayIt": "un-WEEL-dee",
+      "register": "Formal",
+      "meaning": "Too large, complicated, or awkward to handle easily.",
+      "nuance": "Often describes equipment, processes, or systems that are difficult to use or manage. It can also refer to topics or situations that feel hard to control.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · reviewing a process",
+          "sentence": "The approval process has become too unwieldy for small purchases.",
+          "highlight": "unwieldy",
+          "tip": "Use it to describe a process that has become complicated and inefficient."
+        },
+        {
+          "setting": "social",
+          "where": "Moving house · carrying furniture",
+          "sentence": "We hired a van because the old sofa was too unwieldy to carry downstairs.",
+          "highlight": "unwieldy",
+          "tip": "It is a natural choice for something physically awkward or difficult to move."
+        },
+        {
+          "setting": "writing",
+          "where": "Project proposal · explaining a delay",
+          "sentence": "The integration plan proved unwieldy, so we divided it into smaller stages.",
+          "highlight": "unwieldy",
+          "tip": "In writing, it can sound more precise than simply ‘difficult’ or ‘complicated’."
+        }
+      ],
+      "origin": {
+        "summary": "Formed in the Middle English period from the un- prefix and wieldy, meaning easy to handle or control.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The root wieldan meant to control or handle; its related adjective developed the sense of manageable."
+          },
+          {
+            "when": "Middle English",
+            "text": "Unwieldy emerged with the sense of not being easy to handle, move, or manage."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes objects, systems, or situations that are awkward to handle or control."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "unwieldiness",
+          "label": "noun"
+        },
+        {
+          "term": "unwieldily",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "cumbersome",
+        "awkward",
+        "clumsy",
+        "unmanageable"
+      ],
+      "opposite": "manageable",
+      "pitfall": "Don’t use it simply to mean heavy or large; the key idea is that something is difficult to handle, move, or manage."
+    },
+    {
+      "id": "voluminous",
+      "kind": "word",
+      "term": "voluminous",
+      "pos": "adjective",
+      "phonetic": "/vəˈluːmɪnəs/",
+      "sayIt": "vuh-LOO-muh-nus",
+      "register": "Formal",
+      "meaning": "Very large in physical size or in the amount of information, material or detail.",
+      "nuance": "It suggests considerable bulk or length and sounds more formal than words such as large or extensive.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · reading a proposal",
+          "sentence": "The proposal is voluminous, so we should focus on the sections that affect the budget.",
+          "highlight": "voluminous",
+          "tip": "Useful when describing a document, report or collection that contains a lot of material."
+        },
+        {
+          "setting": "social",
+          "where": "Book club · discussing a novel",
+          "sentence": "The novel is voluminous, but its many subplots gradually come together.",
+          "highlight": "voluminous",
+          "tip": "Often describes books, archives or collections that have substantial size or length."
+        },
+        {
+          "setting": "writing",
+          "where": "Academic review · summarising research",
+          "sentence": "The researcher draws on a voluminous body of evidence from several countries.",
+          "highlight": "voluminous",
+          "tip": "Pairs naturally with body of evidence, collection, archive and amount of material."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin voluminosus, meaning bulky or full of rolls, which developed from volumen, a roll or large book.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Voluminosus is formed from volumen, meaning a roll or large book."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English with senses connected with bulk, rolls and large books."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes great size or a large amount of content."
+          }
+        ]
+      },
+      "similar": [
+        "extensive",
+        "lengthy",
+        "sizeable",
+        "copious",
+        "substantial"
+      ],
+      "opposite": "concise",
+      "pitfall": "Voluminous usually suggests bulk or length rather than wordiness; use verbose for something written with too many words."
+    }
+  ]
+}

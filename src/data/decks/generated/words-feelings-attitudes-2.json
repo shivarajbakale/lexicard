@@ -1,0 +1,1774 @@
+{
+  "id": "words-feelings-attitudes-2",
+  "kind": "word",
+  "name": "Feelings & attitudes · 2",
+  "blurb": "25 words about feelings & attitudes",
+  "cards": [
+    {
+      "id": "consternation",
+      "kind": "word",
+      "term": "consternation",
+      "pos": "noun",
+      "phonetic": "/ˌkɒnstəˈneɪʃən/",
+      "sayIt": "KON-stuh-NAY-shun",
+      "register": "Formal",
+      "meaning": "A feeling of shock and worry caused by something sudden and alarming.",
+      "nuance": "It suggests serious surprise or dismay, often mixed with fear. It is stronger and more formal than simple concern.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · unexpected cancellation",
+          "sentence": "There was widespread consternation when the chief executive cancelled the launch without explanation.",
+          "highlight": "consternation",
+          "tip": "Use it for alarm that disrupts people’s thoughts or plans."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · sudden change of plans",
+          "sentence": "Her sudden decision to leave caused considerable consternation among the guests.",
+          "highlight": "consternation",
+          "tip": "This sounds more formal than the everyday phrase ‘a lot of confusion’."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · unexpected disruption",
+          "sentence": "The announcement caused consternation among travellers, who had already rearranged their plans.",
+          "highlight": "consternation",
+          "tip": "It works well in formal reporting when describing a strong public reaction."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin consternatio, meaning ‘a loud noise’ and later ‘alarm or disturbance’, related to consternare, ‘to bring down or alarm’. It entered English in the 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Consternatio developed from consternare, associated with bringing someone down or overwhelming them."
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered English with meanings connected with alarm, disturbance and dismay."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used for a strong reaction to alarming or unwelcome news."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "consternated",
+          "label": "adjective"
+        },
+        {
+          "term": "consternate",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "dismay",
+        "alarm",
+        "perplexity",
+        "disquiet"
+      ],
+      "opposite": "assurance",
+      "pitfall": "Do not use it for mild embarrassment or annoyance; it describes a much stronger sense of shock and alarm."
+    },
+    {
+      "id": "contemptuous",
+      "kind": "word",
+      "term": "contemptuous",
+      "pos": "adjective",
+      "phonetic": "/kənˈtemptʃuəs/",
+      "sayIt": "kun-TEMP-choo-us",
+      "register": "Formal",
+      "meaning": "Showing that you think someone or something deserves very little respect.",
+      "nuance": "It describes words, behaviour, or an attitude that openly shows dislike and disregard. It is stronger and more formal than simply being dismissive.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · dismissing feedback",
+          "sentence": "His contemptuous reply made it difficult for anyone else to offer an opinion.",
+          "highlight": "contemptuous",
+          "tip": "Use it for a tone or manner that clearly shows disrespect."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · defending a bad decision",
+          "sentence": "She became contemptuous when someone questioned how she had handled the event.",
+          "highlight": "contemptuous",
+          "tip": "It fits when a person’s manner suggests they see others as beneath them."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal complaint · unprofessional conduct",
+          "sentence": "The witness described the officer’s contemptuous attitude toward the grieving family.",
+          "highlight": "contemptuous",
+          "tip": "Pair it with behaviour, attitude, or tone when describing observable conduct."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin contemptus, meaning ‘despising’ or ‘disregard’, which came from contemnere, ‘to despise’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Contemnere develops into contemptus, expressing scorn or disregard."
+          },
+          {
+            "when": "1400s",
+            "text": "The word enters English in the sense of contempt or disdain."
+          },
+          {
+            "when": "Today",
+            "text": "Contemptuous describes words, behaviour, or attitudes that show contempt."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "contempt",
+          "label": "noun"
+        },
+        {
+          "term": "contemptuously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "disdainful",
+        "derisive",
+        "disrespectful",
+        "scornful"
+      ],
+      "opposite": "respectful",
+      "pitfall": "Do not confuse it with contemptible, which means deserving contempt rather than showing it."
+    },
+    {
+      "id": "contrite",
+      "kind": "word",
+      "term": "contrite",
+      "pos": "adjective",
+      "phonetic": "/kənˈtraɪt/",
+      "sayIt": "kun-RITE",
+      "register": "Formal",
+      "meaning": "Deeply sorry about something you have done and willing to accept responsibility for it.",
+      "nuance": "It describes genuine remorse, often stronger and more inward than a simple apology. It is especially suitable for sincere, serious situations.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · acknowledging a missed deadline",
+          "sentence": "The manager was contrite after realizing the delay had been caused by poor planning on her part.",
+          "highlight": "contrite",
+          "tip": "Use it to show that someone is genuinely sorry rather than merely making a quick apology."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · repairing an argument",
+          "sentence": "He was contrite and listened carefully when she explained how his joke had hurt her.",
+          "highlight": "contrite",
+          "tip": "It often fits when someone accepts fault without trying to shift blame."
+        },
+        {
+          "setting": "writing",
+          "where": "Apology email · taking responsibility for an error",
+          "sentence": "We are contrite for the confusion our late notice caused and have changed our review process.",
+          "highlight": "contrite",
+          "tip": "It adds seriousness to an apology, so reserve it for a substantial mistake."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin contritus, meaning crushed or broken, and related to contricere, ‘to grind down’. The idea of being emotionally ‘broken’ developed into the sense of deep remorse.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Contritus means crushed or broken and comes from contricere, ‘to grind down’."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English through Old French with the sense of feeling crushed by guilt."
+          },
+          {
+            "when": "Today",
+            "text": "It means deeply sorry and remorseful for wrongdoing."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "contrition",
+          "label": "noun"
+        },
+        {
+          "term": "contritely",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "remorseful",
+        "apologetic",
+        "penitent",
+        "repentant"
+      ],
+      "opposite": "unapologetic",
+      "pitfall": "Contrite describes sincere regret, not simply the words used in an apology. Avoid calling someone contrite when they show little sense of responsibility."
+    },
+    {
+      "id": "cope",
+      "kind": "word",
+      "term": "cope",
+      "pos": "verb",
+      "phonetic": "/koʊp/",
+      "sayIt": "KOHP",
+      "register": "Everyday",
+      "meaning": "To handle a difficult situation or difficult feelings successfully enough to keep going.",
+      "nuance": "Cope usually suggests dealing with difficulty rather than enjoying or fully solving it. In everyday English, it is most often used with “with.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · changing deadlines",
+          "sentence": "We’re coping with the extra workload, but we may need more time before Friday.",
+          "highlight": "coping",
+          "tip": "Use “cope with” to describe handling an ongoing pressure or problem."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with a friend · hearing difficult news",
+          "sentence": "It sounds rough, but I’m coping with it and taking things one day at a time.",
+          "highlight": "coping",
+          "tip": "This sounds natural when checking in with someone who is going through a hard time."
+        },
+        {
+          "setting": "writing",
+          "where": "Work email · reassuring a colleague",
+          "sentence": "I’m sure the team will cope with the change while we update the process.",
+          "highlight": "cope",
+          "tip": "Use it in professional writing when you want to stress that people can manage a situation."
+        }
+      ],
+      "origin": {
+        "summary": "Cope comes through Old French from a Latin word associated with cutting or handling, and its meaning developed toward managing something difficult.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "From copere, related to copiōre, ‘to cut’, and later used in the sense of handling or managing."
+          },
+          {
+            "when": "Middle English",
+            "text": "Entered English through Old French forms meaning to cut, strike, or contend with."
+          },
+          {
+            "when": "Today",
+            "text": "Means handling a difficult situation or emotions, usually with “with.”"
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "coping",
+          "label": "noun"
+        },
+        {
+          "term": "coping mechanism",
+          "label": "noun phrase"
+        }
+      ],
+      "similar": [
+        "manage",
+        "deal with",
+        "handle",
+        "endure"
+      ],
+      "opposite": "struggle",
+      "pitfall": "In modern English, “cope with” is much more common than “cope” when referring to a difficulty."
+    },
+    {
+      "id": "cordial",
+      "kind": "word",
+      "term": "cordial",
+      "pos": "adjective",
+      "phonetic": "/ˈkɔːrdiəl/",
+      "sayIt": "KOR-dee-ul",
+      "register": "Formal",
+      "meaning": "Warm, polite, and friendly in your manner towards someone.",
+      "nuance": "It suits formal greetings and conversations where you want to show goodwill without becoming too familiar. It can also describe something expressed in a pleasant, courteous way.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client meeting · opening a discussion",
+          "sentence": "She gave us a cordial welcome and invited us to share our concerns before presenting the proposal.",
+          "highlight": "cordial",
+          "tip": "Useful for describing a polite, positive professional welcome."
+        },
+        {
+          "setting": "social",
+          "where": "Neighbour introduction · making a connection",
+          "sentence": "He was cordial, asked about our trip, and suggested a good local restaurant for dinner.",
+          "highlight": "cordial",
+          "tip": "It suggests friendliness without implying great closeness."
+        },
+        {
+          "setting": "writing",
+          "where": "Thank-you email · ending a meeting",
+          "sentence": "Thank you for the cordial discussion; I appreciate the time and thought you gave our proposal.",
+          "highlight": "cordial",
+          "tip": "Often appears with welcome, discussion, exchange or relations."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through Old French from Latin cordialis, meaning connected to the heart and therefore warm or kind-hearted.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Cordialis is formed from cor, meaning heart."
+          },
+          {
+            "when": "Old French",
+            "text": "Cordial appears with senses connected to the heart and heartfelt friendliness."
+          },
+          {
+            "when": "1600s",
+            "text": "The adjective enters English in a sense meaning courteous and friendly."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes polite, warm greetings, behaviour or interactions."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "cordially",
+          "label": "adverb"
+        },
+        {
+          "term": "cordiality",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "friendly",
+        "warm",
+        "courteous",
+        "affable"
+      ],
+      "opposite": "hostile",
+      "pitfall": "A cordial manner can still be fairly formal. It does not necessarily mean someone is close to you or openly emotional."
+    },
+    {
+      "id": "covet",
+      "kind": "word",
+      "term": "covet",
+      "pos": "verb",
+      "phonetic": "/ˈkʌvɪt/",
+      "sayIt": "KUV-it",
+      "register": "Formal",
+      "meaning": "To want something that belongs to someone else or is otherwise unavailable to you.",
+      "nuance": "The word carries a strong sense of greedy or improper desire, so it usually describes wanting a person’s possessions, status or position.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Promotion announcement · team reactions",
+          "sentence": "Several senior staff members covet the director role, but they have responded professionally.",
+          "highlight": "covet",
+          "tip": "Use it for an ambitious or greedy desire, not ordinary interest in a job."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · discussing success",
+          "sentence": "My sister covets my cast-iron pan, though she refuses to buy one for herself.",
+          "highlight": "covets",
+          "tip": "The verb takes a direct object: covet something."
+        },
+        {
+          "setting": "writing",
+          "where": "Novel description · rivalry over an inheritance",
+          "sentence": "He watched his brother covet the family business, even while pretending to support him.",
+          "highlight": "covet",
+          "tip": "It is effective in literary writing when you want to emphasise selfish desire."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French coveter, meaning ‘to desire strongly’, based on Latin cupere, ‘to desire’. It has long implied wanting something that belongs to another person.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "cupere means ‘to desire’ or ‘to wish for’."
+          },
+          {
+            "when": "Old French",
+            "text": "coveter develops the sense of strongly or improperly desiring something."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English in its modern sense."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "covetous",
+          "label": "adjective"
+        },
+        {
+          "term": "covetously",
+          "label": "adverb"
+        },
+        {
+          "term": "covetousness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "envy",
+        "desire",
+        "want",
+        "long for"
+      ],
+      "opposite": "renounce",
+      "pitfall": "Covet usually implies wanting what belongs to someone else; use desire or want for something you could reasonably obtain yourself."
+    },
+    {
+      "id": "crave",
+      "kind": "word",
+      "term": "crave",
+      "pos": "verb",
+      "phonetic": "/kreɪv/",
+      "sayIt": "KRAYV",
+      "register": "Everyday",
+      "meaning": "To feel a strong desire for something or for something to happen.",
+      "nuance": "Craving is more intense than simply wanting something. It often suggests a need that feels hard to ignore or control.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Late afternoon · needing a break",
+          "sentence": "I’m craving some fresh air after spending all day in meetings.",
+          "highlight": "craving",
+          "tip": "Use it when the desire feels noticeably stronger than a normal preference."
+        },
+        {
+          "setting": "social",
+          "where": "Coffee shop · choosing a snack",
+          "sentence": "She craved something sweet, so she ordered a chocolate pastry.",
+          "highlight": "craved",
+          "tip": "It works for strong food, drink and comfort desires in casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Personal message · asking for news",
+          "sentence": "I’ve been craving some good news from home lately.",
+          "highlight": "craving",
+          "tip": "A slightly emotional alternative to ‘really wanting’, especially in personal writing."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Old English crafian, meaning ‘to ask for’ or ‘to demand’, and developed into the modern sense of a strong desire.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The ancestor of crave is recorded as crafian, meaning ‘to ask for, demand’."
+          },
+          {
+            "when": "1800s",
+            "text": "The spelling crave becomes established in English."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for intense desires, especially for food, comfort or an emotional outcome."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "craving",
+          "label": "noun"
+        },
+        {
+          "term": "craved",
+          "label": "adjective"
+        },
+        {
+          "term": "crave",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "yearn for",
+        "long for",
+        "desire",
+        "ache for"
+      ],
+      "opposite": "spurn",
+      "pitfall": "Crave usually describes a strong emotional or physical desire, so it may sound more intense than ‘want’ in ordinary situations."
+    },
+    {
+      "id": "cupidity",
+      "kind": "word",
+      "term": "cupidity",
+      "pos": "noun",
+      "phonetic": "/kjuːˈpɪdəti/",
+      "sayIt": "koo-PID-ih-tee",
+      "register": "Formal",
+      "meaning": "A strong or excessive desire to possess money, property or other valuables.",
+      "nuance": "It describes greed more formally and often implies a negative moral judgement. The word is especially common in literature, history and formal criticism.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Board meeting · reviewing bonuses",
+          "sentence": "The company’s cupidity grew as executives competed to increase their own bonuses.",
+          "highlight": "cupidity",
+          "tip": "Use it for intense greed, especially when describing people or institutions pursuing wealth."
+        },
+        {
+          "setting": "social",
+          "where": "Discussion · old money",
+          "sentence": "Her cupidity was obvious whenever she heard that another relative had inherited a fortune.",
+          "highlight": "cupidity",
+          "tip": "It sounds sharper and more literary than simply saying someone was greedy."
+        },
+        {
+          "setting": "writing",
+          "where": "Novel · describing a character",
+          "sentence": "Driven by cupidity, he abandoned his principles whenever there was money to gain.",
+          "highlight": "cupidity",
+          "tip": "It works well in literary prose to show how greed influences a character’s choices."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin cupiditas, meaning desire or greed, which was based on cupidus, meaning desirous or greedy.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin cupiditas develops from cupidus, ‘desirous’ or ‘greedy’."
+          },
+          {
+            "when": "15th century",
+            "text": "The word enters English in the sense of excessive desire or greed."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly formal and appears in serious or literary writing."
+          }
+        ]
+      },
+      "similar": [
+        "avarice",
+        "greed",
+        "rapacity",
+        "v acquisitiveness"
+      ],
+      "opposite": "generosity",
+      "pitfall": "It is stronger and more critical than simple desire, and the adjective is usually “cupid” rather than “cupiditous.”"
+    },
+    {
+      "id": "cynical",
+      "kind": "word",
+      "term": "cynical",
+      "pos": "adjective",
+      "phonetic": "/ˈsɪnɪkəl/",
+      "sayIt": "SIN-ik-uhl",
+      "register": "Common at work and socially",
+      "meaning": "Believing that people’s motives are mainly selfish, dishonest, or driven by self-interest.",
+      "nuance": "It can show sharp distrust or weary disappointment. It may be justified in a particular situation, but using it too often can sound negative and suspicious.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · reviewing a proposal",
+          "sentence": "I’m cynical about the deadline because this is the third time the client has changed the brief.",
+          "highlight": "cynical",
+          "tip": "Use it when you doubt the stated motive behind a workplace decision."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · hearing about an unexpected gift",
+          "sentence": "She was cynical about the invitation, wondering why her ex had suddenly been so generous.",
+          "highlight": "cynical",
+          "tip": "It fits naturally when describing distrust of another person’s intentions."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · responding to a sales offer",
+          "sentence": "We were somewhat cynical about the promise of rapid growth, since the company had no reliable results to show.",
+          "highlight": "cynical",
+          "tip": "A slightly softer phrase, such as ‘sceptical’, may sound more tactful in formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from the Greek Cynics, a group of ancient philosophers known for questioning convention and rejecting social expectations. Their name is commonly linked to kynikos, meaning ‘dog-like’, possibly because a statue of a dog was associated with them or because they lived like dogs.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "The Cynics form a philosophical movement, including Diogenes, who criticises wealth, status and conventional morality."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "Cynical enters English with the sense of ‘dog-like’ or associated with the Cynic philosophy."
+          },
+          {
+            "when": "1800s",
+            "text": "The meaning develops toward sceptical distrust of people and motives."
+          },
+          {
+            "when": "Today",
+            "text": "It describes distrust, disillusionment or the belief that altruistic motives are rarely pure."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "cynicism",
+          "label": "noun"
+        },
+        {
+          "term": "cynic",
+          "label": "noun (person)"
+        },
+        {
+          "term": "cynically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "sceptical",
+        "jaded",
+        "disillusioned",
+        "suspicious",
+        "cynic"
+      ],
+      "opposite": "optimistic",
+      "pitfall": "Cynical describes distrust of motives; sceptical simply means doubtful and does not necessarily imply that people are selfish."
+    },
+    {
+      "id": "decadence",
+      "kind": "word",
+      "term": "decadence",
+      "pos": "noun",
+      "phonetic": "/ˈdɛkədəns/",
+      "sayIt": "DEK-uh-duns",
+      "register": "Formal",
+      "meaning": "Excessive pleasure, luxury or self-indulgence, often described as a sign of moral decline.",
+      "nuance": "It can describe extravagant behaviour, but it usually carries a critical or disapproving tone.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Strategy meeting · discussing culture",
+          "sentence": "The warning about decadence sounded more like a complaint about expensive team lunches than a serious concern.",
+          "highlight": "decadence",
+          "tip": "Use it for luxury or self-indulgence when you want to suggest that standards are slipping."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · reflecting on old times",
+          "sentence": "Their late-night revelries were famous for decadence, though nobody seemed in a hurry to go home.",
+          "highlight": "decadence",
+          "tip": "This slightly literary word adds drama to stories about extravagant parties or lifestyles."
+        },
+        {
+          "setting": "writing",
+          "where": "History essay · describing the Roman elite",
+          "sentence": "The essay presents imperial decadence as both a source of wonder and evidence of political weakness.",
+          "highlight": "decadence",
+          "tip": "It works well in historical or literary writing about excess and declining standards."
+        }
+      ],
+      "origin": {
+        "summary": "From French décadence, which came from Latin decadentia, a word associated with falling or decline.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Decadentia develops from cadere, meaning ‘to fall’."
+          },
+          {
+            "when": "French",
+            "text": "Décadence appears with the sense of decline, especially in language or institutions."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English and becomes linked with moral decline and excessive luxury."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "decadent",
+          "label": "adjective"
+        },
+        {
+          "term": "decadently",
+          "label": "adverb"
+        },
+        {
+          "term": "decadent",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "extravagance",
+        "degeneracy",
+        "dissipation",
+        "indulgence"
+      ],
+      "opposite": "austerity",
+      "pitfall": "Decadence is stronger and more judgemental than extravagance, so it may sound moralistic if used casually."
+    },
+    {
+      "id": "devout",
+      "kind": "word",
+      "term": "devout",
+      "pos": "adjective",
+      "phonetic": "/dɪˈvaʊt/",
+      "sayIt": "dih-VOWT",
+      "register": "Formal",
+      "meaning": "Deeply committed to a belief, practice, or way of life, especially a religious one.",
+      "nuance": "It suggests strong, sincere dedication rather than casual interest. It can also describe someone who is intensely devoted to a cause, hobby, or person.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing company values",
+          "sentence": "She is a devoted advocate for accessibility and has improved our hiring process.",
+          "highlight": "devoted",
+          "tip": "Use it to describe someone who works consistently for a cause or group."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend with friends · celebrating a shared interest",
+          "sentence": "I’m not a devout football fan, but I never miss our team’s biggest matches.",
+          "highlight": "devout",
+          "tip": "It can sound affectionate or mildly playful when describing an intense enthusiasm."
+        },
+        {
+          "setting": "writing",
+          "where": "Wedding speech · praising the couple",
+          "sentence": "Their devotion to one another was clear throughout the ceremony.",
+          "highlight": "devotion",
+          "tip": "The noun form is useful for describing lasting care, commitment, or religious dedication."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin devotus, meaning ‘devoted’ or ‘faithful’, originally associated with religious devotion.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Devotus develops from devotion, meaning loyalty, affection, or faithfulness."
+          },
+          {
+            "when": "1400s",
+            "text": "The word enters English in religious and general senses of deep dedication."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in formal writing and can describe devotion beyond religion."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "devotion",
+          "label": "noun"
+        },
+        {
+          "term": "devoutly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "committed",
+        "fervent",
+        "religious",
+        "dedicated",
+        "sincere"
+      ],
+      "opposite": "indifferent",
+      "pitfall": "Don’t confuse it with devour, which means to eat or consume quickly."
+    },
+    {
+      "id": "disgruntled",
+      "kind": "word",
+      "term": "disgruntled",
+      "pos": "adjective",
+      "phonetic": "/dɪsˈɡrʌntɪd/",
+      "sayIt": "dis-GRUN-tid",
+      "register": "Everyday",
+      "meaning": "Unhappy and dissatisfied, especially because you feel you have been treated unfairly or ignored.",
+      "nuance": "It suggests more than simple disappointment: there is often a sense of resentment or frustration. It fits both mild annoyance and serious dissatisfaction.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · an overlooked proposal",
+          "sentence": "Several employees were disgruntled when their proposal was dismissed without an explanation.",
+          "highlight": "disgruntled",
+          "tip": "Use it when dissatisfaction involves a sense of unfair treatment or lack of recognition."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · delayed plans",
+          "sentence": "My sister was disgruntled after waiting an hour for the bus.",
+          "highlight": "disgruntled",
+          "tip": "It can describe everyday frustration, but it often carries a stronger note of resentment."
+        },
+        {
+          "setting": "writing",
+          "where": "Complaint email · delayed repairs",
+          "sentence": "We are disgruntled that the repair was completed two weeks later than promised.",
+          "highlight": "disgruntled",
+          "tip": "It gives a complaint a firm, formal tone; “dissatisfied” is milder and more neutral."
+        }
+      ],
+      "origin": {
+        "summary": "Built from dis-, meaning “not” or “opposite of,” and an older form related to grumbling or complaining.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "The word begins to appear in English, formed from dis- and an older word related to grumbling."
+          },
+          {
+            "when": "1700s–1800s",
+            "text": "It becomes established in the sense of dissatisfied, resentful, or discontented."
+          },
+          {
+            "when": "Today",
+            "text": "It describes people who are unhappy, often because they feel unfairly treated."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "disgruntlement",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "dissatisfied",
+        "resentful",
+        "unhappy",
+        "irritated"
+      ],
+      "opposite": "content",
+      "pitfall": "Disgruntled is stronger than dissatisfied. Use dissatisfied for a general lack of satisfaction and disgruntled when resentment or unfairness is involved."
+    },
+    {
+      "id": "distraught",
+      "kind": "word",
+      "term": "distraught",
+      "pos": "adjective",
+      "phonetic": "/dɪˈstrɔːt/",
+      "sayIt": "dis-TRAWT",
+      "register": "Everyday",
+      "meaning": "So upset, confused, or worried that you are unable to think or behave normally.",
+      "nuance": "It is stronger than simply being distracted and suggests intense emotional strain. It can sound dramatic, so use it when someone is clearly overwhelmed rather than merely forgetful.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · sudden bad news",
+          "sentence": "She was distraught after hearing that the project had been cancelled.",
+          "highlight": "distraught",
+          "tip": "Use it to describe someone who is visibly overwhelmed by difficult news."
+        },
+        {
+          "setting": "social",
+          "where": "Call with a friend · family emergency",
+          "sentence": "He sounded distraught, so I offered to come over and help him sort it out.",
+          "highlight": "distraught",
+          "tip": "It is useful when you want to show that someone is too upset to handle things alone."
+        },
+        {
+          "setting": "writing",
+          "where": "Personal email · cancelling plans",
+          "sentence": "I’m sorry, but I’m too distraught by the news to meet tonight.",
+          "highlight": "distraught",
+          "tip": "This makes a formal explanation sound personal and emotionally intense."
+        }
+      ],
+      "origin": {
+        "summary": "From French distraire, meaning ‘to pull apart’, originally from Latin distrahere, ‘to draw apart’. The word developed the sense of being mentally or emotionally thrown into confusion.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Distrahere combines dis-, ‘apart’, with trahere, ‘to pull or draw’."
+          },
+          {
+            "when": "French",
+            "text": "Distraire, ‘to pull apart’, comes to mean to confuse or distract."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English in the sense of mentally confused or emotionally disturbed."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "distract",
+          "label": "verb"
+        },
+        {
+          "term": "distraction",
+          "label": "noun"
+        },
+        {
+          "term": "distracted",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "agitated",
+        "distressed",
+        "perturbed",
+        "unhinged"
+      ],
+      "opposite": "composed",
+      "pitfall": "Don’t use it just to mean careless or easily distracted; it describes severe emotional disturbance or confusion."
+    },
+    {
+      "id": "doleful",
+      "kind": "word",
+      "term": "doleful",
+      "pos": "adjective",
+      "phonetic": "/ˈdəʊlfəl/",
+      "sayIt": "DOHL-ful",
+      "register": "Everyday; literary",
+      "meaning": "Very sad and mournful, especially in a way that seems exaggerated or theatrical.",
+      "nuance": "It can describe genuine sorrow, but it often adds a slightly comic or old-fashioned tone.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · missing a colleague",
+          "sentence": "The team was doleful about losing its most experienced project manager.",
+          "highlight": "doleful",
+          "tip": "Use it for a noticeably gloomy reaction, especially when the mood feels overstated."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · bad weather",
+          "sentence": "The children became doleful when the rain stopped the planned picnic.",
+          "highlight": "doleful",
+          "tip": "It often brings a humorous edge, so it suits playful descriptions of disappointment."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · uninspiring performance",
+          "sentence": "The play received a doleful review from its underwhelmed audience.",
+          "highlight": "doleful",
+          "tip": "It works well when you want to suggest sadness with a touch of irony or exaggeration."
+        }
+      ],
+      "origin": {
+        "summary": "From French doleful, meaning sorrowful, which was formed from Latin dolere, ‘to grieve’, with a suffix meaning ‘full of’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Middle English",
+            "text": "The word appears in English in the sense ‘full of sorrow’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "Its spelling settled into the modern form, and it began to describe sorrow that seems serious or theatrical."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a slightly literary word for a mournful or comically gloomy mood."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "dolefully",
+          "label": "adverb"
+        },
+        {
+          "term": "dolefulness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "mournful",
+        "gloomy",
+        "melancholy",
+        "forlorn",
+        "cheerless"
+      ],
+      "opposite": "cheerful",
+      "pitfall": "For ordinary sadness, ‘sad’ is more natural; use ‘doleful’ when the gloom feels exaggerated, old-fashioned or slightly comic."
+    },
+    {
+      "id": "dolorous",
+      "kind": "word",
+      "term": "dolorous",
+      "pos": "adjective",
+      "phonetic": "/ˈdɒlərəs/",
+      "sayIt": "DOL-uh-rus",
+      "register": "Literary",
+      "meaning": "Showing or causing deep sadness or grief.",
+      "nuance": "Stronger and more formal than “sad”; often used in poetry, music reviews, or descriptions of sorrowful events.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Condolence note · a colleague’s loss",
+          "sentence": "We were reminded of the team’s dolorous mood as the memorial began.",
+          "highlight": "dolorous",
+          "tip": "Best in formal or literary writing, not everyday workplace conversation."
+        },
+        {
+          "setting": "social",
+          "where": "Listening to sad music · consoling a friend",
+          "sentence": "The slow piano piece had such a dolorous quality that everyone fell silent.",
+          "highlight": "dolorous",
+          "tip": "Use it to describe something that communicates sorrow with noticeable intensity."
+        },
+        {
+          "setting": "writing",
+          "where": "Reviewing a novel · describing its final chapters",
+          "sentence": "Her dolorous final chapter brings quiet dignity to the family’s grief.",
+          "highlight": "dolorous",
+          "tip": "Often appears before a noun such as “tone,” “atmosphere,” “expression,” or “story.”"
+        }
+      ],
+      "origin": {
+        "summary": "From Latin dolorus, meaning sorrowful or painful; it entered English through Old French and is related to “dolor” and “dolorousness.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Dolorus develops from dolor, meaning pain or grief."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word appears in English with senses connected with sorrow and mourning."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly a literary word for deeply sad or sorrowful."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "dolorousness",
+          "label": "noun"
+        },
+        {
+          "term": "dolously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "doleful",
+        "mournful",
+        "sorrowful",
+        "lugubrious"
+      ],
+      "opposite": "joyous",
+      "pitfall": "It is more literary and emotionally intense than “doleful”; avoid it when simple, natural language is preferable."
+    },
+    {
+      "id": "drab",
+      "kind": "word",
+      "term": "drab",
+      "pos": "adjective",
+      "phonetic": "/dræb/",
+      "sayIt": "DRAB",
+      "register": "Everyday",
+      "meaning": "Dull, boring, and lacking in colour, interest, or excitement.",
+      "nuance": "It can describe a person’s appearance, surroundings, mood, or style. It often sounds blunt, so use it carefully when describing someone’s personality or work.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Design review · choosing a colour scheme",
+          "sentence": "The report is clear, but the presentation feels drab compared with the lively campaign.",
+          "highlight": "drab",
+          "tip": "Use it for something that seems plain, dull, or lacking visual energy."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans · cancelling a trip",
+          "sentence": "Staying indoors for another rainy day sounds drab, so let’s find a museum or a good café.",
+          "highlight": "drab",
+          "tip": "This is natural when describing an uneventful mood or plan."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing a film",
+          "sentence": "The story had an interesting premise, but the drab direction made it hard to enjoy.",
+          "highlight": "drab",
+          "tip": "It works well for creative work, places, and descriptions that feel dull or lifeless."
+        }
+      ],
+      "origin": {
+        "summary": "The word originally referred to a dull brown fabric. Over time, it broadened to describe anything dull or lacking liveliness.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "Used for a coarse, dull brown cloth, especially in clothing."
+          },
+          {
+            "when": "1700s",
+            "text": "The colour meaning developed into the general sense of dullness."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly describes something boring, plain, or emotionally flat."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "drabness",
+          "label": "noun"
+        },
+        {
+          "term": "drably",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "dull",
+        "bland",
+        "plain",
+        "dreary",
+        "lacklustre"
+      ],
+      "opposite": "lively",
+      "pitfall": "Drab is stronger than plain and can sound harsh when used to judge another person."
+    },
+    {
+      "id": "dreary",
+      "kind": "word",
+      "term": "dreary",
+      "pos": "adjective",
+      "phonetic": "/ˈdrɪri/",
+      "sayIt": "DREER-ee",
+      "register": "Common in writing and conversation",
+      "meaning": "Making you feel gloomy and without cheer because of sadness, dullness, or a lack of energy.",
+      "nuance": "It can describe either a sad mood or an experience that feels tedious and lifeless. It is often atmospheric rather than strictly factual.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office chat · rainy Monday",
+          "sentence": "The long meeting and grey weather have made the office feel dreary.",
+          "highlight": "dreary",
+          "tip": "Use it for an atmosphere that feels gloomy, dull, or emotionally flat."
+        },
+        {
+          "setting": "social",
+          "where": "Walking home · quiet Sunday",
+          "sentence": "We skipped the pub and took a dreary walk through the empty park.",
+          "highlight": "dreary",
+          "tip": "It often suggests both bad weather and low spirits."
+        },
+        {
+          "setting": "writing",
+          "where": "Short story · describing a town",
+          "sentence": "He left the dreary little town before winter settled in for good.",
+          "highlight": "dreary",
+          "tip": "A strong descriptive choice when you want to create a bleak or monotonous mood."
+        }
+      ],
+      "origin": {
+        "summary": "From Old English dreorigh, meaning sorrowful or gloomy, and probably connected with dreor, an old word for gloom.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The ancestor of dreary appears as dreorigh, meaning sorrowful or gloomy."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word develops toward its modern spelling and sound."
+          },
+          {
+            "when": "Today",
+            "text": "It describes moods, places, weather, and experiences that seem gloomy or dull."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "drearily",
+          "label": "adverb"
+        },
+        {
+          "term": "dreariness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "gloomy",
+        "bleak",
+        "dismal",
+        "dull",
+        "melancholy"
+      ],
+      "opposite": "cheerful",
+      "pitfall": "Don’t use it as a general word for anything boring; dreary usually carries a stronger sense of sadness, bleakness, or lifelessness."
+    },
+    {
+      "id": "ebullient",
+      "kind": "word",
+      "term": "ebullient",
+      "pos": "adjective",
+      "phonetic": "/ɪˈbʊliənt/",
+      "sayIt": "ih-BOOL-yuhnt",
+      "register": "Common in conversation and writing",
+      "meaning": "Full of energetic enthusiasm and excitement.",
+      "nuance": "The word sounds lively and confident, often describing someone whose happiness spills over into words and actions. It can also describe a bubbling, energetic atmosphere.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team celebration · good news",
+          "sentence": "Her ebullient announcement got everyone excited about the new project.",
+          "highlight": "ebullient",
+          "tip": "Use it when someone expresses excitement in an energetic, uninhibited way."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception · old friends reunite",
+          "sentence": "He was ebullient when he spotted his college friends across the room.",
+          "highlight": "ebullient",
+          "tip": "It fits a person who is visibly thrilled, lively and eager to interact."
+        },
+        {
+          "setting": "writing",
+          "where": "Event review · enthusiastic atmosphere",
+          "sentence": "The ebullient crowd cheered every performer who stepped onto the stage.",
+          "highlight": "ebullient",
+          "tip": "It can describe a person or a scene filled with animated, infectious excitement."
+        }
+      ],
+      "origin": {
+        "summary": "It comes from Latin ebullire, meaning ‘to boil over’, and originally referred to liquids bubbling vigorously.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Ebullire combines ebullire’s bubbling sense with the force of ex-, ‘out’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word begins appearing in English with its literal association with boiling."
+          },
+          {
+            "when": "1800s",
+            "text": "Its figurative use expands to describe people who are overflowing with enthusiasm."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "ebullience",
+          "label": "noun"
+        },
+        {
+          "term": "ebulliently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "exuberant",
+        "effusive",
+        "buoyant",
+        "enthusiastic"
+      ],
+      "opposite": "despondent",
+      "pitfall": "Don’t use it for mild happiness; it suggests a noticeably high level of energy and excitement."
+    },
+    {
+      "id": "empathetic",
+      "kind": "word",
+      "term": "empathetic",
+      "pos": "adjective",
+      "phonetic": "/ɪmˌpæθɪˈtɪk/",
+      "sayIt": "em-pa-THET-ik",
+      "register": "Common at work",
+      "meaning": "Able to understand and share another person’s feelings or perspective.",
+      "nuance": "It suggests emotional understanding, often without suggesting agreement. It is more precise than simply saying someone is kind or considerate.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · responding to a concern",
+          "sentence": "An empathetic manager listens first, then explains how the decision was reached.",
+          "highlight": "empathetic",
+          "tip": "Use it when describing someone who notices and responds to other people’s feelings."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · supporting a friend",
+          "sentence": "She was empathetic when I explained how disappointed I felt.",
+          "highlight": "empathetic",
+          "tip": "It shows that you understand the emotional side of someone’s experience."
+        },
+        {
+          "setting": "writing",
+          "where": "Feedback email · customer complaint",
+          "sentence": "We understand the frustration you experienced and would like to offer a practical solution.",
+          "highlight": "frustration",
+          "tip": "In writing, name the feeling directly rather than relying only on the adjective empathetic."
+        }
+      ],
+      "origin": {
+        "summary": "Built from empathy and the suffix -ic. Its roots come from Greek empaithes, meaning “feeling with” someone.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "Empaithes combines en, “in,” and pathos, “feeling,” giving the idea of feeling with another person."
+          },
+          {
+            "when": "Early 1800s",
+            "text": "The word empathetic begins appearing in English with the meaning of sharing another person’s feelings."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used to describe emotional understanding and compassionate responses."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "empathy",
+          "label": "noun"
+        },
+        {
+          "term": "empathize",
+          "label": "verb"
+        },
+        {
+          "term": "empathically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "sympathetic",
+        "compassionate",
+        "understanding",
+        "considerate"
+      ],
+      "opposite": "indifferent",
+      "pitfall": "Empathetic describes understanding feelings; it does not automatically mean you agree with the person’s views or decisions."
+    },
+    {
+      "id": "enervated",
+      "kind": "word",
+      "term": "enervated",
+      "pos": "adjective",
+      "phonetic": "/ɪˈnɜːrvɪtɪd/",
+      "sayIt": "en-ER-vay-ted",
+      "register": "Formal",
+      "meaning": "Weakened or drained of energy.",
+      "nuance": "It describes feeling physically or mentally worn out, often after demanding work or illness. The tone is more formal than “exhausted” and can also suggest that something has been made less effective.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team check-in · after a demanding launch",
+          "sentence": "After three overnight deployments, the team was completely enervated by the schedule.",
+          "highlight": "enervated",
+          "tip": "Use it for pronounced exhaustion caused by work or strain."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans · recovering from a busy week",
+          "sentence": "I felt too enervated to go out, so I cancelled and stayed home to rest.",
+          "highlight": "enervated",
+          "tip": "It sounds slightly formal, so “worn out” may be more natural in casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Work report · explaining reduced performance",
+          "sentence": "Long working hours left the staff enervated, which reduced their focus during the final week.",
+          "highlight": "enervated",
+          "tip": "It suits formal reports when describing strain on people or organizations."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin enervare, meaning “to weaken,” built from e-, a prefix meaning “out of,” and nervus, meaning “nerve” or “strength.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Enervare develops the sense of taking away strength or vital energy."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with meanings connected to weakening or draining."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes someone who feels very tired or mentally drained."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "enervate",
+          "label": "verb"
+        },
+        {
+          "term": "enervating",
+          "label": "adjective"
+        },
+        {
+          "term": "enervation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "exhausted",
+        "weakened",
+        "drained",
+        "fatigued"
+      ],
+      "opposite": "energized",
+      "pitfall": "Don’t confuse it with “irritated”: “enervated” primarily means worn out or weakened, although it can sometimes suggest that something has been made less effective."
+    },
+    {
+      "id": "engrossed",
+      "kind": "word",
+      "term": "engrossed",
+      "pos": "adjective",
+      "phonetic": "/ɪŋˈɡrɒst/",
+      "sayIt": "en-GROSSED",
+      "register": "Everyday",
+      "meaning": "So interested or concentrated in something that you are completely focused on it.",
+      "nuance": "It suggests stronger and more sustained attention than simply interested. It can also describe being occupied by a task or situation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Deep-work session · editing a proposal",
+          "sentence": "She was engrossed in the proposal and missed the office-wide meeting.",
+          "highlight": "engrossed",
+          "tip": "Use it to explain why someone lost track of time or did not notice something around them."
+        },
+        {
+          "setting": "social",
+          "where": "Board game night · concentrating on the final round",
+          "sentence": "By the last round, everyone was engrossed and barely noticed the time.",
+          "highlight": "engrossed",
+          "tip": "It works well when an activity has captured everyone’s full attention."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing a reader’s response",
+          "sentence": "The novel held my attention, and I was engrossed from the opening chapter onward.",
+          "highlight": "engrossed",
+          "tip": "Often used before in something, although it can also stand alone."
+        }
+      ],
+      "origin": {
+        "summary": "Engrossed comes from engross, which originally referred to buying or writing something in large amounts before developing the sense of occupying someone’s full attention.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "Engross first appears in senses connected with large quantities or full copies of documents."
+          },
+          {
+            "when": "1600s–1700s",
+            "text": "The meaning develops toward occupying someone’s attention so completely."
+          },
+          {
+            "when": "Today",
+            "text": "Engrossed means deeply absorbed, interested or focused."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "engross",
+          "label": "verb"
+        },
+        {
+          "term": "engrossing",
+          "label": "adjective"
+        },
+        {
+          "term": "engrossment",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "absorbed",
+        "captivated",
+        "immersed",
+        "fascinated"
+      ],
+      "opposite": "bored",
+      "pitfall": "Engrossed focuses on intense concentration or interest, so it is usually stronger than interested."
+    },
+    {
+      "id": "ennui",
+      "kind": "word",
+      "term": "ennui",
+      "pos": "noun",
+      "phonetic": "/ɑːnˈwiː/",
+      "sayIt": "ahn-NEE",
+      "register": "Literary",
+      "meaning": "A deep, often reflective feeling of boredom and dissatisfaction with life.",
+      "nuance": "Stronger and more serious than ordinary boredom, with a sense that nothing seems worth caring about. It is especially common in art, literature and conversation about existential feelings.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · facing repetitive tasks",
+          "sentence": "Several employees admitted a growing sense of ennui after months of doing the same routine.",
+          "highlight": "ennui",
+          "tip": "Use it when boredom feels widespread or connected to a lack of purpose."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · changing jobs",
+          "sentence": "He left his job after months of ennui and began travelling more often.",
+          "highlight": "ennui",
+          "tip": "This sounds literary and thoughtful rather than casual or self-pitying."
+        },
+        {
+          "setting": "writing",
+          "where": "Short story · describing a character’s mood",
+          "sentence": "Weeks of rain and unanswered letters deepened her ennui until she stopped expecting visitors.",
+          "highlight": "ennui",
+          "tip": "It suits descriptive writing where the character feels detached and emotionally flat."
+        }
+      ],
+      "origin": {
+        "summary": "Borrowed from French, where it means weariness or boredom caused by a lack of occupation or excitement.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "French",
+            "text": "The word develops from ennuier, ‘to bore’, and related forms connected with occupation or activity."
+          },
+          {
+            "when": "1700s",
+            "text": "Ennui begins appearing in English, influenced by French literature and conversation."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a literary term for a profound, reflective boredom or dissatisfaction."
+          }
+        ]
+      },
+      "similar": [
+        "boredom",
+        "listlessness",
+        "disillusionment",
+        "melancholy",
+        "existential angst"
+      ],
+      "opposite": "enthusiasm",
+      "pitfall": "Ennui is more serious than simple boredom, and the final vowel is pronounced like the French word \"rue,\" not \"ee.\""
+    },
+    {
+      "id": "equanimity",
+      "kind": "word",
+      "term": "equanimity",
+      "pos": "noun",
+      "phonetic": "/ˌekwəˈnɪməti/",
+      "sayIt": "ih-KWAN-ih-tee",
+      "register": "Formal",
+      "meaning": "Calmness and steadiness of feeling, especially during a difficult or tense situation.",
+      "nuance": "It suggests emotional control that lets you think clearly without becoming upset, angry or flustered. It is especially useful in formal writing when you want to describe composed or professional behaviour.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · responding to criticism",
+          "sentence": "She received the criticism with equanimity and asked for specific examples before replying.",
+          "highlight": "equanimity",
+          "tip": "Often describes someone staying composed when the situation could easily provoke a reaction."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · unexpected disagreement",
+          "sentence": "He kept his equanimity while his relatives argued about where to eat.",
+          "highlight": "equanimity",
+          "tip": "A slightly formal and polished alternative to saying that someone remained calm."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · noting a challenge",
+          "sentence": "Her equanimity under pressure helped the team navigate several last-minute problems.",
+          "highlight": "equanimity",
+          "tip": "Works well in reports and profiles when you want to emphasise controlled, dependable reactions."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin aequanimitas, meaning calmness or equality of mind. The root aequus means equal or even, while animus refers to the mind or spirit.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Aequanimitas is formed from aequus, ‘equal or even’, and animus, ‘mind or spirit’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word appears in English with the sense of calmness or an even mind."
+          },
+          {
+            "when": "Today",
+            "text": "It is used mainly for emotional steadiness in tense or difficult circumstances."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "equanimous",
+          "label": "adjective"
+        },
+        {
+          "term": "equanimously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "composure",
+        "calmness",
+        "poise",
+        "self-control"
+      ],
+      "opposite": "agitation",
+      "pitfall": "Equanimity describes calm emotional control, not simply a quiet atmosphere or a lack of activity."
+    },
+    {
+      "id": "excruciating",
+      "kind": "word",
+      "term": "excruciating",
+      "pos": "adjective",
+      "phonetic": "/ɪkˈskruːʃi.eɪtɪŋ/",
+      "sayIt": "ik-SKOO-shee-AY-ting",
+      "register": "Common in speech and writing",
+      "meaning": "So painful, difficult, or unpleasant that it causes intense distress.",
+      "nuance": "The word conveys a very strong degree of suffering or difficulty. It can describe physical pain, emotional anguish, or an exceptionally hard experience.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · reporting a setback",
+          "sentence": "Rebuilding the broken database was an excruciating process, but the team finally had it running again.",
+          "highlight": "excruciating",
+          "tip": "Use it when the difficulty was severe enough to sound almost unbearable."
+        },
+        {
+          "setting": "social",
+          "where": "At a concert · waiting for the opening act",
+          "sentence": "The opening act was excruciatingly long, and several people checked their phones repeatedly.",
+          "highlight": "excruciatingly",
+          "tip": "The adverb works when you want to intensify how painful or tedious something was."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing an intense performance",
+          "sentence": "Her performance was excruciating, combining raw emotion with technical precision.",
+          "highlight": "excruciating",
+          "tip": "It can describe something intensely painful or difficult to experience, not only physical pain."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin excruciare, meaning ‘to crucify’, which comes from crux, ‘cross’ or ‘wooden frame used for crucifixion’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Excruciare develops from crux, referring to crucifixion and extreme torture."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with meanings connected to torture and severe suffering."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for intense physical pain, emotional distress, or extreme difficulty."
+          }
+        ]
+      },
+      "similar": [
+        "agonizing",
+        "painful",
+        "torturous",
+        "unbearable"
+      ],
+      "opposite": "pleasurable",
+      "pitfall": "Do not confuse it with innocuous, which means harmless and unlikely to cause trouble."
+    },
+    {
+      "id": "exult",
+      "kind": "word",
+      "term": "exult",
+      "pos": "verb",
+      "phonetic": "/ɪɡˈzʌlt/",
+      "sayIt": "ig-ZULT",
+      "register": "Formal and literary",
+      "meaning": "To celebrate or express intense joy, often with great enthusiasm.",
+      "nuance": "Stronger and more theatrical than simply being happy. It often appears in dramatic accounts of victories, achievements or good news.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch event · major project success",
+          "sentence": "The engineers exulted when the new system handled twice the expected traffic.",
+          "highlight": "exulted",
+          "tip": "Use it for unusually emphatic joy rather than ordinary satisfaction."
+        },
+        {
+          "setting": "social",
+          "where": "Family celebration · good news",
+          "sentence": "We exulted when my sister announced that she had passed the exam.",
+          "highlight": "exulted",
+          "tip": "The past tense works naturally when describing how people reacted to welcome news."
+        },
+        {
+          "setting": "writing",
+          "where": "Match report · dramatic victory",
+          "sentence": "The visitors exulted at the final whistle, celebrating a stunning late winner.",
+          "highlight": "exulted",
+          "tip": "It gives formal sports reporting energy and a sense of uninhibited celebration."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin exultare, meaning ‘to leap for joy’ or ‘celebrate triumphantly’, connected with exsilire, ‘to leap out’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Exultare develops the sense of leaping with joy or celebrating in triumph."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in a formal sense meaning to celebrate enthusiastically."
+          },
+          {
+            "when": "Today",
+            "text": "It remains literary and is mainly used for intense, triumphant joy."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "exultation",
+          "label": "noun"
+        },
+        {
+          "term": "exultant",
+          "label": "adjective"
+        },
+        {
+          "term": "exultantly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "revel",
+        "jubiliate",
+        "celebrate",
+        "exuberate"
+      ],
+      "opposite": "mourn",
+      "pitfall": "Don’t confuse it with exalt, which means to praise or elevate something, not necessarily to celebrate joyfully."
+    }
+  ]
+}

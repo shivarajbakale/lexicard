@@ -1,0 +1,590 @@
+{
+  "id": "phrases-writing-email",
+  "kind": "phrase",
+  "name": "Writing & email",
+  "blurb": "10 phrases about writing & email",
+  "cards": [
+    {
+      "id": "and-so-forth",
+      "kind": "phrase",
+      "term": "and so forth",
+      "pos": "phrase",
+      "hint": "continuing a list",
+      "register": "Formal",
+      "meaning": "Used to indicate that more items or details follow in the same way.",
+      "nuance": "It sounds formal and slightly old-fashioned, so use it in professional writing or when presenting a structured list. In casual conversation, “and so on” is usually more natural.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning a multi-stage project",
+          "sentence": "The rollout covers training, documentation, testing and so forth.",
+          "highlight": "and so forth",
+          "tip": "Use it after naming several clear examples; avoid it when the reader needs the complete list."
+        },
+        {
+          "setting": "social",
+          "where": "Describing a busy day",
+          "sentence": "We met old friends, talked about our jobs and so forth.",
+          "highlight": "and so forth",
+          "tip": "It can sound overly formal among close friends; “and so on” may fit better."
+        },
+        {
+          "setting": "writing",
+          "where": "Summarising several responsibilities",
+          "sentence": "Her role includes research, interviews, report writing and so forth.",
+          "highlight": "and so forth",
+          "tip": "For important documents, name every item instead of using this vague ending."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines older language for moving onward with a way of continuing a list. Its modern use is established in English writing and formal speech.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Forth means onward or onward from a starting point."
+          },
+          {
+            "when": "17th century",
+            "text": "Writers began using “so forth” to continue a sequence or series."
+          },
+          {
+            "when": "Today",
+            "text": "“And so forth” remains common in formal lists and professional writing, though “and so on” is more frequent in everyday speech."
+          }
+        ]
+      },
+      "similar": [
+        "and so on",
+        "and the like",
+        "and so forth and so on"
+      ],
+      "opposite": "etcetera",
+      "pitfall": "It can sound vague or unnecessarily formal, especially in casual conversation and important documents."
+    },
+    {
+      "id": "and-so-on",
+      "kind": "phrase",
+      "term": "and so on",
+      "pos": "phrase",
+      "hint": "and more like it",
+      "register": "Everyday",
+      "meaning": "Used to show that a list continues with more examples of the same kind.",
+      "nuance": "It is informal and often slightly vague, so use it when the exact extra details are not important.",
+      "literal": "And continuing in the same way.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team update · listing priorities",
+          "sentence": "We need to refresh the website, update the product photos, and so on.",
+          "highlight": "and so on",
+          "tip": "Use it for minor supporting items; list important priorities separately."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up · describing the weekend",
+          "sentence": "We visited two museums, tried several restaurants, and so on.",
+          "highlight": "and so on",
+          "tip": "It suits casual conversation when you do not want to recount every detail."
+        },
+        {
+          "setting": "writing",
+          "where": "Event recap · adding extra examples",
+          "sentence": "The workshop covered time management, clear communication, and so on.",
+          "highlight": "and so on",
+          "tip": "Prefer a full list in formal writing when each item matters."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the older expression “so on,” meaning “in that way” or “continuing similarly.” Adding “and” made it especially easy to end a list.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“So on” was used to mean that something continued in a similar way."
+          },
+          {
+            "when": "17th century",
+            "text": "The expression “and so on” began appearing in English writing."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in speech and informal writing as a quick way to close a list."
+          }
+        ]
+      },
+      "similar": [
+        "etc.",
+        "and the rest",
+        "and more"
+      ],
+      "pitfall": "“And so on” can sound lazy or overly vague in a detailed document. Name the remaining items when precision matters."
+    },
+    {
+      "id": "and-the-like",
+      "kind": "phrase",
+      "term": "and the like",
+      "pos": "phrase",
+      "hint": "similar things too",
+      "register": "Common at work",
+      "meaning": "Used to mention other similar examples without naming each one.",
+      "nuance": "It creates a short, inclusive summary, often in lists or explanations. Use it when the exact examples are less important than the general pattern.",
+      "literal": "Other things of the same kind.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning a workshop · listing topics",
+          "sentence": "We’ll cover customer feedback, competitor research, and the like in the first session.",
+          "highlight": "and the like",
+          "tip": "Use it to shorten a list, but name key items clearly if they matter."
+        },
+        {
+          "setting": "social",
+          "where": "Describing a busy week",
+          "sentence": "I’ve been dealing with appointments, paperwork, and the like all afternoon.",
+          "highlight": "and the like",
+          "tip": "It sounds conversational and avoids listing every detail."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · summarising work",
+          "sentence": "The team has completed interviews, surveys, and the like ahead of the review.",
+          "highlight": "and the like",
+          "tip": "Use it in a general summary, not when readers need a complete list."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase grew from the older expression “the like,” meaning things of a similar kind. Its modern use as a list-ending phrase became established in English during the 19th century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“The like” was used to refer to similar things or examples."
+          },
+          {
+            "when": "19th century",
+            "text": "The combined form “and the like” became common as a convenient way to close a list."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar phrase in both formal writing and everyday conversation."
+          }
+        ]
+      },
+      "similar": [
+        "and so on",
+        "and similar",
+        "such things",
+        "the rest"
+      ],
+      "pitfall": "It can sound vague; name the examples that your audience absolutely needs to know."
+    },
+    {
+      "id": "art-imitates-life",
+      "kind": "phrase",
+      "term": "art imitates life",
+      "pos": "idiom",
+      "hint": "creative work reflects real life",
+      "register": "Neutral",
+      "meaning": "Artistic work often reflects the real world, including people, experiences and social situations.",
+      "nuance": "This is a broad observation about the relationship between art and everyday life. It can sound thoughtful in a discussion about books, films, painting or music.",
+      "literal": "Artists make work based on what happens in real life.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Creative team review · discussing a campaign",
+          "sentence": "The campaign feels authentic because art imitates life, and our customers noticed the ordinary moments.",
+          "highlight": "art imitates life",
+          "tip": "Use it when connecting creative choices to real customer experiences."
+        },
+        {
+          "setting": "social",
+          "where": "Film discussion with friends",
+          "sentence": "That scene stayed with me because art imitates life, especially when a character handles a difficult goodbye.",
+          "highlight": "art imitates life",
+          "tip": "It works as a general comment before explaining what made the scene powerful."
+        },
+        {
+          "setting": "writing",
+          "where": "Essay about contemporary novels",
+          "sentence": "Many modern novelists believe that art imitates life by turning everyday routines into meaningful stories.",
+          "highlight": "art imitates life",
+          "tip": "Follow it with a specific example or argument to make the point clear."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is probably based on the long idea, found in ancient Greek philosophy, that artistic creation draws from reality. Its exact modern wording became established in the 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Ancient Greece",
+            "text": "Greek thinkers examined how poetry and performance imitate actions, people and nature."
+          },
+          {
+            "when": "19th century",
+            "text": "The English phrase “art imitates life” appeared as artists and critics described the relationship between creative work and reality."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar way to discuss how art reflects everyday experiences."
+          }
+        ]
+      },
+      "similar": [
+        "art reflects life",
+        "life imitates art",
+        "art draws from life"
+      ],
+      "opposite": "art takes flight",
+      "pitfall": "This is a broad claim, not a rule; some art deliberately distorts reality, fantasy or imagination instead."
+    },
+    {
+      "id": "duly-noted",
+      "kind": "phrase",
+      "term": "duly noted",
+      "pos": "phrase",
+      "hint": "formally acknowledged",
+      "register": "Formal",
+      "meaning": "Acknowledged and understood in an official or careful way.",
+      "nuance": "It sounds more formal than “noted” and can suggest that something has been recorded for attention. It may also be used with a hint of sarcasm when you want to acknowledge a point without showing enthusiasm.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Staff meeting · receiving feedback",
+          "sentence": "Your request for a later deadline was duly noted, but we still need the report by Friday.",
+          "highlight": "duly noted",
+          "tip": "Use it when acknowledging a point clearly, especially if the matter needs action."
+        },
+        {
+          "setting": "social",
+          "where": "Group chat · responding to a reminder",
+          "sentence": "Duly noted—I’ll bring the drinks this time.",
+          "highlight": "Duly noted",
+          "tip": "In a relaxed group chat, this can add dry humor; use it sparingly."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal email · acknowledging instructions",
+          "sentence": "Duly noted. I’ll update the team and send you the revised figures.",
+          "highlight": "Duly noted",
+          "tip": "It works well at the start of a professional email when you are confirming receipt."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines the formal word “duly,” meaning properly or in the expected way, with “noted,” meaning observed or recorded. It grew out of official and legal-style correspondence before becoming common in formal speech and writing.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The word “duly” was used in formal English to mean properly, fittingly or according to what was expected."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression appears in formal correspondence as a way of saying that a matter had been properly acknowledged."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal phrase, especially in emails and official responses, though it can sound playfully old-fashioned in casual conversation."
+          }
+        ]
+      },
+      "similar": [
+        "noted",
+        "understood",
+        "acknowledged"
+      ],
+      "pitfall": "In an email, “Duly noted” can sound stiff or sarcastic if the rest of the message is very casual; “Noted, thanks” is usually more natural."
+    },
+    {
+      "id": "i-think-therefore-i-am",
+      "kind": "phrase",
+      "term": "I think therefore I am",
+      "pos": "phrase",
+      "hint": "thought and existence",
+      "register": "Formal and intellectual",
+      "meaning": "The philosophical claim that the ability to think proves that one exists.",
+      "nuance": "This is a quotation from René Descartes rather than an everyday expression. It is often used in serious writing or a playful debate to discuss certainty, doubt and reasoning.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · questioning a proposal",
+          "sentence": "Using “I think therefore I am” in the meeting was funny, but it did not answer my question about the budget.",
+          "highlight": "I think therefore I am",
+          "tip": "Use it to make a philosophical point, not as a substitute for evidence or a practical answer."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · friendly debate",
+          "sentence": "My friend said, “I think therefore I am,” and suddenly our ordinary conversation became a philosophy debate.",
+          "highlight": "I think therefore I am",
+          "tip": "A playful quotation works well when the group already knows the reference."
+        },
+        {
+          "setting": "writing",
+          "where": "Essay introduction · exploring certainty",
+          "sentence": "I added “I think therefore I am” to the introduction as a playful reference to Descartes and the search for certainty.",
+          "highlight": "I think therefore I am",
+          "tip": "Name or explain Descartes when the reader may not recognise the quotation."
+        }
+      ],
+      "origin": {
+        "summary": "René Descartes used the Latin “Cogito, ergo sum” as a foundational step in his search for a basis for certainty. The standard English wording became widely known through translations of his philosophical works.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1637",
+            "text": "Descartes presented the Latin “Cogito, ergo sum” in Discourse on the Method."
+          },
+          {
+            "when": "1641",
+            "text": "He examined the idea more fully in his work Principles of Philosophy."
+          },
+          {
+            "when": "Today",
+            "text": "The translated phrase remains a well-known shorthand for Descartes’ philosophy."
+          }
+        ]
+      },
+      "similar": [
+        "cogito ergo sum",
+        "thinking proves existence",
+        "doubting the existence of the self"
+      ],
+      "pitfall": "Do not use it as an everyday synonym for “I believe”; it makes a specific philosophical claim about thought proving existence."
+    },
+    {
+      "id": "no-further-action",
+      "kind": "phrase",
+      "term": "no further action",
+      "pos": "phrase",
+      "hint": "nothing else needs doing",
+      "register": "Common at work",
+      "meaning": "Nothing more needs to be done about a matter.",
+      "nuance": "Professional and final, often used to close an update or confirm that a request has been handled. It can sound dismissive if someone still expects help or an explanation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Closing a support request",
+          "sentence": "We’ve resolved the issue, and no further action is needed from your team.",
+          "highlight": "no further action",
+          "tip": "Pair it with a brief confirmation of what was done."
+        },
+        {
+          "setting": "social",
+          "where": "Organising a group event",
+          "sentence": "I’ve booked the table, so there’s no further action for anyone else.",
+          "highlight": "no further action",
+          "tip": "Use it when responsibilities are clear and no one needs to do anything."
+        },
+        {
+          "setting": "writing",
+          "where": "Closing an email thread",
+          "sentence": "Thank you for checking this; no further action is required on your side.",
+          "highlight": "no further action",
+          "tip": "Consider adding “from your side” when other people may still have tasks."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from administrative expressions such as “no further action is required,” which became shortened as workplace communication became more concise.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Administrative and legal wording began using “no further action is required” to close a matter."
+          },
+          {
+            "when": "20th century",
+            "text": "The shorter expression “no further action” became common in professional correspondence."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely used to confirm that a task or issue has been completed."
+          }
+        ]
+      },
+      "similar": [
+        "no action needed",
+        "nothing else to do",
+        "nothing further required"
+      ],
+      "opposite": "further action required",
+      "pitfall": "Make clear who, if anyone, still needs to act; “no further action” can otherwise be understood as applying to everyone."
+    },
+    {
+      "id": "no-rights-reserved",
+      "kind": "phrase",
+      "term": "no rights reserved",
+      "pos": "phrase",
+      "hint": "a creative label suggesting permission to reuse",
+      "register": "Common in creative and online contexts",
+      "meaning": "A label suggesting that a creator is not reserving all rights and may allow others to copy, adapt or share the work.",
+      "nuance": "It often carries an open, informal or anti-corporate tone. Its legal effect is unclear unless the creator gives specific reuse terms, so it is not a reliable substitute for a licence.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Internal design workshop · sharing assets",
+          "sentence": "The template says “no rights reserved,” but check with legal before we reuse it in a client campaign.",
+          "highlight": "no rights reserved",
+          "tip": "Treat it as a statement of intent, not proof that reuse is legally cleared."
+        },
+        {
+          "setting": "social",
+          "where": "Posting a photo online",
+          "sentence": "I’m adding “no rights reserved” because I’m happy for people to repost this image.",
+          "highlight": "no rights reserved",
+          "tip": "Consider naming permitted uses so people know exactly what you allow."
+        },
+        {
+          "setting": "writing",
+          "where": "Creative portfolio footer",
+          "sentence": "For this experimental series, no rights reserved: feel free to remix the artwork and credit the project.",
+          "highlight": "no rights reserved",
+          "tip": "Add a credit request and any restrictions; the phrase alone does not spell them out."
+        }
+      ],
+      "origin": {
+        "summary": "It developed as a playful reversal of the legal notice “all rights reserved,” expressing an open attitude toward copying rather than strict copyright control.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 20th century",
+            "text": "The notice “all rights reserved” becomes established in copyright and publishing practice."
+          },
+          {
+            "when": "Late 20th century",
+            "text": "Artists, musicians and punk communities use “no rights reserved” as an informal challenge to restrictive copyright culture."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase appears on creative works and online posts to signal openness, though it has no automatic legal effect."
+          }
+        ]
+      },
+      "similar": [
+        "all rights reserved",
+        "public domain",
+        "copyleft",
+        "creative commons",
+        "do what you want"
+      ],
+      "opposite": "all rights reserved",
+      "pitfall": "“No rights reserved” does not automatically place a work in the public domain or override copyright law; state the permissions clearly if that matters."
+    },
+    {
+      "id": "show-dont-tell",
+      "kind": "phrase",
+      "term": "show, don't tell",
+      "pos": "phrase",
+      "hint": "demonstrate it rather than explain it",
+      "register": "Common in writing and creative work",
+      "meaning": "Let concrete details, actions or examples communicate an idea instead of stating it directly.",
+      "nuance": "Useful in stories, presentations and feedback because vivid specifics can make a point more convincing and memorable. It is usually advice about communication, not a command to hide information.",
+      "literal": "Show something through visible details rather than merely describing or announcing it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Feedback on a draft",
+          "sentence": "Show, don’t tell: replace “the process was confusing” with the step where people got stuck.",
+          "highlight": "Show, don’t tell",
+          "tip": "Use specific examples to make feedback easier to act on."
+        },
+        {
+          "setting": "social",
+          "where": "Describing a funny moment",
+          "sentence": "Show, don’t tell: instead of saying my neighbour was dramatic, describe the hat he wore to the wedding.",
+          "highlight": "Show, don’t tell",
+          "tip": "Let one vivid detail carry the impression for the listener."
+        },
+        {
+          "setting": "writing",
+          "where": "Revising a short story",
+          "sentence": "Show, don’t tell: replace “I was nervous” with “I dropped my keys three times before opening the door.”",
+          "highlight": "Show, don’t tell",
+          "tip": "Choose actions, dialogue or sensory details that reveal the feeling."
+        }
+      ],
+      "origin": {
+        "summary": "The advice is rooted in the long-standing idea that concrete description is more vivid than direct explanation. Its modern wording is especially associated with creative-writing instruction; the popular attribution to Anton Chekhov is not securely documented in his exact words.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Writers and rhetoricians advised using concrete examples and vivid detail rather than unsupported statements."
+          },
+          {
+            "when": "20th century",
+            "text": "The short instruction “show, don’t tell” became a familiar maxim in creative-writing and teaching contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It is used broadly for writing, presentation and feedback advice."
+          }
+        ]
+      },
+      "similar": [
+        "paint a picture",
+        "bring it to life",
+        "use concrete examples"
+      ],
+      "pitfall": "Showing does not mean adding unnecessary detail; choose details that reveal the point, character or feeling."
+    },
+    {
+      "id": "to-whom-this-may-concern",
+      "kind": "phrase",
+      "term": "To whom this may concern",
+      "pos": "phrase",
+      "hint": "an opening for unnamed recipients",
+      "register": "Formal",
+      "meaning": "A formal opening used to address anyone who may be affected by the message without naming a particular person.",
+      "nuance": "It suits official notices, public announcements and carefully worded letters. It creates distance from the reader, so use a warmer greeting when you know the audience.",
+      "literal": "To any person whom this matter may concern.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Notice to an unknown stakeholder",
+          "sentence": "To whom this may concern, the office will be closed for repairs on Thursday.",
+          "highlight": "To whom this may concern",
+          "tip": "It works when the notice applies broadly and no individual recipient can be identified."
+        },
+        {
+          "setting": "social",
+          "where": "Community group announcement",
+          "sentence": "To whom this may concern, the community centre has found a set of keys in its lobby.",
+          "highlight": "To whom this may concern",
+          "tip": "Keep it for formal public notices rather than an ordinary conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Opening of an official letter",
+          "sentence": "To whom this may concern, I am writing to confirm the arrangements discussed at our meeting.",
+          "highlight": "To whom this may concern",
+          "tip": "Follow it with a comma and a brief statement of the letter’s purpose."
+        }
+      ],
+      "origin": {
+        "summary": "This phrase developed from formal correspondence practices for addressing an unknown or unidentified recipient. Its exact first recorded use is uncertain, but it became established in legal, commercial and administrative writing.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Business and legal letters used longer formulas to address relevant recipients without naming them."
+          },
+          {
+            "when": "1800s",
+            "text": "The shorter wording became a standard formal opening in letters."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in official notices, though many writers now prefer a clearer greeting."
+          }
+        ]
+      },
+      "similar": [
+        "To whom it may concern",
+        "Dear Sir or Madam",
+        "For the attention of"
+      ],
+      "pitfall": "The phrase does not identify the intended reader; if you know who should receive the message, address them directly."
+    }
+  ]
+}

@@ -1,0 +1,1489 @@
+{
+  "id": "phrases-reacting-5",
+  "kind": "phrase",
+  "name": "Reacting · 5",
+  "blurb": "25 phrases about reacting",
+  "cards": [
+    {
+      "id": "no-time-to-lose",
+      "kind": "phrase",
+      "term": "no time to lose",
+      "pos": "phrase",
+      "hint": "act now or miss the chance",
+      "register": "Common at work",
+      "meaning": "There is an urgent need to act immediately because delay could mean missing an opportunity.",
+      "nuance": "It adds pressure and a sense of consequence, so it works well for deadlines or fast-moving situations. In casual conversation, it can sound dramatic if the situation is not truly urgent.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch meeting · fixing a delay",
+          "sentence": "We have no time to lose, so let’s identify the quickest way to get the product ready.",
+          "highlight": "no time to lose",
+          "tip": "Follow it with a clear action so the urgency feels purposeful."
+        },
+        {
+          "setting": "social",
+          "where": "Friends · catching a last-minute opportunity",
+          "sentence": "Tickets are nearly gone, so we’ve got no time to lose if we want to go tonight.",
+          "highlight": "no time to lose",
+          "tip": "It works naturally when the need to act is immediate and obvious."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining a deadline",
+          "sentence": "With the client arriving tomorrow, there is no time to lose on the remaining changes.",
+          "highlight": "no time to lose",
+          "tip": "Use it in urgent internal updates, but provide the specific reason and next step."
+        }
+      ],
+      "origin": {
+        "summary": "The wording comes from the idea that wasting time also wastes a valuable chance to act. The phrase became established through its clear association with urgency.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The phrase developed from the literal idea that delay uses time that cannot be recovered."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "Similar expressions about having no time to lose appeared in writing as urgency became a familiar way to describe immediate action."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in work, news and everyday speech when someone wants to stress that action cannot wait."
+          }
+        ]
+      },
+      "similar": [
+        "time is of the essence",
+        "can’t afford to wait",
+        "urgently"
+      ],
+      "opposite": "no rush",
+      "pitfall": "Don’t use it when a task can wait; it can make a manageable deadline sound like a crisis."
+    },
+    {
+      "id": "no-word-of-a-lie",
+      "kind": "phrase",
+      "term": "no word of a lie",
+      "pos": "idiom",
+      "hint": "every word is true",
+      "register": "Casual",
+      "meaning": "Used to emphasize that something someone has said is completely true.",
+      "nuance": "It sounds strong and relieved, often after admitting a surprising fact or confirming someone’s story. It is more conversational and emotional than simply saying “that’s true.”",
+      "literal": "Every word spoken is true, with no lie mixed in.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team conversation · confirming a report",
+          "sentence": "The client approved the final budget without changing anything—there was no word of a lie.",
+          "highlight": "no word of a lie",
+          "tip": "Use it when you want to emphasize surprising good news."
+        },
+        {
+          "setting": "social",
+          "where": "Listening to a friend · reacting to news",
+          "sentence": "She really did win the competition; there was no word of a lie.",
+          "highlight": "no word of a lie",
+          "tip": "It works best after an emphatic claim that might otherwise sound exaggerated."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message · sharing good news",
+          "sentence": "He really did complete the entire project on time—there was no word of a lie.",
+          "highlight": "no word of a lie",
+          "tip": "It suits personal messages better than formal reports or business emails."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from older expressions such as “not a word of a lie” and “every word true,” which promise that a statement contains nothing false.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Related expressions used “every word true” and “not a word of a lie” to stress complete truthfulness."
+          },
+          {
+            "when": "19th century",
+            "text": "The wording became established in conversation and popular writing."
+          },
+          {
+            "when": "Today",
+            "text": "It remains an emphatic, informal way to confirm that someone’s story is true."
+          }
+        ]
+      },
+      "similar": [
+        "every word is true",
+        "not a word of a lie",
+        "that’s the truth",
+        "true as can be"
+      ],
+      "pitfall": "The phrase is very emphatic, so it can sound exaggerated or melodramatic in a serious situation."
+    },
+    {
+      "id": "none-other-than",
+      "kind": "phrase",
+      "term": "none other than",
+      "pos": "phrase",
+      "hint": "not a different person, but one specific person",
+      "register": "Everyday",
+      "meaning": "Used to identify someone or something when the person or thing is unexpected or noteworthy.",
+      "nuance": "It adds emphasis and often a touch of surprise. It can sound admiring or dramatic, so use it selectively in formal writing.",
+      "literal": "Not a different person, but one specific person.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team introduction · surprising contributor",
+          "sentence": "The person who solved our production issue was none other than our new intern.",
+          "highlight": "none other than",
+          "tip": "It works well when revealing an unexpected but relevant person."
+        },
+        {
+          "setting": "social",
+          "where": "Party arrival · recognizing a friend",
+          "sentence": "At the door was none other than my old neighbour, holding a bottle of wine.",
+          "highlight": "none other than",
+          "tip": "Use it for a cheerful reveal when someone unexpected appears."
+        },
+        {
+          "setting": "writing",
+          "where": "Event recap · acknowledging a guest",
+          "sentence": "The opening speaker was none other than the author whose book inspired the evening.",
+          "highlight": "none other than",
+          "tip": "It adds a dramatic flourish, so keep the surrounding writing plain."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase grew from the older construction “none other,” with the second “than” added to make comparison clearer. Its modern sense is well established, though the exact point when it became fixed is difficult to date.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“None” and “other” were combined to mean no person or thing besides the one named."
+          },
+          {
+            "when": "1500s",
+            "text": "Forms of “none other than” appeared in English writing as a more explicit comparison."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase is widely used to introduce an unexpected or noteworthy person or thing."
+          }
+        ]
+      },
+      "similar": [
+        "no one but",
+        "not only",
+        "other than"
+      ],
+      "opposite": "someone else",
+      "pitfall": "The phrase should identify a specific person or thing; using it with an abstract quality such as “none other than trouble” is usually comic or deliberately exaggerated."
+    },
+    {
+      "id": "not-before-time",
+      "kind": "phrase",
+      "term": "not before time",
+      "pos": "phrase",
+      "hint": "not too early, not prematurely",
+      "register": "Common",
+      "meaning": "At a suitable or expected time, rather than earlier than necessary.",
+      "nuance": "This suggests that something is happening at the right moment, not that it is late. It often works as a reassuring response to someone who is worried about waiting.",
+      "literal": "The event has not happened earlier than the proper or expected time.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch planning · checking timing",
+          "sentence": "Don’t worry about the delay; the announcement is not before time.",
+          "highlight": "not before time",
+          "tip": "Use it to reassure someone that a planned change will happen when it is ready."
+        },
+        {
+          "setting": "social",
+          "where": "Waiting for a friend · checking plans",
+          "sentence": "Relax, your friend is not before time; they’re probably stuck in traffic.",
+          "highlight": "not before time",
+          "tip": "This is a gentle way to explain a delay without making it sound serious."
+        },
+        {
+          "setting": "writing",
+          "where": "Email about a delayed update",
+          "sentence": "The review is not before time, so we will send the final details once the checks are complete.",
+          "highlight": "not before time",
+          "tip": "It can soften the message that someone will need to wait a little longer."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from the literal idea that something should not happen before its proper time. The exact first recorded use is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The phrase developed from “before time,” meaning ahead of the proper or expected time."
+          },
+          {
+            "when": "19th–20th century",
+            "text": "The expression became used in speech to describe things that were not premature."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a natural, slightly formal way to comment on timing."
+          }
+        ]
+      },
+      "similar": [
+        "in due course",
+        "not too soon",
+        "at the right time"
+      ],
+      "opposite": "ahead of time",
+      "pitfall": "Use this only when the timing is appropriate; it does not mean that something is happening later than planned."
+    },
+    {
+      "id": "not-on-any-account",
+      "kind": "phrase",
+      "term": "not on any account",
+      "pos": "phrase",
+      "hint": "certainly not, whatever the reason",
+      "register": "Common at work",
+      "meaning": "Used to say that something will definitely not happen or must never be done.",
+      "nuance": "This is emphatic and slightly formal. It works best when you need to refuse something clearly or rule out an action completely.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Workplace request · refusing extra work",
+          "sentence": "I won’t share the client’s data with anyone outside the team, not on any account.",
+          "highlight": "not on any account",
+          "tip": "Use it for a firm limit, especially when confidentiality matters."
+        },
+        {
+          "setting": "social",
+          "where": "Friend’s invitation · changing the plan",
+          "sentence": "You are not borrowing my car tonight, not on any account.",
+          "highlight": "not on any account",
+          "tip": "It sounds stronger and more dramatic than simply saying “No.”"
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a supplier · rejecting an offer",
+          "sentence": "We cannot accept a delivery after Friday, not on any account.",
+          "highlight": "not on any account",
+          "tip": "Keep it in formal writing when an absolutely firm answer is needed."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from older emphatic wording such as “on no account,” where “account” meant reason or consideration.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Older expressions used “account” in the sense of reason or grounds for an action."
+          },
+          {
+            "when": "Later",
+            "text": "Forms such as “on no account” became established ways of expressing an absolute refusal."
+          },
+          {
+            "when": "Today",
+            "text": "“Not on any account” remains a forceful, formal alternative to “never” or “under no circumstances.”"
+          }
+        ]
+      },
+      "similar": [
+        "under no circumstances",
+        "on no account",
+        "never in a million years"
+      ],
+      "pitfall": "The phrase is very strong; it can sound dramatic in a minor situation, so use a gentler refusal when the point is not serious."
+    },
+    {
+      "id": "not-so-fast",
+      "kind": "phrase",
+      "term": "not so fast",
+      "pos": "phrase",
+      "hint": "hold on; don’t rush",
+      "register": "Common",
+      "meaning": "Used to tell someone to wait and not act or assume something too quickly.",
+      "nuance": "Direct but playful, often used when correcting an assumption or interrupting a plan. It can sound dismissive if the reason for the pause is not explained.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · challenging a premature decision",
+          "sentence": "Not so fast—we should check the budget before promising a delivery date.",
+          "highlight": "Not so fast",
+          "tip": "Follow it with a practical reason to soften the correction."
+        },
+        {
+          "setting": "social",
+          "where": "Planning with friends · considering an expensive activity",
+          "sentence": "Not so fast; let’s ask how much the tickets cost before we book anything.",
+          "highlight": "Not so fast",
+          "tip": "This light version works well when friends are moving too quickly."
+        },
+        {
+          "setting": "writing",
+          "where": "Email response · correcting an assumption",
+          "sentence": "Not so fast—the deadline is still under review, so please don’t share the date yet.",
+          "highlight": "Not so fast",
+          "tip": "Pair it with clear context so it does not feel abrupt in a formal message."
+        }
+      ],
+      "origin": {
+        "summary": "The wording has long been used as a brisk warning that someone is acting too quickly. Its familiar conversational form appears in English by the early 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The basic sense is a warning to stop or slow down."
+          },
+          {
+            "when": "Early 20th century",
+            "text": "“Not so fast” becomes established in English conversation as a brief response to premature action or confidence."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common way to pause someone, with a tone ranging from playful to firm."
+          }
+        ]
+      },
+      "similar": [
+        "hold on",
+        "wait a moment",
+        "easy does it"
+      ],
+      "opposite": "go ahead",
+      "pitfall": "It may sound like you are shutting down the discussion; briefly explain what needs checking first."
+    },
+    {
+      "id": "not-the-brightest-bulb-in-the-chandelier",
+      "kind": "phrase",
+      "term": "not the brightest bulb in the chandelier",
+      "pos": "idiom",
+      "hint": "not very intelligent",
+      "register": "Casual",
+      "meaning": "Not very intelligent or quick to understand something.",
+      "nuance": "Humorous but potentially insulting, so it is best used among people who know each other well. It is usually about someone’s thinking rather than their general character.",
+      "literal": "A chandelier has several light bulbs, and this imagines that the speaker is not the brightest one.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Explaining a simple process",
+          "sentence": "He may be not the brightest bulb in the chandelier, but he learns quickly once someone shows him the steps.",
+          "highlight": "not the brightest bulb in the chandelier",
+          "tip": "Use it gently with a colleague; it can sound insulting in a formal workplace."
+        },
+        {
+          "setting": "social",
+          "where": "Teasing a friend over a puzzle",
+          "sentence": "I’m clearly not the brightest bulb in the chandelier because I’ve tried this puzzle three times.",
+          "highlight": "not the brightest bulb in the chandelier",
+          "tip": "A light self-deprecating joke can make the teasing feel friendly."
+        },
+        {
+          "setting": "writing",
+          "where": "Casual message to a friend",
+          "sentence": "I’m not the brightest bulb in the chandelier, so explain the trick again, please.",
+          "highlight": "not the brightest bulb in the chandelier",
+          "tip": "It works in an informal message but may be too mocking for professional correspondence."
+        }
+      ],
+      "origin": {
+        "summary": "The exact wording is not clearly recorded in standard etymologies. It likely developed as a more elaborate version of older light-bulb comparisons such as “the smartest bulb in the box.”",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Light-bulb metaphors were used to describe intelligence, often comparing one person’s quick thinking with a duller one."
+          },
+          {
+            "when": "20th century",
+            "text": "The “brightest bulb” comparison spread in informal English and was later extended with “in the chandelier.”"
+          },
+          {
+            "when": "Today",
+            "text": "The full phrase remains a casual, mildly insulting idiom rather than standard business English."
+          }
+        ]
+      },
+      "similar": [
+        "not the sharpest tool in the shed",
+        "not the smartest person in the room",
+        "a bit slow on the uptake"
+      ],
+      "opposite": "as sharp as a tack",
+      "pitfall": "It can sound affectionate when you are teasing yourself or a close friend, but harsher when directed at a colleague or stranger."
+    },
+    {
+      "id": "not-the-end-of-the-world",
+      "kind": "phrase",
+      "term": "not the end of the world",
+      "pos": "idiom",
+      "hint": "a problem is serious, but manageable",
+      "register": "Everyday",
+      "meaning": "Used to reassure someone that a problem is serious but will not cause lasting harm.",
+      "nuance": "It can comfort people who are worried or apologetic, but it may sound dismissive if someone genuinely needs support.",
+      "literal": "The world continuing to exist after a frightening or difficult event.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Missed deadline · reassuring a colleague",
+          "sentence": "We missed the first deadline, but it’s not the end of the world—we can revise the plan today.",
+          "highlight": "not the end of the world",
+          "tip": "Acknowledge the problem before using this reassurance."
+        },
+        {
+          "setting": "social",
+          "where": "Cancelled plans · comforting a friend",
+          "sentence": "Your flight got cancelled, but it’s not the end of the world; we can meet next weekend instead.",
+          "highlight": "not the end of the world",
+          "tip": "It works well when the inconvenience is minor and the mood is light."
+        },
+        {
+          "setting": "writing",
+          "where": "Email after a delay · managing expectations",
+          "sentence": "The delivery will arrive two days late, which is not the end of the world, and we’ll refund the shipping fee.",
+          "highlight": "not the end of the world",
+          "tip": "Pair it with a practical solution so it does not feel dismissive."
+        }
+      ],
+      "origin": {
+        "summary": "This phrase uses the idea of the world ending to describe a serious setback that is temporary rather than catastrophic.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used dramatic expressions about the end of the world for extreme disaster or ruin."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression developed into a reassuring way to put a difficult situation into perspective."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in everyday conversation to soften the impact of setbacks and mistakes."
+          }
+        ]
+      },
+      "similar": [
+        "not a disaster",
+        "not catastrophic",
+        "not the worst thing ever"
+      ],
+      "opposite": "the end of the world",
+      "pitfall": "Do not use it to dismiss someone’s genuine distress or a serious problem that still needs attention."
+    },
+    {
+      "id": "not-the-sharpest-crayon-in-the-box",
+      "kind": "phrase",
+      "term": "not the sharpest crayon in the box",
+      "pos": "idiom",
+      "hint": "not very intelligent",
+      "register": "Casual",
+      "meaning": "Not very intelligent or quick to understand something.",
+      "nuance": "This is a playful but insulting way to describe someone as slow-witted. It can sound affectionate among close friends, but may be rude or unprofessional at work.",
+      "literal": "A crayon in a box that is blunt or worn, rather than sharpened to a fine point.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Explaining a simple process · teasing a colleague",
+          "sentence": "You’re not the sharpest crayon in the box, but I’m happy to explain the steps again.",
+          "highlight": "not the sharpest crayon in the box",
+          "tip": "Keep this among colleagues who share an easygoing relationship; it can sound mocking in a formal workplace."
+        },
+        {
+          "setting": "social",
+          "where": "Game night · joking about a wrong answer",
+          "sentence": "I guessed the first clue, so I’m clearly not the sharpest crayon in the box tonight.",
+          "highlight": "not the sharpest crayon in the box",
+          "tip": "Use it about yourself for self-deprecating humor rather than directly about someone else."
+        },
+        {
+          "setting": "writing",
+          "where": "Friendly message · teasing a close friend",
+          "sentence": "I’m not the sharpest crayon in the box, but I’m pretty sure that message was a joke.",
+          "highlight": "not the sharpest crayon in the box",
+          "tip": "It works best in informal writing with people who already know you well."
+        }
+      ],
+      "origin": {
+        "summary": "The wording is probably a playful American expansion of older expressions about being a dull pencil or not having a sharp mind. Its exact first use is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used comparisons involving sharp pencils and dull minds to describe limited intelligence."
+          },
+          {
+            "when": "20th century",
+            "text": "The phrase developed into a joking variation using “crayon in the box.”"
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly informal and humorous, especially in American English."
+          }
+        ]
+      },
+      "similar": [
+        "not the brightest bulb in the box",
+        "not exactly a rocket scientist",
+        "a bit slow on the uptake",
+        "not too sharp"
+      ],
+      "opposite": "sharp",
+      "pitfall": "This phrase directly labels someone as unintelligent, so avoid it in feedback, interviews, customer conversations or other sensitive situations."
+    },
+    {
+      "id": "not-the-sharpest-pencil-in-the-box",
+      "kind": "phrase",
+      "term": "not the sharpest pencil in the box",
+      "pos": "idiom",
+      "hint": "not very clever",
+      "register": "Casual",
+      "meaning": "Not very intelligent, quick to understand, or able to make good decisions.",
+      "nuance": "This is a light, teasing way to describe someone who seems slow or has made a poor decision. It can sound insulting, so use it only with people you know well and when the mood is relaxed.",
+      "literal": "A dull pencil is less effective at writing than a sharp one, so the sharpest pencil in the box represents the cleverest person.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · explaining a simple process",
+          "sentence": "If the instructions are still unclear, maybe I should explain them again—I'm not the sharpest pencil in the box.",
+          "highlight": "not the sharpest pencil in the box",
+          "tip": "Use it about yourself to soften a misunderstanding, rather than aiming it at a colleague."
+        },
+        {
+          "setting": "social",
+          "where": "Joking with friends · someone misses an obvious detail",
+          "sentence": "You locked your keys in the car? Well, you're not the sharpest pencil in the box today.",
+          "highlight": "not the sharpest pencil in the box",
+          "tip": "It works best as playful teasing among friends who can take a joke."
+        },
+        {
+          "setting": "writing",
+          "where": "Casual message · clarifying a mistake",
+          "sentence": "I misunderstood the email, so I'm not the sharpest pencil in the box this morning.",
+          "highlight": "not the sharpest pencil in the box",
+          "tip": "Use it to admit a mistake without becoming overly formal or defensive."
+        }
+      ],
+      "origin": {
+        "summary": "The expression likely developed from the idea that a sharp pencil is more useful than a dull one. Its exact first use is not securely documented, but it became established as a teasing way to describe someone who is not quick-witted.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal image of the sharpest pencil in a box suggested the cleverest or most capable person."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression was used in informal speech to call someone slow-witted or not very bright."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a casual, mildly insulting idiom, especially in speech and friendly teasing."
+          }
+        ]
+      },
+      "similar": [
+        "not the brightest bulb",
+        "a few bricks short of a full load",
+        "not exactly rocket science",
+        "slow on the uptake"
+      ],
+      "opposite": "one of the sharpest pencils in the box",
+      "pitfall": "It can sound genuinely rude, so avoid using it about a colleague, client, or anyone you do not know well."
+    },
+    {
+      "id": "not-the-sharpest-tool-in-the-box",
+      "kind": "phrase",
+      "term": "not the sharpest tool in the box",
+      "pos": "idiom",
+      "hint": "not very quick to understand",
+      "register": "Casual",
+      "meaning": "Not very intelligent or quick to understand.",
+      "nuance": "It sounds teasing and informal, so use it with people you know well or when the criticism is clearly lighthearted.",
+      "literal": "A tool that is not especially sharp among the tools kept in a box.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team chat · untangling a confusing request",
+          "sentence": "Sorry, I’m not the sharpest tool in the box, but could you explain who owns this task?",
+          "highlight": "not the sharpest tool in the box",
+          "tip": "Use it about yourself to soften a request for clarification."
+        },
+        {
+          "setting": "social",
+          "where": "Movie night · explaining a complex plot",
+          "sentence": "I’m not the sharpest tool in the box, so explain the time jump again.",
+          "highlight": "not the sharpest tool in the box",
+          "tip": "It works well as a playful admission that you’re confused."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message · asking for clearer instructions",
+          "sentence": "I’m not the sharpest tool in the box, so could you send the steps in a simpler order?",
+          "highlight": "not the sharpest tool in the box",
+          "tip": "Keep it in informal messages; it may sound insulting in formal correspondence."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from older expressions comparing a dull tool with sharper ones in the same box. The familiar modern wording became established in British English during the 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression developed from comparisons between tools in a shared box."
+          },
+          {
+            "when": "20th century",
+            "text": "The phrase became a familiar British way of describing someone who is not quick-witted."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in casual British and Australian speech, usually with playful or self-deprecating humour."
+          }
+        ]
+      },
+      "similar": [
+        "not the sharpest knife in the drawer",
+        "not the brightest bulb",
+        "a few bricks short of a full load"
+      ],
+      "opposite": "quick on the uptake",
+      "pitfall": "Even when meant lightly, this phrase can sound insulting, so avoid it when discussing someone’s intelligence directly."
+    },
+    {
+      "id": "not-the-sharpest-tool-in-the-shed",
+      "kind": "phrase",
+      "term": "not the sharpest tool in the shed",
+      "pos": "idiom",
+      "hint": "not very clever",
+      "register": "Casual",
+      "meaning": "Not very intelligent or quick to understand something.",
+      "nuance": "This is a light, teasing way to describe someone’s lack of cleverness, often among friends or familiar colleagues. It can sound insulting in a serious or unfamiliar setting.",
+      "literal": "A shed contains tools, but not all of them are sharp or effective.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · explaining a simple process",
+          "sentence": "I repeated the instructions twice because he’s not the sharpest tool in the shed.",
+          "highlight": "not the sharpest tool in the shed",
+          "tip": "Keep this among colleagues you know well; it can sound mocking otherwise."
+        },
+        {
+          "setting": "social",
+          "where": "Chatting with friends · teasing someone",
+          "sentence": "Don’t take the wrong turn; you’re definitely not the sharpest tool in the shed.",
+          "highlight": "not the sharpest tool in the shed",
+          "tip": "It works best as affectionate teasing when there’s clear affection."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message to a friend · joking explanation",
+          "sentence": "I’m not the sharpest tool in the shed, but I think the meeting is tomorrow.",
+          "highlight": "not the sharpest tool in the shed",
+          "tip": "Use it in relaxed messages, not formal reports or feedback about a colleague."
+        }
+      ],
+      "origin": {
+        "summary": "This phrase comes from the idea that a shed contains useful tools, but some are blunt or worn out. The comparison for a clever person is well established, and the full expression is especially associated with Australian English.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People began comparing clever or capable people with sharp tools and ordinary people with blunt tools."
+          },
+          {
+            "when": "1900s",
+            "text": "The wording developed in Australian English, where sheds and tool collections were familiar parts of everyday life."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase is used in casual English to make a mild joke about someone’s intelligence."
+          }
+        ]
+      },
+      "similar": [
+        "not the brightest bulb",
+        "no spring chicken",
+        "a bit slow on the uptake"
+      ],
+      "opposite": "sharp as a tack",
+      "pitfall": "This can sound affectionate between friends but rude when directed at a stranger, a client or someone you do not know well."
+    },
+    {
+      "id": "not-to-be-outdone",
+      "kind": "phrase",
+      "term": "not to be outdone",
+      "pos": "phrase",
+      "hint": "not allowing someone else to win",
+      "register": "Common at work",
+      "meaning": "Doing something equally impressive or more impressive in response to someone else’s achievement.",
+      "nuance": "It often expresses friendly rivalry or admiration, suggesting that one person or group tried to match or surpass another.",
+      "literal": "One competitor refusing to let another competitor do better.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launching a rival product",
+          "sentence": "With rivals launching faster service, our product team was not to be outdone and began rebuilding the onboarding flow.",
+          "highlight": "not to be outdone",
+          "tip": "Use it when both sides achieved something impressive, not to dismiss the other team."
+        },
+        {
+          "setting": "social",
+          "where": "Friendly competition at a bake sale",
+          "sentence": "When my friend organized a charity bake sale, I was not to be outdone and brought enough cookies for the whole office.",
+          "highlight": "not to be outdone",
+          "tip": "It adds playful rivalry to social stories involving sports, contests or personal achievements."
+        },
+        {
+          "setting": "writing",
+          "where": "Describing a community response",
+          "sentence": "Our volunteers were not to be outdone, so they arranged a second collection point for the busiest weekend.",
+          "highlight": "not to be outdone",
+          "tip": "It works well in light, energetic writing when describing matching or stronger efforts."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from “outdo,” an older word meaning to exceed or surpass someone. Its exact first appearance is difficult to pin down, but it became established as a way of describing competitive effort during the 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "16th century",
+            "text": "The word “outdo” emerges in English with the sense of surpassing or doing better than someone else."
+          },
+          {
+            "when": "19th century",
+            "text": "The wording “not to be outdone” becomes established for refusing to remain behind a competitor."
+          },
+          {
+            "when": "Today",
+            "text": "It is used in friendly and professional contexts to describe matching or exceeding another effort."
+          }
+        ]
+      },
+      "similar": [
+        "to match that",
+        "to rival that",
+        "not to be surpassed"
+      ],
+      "opposite": "to be outclassed",
+      "pitfall": "The phrase usually implies friendly rivalry; using it about a serious conflict can make the tone sound too playful."
+    },
+    {
+      "id": "not-to-brag",
+      "kind": "phrase",
+      "term": "not to brag",
+      "pos": "phrase",
+      "hint": "a playful way to introduce good news",
+      "register": "Casual",
+      "meaning": "Used before sharing a success or piece of good news to sound modest and playful.",
+      "nuance": "It often makes the person sound pleased rather than seriously self-effacing. It works best with friends or people you know, but can feel insincere in a formal setting.",
+      "literal": "The words suggest that claiming to brag would be unfair because what comes next is so impressive.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team chat · sharing a win",
+          "sentence": "Not to brag, but our team handled the busiest sales day without any delays.",
+          "highlight": "Not to brag",
+          "tip": "Keep it light with colleagues; it can undermine a serious update."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with friends",
+          "sentence": "Not to brag, but I finally finished that novel everyone said would take me forever.",
+          "highlight": "Not to brag",
+          "tip": "Use it when the good news is genuinely worth celebrating."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message to a friend",
+          "sentence": "Not to brag, but my presentation went so smoothly that nobody asked me a single question.",
+          "highlight": "Not to brag",
+          "tip": "It suits personal messages better than formal work emails."
+        }
+      ],
+      "origin": {
+        "summary": "This is a modern playful disclaimer attached to the older English word “brag.” Its exact first use is not clearly documented, but it developed as a way to share good news while appearing modest.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The word “brag” was already used for boasting or speaking proudly about an achievement."
+          },
+          {
+            "when": "20th century",
+            "text": "“Not to brag” emerged in informal speech as a humorous prelude to a boast."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in casual conversation, online posts and personal messages."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "brag",
+          "label": "verb"
+        },
+        {
+          "term": "bragging",
+          "label": "present participle"
+        }
+      ],
+      "similar": [
+        "if I do say so myself",
+        "I have to admit",
+        "don't get me started"
+      ],
+      "opposite": "I feel terrible about it",
+      "pitfall": "It can sound fake if you use it before genuinely modest news or say it whenever you want attention."
+    },
+    {
+      "id": "nothing-short-of",
+      "kind": "phrase",
+      "term": "nothing short of",
+      "pos": "phrase",
+      "hint": "completely, or more than expected",
+      "register": "Common at work",
+      "meaning": "Used to emphasize that something is completely, entirely, or surprisingly impressive enough to be called something stronger.",
+      "nuance": "It adds emphasis and can sound admiring, surprised, or occasionally critical. It works naturally before a noun, such as “a success,” but avoid using it too often because it can make your praise sound dramatic.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · praising a result",
+          "sentence": "The team’s response to the deadline was nothing short of impressive.",
+          "highlight": "nothing short of",
+          "tip": "Use it to emphasize genuinely exceptional effort or performance."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · complimenting a host",
+          "sentence": "Your cooking was nothing short of delicious; everyone asked for the recipe.",
+          "highlight": "nothing short of",
+          "tip": "This sounds enthusiastic and natural when you want to make a warm compliment."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · describing progress",
+          "sentence": "Her contribution was nothing short of a turning point for the project.",
+          "highlight": "nothing short of",
+          "tip": "It is formal enough for a review, but follow it with a specific example."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from an older expression meaning “no less than,” used for something that is equal to or more than expected.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "The expression “nothing short of” appears in English with the meaning “no less than.”"
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "It develops into a way of emphasizing admiration, surprise, or strong approval."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in spoken and formal English for emphatic praise or description."
+          }
+        ]
+      },
+      "similar": [
+        "more than",
+        "completely",
+        "nothing less than",
+        "a great deal of"
+      ],
+      "opposite": "far less than",
+      "pitfall": "“Nothing short of” is stronger than a simple compliment, so reserve it for results or qualities that truly deserve emphasis."
+    },
+    {
+      "id": "now-hear-this",
+      "kind": "phrase",
+      "term": "now hear this",
+      "pos": "phrase",
+      "hint": "listen closely",
+      "register": "Informal",
+      "meaning": "Used to get someone’s full attention before giving an important message or instruction.",
+      "nuance": "Direct and emphatic, so it can feel playful among friends but bossy or impatient at work. Use it when you want the other person to stop talking and listen.",
+      "literal": "Listen to what is being said right now.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team briefing · changing a deadline",
+          "sentence": "Now hear this, the report is moving to Friday, so everyone needs to update their figures today.",
+          "highlight": "Now hear this",
+          "tip": "It works best when followed by a clear, specific instruction."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation with a friend · sharing news",
+          "sentence": "Now hear this, we’re finally going to that new restaurant on Saturday.",
+          "highlight": "Now hear this",
+          "tip": "This adds friendly excitement when you already have the listener’s attention."
+        },
+        {
+          "setting": "writing",
+          "where": "Chat message · correcting a misunderstanding",
+          "sentence": "Now hear this: the invoice goes to Accounts, not Finance, until our system changes.",
+          "highlight": "Now hear this",
+          "tip": "In writing, it may sound dramatic, so keep the message brief and professional."
+        }
+      ],
+      "origin": {
+        "summary": "The exact phrase is hard to trace, but it combines older wording such as “hear this” with the common attention-getter “now.” Its present-day force comes from sounding like a firm announcement.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression “hear this” was used to direct attention to an important point."
+          },
+          {
+            "when": "19th–20th century",
+            "text": "Forms such as “now hear this” became associated with emphatic public announcements and personal reminders."
+          },
+          {
+            "when": "Today",
+            "text": "It remains informal and is mainly used to add emphasis or drama."
+          }
+        ]
+      },
+      "similar": [
+        "listen up",
+        "pay attention",
+        "hear me out"
+      ],
+      "opposite": "ignore this",
+      "pitfall": "It can sound bossy, sarcastic or melodramatic, especially with colleagues you do not know well."
+    },
+    {
+      "id": "now-thats-what-i-call",
+      "kind": "phrase",
+      "term": "Now that's what I call",
+      "pos": "phrase",
+      "hint": "strong approval",
+      "register": "Casual",
+      "meaning": "An enthusiastic way to say that something is exactly the right kind of thing.",
+      "nuance": "It sounds approving and often a little surprised or excited. It works best with friends or colleagues you know well, and can feel exaggerated or judgmental in formal settings.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team celebration · a colleague solves a problem",
+          "sentence": "Now that's what I call a smart solution—it saved us hours.",
+          "highlight": "Now that's what I call",
+          "tip": "Reserve it for genuine praise; it can sound too familiar with senior colleagues."
+        },
+        {
+          "setting": "social",
+          "where": "Friend's dinner party · tasting the food",
+          "sentence": "Now that's what I call dessert; I could eat a second bowl.",
+          "highlight": "Now that's what I call",
+          "tip": "Use it to show playful enthusiasm in a relaxed conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Team chat · praising a finished presentation",
+          "sentence": "Now that's what I call a clear summary—easy to read and right on point.",
+          "highlight": "Now that's what I call",
+          "tip": "It adds energy to informal messages but may not suit a formal report."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is uncertain. It likely grew from ordinary English emphasis: “now” adds surprise, while “that's what I call” introduces a strong personal judgment.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used “that's what I call” to identify or characterize something."
+          },
+          {
+            "when": "Early 20th century",
+            "text": "Adding “now” became a way to combine that statement with immediate enthusiasm."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase remains common in casual speech as an emphatic expression of approval."
+          }
+        ]
+      },
+      "similar": [
+        "now you're talking",
+        "that's what I call",
+        "well done",
+        "just the way I like it"
+      ],
+      "pitfall": "It can sound sarcastic if your approval is not obvious, so make your positive tone clear."
+    },
+    {
+      "id": "now-youre-cooking",
+      "kind": "phrase",
+      "term": "Now you're cooking",
+      "pos": "phrase",
+      "hint": "you’re doing it right",
+      "register": "Casual",
+      "meaning": "An informal way of saying that someone is doing something well and has found the right approach.",
+      "nuance": "It sounds enthusiastic and encouraging, often with a playful sense of approval. It suits social conversation and relaxed workplace banter better than formal writing.",
+      "literal": "You are now preparing the food successfully, so the meal will be good.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team check-in · approving a solution",
+          "sentence": "Now you're cooking—those three changes should solve the reporting problem.",
+          "highlight": "Now you're cooking",
+          "tip": "Use it with colleagues you know well; it can sound too familiar in formal settings."
+        },
+        {
+          "setting": "social",
+          "where": "Friends cooking · tasting a dish",
+          "sentence": "Now you're cooking! That final ingredient makes the whole meal taste fantastic.",
+          "highlight": "Now you're cooking",
+          "tip": "It works well as a cheerful reaction when someone improves a recipe."
+        },
+        {
+          "setting": "writing",
+          "where": "Team chat · praising a draft",
+          "sentence": "Now you're cooking—the revised opening is clear, direct, and actually engaging.",
+          "highlight": "Now you're cooking",
+          "tip": "Keep it in a friendly message or chat, not in formal business correspondence."
+        }
+      ],
+      "origin": {
+        "summary": "Probably grew from the literal idea of cooking a successful meal and spread as casual praise for doing something well. Its precise starting point is unclear.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal expression connected successful cooking with a good result."
+          },
+          {
+            "when": "Late 20th century",
+            "text": "The figurative meaning developed: someone is performing a task successfully."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar, playful phrase of approval in American English and informal online speech."
+          }
+        ]
+      },
+      "similar": [
+        "you're on fire",
+        "now you're talking",
+        "that's the way to do it",
+        "great job"
+      ],
+      "opposite": "now you're in over your head",
+      "pitfall": "The usual wording is “Now you're cooking,” without “now” before “you're”; avoid saying “Now you are cooking” if you mean the phrase."
+    },
+    {
+      "id": "now-youre-talking",
+      "kind": "phrase",
+      "term": "now you're talking",
+      "pos": "idiom",
+      "hint": "saying exactly what I think",
+      "register": "Casual",
+      "meaning": "Used when someone says something you strongly agree with or proposes something sensible.",
+      "nuance": "It sounds enthusiastic and approving, but is usually more casual than professional. In a serious discussion, state your agreement more clearly instead.",
+      "literal": "The other person is finally speaking in a way that makes sense or appeals to you.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · choosing a practical solution",
+          "sentence": "We should focus on the two biggest problems first. Now you're talking.",
+          "highlight": "Now you're talking",
+          "tip": "Use it for clear approval, not for a suggestion that still needs discussion."
+        },
+        {
+          "setting": "social",
+          "where": "Planning with friends · suggesting an easy option",
+          "sentence": "Let's order one pizza and share it. Now you're talking.",
+          "highlight": "Now you're talking",
+          "tip": "It works well with friends when you want to show enthusiastic agreement."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message · approving a suggestion",
+          "sentence": "A ten-minute walk before dinner? Now you're talking.",
+          "highlight": "Now you're talking",
+          "tip": "Keep it in relaxed messages; it may sound too playful for formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is unclear, but the phrase probably developed from the idea that someone is finally saying what the listener wants to hear.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Its wording reflects a direct response to what another person has just said."
+          },
+          {
+            "when": "20th century",
+            "text": "The approving conversational meaning becomes established in English."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common informal expression of enthusiastic agreement."
+          }
+        ]
+      },
+      "similar": [
+        "that makes sense",
+        "you have a point",
+        "I'm with you"
+      ],
+      "pitfall": "It can sound dismissive if used when someone is only partly understood, so make sure you genuinely approve before saying it."
+    },
+    {
+      "id": "off-the-scale",
+      "kind": "phrase",
+      "term": "off the scale",
+      "pos": "idiom",
+      "hint": "far beyond normal limits",
+      "register": "Common at work and in everyday speech",
+      "meaning": "Extremely high, large, or beyond normal limits.",
+      "nuance": "It emphasizes how unusual or extreme something is, often a number, price, demand, or change. It is usually informal and can sound more vivid than simply saying “enormous” or “unprecedented.”",
+      "literal": "Past the highest or normal markings on a measuring scale.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget meeting · reviewing demand",
+          "sentence": "The number of customer requests is off the scale, so we need more support this week.",
+          "highlight": "off the scale",
+          "tip": "Use it for figures or conditions that are clearly far beyond what is normal."
+        },
+        {
+          "setting": "social",
+          "where": "Chat about ticket prices",
+          "sentence": "That concert ticket price is off the scale—would you actually pay that much?",
+          "highlight": "off the scale",
+          "tip": "It works well in casual conversation when a price or cost seems extreme."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance update · reporting growth",
+          "sentence": "Website traffic is off the scale following the product launch.",
+          "highlight": "off the scale",
+          "tip": "In a report, pair it with the exact figure so the claim is clear."
+        }
+      ],
+      "origin": {
+        "summary": "Probably developed from the idea of a measuring instrument showing a value beyond its normal range. The figurative use became established in the 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Literal sense: beyond the markings or limits of a measuring scale."
+          },
+          {
+            "when": "20th century",
+            "text": "Figurative use spreads for numbers and conditions far beyond ordinary limits."
+          },
+          {
+            "when": "Today",
+            "text": "A common informal way to describe extreme size, cost, demand, or change."
+          }
+        ]
+      },
+      "similar": [
+        "through the roof",
+        "off the charts",
+        "beyond measure",
+        "sky-high"
+      ],
+      "opposite": "within normal limits",
+      "pitfall": "“Off the scale” can sound vague, so include the actual number or situation when precision matters."
+    },
+    {
+      "id": "on-deaths-doorstep",
+      "kind": "phrase",
+      "term": "on death's doorstep",
+      "pos": "idiom",
+      "hint": "very close to a serious danger",
+      "register": "Formal and dramatic",
+      "meaning": "In a situation so dangerous or severe that death seems extremely close.",
+      "nuance": "This sounds urgent and serious, often suggesting that something bad is about to happen or has almost already happened. It is stronger and more dramatic than saying someone is simply in danger.",
+      "literal": "Standing directly outside the doorway of a person who has died.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Operations meeting · reporting a critical failure",
+          "sentence": "If we lose the backup system tonight, the company will be on death's doorstep.",
+          "highlight": "on death's doorstep",
+          "tip": "Use it for an extreme emergency, not an ordinary workplace problem."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation about a serious health scare",
+          "sentence": "After the crash, he was on death's doorstep before the paramedics arrived.",
+          "highlight": "on death's doorstep",
+          "tip": "It adds drama, so consider whether the situation is truly that severe."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · describing a dramatic turnaround",
+          "sentence": "With two minutes left, the team was on death's doorstep before scoring the winning goal.",
+          "highlight": "on death's doorstep",
+          "tip": "It works in headlines and vivid reporting, but may sound overdramatic elsewhere."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from older expressions such as “at death's door,” using “doorstep” to emphasize how close death is.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Related expressions referred to being close to death, including “at death's door.”"
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "The wording “on death's doorstep” appears in dramatic accounts of peril and near-fatal events."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a vivid, dramatic idiom for an extremely dangerous or critical situation."
+          }
+        ]
+      },
+      "similar": [
+        "at death's door",
+        "on the brink of disaster",
+        "close to death"
+      ],
+      "opposite": "safe from danger",
+      "pitfall": "This phrase is more dramatic than “in danger”; using it for a minor risk may sound exaggerated."
+    },
+    {
+      "id": "on-the-verge",
+      "kind": "phrase",
+      "term": "on the verge",
+      "pos": "phrase",
+      "hint": "very close to doing something",
+      "register": "Common at work and in everyday life",
+      "meaning": "Very close to reaching a particular state or taking a particular action.",
+      "nuance": "It creates tension and suggests that something important is about to happen. It is usually followed by “of” and a gerund, such as “on the verge of quitting.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing a deadline",
+          "sentence": "We’re on the verge of missing the launch deadline unless we reduce the scope.",
+          "highlight": "on the verge",
+          "tip": "Use “of” before the action: “on the verge of missing.”"
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with a friend",
+          "sentence": "I was on the verge of ordering dessert when you suggested we walk instead.",
+          "highlight": "on the verge",
+          "tip": "This gives a natural sense of a moment that nearly arrived."
+        },
+        {
+          "setting": "writing",
+          "where": "Status update to a client",
+          "sentence": "The team is on the verge of completing the final review, pending one approval.",
+          "highlight": "on the verge",
+          "tip": "Pair it with a specific remaining step so the status is clear."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the literal edge of a place or surface and gradually came to mean being close to a new state or action.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Verge” referred to an edge, boundary or the act of approaching something."
+          },
+          {
+            "when": "1600s",
+            "text": "The expression began appearing in contexts meaning at or close to an edge."
+          },
+          {
+            "when": "Today",
+            "text": "“On the verge of” is widely used to describe being close to an important or dramatic change."
+          }
+        ]
+      },
+      "similar": [
+        "on the brink",
+        "close to",
+        "just about to"
+      ],
+      "opposite": "far from",
+      "pitfall": "“On the verge” normally needs “of” and an action in the -ing form; avoid “on the verge to” unless you are directly naming something."
+    },
+    {
+      "id": "on-your-mark-get-set-go",
+      "kind": "phrase",
+      "term": "on your mark, get set, go",
+      "pos": "phrase",
+      "hint": "the signal to begin",
+      "register": "Everyday",
+      "meaning": "A command used to tell everyone to get ready and start.",
+      "nuance": "It adds energy and a sense of anticipation, often to a race, game or group activity. It can also be used playfully when beginning a task.",
+      "literal": "Stand on your starting mark, prepare yourself, and begin.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team sprint · starting a timed task",
+          "sentence": "On your mark, get set, go—we’ve got ten minutes to finish the first draft.",
+          "highlight": "On your mark, get set, go",
+          "tip": "Use it to add urgency, but make sure everyone knows the task."
+        },
+        {
+          "setting": "social",
+          "where": "Family game night · starting a race",
+          "sentence": "On your mark, get set, go—the first person across the line gets dessert.",
+          "highlight": "On your mark, get set, go",
+          "tip": "It works well as a playful countdown before a competitive activity."
+        },
+        {
+          "setting": "writing",
+          "where": "Event invitation · building excitement",
+          "sentence": "On your mark, get set, go—the doors open at eight, and the opening performance starts right away.",
+          "highlight": "On your mark, get set, go",
+          "tip": "Keep it informal; it suits invitations and announcements rather than serious notices."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase grew from separate commands used in races and shooting games. “On your mark” told competitors to stand at a mark, while “get set” called for readiness before the starting signal.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“On your mark” meant moving to a fixed starting position before a race or shooting competition."
+          },
+          {
+            "when": "Early 20th century",
+            "text": "The commands began combining into a familiar three-part starting signal."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase is used for races, games, challenges and playful calls to begin."
+          }
+        ]
+      },
+      "similar": [
+        "ready, set, go",
+        "get ready",
+        "starting now"
+      ],
+      "pitfall": "For the full phrase, use “On your mark” as the opening part; “Mark your place, get set, go” changes the meaning."
+    },
+    {
+      "id": "once-a-thief-always-a-thief",
+      "kind": "phrase",
+      "term": "once a thief, always a thief",
+      "pos": "idiom",
+      "hint": "a person keeps their old ways",
+      "register": "Everyday",
+      "meaning": "Someone who has behaved dishonestly before may be expected to do so again.",
+      "nuance": "This expresses a belief that people do not change their basic habits or character. It can sound judgmental, so use it only when discussing a specific pattern of behaviour.",
+      "literal": "A person who has stolen once will be treated as a thief forever.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Trusting a new supplier",
+          "sentence": "He changed the invoice twice, so I’m wary: once a thief, always a thief.",
+          "highlight": "once a thief, always a thief",
+          "tip": "Use it to justify caution, but base it on clear evidence."
+        },
+        {
+          "setting": "social",
+          "where": "Discussing a friend’s habit",
+          "sentence": "He borrowed my bike and never returned it; once a thief, always a thief.",
+          "highlight": "once a thief, always a thief",
+          "tip": "It can sound harsh when aimed at someone you know personally."
+        },
+        {
+          "setting": "writing",
+          "where": "Commenting on repeated deception",
+          "sentence": "The company hid the safety defects for years—once a thief, always a thief.",
+          "highlight": "once a thief, always a thief",
+          "tip": "Keep the claim tied to repeated, documented conduct."
+        }
+      ],
+      "origin": {
+        "summary": "This is an old proverb-style warning that dishonest or criminal behaviour tends to continue. Its exact first use is uncertain, but the saying was already established in English by the 17th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The proverb developed from the broader idea that people remain known by their past conduct."
+          },
+          {
+            "when": "17th century",
+            "text": "The wording was recorded in collections of English proverbs."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common warning about repeated dishonesty, though often in casual or rhetorical contexts."
+          }
+        ]
+      },
+      "similar": [
+        "a leopard can't change its spots",
+        "old habits die hard",
+        "you can't teach an old dog new tricks"
+      ],
+      "opposite": "people can change",
+      "pitfall": "The saying treats a past mistake as proof of permanent character, so it can prejudge someone; consider the actual evidence instead."
+    },
+    {
+      "id": "one-bad-apple",
+      "kind": "phrase",
+      "term": "one bad apple",
+      "pos": "idiom",
+      "hint": "a single disruptive member",
+      "register": "Common at work and in everyday conversation",
+      "meaning": "One person in a group whose behavior harms the whole group or spoils an otherwise good situation.",
+      "nuance": "It often criticizes one disruptive individual, but it can sound harsh or unfair because it focuses on a person rather than the underlying problem.",
+      "literal": "A single rotten apple can make other apples nearby rot.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · repeated disruption",
+          "sentence": "We’ve had a productive quarter, but one bad apple has made the whole team dread our meetings.",
+          "highlight": "one bad apple",
+          "tip": "Use it for serious, persistent disruption, not a minor disagreement."
+        },
+        {
+          "setting": "social",
+          "where": "Group dinner · awkward behavior",
+          "sentence": "We were having a lovely time until one bad apple started making comments about everyone else.",
+          "highlight": "one bad apple",
+          "tip": "It adds a blunt, slightly humorous edge to a complaint."
+        },
+        {
+          "setting": "writing",
+          "where": "Feedback note · team conflict",
+          "sentence": "I don’t want to label anyone, but one bad apple can quickly undermine trust across the entire group.",
+          "highlight": "one bad apple",
+          "tip": "Pair it with specific, fair examples so it does not seem like a personal attack."
+        }
+      ],
+      "origin": {
+        "summary": "This phrase probably grew from the older proverb that one rotten apple spoils the whole basket. Its connection to apples is old, but the exact source of the modern wording is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "A traditional warning appeared in various forms: one spoiled apple can affect the fruit stored beside it."
+          },
+          {
+            "when": "1800s",
+            "text": "Short versions comparing the idea to a bad apple or a rotten apple became common in English."
+          },
+          {
+            "when": "Today",
+            "text": "“One bad apple” labels a disruptive person whose conduct affects the wider group."
+          }
+        ]
+      },
+      "similar": [
+        "a sore thumb",
+        "a troublemaker",
+        "the weakest link"
+      ],
+      "opposite": "a team player",
+      "pitfall": "The expression can sound insulting and may oversimplify a wider problem; describe the behavior rather than labeling the person."
+    }
+  ]
+}

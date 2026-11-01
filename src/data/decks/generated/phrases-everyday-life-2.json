@@ -1,0 +1,1475 @@
+{
+  "id": "phrases-everyday-life-2",
+  "kind": "phrase",
+  "name": "Everyday life · 2",
+  "blurb": "25 phrases about everyday life",
+  "cards": [
+    {
+      "id": "dont-do-anything-i-wouldnt-do",
+      "kind": "phrase",
+      "term": "don't do anything I wouldn't do",
+      "pos": "idiom",
+      "hint": "advice to behave safely",
+      "register": "Common",
+      "meaning": "A warning not to take an unnecessary risk or do something foolish.",
+      "nuance": "The tone can be caring and casual, but it may also sound judgemental if used with authority. It works best between people who know each other well.",
+      "literal": "Avoid doing something that the speaker would not choose to do.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Risk assessment · advising a colleague",
+          "sentence": "Don't do anything I wouldn't do, especially with the customer data.",
+          "highlight": "Don't do anything I wouldn't do",
+          "tip": "This can sound like friendly caution without directly criticising your colleague."
+        },
+        {
+          "setting": "social",
+          "where": "After-work plans · worrying about the journey home",
+          "sentence": "Take a taxi if you have had a few drinks—don't do anything I wouldn't do.",
+          "highlight": "don't do anything I wouldn't do",
+          "tip": "It softens a safety warning by presenting the advice as personal reassurance."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a friend · discussing a risky plan",
+          "sentence": "Whatever you decide, don't do anything I wouldn't do in your situation.",
+          "highlight": "don't do anything I wouldn't do",
+          "tip": "Use it to show concern, while making clear that the final choice is theirs."
+        }
+      ],
+      "origin": {
+        "summary": "The wording follows a traditional proverb pattern about avoiding foolish or dangerous actions. Its exact first appearance is uncertain, but similar advice has long appeared in English.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Proverb-style advice warned people not to behave in ways they would reject for themselves."
+          },
+          {
+            "when": "20th century",
+            "text": "The conversational wording became familiar in spoken English, including informal workplace and social advice."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common way to caution someone about risks or questionable decisions."
+          }
+        ]
+      },
+      "similar": [
+        "play it safe",
+        "use your common sense",
+        "don't take unnecessary risks"
+      ],
+      "opposite": "go for it",
+      "pitfall": "When speaking to someone senior or close to a decision, it can sound condescending or paternalistic; explain the specific risk instead."
+    },
+    {
+      "id": "down-cold",
+      "kind": "phrase",
+      "term": "down cold",
+      "pos": "idiom",
+      "hint": "knowing something perfectly",
+      "register": "Casual",
+      "meaning": "To know or understand something completely and with confidence.",
+      "nuance": "It emphasizes thorough knowledge, often including every important detail. It is common in informal speech but less suitable for formal writing.",
+      "literal": "Knowing something so thoroughly that you have mastered every detail.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team handover · explaining a system",
+          "sentence": "Maya knows the billing process down cold, so she can answer any questions.",
+          "highlight": "down cold",
+          "tip": "Use it for genuine mastery, not basic familiarity."
+        },
+        {
+          "setting": "social",
+          "where": "Restaurant visit · ordering for friends",
+          "sentence": "I know this menu down cold, so let me order for everyone.",
+          "highlight": "down cold",
+          "tip": "This sounds relaxed and confident in casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Team introduction · describing expertise",
+          "sentence": "Sam knows the old reporting system down cold and can help us update it.",
+          "highlight": "down cold",
+          "tip": "In formal writing, consider “knows it thoroughly” instead."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is uncertain. It likely combines “down,” meaning deeply and completely, with “cold” as a metaphor for unhesitating certainty.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Related expressions used “cold” to suggest complete or effortless knowledge of something."
+          },
+          {
+            "when": "20th century",
+            "text": "The form “down cold” became established in informal American English."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in speech for emphasizing thorough knowledge or familiarity."
+          }
+        ]
+      },
+      "similar": [
+        "inside out",
+        "by heart",
+        "from top to bottom",
+        "like the back of your hand"
+      ],
+      "opposite": "only vaguely",
+      "pitfall": "Use it with “know” or a similar verb; saying “down cold” on its own can sound incomplete."
+    },
+    {
+      "id": "each-to-their-own",
+      "kind": "phrase",
+      "term": "each to their own",
+      "pos": "phrase",
+      "hint": "letting people choose what suits them",
+      "register": "Common but slightly formal",
+      "meaning": "Letting each person choose, act or think in the way that suits them best.",
+      "nuance": "It suggests that people have different preferences and needs, so a single approach may not suit everyone. It can sound thoughtful, though the shorter wording may feel slightly old-fashioned in casual conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · varying preferences",
+          "sentence": "Some people prefer feedback in writing and others prefer a quick call, each to their own.",
+          "highlight": "each to their own",
+          "tip": "Use it when accepting different working preferences without dwelling on them."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner plans · choosing activities",
+          "sentence": "We can spend the evening at home or at the pub, each to their own.",
+          "highlight": "each to their own",
+          "tip": "Pair it with “Whatever suits you” for a warmer, more conversational tone."
+        },
+        {
+          "setting": "writing",
+          "where": "Event invitation · personal attendance",
+          "sentence": "You’re welcome to join us in person or watch remotely, each to their own.",
+          "highlight": "each to their own",
+          "tip": "It works as a concise closing after offering flexible options."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from the older expression “to each his own,” which appeared in the late 19th century. The form with “their” reflects the modern use of the singular they for one person.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression “to each his own” was used to mean that each person may have a separate choice, taste or way of acting."
+          },
+          {
+            "when": "Late 19th century",
+            "text": "The older wording becomes established in English writing."
+          },
+          {
+            "when": "20th–21st centuries",
+            "text": "“Each to their own” gains wider use as a gender-neutral alternative."
+          }
+        ]
+      },
+      "similar": [
+        "to each his own",
+        "one size does not fit all",
+        "different strokes for different folks",
+        "whatever suits you"
+      ],
+      "opposite": "one size fits all",
+      "pitfall": "Use it for genuine personal preferences, not to avoid addressing unfair treatment or different standards of behaviour."
+    },
+    {
+      "id": "easy-come-easy-go",
+      "kind": "phrase",
+      "term": "easy come, easy go",
+      "pos": "idiom",
+      "hint": "what arrives easily soon leaves",
+      "register": "Everyday",
+      "meaning": "Something that is gained easily can also be lost or spent just as easily.",
+      "nuance": "It often comments on money or opportunities that disappear quickly, sometimes with a hint of acceptance or mild regret.",
+      "literal": "Something that comes easily goes easily.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Reviewing bonus spending",
+          "sentence": "The quarterly bonus was easy come, easy go once the team covered the last-minute costs.",
+          "highlight": "easy come, easy go",
+          "tip": "Natural when discussing money that arrives and disappears quickly."
+        },
+        {
+          "setting": "social",
+          "where": "Chatting about a windfall",
+          "sentence": "My extra shift paid well, but it was easy come, easy go once I paid the overdue bill.",
+          "highlight": "easy come, easy go",
+          "tip": "It adds a reflective or slightly humorous tone."
+        },
+        {
+          "setting": "writing",
+          "where": "Personal finance email",
+          "sentence": "Keep part of each windfall in savings; otherwise, it is easy come, easy go.",
+          "highlight": "easy come, easy go",
+          "tip": "Works well in advice about saving money you did not plan to receive."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase echoes the older saying “easy come, easy go” and applies the contrast between quick arrival and quick departure to money, possessions and opportunities.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Similar expressions about things that come and go quickly were already in common use."
+          },
+          {
+            "when": "19th century",
+            "text": "The wording became established in English, especially in discussions of quickly gained and quickly lost wealth."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar idiom for money or possessions that are here briefly."
+          }
+        ]
+      },
+      "similar": [
+        "here today, gone tomorrow",
+        "short-lived",
+        "quick in, quick out"
+      ],
+      "opposite": "hard-won and lasting",
+      "pitfall": "Use it for things that disappear easily; it does not mean that gaining something was easy in the first place."
+    },
+    {
+      "id": "easy-does-it",
+      "kind": "phrase",
+      "term": "easy does it",
+      "pos": "phrase",
+      "hint": "take it slowly and gently",
+      "register": "Everyday",
+      "meaning": "An instruction or reminder to handle something slowly, gently and carefully.",
+      "nuance": "It often suggests that a person or situation is tense, awkward or likely to go wrong if handled too quickly. It can sound reassuring, but sometimes carries a hint that things are going badly.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office move · guiding a colleague",
+          "sentence": "Easy does it; that printer is older than most of us.",
+          "highlight": "Easy does it",
+          "tip": "Use it when someone is moving something heavy or working with delicate equipment."
+        },
+        {
+          "setting": "social",
+          "where": "Friends · trying a tricky stunt",
+          "sentence": "Easy does it—hold the ladder steady and we’ll do this safely.",
+          "highlight": "Easy does it",
+          "tip": "It works as a calm warning before someone rushes or takes a risk."
+        },
+        {
+          "setting": "writing",
+          "where": "Workplace safety note · handling fragile items",
+          "sentence": "Easy does it when moving the glassware; one slip could ruin the whole display.",
+          "highlight": "Easy does it",
+          "tip": "A natural way to make a safety instruction sound friendly rather than bossy."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is probably based on the older expression “easy does it,” used when handling something delicate. Its modern meaning and exact wording became established through everyday speech.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The phrase appears in a literal sense: handle the job gently and carefully."
+          },
+          {
+            "when": "20th century onward",
+            "text": "It became common as a reassuring or cautionary expression in conversation."
+          },
+          {
+            "when": "Today",
+            "text": "People still use it for tense, awkward or delicate situations."
+          }
+        ]
+      },
+      "similar": [
+        "take it slow",
+        "gently does it",
+        "no rush"
+      ],
+      "opposite": "hurry up",
+      "pitfall": "It usually implies that someone is already moving too fast, so it can sound slightly impatient if the problem is not obvious."
+    },
+    {
+      "id": "everything-under-the-sun",
+      "kind": "phrase",
+      "term": "everything under the sun",
+      "pos": "phrase",
+      "hint": "every possible thing",
+      "register": "Everyday",
+      "meaning": "Every kind of thing, or everything that could possibly be considered.",
+      "nuance": "This phrase gives a broad, sometimes playful sense of “anything” or “all sorts of things.” It can suggest a huge range, and in some contexts it can sound slightly dramatic or exaggerated.",
+      "literal": "The sun shines over everything on Earth, so the phrase originally suggested all the world.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning a busy workweek",
+          "sentence": "The team has to prepare for everything under the sun before Friday’s launch.",
+          "highlight": "everything under the sun",
+          "tip": "Use it when you mean a very large range of tasks or possibilities."
+        },
+        {
+          "setting": "social",
+          "where": "Describing a varied weekend",
+          "sentence": "We tried everything under the sun, from pottery classes to midnight dancing.",
+          "highlight": "everything under the sun",
+          "tip": "It gives a lively, informal feeling to a list of activities."
+        },
+        {
+          "setting": "writing",
+          "where": "Describing a catalogue of options",
+          "sentence": "The guide covers everything under the sun, from basic repairs to rare collectibles.",
+          "highlight": "everything under the sun",
+          "tip": "Use it to emphasize breadth, not necessarily to claim perfect coverage."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely grew from the idea that the sun shines over all the earth, meaning everything in the world. Its modern sense of “every possible thing” developed over time.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "A literal reference to the sun shining over all the world."
+          },
+          {
+            "when": "1600s",
+            "text": "The expression appears in writing with the sense of “everything in existence.”"
+          },
+          {
+            "when": "Today",
+            "text": "It is used broadly for every kind of thing, often with a playful or emphatic tone."
+          }
+        ]
+      },
+      "similar": [
+        "everything imaginable",
+        "the whole nine yards",
+        "all sorts of things"
+      ],
+      "opposite": "nothing at all",
+      "pitfall": "This phrase can sound exaggerated, so it may be too informal or dramatic for a precise business explanation."
+    },
+    {
+      "id": "first-come-first-served",
+      "kind": "phrase",
+      "term": "first come, first served",
+      "pos": "phrase",
+      "hint": "earlier arrivals get priority",
+      "register": "Everyday",
+      "meaning": "People are dealt with in the order they arrive, with no exceptions or special treatment.",
+      "nuance": "This is a direct, neutral way to state an order-of-arrival rule. It can sound firm, especially when someone expects to jump ahead.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office café · ordering lunch",
+          "sentence": "It’s first come, first served, so you’ll need to add your name to the list.",
+          "highlight": "first come, first served",
+          "tip": "Use it to explain a queue politely, without singling anyone out."
+        },
+        {
+          "setting": "social",
+          "where": "Concert ticket office · collecting tickets",
+          "sentence": "The box office follows first come, first served, even if some people reserved tickets online.",
+          "highlight": "first come, first served",
+          "tip": "It clearly states the rule when the order of collection matters."
+        },
+        {
+          "setting": "writing",
+          "where": "Event email · explaining registration",
+          "sentence": "Event places are available on a first come, first served basis until all spaces are taken.",
+          "highlight": "first come, first served",
+          "tip": "Consider using “while places last” as a shorter alternative in formal notices."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from an older business and legal principle that earlier arrivals should receive priority. Its modern use grew out of language describing queues, bookings and allocation of goods.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The idea appeared in commercial and legal language about serving customers or applicants in order of arrival."
+          },
+          {
+            "when": "19th–20th centuries",
+            "text": "The expression became a familiar way to describe queues, bookings and limited places."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in everyday speech and service notices worldwide."
+          }
+        ]
+      },
+      "similar": [
+        "in the order they arrive",
+        "on a first-come basis",
+        "while stocks last"
+      ],
+      "opposite": "special treatment for selected people",
+      "pitfall": "The phrase explains the rule but does not tell people how or where to join the queue, so give those details when needed."
+    },
+    {
+      "id": "first-things-first",
+      "kind": "phrase",
+      "term": "First things first",
+      "pos": "idiom",
+      "hint": "deal with the most important task before anything else",
+      "register": "Common at work",
+      "meaning": "You should deal with the most important or urgent matter before doing anything else.",
+      "nuance": "It sounds practical and direct, often helping someone shift the conversation to a priority. It can also gently suggest that people are starting in the wrong order.",
+      "literal": "The first matters should be handled before later matters.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · prioritizing urgent work",
+          "sentence": "With the launch tomorrow, let’s fix the broken login first—first things first.",
+          "highlight": "first things first",
+          "tip": "Use it to redirect the team toward the most urgent issue."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing dinner with friends",
+          "sentence": "I’ll settle the bill first; first things first, then we can choose where to go.",
+          "highlight": "first things first",
+          "tip": "It can make a practical decision sound friendly rather than pushy."
+        },
+        {
+          "setting": "writing",
+          "where": "Email about delayed tasks",
+          "sentence": "I’m sending the corrected invoice first; first things first, I’ll handle that before the report.",
+          "highlight": "first things first",
+          "tip": "Use it to explain the order of your work, not to assign blame."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is a traditional way of saying to deal with important matters before less urgent ones. Its exact first recorded use is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The wording reflects the literal idea of handling first things before other things."
+          },
+          {
+            "when": "18th–19th centuries",
+            "text": "Similar expressions appear in English prose and conversation."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in everyday speech, meetings and written instructions."
+          }
+        ]
+      },
+      "similar": [
+        "prioritize",
+        "start with the essentials",
+        "put the cart before the horse"
+      ],
+      "opposite": "leave it for later",
+      "pitfall": "Use it when the priority is genuinely clear; otherwise, it may sound as if you are dismissing other concerns."
+    },
+    {
+      "id": "from-here-on-in",
+      "kind": "phrase",
+      "term": "from here on in",
+      "pos": "phrase",
+      "hint": "starting now and continuing",
+      "register": "Common",
+      "meaning": "Beginning at this point and continuing for all subsequent time.",
+      "nuance": "It sounds conversational and often signals that something will remain unchanged from now onward. It is especially useful when announcing a new rule, decision, or change in behavior.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team update · changing a deadline",
+          "sentence": "From here on in, please send revised figures to me before copying the finance team.",
+          "highlight": "From here on in",
+          "tip": "Use it to introduce a clear rule that applies immediately."
+        },
+        {
+          "setting": "social",
+          "where": "Plans with friends · setting expectations",
+          "sentence": "From here on in, let’s decide the restaurant before we leave the house.",
+          "highlight": "From here on in",
+          "tip": "It suits casual conversations about how you will handle something from now on."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · clarifying next steps",
+          "sentence": "From here on in, I’ll post the weekly summary every Thursday afternoon.",
+          "highlight": "From here on in",
+          "tip": "It can introduce a standing arrangement in an email or project note."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from the older expression “from here,” meaning “from this point,” with “on” and “in” emphasizing continuation.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English speakers used “from here” to mean “from this point onward.”"
+          },
+          {
+            "when": "20th century",
+            "text": "The expanded form “from here on in” became common in informal English."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely understood in speech and writing as “starting now.”"
+          }
+        ]
+      },
+      "similar": [
+        "from now on",
+        "going forward",
+        "from this point on"
+      ],
+      "opposite": "up until now",
+      "pitfall": "The phrase can sound mildly formal or old-fashioned; “from now on” is often more natural in relaxed conversation."
+    },
+    {
+      "id": "from-here-on-out",
+      "kind": "phrase",
+      "term": "from here on out",
+      "pos": "phrase",
+      "hint": "starting now and continuing",
+      "register": "Common at work",
+      "meaning": "Beginning now and continuing for the rest of the time being discussed.",
+      "nuance": "It makes a change sound definite and lasting. It is useful for announcing a new approach, but avoid it when you are not sure a decision is final.",
+      "literal": "Starting at this place and continuing outward.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · setting a new process",
+          "sentence": "From here on out, please send meeting notes to the whole team.",
+          "highlight": "From here on out",
+          "tip": "Use it to introduce a clear rule or change in working practice."
+        },
+        {
+          "setting": "social",
+          "where": "Planning dinner with friends",
+          "sentence": "From here on out, I’m choosing the restaurant, so you can stop vetoing every place.",
+          "highlight": "From here on out",
+          "tip": "It adds a slightly playful tone when joking about a new arrangement."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update email",
+          "sentence": "From here on out, weekly reports will be submitted by Thursday afternoon.",
+          "highlight": "From here on out",
+          "tip": "Follow it with the specific action people should take."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the older expression “from here on,” meaning “from this point onward,” with “out” added to emphasize continuation.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The core expression “from here on” conveyed that something would continue from the present moment."
+          },
+          {
+            "when": "1900s",
+            "text": "“From here on out” became established in everyday English for an action continuing from now onward."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used to announce a lasting change in plans, routines or expectations."
+          }
+        ]
+      },
+      "similar": [
+        "from now on",
+        "going forward",
+        "henceforth"
+      ],
+      "opposite": "up to this point",
+      "pitfall": "It can sound abrupt if you have not explained what is changing or why."
+    },
+    {
+      "id": "going-going-gone",
+      "kind": "phrase",
+      "term": "going, going, gone",
+      "pos": "idiom",
+      "hint": "sold after a quick auction",
+      "register": "Everyday",
+      "meaning": "Used to show that something has been quickly sold, claimed, decided, or brought to an end.",
+      "nuance": "It adds energy and finality, often imitating an auctioneer. It is usually informal and works well for playful announcements.",
+      "literal": "An auctioneer saying “going” twice before declaring an item “gone” after it has been sold.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team update · allocating limited stock",
+          "sentence": "The workshop places were going, going, gone within ten minutes.",
+          "highlight": "going, going, gone",
+          "tip": "Use it for a quick allocation or sign-up, not for a long decision-making process."
+        },
+        {
+          "setting": "social",
+          "where": "Concert tickets · reacting to a sale",
+          "sentence": "I checked my phone and the tickets were going, going, gone.",
+          "highlight": "going, going, gone",
+          "tip": "It adds drama when sharing disappointing news about something you missed."
+        },
+        {
+          "setting": "writing",
+          "where": "Sale announcement · creating urgency",
+          "sentence": "The first batch is going, going, gone, so order soon if you want one.",
+          "highlight": "going, going, gone",
+          "tip": "It suits informal sales writing, but avoid making an ordinary offer sound misleading."
+        }
+      ],
+      "origin": {
+        "summary": "This phrase comes from auction chants, where sellers repeatedly announce “going” before declaring the final bid and calling the item “gone.” Its broader figurative use grew from that familiar auction language.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Auctioneers used repeated “going” calls to signal that a sale was about to finish."
+          },
+          {
+            "when": "19th century",
+            "text": "The auction sequence “going, going, gone” became a standard way to announce a completed sale."
+          },
+          {
+            "when": "Today",
+            "text": "People use it informally for anything sold, claimed, or finished quickly."
+          }
+        ]
+      },
+      "similar": [
+        "going once, going twice",
+        "sold out",
+        "snap up"
+      ],
+      "pitfall": "“Going, going, gone” usually implies that the opportunity has ended, so it should not suggest that action is still possible."
+    },
+    {
+      "id": "good-night",
+      "kind": "phrase",
+      "term": "good night",
+      "pos": "phrase",
+      "hint": "a friendly way to end the day",
+      "register": "Everyday",
+      "meaning": "A friendly wish for someone to sleep well and have a good night’s rest.",
+      "nuance": "Use it when leaving someone, ending a conversation at night, or signing off late. It is warmer than a simple “goodbye,” but it can also sound intimate with a partner.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Late call · saying goodbye",
+          "sentence": "Thanks for staying late, everyone. Good night, and see you in the morning.",
+          "highlight": "Good night",
+          "tip": "Keep it brief after a late meeting rather than making it sound overly personal."
+        },
+        {
+          "setting": "social",
+          "where": "Leaving a friend’s home",
+          "sentence": "It’s getting late, so I’ll say good night and head home.",
+          "highlight": "good night",
+          "tip": "Use “say good night” when you mean the act of saying goodbye."
+        },
+        {
+          "setting": "writing",
+          "where": "Message sent late at night",
+          "sentence": "I’ve finished the notes and sent them to you. Good night!",
+          "highlight": "Good night",
+          "tip": "It works as a warm sign-off, especially with family, friends or close colleagues."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the traditional wish that someone spend the night well. Its wording has Old English roots and was established as a greeting long before it became associated with romance.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The underlying words meant something close to “a good night” and appeared in religious and poetic greetings."
+          },
+          {
+            "when": "Middle English",
+            "text": "The separate words became firmly established as a farewell spoken in the evening."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common goodnight wish, while “good night” also carries a romantic meaning in some contexts."
+          }
+        ]
+      },
+      "similar": [
+        "good evening",
+        "sleep well",
+        "night night"
+      ],
+      "opposite": "good morning",
+      "pitfall": "“Good night” is more than a casual goodbye: with a partner or close friend, it can imply affection or romance."
+    },
+    {
+      "id": "hand-out",
+      "kind": "phrase",
+      "term": "hand out",
+      "pos": "phrase",
+      "hint": "give to people one by one",
+      "register": "Everyday",
+      "meaning": "Give something to people, usually by passing it from one person to another.",
+      "nuance": "It can describe giving out papers, supplies, food or medicine. The phrase often suggests a simple action repeated for several people.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office meeting · distributing materials",
+          "sentence": "Please hand out the printed agenda to everyone before we begin.",
+          "highlight": "hand out",
+          "tip": "Use it for items being passed around, especially when everyone needs a copy."
+        },
+        {
+          "setting": "social",
+          "where": "Community event · sharing refreshments",
+          "sentence": "Could you hand out these flyers while I welcome the guests?",
+          "highlight": "hand out",
+          "tip": "It sounds natural when giving the same item to many people."
+        },
+        {
+          "setting": "writing",
+          "where": "Volunteer email · assigning a simple task",
+          "sentence": "Mina will hand out the name tags when guests arrive.",
+          "highlight": "hand out",
+          "tip": "Use it when an item or task is being passed directly from person to person."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from the older expression “hand something to someone,” with “out” suggesting passing an item outward to several people.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The basic sense of extending or passing something by hand developed in older English."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression began to suggest giving something out to multiple recipients."
+          },
+          {
+            "when": "Today",
+            "text": "It is common for distributing objects, information, food or medicine."
+          }
+        ]
+      },
+      "similar": [
+        "give out",
+        "distribute",
+        "pass around",
+        "deal out"
+      ],
+      "opposite": "withhold",
+      "pitfall": "Say “hand out the forms,” not “hand out of the forms”; “out” follows the thing being given."
+    },
+    {
+      "id": "hard-at-work",
+      "kind": "phrase",
+      "term": "hard at work",
+      "pos": "phrase",
+      "hint": "busy and putting in effort",
+      "register": "Everyday",
+      "meaning": "Working with a lot of effort and concentration.",
+      "nuance": "It often suggests someone is busy or fully occupied, and it may be used approvingly to show that someone is making a serious effort.",
+      "literal": "Someone is working hard, as if the effort itself is difficult or demanding.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office update · checking progress",
+          "sentence": "The design team has been hard at work on the new client presentation all morning.",
+          "highlight": "hard at work",
+          "tip": "Use it to acknowledge effort without giving a detailed progress update."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with a friend",
+          "sentence": "I’ve been hard at work on my apartment, so I finally have somewhere to host dinner.",
+          "highlight": "hard at work",
+          "tip": "It gives a casual explanation for why you have been busy."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update email",
+          "sentence": "Our developers have been hard at work on the bug fix and expect to finish testing on Friday.",
+          "highlight": "hard at work",
+          "tip": "Pair it with a clear status or deadline so the update remains useful."
+        }
+      ],
+      "origin": {
+        "summary": "The wording is older, but its modern figurative use comes naturally from the literal idea of working with intense effort.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal phrase described doing work that was difficult or required strong effort."
+          },
+          {
+            "when": "19th century",
+            "text": "The phrase began appearing in writing in this general sense."
+          },
+          {
+            "when": "Today",
+            "text": "It is common informal English for being busy or working diligently."
+          }
+        ]
+      },
+      "similar": [
+        "busy at work",
+        "working hard",
+        "fully occupied"
+      ],
+      "opposite": "taking it easy",
+      "pitfall": "It can sound like praise, so don’t use it when you mean that someone is merely busy."
+    },
+    {
+      "id": "have-been-around-the-block",
+      "kind": "phrase",
+      "term": "have been around the block",
+      "pos": "phrase",
+      "hint": "have plenty of experience",
+      "register": "Everyday",
+      "meaning": "To have enough experience in a situation, organization or field to understand it well.",
+      "nuance": "It often suggests that someone has seen similar situations before and knows how things work. It can be approving, but may also imply that another person is naive.",
+      "literal": "Having travelled around a city block many times, and so knowing its streets well.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · explaining a recurring problem",
+          "sentence": "We’ve been around the block with this vendor before, so let’s review their response before renewing the contract.",
+          "highlight": "been around the block",
+          "tip": "Use it to support an experience-based view, then explain what happened previously."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with an experienced colleague",
+          "sentence": "Ask Priya; she’s been around the block and will know whether the venue is worth booking.",
+          "highlight": "been around the block",
+          "tip": "It sounds natural and informal when you want to emphasize someone’s practical experience."
+        },
+        {
+          "setting": "writing",
+          "where": "Email proposing a familiar solution",
+          "sentence": "We have been around the block with this issue before, and the same fix worked last year.",
+          "highlight": "been around the block",
+          "tip": "Follow it with a specific example so the claim of experience is clear."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably grew from the idea of travelling around a city block repeatedly until you knew it well. Its figurative use for broad experience appears in American English by the early 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Literal sense: travelling repeatedly around the same block and becoming familiar with it."
+          },
+          {
+            "when": "Early 20th century",
+            "text": "American speakers began using it figuratively for people with extensive practical experience."
+          },
+          {
+            "when": "Today",
+            "text": "It is common informal English for experience gained through repeated exposure to something."
+          }
+        ]
+      },
+      "similar": [
+        "know the ropes",
+        "seen it all",
+        "been through it before",
+        "know the drill"
+      ],
+      "opposite": "be new to it",
+      "pitfall": "It usually focuses on experience, not expertise, so avoid implying that someone is automatically highly skilled."
+    },
+    {
+      "id": "help-wanted",
+      "kind": "phrase",
+      "term": "help wanted",
+      "pos": "phrase",
+      "hint": "a sign advertising a job opening",
+      "register": "Everyday",
+      "meaning": "A notice or advertisement saying that a workplace is looking for someone to do a job.",
+      "nuance": "It is a direct, practical label for a job vacancy, often used on signs, websites and recruitment materials. In everyday conversation, people may also use it to suggest that help is needed.",
+      "literal": "A sign asking people to apply for work.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Hiring notice · recruiting staff",
+          "sentence": "The help wanted sign is now posted by the entrance.",
+          "highlight": "help wanted",
+          "tip": "It usually identifies an open position rather than a request for unpaid help."
+        },
+        {
+          "setting": "social",
+          "where": "Community event · organizing volunteers",
+          "sentence": "We put up a help wanted notice for anyone who can donate refreshments.",
+          "highlight": "help wanted",
+          "tip": "In this broader use, it can invite practical assistance from other people."
+        },
+        {
+          "setting": "writing",
+          "where": "Classified ad · listing a vacancy",
+          "sentence": "The classified ad reads: Help wanted for a weekend sales assistant.",
+          "highlight": "Help wanted",
+          "tip": "Capitalize it as a heading when it appears on its own."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely comes from physical signs used by businesses to advertise jobs. Its modern job-advertising use developed as employment notices became common in shops and offices.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Businesses displayed notices asking for workers or practical assistance."
+          },
+          {
+            "when": "19th century",
+            "text": "Printed and posted job notices used wording such as “help wanted” for employers seeking workers."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase remains common on storefront signs, job boards and classified advertisements."
+          }
+        ]
+      },
+      "similar": [
+        "now hiring",
+        "vacancy",
+        "job opening",
+        "positions available"
+      ],
+      "opposite": "no longer hiring",
+      "pitfall": "“Help wanted” normally refers to paid employment, so use “volunteers needed” when you mean unpaid assistance."
+    },
+    {
+      "id": "here-you-are",
+      "kind": "phrase",
+      "term": "Here you are",
+      "pos": "phrase",
+      "hint": "handing over something you have found",
+      "register": "Everyday",
+      "meaning": "Used when giving someone something they asked for or have been looking for.",
+      "nuance": "It sounds warm and helpful, especially when handing over an object, a document or the answer to a question.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague requests a file",
+          "sentence": "Here you are — I’ve sent the revised report to your inbox.",
+          "highlight": "Here you are",
+          "tip": "Use it when handing over or sending something the person already requested."
+        },
+        {
+          "setting": "social",
+          "where": "Friend asks for lost keys",
+          "sentence": "Here you are; they were on the kitchen table.",
+          "highlight": "Here you are",
+          "tip": "It adds a friendly tone when returning something to someone."
+        },
+        {
+          "setting": "writing",
+          "where": "Email with requested information",
+          "sentence": "Here you are — the meeting notes are below, along with the action points.",
+          "highlight": "Here you are",
+          "tip": "In writing, follow it with the item or information so the reader knows what you mean."
+        }
+      ],
+      "origin": {
+        "summary": "Likely grew from the literal act of presenting something to someone while saying “here,” with the word “you” emphasizing the person receiving it.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal idea: presenting an item while indicating the place where the recipient can take it."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression appears in speech and writing as a way of handing or offering something."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common everyday phrase for giving someone what they wanted or found."
+          }
+        ]
+      },
+      "similar": [
+        "here it is",
+        "here you go",
+        "there you are"
+      ],
+      "pitfall": "“Here you are” usually needs the thing being given to follow immediately; otherwise, it can sound incomplete or sarcastic."
+    },
+    {
+      "id": "heres-the-deal",
+      "kind": "phrase",
+      "term": "here's the deal",
+      "pos": "phrase",
+      "hint": "let me explain the situation",
+      "register": "Casual",
+      "meaning": "An informal way of introducing the main point, arrangement, or explanation in a conversation.",
+      "nuance": "It sounds direct and conversational, often as if the speaker is about to simplify something complicated. It suits everyday talk and relaxed workplace conversations, but may feel too informal in a formal report.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team briefing · explaining a change",
+          "sentence": "Here's the deal: we're postponing the launch until the testing issues are fixed.",
+          "highlight": "Here's the deal",
+          "tip": "Use it when you want to state the key point plainly and confidently."
+        },
+        {
+          "setting": "social",
+          "where": "Making plans with a friend",
+          "sentence": "Here's the deal: we meet at seven, grab dinner, and then head to the show.",
+          "highlight": "Here's the deal",
+          "tip": "It gives friendly instructions a casual, emphatic tone."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal email to a colleague",
+          "sentence": "Here's the deal: I can cover the client call if you send me the latest figures.",
+          "highlight": "Here's the deal",
+          "tip": "It works in a relaxed email, but avoid it when writing to senior leaders."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from the general meaning of “deal” as an agreement or arrangement. The phrase became common as an informal way to announce the central point.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Deal” was used for an agreement, arrangement, or matter to be settled."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression spread in conversational English as a lead-in to an explanation or arrangement."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar phrase in casual speech and informal workplace communication."
+          }
+        ]
+      },
+      "similar": [
+        "here's the thing",
+        "the situation is",
+        "let me explain"
+      ],
+      "opposite": "the long story",
+      "pitfall": "Because it can sound blunt or overly casual, avoid using it with senior leaders, clients, or anyone whose formality you are unsure about."
+    },
+    {
+      "id": "home-sweet-home",
+      "kind": "phrase",
+      "term": "Home, sweet home",
+      "pos": "phrase",
+      "hint": "A warm feeling about being back home",
+      "register": "Casual",
+      "meaning": "A happy, affectionate expression for being home or returning to a familiar, comfortable place.",
+      "nuance": "It often suggests relief, contentment or a nostalgic fondness for home. It can be sincere and warm, but it may also sound playful or mildly old-fashioned.",
+      "literal": "The idea that home is a sweet, pleasant place to be.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Returning from a business trip",
+          "sentence": "I finally finished that report, and now it’s home, sweet home.",
+          "highlight": "home, sweet home",
+          "tip": "Use it lightly when you’re relieved to be back from a demanding trip."
+        },
+        {
+          "setting": "social",
+          "where": "Welcoming a friend after a long journey",
+          "sentence": "Welcome back—home, sweet home! How was the flight?",
+          "highlight": "home, sweet home",
+          "tip": "It adds warmth when greeting someone who has just returned."
+        },
+        {
+          "setting": "writing",
+          "where": "Signing off a personal email",
+          "sentence": "The project is finished, my suitcase is unpacked, and it’s home, sweet home.",
+          "highlight": "home, sweet home",
+          "tip": "Keep it in informal writing; it can sound out of place in a formal business message."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the older expression “sweet home,” used affectionately for the home or homeland. The repeated form became popular in 19th-century song, poetry and sentimental domestic writing.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Sweet home” was used as an affectionate description of a familiar or beloved home."
+          },
+          {
+            "when": "19th century",
+            "text": "The repeated form “home, sweet home” became established in English song, poetry and popular sentiment."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar expression for contentment or relief at returning home."
+          }
+        ]
+      },
+      "similar": [
+        "sweet home",
+        "back home",
+        "glad to be home"
+      ],
+      "opposite": "away from home",
+      "pitfall": "The phrase can sound nostalgic or theatrical, so it is better suited to casual conversation than to formal communication."
+    },
+    {
+      "id": "hows-it",
+      "kind": "phrase",
+      "term": "how's it",
+      "pos": "phrase",
+      "hint": "checking how something is",
+      "register": "Casual",
+      "meaning": "An informal way of asking how something is or how it is going.",
+      "nuance": "It sounds relaxed and conversational, often among friends or colleagues who know each other well. In more formal settings, use “How is it?” or name what you are asking about.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Quick update · checking a project",
+          "sentence": "The launch is next week, so how's it looking?",
+          "highlight": "how's it",
+          "tip": "Use it with people you know; otherwise, ask “How is the project going?”"
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · catching up",
+          "sentence": "We haven't talked in ages, so how's it going?",
+          "highlight": "how's it",
+          "tip": "It is a friendly opener, especially when followed by “going.”"
+        },
+        {
+          "setting": "writing",
+          "where": "Casual message · checking in",
+          "sentence": "Just wanted to check in, so how's it going on your end?",
+          "highlight": "how's it",
+          "tip": "This works in messages to people you already know, not in formal emails."
+        }
+      ],
+      "origin": {
+        "summary": "This is a contracted and informal version of “How is it?” rather than a fixed expression with a separate story.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The question “How is it?” was used to ask about the condition of a person, thing or situation."
+          },
+          {
+            "when": "Later",
+            "text": "Dropping “is” to “'s” made the question shorter and more conversational."
+          },
+          {
+            "when": "Today",
+            "text": "It remains casual and is commonly paired with “going.”"
+          }
+        ]
+      },
+      "similar": [
+        "how is it",
+        "how's it going",
+        "how are things"
+      ],
+      "opposite": "how's it not",
+      "pitfall": "“How's it?” is incomplete-sounding in formal writing; use “How is it?” or state the subject clearly."
+    },
+    {
+      "id": "humanly-possible",
+      "kind": "phrase",
+      "term": "humanly possible",
+      "pos": "phrase",
+      "hint": "able for a person to manage",
+      "register": "Common at work",
+      "meaning": "Possible for a human being to achieve or deal with.",
+      "nuance": "It often emphasizes how difficult, exhausting or unrealistic something seems. It can be genuine or rhetorical, depending on the context.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch deadline · pressure",
+          "sentence": "Finishing the entire migration before Friday is barely humanly possible.",
+          "highlight": "humanly possible",
+          "tip": "Use it when describing an extreme challenge, not merely a demanding task."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a busy weekend",
+          "sentence": "Attending the concert, picking up dinner and meeting everyone else seems humanly possible only with a very tight schedule.",
+          "highlight": "humanly possible",
+          "tip": "A little dramatic, so it works well with friends but may sound overly theatrical at work."
+        },
+        {
+          "setting": "writing",
+          "where": "Explaining a delayed response",
+          "sentence": "It was not humanly possible to check every entry before the report was due, so we reviewed the highest-risk ones.",
+          "highlight": "humanly possible",
+          "tip": "Use it to explain a practical limitation, then state what you did instead."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the idea that an action falls within ordinary human abilities or limits. Its early uses often expressed doubt that something could be achieved at all.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Late 1800s",
+            "text": "The expression “humanly possible” appears in writing about what people can realistically accomplish."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "Its use broadens in conversation and journalism to describe exceptionally difficult situations."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar way to question whether a demanding task is feasible."
+          }
+        ]
+      },
+      "similar": [
+        "feasible",
+        "within the realm of possibility",
+        "barely possible",
+        "practically achievable"
+      ],
+      "opposite": "humanly impossible",
+      "pitfall": "It is more dramatic than “possible” and can sound skeptical, so explain the practical obstacle rather than relying on it alone."
+    },
+    {
+      "id": "i-could-eat-a-horse",
+      "kind": "phrase",
+      "term": "I could eat a horse",
+      "pos": "idiom",
+      "hint": "very hungry",
+      "register": "Casual",
+      "meaning": "I’m extremely hungry and could eat a very large amount of food.",
+      "nuance": "This is a playful exaggeration, usually used in informal conversation. It can also suggest that someone is so hungry that even a huge meal would not be enough.",
+      "literal": "A person is so hungry that they feel able to eat an entire horse.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Lunch break · deciding what to eat",
+          "sentence": "I skipped breakfast, so I could eat a horse right now.",
+          "highlight": "I could eat a horse",
+          "tip": "Use it with friends or colleagues when you want to sound lighthearted rather than formal."
+        },
+        {
+          "setting": "social",
+          "where": "At a party · arriving hungry",
+          "sentence": "After the walk, I could eat a horse. Is there any food left?",
+          "highlight": "I could eat a horse",
+          "tip": "It works well as a humorous way to announce that you are very hungry."
+        },
+        {
+          "setting": "writing",
+          "where": "Casual message to a friend",
+          "sentence": "I’m starving—I could eat a horse, but I’ll settle for pizza.",
+          "highlight": "I could eat a horse",
+          "tip": "Keep the overall message informal; the idiom is usually better suited to a relaxed note."
+        }
+      ],
+      "origin": {
+        "summary": "Probably comes from an older exaggeration about how much someone could eat. The exact source is uncertain, but the phrase has long been used to describe extreme hunger.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used exaggerated comparisons to describe very large appetites."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression “eat a horse” appears in English writing as a way of showing intense hunger."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a casual idiom for saying that someone is extremely hungry."
+          }
+        ]
+      },
+      "similar": [
+        "I’m starving",
+        "I’m famished",
+        "I could eat a elephant"
+      ],
+      "opposite": "I couldn’t eat a thing",
+      "pitfall": "This is deliberately exaggerated, so it usually sounds humorous rather than literal."
+    },
+    {
+      "id": "if-memory-serves",
+      "kind": "phrase",
+      "term": "if memory serves",
+      "pos": "phrase",
+      "hint": "as far as I remember",
+      "register": "Neutral",
+      "meaning": "Used to qualify a recollection when you are not completely certain that it is accurate.",
+      "nuance": "It sounds thoughtful and slightly cautious rather than uncertain overall. It works well before sharing something you remember but cannot verify.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · recalling an earlier decision",
+          "sentence": "If memory serves, we agreed to postpone the review until Friday, but let’s check the notes.",
+          "highlight": "If memory serves",
+          "tip": "Use it when a quick check of the record may be needed."
+        },
+        {
+          "setting": "social",
+          "where": "Reconnecting with an old friend",
+          "sentence": "If memory serves, we met at that little café near the station, though that was years ago.",
+          "highlight": "If memory serves",
+          "tip": "It gently signals uncertainty without making the whole conversation feel tentative."
+        },
+        {
+          "setting": "writing",
+          "where": "Personal email · sharing a remembered detail",
+          "sentence": "If memory serves, the address was on the second floor, just above the bakery.",
+          "highlight": "If memory serves",
+          "tip": "Follow it with a qualifier or suggest checking when accuracy matters."
+        }
+      ],
+      "origin": {
+        "summary": "The wording likely developed from the idea of memory helping or serving someone by providing a recollection. It became a polite way to introduce information that might not be completely reliable.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The phrase “memory serves” was used to mean that memory provides help or guidance."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression “if memory serves” appears in written English as a way to qualify a recollection."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a natural, mildly cautious phrase for introducing something remembered."
+          }
+        ]
+      },
+      "similar": [
+        "if I remember correctly",
+        "as far as I remember",
+        "as I recall"
+      ],
+      "opposite": "I remember for certain",
+      "pitfall": "Use it only when there is some real uncertainty; for important facts, check the original source instead of relying on memory."
+    },
+    {
+      "id": "if-push-comes-to-shove",
+      "kind": "phrase",
+      "term": "if push comes to shove",
+      "pos": "idiom",
+      "hint": "if you have to take forceful action",
+      "register": "Common at work",
+      "meaning": "If the situation becomes difficult or urgent, you will take stronger action to deal with it.",
+      "nuance": "It suggests stepping up when ordinary options are no longer enough. It is often reassuring rather than openly aggressive.",
+      "literal": "A physical contest in which people push and shove each other.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Deadline pressure · unblocking a project",
+          "sentence": "If push comes to shove, we’ll ask the legal team to review the contract before Friday.",
+          "highlight": "If push comes to shove",
+          "tip": "Use it to signal a fallback plan when the normal process is not enough."
+        },
+        {
+          "setting": "social",
+          "where": "Plans for an evening out",
+          "sentence": "If push comes to shove, we can order takeaway and watch a film at home instead.",
+          "highlight": "If push comes to shove",
+          "tip": "It works well when presenting a practical backup plan."
+        },
+        {
+          "setting": "writing",
+          "where": "Email about a delayed delivery",
+          "sentence": "If push comes to shove, we’ll arrange a second supplier so the launch is not affected.",
+          "highlight": "If push comes to shove",
+          "tip": "Keep it professional by following it with a clear contingency step."
+        }
+      ],
+      "origin": {
+        "summary": "The expression probably grew from the literal actions of pushing and shoving. Its figurative sense was established by the late 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Push” and “shove” were used for forceful physical movement."
+          },
+          {
+            "when": "Late 19th century",
+            "text": "The combined expression appeared in language describing forceful or extreme action."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used to mean taking decisive action if circumstances require it."
+          }
+        ]
+      },
+      "similar": [
+        "if it comes to that",
+        "if necessary",
+        "at the push of a button"
+      ],
+      "opposite": "no matter what",
+      "pitfall": "It does not mean a real physical confrontation will happen; in most modern uses, it refers to taking stronger practical action."
+    },
+    {
+      "id": "if-these-walls-could-talk",
+      "kind": "phrase",
+      "term": "if these walls could talk",
+      "pos": "phrase",
+      "hint": "a room revealing its secrets",
+      "register": "Literary; occasional in conversation",
+      "meaning": "Used to suggest that a room or building has witnessed events, secrets or stories that its occupants have never shared.",
+      "nuance": "The phrase is imaginative and often slightly dramatic. It suits nostalgic, humorous or reflective writing more than everyday factual speech.",
+      "literal": "A person imagines the walls speaking and revealing what has happened inside.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office tour · reflecting on a team’s history",
+          "sentence": "If these walls could talk, they could tell you how many late nights this project took.",
+          "highlight": "If these walls could talk",
+          "tip": "Use it to add personality to a workplace story rather than as a serious point."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · joking about old photographs",
+          "sentence": "If these walls could talk, they’d tell you how often we argued over where to put the Christmas tree.",
+          "highlight": "If these walls could talk",
+          "tip": "The phrase works well as playful exaggeration among people who share the history."
+        },
+        {
+          "setting": "writing",
+          "where": "Description of an old family home",
+          "sentence": "If these walls could talk, they would reveal decades of arguments, celebrations and quiet family moments.",
+          "highlight": "If these walls could talk",
+          "tip": "Follow it with the stories you imagine the building might reveal."
+        }
+      ],
+      "origin": {
+        "summary": "The expression treats buildings as silent witnesses to human events. The shorter idea that walls could talk appeared in 19th-century figurative writing, while the familiar conditional form became established later.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People long imagined buildings and objects as silent witnesses to what happened around them."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression “walls could talk” appears in figurative English writing."
+          },
+          {
+            "when": "Today",
+            "text": "“If these walls could talk” is a familiar way to suggest untold or hidden stories."
+          }
+        ]
+      },
+      "similar": [
+        "if these walls had ears",
+        "the walls have ears",
+        "if this place could talk"
+      ],
+      "pitfall": "The phrase invites storytelling but does not reveal facts itself; use it before the anecdote or imagined revelation."
+    }
+  ]
+}

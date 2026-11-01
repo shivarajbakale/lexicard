@@ -1,0 +1,1709 @@
+{
+  "id": "words-truth-deception-2",
+  "kind": "word",
+  "name": "Truth & deception · 2",
+  "blurb": "25 words about truth & deception",
+  "cards": [
+    {
+      "id": "exonerate",
+      "kind": "word",
+      "term": "exonerate",
+      "pos": "verb",
+      "phonetic": "/ɪɡˈzɒnəreɪt/",
+      "sayIt": "ig-ZON-uh-rate",
+      "register": "Formal",
+      "meaning": "To officially state that someone is not guilty or does not deserve blame.",
+      "nuance": "Used when evidence or an official decision clears someone of a wrong. It is stronger and more formal than simply saying someone did not do it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Investigation · reviewing an incident",
+          "sentence": "The report exonerated the employee, confirming that she had followed the security procedure.",
+          "highlight": "exonerated",
+          "tip": "Common in formal reports, legal discussions and workplace investigations."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · defending a friend",
+          "sentence": "New evidence helped exonerate him, so I think we should apologize for doubting him.",
+          "highlight": "exonerate",
+          "tip": "Use it when someone has been wrongly blamed and is now officially cleared."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · legal update",
+          "sentence": "The court issued a statement saying it had exonerated the former director of any wrongdoing.",
+          "highlight": "exonerated",
+          "tip": "Fits formal reporting when describing a finding that removes suspicion or blame."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin exonerare, ‘to free from a burden’, built on ex-, ‘out of’, and onus, ‘burden’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root exonerare means ‘to unload’ or ‘free from a burden’, especially blame or responsibility."
+          },
+          {
+            "when": "1600s",
+            "text": "Enters English in legal contexts, meaning to free someone from blame or an obligation."
+          },
+          {
+            "when": "Today",
+            "text": "Mainly means to officially clear someone of guilt or wrongdoing."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "exoneration",
+          "label": "noun"
+        },
+        {
+          "term": "exonerated",
+          "label": "adjective"
+        },
+        {
+          "term": "exonerating",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "absolve",
+        "acquit",
+        "vindicate",
+        "clear"
+      ],
+      "opposite": "implicate",
+      "pitfall": "Don’t use it merely to say someone is innocent; it usually suggests a formal or well-supported clearing of blame."
+    },
+    {
+      "id": "expunge",
+      "kind": "word",
+      "term": "expunge",
+      "pos": "verb",
+      "phonetic": "/ɪkˈspʌndʒ/",
+      "sayIt": "ik-SPUNJ",
+      "register": "Formal",
+      "meaning": "To remove something completely, especially a record, reference or written statement.",
+      "nuance": "This sounds deliberate and official rather than casual. It is often used when something is formally erased from a file, history or database.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "HR review · correcting a personnel file",
+          "sentence": "HR agreed to expunge the inaccurate comment from my personnel record.",
+          "highlight": "expunge",
+          "tip": "Use it for formal removal of a damaging or incorrect entry from an official record."
+        },
+        {
+          "setting": "social",
+          "where": "Group chat · resolving an old disagreement",
+          "sentence": "Could we expunge that message so everyone can move on without the argument resurfacing?",
+          "highlight": "expunge",
+          "tip": "It adds formality and suggests completely erasing something, not merely hiding it."
+        },
+        {
+          "setting": "writing",
+          "where": "Legal letter · requesting record deletion",
+          "sentence": "The letter asks the agency to expunge the disputed entry from the applicant’s file.",
+          "highlight": "expunge",
+          "tip": "Common in legal and administrative writing when requesting the permanent removal of a record."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin expungere, formed from ex-, meaning ‘out of’, and pungere, meaning ‘to prick or puncture’. The idea developed from clearing something by piercing or removing it, and later came to mean erasing a record.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Expungere combines ex-, ‘out of’, with pungere, ‘to prick or puncture’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in legal and administrative contexts, especially for removing entries from records."
+          },
+          {
+            "when": "Today",
+            "text": "It remains formal and is chiefly used for deliberately erasing records, references or written material."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "expunction",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "erase",
+        "delete",
+        "remove",
+        "purge"
+      ],
+      "opposite": "retain",
+      "pitfall": "Expunge suggests formal and complete removal; delete is more neutral and is usually used for digital files or text."
+    },
+    {
+      "id": "extenuating",
+      "kind": "word",
+      "term": "extenuating",
+      "pos": "adjective",
+      "phonetic": "/ɪkˈstenjuətɪŋ/",
+      "sayIt": "ik-STEN-yoo-AY-ting",
+      "register": "Formal",
+      "meaning": "Making an action or mistake seem less serious or blameworthy by giving reasons that partly excuse it.",
+      "nuance": "Common in legal and workplace discussions, especially in the phrase “extenuating circumstances.” It suggests mitigating factors, not a complete defence.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing a missed deadline",
+          "sentence": "The system outage was an extenuating circumstance, although she should still have told us sooner.",
+          "highlight": "extenuating circumstance",
+          "tip": "Use it to highlight relevant context without claiming the mistake was faultless."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · explaining an accident",
+          "sentence": "Driving on a wet road was an extenuating circumstance, but it did not excuse his speeding.",
+          "highlight": "extenuating circumstance",
+          "tip": "It sounds measured and reasonable, so pair it with a clear acknowledgement of responsibility."
+        },
+        {
+          "setting": "writing",
+          "where": "Appeal letter · explaining an offence",
+          "sentence": "My volunteer work and time caring for my father were extenuating circumstances in the sentencing decision.",
+          "highlight": "extenuating circumstances",
+          "tip": "This formal plural phrase is especially useful when asking for a more lenient response."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin extenuare, meaning “to make thin” or “lighten,” which developed into the idea of making something less serious.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Extenuare means “to make thin, weaken or lessen.”"
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "Latin-derived forms appear in legal and administrative contexts meaning to reduce the seriousness of an offence."
+          },
+          {
+            "when": "1600s",
+            "text": "The word becomes established in English, especially in the phrase “extenuating circumstances.”"
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "extenuate",
+          "label": "verb"
+        },
+        {
+          "term": "extenuation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "mitigating",
+        "lessening",
+        "diminishing",
+        "qualifying"
+      ],
+      "opposite": "aggravating",
+      "pitfall": "Don’t use it to mean that the action is fully justified; it only points to reasons that may reduce blame or punishment."
+    },
+    {
+      "id": "fabricate",
+      "kind": "word",
+      "term": "fabricate",
+      "pos": "verb",
+      "phonetic": "/ˈfæbrɪkeɪt/",
+      "sayIt": "FAB-ri-KAYT",
+      "register": "Common at work",
+      "meaning": "To make or assemble something, or to invent a story, document or claim that is not true.",
+      "nuance": "The word can describe creating a physical product, but it often implies that the resulting story or evidence is false. Context determines which meaning is intended.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · checking a report",
+          "sentence": "The analyst fabricated figures to make the proposal look more promising.",
+          "highlight": "fabricated",
+          "tip": "Use this when someone knowingly invents or distorts facts."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · challenging a rumour",
+          "sentence": "He fabricated the whole story about losing his passport, so I did not take it seriously.",
+          "highlight": "fabricated",
+          "tip": "It is a strong word for presenting something untrue as fact."
+        },
+        {
+          "setting": "writing",
+          "where": "Manufacturing proposal · describing a prototype",
+          "sentence": "Our engineering team fabricated a lightweight prototype to test the design.",
+          "highlight": "fabricated",
+          "tip": "In technical writing, it can neutrally mean physically manufactured."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin fabricare, meaning ‘to make or construct’, originally connected with a workshop or craftsman. It later developed the sense of inventing something false.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Fabricare means ‘to make or construct’ and is related to fabrica, ‘workshop’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with meanings involving making or construction."
+          },
+          {
+            "when": "1600s",
+            "text": "The sense of inventing something false becomes established."
+          },
+          {
+            "when": "Today",
+            "text": "It describes either physical construction or deliberate deception."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "fabrication",
+          "label": "noun"
+        },
+        {
+          "term": "fabricator",
+          "label": "noun (person or machine)"
+        }
+      ],
+      "similar": [
+        "invent",
+        "concoct",
+        "construct",
+        "forge"
+      ],
+      "opposite": "disprove",
+      "pitfall": "Do not assume it always means deception: in manufacturing and engineering, it can simply mean to make or assemble."
+    },
+    {
+      "id": "factitious",
+      "kind": "word",
+      "term": "factitious",
+      "pos": "adjective",
+      "phonetic": "/fækˈtɪʃəs/",
+      "sayIt": "fak-TISH-us",
+      "register": "Formal",
+      "meaning": "Artificial or invented rather than based on real facts or genuine circumstances.",
+      "nuance": "It often suggests that something has been carefully made or arranged but lacks naturalness or reality. It can describe stories, claims, systems or situations.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing a proposal",
+          "sentence": "The presentation was factitious, full of invented trends that did not reflect customer behaviour.",
+          "highlight": "factitious",
+          "tip": "Use it when something is deliberately constructed to seem convincing, but is not grounded in reality."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · challenging a dramatic story",
+          "sentence": "Her explanation sounded factitious, so I asked for evidence instead of accepting the drama.",
+          "highlight": "factitious",
+          "tip": "It is a formal and slightly critical word for a story or explanation that seems manufactured."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · assessing unreliable research",
+          "sentence": "The report describes a factitious system that makes the results appear better than they really are.",
+          "highlight": "factitious",
+          "tip": "It works well in serious writing about false, manufactured or artificially created claims."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin factitius, meaning ‘made by artisans’ or ‘artificial’, from facere, ‘to make’. It entered English in the 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "factitius, ‘made by artisans, artificial’, related to facere, ‘to make’."
+          },
+          {
+            "when": "1600s",
+            "text": "Enters English with the sense of artificial or made rather than naturally occurring."
+          },
+          {
+            "when": "Today",
+            "text": "Usually describes something invented, artificially arranged or not based on genuine facts."
+          }
+        ]
+      },
+      "similar": [
+        "artificial",
+        "fictitious",
+        "spurious",
+        "contrived"
+      ],
+      "opposite": "genuine",
+      "pitfall": "Factitious does not simply mean false. A factitious claim is artificially made or contrived, while a fictitious claim may be imaginary or untrue."
+    },
+    {
+      "id": "feint",
+      "kind": "word",
+      "term": "feint",
+      "pos": "noun",
+      "phonetic": "/feɪnt/",
+      "sayIt": "FAYNT",
+      "register": "Common in formal and literary contexts",
+      "meaning": "A deliberate movement, statement or appearance intended to distract attention or make someone believe something untrue.",
+      "nuance": "A feint creates a false impression while the real purpose stays hidden. It is common in strategy, sport, negotiation and storytelling, where it can be clever or misleading depending on the context.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · covering a mistake",
+          "sentence": "The feint of checking the calendar distracted everyone from the budget error.",
+          "highlight": "feint",
+          "tip": "Use it for a deceptive move designed to draw attention elsewhere."
+        },
+        {
+          "setting": "social",
+          "where": "Surprise party · throwing off guests",
+          "sentence": "Her feint at the front door made everyone think the surprise party had been called off.",
+          "highlight": "feint",
+          "tip": "It fits playful deception and tricks involving appearance or action."
+        },
+        {
+          "setting": "writing",
+          "where": "Novel scene · hiding a character’s motive",
+          "sentence": "The feint in her smile convinced everyone that she had nothing to hide.",
+          "highlight": "feint",
+          "tip": "Useful in fiction and suspense when a character shows one thing while intending another."
+        }
+      ],
+      "origin": {
+        "summary": "From French feinte, an obsolete word related to feindre, ‘to feign’ or ‘pretend’. English adopted it for actions or appearances meant to deceive.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Middle French",
+            "text": "Feinte develops from feindre, ‘to feign’ or ‘pretend’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English, initially referring to a deceptive action or movement."
+          },
+          {
+            "when": "Today",
+            "text": "It remains associated with strategy, sport, negotiation and deception."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "feint",
+          "label": "verb"
+        },
+        {
+          "term": "feigned",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "bluff",
+        "ruse",
+        "decoy",
+        "distraction"
+      ],
+      "opposite": "genuine action",
+      "pitfall": "Do not confuse feint with faint: a feint is a deliberate deception, while a faint is a temporary loss of consciousness."
+    },
+    {
+      "id": "furtive",
+      "kind": "word",
+      "term": "furtive",
+      "pos": "adjective",
+      "phonetic": "/ˈfɜːrtɪv/",
+      "sayIt": "FUR-tiv",
+      "register": "Formal",
+      "meaning": "Done in a secret or sneaky way to avoid being noticed.",
+      "nuance": "It suggests concealment or guilt and is more forceful than simply “quiet.” It is often used to describe a glance, movement or action.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office · concern about a colleague",
+          "sentence": "She cast a furtive glance toward the meeting room before closing her laptop.",
+          "highlight": "furtive",
+          "tip": "Use it when secrecy or deliberate concealment is the main point."
+        },
+        {
+          "setting": "social",
+          "where": "Party · noticing suspicious behaviour",
+          "sentence": "He was furtive on the phone and kept looking toward the entrance.",
+          "highlight": "furtive",
+          "tip": "It can describe someone who seems to be hiding something, though it may only show suspicion."
+        },
+        {
+          "setting": "writing",
+          "where": "Novel · describing a tense scene",
+          "sentence": "With a furtive step, she crossed the corridor and slipped into the unused office.",
+          "highlight": "furtive",
+          "tip": "It adds atmosphere and implies secrecy without directly explaining what is happening."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin furtivus, meaning “stolen” or “done secretly,” based on fur, meaning “thief.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Furtivus develops from roots associated with theft and secrecy."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with senses connected with theft and secrecy."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes hidden, sneaky or suspiciously covert behaviour."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "furtively",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "sneaky",
+        "covert",
+        "secretive",
+        "furtive"
+      ],
+      "opposite": "open",
+      "pitfall": "It describes secret or suspiciously covert behaviour; it is not simply a synonym for “quiet.”"
+    },
+    {
+      "id": "guile",
+      "kind": "word",
+      "term": "guile",
+      "pos": "noun",
+      "phonetic": "/ɡaɪl/",
+      "sayIt": "GYLE",
+      "register": "Formal",
+      "meaning": "Deceitful cunning used to deceive or manipulate other people.",
+      "nuance": "A formal, often literary word with a strongly negative tone. It suggests careful, calculated deception rather than an honest trick.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · questioning a proposal",
+          "sentence": "His review praised the proposal, but we suspected his support was pure guile.",
+          "highlight": "guile",
+          "tip": "Use it for suspected manipulation, usually when you want a firm, disapproving tone."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · detecting an ulterior motive",
+          "sentence": "His friendly questions seemed harmless until I realized they were designed with guile.",
+          "highlight": "guile",
+          "tip": "It fits a dramatic description of someone deliberately steering a conversation for personal gain."
+        },
+        {
+          "setting": "writing",
+          "where": "Novel · portraying a manipulative character",
+          "sentence": "The novel portrays a charming banker whose guile slowly destroys every friendship around him.",
+          "highlight": "guile",
+          "tip": "The uncountable noun works well when describing a character’s calculated, deceitful nature."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Old French guile, meaning deception or trickery. Its earlier source is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Old French",
+            "text": "Guile referred to deception, trickery and the use of cunning."
+          },
+          {
+            "when": "Middle English period",
+            "text": "The word entered English with meanings connected with deceit and manipulation."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal or literary descriptions of dishonest cunning."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "guileful",
+          "label": "adjective"
+        },
+        {
+          "term": "guilefully",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "cunning",
+        "deceit",
+        "craftiness",
+        "duplicity"
+      ],
+      "opposite": "honesty",
+      "pitfall": "Don’t confuse guile with guild, which means an association of people in the same trade or profession."
+    },
+    {
+      "id": "guise",
+      "kind": "word",
+      "term": "guise",
+      "pos": "noun",
+      "phonetic": "/ɡaɪz/",
+      "sayIt": "GIZE",
+      "register": "Formal",
+      "meaning": "The outward form or appearance in which someone or something is presented.",
+      "nuance": "It often suggests that the appearance is intended to hide the true nature of something. In more neutral uses, it simply means the form something takes.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Presentation review · explaining a policy",
+          "sentence": "The consultant presented the compliance review in the guise of a simple checklist, downplaying its importance.",
+          "highlight": "guise",
+          "tip": "Use it when an ordinary-looking action is covering a more serious purpose."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · surprising a friend",
+          "sentence": "She arrived in the guise of a casual guest, then handed everyone a formal invitation.",
+          "highlight": "guise",
+          "tip": "It can describe a deliberate change in appearance without necessarily implying wrongdoing."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · assessing a proposal",
+          "sentence": "The proposal presents major changes in the guise of routine housekeeping, obscuring the scale of the work.",
+          "highlight": "guise",
+          "tip": "Common in formal writing, especially in the patterns under the guise of and in the guise of."
+        }
+      ],
+      "origin": {
+        "summary": "The word came through Old French from a Germanic root connected with manner or fashion. Its modern meaning grew from the idea of outward style and presentation.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Medieval French",
+            "text": "Old French guise referred to manner, fashion or outward style."
+          },
+          {
+            "when": "Later Middle English",
+            "text": "The word entered English and began describing a person's dress, manner or apparent form."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal expressions such as in the guise of and under the guise of."
+          }
+        ]
+      },
+      "similar": [
+        "appearance",
+        "form",
+        "disguise",
+        "facade",
+        "outward form"
+      ],
+      "pitfall": "Do not use it as a simple synonym for clothing; it usually focuses on the apparent form in which a person or thing is presented."
+    },
+    {
+      "id": "gullible",
+      "kind": "word",
+      "term": "gullible",
+      "pos": "adjective",
+      "phonetic": "/ˈɡʌləbəl/",
+      "sayIt": "GUH-luh-buhl",
+      "register": "Everyday",
+      "meaning": "Easy to deceive or persuade because you trust what other people say.",
+      "nuance": "Often used critically, but it can describe someone who is open-minded rather than foolish. The word may sound insulting, so avoid using it for people who simply prefer cooperation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client call · checking a request",
+          "sentence": "The team was too gullible to approve the unusual request without verifying it first.",
+          "highlight": "gullible",
+          "tip": "Use it to explain why someone accepted a claim without checking it."
+        },
+        {
+          "setting": "social",
+          "where": "Party conversation · a confident story",
+          "sentence": "He seemed gullible because he believed the stranger’s elaborate explanation immediately.",
+          "highlight": "gullible",
+          "tip": "It fits when describing someone who is easily taken in by others."
+        },
+        {
+          "setting": "writing",
+          "where": "Safety advice · spotting a scam",
+          "sentence": "Never assume customers are gullible; give them clear information instead of relying on their trust.",
+          "highlight": "gullible",
+          "tip": "A strong word in formal writing, especially when discussing deception and consumer protection."
+        }
+      ],
+      "origin": {
+        "summary": "The word is formed from gull, an older word for a credulous person, plus the suffix -ible. Its connection with the seabird is probably a later joke based on gulls taking bait.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Gull develops as a word for a person who is easily deceived."
+          },
+          {
+            "when": "Early 1800s",
+            "text": "Gullible appears in English, using gull as the base word."
+          },
+          {
+            "when": "Later",
+            "text": "The image of a gull taking bait becomes a popular explanation for the word."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "gullibility",
+          "label": "noun"
+        },
+        {
+          "term": "gullibly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "credulous",
+        "naive",
+        "easily fooled",
+        "trusting"
+      ],
+      "opposite": "skeptical",
+      "pitfall": "Gullible describes a person’s tendency to be deceived; gullibility is the noun, and gullibly is the adverb."
+    },
+    {
+      "id": "incontrovertible",
+      "kind": "word",
+      "term": "incontrovertible",
+      "pos": "adjective",
+      "phonetic": "/ˌɪn.kən.trəˈvɜː.tə.bəl/",
+      "sayIt": "in-KON-truh-VER-tuh-buhl",
+      "register": "Formal",
+      "meaning": "Too clear and well supported to be disputed or denied.",
+      "nuance": "This is a strong, formal word for facts, evidence or conclusions that leave no serious room for disagreement.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Report review · presenting findings",
+          "sentence": "The audit logs provide incontrovertible evidence that the payment was approved before it was processed.",
+          "highlight": "incontrovertible",
+          "tip": "Use it for a finding supported by reliable, direct evidence."
+        },
+        {
+          "setting": "social",
+          "where": "Discussion · correcting a false claim",
+          "sentence": "The timestamp is incontrovertible: the message arrived before midnight.",
+          "highlight": "incontrovertible",
+          "tip": "It can sound forceful, so save it for a point that truly cannot reasonably be challenged."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal report · stating a conclusion",
+          "sentence": "Repeated tests confirmed the defect, making its existence incontrovertible.",
+          "highlight": "incontrovertible",
+          "tip": "Stronger than ‘clear’ and more technical than ‘obviously true.’"
+        }
+      ],
+      "origin": {
+        "summary": "Formed in English from Latin-based elements meaning ‘not’ and ‘open to dispute,’ giving the sense of something that cannot be overturned.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1400s",
+            "text": "The word first appears in English, mainly in legal and argumentative writing."
+          },
+          {
+            "when": "1600s–1700s",
+            "text": "Its meaning becomes established as ‘impossible to dispute or prove false.’"
+          },
+          {
+            "when": "Today",
+            "text": "It is used formally for undeniable facts, evidence and conclusions."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "incontrovertibility",
+          "label": "noun"
+        },
+        {
+          "term": "incontrovertibly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "indisputable",
+        "undeniable",
+        "irrefutable",
+        "unquestionable"
+      ],
+      "opposite": "debatable",
+      "pitfall": "Don’t use it simply to describe a strong opinion; it implies that sound evidence or clear facts make disagreement impossible."
+    },
+    {
+      "id": "iniquity",
+      "kind": "word",
+      "term": "iniquity",
+      "pos": "noun",
+      "phonetic": "/ɪˈnɪkwɪti/",
+      "sayIt": "in-NIK-wih-tee",
+      "register": "Formal",
+      "meaning": "Grossly unfair or morally wrong behaviour.",
+      "nuance": "A strong, formal word for serious wrongdoing or injustice. It sounds especially forceful in speeches, writing and moral criticism.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company meeting · challenging unfair treatment",
+          "sentence": "We cannot support a policy whose iniquity would undermine the trust of every employee.",
+          "highlight": "iniquity",
+          "tip": "Use this in formal criticism when the wrongdoing is severe and morally significant."
+        },
+        {
+          "setting": "social",
+          "where": "Community debate · opposing discrimination",
+          "sentence": "The speaker described the housing rule as an iniquity that no family should have to endure.",
+          "highlight": "iniquity",
+          "tip": "It gives a serious moral objection more weight than calling something merely unfair."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · condemning corruption",
+          "sentence": "The inquiry exposed a culture of iniquity that had distorted public contracts for decades.",
+          "highlight": "iniquity",
+          "tip": "Works well in editorial or persuasive writing about corruption, discrimination or serious abuse of power."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Latin iniquitas, meaning unfairness or wrongdoing, which developed from iniquus, meaning unequal or unjust.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Classical Latin",
+            "text": "Iniquitas refers to unfairness, injustice or wrongdoing."
+          },
+          {
+            "when": "Old French",
+            "text": "The Latin word appears in related French forms used for injustice and moral wrong."
+          },
+          {
+            "when": "Medieval English",
+            "text": "English borrowed the word in legal, religious and moral contexts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "iniquitous",
+          "label": "adjective"
+        },
+        {
+          "term": "iniquitously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "injustice",
+        "wrongdoing",
+        "vice",
+        "wickedness"
+      ],
+      "opposite": "righteousness",
+      "pitfall": "Do not use iniquity as a milder word for any small unfairness; it suggests serious moral or institutional wrongdoing."
+    },
+    {
+      "id": "insidious",
+      "kind": "word",
+      "term": "insidious",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈsɪdiəs/",
+      "sayIt": "in-SID-ee-uhs",
+      "register": "Common at work and in writing",
+      "meaning": "Harmful or damaging in a way that is gradual, hidden, and not easy to notice.",
+      "nuance": "It often describes a problem, influence, or threat whose effects build quietly. It is stronger and more serious than simply sneaky.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team review · discussing a slow decline",
+          "sentence": "The insidious decline in staff morale was easy to miss until resignations began increasing.",
+          "highlight": "insidious",
+          "tip": "Use it for a problem whose effects appear only after they have developed for some time."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · questioning a habit",
+          "sentence": "He called social comparison an insidious force that quietly lowers people’s confidence.",
+          "highlight": "insidious",
+          "tip": "It sounds thoughtful and serious, so it suits conversations about hidden social pressures."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · describing a long-term risk",
+          "sentence": "The report warns that small, recurring errors can become an insidious source of financial loss.",
+          "highlight": "insidious",
+          "tip": "Pair it with trend, risk, influence, effect or threat to make the hidden danger clear."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin insidiosus, meaning deceptive or cunning, originally associated with traps or ambushes.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Insidiosus develops from insidiae, meaning a trap, snare or ambush."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with meanings connected with deception and cunning."
+          },
+          {
+            "when": "Today",
+            "text": "It is used mainly for harmful influences or problems that develop quietly."
+          }
+        ]
+      },
+      "similar": [
+        "subtle",
+        "sneaky",
+        "underhand",
+        "pernicious"
+      ],
+      "opposite": "overt",
+      "pitfall": "Do not confuse it with insincere, which means pretending not to mean what you really think."
+    },
+    {
+      "id": "invalidate",
+      "kind": "word",
+      "term": "invalidate",
+      "pos": "verb",
+      "phonetic": "/ɪnˈvælɪdeɪt/",
+      "sayIt": "in-VAL-ih-date",
+      "register": "Common at work",
+      "meaning": "To make something no longer valid, acceptable, or legally effective.",
+      "nuance": "It is a fairly direct and often technical verb: use it when an argument, document, test result, or decision is officially ruled unusable or untrue.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · assessing test results",
+          "sentence": "The latest software update invalidated several of our earlier test results, so we need to rerun the checks.",
+          "highlight": "invalidated",
+          "tip": "Common in technical, legal, and administrative contexts; it means to cancel the validity of something."
+        },
+        {
+          "setting": "social",
+          "where": "Discussion · challenging a claim",
+          "sentence": "Finding one factual error does not invalidate the entire argument, though it may weaken it.",
+          "highlight": "invalidate",
+          "tip": "Use it to say that something cannot be accepted as sound, valid, or reliable."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · correcting a record",
+          "sentence": "Please note that this correction invalidates the version of the contract circulated on Monday.",
+          "highlight": "invalidates",
+          "tip": "A useful formal verb for saying a new fact or decision makes an earlier document or statement ineffective."
+        }
+      ],
+      "origin": {
+        "summary": "Built from the Latin prefix in-, meaning ‘not’, and validus, meaning ‘valid’ or ‘strong’. The word entered English in the 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Invalidus, meaning ‘not valid’, formed from in- ‘not’ and validus ‘valid’."
+          },
+          {
+            "when": "1600s",
+            "text": "Enters English in the sense of making something invalid or not legally effective."
+          },
+          {
+            "when": "Today",
+            "text": "Widely used for documents, claims, decisions, results, and systems that can no longer be accepted."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "invalid",
+          "label": "adjective"
+        },
+        {
+          "term": "invalidation",
+          "label": "noun"
+        },
+        {
+          "term": "invalidly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "void",
+        "annul",
+        "cancel",
+        "undermine"
+      ],
+      "opposite": "validate",
+      "pitfall": "Do not confuse it with ‘invalidate’ meaning to disprove; it means to make something no longer valid or effective, which may or may not involve proving it false."
+    },
+    {
+      "id": "legerdemain",
+      "kind": "word",
+      "term": "legerdemain",
+      "pos": "noun",
+      "phonetic": "/ˈlɛdʒərdəmeɪn/",
+      "sayIt": "LEJ-er-duh-MAIN",
+      "register": "Formal",
+      "meaning": "Skillful deception, especially the use of tricks to mislead or deceive people.",
+      "nuance": "The word originally referred to magical sleight of hand. Today it usually implies cunning trickery, particularly in business or politics.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · reviewing a proposal",
+          "sentence": "Their impressive figures were legerdemain, designed to hide how weak the product really was.",
+          "highlight": "legerdemain",
+          "tip": "Use it when a polished performance is hiding manipulation or misleading details."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · a sales trick",
+          "sentence": "She saw through his legerdemain; the advertised discount was impossible to claim.",
+          "highlight": "legerdemain",
+          "tip": "It sounds formal and slightly theatrical, so reserve it for especially deceptive tricks."
+        },
+        {
+          "setting": "writing",
+          "where": "Opinion column · criticizing a campaign",
+          "sentence": "Voters deserved facts rather than the political legerdemain used to manufacture support.",
+          "highlight": "legerdemain",
+          "tip": "This literary use strongly criticizes manipulation, deception or theatrical showmanship."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French legerdemain, literally ‘lightness of hand’, referring to the quick hand movements used in conjuring or trickery.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Before 1200s",
+            "text": "Old French legerdemain combines leger, ‘light’, and main, ‘hand’."
+          },
+          {
+            "when": "1400s",
+            "text": "The word enters English and is used for sleight of hand, conjuring and manual tricks."
+          },
+          {
+            "when": "Today",
+            "text": "It chiefly means cunning deception or trickery."
+          }
+        ]
+      },
+      "similar": [
+        "sleight of hand",
+        "trickery",
+        "deception",
+        "chicanery"
+      ],
+      "opposite": "honesty",
+      "pitfall": "Don’t use it as a neutral label for dexterity; in modern English, it normally suggests deception."
+    },
+    {
+      "id": "lurid",
+      "kind": "word",
+      "term": "lurid",
+      "pos": "adjective",
+      "phonetic": "/ˈlʊərɪd/",
+      "sayIt": "LOO-rid",
+      "register": "Common in criticism and descriptive writing",
+      "meaning": "Shockingly vivid, intense, or exaggerated, especially in a way that feels sensational or tasteless.",
+      "nuance": "It can describe vivid details that are disturbing, such as injuries or corruption. It often suggests that something has been made dramatic or exaggerated, but it does not automatically mean the account is false.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Internal report · describing a complaint",
+          "sentence": "The complaint contains lurid details that may distract us from the underlying management failure.",
+          "highlight": "lurid",
+          "tip": "Use it to criticise details as excessive, sensational or unfit for a serious setting."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · retelling a scandal",
+          "sentence": "Her account was so lurid that everyone wanted to hear what had supposedly happened.",
+          "highlight": "lurid",
+          "tip": "It often works when you suspect that a story is being heightened for impact."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · assessing a crime novel",
+          "sentence": "The novel offers a lurid portrait of city nightlife, but its sharpest moments are also its quietest.",
+          "highlight": "lurid",
+          "tip": "Pair it with portrait, description or account when discussing vivid and sensational material."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin luridus, originally meaning pale, sickly or unnaturally bright. The word gradually developed senses connected with vividness, shock and later sensational exaggeration.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "The Latin word luridus referred to a pale, sickly or unnaturally bright appearance."
+          },
+          {
+            "when": "1600s",
+            "text": "It enters English and is used for striking colours, fires and frightening appearances."
+          },
+          {
+            "when": "1800s",
+            "text": "The sense expands towards descriptions that are shocking, excessive or sensational."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "luridly",
+          "label": "adverb"
+        },
+        {
+          "term": "luridness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "sensational",
+        "graphic",
+        "garish",
+        "exaggerated"
+      ],
+      "opposite": "restrained",
+      "pitfall": "Don’t use it merely as a synonym for vivid; lurid usually carries a stronger suggestion of shock, exaggeration or tastelessness."
+    },
+    {
+      "id": "mendacious",
+      "kind": "word",
+      "term": "mendacious",
+      "pos": "adjective",
+      "phonetic": "/menˈdeɪʃəs/",
+      "sayIt": "men-DAY-shuss",
+      "register": "Formal",
+      "meaning": "Dishonest or given to telling deliberate untruths.",
+      "nuance": "Stronger and more formal than simply deceptive; it suggests a habit or clear intention to mislead.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Internal investigation · reviewing claims",
+          "sentence": "The report concluded that the witness gave mendacious testimony to protect the company.",
+          "highlight": "mendacious",
+          "tip": "Use it in serious professional or legal contexts where deliberate deception matters."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · confronting a lie",
+          "sentence": "His explanation was mendacious, and several friends stopped trusting him.",
+          "highlight": "mendacious",
+          "tip": "It sounds stern and confrontational, so avoid it in lighthearted disagreement."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial review · challenging a source",
+          "sentence": "The editor called the account mendacious and requested supporting evidence.",
+          "highlight": "mendacious",
+          "tip": "Often appears in journalism, political writing and formal criticism."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin mendax, meaning “lying” or “deceitful,” with the ending -ous added in English.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root mendax meant “lying,” “deceitful” or “deceptive.”"
+          },
+          {
+            "when": "1600s",
+            "text": "Mendacious enters English as a formal word for lying or deceitful."
+          },
+          {
+            "when": "Today",
+            "text": "It is used especially in legal, political and journalistic contexts."
+          }
+        ]
+      },
+      "similar": [
+        "deceitful",
+        "dishonest",
+        "false",
+        "untruthful"
+      ],
+      "opposite": "truthful",
+      "pitfall": "It describes dishonesty or deliberate deception, not merely a mistaken belief; don’t use it for an inaccurate but sincere statement."
+    },
+    {
+      "id": "murky",
+      "kind": "word",
+      "term": "murky",
+      "pos": "adjective",
+      "phonetic": "/ˈmɜːrki/",
+      "sayIt": "MUR-kee",
+      "register": "Common",
+      "meaning": "Dark, cloudy, or unclear enough that details are difficult to see or understand.",
+      "nuance": "It can describe murky water, a murky sky, or an unclear situation. It often suggests that something is confusing as well as dim.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · unclear findings",
+          "sentence": "The report is too murky to support a decision, so we need clearer evidence before Friday.",
+          "highlight": "murky",
+          "tip": "Use it for information, motives, or reasoning that is hard to understand."
+        },
+        {
+          "setting": "social",
+          "where": "Riverside walk · gloomy weather",
+          "sentence": "The river looked especially murky after three days of rain.",
+          "highlight": "murky",
+          "tip": "For physical scenes, it evokes cloudy water or an atmosphere without clear visibility."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a colleague · requesting clarification",
+          "sentence": "Your description of the proposal is a little murky, so could you explain the main risk more directly?",
+          "highlight": "murky",
+          "tip": "It is a polite way to say that something is unclear, often without sounding harsh."
+        }
+      ],
+      "origin": {
+        "summary": "The word developed from Middle English murki, meaning dark or cloudy. Its connection to murk, a word for dirty or cloudy water, is likely, though the exact development is not fully certain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Middle English",
+            "text": "Murki appears in English with meanings connected with darkness and cloudiness."
+          },
+          {
+            "when": "1800s",
+            "text": "The word becomes established for dark or cloudy water and, by extension, unclear situations."
+          },
+          {
+            "when": "Today",
+            "text": "It describes anything difficult to see through or understand clearly."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "murk",
+          "label": "noun"
+        },
+        {
+          "term": "murkily",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "cloudy",
+        "opaque",
+        "unclear",
+        "muddy"
+      ],
+      "opposite": "clear",
+      "pitfall": "Murky does not necessarily mean dirty; it mainly focuses on a lack of clarity or visibility."
+    },
+    {
+      "id": "nefarious",
+      "kind": "word",
+      "term": "nefarious",
+      "pos": "adjective",
+      "phonetic": "/nɪˈfeəriəs/",
+      "sayIt": "nih-FAIR-ee-uss",
+      "register": "Formal",
+      "meaning": "Evil, harmful, or deliberately wrong, often involving deception or hidden wrongdoing.",
+      "nuance": "This is a strong moral judgement, so use it when there are clear grounds for condemning someone’s actions. It can sound dramatic or melodramatic if used for minor misconduct.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Internal investigation · tracing suspicious payments",
+          "sentence": "We uncovered a nefarious attempt to redirect customer payments before the audit.",
+          "highlight": "nefarious",
+          "tip": "Strong and formal; reserve it for serious, clearly wrongful behaviour."
+        },
+        {
+          "setting": "social",
+          "where": "With friends · reacting to a betrayal",
+          "sentence": "Her nefarious plan to spread false rumours ended our friendship.",
+          "highlight": "nefarious",
+          "tip": "Use it when describing deliberate wrongdoing rather than an awkward or disappointing act."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · describing financial misconduct",
+          "sentence": "The report details the charity’s nefarious fundraising tactics and links to shell companies.",
+          "highlight": "nefarious",
+          "tip": "It adds a strong moral tone, so support the accusation with specific facts."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin nefarius, meaning ‘wicked’ or ‘criminal’, which was based on nefas, a word for wrong, crime, or impiety.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Nefarius means ‘wicked’ or ‘criminal’, based on nefas, ‘wrong, crime, impiety’."
+          },
+          {
+            "when": "1600s",
+            "text": "Enters English in the sense of extremely wicked or villainous."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly describes hidden wrongdoing, especially schemes, threats, or dishonest acts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "nefariously",
+          "label": "adverb"
+        },
+        {
+          "term": "nefariousness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "villainous",
+        "wicked",
+        "sinister",
+        "malevolent",
+        "devious"
+      ],
+      "opposite": "benign",
+      "pitfall": "Do not use it as a synonym for merely suspicious or unpleasant; it implies deliberate and seriously wrong behaviour."
+    },
+    {
+      "id": "nullify",
+      "kind": "word",
+      "term": "nullify",
+      "pos": "verb",
+      "phonetic": "/ˈnʌlɪfaɪ/",
+      "sayIt": "NUHL-ih-fy",
+      "register": "Formal",
+      "meaning": "To make something invalid, ineffective or without legal force.",
+      "nuance": "Stronger and more technical than simply cancel, especially when referring to contracts, laws, decisions or official results.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Contract review · disputing a clause",
+          "sentence": "The new ruling may nullify several clauses in the agreement we approved last week.",
+          "highlight": "nullify",
+          "tip": "Useful when a decision or action removes something’s legal or practical effect."
+        },
+        {
+          "setting": "social",
+          "where": "Planning an event · disputed reservation",
+          "sentence": "Their cancellation effectively nullified our plans for the weekend.",
+          "highlight": "nullified",
+          "tip": "It sounds formal, so it can add weight to a strong criticism."
+        },
+        {
+          "setting": "writing",
+          "where": "Legal report · challenging evidence",
+          "sentence": "The judge’s statement did not nullify the evidence, so the case continued.",
+          "highlight": "nullify",
+          "tip": "Common in legal, financial and institutional writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin nullificare, meaning ‘to make null’, formed from nullus, ‘none’ or ‘null’, and facere, ‘to make’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Nullificare combines nullus, ‘none’, with facere, ‘to make’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English through French as nullifier."
+          },
+          {
+            "when": "Today",
+            "text": "It means to cancel the validity or effect of something."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "nullification",
+          "label": "noun"
+        },
+        {
+          "term": "nullified",
+          "label": "past participle"
+        },
+        {
+          "term": "nullifies",
+          "label": "third-person singular verb"
+        }
+      ],
+      "similar": [
+        "invalidate",
+        "cancel",
+        "void",
+        "annul",
+        "overturn"
+      ],
+      "opposite": "validate",
+      "pitfall": "Nullify means to remove validity or effect; it does not simply mean to remove something from view or consideration."
+    },
+    {
+      "id": "ostensible",
+      "kind": "word",
+      "term": "ostensible",
+      "pos": "adjective",
+      "phonetic": "/ɑːˈstɛnsəbəl/",
+      "sayIt": "os-TEN-si-bul",
+      "register": "Formal",
+      "meaning": "Appearing to be true or genuine, even though the real situation may be different.",
+      "nuance": "Often used carefully to describe a stated reason that may not reveal the full truth. It can sound neutral or mildly sceptical, depending on the context.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing a delay",
+          "sentence": "The ostensible reason for the delay is a system outage, but the project was already behind schedule.",
+          "highlight": "ostensible",
+          "tip": "Use it when the explanation is presented publicly but may hide the real cause."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · an unexpected guest",
+          "sentence": "Her ostensible purpose was to return a book, though everyone knew she wanted to hear the latest news.",
+          "highlight": "ostensible",
+          "tip": "It can gently suggest that the person’s stated motive is only part of the story."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · describing a disagreement",
+          "sentence": "The committee gave a practical explanation, but its ostensible purpose was to improve communication.",
+          "highlight": "ostensible",
+          "tip": "Common in formal writing about stated aims, motives and explanations that may not tell the whole story."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin ostensibilis, meaning ‘able to be shown’, based on ostendere, ‘to show or demonstrate’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Ostensibilis develops from a word meaning ‘to show or make clear’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with the sense of ‘presented to view’ or ‘apparent’."
+          },
+          {
+            "when": "Today",
+            "text": "It usually means apparently true or genuine, often with doubt implied."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "ostensibly",
+          "label": "adverb"
+        },
+        {
+          "term": "ostensibility",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "apparent",
+        "supposed",
+        "purported",
+        "alleged"
+      ],
+      "opposite": "actual",
+      "pitfall": "Ostensible describes how something appears; it does not prove that the stated reason is false."
+    },
+    {
+      "id": "overt",
+      "kind": "word",
+      "term": "overt",
+      "pos": "adjective",
+      "phonetic": "/ˈəʊvərt/",
+      "sayIt": "OH-vurt",
+      "register": "Common at work and in formal writing",
+      "meaning": "Easy to notice, open, or done without secrecy.",
+      "nuance": "Often describes behaviour, attitudes, or actions that are openly expressed. It contrasts with something concealed, but does not necessarily mean the action was deliberate or extreme.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · handling conflict",
+          "sentence": "His frustration became overt, so we moved the conversation to a private meeting.",
+          "highlight": "overt",
+          "tip": "Use it when an emotion or action is visible rather than carefully hidden."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · disagreeing",
+          "sentence": "Their argument was too overt for everyone else at the table to ignore.",
+          "highlight": "overt",
+          "tip": "It can describe conflict that happens openly in public."
+        },
+        {
+          "setting": "writing",
+          "where": "Work report · reviewing conduct",
+          "sentence": "The report found no overt discrimination, although several staff raised concerns privately.",
+          "highlight": "overt",
+          "tip": "Useful when distinguishing visible conduct from behaviour that is hidden or unproven."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French overt, meaning ‘opened’, which came from Latin apertus, the past participle of aperire, ‘to open’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Apertus means ‘opened’ and is the past participle of aperire, ‘to open’."
+          },
+          {
+            "when": "Old French",
+            "text": "Overt develops as an adjective meaning open or exposed."
+          },
+          {
+            "when": "Late Middle English",
+            "text": "The word enters English with senses connected with being open to view."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used for behaviour, attitudes, and actions that are not concealed."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "overtly",
+          "label": "adverb"
+        },
+        {
+          "term": "overtness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "obvious",
+        "open",
+        "explicit",
+        "visible"
+      ],
+      "opposite": "covert",
+      "pitfall": "Overt means open to notice; it does not always mean intentional, extreme, or clearly stated in detail."
+    },
+    {
+      "id": "pernicious",
+      "kind": "word",
+      "term": "pernicious",
+      "pos": "adjective",
+      "phonetic": "/pəˈnɪʃəs/",
+      "sayIt": "per-NISH-us",
+      "register": "Formal",
+      "meaning": "Seriously harmful, especially because the damage is hidden or develops gradually.",
+      "nuance": "It often suggests harm that is difficult to notice or stop, such as a damaging habit, influence or idea.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · addressing office gossip",
+          "sentence": "The rumor was pernicious because it quietly undermined trust across the team.",
+          "highlight": "pernicious",
+          "tip": "Use it for harm that spreads through mistrust or influence."
+        },
+        {
+          "setting": "social",
+          "where": "Friendship · recovering from conflict",
+          "sentence": "Letting resentment fester can be pernicious, damaging the friendship even after the argument ends.",
+          "highlight": "pernicious",
+          "tip": "It fits serious, lasting damage that may develop quietly."
+        },
+        {
+          "setting": "writing",
+          "where": "Article · warning about misinformation",
+          "sentence": "Misinformation can be pernicious when it weakens trust in public institutions.",
+          "highlight": "pernicious",
+          "tip": "A formal and forceful choice, especially for warnings about hidden or widespread harm."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin perniciosus, meaning destructive or deadly, which was based on pernicies, meaning ruin or destruction.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Classical Latin",
+            "text": "Perniciosus describes something deadly or ruinous; the deeper origin of pernicies is uncertain."
+          },
+          {
+            "when": "Late Middle English",
+            "text": "The word enters English in senses connected with poison, danger and serious harm."
+          },
+          {
+            "when": "1600s onward",
+            "text": "Its use broadens to include hidden or gradually developing damage."
+          }
+        ]
+      },
+      "similar": [
+        "harmful",
+        "damaging",
+        "destructive",
+        "insidious",
+        "toxic"
+      ],
+      "opposite": "beneficial",
+      "pitfall": "Don’t use it for every negative effect; it suggests especially serious harm, often developing unnoticed."
+    },
+    {
+      "id": "plausible",
+      "kind": "word",
+      "term": "plausible",
+      "pos": "adjective",
+      "phonetic": "/ˈplɔːzəbəl/",
+      "sayIt": "PLAW-zuh-bul",
+      "register": "Common at work",
+      "meaning": "Possible to believe or accept as reasonable, even if it has not been proved true.",
+      "nuance": "It describes something that sounds credible and deserves consideration. It suggests reasonable probability, not certainty.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · explaining a delay",
+          "sentence": "A supplier shortage is plausible, so we should confirm the delivery date before changing the launch plan.",
+          "highlight": "plausible",
+          "tip": "Use it for an explanation that is credible but still needs evidence."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · discussing an excuse",
+          "sentence": "Her explanation sounded plausible, although I wasn’t completely convinced by it.",
+          "highlight": "plausible",
+          "tip": "Often suggests that a story or excuse seems believable without proving it is true."
+        },
+        {
+          "setting": "writing",
+          "where": "Research proposal · assessing a theory",
+          "sentence": "The theory is scientifically plausible, but further testing is needed before we can accept its claims.",
+          "highlight": "plausible",
+          "tip": "Pairs well with theory, explanation, hypothesis and reason."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin plausibilis, meaning acceptable or believable, which was based on plaudere, meaning to please or be approved of.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Plausibilis develops the sense of acceptable, agreeable or believable."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English and begins to mean believable or reasonable."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for ideas, explanations and claims that seem credible without being certain."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "plausibility",
+          "label": "noun"
+        },
+        {
+          "term": "plausibly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "credible",
+        "believable",
+        "reasonable",
+        "possible"
+      ],
+      "opposite": "implausible",
+      "pitfall": "Plausible does not mean true; it only means the claim is believable or reasonable enough to consider."
+    },
+    {
+      "id": "pretext",
+      "kind": "word",
+      "term": "pretext",
+      "pos": "noun",
+      "phonetic": "/ˈpriːtekst/",
+      "sayIt": "PREE-tekst",
+      "register": "Formal",
+      "meaning": "A false reason given to hide the real purpose of an action.",
+      "nuance": "It suggests deliberate deception and is more forceful than a simple excuse. It is especially common in formal or accusatory writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Internal meeting · questioning delays",
+          "sentence": "The team cited supplier issues as a pretext, but the real reason was poor planning.",
+          "highlight": "pretext",
+          "tip": "Use it when you know the stated reason is being used to conceal another motive."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · explaining an absence",
+          "sentence": "He used an urgent work call as a pretext to avoid discussing the argument.",
+          "highlight": "pretext",
+          "tip": "It can sound severe in casual conversation, so consider whether “excuse” is gentler."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal complaint · disputed decision",
+          "sentence": "The company described the policy review as routine, but critics saw it as a pretext for retaliation.",
+          "highlight": "pretext",
+          "tip": "The phrase fits editorial, legal and political writing better than everyday conversation."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin praetextum, a “cover” or “pretext,” originally something placed in front of another thing; the underlying verb meant “to spread before” or “to cloak.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Praetextum develops from praetexere, meaning “to spread before” or “to place something in front as a cover.”"
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English in legal, literary and political contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used for a false reason offered to conceal a real motive."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "pretextual",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "excuse",
+        "cover story",
+        "pretense",
+        "false reason"
+      ],
+      "opposite": "truth",
+      "pitfall": "A pretext implies deception, while an excuse does not necessarily do so. As a verb, “pretext” also means to give a false reason for an action."
+    }
+  ]
+}

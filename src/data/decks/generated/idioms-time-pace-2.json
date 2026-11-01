@@ -1,0 +1,1488 @@
+{
+  "id": "idioms-time-pace-2",
+  "kind": "idiom",
+  "name": "Time & pace · 2",
+  "blurb": "25 idioms about time & pace",
+  "cards": [
+    {
+      "id": "jump-the-gun",
+      "kind": "idiom",
+      "term": "jump the gun",
+      "pos": "idiom",
+      "hint": "act before it’s time",
+      "register": "Common at work",
+      "meaning": "To do something too early, especially before the agreed time or before receiving permission.",
+      "nuance": "It often suggests impatience or acting without proper instructions. It can also mean making a premature decision when others have not yet agreed.",
+      "literal": "Leaving a race before the starting pistol has been fired.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · agreeing priorities",
+          "sentence": "We jumped the gun by starting the redesign before the client approved the scope.",
+          "highlight": "jumped the gun",
+          "tip": "Often used when someone begins work before the necessary decision or permission."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner plans · making arrangements",
+          "sentence": "I jumped the gun and invited everyone for Friday before checking with Alex.",
+          "highlight": "jumped the gun",
+          "tip": "Natural when an eager person acts before coordinating with others."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · announcing a launch",
+          "sentence": "The retailer jumped the gun by opening three stores before its main competitor announced plans.",
+          "highlight": "jumped the gun",
+          "tip": "Common in reporting about premature launches or decisions."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from racing, where competitors waited for the starting pistol before beginning. Acting before that signal became a metaphor for doing something prematurely.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Starting pistols became part of organised racing and marked the moment competitors could begin."
+          },
+          {
+            "when": "Mid-1800s",
+            "text": "The figurative expression appeared in accounts describing competitors who moved before the signal."
+          },
+          {
+            "when": "Today",
+            "text": "Means acting before the agreed time, permission, or announcement."
+          }
+        ]
+      },
+      "similar": [
+        "get ahead of yourself",
+        "beat someone to the punch",
+        "pull the trigger"
+      ],
+      "opposite": "wait patiently",
+      "pitfall": "It does not mean literally using a gun, and it usually criticises an action rather than simply describing a task completed early."
+    },
+    {
+      "id": "kick-off",
+      "kind": "idiom",
+      "term": "kick off",
+      "pos": "idiom",
+      "hint": "start something",
+      "register": "Common at work",
+      "meaning": "To begin a meeting, discussion, event, or activity.",
+      "nuance": "It sounds informal and energetic. Use it for the moment something starts, especially when there is a clear activity or event ahead.",
+      "literal": "Kicking the ball to begin a football match.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · starting a project",
+          "sentence": "We’ll kick off the quarterly planning meeting with customer feedback.",
+          "highlight": "kick off",
+          "tip": "Often used for starting a meeting, discussion, or shared activity."
+        },
+        {
+          "setting": "social",
+          "where": "Party · introducing an evening",
+          "sentence": "Let’s kick off the party with a toast and some music.",
+          "highlight": "kick off",
+          "tip": "Natural when beginning an event in a relaxed social setting."
+        },
+        {
+          "setting": "writing",
+          "where": "Event announcement · describing a campaign",
+          "sentence": "The charity will kick off its winter fundraising drive next Monday.",
+          "highlight": "kick off",
+          "tip": "Works in reports and announcements for projects, campaigns, or events."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from football, where the ball is kicked to begin a match. By the mid-1800s, it was also being used figuratively for starting an event or discussion.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Early 1800s",
+            "text": "‘Kick off’ appears in descriptions of starting a football match."
+          },
+          {
+            "when": "Mid-1800s",
+            "text": "The figurative use develops for beginning a meeting, event, or public activity."
+          },
+          {
+            "when": "Today",
+            "text": "Means to begin something, often with a sense of activity and momentum."
+          }
+        ]
+      },
+      "similar": [
+        "start off",
+        "get underway",
+        "launch",
+        "get the ball rolling"
+      ],
+      "opposite": "wind down",
+      "pitfall": "In formal writing, “launch” or “begin” may sound more polished; “kick off” is especially common in speech and informal business communication."
+    },
+    {
+      "id": "last-minute",
+      "kind": "idiom",
+      "term": "last minute",
+      "pos": "idiom",
+      "hint": "right at the end",
+      "register": "Common at work",
+      "meaning": "At the very end of the available time, usually with little time left to prepare.",
+      "nuance": "It often suggests urgency or poor planning, but it can simply identify the timing. Use “last-minute” with a hyphen when it comes before a noun.",
+      "literal": "The final minute before a deadline or event.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch planning · changing a deadline",
+          "sentence": "We changed the launch date at the last minute, so the checklist grew overnight.",
+          "highlight": "last minute",
+          "tip": "Often signals that a change came too late for proper preparation."
+        },
+        {
+          "setting": "social",
+          "where": "Making dinner plans",
+          "sentence": "I booked the table at the last minute, but they still found us a space.",
+          "highlight": "last minute",
+          "tip": "Natural when arranging something quickly with little notice."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining a delay",
+          "sentence": "The report was submitted at the last minute, leaving the team no time to review it.",
+          "highlight": "last minute",
+          "tip": "Useful in reports when emphasizing a deadline was narrowly met."
+        }
+      ],
+      "origin": {
+        "summary": "The exact first use is difficult to pin down, but the phrase grew from older English wording for the final moment before a deadline.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English long used “last” to mean the final part of a period or sequence."
+          },
+          {
+            "when": "1700s",
+            "text": "The expression “last minute” is used for the final moment before an event or deadline."
+          },
+          {
+            "when": "Today",
+            "text": "It means doing something at the very end of the available time."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "last-minute",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "at short notice",
+        "until the last second",
+        "in the nick of time"
+      ],
+      "opposite": "well in advance",
+      "pitfall": "Write “last-minute decision” when the phrase modifies a noun, but “at the last minute” when it describes when something happens."
+    },
+    {
+      "id": "let-the-grass-grow-under-ones-feet",
+      "kind": "idiom",
+      "term": "let the grass grow under one's feet",
+      "pos": "idiom",
+      "hint": "waste time by delaying",
+      "register": "Everyday",
+      "meaning": "To waste time by delaying action or leaving something undone for too long.",
+      "nuance": "It suggests that a delay could have been avoided. Use it when someone is being unproductive or putting off a responsibility.",
+      "literal": "Standing still long enough for grass to grow around your feet.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project deadline · missed approvals",
+          "sentence": "We can't let the grass grow under our feet; the client needs the proposal today.",
+          "highlight": "let the grass grow under our feet",
+          "tip": "Common when urging a team to act promptly."
+        },
+        {
+          "setting": "social",
+          "where": "Plans · choosing a restaurant",
+          "sentence": "Stop letting the grass grow under your feet and just pick somewhere for dinner.",
+          "highlight": "letting the grass grow under your feet",
+          "tip": "The form changes to match the subject when it follows a verb."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · delayed launch",
+          "sentence": "The company let the grass grow under its feet while competitors released similar products.",
+          "highlight": "let the grass grow under its feet",
+          "tip": "Works well for explaining the consequences of delay."
+        }
+      ],
+      "origin": {
+        "summary": "The image comes from an old warning against allowing grass to grow because a path or area is being neglected. The exact wording and first use are uncertain, so its precise origin is not clearly documented.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Proverb-like expressions warned people not to neglect a path until grass grew over it."
+          },
+          {
+            "when": "1800s",
+            "text": "Similar expressions about letting grass grow underfoot appear in collections of English sayings."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase means wasting time through avoidable delay or inaction."
+          }
+        ]
+      },
+      "similar": [
+        "drag your heels",
+        "procrastinate",
+        "twiddle your thumbs"
+      ],
+      "opposite": "get moving",
+      "pitfall": "Usually use it for needless delay, not for a deliberate pause that serves a clear purpose."
+    },
+    {
+      "id": "long-run",
+      "kind": "idiom",
+      "term": "long run",
+      "pos": "phrase",
+      "hint": "considering the bigger picture",
+      "register": "Everyday",
+      "meaning": "A long period of time, especially when considering the eventual result rather than the immediate effects.",
+      "nuance": "It suggests that a choice or trend may look one way now but have a different impact over time. It is often neutral and practical rather than optimistic.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · choosing a strategy",
+          "sentence": "The extra setup will slow us down now, but it will save time in the long run.",
+          "highlight": "long run",
+          "tip": "Common when weighing short-term effort against lasting benefits."
+        },
+        {
+          "setting": "social",
+          "where": "Friends discussing travel",
+          "sentence": "Living in a cheaper neighbourhood may cost more in the long run.",
+          "highlight": "long run",
+          "tip": "Often follows ‘in’, ‘over’, or ‘for the’."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · future performance",
+          "sentence": "Regular maintenance reduces costs in the long run.",
+          "highlight": "long run",
+          "tip": "Useful in reports and arguments focused on lasting effects."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from the literal idea of a long stretch of road, journey or race, then broadened to mean a long period of time.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The noun ‘run’ could refer to a stretch or period of time, such as a stretch of land or a course."
+          },
+          {
+            "when": "1700s–1800s",
+            "text": "Writers began using ‘long run’ to describe events considered across an extended period."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly refers to consequences or benefits that appear over time."
+          }
+        ]
+      },
+      "similar": [
+        "over time",
+        "in the long term",
+        "eventually"
+      ],
+      "opposite": "short term",
+      "pitfall": "Use ‘in the long run’ or ‘over the long run’ when referring to time; ‘long-run’ with a hyphen is normally an adjective, as in ‘a long-run investment’."
+    },
+    {
+      "id": "make-time",
+      "kind": "idiom",
+      "term": "make time",
+      "pos": "phrase",
+      "hint": "find time in your schedule",
+      "register": "Common at work",
+      "meaning": "To arrange your schedule so that you have enough time to do something or spend time with someone.",
+      "nuance": "It suggests actively setting aside time, often because the person or activity matters. It can also mean finding time that was not already available.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · scheduling a review",
+          "sentence": "I’ll make time tomorrow morning to go through the proposal with you.",
+          "highlight": "make time",
+          "tip": "Often used to offer a specific slot or reassure someone you will follow up."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up · making plans",
+          "sentence": "Let’s make time for coffee before the end of the week.",
+          "highlight": "make time",
+          "tip": "Natural when arranging a brief meeting with a friend."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · requesting a conversation",
+          "sentence": "Could you make time for a quick call on Friday afternoon?",
+          "highlight": "make time",
+          "tip": "Polite and direct when you want someone to reserve part of their schedule."
+        }
+      ],
+      "origin": {
+        "summary": "The wording is older, but its exact first appearance is difficult to trace. It grew from the ordinary sense of making or creating something and later came to mean finding or setting aside enough time.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English speakers used the broader idea of creating or bringing something into existence."
+          },
+          {
+            "when": "19th century",
+            "text": "Uses of ‘make time’ appear in the sense of allowing, finding, or setting aside time."
+          },
+          {
+            "when": "Today",
+            "text": "Common for arranging time for a task, meeting, conversation, or personal connection."
+          }
+        ]
+      },
+      "similar": [
+        "find time",
+        "set aside time",
+        "take time out"
+      ],
+      "pitfall": "Use ‘make time for someone’ to mean spending time with them, but ‘make time to do something’ to mean finding enough time for an activity."
+    },
+    {
+      "id": "on-the-fly",
+      "kind": "idiom",
+      "term": "on the fly",
+      "pos": "idiom",
+      "hint": "while things are still happening",
+      "register": "Common at work",
+      "meaning": "To do something quickly while a situation is unfolding, without preparing it in advance.",
+      "nuance": "It suggests improvisation and speed, sometimes with the added implication that you were unprepared. It is common in busy workplaces and everyday conversations.",
+      "literal": "While in the air, especially during a flight.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client meeting · correcting figures",
+          "sentence": "We may need to change the deck on the fly if the client spots the numbers.",
+          "highlight": "on the fly",
+          "tip": "Useful when you must respond to something unexpected."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner plans · making a quick choice",
+          "sentence": "I can order dinner on the fly, but I’d rather reserve a table.",
+          "highlight": "on the fly",
+          "tip": "Often means making a quick decision without planning ahead."
+        },
+        {
+          "setting": "writing",
+          "where": "Meeting notes · capturing a discussion",
+          "sentence": "I wrote the summary on the fly, so a few points need checking.",
+          "highlight": "on the fly",
+          "tip": "Can describe doing a task immediately, often while information is still changing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely developed from the literal sense of travelling while in the air, then extended to doing something while movement or action is still underway.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Uses of ‘fly’ include travelling by air, providing a literal background for ‘on the fly’."
+          },
+          {
+            "when": "Later 1800s",
+            "text": "The phrase began to suggest acting during movement or while something was happening."
+          },
+          {
+            "when": "Today",
+            "text": "It means improvising or acting quickly as circumstances develop."
+          }
+        ]
+      },
+      "similar": [
+        "at the last minute",
+        "on the spot",
+        "in real time"
+      ],
+      "opposite": "in advance",
+      "pitfall": "It does not simply mean ‘quickly’; it usually implies that you are responding to a situation as it happens."
+    },
+    {
+      "id": "on-the-spot",
+      "kind": "idiom",
+      "term": "on the spot",
+      "pos": "idiom",
+      "hint": "there and then",
+      "register": "Common",
+      "meaning": "Immediately, without waiting or putting something off.",
+      "nuance": "It sounds direct and often slightly urgent. It can also mean physically at the place where something is happening.",
+      "literal": "At the exact place where an event takes place.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · clarifying a decision",
+          "sentence": "We can revise the proposal on the spot if everyone agrees on the main changes.",
+          "highlight": "on the spot",
+          "tip": "Common for quick decisions or immediate action."
+        },
+        {
+          "setting": "social",
+          "where": "At a café · making plans",
+          "sentence": "Let’s not wait for next week; we can organize the dinner on the spot.",
+          "highlight": "on the spot",
+          "tip": "Natural when two people make a plan together."
+        },
+        {
+          "setting": "writing",
+          "where": "Event report · describing a response",
+          "sentence": "The security team handled the alarm on the spot and prevented any damage.",
+          "highlight": "on the spot",
+          "tip": "Useful in reports when action happened immediately."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase originally referred to a physical place and later developed the sense of doing something immediately. The exact transition is not fully clear.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used similar wording for something happening in the exact place where it occurred."
+          },
+          {
+            "when": "Early 1800s",
+            "text": "Writers began using the phrase to mean immediately or without delay."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common for instant decisions, actions and responses."
+          }
+        ]
+      },
+      "similar": [
+        "right away",
+        "immediately",
+        "at once"
+      ],
+      "opposite": "later on",
+      "pitfall": "It can also mean physically present at an event, as in ‘She was on the spot when the emergency began.’"
+    },
+    {
+      "id": "pave-the-way",
+      "kind": "idiom",
+      "term": "pave the way",
+      "pos": "idiom",
+      "hint": "make something easier later",
+      "register": "Common at work",
+      "meaning": "To prepare the conditions for something else to happen or develop.",
+      "nuance": "Often describes a deliberate action that removes obstacles and makes future progress easier. It can refer to physical, social or practical preparation.",
+      "literal": "Create a smooth, paved path for someone to follow.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · launching a new service",
+          "sentence": "The customer interviews will pave the way for a more useful product.",
+          "highlight": "pave the way",
+          "tip": "Often used when one action creates the conditions for later progress."
+        },
+        {
+          "setting": "social",
+          "where": "Introducing friends · building a connection",
+          "sentence": "Mentioning your shared colleague may pave the way for a friendship.",
+          "highlight": "pave the way",
+          "tip": "Useful for describing steps that make a future interaction easier."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · explaining growth",
+          "sentence": "The new training programme paved the way for higher customer satisfaction.",
+          "highlight": "paved the way",
+          "tip": "The past-tense form is common when discussing what has already led to a result."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from the literal idea of laying a paved path so that travel becomes easier; its figurative use is well documented from the 16th century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "14th century",
+            "text": "The word ‘pave’ appears in English for making a path with a hard, smooth surface."
+          },
+          {
+            "when": "16th century",
+            "text": "Writers begin using ‘pave the way’ figuratively for preparing easier progress."
+          },
+          {
+            "when": "Today",
+            "text": "Means to create the conditions that allow something to happen."
+          }
+        ]
+      },
+      "similar": [
+        "lay the groundwork",
+        "open the door",
+        "set the stage"
+      ],
+      "opposite": "put obstacles in the way",
+      "pitfall": "It describes making something easier or possible; it does not mean you are literally building a road."
+    },
+    {
+      "id": "press-on",
+      "kind": "idiom",
+      "term": "press on",
+      "pos": "idiom",
+      "hint": "keep moving forward",
+      "register": "Common at work",
+      "meaning": "To continue moving forward despite difficulty, delay, or pressure.",
+      "nuance": "It suggests steady determination rather than carefree progress. Use it when someone keeps working or trying after setbacks.",
+      "literal": "Continue pushing forward.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team update · tight deadline",
+          "sentence": "We have four hours left, so we’ll press on and finish the presentation tonight.",
+          "highlight": "press on",
+          "tip": "Common for continuing work when time is short."
+        },
+        {
+          "setting": "social",
+          "where": "Chat · long journey",
+          "sentence": "The rain started again, but we pressed on and reached the café before closing.",
+          "highlight": "pressed on",
+          "tip": "The verb changes to “pressed” for the past tense."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · setbacks",
+          "sentence": "The team will press on despite the supplier delays and report progress on Friday.",
+          "highlight": "press on",
+          "tip": "Useful in reports when effort continues despite obstacles."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the older sense of “press” meaning to push forward or force a way onward. Its figurative use is well established, though the exact first recorded use is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1600s–1700s",
+            "text": "“Press” is used for pushing forward forcefully, including in military and physical contexts."
+          },
+          {
+            "when": "1800s",
+            "text": "“Press on” becomes established in writing for continuing forward despite difficulty."
+          },
+          {
+            "when": "Today",
+            "text": "Means to keep trying or moving forward despite obstacles."
+          }
+        ]
+      },
+      "similar": [
+        "carry on",
+        "keep going",
+        "push forward",
+        "press forward"
+      ],
+      "opposite": "give up",
+      "pitfall": "“Press on” usually means continue despite difficulty; it does not mean to demand something more forcefully, as in “press on a demand.”"
+    },
+    {
+      "id": "race-against-time",
+      "kind": "idiom",
+      "term": "race against time",
+      "pos": "idiom",
+      "hint": "working against the clock",
+      "register": "Common at work",
+      "meaning": "To try to finish something before a deadline or before time runs out.",
+      "nuance": "It suggests pressure, urgency, and limited time. Use it when speed matters as much as the quality of the result.",
+      "literal": "Running in a race while time is moving forward.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch week · fixing a release blocker",
+          "sentence": "We’re racing against time to fix the checkout bug before tomorrow’s launch.",
+          "highlight": "racing against time",
+          "tip": "Often describes urgent work with a fixed deadline."
+        },
+        {
+          "setting": "social",
+          "where": "Event planning · setting up before guests arrive",
+          "sentence": "We’re racing against time to decorate the hall before everyone shows up.",
+          "highlight": "racing against time",
+          "tip": "Works when the time limit is obvious and immediate."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · delayed handover",
+          "sentence": "The team has been racing against time to complete the handover before the client’s deadline.",
+          "highlight": "racing against time",
+          "tip": "A natural choice for reports, updates, and project summaries."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase reflects an old idea of competing with time, when travel and communication could be slowed by weather, distance, or limited daylight. Its modern sense developed alongside the expression ‘race against the clock.’",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1500s–1700s",
+            "text": "Travelers and messengers were often described as racing against daylight, weather, or distance."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers began using ‘race against time’ for urgent journeys and tasks."
+          },
+          {
+            "when": "Today",
+            "text": "Means trying to complete something before a deadline or time runs out."
+          }
+        ]
+      },
+      "similar": [
+        "race the clock",
+        "against the clock",
+        "run out of time"
+      ],
+      "pitfall": "The phrase does not necessarily mean you are in a literal race; it usually describes urgent work or activity."
+    },
+    {
+      "id": "rev-up",
+      "kind": "idiom",
+      "term": "rev up",
+      "pos": "idiom",
+      "hint": "build up speed or energy",
+      "register": "Common at work",
+      "meaning": "To increase speed, energy, or excitement before an activity.",
+      "nuance": "It suggests building momentum, often just before starting something demanding or enjoyable. It can also mean motivating a person or group to become more energetic.",
+      "literal": "Increase the engine’s revolutions.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product launch · preparing the team",
+          "sentence": "We’re revving up the marketing campaign before Monday’s launch.",
+          "highlight": "revving up",
+          "tip": "Often describes a team, campaign, or event gathering momentum."
+        },
+        {
+          "setting": "social",
+          "where": "Party · getting the atmosphere going",
+          "sentence": "The band revved up the crowd with three loud songs.",
+          "highlight": "revved up",
+          "tip": "Common when something becomes faster, louder, or more energetic."
+        },
+        {
+          "setting": "writing",
+          "where": "Event preview · building anticipation",
+          "sentence": "Expect the runners to rev up as the race gets underway.",
+          "highlight": "rev up",
+          "tip": "Useful for describing the start of an energetic sequence or event."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the abbreviation “rev,” short for revolution, an engine’s rotating cycles. It was applied to engines and machinery before becoming a broader metaphor for increasing speed or energy.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "“Rev” begins appearing as a short form of revolution in descriptions of machinery."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "“Rev up” becomes associated with increasing an engine’s speed or power."
+          },
+          {
+            "when": "Today",
+            "text": "The expression describes building momentum, excitement, or activity."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "rev",
+          "label": "noun"
+        },
+        {
+          "term": "rev",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "speed up",
+        "gear up",
+        "wind up",
+        "get going"
+      ],
+      "opposite": "wind down",
+      "pitfall": "“Rev up” usually means increasing activity or energy; it does not mean simply starting an engine."
+    },
+    {
+      "id": "rome-wasnt-built-in-a-day",
+      "kind": "idiom",
+      "term": "Rome wasn't built in a day",
+      "pos": "phrase",
+      "hint": "big things take time",
+      "register": "Common at work",
+      "meaning": "Important results or worthwhile achievements usually take time and steady effort.",
+      "nuance": "It encourages patience and discourages expecting immediate results. It is often used when someone is frustrated by slow progress or wants to put a difficult task into perspective.",
+      "literal": "The city of Rome grew over many centuries rather than appearing all at once.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch planning · explaining a timeline",
+          "sentence": "Rome wasn't built in a day, so we should give the team six weeks to improve the process.",
+          "highlight": "Rome wasn't built in a day",
+          "tip": "Use it to set realistic expectations about progress."
+        },
+        {
+          "setting": "social",
+          "where": "Learning a new skill",
+          "sentence": "Rome wasn't built in a day; learning conversational Spanish will take regular practice.",
+          "highlight": "Rome wasn't built in a day",
+          "tip": "A friendly way to reassure someone that progress takes time."
+        },
+        {
+          "setting": "writing",
+          "where": "Business update · project delivery",
+          "sentence": "Rome wasn't built in a day, and the redesign will succeed if the team continues making steady progress.",
+          "highlight": "Rome wasn't built in a day",
+          "tip": "Often used in presentations and reports to emphasize patience."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase appears in English proverb collections from the early 1600s. Its connection with Rome's gradual development is plausible, but no single origin story has been confirmed.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "Versions of the proverb begin appearing in English collections of sayings."
+          },
+          {
+            "when": "Today",
+            "text": "It means that meaningful achievements require time and sustained effort."
+          }
+        ]
+      },
+      "similar": [
+        "Little by little",
+        "One step at a time",
+        "Slow and steady wins the race"
+      ],
+      "pitfall": "Use it to encourage patience, not to excuse endless delays or poor planning."
+    },
+    {
+      "id": "rush-hour",
+      "kind": "idiom",
+      "term": "rush hour",
+      "pos": "idiom",
+      "hint": "the busiest part of the day",
+      "register": "Everyday",
+      "meaning": "The period when many people are commuting, travelling, or trying to get somewhere, usually in the morning or late afternoon.",
+      "nuance": "It refers to a crowded, time-pressured period of travel rather than simply a busy hour. It is common in traffic news and everyday conversation.",
+      "literal": "The hour when everyone seems to be rushing to get somewhere.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Morning commute · heading to the office",
+          "sentence": "I left early because traffic is always terrible during rush hour.",
+          "highlight": "rush hour",
+          "tip": "Often used when talking about commuting or travel delays."
+        },
+        {
+          "setting": "social",
+          "where": "Making plans · choosing a time to meet",
+          "sentence": "Let’s meet for lunch at one, after rush hour has passed.",
+          "highlight": "rush hour",
+          "tip": "Usually refers to the morning or evening commuting period."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel update · city traffic",
+          "sentence": "Drivers should expect heavy delays during rush hour on Friday afternoon.",
+          "highlight": "rush hour",
+          "tip": "A standard phrase in travel reports and transport news."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from the idea of a ‘rush’ of people travelling at once, especially around the beginning and end of the working day.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The word ‘rush’ was already used for a sudden movement of many people or vehicles."
+          },
+          {
+            "when": "Late 1800s–early 1900s",
+            "text": "‘Rush hour’ began appearing in writing as cities developed busy commuting periods."
+          },
+          {
+            "when": "Today",
+            "text": "It means the busiest travel time of day, especially for commuters."
+          }
+        ]
+      },
+      "similar": [
+        "peak time",
+        "busy period",
+        "the height of rush hour"
+      ],
+      "opposite": "quiet time",
+      "pitfall": "Use ‘in rush hour’ for a general traffic period, but say ‘during rush hour’ for a specific journey or time span."
+    },
+    {
+      "id": "set-back",
+      "kind": "idiom",
+      "term": "set back",
+      "pos": "phrasal verb",
+      "register": "Everyday",
+      "meaning": "To delay progress or make something happen later than planned.",
+      "nuance": "It can describe a planned change, a process, or someone’s development. It often suggests an unexpected delay, though it can also be used neutrally.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · delayed launch",
+          "sentence": "A technical problem set the launch back by two weeks.",
+          "highlight": "set the launch back",
+          "tip": "The verb can take the affected thing as its object."
+        },
+        {
+          "setting": "social",
+          "where": "Travel plans · missed departure",
+          "sentence": "Heavy traffic set our evening back by an hour.",
+          "highlight": "set our evening back",
+          "tip": "Use it when a delay changes your schedule."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · revised timeline",
+          "sentence": "The supplier shortage set back production, so the team revised its delivery date.",
+          "highlight": "set back",
+          "tip": "Often followed by a task, schedule, or process."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely developed from the older sense of setting something backward, physically or figuratively. Its use for delay and obstruction became established during the 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Set back” could mean place something behind another thing."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase began appearing in the sense of delaying or hindering progress."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes delays to a schedule, project, or process."
+          }
+        ]
+      },
+      "similar": [
+        "delay",
+        "hold up",
+        "put off"
+      ],
+      "pitfall": "When the phrase means delay, it is usually written as two words: “set back.” The noun for an obstacle or reversal is “setback.”"
+    },
+    {
+      "id": "set-off",
+      "kind": "idiom",
+      "term": "set off",
+      "pos": "verb",
+      "hint": "start a journey — or set something in motion",
+      "register": "Common at work",
+      "meaning": "To begin a journey or process, or to cause something such as an alarm, reaction, or debate to start.",
+      "nuance": "The meaning changes with the context: “set off from the station” refers to departure, while “set off a debate” means to trigger it. It is natural in everyday speech and professional writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product launch · starting a pilot",
+          "sentence": "We set off a six-week pilot of the new onboarding process.",
+          "highlight": "set off",
+          "tip": "Common for beginning a project, programme, or trial."
+        },
+        {
+          "setting": "social",
+          "where": "Travel · leaving for a station",
+          "sentence": "We set off from the station at seven to avoid the morning traffic.",
+          "highlight": "set off",
+          "tip": "Often used when describing the start of a journey."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · reaction to an announcement",
+          "sentence": "The proposal set off an intense debate among employees.",
+          "highlight": "set off",
+          "tip": "Here it means to trigger a reaction or discussion."
+        }
+      ],
+      "origin": {
+        "summary": "The wording is old, and its main senses developed over time. Standard dictionaries record “set off” meaning “set out or depart” by the 1600s; the sense meaning “trigger” appeared later.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "“Set off” is recorded in the sense of setting out on a journey."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase develops the meaning of causing an alarm, event, or reaction to begin."
+          },
+          {
+            "when": "Today",
+            "text": "It can describe departure, the start of an activity, or the triggering of a response."
+          }
+        ]
+      },
+      "similar": [
+        "set out",
+        "set in motion",
+        "trigger",
+        "get underway"
+      ],
+      "opposite": "call off",
+      "pitfall": "To cancel something, use “call off,” not “set off.”"
+    },
+    {
+      "id": "smooth-sailing",
+      "kind": "idiom",
+      "term": "smooth sailing",
+      "pos": "idiom",
+      "hint": "things going easily",
+      "register": "Common at work",
+      "meaning": "A situation in which everything goes easily and without problems.",
+      "nuance": "It suggests a lack of obstacles or delays. It is often used when a project, journey, or process is progressing well, and it can sound mildly ironic when things are unexpectedly easy.",
+      "literal": "Sailing smoothly across calm water.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project update · launch preparations",
+          "sentence": "The launch has been smooth sailing since the team fixed the approval process.",
+          "highlight": "smooth sailing",
+          "tip": "Common for describing progress with few setbacks."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a trip",
+          "sentence": "Once we found the right route, the drive was smooth sailing.",
+          "highlight": "smooth sailing",
+          "tip": "Natural when talking about a journey with no delays or difficulties."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · quarterly results",
+          "sentence": "The product rollout was smooth sailing, with no major technical issues reported.",
+          "highlight": "smooth sailing",
+          "tip": "Useful in reports and updates to stress an uncomplicated result."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the image of a ship travelling easily across calm water. Its figurative use is well documented from the 19th century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The expression appears in writing as a description of easy sailing and later develops a broader figurative meaning."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "Writers use it for journeys, tasks, and business matters that proceed without difficulty."
+          },
+          {
+            "when": "Today",
+            "text": "Means that something is going easily, with few obstacles or problems."
+          }
+        ]
+      },
+      "similar": [
+        "plain sailing",
+        "a clear run",
+        "an easy ride"
+      ],
+      "opposite": "rough going",
+      "pitfall": "Do not use it to mean that something is merely finished successfully; it focuses on how easy the process was."
+    },
+    {
+      "id": "snowball-effect",
+      "kind": "idiom",
+      "term": "snowball effect",
+      "pos": "idiom",
+      "hint": "a small problem growing rapidly",
+      "register": "Common at work",
+      "meaning": "A situation in which one small action or problem leads to a growing series of consequences.",
+      "nuance": "It suggests that each new development makes the next more likely or more serious. The phrase often highlights how momentum turns something manageable into something much bigger.",
+      "literal": "A rolling snowball gathers more snow, becoming larger and harder to stop.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · missed deadline",
+          "sentence": "One delayed review created a snowball effect, and the whole launch date slipped.",
+          "highlight": "snowball effect",
+          "tip": "Use it when a small problem triggers a chain of larger problems."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a party · guest list",
+          "sentence": "Inviting a few extra people had a snowball effect, and now the party is nearly twice the size.",
+          "highlight": "snowball effect",
+          "tip": "It can describe growth that is positive, neutral, or negative."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · customer complaints",
+          "sentence": "The snowball effect of poor service and word of mouth caused the number of complaints to rise sharply.",
+          "highlight": "snowball effect",
+          "tip": "Common when explaining how a situation escalated over time."
+        }
+      ],
+      "origin": {
+        "summary": "The expression compares escalating events to a snowball rolling downhill and gathering more snow. Its exact first recorded use is uncertain, but the metaphor was well established by the early 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Snowball was used metaphorically for things that grow larger through continued momentum."
+          },
+          {
+            "when": "Early 20th century",
+            "text": "The wording ‘snowball effect’ appears in accounts describing rapidly growing or escalating situations."
+          },
+          {
+            "when": "Today",
+            "text": "It refers to consequences that build on one another and become increasingly difficult to control."
+          }
+        ]
+      },
+      "similar": [
+        "knock-on effect",
+        "chain reaction",
+        "snowballing"
+      ],
+      "opposite": "dampen the effect",
+      "pitfall": "It can describe either beneficial or harmful growth; it does not always mean a crisis."
+    },
+    {
+      "id": "strike-while-the-iron-is-hot",
+      "kind": "idiom",
+      "term": "Strike while the iron is hot",
+      "pos": "idiom",
+      "hint": "act at the right moment",
+      "register": "Common at work",
+      "meaning": "To act quickly while an opportunity or advantage is still available.",
+      "nuance": "It suggests using a favourable moment before it disappears. It is often motivational or practical, rather than simply describing speed.",
+      "literal": "Striking hot iron while it is still easy to shape.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · customer interest",
+          "sentence": "We should strike while the iron is hot and send the proposal today.",
+          "highlight": "strike while the iron is hot",
+          "tip": "Common when a promising opportunity needs immediate action."
+        },
+        {
+          "setting": "social",
+          "where": "Event planning · friends",
+          "sentence": "Tickets are selling quickly, so let’s strike while the iron is hot and buy ours now.",
+          "highlight": "strike while the iron is hot",
+          "tip": "Natural for acting promptly while conditions are favourable."
+        },
+        {
+          "setting": "writing",
+          "where": "Business commentary · market trends",
+          "sentence": "The warning is to strike while the iron is hot when customer demand is rising.",
+          "highlight": "strike while the iron is hot",
+          "tip": "Often used to explain or recommend taking advantage of a temporary advantage."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the craft of working hot iron while it is still soft enough to shape. Its figurative use is well documented from the 16th century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "The expression appears in writing about taking advantage of a favourable opportunity."
+          },
+          {
+            "when": "1700s–1800s",
+            "text": "The wording becomes established in its familiar form, 'striking while the iron is hot'."
+          },
+          {
+            "when": "Today",
+            "text": "It means acting promptly while an opportunity or advantage remains available."
+          }
+        ]
+      },
+      "similar": [
+        "Make hay while the sun shines",
+        "Seize the moment",
+        "Jump at the chance"
+      ],
+      "opposite": "Let the moment pass",
+      "pitfall": "It means acting at the right time, not simply working hard while something is difficult."
+    },
+    {
+      "id": "take-one-day-at-a-time",
+      "kind": "idiom",
+      "term": "take one day at a time",
+      "pos": "phrase",
+      "hint": "focus only on today",
+      "register": "Common at work",
+      "meaning": "To handle a difficult situation by dealing with one day at a time instead of trying to solve everything at once.",
+      "nuance": "It encourages patience, realism and steady progress. It is reassuring, especially when someone feels overwhelmed or is recovering from a setback.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · managing a backlog",
+          "sentence": "We can’t fix every client issue today, so let’s take one day at a time.",
+          "highlight": "take one day at a time",
+          "tip": "Use it to calm a team that feels pressured by a large backlog."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up · after difficult news",
+          "sentence": "I’m still processing the news, but I’m trying to take one day at a time.",
+          "highlight": "take one day at a time",
+          "tip": "Often follows ‘I’m trying to’ or appears on its own as encouragement."
+        },
+        {
+          "setting": "writing",
+          "where": "Wellbeing article · recovery advice",
+          "sentence": "Recovery rarely follows a straight line, so take one day at a time and notice each small improvement.",
+          "highlight": "take one day at a time",
+          "tip": "A warm, supportive choice in advice and motivational writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase reflects the older advice of proceeding gradually rather than trying to accomplish everything at once. Its familiar modern wording appears in early-20th-century advice about managing hardship and recovery.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Similar expressions advise people to proceed step by step and avoid becoming overwhelmed."
+          },
+          {
+            "when": "1900s",
+            "text": "The wording ‘one day at a time’ becomes established in advice about coping with difficulty."
+          },
+          {
+            "when": "Today",
+            "text": "It is used to encourage patience, gradual progress and a focus on immediate concerns."
+          }
+        ]
+      },
+      "similar": [
+        "one step at a time",
+        "take it one day at a time",
+        "cross the bridge when we come to it",
+        "keep things in perspective"
+      ],
+      "pitfall": "The phrase often appears with ‘take’; ‘one day at a time’ alone can also be used as a reminder."
+    },
+    {
+      "id": "take-ones-time",
+      "kind": "idiom",
+      "term": "take one's time",
+      "pos": "idiom",
+      "hint": "proceed at your own pace",
+      "register": "Everyday",
+      "meaning": "To do something slowly and carefully without rushing.",
+      "nuance": "It can be encouraging when someone needs more time, but mildly impatient when used to ask someone to hurry up.",
+      "literal": "Allowing as much time as the task needs.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · reviewing a proposal",
+          "sentence": "Take your time with the proposal; I’d rather you check the figures than rush them.",
+          "highlight": "Take your time",
+          "tip": "Use it when giving someone permission to work carefully."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · choosing a restaurant",
+          "sentence": "We can take our time deciding where to eat.",
+          "highlight": "take our time",
+          "tip": "Often suggests there is no need to decide immediately."
+        },
+        {
+          "setting": "writing",
+          "where": "Customer email · setting expectations",
+          "sentence": "Please take your time and reply when you have checked the details.",
+          "highlight": "take your time",
+          "tip": "A polite way to ask for a considered response."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is unclear. The phrase developed from older English uses of ‘take time’, meaning to allow enough time or proceed at a suitable pace.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Older expressions use ‘take time’ in related senses involving allowing time or acting without haste."
+          },
+          {
+            "when": "1800s",
+            "text": "The modern wording ‘take one’s time’ becomes established in English."
+          },
+          {
+            "when": "Today",
+            "text": "Means doing something at an unhurried, careful pace."
+          }
+        ]
+      },
+      "similar": [
+        "in no hurry",
+        "at your own pace",
+        "take your ease"
+      ],
+      "opposite": "rush",
+      "pitfall": "Use ‘take your time’, not ‘take the time’, when you mean that someone should proceed slowly."
+    },
+    {
+      "id": "take-something-in-ones-stride",
+      "kind": "idiom",
+      "term": "take something in one's stride",
+      "pos": "idiom",
+      "hint": "handle it while still moving forward",
+      "register": "Common at work",
+      "meaning": "To deal with a change, problem, or responsibility easily and calmly, without allowing it to disrupt your plans.",
+      "nuance": "It suggests confidence, competence, and a willingness to keep going. It fits situations that are significant but manageable, rather than truly trivial.",
+      "literal": "A person crossing a distance by taking long, confident steps without slowing down.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning · unexpected staff shortage",
+          "sentence": "She took the absence in her stride and kept the project moving.",
+          "highlight": "took the absence in her stride",
+          "tip": "Use it when someone adjusts quickly to an unexpected problem."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend · changing the plans",
+          "sentence": "We took the change in our stride and booked another table nearby.",
+          "highlight": "took the change in our stride",
+          "tip": "Often suggests handling disruption without much fuss."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · rapid expansion",
+          "sentence": "The company took increased demand in its stride and expanded production.",
+          "highlight": "took increased demand in its stride",
+          "tip": "Common in reporting when a business absorbs pressure successfully."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from the literal sense of walking with long steps and then came to describe handling difficulties without slowing down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "Stride is used for a long step or a long-distance walking pace."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers begin using stride figuratively for progress that continues steadily and confidently."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "The phrase takes in one's stride becomes established for managing changes or pressures easily."
+          }
+        ]
+      },
+      "similar": [
+        "take something in stride",
+        "roll with the punches",
+        "rise to the occasion"
+      ],
+      "pitfall": "It is usually used for something meaningful that requires adjustment; it is too strong for a minor inconvenience."
+    },
+    {
+      "id": "take-time",
+      "kind": "idiom",
+      "term": "take time",
+      "pos": "phrase",
+      "hint": "don’t hurry",
+      "register": "Common at work",
+      "meaning": "To spend enough time doing something carefully rather than rushing through it.",
+      "nuance": "It suggests patience and deliberate attention. Depending on context, it can also mean that something requires time, as in “This may take time.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client planning · choosing an approach",
+          "sentence": "We should take time to understand the client’s needs before proposing a solution.",
+          "highlight": "take time",
+          "tip": "Use it to encourage careful thinking rather than immediate action."
+        },
+        {
+          "setting": "social",
+          "where": "After an argument · deciding what to say",
+          "sentence": "Don’t rush to apologize; take time to think about what you want to say.",
+          "highlight": "take time",
+          "tip": "Often sounds calm and reassuring in personal conversations."
+        },
+        {
+          "setting": "writing",
+          "where": "Work email · setting expectations",
+          "sentence": "Please take time to review the document, but let me know if anything is unclear.",
+          "highlight": "take time",
+          "tip": "Useful when giving someone space to complete a careful task."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the ordinary English words “take” and “time.” Its exact first use is difficult to pin down, but the meaning of allowing or spending time is well established.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English long used “take” with an amount of time, as in “take an hour.”"
+          },
+          {
+            "when": "19th century",
+            "text": "Printed examples show “take time” being used to mean spending or allowing time."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly encourages patience, careful work or a thoughtful response."
+          }
+        ]
+      },
+      "similar": [
+        "take your time",
+        "allow time",
+        "make time"
+      ],
+      "opposite": "rush",
+      "pitfall": "For the specific advice “do not hurry,” “take your time” is usually more natural."
+    },
+    {
+      "id": "take-time-out",
+      "kind": "idiom",
+      "term": "take time out",
+      "pos": "phrase",
+      "hint": "pause for a break",
+      "register": "Common at work and in everyday life",
+      "meaning": "To pause what you are doing for a short period of time to rest, recover, or do something else.",
+      "nuance": "It sounds informal and caring, especially when someone needs a break from work, a demanding activity, or a difficult situation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project deadline · a short break",
+          "sentence": "Take time out for lunch before the final review.",
+          "highlight": "Take time out",
+          "tip": "Often used as a gentle suggestion to pause and recharge."
+        },
+        {
+          "setting": "social",
+          "where": "Busy weekend · catching up",
+          "sentence": "We took time out to grab coffee and talk away from the crowds.",
+          "highlight": "took time out",
+          "tip": "The past tense is ‘took time out.’"
+        },
+        {
+          "setting": "writing",
+          "where": "Workplace email · wellbeing",
+          "sentence": "Please take time out during the week to rest when you can.",
+          "highlight": "take time out",
+          "tip": "Useful in supportive messages about schedules and recovery."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the older expression ‘take time,’ meaning to allot or use a period of time, and gradually came to mean setting aside a break from another activity.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "‘Take time’ was used for choosing a suitable time or allowing enough time for something."
+          },
+          {
+            "when": "Late 1800s–1900s",
+            "text": "Writers began using ‘take time out’ for setting aside a period away from regular work or activity."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly means taking a short break to rest or attend to something else."
+          }
+        ]
+      },
+      "similar": [
+        "take a break",
+        "take a pause",
+        "step away",
+        "take time off"
+      ],
+      "opposite": "push through",
+      "pitfall": "‘Take time off’ usually means missing work or an scheduled activity, while ‘take time out’ often means making a brief pause within the day."
+    },
+    {
+      "id": "clock-is-ticking",
+      "kind": "idiom",
+      "term": "the clock is ticking",
+      "pos": "idiom",
+      "hint": "time is running out",
+      "register": "Common at work",
+      "meaning": "Time is passing and you need to act before a deadline or opportunity passes.",
+      "nuance": "It creates a sense of urgency, often with some pressure or anxiety. It can refer to a real deadline or, more broadly, to time running out for something important.",
+      "literal": "A clock keeps moving, showing that time is passing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · deadline approaching",
+          "sentence": "The clock is ticking, so we need to decide which features to launch this week.",
+          "highlight": "clock is ticking",
+          "tip": "Natural when discussing deadlines or a need for quick decisions."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a birthday surprise",
+          "sentence": "We need to book the restaurant now because the clock is ticking and the party is tonight.",
+          "highlight": "clock is ticking",
+          "tip": "Can add urgency to an everyday conversation without sounding overly dramatic."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · delayed launch",
+          "sentence": "With the market changing quickly, the clock is ticking for companies still using the old system.",
+          "highlight": "clock is ticking",
+          "tip": "Common in business journalism and formal reports about urgent decisions."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the simple image of a clock marking the passing of time. Its modern figurative sense became established in the 1800s, when people used it to describe time running short.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Clocks have long been used to show that time is passing and deadlines are approaching."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase appears in writing describing limited time and increasing urgency."
+          },
+          {
+            "when": "Today",
+            "text": "It means there is a growing need to act before time runs out."
+          }
+        ]
+      },
+      "similar": [
+        "time is running out",
+        "running out of time",
+        "against the clock",
+        "under time pressure"
+      ],
+      "opposite": "there's plenty of time",
+      "pitfall": "Use it for real or clearly implied urgency; it is too strong for a minor task with no real time pressure."
+    }
+  ]
+}

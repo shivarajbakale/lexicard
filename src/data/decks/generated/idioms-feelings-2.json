@@ -1,0 +1,1013 @@
+{
+  "id": "idioms-feelings-2",
+  "kind": "idiom",
+  "name": "Feelings · 2",
+  "blurb": "17 idioms about feelings",
+  "cards": [
+    {
+      "id": "make-someones-day",
+      "kind": "idiom",
+      "term": "make someone's day",
+      "pos": "phrase",
+      "hint": "make their day brighter",
+      "register": "Everyday",
+      "meaning": "To do or say something that makes another person feel happy or pleased.",
+      "nuance": "The effect is usually warm and noticeable, especially when someone is having a difficult day. It can also be used lightly for a small pleasant surprise.",
+      "literal": "Doing something that makes a person’s day feel brighter.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · thanking a colleague",
+          "sentence": "Your clear handover made my day.",
+          "highlight": "made my day",
+          "tip": "Often used to sincerely appreciate someone’s help or thoughtfulness."
+        },
+        {
+          "setting": "social",
+          "where": "Coffee with a friend · sharing good news",
+          "sentence": "Hearing that you got the job made my day.",
+          "highlight": "made my day",
+          "tip": "Natural when reacting to welcome news about someone close to you."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a mentor · showing appreciation",
+          "sentence": "Your advice and encouragement really made my day.",
+          "highlight": "made my day",
+          "tip": "A friendly way to express genuine gratitude in a note or message."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase appears in everyday English during the mid-20th century. Its exact first use is uncertain, and claims that it comes from a particular royal quotation are not well supported.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 20th century",
+            "text": "Similar wording begins appearing in English, expressing the idea of making a day more enjoyable."
+          },
+          {
+            "when": "1940s",
+            "text": "The expression ‘make someone’s day’ is clearly established in printed usage."
+          },
+          {
+            "when": "Today",
+            "text": "It is a common, friendly phrase for bringing happiness or relief to someone."
+          }
+        ]
+      },
+      "similar": [
+        "brighten someone's day",
+        "cheer someone up",
+        "put a smile on someone's face"
+      ],
+      "opposite": "ruin someone's day",
+      "pitfall": "Use it for a positive remark or gesture; it would sound ironic or sarcastic in a clearly hostile context."
+    },
+    {
+      "id": "on-the-edge-of-ones-seat",
+      "kind": "idiom",
+      "term": "on the edge of one's seat",
+      "pos": "idiom",
+      "hint": "very eager to see what happens",
+      "register": "Everyday",
+      "meaning": "To be so excited or anxious about what is happening that you find it difficult to sit still.",
+      "nuance": "It describes intense anticipation, suspense or worry. It fits when following a gripping event, difficult decision or important result.",
+      "literal": "Sitting so forward on a seat that you are almost falling off its edge.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · awaiting a decision",
+          "sentence": "The whole team was on the edge of its seat while the director announced the final decision.",
+          "highlight": "on the edge of its seat",
+          "tip": "The subject can be one person, a group or an organisation."
+        },
+        {
+          "setting": "social",
+          "where": "Sports match · final minutes",
+          "sentence": "We were on the edge of our seats until the goalkeeper saved the penalty.",
+          "highlight": "on the edge of our seats",
+          "tip": "Often used for an exciting match, reveal or unexpected outcome."
+        },
+        {
+          "setting": "writing",
+          "where": "Film review · tense finale",
+          "sentence": "The audience was on the edge of its seat from the opening chase to the final twist.",
+          "highlight": "on the edge of its seat",
+          "tip": "A vivid choice for reviews, reports and descriptions of suspense."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the physical position of leaning forward on a seat, a natural sign of close attention. Its figurative use was established by the nineteenth century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People have long leaned forward when watching an exciting performance or waiting for important news."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers began using the image to mean being intensely attentive, excited or anxious."
+          },
+          {
+            "when": "Today",
+            "text": "It describes suspenseful moments when viewers or audiences are eager for what happens next."
+          }
+        ]
+      },
+      "similar": [
+        "on tenterhooks",
+        "on pins and needles",
+        "breathless with anticipation"
+      ],
+      "opposite": "indifferent to what happens",
+      "pitfall": "Use the possessive form, such as ‘on the edge of my seat’, rather than ‘on the edge of the seat’ when referring to a person or group."
+    },
+    {
+      "id": "ring-a-bell",
+      "kind": "idiom",
+      "term": "ring a bell",
+      "pos": "idiom",
+      "hint": "suddenly seem familiar",
+      "register": "Everyday",
+      "meaning": "To make you feel that you have heard or encountered something before.",
+      "nuance": "It often means a name, phrase, or idea feels vaguely familiar, not necessarily that you remember every detail.",
+      "literal": "To sound like a bell that has just been rung.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · recalling a process",
+          "sentence": "Does that project name ring a bell? I think we discussed it last quarter.",
+          "highlight": "ring a bell",
+          "tip": "Useful when a detail feels familiar but you are not sure where you heard it."
+        },
+        {
+          "setting": "social",
+          "where": "Reconnecting · mentioning a restaurant",
+          "sentence": "I know this place—does it ring a bell from somewhere?",
+          "highlight": "ring a bell",
+          "tip": "Common in conversation when someone wants a gentle memory cue."
+        },
+        {
+          "setting": "writing",
+          "where": "Research note · identifying a source",
+          "sentence": "The phrase ‘digital fatigue’ rings a bell, though I cannot remember where I first read it.",
+          "highlight": "rings a bell",
+          "tip": "Use it to acknowledge a partial or uncertain recollection."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably developed from the clear, memorable sound of a bell and the idea that it is familiar when heard. Its figurative use is well documented from the late 1800s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Print records begin using the phrase for something that sounds familiar or recalls an earlier experience."
+          },
+          {
+            "when": "1900s",
+            "text": "The expression becomes established in both conversation and writing."
+          },
+          {
+            "when": "Today",
+            "text": "Means something triggers a vague memory or recognition."
+          }
+        ]
+      },
+      "similar": [
+        "sound familiar",
+        "strike a chord",
+        "be deja vu"
+      ],
+      "opposite": "be completely new to you",
+      "pitfall": "It usually signals partial recognition, not a precise memory; avoid saying that something rings a bell if you remember it clearly."
+    },
+    {
+      "id": "rock-bottom",
+      "kind": "idiom",
+      "term": "rock bottom",
+      "pos": "idiom",
+      "hint": "the lowest possible point",
+      "register": "Common at work",
+      "meaning": "The lowest point in a difficult situation or personal experience.",
+      "nuance": "It describes hitting an especially bad stage, often after things have already been going badly. It can sound blunt or dramatic, so use it carefully in sensitive conversations.",
+      "literal": "The lowest level of a rocky place.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · missed targets",
+          "sentence": "After two failed launches, the team finally reached rock bottom and changed its approach.",
+          "highlight": "rock bottom",
+          "tip": "Often describes a business, project, or career hitting its worst point."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · recovering from a setback",
+          "sentence": "She felt like she had reached rock bottom after the accident, but support from her friends helped her move forward.",
+          "highlight": "rock bottom",
+          "tip": "Common when talking about personal hardship or despair."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · economic decline",
+          "sentence": "Small businesses in the region reached rock bottom before the new recovery programme took effect.",
+          "highlight": "rock bottom",
+          "tip": "Useful in reporting when describing a severe fall or a turning point."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the idea of the lowest possible point in a mine or rocky landscape. Its figurative use is well documented from the late nineteenth century, although the exact first use is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The expression ‘rock bottom’ appears in writing for the lowest physical point of a mine or rocky place."
+          },
+          {
+            "when": "Late 1800s–1900s",
+            "text": "Writers begin using it for the lowest point in fortune, health, or circumstances."
+          },
+          {
+            "when": "Today",
+            "text": "It means the worst point of an experience or situation."
+          }
+        ]
+      },
+      "similar": [
+        "Hit bottom",
+        "Lowest ebb",
+        "At the bottom of the barrel"
+      ],
+      "opposite": "Peak",
+      "pitfall": "It usually means a very low point, not merely a temporary disappointment."
+    },
+    {
+      "id": "see-red",
+      "kind": "idiom",
+      "term": "see red",
+      "pos": "idiom",
+      "hint": "become extremely angry",
+      "register": "Casual",
+      "meaning": "To become so angry that you lose your usual self-control.",
+      "nuance": "It describes sudden, intense anger rather than mild irritation. It fits informal conversations but is usually too dramatic for formal writing.",
+      "literal": "Seeing the color red.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · repeated interruptions",
+          "sentence": "My manager started seeing red when the report kept changing.",
+          "highlight": "seeing red",
+          "tip": "Usually describes another person becoming angry."
+        },
+        {
+          "setting": "social",
+          "where": "Family argument · a missed apology",
+          "sentence": "She saw red when her brother blamed her for everything.",
+          "highlight": "saw red",
+          "tip": "Natural in a casual story about an argument."
+        },
+        {
+          "setting": "writing",
+          "where": "Sports commentary · a disputed decision",
+          "sentence": "The crowd saw red after the referee awarded a late penalty.",
+          "highlight": "saw red",
+          "tip": "Often describes a crowd or team responding angrily."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is unclear. By the late 1800s, “see red” was used for intense anger, possibly influenced by images of blood, combat, or heated argument.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Late 1800s",
+            "text": "The phrase appears in writing for furious anger or unreasonable rage."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "It becomes established in everyday and journalistic English."
+          },
+          {
+            "when": "Today",
+            "text": "It means becoming extremely angry."
+          }
+        ]
+      },
+      "similar": [
+        "lose your cool",
+        "blow up",
+        "hit the roof"
+      ],
+      "opposite": "keep calm",
+      "pitfall": "Use it for strong anger, not ordinary annoyance."
+    },
+    {
+      "id": "sick-and-tired",
+      "kind": "idiom",
+      "term": "sick and tired",
+      "pos": "idiom",
+      "hint": "completely fed up",
+      "register": "Everyday",
+      "meaning": "Feeling worn out or thoroughly frustrated with something that has gone on too long.",
+      "nuance": "It expresses a mixture of physical weariness and impatience or frustration. It is stronger and more emotional than simply saying you are tired.",
+      "literal": "So exhausted or annoyed that you feel both unwell and tired.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · repeated delays",
+          "sentence": "I’m sick and tired of fixing the same report every week.",
+          "highlight": "sick and tired",
+          "tip": "Often followed by ‘of’ when naming what has become frustrating."
+        },
+        {
+          "setting": "social",
+          "where": "Chat with a friend · long commute",
+          "sentence": "After that journey, I’m sick and tired and just want to go home.",
+          "highlight": "sick and tired",
+          "tip": "Can show exhaustion without naming a specific cause."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a colleague · late project",
+          "sentence": "We are sick and tired of losing time because the approval process is unclear.",
+          "highlight": "sick and tired",
+          "tip": "Direct but informal; useful when you want to sound emphatic without being aggressive."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines two old ideas: ‘sick’ for unwell or weary and ‘tired’ for exhausted. Its familiar figurative use appears in English writing by the late 1800s, though no single dramatic origin is securely known.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "‘Sick’ and ‘tired’ were both used for physical weakness and exhaustion."
+          },
+          {
+            "when": "Late 1800s",
+            "text": "Writers began using ‘sick and tired’ to describe feeling worn out or thoroughly fed up."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common for expressing fatigue, frustration and repeated irritation."
+          }
+        ]
+      },
+      "similar": [
+        "fed up",
+        "fed to the teeth",
+        "tired of",
+        "had enough"
+      ],
+      "opposite": "fresh as a daisy",
+      "pitfall": "It usually needs ‘of’ before an object: ‘sick and tired of the noise.’"
+    },
+    {
+      "id": "sigh-of-relief",
+      "kind": "idiom",
+      "term": "sigh of relief",
+      "pos": "idiom",
+      "hint": "a reassuring feeling after worry ends",
+      "register": "Everyday",
+      "meaning": "A visible expression of relief that follows a worrying or difficult situation.",
+      "nuance": "It shows that someone feels safer or less pressured once a problem is resolved. Use it for reactions to good news, completed tasks, or a worry finally lifted.",
+      "literal": "The long breath someone releases when tension eases.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "After a difficult deadline",
+          "sentence": "When the system came back online, everyone let out a sigh of relief.",
+          "highlight": "sigh of relief",
+          "tip": "Common when a serious work problem is finally resolved."
+        },
+        {
+          "setting": "social",
+          "where": "Hearing a friend is safe",
+          "sentence": "She gave a sigh of relief when her missing brother finally called.",
+          "highlight": "sigh of relief",
+          "tip": "Often describes a quiet reaction after a period of worry."
+        },
+        {
+          "setting": "writing",
+          "where": "Describing a successful rescue",
+          "sentence": "A sigh of relief followed as the rescue team brought everyone to shore.",
+          "highlight": "sigh of relief",
+          "tip": "Works well in reports and stories to show tension easing."
+        }
+      ],
+      "origin": {
+        "summary": "The expression uses the natural image of releasing a breath after strain or worry. Its exact first appearance is not clear, but similar wording was in use by the 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People have long used sighing to show that pain, pressure, or anxiety is easing."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase 'sigh of relief' appears in English writing as a description of a reassuring release of tension."
+          },
+          {
+            "when": "Today",
+            "text": "It means a feeling of comfort after a worry or difficult situation has ended."
+          }
+        ]
+      },
+      "similar": [
+        "breathe a sigh of relief",
+        "heave a sigh of relief",
+        "feel relieved"
+      ],
+      "opposite": "sigh of frustration",
+      "pitfall": "Use it for the feeling or visible reaction after relief, not for the act of solving the problem."
+    },
+    {
+      "id": "sink-in",
+      "kind": "idiom",
+      "term": "sink in",
+      "pos": "idiom",
+      "hint": "facts finally become clear",
+      "register": "Common at work",
+      "meaning": "To become fully understood or accepted after being considered for a while.",
+      "nuance": "It often describes news, figures or an idea gradually becoming real to someone. The wording can suggest that understanding or acceptance takes time.",
+      "literal": "Liquid gradually soaking into a surface.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing results",
+          "sentence": "It took a few minutes for the disappointing sales figures to sink in.",
+          "highlight": "sink in",
+          "tip": "Natural for difficult news that needs time to be understood."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · surprising news",
+          "sentence": "I didn’t realize our group was leaving until her explanation finally sank in.",
+          "highlight": "sank in",
+          "tip": "Use the past tense when the realization has already happened."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · delayed response",
+          "sentence": "The scale of the problem began to sink in as more details emerged.",
+          "highlight": "sink in",
+          "tip": "Useful in reports when an issue becomes clearer over time."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase originally described liquid soaking into a surface. Its figurative use for facts becoming understood was recorded by the late 1800s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal expression describes liquid gradually entering or soaking into something."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers begin using the phrase for news or ideas becoming fully understood."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly expresses a gradual realization that can be emotional or practical."
+          }
+        ]
+      },
+      "similar": [
+        "get through to someone",
+        "become clear",
+        "take in"
+      ],
+      "opposite": "register",
+      "pitfall": "This usually describes understanding or acceptance; it is not a common synonym for physically lowering something into water."
+    },
+    {
+      "id": "soft-spot",
+      "kind": "idiom",
+      "term": "soft spot",
+      "pos": "idiom",
+      "hint": "a tender place, emotionally",
+      "register": "Common at work",
+      "meaning": "A tender or vulnerable feeling that makes someone unusually caring, forgiving or sympathetic.",
+      "nuance": "It often suggests affection beneath a firm exterior. It can also mean a weakness that someone is easily able to exploit.",
+      "literal": "A tender area of the body that hurts when pressed.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · giving feedback",
+          "sentence": "She has a soft spot for interns, so she often takes extra time to coach them.",
+          "highlight": "soft spot",
+          "tip": "Often implies a gentle weakness that affects decisions."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · childhood memories",
+          "sentence": "I’ve always had a soft spot for my younger cousin, even when he was impossible.",
+          "highlight": "soft spot",
+          "tip": "Use it for a warm feeling or special fondness."
+        },
+        {
+          "setting": "writing",
+          "where": "Campaign analysis · persuading a voter",
+          "sentence": "The candidate has a soft spot for voters who value local community projects.",
+          "highlight": "soft spot",
+          "tip": "Useful when describing a clear emotional preference."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the idea of a tender area of the body and was later used for a person’s sensitive feelings or weaknesses.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The expression first appears in writing for a physical tender spot on the body."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "Writers extend it to describe tender feelings, special affection and emotional vulnerability."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly means a place where someone is especially compassionate or easily influenced."
+          }
+        ]
+      },
+      "similar": [
+        "weak spot",
+        "tender spot",
+        "soft place"
+      ],
+      "opposite": "hard line",
+      "pitfall": "A soft spot is not the same as a personal preference: it usually carries a warmer, more emotional tone."
+    },
+    {
+      "id": "stiff-upper-lip",
+      "kind": "idiom",
+      "term": "stiff upper lip",
+      "pos": "idiom",
+      "hint": "emotionless and determined",
+      "register": "Everyday",
+      "meaning": "A way of hiding fear, sadness, or pain and continuing without showing your feelings.",
+      "nuance": "It suggests controlled emotion and quiet determination. It can be admired as resilience, but it may also sound old-fashioned or imply that showing emotion is weak.",
+      "literal": "A firm, unbending upper lip that does not tremble.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · bad news",
+          "sentence": "She kept a stiff upper lip after the project was cancelled and answered everyone’s questions calmly.",
+          "highlight": "stiff upper lip",
+          "tip": "Often used when someone contains their reaction in a difficult situation."
+        },
+        {
+          "setting": "social",
+          "where": "Family dinner · awkward news",
+          "sentence": "He had a stiff upper lip when he heard they were moving abroad.",
+          "highlight": "stiff upper lip",
+          "tip": "Usually describes someone refusing to cry or complain."
+        },
+        {
+          "setting": "writing",
+          "where": "Sports report · defeat",
+          "sentence": "Despite the injury, she kept a stiff upper lip and finished the race.",
+          "highlight": "stiff upper lip",
+          "tip": "Common in reporting on people who remain composed under pressure."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase was recorded in nineteenth-century Britain, when outward restraint was commonly presented as a sign of character and self-control. Its precise first source is not certain.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1850s",
+            "text": "The phrase begins appearing in British writing."
+          },
+          {
+            "when": "1800s",
+            "text": "It becomes associated with the Victorian ideal of hiding strong emotion in public."
+          },
+          {
+            "when": "Today",
+            "text": "It describes controlled emotion, especially during hardship or adversity."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "keep a stiff upper lip",
+          "label": "verb phrase"
+        }
+      ],
+      "similar": [
+        "keep your cool",
+        "hold it together",
+        "keep your composure"
+      ],
+      "opposite": "burst into tears",
+      "pitfall": "When describing the behaviour of a particular person, use “keep a stiff upper lip,” not “keeps a stiff upper lip.”"
+    },
+    {
+      "id": "take-someones-breath-away",
+      "kind": "idiom",
+      "term": "take someone's breath away",
+      "pos": "idiom",
+      "hint": "leave someone speechless with amazement",
+      "register": "Common at work",
+      "meaning": "To surprise or impress someone so strongly that they feel amazed.",
+      "nuance": "It describes a powerful emotional reaction, usually admiration, amazement or excitement. It can describe an impressive achievement, striking beauty or an unexpected event.",
+      "literal": "To cause someone to lose their breath because of shock, beauty or wonder.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team presentation · impressive results",
+          "sentence": "Her presentation takes everyone's breath away.",
+          "highlight": "takes everyone's breath away",
+          "tip": "Often used for something unexpectedly impressive or outstanding."
+        },
+        {
+          "setting": "social",
+          "where": "Concert · seeing a favourite performer",
+          "sentence": "That final song took my breath away.",
+          "highlight": "took my breath away",
+          "tip": "Natural for describing beauty, awe or a thrilling moment."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel review · remarkable scenery",
+          "sentence": "The view from the clifftop takes the reader's breath away.",
+          "highlight": "takes the reader's breath away",
+          "tip": "A vivid, slightly dramatic choice in reviews and promotional writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from older expressions about a person's breath being taken away by shock, fear or amazement. The exact point when the modern wording emerged is difficult to establish.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Writers used images of losing one's breath to describe fear, shock or strong emotion."
+          },
+          {
+            "when": "1500s–1800s",
+            "text": "Forms of 'take away the breath' appear in descriptions of sudden astonishment and amazement."
+          },
+          {
+            "when": "Today",
+            "text": "Means to amaze or impress someone strongly."
+          }
+        ]
+      },
+      "similar": [
+        "leave someone speechless",
+        "blow someone away",
+        "take your breath away"
+      ],
+      "opposite": "be underwhelming",
+      "pitfall": "Use it for a strong positive reaction, not simply for something that makes someone physically unable to breathe."
+    },
+    {
+      "id": "to-die-for",
+      "kind": "idiom",
+      "term": "to die for",
+      "pos": "idiom",
+      "hint": "so good it’s worth dying for",
+      "register": "Casual",
+      "meaning": "To be exceptionally desirable, enjoyable, or impressive.",
+      "nuance": "This expresses strong admiration or enthusiasm, often with a playful exaggeration. It suits informal conversations rather than serious formal writing.",
+      "literal": "To be so desirable or wonderful that dying for it would be worthwhile.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team lunch · trying a new restaurant",
+          "sentence": "That pasta was to die for.",
+          "highlight": "to die for",
+          "tip": "Natural when praising food, a presentation, or someone’s performance."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up · describing a holiday",
+          "sentence": "The view from that hotel was absolutely to die for.",
+          "highlight": "to die for",
+          "tip": "Adds warm, enthusiastic emphasis to a compliment."
+        },
+        {
+          "setting": "writing",
+          "where": "Restaurant review · recommending a dish",
+          "sentence": "The roast lamb is to die for, especially with the rosemary jus.",
+          "highlight": "to die for",
+          "tip": "Best for informal reviews, captions, and recommendations."
+        }
+      ],
+      "origin": {
+        "summary": "The expression likely comes from older hyperbolic language comparing something so intensely desired that a person would die for it. Its exact first use is not firmly established.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English writers used similar comparisons, saying someone was worth dying for or that a thing was worth dying for."
+          },
+          {
+            "when": "1900s",
+            "text": "The expression appears in the shortened form ‘die for’ in strong statements of admiration or desire."
+          },
+          {
+            "when": "Today",
+            "text": "Means something is exceptionally good or desirable."
+          }
+        ]
+      },
+      "similar": [
+        "out of this world",
+        "heaven-sent",
+        "to die laughing"
+      ],
+      "opposite": "to be made for burning",
+      "pitfall": "Do not use it in serious or sensitive situations, because it can sound flippant."
+    },
+    {
+      "id": "too-good-to-be-true",
+      "kind": "idiom",
+      "term": "too good to be true",
+      "pos": "idiom",
+      "hint": "suspiciously perfect",
+      "register": "Everyday",
+      "meaning": "So unusual or appealing that it seems unlikely to be genuine.",
+      "nuance": "This expresses a mix of surprise and doubt. Use it when an offer, result, or event seems almost impossibly convenient or excellent.",
+      "literal": "Too excellent to be believable.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · unexpected offer",
+          "sentence": "The salary, remote flexibility, and instant approval sounded too good to be true.",
+          "highlight": "too good to be true",
+          "tip": "Often introduces mild suspicion about an offer or opportunity."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up · surprising news",
+          "sentence": "Winning two free tickets on my first attempt was too good to be true.",
+          "highlight": "too good to be true",
+          "tip": "Natural when reacting to exceptionally good news."
+        },
+        {
+          "setting": "writing",
+          "where": "Product review · online deal",
+          "sentence": "The advertised price was too good to be true, so we checked the checkout page carefully.",
+          "highlight": "too good to be true",
+          "tip": "Useful for warning readers about an offer that may be misleading."
+        }
+      ],
+      "origin": {
+        "summary": "The exact phrase has circulated for more than a century. Its early wording varied, but the modern form became established through repeated use.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Similar expressions appear in English writing, including forms such as ‘too good to be true’."
+          },
+          {
+            "when": "1900s",
+            "text": "The phrase appears in early dictionaries and popular writing in its familiar modern wording."
+          },
+          {
+            "when": "Today",
+            "text": "It describes something excellent or convenient that prompts disbelief."
+          }
+        ]
+      },
+      "similar": [
+        "a bit too good to be true",
+        "too good to last",
+        "suspiciously cheap"
+      ],
+      "pitfall": "Use it for something you doubt, not simply as praise for something excellent."
+    },
+    {
+      "id": "tough-love",
+      "kind": "idiom",
+      "term": "tough love",
+      "pos": "idiom",
+      "hint": "care that is deliberately strict",
+      "register": "Common at work",
+      "meaning": "Showing care for someone by being firm, direct, or demanding because you believe it will help them.",
+      "nuance": "It can sound affectionate and encouraging, but the phrase may also make the recipient feel criticised. Use it when explaining a difficult but well-intentioned decision or action.",
+      "literal": "Love shown through firmness or difficulty rather than ease or comfort.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · giving feedback",
+          "sentence": "The manager’s tough love pushed me to improve instead of settling for mediocre work.",
+          "highlight": "tough love",
+          "tip": "Often describes firm feedback from someone who genuinely wants to help."
+        },
+        {
+          "setting": "social",
+          "where": "Friendship · giving advice",
+          "sentence": "My friend gave me some tough love and told me to stop making excuses.",
+          "highlight": "tough love",
+          "tip": "Common when someone says something hard but helpful."
+        },
+        {
+          "setting": "writing",
+          "where": "Parenting advice · personal essay",
+          "sentence": "Setting firm boundaries can be an expression of tough love, even when it causes disagreement.",
+          "highlight": "tough love",
+          "tip": "Useful in writing about discipline, guidance, and difficult choices."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase has no well-established single origin. It became especially popular in the 1960s, when it was used to describe firm care and the title of a widely known song.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1960s",
+            "text": "The expression becomes established in popular language for loving but demanding guidance."
+          },
+          {
+            "when": "Today",
+            "text": "It refers to care expressed through firmness, honesty, or difficult demands."
+          }
+        ]
+      },
+      "similar": [
+        "hard truths",
+        "straight talking",
+        "firm but fair"
+      ],
+      "opposite": "empty praise",
+      "pitfall": "It can imply that the harsh treatment is justified, so explain the care behind it when the other person may not understand your intention."
+    },
+    {
+      "id": "two-thumbs-up",
+      "kind": "idiom",
+      "term": "two thumbs up",
+      "pos": "idiom",
+      "hint": "a strong sign of approval",
+      "register": "Everyday",
+      "meaning": "To express strong approval, enthusiasm, or confidence that something is good.",
+      "nuance": "It is warmer and more emphatic than giving a thumbs-up. It suits informal conversations and messages when you want to show genuine enthusiasm.",
+      "literal": "Holding both hands up with the thumbs pointing upward.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · approving a proposal",
+          "sentence": "The client gave us two thumbs up for the revised presentation.",
+          "highlight": "two thumbs up",
+          "tip": "Natural when reporting approval, though it is less formal than ‘approved it’."
+        },
+        {
+          "setting": "social",
+          "where": "Chatting about a new restaurant",
+          "sentence": "I tried their seafood pasta and got two thumbs up from everyone.",
+          "highlight": "two thumbs up",
+          "tip": "Often used to show that an experience was very good."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal project update",
+          "sentence": "The latest design tests received two thumbs up from the customer.",
+          "highlight": "two thumbs up",
+          "tip": "Works in friendly emails and updates, but may seem too casual for formal reports."
+        }
+      ],
+      "origin": {
+        "summary": "The thumbs-up gesture is ancient, but the exact expression two thumbs up became common in the late 20th century as a way to signal stronger approval.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Ancient times",
+            "text": "Raised thumbs were used in several cultures as gestures of approval, acknowledgment, or favorable judgment."
+          },
+          {
+            "when": "20th century",
+            "text": "The thumbs-up gesture became widely associated with approval in Europe and North America."
+          },
+          {
+            "when": "Late 20th century",
+            "text": "Two thumbs up emerged as an emphatic way to communicate enthusiasm or strong approval."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in speech, informal writing, and digital communication."
+          }
+        ]
+      },
+      "similar": [
+        "a big thumbs-up",
+        "give someone the thumbs-up",
+        "over the moon"
+      ],
+      "opposite": "thumbs down",
+      "pitfall": "For actual approval of a person or proposal, say ‘give someone two thumbs up’; for the gesture itself, say ‘give a thumbs-up.’"
+    },
+    {
+      "id": "with-bated-breath",
+      "kind": "idiom",
+      "term": "with bated breath",
+      "pos": "idiom",
+      "hint": "waiting without breathing normally",
+      "register": "Common at work",
+      "meaning": "To wait anxiously, holding your breath because you expect something important or exciting.",
+      "nuance": "It suggests nervous anticipation and intense focus. It fits moments when people are waiting for news, a result, or an important announcement.",
+      "literal": "With your breath deliberately held inside your body.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch meeting · waiting for approval",
+          "sentence": "The team waited with bated breath for the director to approve the campaign.",
+          "highlight": "with bated breath",
+          "tip": "Often describes a group waiting for important news."
+        },
+        {
+          "setting": "social",
+          "where": "Concert hall · waiting for the performer",
+          "sentence": "We sat with bated breath while the drummer walked onto the stage.",
+          "highlight": "with bated breath",
+          "tip": "Works for suspenseful, exciting, or tense moments."
+        },
+        {
+          "setting": "writing",
+          "where": "Sports report · tense final minutes",
+          "sentence": "Supporters watched with bated breath as the goalkeeper prepared to save the penalty.",
+          "highlight": "with bated breath",
+          "tip": "Strong in reporting, commentary, and dramatic writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is linked to the older sense of ‘bated,’ meaning restrained or reduced, as in breath that is held back. Its early wording appears in English drama, where it described people quietly waiting with controlled excitement.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Late 1500s–early 1600s",
+            "text": "Forms such as ‘bated breath’ appear in English writing and drama."
+          },
+          {
+            "when": "Early 1600s",
+            "text": "The wording becomes established for holding one’s breath in tense anticipation."
+          },
+          {
+            "when": "Today",
+            "text": "It means waiting anxiously for an important outcome."
+          }
+        ]
+      },
+      "similar": [
+        "hold your breath",
+        "on the edge of your seat",
+        "with your heart in your mouth"
+      ],
+      "opposite": "without a care",
+      "pitfall": "It describes tense anticipation, not simply breathing quietly."
+    },
+    {
+      "id": "written-all-over-someones-face",
+      "kind": "idiom",
+      "term": "written all over someone's face",
+      "pos": "idiom",
+      "hint": "an emotion you cannot hide",
+      "register": "Everyday",
+      "meaning": "An emotion or reaction is so obvious that other people can clearly tell how you feel.",
+      "nuance": "Usually describes embarrassment, guilt, excitement, anger, or disappointment. It emphasizes that the feeling is visible even without words.",
+      "literal": "A message written clearly across someone's face.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · bad news",
+          "sentence": "Her frustration was written all over her face during the planning meeting.",
+          "highlight": "written all over her face",
+          "tip": "Useful when describing a visible reaction to something disappointing."
+        },
+        {
+          "setting": "social",
+          "where": "Birthday party · forgotten gift",
+          "sentence": "I couldn't hide it; my disappointment was written all over my face.",
+          "highlight": "written all over my face",
+          "tip": "Often follows ‘couldn’t hide it’ or ‘I could tell’."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · approving a proposal",
+          "sentence": "His excitement was written all over his face when the proposal was accepted.",
+          "highlight": "written all over his face",
+          "tip": "Common in descriptions of characters, reactions, and body language."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the idea that important information can be shown plainly on someone's face, like words written there. Its exact first use is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "Writers began using expressions based on emotions being plainly 'written' on a face."
+          },
+          {
+            "when": "Today",
+            "text": "It describes a feeling or reaction that is obvious to other people."
+          }
+        ]
+      },
+      "similar": [
+        "plain to see",
+        "a picture of",
+        "cannot hide"
+      ],
+      "opposite": "hard to read",
+      "pitfall": "Use it for a visible emotional reaction, not for a facial feature or physical mark."
+    }
+  ]
+}

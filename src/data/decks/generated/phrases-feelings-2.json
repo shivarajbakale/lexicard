@@ -1,0 +1,424 @@
+{
+  "id": "phrases-feelings-2",
+  "kind": "phrase",
+  "name": "Feelings · 2",
+  "blurb": "7 phrases about feelings",
+  "cards": [
+    {
+      "id": "shell-be-right",
+      "kind": "phrase",
+      "term": "she'll be right",
+      "pos": "phrase",
+      "hint": "everything will be fine",
+      "register": "Casual",
+      "meaning": "Used to reassure someone that a difficult situation will probably improve or work out.",
+      "nuance": "This is relaxed and slightly informal, especially in Australian and British English. It can sound dismissive if the person is genuinely worried, so offer practical help when needed.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague facing a deadline",
+          "sentence": "The report may look messy right now, but she’ll be right once we’ve checked the figures.",
+          "highlight": "she’ll be right",
+          "tip": "Use it when the outcome really is likely to be fine; otherwise acknowledge the concern."
+        },
+        {
+          "setting": "social",
+          "where": "Comforting a friend",
+          "sentence": "Don’t worry about the missed train; she’ll be right soon enough.",
+          "highlight": "she’ll be right",
+          "tip": "It’s reassuring in casual conversation, but it may sound like you are not taking the problem seriously."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message to a teammate",
+          "sentence": "The system should be back online shortly, so she’ll be right.",
+          "highlight": "she’ll be right",
+          "tip": "Best in a message to someone you know well; use a clearer update in a formal email."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed as a casual reassurance meaning “things will be fine,” especially in Australian and British English. Its exact first use is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Similar expressions used the word “right” to mean “fine” or “in order.”"
+          },
+          {
+            "when": "20th century",
+            "text": "The form “she’ll be right” became established in casual English, particularly in Australia and Britain."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar reassurance, though it can sound dismissive in serious situations."
+          }
+        ]
+      },
+      "similar": [
+        "it’ll be fine",
+        "everything will be fine",
+        "it’ll all work out"
+      ],
+      "opposite": "things are falling apart",
+      "pitfall": "Don’t use it when someone needs serious support; it can make their concern feel dismissed."
+    },
+    {
+      "id": "sleep-tight",
+      "kind": "phrase",
+      "term": "sleep tight",
+      "pos": "phrase",
+      "hint": "a warm way to wish someone a good night",
+      "register": "Casual",
+      "meaning": "A friendly way to wish someone a deep, peaceful night’s sleep.",
+      "nuance": "It feels warm and caring, and is especially suitable for friends, family members or close colleagues. It is not normally used in a formal business context.",
+      "literal": "Sleeping deeply and comfortably, without disturbance.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "End-of-day message to a colleague",
+          "sentence": "You’ve had a long day, so sleep tight after work tonight.",
+          "highlight": "sleep tight",
+          "tip": "Use it with someone you know well; it may sound too familiar with a new colleague."
+        },
+        {
+          "setting": "social",
+          "where": "Goodnight text to a friend",
+          "sentence": "I’ll call you tomorrow, but for now, sleep tight.",
+          "highlight": "sleep tight",
+          "tip": "Pair it with “good night” or “sweet dreams” for an extra-friendly message."
+        },
+        {
+          "setting": "writing",
+          "where": "Closing note in a personal email",
+          "sentence": "Thanks for helping me today. Get some rest and sleep tight.",
+          "highlight": "sleep tight",
+          "tip": "It works best in a personal sign-off, not in a formal email to a client."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely comes from the idea of sleeping soundly and peacefully. It became established as a friendly goodnight wish during the 19th century and later spread into everyday conversation.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression developed from the idea of sleeping securely and comfortably through the night."
+          },
+          {
+            "when": "19th century",
+            "text": "The phrase began appearing as a wish for a good, peaceful night’s sleep."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a warm, informal way to say goodnight to people you are close to."
+          }
+        ]
+      },
+      "similar": [
+        "good night",
+        "sweet dreams",
+        "rest well"
+      ],
+      "opposite": "have a rough night",
+      "pitfall": "This is an affectionate phrase, so avoid using it with someone you do not know well or in a highly formal message."
+    },
+    {
+      "id": "good-time-coming",
+      "kind": "phrase",
+      "term": "The good times are coming",
+      "pos": "phrase",
+      "hint": "things should improve soon",
+      "register": "Everyday",
+      "meaning": "Used to express confidence that a difficult period will soon improve and better times are ahead.",
+      "nuance": "It can be encouraging and optimistic, but it may sound like empty reassurance when used without evidence. It is common in conversation, while “I believe better times are ahead” often sounds more measured in professional settings.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing a slow quarter",
+          "sentence": "Sales are down now, but with the new campaign launching, the good times are coming.",
+          "highlight": "the good times are coming",
+          "tip": "Pair optimism with a concrete reason or next step."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation with a friend",
+          "sentence": "Don’t worry, things won’t stay like this forever—the good times are coming.",
+          "highlight": "the good times are coming",
+          "tip": "Use it to comfort someone, but avoid sounding blindly optimistic."
+        },
+        {
+          "setting": "writing",
+          "where": "Year-end update email",
+          "sentence": "Although this year has been challenging, the good times are coming as we expand into new markets.",
+          "highlight": "the good times are coming",
+          "tip": "In formal writing, consider explaining what improvement you expect."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the older expression “a good time is coming,” which predicted that circumstances would improve. The plural form became a general statement that better times were ahead.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "A time of enjoyment or prosperity is expected to arrive."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase appears in popular and political speech as a prediction of better conditions."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common expression of hope, especially during difficult periods."
+          }
+        ]
+      },
+      "similar": [
+        "better days are ahead",
+        "things are looking up",
+        "it will get better"
+      ],
+      "opposite": "the worst is yet to come",
+      "pitfall": "It can sound unrealistic or overly cheerful when serious problems remain unresolved; offer specific encouragement instead."
+    },
+    {
+      "id": "to-the-limit",
+      "kind": "phrase",
+      "term": "to the limit",
+      "pos": "phrase",
+      "hint": "as far as possible",
+      "register": "Common at work",
+      "meaning": "To the greatest extent possible, or as far as someone or something can go.",
+      "nuance": "It can describe pushing your capacity, effort or resources to their maximum. It may sound encouraging, but it can also suggest that a limit has been reached and should not be pushed further.",
+      "literal": "Up to the furthest point or boundary.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · assessing capacity",
+          "sentence": "We’re stretching the team to the limit with these deadlines.",
+          "highlight": "to the limit",
+          "tip": "Use it when capacity or resources are already being pushed hard."
+        },
+        {
+          "setting": "social",
+          "where": "Workout · giving maximum effort",
+          "sentence": "I pushed myself to the limit trying to beat my best time.",
+          "highlight": "to the limit",
+          "tip": "It emphasizes effort and usually implies the activity was very demanding."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · describing a successful launch",
+          "sentence": "The support team worked to the limit to resolve every urgent issue before the launch.",
+          "highlight": "to the limit",
+          "tip": "Pair it with a specific result so it does not sound like vague praise."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the idea of reaching the furthest boundary of a space, time, resource or physical ability. Its figurative use developed from this literal picture.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Literal sense: reaching the outer boundary or endpoint of something."
+          },
+          {
+            "when": "19th–20th centuries",
+            "text": "Figurative uses appear for maximum effort, capacity and physical endurance."
+          },
+          {
+            "when": "Today",
+            "text": "Common in workplace, sport and everyday speech for describing the maximum someone or something can handle."
+          }
+        ]
+      },
+      "similar": [
+        "to the maximum",
+        "to the utmost",
+        "at full capacity",
+        "to the brink"
+      ],
+      "opposite": "well within the limit",
+      "pitfall": "“To the limit” can imply that no more effort or resources are available, so explain what is already at capacity."
+    },
+    {
+      "id": "too-much-of-a-good-thing",
+      "kind": "phrase",
+      "term": "too much of a good thing",
+      "pos": "phrase",
+      "hint": "pleasant, but now excessive",
+      "register": "Everyday",
+      "meaning": "Something enjoyable or beneficial has become excessive and is no longer welcome.",
+      "nuance": "The phrase often has a light, humorous tone, but it can also suggest that a situation is becoming difficult to manage.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning a full week of events",
+          "sentence": "Four team socials in one week is too much of a good thing.",
+          "highlight": "too much of a good thing",
+          "tip": "Use it gently when extra activities are becoming tiring rather than harmful."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing a restaurant for a large group",
+          "sentence": "We already booked the party room, so having a seven-course dinner is too much of a good thing.",
+          "highlight": "too much of a good thing",
+          "tip": "It can add warmth or mild exasperation without sounding seriously annoyed."
+        },
+        {
+          "setting": "writing",
+          "where": "Responding to a generous offer",
+          "sentence": "Thank you for offering to help, but too much of a good thing could slow us down.",
+          "highlight": "too much of a good thing",
+          "tip": "Pair it with thanks so the reader understands that you appreciate the offer."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase grew from an older English idea that even something good can become bad when taken to excess. Its exact first use is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "Early English proverbs warned that excess could spoil something beneficial."
+          },
+          {
+            "when": "1700s",
+            "text": "Writers began using the wording “too much of a good thing” in its familiar form."
+          },
+          {
+            "when": "Today",
+            "text": "It is a common expression for excess that spoils enjoyment or causes strain."
+          }
+        ]
+      },
+      "similar": [
+        "a bit much",
+        "overkill",
+        "more is not always better"
+      ],
+      "opposite": "just the right amount",
+      "pitfall": "The phrase can sound playful, so avoid it when the excess is causing serious harm or you need a firm warning."
+    },
+    {
+      "id": "whatever-will-be-will-be",
+      "kind": "phrase",
+      "term": "whatever will be, will be",
+      "pos": "phrase",
+      "hint": "accept what happens",
+      "register": "Common in casual conversation",
+      "meaning": "Accept that some future events are beyond your control and must simply be allowed to happen.",
+      "nuance": "The phrase can express calm acceptance or resignation. It suits personal and social situations, but it may sound passive when you still have a practical problem to solve.",
+      "literal": "Whatever is going to happen will happen.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · uncertain priorities",
+          "sentence": "The client may change the deadline, but whatever will be, will be; we should focus on the work we can control.",
+          "highlight": "whatever will be, will be",
+          "tip": "Use it after identifying what you can influence, not instead of taking action."
+        },
+        {
+          "setting": "social",
+          "where": "Cancelling plans · bad weather",
+          "sentence": "The picnic might be ruined by rain, but whatever will be, will be—we’ll find something else to do.",
+          "highlight": "whatever will be, will be",
+          "tip": "It can soften disappointment and help a conversation move on."
+        },
+        {
+          "setting": "writing",
+          "where": "Reflective message · uncertain plans",
+          "sentence": "I’m nervous about the interview, but whatever will be, will be, and I’ll give it my best effort.",
+          "highlight": "whatever will be, will be",
+          "tip": "It works well in personal writing, but avoid it in a formal risk assessment."
+        }
+      ],
+      "origin": {
+        "summary": "This proverb-like wording was already in English use before it became the refrain of the 1956 song “Que Sera, Sera.” The song helped make it a widely recognised expression of acceptance.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "A general statement that future events cannot be changed."
+          },
+          {
+            "when": "19th century",
+            "text": "The wording appears in collections of sayings and popular expressions."
+          },
+          {
+            "when": "1956",
+            "text": "The refrain “whatever will be, will be” appears in the song “Que Sera, Sera.”"
+          },
+          {
+            "when": "Today",
+            "text": "It remains common as a way to express acceptance of uncertainty."
+          }
+        ]
+      },
+      "similar": [
+        "que sera, sera",
+        "what will be will be",
+        "it is what it is",
+        "leave it to fate"
+      ],
+      "opposite": "take control of the situation",
+      "pitfall": "The phrase can sound like giving up, so pair it with action when a problem still needs attention."
+    },
+    {
+      "id": "you-got-this",
+      "kind": "phrase",
+      "term": "you got this",
+      "pos": "phrase",
+      "hint": "reassurance that someone can handle it",
+      "register": "Casual",
+      "meaning": "A reassuring way to tell someone that they are capable of handling a situation or challenge.",
+      "nuance": "It sounds encouraging and supportive, but it is informal and may feel unnecessary in a serious or highly professional exchange. It works best with people you know well.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Before a colleague’s presentation",
+          "sentence": "Don’t worry about the questions; you got this.",
+          "highlight": "you got this",
+          "tip": "Use it with colleagues you know rather than during a formal performance review."
+        },
+        {
+          "setting": "social",
+          "where": "Encouraging a friend before an interview",
+          "sentence": "You know the role inside out, so you got this.",
+          "highlight": "you got this",
+          "tip": "It can feel especially natural among friends who speak casually."
+        },
+        {
+          "setting": "writing",
+          "where": "Text message before a friend’s exam",
+          "sentence": "You’ve studied hard, so you got this—good luck!",
+          "highlight": "you got this",
+          "tip": "It is friendly in a message, but too casual for most professional emails."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from the older encouragement “you’ve got it,” meaning that someone can cope. The shortened form became common in informal American speech and online communication in the early 21st century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used variants such as “you’ve got it” to reassure someone that they could cope."
+          },
+          {
+            "when": "Early 2000s",
+            "text": "The shorter “you got this” spreads through casual American speech and online messaging."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely understood as informal encouragement, especially among friends and colleagues."
+          }
+        ]
+      },
+      "similar": [
+        "you’ve got this",
+        "you can do it",
+        "you’ve got it",
+        "believe in yourself"
+      ],
+      "opposite": "you’re out of your depth",
+      "pitfall": "It can sound dismissive if someone is genuinely struggling, so acknowledge their feelings before offering encouragement."
+    }
+  ]
+}

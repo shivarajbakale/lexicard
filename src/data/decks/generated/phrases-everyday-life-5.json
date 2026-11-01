@@ -1,0 +1,298 @@
+{
+  "id": "phrases-everyday-life-5",
+  "kind": "phrase",
+  "name": "Everyday life · 5",
+  "blurb": "5 phrases about everyday life",
+  "cards": [
+    {
+      "id": "wash-rinse-repeat",
+      "kind": "phrase",
+      "term": "wash, rinse, repeat",
+      "pos": "idiom",
+      "hint": "do the whole process again",
+      "register": "Everyday",
+      "meaning": "To repeat the same process or cycle, especially when it feels routine or frustrating.",
+      "nuance": "It can sound light and humorous, but it may also emphasize that someone is stuck doing the same thing over and over.",
+      "literal": "The instructions on many products say to wash, rinse, and then repeat the washing and rinsing process.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Recurring reporting task",
+          "sentence": "The spreadsheet is clean, but the review process is wash, rinse, repeat every month.",
+          "highlight": "wash, rinse, repeat",
+          "tip": "Use it when the repetition is genuinely part of the process, not to dismiss someone’s frustration."
+        },
+        {
+          "setting": "social",
+          "where": "A frustrating house chore",
+          "sentence": "The dishes are still piled up, so it’s wash, rinse, repeat for the rest of the evening.",
+          "highlight": "wash, rinse, repeat",
+          "tip": "It works well for sharing a low-key complaint with friends or family."
+        },
+        {
+          "setting": "writing",
+          "where": "Customer-service email",
+          "sentence": "Our support process is effective, but for complex cases it can feel like wash, rinse, repeat.",
+          "highlight": "wash, rinse, repeat",
+          "tip": "It adds a conversational tone, so use it mainly in informal or semi-formal messages."
+        }
+      ],
+      "origin": {
+        "summary": "Probably comes from product instructions that tell users to repeat a washing and rinsing cycle; the figurative sense grew from that familiar sequence.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Product labels commonly instructed people to wash, rinse and repeat."
+          },
+          {
+            "when": "20th century",
+            "text": "The sequence began being used figuratively for repeating a cycle of actions."
+          },
+          {
+            "when": "Today",
+            "text": "It is common informal English for describing a repeated process."
+          }
+        ]
+      },
+      "similar": [
+        "same old story",
+        "over and over again",
+        "round and round"
+      ],
+      "pitfall": "The phrase can sound flippant when someone is seriously distressed, so use it with care in sensitive conversations."
+    },
+    {
+      "id": "whats-next",
+      "kind": "phrase",
+      "term": "what's next",
+      "pos": "phrase",
+      "hint": "the next step",
+      "register": "Everyday",
+      "meaning": "A question about what should happen next or what the next step in a situation is.",
+      "nuance": "It can simply ask about the next action, or signal that the current stage is finished and a decision is needed.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project check-in · deciding the next action",
+          "sentence": "We've finished the first draft, so what's next?",
+          "highlight": "what's next",
+          "tip": "Use it to move a discussion from completed work to a clear next step."
+        },
+        {
+          "setting": "social",
+          "where": "After a meal with friends",
+          "sentence": "That was delicious, but what's next?",
+          "highlight": "what's next",
+          "tip": "It works naturally when you are ready to move on from the current activity."
+        },
+        {
+          "setting": "writing",
+          "where": "Closing an email · pointing to a follow-up",
+          "sentence": "I've attached the revised schedule; please let me know what's next.",
+          "highlight": "what's next",
+          "tip": "Use it to ask for direction when the next step is not obvious."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines the everyday question word “what” with “next” to ask about the following stage. Its idiomatic use developed from the literal idea of what comes immediately afterward.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The word “next” began meaning the one immediately following another thing or event."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression “what's next?” became common in spoken English for asking about the next stage."
+          },
+          {
+            "when": "Today",
+            "text": "It is used in everyday conversation, workplaces and written updates."
+          }
+        ]
+      },
+      "similar": [
+        "what comes next",
+        "the next step",
+        "where do we go from here"
+      ],
+      "pitfall": "“What's next?” can sound impatient if someone is still explaining the current step; wait until the previous point is finished."
+    },
+    {
+      "id": "whatever-floats-your-boat",
+      "kind": "phrase",
+      "term": "whatever floats your boat",
+      "pos": "idiom",
+      "hint": "whatever makes you happy",
+      "register": "Casual",
+      "meaning": "A playful way of saying that someone can choose whatever makes them happy.",
+      "nuance": "It sounds lighthearted and accepting, often without seriously considering practicality. It works best among people who know each other.",
+      "literal": "A boat stays afloat because of whatever keeps it buoyant.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team event · choosing plans",
+          "sentence": "We can do the museum or the food tour; whatever floats your boat.",
+          "highlight": "whatever floats your boat",
+          "tip": "Use it casually when offering people a choice, not to avoid making a necessary work decision."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans · picking an activity",
+          "sentence": "I’m up for cycling, but whatever floats your boat.",
+          "highlight": "whatever floats your boat",
+          "tip": "It keeps the mood relaxed while showing that you’re comfortable with their choice."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message · choosing a gift",
+          "sentence": "You can pick whichever style you like—whatever floats your boat.",
+          "highlight": "whatever floats your boat",
+          "tip": "It adds warmth to a casual message, but it may sound flippant in formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "The idiom likely comes from the idea that a boat floats when supported by something buoyant. Its figurative use is documented from the 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal image is a boat remaining afloat because of what supports or displaces it."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression appears in American writing as a humorous way of saying that people may follow their own preferences."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a casual English idiom for accepting someone’s choice with good humor."
+          }
+        ]
+      },
+      "similar": [
+        "whatever works for you",
+        "if it makes you happy",
+        "your call"
+      ],
+      "opposite": "be sensible",
+      "pitfall": "It can sound dismissive when a serious decision or risk needs careful discussion."
+    },
+    {
+      "id": "whatever-the-case-may-be",
+      "kind": "phrase",
+      "term": "Whatever the case may be",
+      "pos": "phrase",
+      "hint": "no matter which option turns out to be true",
+      "register": "Formal",
+      "meaning": "Used when the outcome does not matter because you will handle every possible situation in the same way.",
+      "nuance": "It sounds careful and slightly formal, often implying that you are prepared for different outcomes. It can also suggest that you are avoiding commitment to one particular result.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch planning · preparing for uncertainty",
+          "sentence": "Whatever the case may be, we’ll review the results together and adjust next week’s plan.",
+          "highlight": "Whatever the case may be",
+          "tip": "Use it to show flexibility without dismissing the uncertainty."
+        },
+        {
+          "setting": "social",
+          "where": "Plans with friends · changing weather",
+          "sentence": "If it rains, we’ll stay in; whatever the case may be, we’ve got somewhere warm to meet.",
+          "highlight": "whatever the case may be",
+          "tip": "It can sound a little formal among close friends, so “either way” may be more natural."
+        },
+        {
+          "setting": "writing",
+          "where": "Closing an email · giving reassurance",
+          "sentence": "Whatever the case may be, I’ll keep you updated as soon as I hear more.",
+          "highlight": "Whatever the case may be",
+          "tip": "Place it near the end to reassure the reader without overexplaining."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from a legal-style expression meaning whatever the circumstances may be. Its modern use has become broader and less formal.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression developed from older legal wording about circumstances or cases."
+          },
+          {
+            "when": "1600s–1700s",
+            "text": "Print usage shows the familiar sense of no matter what the circumstances may be."
+          },
+          {
+            "when": "Today",
+            "text": "The shortened phrase “whatever the case may be” is common in formal and everyday English."
+          }
+        ]
+      },
+      "similar": [
+        "either way",
+        "no matter what",
+        "in any event"
+      ],
+      "opposite": "in one specific case",
+      "pitfall": "It can sound evasive if you use it instead of clearly stating what you will do in each situation."
+    },
+    {
+      "id": "yada-yada-yada",
+      "kind": "phrase",
+      "term": "yada, yada, yada",
+      "pos": "phrase",
+      "hint": "and so on, without every detail",
+      "register": "Casual",
+      "meaning": "Used to skip repeated or unimportant details when telling a story or giving an account.",
+      "nuance": "It sounds conversational and sometimes humorous, but it can also dismiss details the listener considers important.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Status update · giving the short version",
+          "sentence": "The schedule slipped, the supplier missed the deadline, and, yada, yada, yada, we had to delay launch.",
+          "highlight": "yada, yada, yada",
+          "tip": "Use it when the main point matters more than every detail."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up · recounting a busy week",
+          "sentence": "We had dinner, took a walk, ran into an old friend, yada, yada, yada—it was quite a day.",
+          "highlight": "yada, yada, yada",
+          "tip": "It suits relaxed storytelling rather than a careful explanation."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal email · briefly describing a delay",
+          "sentence": "There were a few last-minute issues with the venue, yada, yada, yada, but the event went ahead.",
+          "highlight": "yada, yada, yada",
+          "tip": "Keep it out of formal reports because it can appear too casual or vague."
+        }
+      ],
+      "origin": {
+        "summary": "The exact source is uncertain. It probably developed from speakers shortening long stretches of repeated wording, before becoming a familiar phrase for skipping details.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used extended repetitions such as “and so on and so on” to avoid repeating themselves."
+          },
+          {
+            "when": "20th century",
+            "text": "Shortened forms with “yada” became established in informal English, especially in speech."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase remains common in casual conversation and light writing."
+          }
+        ]
+      },
+      "similar": [
+        "and so on",
+        "and so forth",
+        "blah, blah, blah"
+      ],
+      "opposite": "to tell you everything",
+      "pitfall": "It can sound dismissive, so name any details that genuinely matter."
+    }
+  ]
+}

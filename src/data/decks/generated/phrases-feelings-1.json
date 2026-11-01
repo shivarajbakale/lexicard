@@ -1,0 +1,1484 @@
+{
+  "id": "phrases-feelings-1",
+  "kind": "phrase",
+  "name": "Feelings · 1",
+  "blurb": "25 phrases about feelings",
+  "cards": [
+    {
+      "id": "always-a-bridesmaid-never-a-bride",
+      "kind": "phrase",
+      "term": "Always a bridesmaid, never a bride",
+      "pos": "idiom",
+      "hint": "always supporting, never getting the spotlight",
+      "register": "Social and motivational",
+      "meaning": "To play a supportive role while consistently missing out on the main reward or recognition.",
+      "nuance": "It often expresses mild frustration, but it can also be humorous or self-aware. Because it refers to wedding roles, modern speakers may use it to describe any situation where someone reliably does the supporting work.",
+      "literal": "A woman is invited to attend a wedding as a bridesmaid but is never chosen to be the bride.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · acknowledging repeated support",
+          "sentence": "I organize every launch event, but I’m always a bridesmaid, never a bride when the team gets recognized.",
+          "highlight": "always a bridesmaid, never a bride",
+          "tip": "It adds humor, but consider naming the recognition you want directly."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception · reflecting on a familiar role",
+          "sentence": "I’m always a bridesmaid, never a bride, so I’ve become the expert at keeping celebrations on schedule.",
+          "highlight": "always a bridesmaid, never a bride",
+          "tip": "Use it playfully when you are comfortable being the dependable guest."
+        },
+        {
+          "setting": "writing",
+          "where": "Lighthearted team update · describing a supporting role",
+          "sentence": "I may be always a bridesmaid, never a bride, but someone has to coordinate every detail.",
+          "highlight": "always a bridesmaid, never a bride",
+          "tip": "Keep it light; this can sound resentful if the context is already serious."
+        }
+      ],
+      "origin": {
+        "summary": "The saying grew from humorous rhymes and songs about bridesmaids, who traditionally support the bride rather than take the central role. Its exact first appearance is difficult to pin down, so its broader origin is best treated as likely.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "Short comic verses about bridesmaids circulate, often contrasting their supporting role with the bride’s central role."
+          },
+          {
+            "when": "Early 20th century",
+            "text": "Variations of “always the bridesmaid, never the bride” become familiar in popular songs and conversation."
+          },
+          {
+            "when": "Today",
+            "text": "The expression is used beyond weddings for anyone who feels consistently helpful but overlooked."
+          }
+        ]
+      },
+      "similar": [
+        "always the bridesmaid, never the bride",
+        "the supporting cast",
+        "the workhorse",
+        "behind the scenes"
+      ],
+      "pitfall": "The phrase can sound self-pitying or imply that you never want a leading role, so avoid it when discussing someone else’s frustration."
+    },
+    {
+      "id": "always-the-bridesmaid-never-the-bride",
+      "kind": "phrase",
+      "term": "always the bridesmaid, never the bride",
+      "pos": "idiom",
+      "hint": "always supporting, never getting the spotlight",
+      "register": "Everyday",
+      "meaning": "To always play a supporting role while never being the main person or receiving the main benefit.",
+      "nuance": "It can sound playful and self-aware, but sometimes carries frustration about being overlooked. The wording reflects traditional wedding roles, so it may feel dated or overly gendered in some contexts.",
+      "literal": "A bridesmaid helps the bride at a wedding but is not the bride herself.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · sharing credit",
+          "sentence": "I organized the launch, but I’m always the bridesmaid, never the bride when awards are announced.",
+          "highlight": "always the bridesmaid, never the bride",
+          "tip": "Use it lightly when you want recognition without sounding openly resentful."
+        },
+        {
+          "setting": "social",
+          "where": "Friends’ trip · planning activities",
+          "sentence": "I end up handling every detail, always the bridesmaid, never the bride of the evening.",
+          "highlight": "always the bridesmaid, never the bride",
+          "tip": "It works well among friends when you’re jokingly noting that someone else takes the spotlight."
+        },
+        {
+          "setting": "writing",
+          "where": "Work anniversary message · acknowledging support",
+          "sentence": "You were always the bridesmaid, never the bride, yet your support kept the whole team moving.",
+          "highlight": "always the bridesmaid, never the bride",
+          "tip": "It can add a playful metaphor, but a direct compliment may sound more sincere."
+        }
+      ],
+      "origin": {
+        "summary": "Probably grew from the familiar contrast between a bridesmaid’s supporting role and the bride’s central role. The wording later became a popular way to describe people who regularly help others but receive less attention.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Bridesmaids were widely understood as attendants whose job was to support the bride."
+          },
+          {
+            "when": "20th century",
+            "text": "The contrasting pair became a familiar metaphor for supporting other people without being the center of attention."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in personal, workplace and humorous expressions."
+          }
+        ]
+      },
+      "similar": [
+        "supporting role",
+        "behind the scenes",
+        "never the main character"
+      ],
+      "opposite": "the main event",
+      "pitfall": "The phrase can sound self-deprecating or resentful, and its wedding imagery may feel traditional or outdated in some settings."
+    },
+    {
+      "id": "ashes-to-ashes-dust-to-dust",
+      "kind": "phrase",
+      "term": "ashes to ashes, dust to dust",
+      "pos": "phrase",
+      "hint": "a solemn reminder of death and return to the earth",
+      "register": "Formal and solemn",
+      "meaning": "A traditional funeral phrase expressing the idea that the dead return to the earth and the cycle of life continues.",
+      "nuance": "It is used at funerals, in burial services and in serious reflections on mortality. Outside a religious setting, it may sound poetic, sombre or old-fashioned.",
+      "literal": "A person’s remains go from the burning of the body to dust, and the body returns to the ground from which it came.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company memorial · honouring a colleague",
+          "sentence": "At her memorial, the family reflected on her kindness with the words, “ashes to ashes, dust to dust.”",
+          "highlight": "ashes to ashes, dust to dust",
+          "tip": "Keep the tone respectful and avoid using it as a casual metaphor at work."
+        },
+        {
+          "setting": "social",
+          "where": "Family funeral · saying farewell",
+          "sentence": "The minister spoke gently, and the congregation repeated together, “ashes to ashes, dust to dust.”",
+          "highlight": "ashes to ashes, dust to dust",
+          "tip": "Use it when the ritual or the family has established that it fits."
+        },
+        {
+          "setting": "writing",
+          "where": "Condolence message · acknowledging a death",
+          "sentence": "Her warmth will stay with everyone who knew her, even as we accept the hard truth of ashes to ashes, dust to dust.",
+          "highlight": "ashes to ashes, dust to dust",
+          "tip": "Pair it with genuine sympathy rather than making it the main message."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from Christian burial language and combines the traditional ideas of the body becoming ashes and returning as dust. Its familiar wording is preserved in the English funeral service, while the idea that human beings return to dust also echoes Genesis 3:19.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Funeral traditions developed around cremation, burial and the body’s return to dust."
+          },
+          {
+            "when": "1662",
+            "text": "The Book of Common Prayer included the committal words “earth to earth, ashes to ashes, dust to dust.”"
+          },
+          {
+            "when": "Today",
+            "text": "The shorter phrase remains common in funerals, memorials and sombre reflections on death."
+          }
+        ]
+      },
+      "similar": [
+        "dust to dust",
+        "earth to earth",
+        "rest in peace"
+      ],
+      "pitfall": "The phrase carries strong associations with death and burial, so it can sound insensitive or melodramatic if used jokingly or casually."
+    },
+    {
+      "id": "be-careful-what-you-wish-for",
+      "kind": "phrase",
+      "term": "be careful what you wish for",
+      "pos": "phrase",
+      "hint": "getting what you wanted may not be good",
+      "register": "Common in conversation",
+      "meaning": "A warning that getting something you want could lead to unexpected problems or an unwanted result.",
+      "nuance": "It can be playful, stern or sarcastic, depending on the situation. Use it when the possible downside of a wish or request is significant.",
+      "literal": "Be cautious about asking for something, because what arrives may cause trouble.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · taking on extra work",
+          "sentence": "You’re asking to lead the entire project? Be careful what you wish for.",
+          "highlight": "Be careful what you wish for",
+          "tip": "This adds light warning without directly saying the request is a bad idea."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation with a friend · weekend plans",
+          "sentence": "She asked for a quiet holiday, so I told her to be careful what she wished for.",
+          "highlight": "be careful what she wished for",
+          "tip": "Use this when the outcome may be enjoyable but more demanding than expected."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a friend · planning a celebration",
+          "sentence": "You wanted the loudest party possible, so be careful what you wish for.",
+          "highlight": "be careful what you wish for",
+          "tip": "Keep the tone friendly unless you are clearly warning someone about a serious risk."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from an old idea that spoken wishes can bring unwanted consequences. It entered everyday English through stories and sayings about dangerous wishes, with its modern form well established by the 20th century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Stories and proverbs warned that some wishes could lead to danger or misfortune."
+          },
+          {
+            "when": "19th–20th century",
+            "text": "The wording “be careful what you wish for” became established in English-language warnings."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely used in conversation, sometimes humorously and sometimes seriously."
+          }
+        ]
+      },
+      "similar": [
+        "you may get what you asked for",
+        "be careful what you ask for",
+        "the grass is greener on the other side"
+      ],
+      "opposite": "ask for the moon",
+      "pitfall": "The phrase is usually a warning after someone expresses a wish; it does not necessarily mean the wish will literally come true."
+    },
+    {
+      "id": "be-thankful-for-small-mercies",
+      "kind": "phrase",
+      "term": "be thankful for small mercies",
+      "pos": "idiom",
+      "hint": "appreciate minor reliefs from difficulty",
+      "register": "Common",
+      "meaning": "To feel grateful for small but unexpected signs of kindness, luck, or relief during a difficult situation.",
+      "nuance": "It often sounds mildly humorous, relieved, or a little weary. It works when a small convenience or good outcome feels especially welcome, though it can sound old-fashioned in very formal writing.",
+      "literal": "Being grateful for small acts of kindness or modest pieces of good fortune.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · a difficult week",
+          "sentence": "When the vendor backup held and nobody had to rebuild the report, I was thankful for small mercies.",
+          "highlight": "thankful for small mercies",
+          "tip": "Use it when genuine relief follows a stressful period."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with friends",
+          "sentence": "The rain stopped just as we reached the café, so I was thankful for small mercies.",
+          "highlight": "thankful for small mercies",
+          "tip": "It adds a self-aware, slightly humorous note to casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Personal email after travel",
+          "sentence": "The appointment was sooner than expected, and I was thankful for small mercies.",
+          "highlight": "thankful for small mercies",
+          "tip": "Use it to express understated relief, not to minimise a serious problem."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from the older idea of a “small mercy,” meaning a minor kindness or act of leniency. Its modern form combines that older wording with a more explicit attitude of gratitude.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "A “small mercy” meant a modest act of kindness, forgiveness, or relief."
+          },
+          {
+            "when": "1600s–1700s",
+            "text": "English writers used “small mercies” for welcome reliefs during difficult circumstances."
+          },
+          {
+            "when": "1800s onward",
+            "text": "The expression developed into its familiar grateful, often mildly ironic, modern form."
+          }
+        ]
+      },
+      "similar": [
+        "count your blessings",
+        "be grateful for what you have",
+        "give thanks for small things"
+      ],
+      "pitfall": "In serious hardship, this can sound flippant unless the surrounding context makes the relief genuinely minor."
+    },
+    {
+      "id": "blinded-by-nostalgia",
+      "kind": "phrase",
+      "term": "blinded by nostalgia",
+      "pos": "phrase",
+      "hint": "too focused on the past to see the present clearly",
+      "register": "Reflective and literary",
+      "meaning": "So attached to memories of the past that you overlook problems or limitations in the present.",
+      "nuance": "Often used about a person, place or relationship that once seemed better. It can be affectionate and nostalgic, or critical when the past is being used to avoid change.",
+      "literal": "Unable to see clearly because the past is dazzling, vivid or emotionally overpowering.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · comparing working models",
+          "sentence": "We were blinded by nostalgia for the old process, even though the new one saved everyone hours.",
+          "highlight": "blinded by nostalgia",
+          "tip": "Use it when examining why people prefer an outdated process."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · revisiting a former friendship",
+          "sentence": "She was blinded by nostalgia and kept calling me by the nickname we used as teenagers.",
+          "highlight": "blinded by nostalgia",
+          "tip": "It usually adds a thoughtful or slightly teasing tone."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel article · contrasting old and new neighbourhoods",
+          "sentence": "The author is not entirely blinded by nostalgia, and she acknowledges what the redevelopment has displaced.",
+          "highlight": "blinded by nostalgia",
+          "tip": "It works well for balancing affection for the past with an honest look at change."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from older expressions such as “blinded by love,” applying the idea of emotional dazzlingness to nostalgia.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Writers used “blinded by” for being unable to judge clearly because of a powerful emotion."
+          },
+          {
+            "when": "20th century onward",
+            "text": "The form “blinded by nostalgia” emerged for idealising the past while overlooking present realities."
+          },
+          {
+            "when": "Today",
+            "text": "It appears in reflective, literary and cultural criticism."
+          }
+        ]
+      },
+      "similar": [
+        "lost in nostalgia",
+        "nostalgic",
+        "s盲目ly nostalgic"
+      ],
+      "opposite": "fully engaged with the present",
+      "pitfall": "The phrase suggests distorted judgement, so it may sound too harsh when you are simply remembering something fondly."
+    },
+    {
+      "id": "bottom-drops-out",
+      "kind": "phrase",
+      "term": "bottom drops out",
+      "pos": "idiom",
+      "hint": "suddenly feel panic or lose confidence",
+      "register": "Common at work and in everyday conversation",
+      "meaning": "To suddenly panic, feel intensely frightened, or lose all confidence.",
+      "nuance": "It suggests a sharp emotional collapse rather than ordinary worry. It can describe a moment of panic or a situation that makes someone feel as though everything has become overwhelming.",
+      "literal": "The supporting surface suddenly falls away, leaving nothing solid beneath you.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · a major client changes direction",
+          "sentence": "When the client postponed the launch, I thought the bottom drops out of my stomach.",
+          "highlight": "bottom drops out",
+          "tip": "Use it for a sudden emotional reaction, not routine stress."
+        },
+        {
+          "setting": "social",
+          "where": "At a party · your friends leave unexpectedly",
+          "sentence": "Everyone went home early, and it felt like the bottom drops out of the evening.",
+          "highlight": "bottom drops out",
+          "tip": "This version can describe a situation collapsing rather than your emotions."
+        },
+        {
+          "setting": "writing",
+          "where": "Personal email · sharing alarming news",
+          "sentence": "For a moment, I felt like the bottom drops out of my world when I heard the news.",
+          "highlight": "bottom drops out",
+          "tip": "Usually use the past tense, “the bottom dropped out,” in finished writing."
+        }
+      ],
+      "origin": {
+        "summary": "The expression probably grew from a literal image of something losing its support. Writers later applied it to sudden fear, emotional shock, and situations that seemed to collapse.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal image was of a bottom or foundation suddenly giving way."
+          },
+          {
+            "when": "19th–20th centuries",
+            "text": "The expression developed figurative meanings involving fear, shock, and sudden collapse."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common for describing panic or a dramatic emotional change."
+          }
+        ]
+      },
+      "similar": [
+        "panic",
+        "freak out",
+        "hit the roof",
+        "feel like the world is ending"
+      ],
+      "pitfall": "The common form is “the bottom drops out of my stomach.” Avoid “the bottom drops out” when you mean only that something is gradually becoming less stable."
+    },
+    {
+      "id": "butter-wouldnt-melt-in-someones-mouth",
+      "kind": "phrase",
+      "term": "butter wouldn't melt in someone's mouth",
+      "pos": "idiom",
+      "hint": "looks too innocent to be guilty",
+      "register": "Everyday",
+      "meaning": "Someone appears so gentle, harmless or well behaved that they could hardly be suspected of wrongdoing.",
+      "nuance": "It often implies that a person is pretending to be innocent while hiding cunning or dishonest behaviour. It can also be used more lightly to describe someone who seems unusually polite.",
+      "literal": "The exaggerated image of butter staying firm in a warm mouth suggests that the person is too innocent or harmless to be capable of wrongdoing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · judging a colleague",
+          "sentence": "He appears helpful, but some staff think butter wouldn't melt in someone's mouth.",
+          "highlight": "butter wouldn't melt in someone's mouth",
+          "tip": "Use it when you strongly suspect someone is managing how they appear."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · describing a guest",
+          "sentence": "My friend was charming all evening; you might think butter wouldn't melt in someone's mouth.",
+          "highlight": "butter wouldn't melt in someone's mouth",
+          "tip": "The phrase can sound playful until it suggests deliberate deception."
+        },
+        {
+          "setting": "writing",
+          "where": "Opinion column · questioning a public figure",
+          "sentence": "Calling the minister harmless was like saying butter wouldn't melt in someone's mouth.",
+          "highlight": "butter wouldn't melt in someone's mouth",
+          "tip": "It conveys scepticism, so place it where the surrounding context supports that doubt."
+        }
+      ],
+      "origin": {
+        "summary": "The expression probably developed from exaggerated descriptions of innocence and harmlessness. Its exact earliest wording is uncertain, but the figurative sense was established by the 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used vivid comparisons to describe someone as exceptionally mild, innocent or harmless."
+          },
+          {
+            "when": "19th century",
+            "text": "Figurative expressions began appearing in print that compared an innocent-looking person's mouth with melting butter."
+          },
+          {
+            "when": "20th century onward",
+            "text": "The wording settled into the familiar expression used today."
+          }
+        ]
+      },
+      "similar": [
+        "too good to be true",
+        "all sweetness and light",
+        "a wolf in sheep's clothing"
+      ],
+      "opposite": "clearly up to no good",
+      "pitfall": "The phrase describes an appearance and often challenges that appearance; it does not provide proof that someone is dishonest."
+    },
+    {
+      "id": "dont-sweat-it",
+      "kind": "phrase",
+      "term": "don't sweat it",
+      "pos": "phrase",
+      "hint": "tell someone not to worry",
+      "register": "Casual",
+      "meaning": "Do not worry about a problem or situation; it is not serious enough to concern you.",
+      "nuance": "Friendly, reassuring and informal, especially useful when someone is stressed about something minor. It can sound dismissive if the problem is genuinely serious.",
+      "literal": "Do not become tense or anxious about it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague asks about a small delay",
+          "sentence": "The report is due tomorrow, not today—don't sweat it.",
+          "highlight": "don't sweat it",
+          "tip": "Use it for a manageable problem, not to brush aside a major concern."
+        },
+        {
+          "setting": "social",
+          "where": "Friend is nervous about a dinner plan",
+          "sentence": "We can order takeaway if we miss the reservation; don't sweat it.",
+          "highlight": "don't sweat it",
+          "tip": "It sounds warm and supportive when someone needs a little reassurance."
+        },
+        {
+          "setting": "writing",
+          "where": "Text message after a minor mix-up",
+          "sentence": "I found the missing file—don't sweat it.",
+          "highlight": "don't sweat it",
+          "tip": "It works in a casual message when you want to sound relaxed and kind."
+        }
+      ],
+      "origin": {
+        "summary": "The wording likely comes from the older idea of sweating as a sign of anxiety or worry. The exact first recorded use is uncertain, but the phrase became established in informal American English.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Sweating was used figuratively for feeling worried or nervous."
+          },
+          {
+            "when": "20th century",
+            "text": "The phrase settled into informal speech as a reassuring response to minor worries."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in casual American English, especially in speech and texts."
+          }
+        ]
+      },
+      "similar": [
+        "no worries",
+        "don't worry about it",
+        "it's not a big deal"
+      ],
+      "opposite": "don't take it lightly",
+      "pitfall": "Avoid saying “don't sweat it” when the person faces a serious problem, since it can make their concern feel invalid."
+    },
+    {
+      "id": "dont-worry",
+      "kind": "phrase",
+      "term": "don't worry",
+      "pos": "phrase",
+      "hint": "reassurance that things will be fine",
+      "register": "Everyday",
+      "meaning": "You do not need to be concerned, because the situation is likely to be handled or turn out well.",
+      "nuance": "It is warm and reassuring, but it can sound vague if the person has asked for advice or a real solution.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague asks about a deadline",
+          "sentence": "Don't worry, we've got enough time to finish the report properly.",
+          "highlight": "Don't worry",
+          "tip": "Follow it with a specific reassurance so it does not sound like empty reassurance."
+        },
+        {
+          "setting": "social",
+          "where": "Friend is nervous about an event",
+          "sentence": "Don't worry, everyone will be nervous at first, and it'll be fine once you arrive.",
+          "highlight": "Don't worry",
+          "tip": "This is friendly and casual; offer a practical detail if the person seems genuinely uneasy."
+        },
+        {
+          "setting": "writing",
+          "where": "Reassuring a client about a small delay",
+          "sentence": "Don't worry—we're on track to deliver the files by Friday as planned.",
+          "highlight": "Don't worry",
+          "tip": "Use it in a personal note; formal business writing often prefers “There’s no need to worry.”"
+        }
+      ],
+      "origin": {
+        "summary": "This is a modern everyday expression built from the older words “do not” and “worry.” Its reassuring use became common as spoken and informal written language expanded.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The words “worry” and “do not” were used together to advise someone not to be concerned."
+          },
+          {
+            "when": "20th century",
+            "text": "The shortened form “don't worry” became common in casual speech and informal writing."
+          },
+          {
+            "when": "Today",
+            "text": "It is used widely as a reassuring phrase, especially in everyday conversation and personal messages."
+          }
+        ]
+      },
+      "similar": [
+        "no need to worry",
+        "rest assured",
+        "it's fine"
+      ],
+      "opposite": "don't worry",
+      "pitfall": "When someone explains a serious problem, don't worry may sound dismissive; acknowledge the issue before offering reassurance."
+    },
+    {
+      "id": "ears-are-burning",
+      "kind": "phrase",
+      "term": "Ears are burning",
+      "pos": "idiom",
+      "hint": "sudden embarrassment",
+      "register": "Everyday",
+      "meaning": "You feel embarrassed because you think people are talking about you or noticing something you would rather keep private.",
+      "nuance": "It describes an instant, uncomfortable reaction to imagined attention. It can be playful or sincere, but it often suggests that the speaker feels exposed rather than simply pleased to be noticed.",
+      "literal": "The physical feeling of your ears becoming hot, usually understood as a sign of embarrassment or shame.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team chat · accidentally missing a message",
+          "sentence": "I sent the client the wrong file, and now my ears are burning.",
+          "highlight": "ears are burning",
+          "tip": "Use it to acknowledge a small embarrassment with light self-deprecation."
+        },
+        {
+          "setting": "social",
+          "where": "Leaving a gathering · realizing a mistake",
+          "sentence": "Only when I got home did I remember that I had replied to the wrong person, so my ears are burning.",
+          "highlight": "ears are burning",
+          "tip": "It adds humor when you admit an awkward mistake after the moment has passed."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message · reacting to unexpected praise",
+          "sentence": "My manager mentioned my presentation in the team meeting, and now my ears are burning.",
+          "highlight": "ears are burning",
+          "tip": "Keep it conversational; it usually works better in a message among people who know you well."
+        }
+      ],
+      "origin": {
+        "summary": "The expression likely comes from the physical sensation of hot or burning ears during embarrassment. The figurative use developed in English before the modern era and remains common in everyday speech.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People noticed that embarrassment or shame could make the ears feel hot."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers used descriptions of burning ears to express embarrassment or the feeling of being exposed."
+          },
+          {
+            "when": "Today",
+            "text": "The expression is widely understood as a quick way to describe sudden embarrassment."
+          }
+        ]
+      },
+      "similar": [
+        "my face is red",
+        "I was mortified",
+        "I feel so embarrassed",
+        "I’m dying of embarrassment"
+      ],
+      "opposite": "I’m dying of embarrassment",
+      "pitfall": "It usually means you feel embarrassed, not that you have literally harmed your ears; it is also not proof that people are talking about you."
+    },
+    {
+      "id": "for-old-times-sake",
+      "kind": "phrase",
+      "term": "for old time's sake",
+      "pos": "idiom",
+      "hint": "as a reminder of earlier days",
+      "register": "Everyday",
+      "meaning": "Doing something because it brings back memories of an earlier time or relationship.",
+      "nuance": "It often carries warm, nostalgic feelings and is especially common among family members, old friends or former colleagues.",
+      "literal": "Doing something for the sake of times that have passed.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team gathering · revisiting an old project",
+          "sentence": "We kept the original logo for old time's sake, but everyone agrees we should update it now.",
+          "highlight": "for old time's sake",
+          "tip": "Use it when nostalgia is part of the reason for keeping or repeating something."
+        },
+        {
+          "setting": "social",
+          "where": "Reunion with old friends",
+          "sentence": "We played our usual songs for old time's sake and ended up talking until midnight.",
+          "highlight": "for old time's sake",
+          "tip": "It sounds affectionate and slightly sentimental among people who share a past."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a former colleague",
+          "sentence": "I copied you on this announcement for old time's sake, since we worked together when it was first planned.",
+          "highlight": "for old time's sake",
+          "tip": "It gives a personal touch when marking a shared memory without dwelling on it."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely grew from the older expression “old times,” meaning earlier days. Its sentimental sense became established in the 19th century and later became common in personal and social speech.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Old times” referred broadly to the past, especially times remembered with affection."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression developed into a familiar way of justifying something nostalgic or traditional."
+          },
+          {
+            "when": "Today",
+            "text": "It is used to explain affectionate gestures toward earlier experiences or shared memories."
+          }
+        ]
+      },
+      "similar": [
+        "for old times' sake",
+        "to reminisce",
+        "out of nostalgia",
+        "for sentimental reasons"
+      ],
+      "pitfall": "The more traditional wording is “for old times' sake”; “for old time's sake” is a less usual variant."
+    },
+    {
+      "id": "green-with-envy",
+      "kind": "phrase",
+      "term": "green with envy",
+      "pos": "idiom",
+      "hint": "jealous of what someone else has",
+      "register": "Everyday",
+      "meaning": "Feeling jealous because someone else has something you want.",
+      "nuance": "It emphasizes a strong, visible sense of jealousy or desire for what another person has. It can sound playful among friends but slightly dramatic in formal settings.",
+      "literal": "Looking pale or ill with a greenish color caused by envy.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Promotion announcement · reacting to a colleague",
+          "sentence": "She was green with envy when she heard that her teammate had won the award.",
+          "highlight": "green with envy",
+          "tip": "Use it about feelings, not as a direct criticism of the colleague."
+        },
+        {
+          "setting": "social",
+          "where": "Friends comparing holidays",
+          "sentence": "I was green with envy when they showed photos of their sunlit weekend away.",
+          "highlight": "green with envy",
+          "tip": "It works well in a lighthearted conversation when admitting jealousy."
+        },
+        {
+          "setting": "writing",
+          "where": "Personal message · sharing a reaction",
+          "sentence": "I know it sounds silly, but I was absolutely green with envy of her new kitchen.",
+          "highlight": "green with envy",
+          "tip": "Pair it with “of” plus the person or thing you envy."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from the idea that extreme jealousy could make someone look pale or sickly. Its exact first use is uncertain, but similar wording appears in older English.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Older expressions associated jealousy with changes in a person's complexion."
+          },
+          {
+            "when": "19th century",
+            "text": "Writers used variations describing someone as green, pale or sick with envy."
+          },
+          {
+            "when": "Today",
+            "text": "The fixed phrase remains common in everyday conversation."
+          }
+        ]
+      },
+      "similar": [
+        "jealous",
+        "envious",
+        "covetous",
+        "begrudging"
+      ],
+      "opposite": "content",
+      "pitfall": "Usually describe the envious person, not the person being envied: “I was green with envy of her success.”"
+    },
+    {
+      "id": "heres-luck",
+      "kind": "phrase",
+      "term": "here's luck",
+      "pos": "phrase",
+      "hint": "a good wish before something difficult",
+      "register": "Casual",
+      "meaning": "A friendly wish for someone to have a successful outcome.",
+      "nuance": "It is especially used before a performance, competition, interview or other challenging event. In British, Irish and Australian speech, it can sound warmer and more personal than “good luck.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Before a colleague’s presentation",
+          "sentence": "Here’s luck with your presentation this afternoon.",
+          "highlight": "Here’s luck",
+          "tip": "Use it when the person is about to face a demanding task."
+        },
+        {
+          "setting": "social",
+          "where": "Supporting a friend before a talent show",
+          "sentence": "Here’s luck—you’re going to be brilliant up there.",
+          "highlight": "Here’s luck",
+          "tip": "A dash lets you add encouragement without interrupting the well-wish."
+        },
+        {
+          "setting": "writing",
+          "where": "Message before a friend’s job interview",
+          "sentence": "Here’s luck with the interview—I’m sure you’ll do well.",
+          "highlight": "Here’s luck",
+          "tip": "It sounds friendly but slightly more personal than a formal “good luck.”"
+        }
+      ],
+      "origin": {
+        "summary": "A shortened form of “here’s luck to you,” used as a cheerful wish of success. The expression is especially associated with British and Irish speech.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The older wish “luck to you” expresses the hope that an outcome will be favourable."
+          },
+          {
+            "when": "1800s",
+            "text": "The shortened form “here’s luck” appears in English speech and writing."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a warm, informal way to wish someone success before a difficult event."
+          }
+        ]
+      },
+      "similar": [
+        "good luck",
+        "best of luck",
+        "fingers crossed"
+      ],
+      "opposite": "bad luck",
+      "pitfall": "It is most natural before an event; after an unsuccessful outcome, people usually say “better luck next time.”"
+    },
+    {
+      "id": "i-feel-you",
+      "kind": "phrase",
+      "term": "I feel you",
+      "pos": "phrase",
+      "hint": "I understand how you feel",
+      "register": "Everyday",
+      "meaning": "To say that you understand someone’s feelings, situation or point of view.",
+      "nuance": "It is warm, informal and supportive, though it can also show casual agreement. It works best when you acknowledge the person’s experience or explain what you understand.",
+      "literal": "Sharing someone else’s feelings.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team check-in · a colleague sounds overwhelmed",
+          "sentence": "I feel you—the extra client requests have made this week ridiculously busy.",
+          "highlight": "I feel you",
+          "tip": "Follow it with a specific observation so it does not sound like empty reassurance."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with a friend · someone cancels a plan",
+          "sentence": "I feel you; after the trip you had, I would have wanted to cancel something too.",
+          "highlight": "I feel you",
+          "tip": "It sounds conversational and caring, especially among people who already know each other."
+        },
+        {
+          "setting": "writing",
+          "where": "Reply to a friend’s message",
+          "sentence": "I feel you, especially if you had to deal with the train cancellation on your own.",
+          "highlight": "I feel you",
+          "tip": "Keep it brief in a message, then add a question or a helpful suggestion if you want to continue the conversation."
+        }
+      ],
+      "origin": {
+        "summary": "The wording is literal, but its conversational use as a sign of empathy developed from broader everyday expressions of shared feelings.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal sense means sharing another person’s feelings."
+          },
+          {
+            "when": "Late 20th century",
+            "text": "The expression becomes established in casual English as a way to show understanding."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in everyday speech, online messages and supportive responses."
+          }
+        ]
+      },
+      "similar": [
+        "I understand",
+        "I get it",
+        "I know exactly what you mean"
+      ],
+      "opposite": "I don’t follow",
+      "pitfall": "It can sound vague or slightly dismissive if you do not make clear what you understand about the other person’s experience."
+    },
+    {
+      "id": "i-wish",
+      "kind": "phrase",
+      "term": "I wish",
+      "pos": "phrase",
+      "hint": "a desire that may not be possible",
+      "register": "Everyday",
+      "meaning": "Used to express a hope, regret or wish for something that is not possible or is unlikely to happen.",
+      "nuance": "It can sound sincere, nostalgic or frustrated depending on the context. In a work setting, it may seem passive, so pair it with a clear request when you need action.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · limited time",
+          "sentence": "I wish we had more time to review the figures before the meeting.",
+          "highlight": "I wish",
+          "tip": "After expressing regret, state what you need in a direct, polite way."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation with a friend",
+          "sentence": "I wish you’d told me earlier, but I completely understand why you couldn’t.",
+          "highlight": "I wish",
+          "tip": "Use it to begin gently when raising a disappointment with someone."
+        },
+        {
+          "setting": "writing",
+          "where": "Email about a deadline",
+          "sentence": "I wish we could move the deadline, but the delivery date has to stay.",
+          "highlight": "I wish",
+          "tip": "Keep it honest but soft; follow it with the reason and next step."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase grew from the English verb wish, which has long been used for hoping for or asking for something.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The ancestor of wish was used for hoping, praying or wanting something to happen."
+          },
+          {
+            "when": "Middle English period",
+            "text": "Wish became common in statements expressing hope, desire and regret."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase “I wish” remains a natural everyday way to talk about unreal or unlikely possibilities."
+          }
+        ]
+      },
+      "similar": [
+        "I hope",
+        "if only",
+        "I would love"
+      ],
+      "opposite": "I’m glad",
+      "pitfall": "In professional messages, “I wish” can sound passive or indirect, so add a specific request or explanation."
+    },
+    {
+      "id": "in-sickness-and-in-health",
+      "kind": "phrase",
+      "term": "in sickness and in health",
+      "pos": "phrase",
+      "hint": "through good times and bad",
+      "register": "Formal",
+      "meaning": "Remaining faithful to someone through both difficult times and happy times.",
+      "nuance": "It expresses lasting loyalty, especially in marriage, and can also be used more broadly for committed relationships. The traditional wording sounds ceremonial and personal.",
+      "literal": "The person stays with their partner whether they are ill or healthy.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team update · supporting a colleague",
+          "sentence": "We’re all in this together, in sickness and in health, and we’ll keep sharing the workload.",
+          "highlight": "in sickness and in health",
+          "tip": "Use it to signal dependable teamwork, not to dismiss someone’s illness."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding toast · celebrating a couple",
+          "sentence": "Here’s to a marriage that stands in sickness and in health, with patience, trust and plenty of laughter.",
+          "highlight": "in sickness and in health",
+          "tip": "This is especially familiar in wedding vows and toasts."
+        },
+        {
+          "setting": "writing",
+          "where": "Wedding message · celebrating the couple",
+          "sentence": "Wishing you a life together in sickness and in health, filled with love, understanding and joyful memories.",
+          "highlight": "in sickness and in health",
+          "tip": "It suits a heartfelt message but can sound formal or traditional."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the traditional Christian marriage vow promising love and faithfulness during illness and health. Its exact wording developed through different versions of the Book of Common Prayer and other religious texts.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1549",
+            "text": "The Book of Common Prayer uses the vow “in sickness and in health” in its marriage service."
+          },
+          {
+            "when": "Earlier",
+            "text": "Related wording appeared in medieval English marriage vows, though earlier versions were not identical."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase remains part of many wedding vows and is also used figuratively to express lasting loyalty."
+          }
+        ]
+      },
+      "similar": [
+        "for better or worse",
+        "through thick and thin",
+        "in good times and bad"
+      ],
+      "opposite": "only in good times",
+      "pitfall": "Because it comes from marriage vows, using it about friends or colleagues may sound overly dramatic unless the relationship is genuinely close."
+    },
+    {
+      "id": "no-big-deal",
+      "kind": "phrase",
+      "term": "no big deal",
+      "pos": "phrase",
+      "hint": "not something important",
+      "register": "Casual",
+      "meaning": "Something that is not important or worth worrying about.",
+      "nuance": "It reassures someone that a minor issue does not matter. It is informal and may sound dismissive if the other person is genuinely upset.",
+      "literal": "The matter is not a serious problem.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague apologising for a small delay",
+          "sentence": "The report was ten minutes late, but it’s no big deal.",
+          "highlight": "no big deal",
+          "tip": "Use it to reassure a colleague about a minor inconvenience."
+        },
+        {
+          "setting": "social",
+          "where": "Friend changing the dinner plan",
+          "sentence": "If you can’t make it, that’s no big deal—we can reschedule.",
+          "highlight": "no big deal",
+          "tip": "It sounds friendly when the inconvenience is genuinely small."
+        },
+        {
+          "setting": "writing",
+          "where": "Casual message about a minor change",
+          "sentence": "I’ve moved our coffee to three o’clock; it’s no big deal if that no longer works.",
+          "highlight": "no big deal",
+          "tip": "It suits informal messages, but avoid it when the issue needs attention."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from everyday talk about whether something was a serious matter. Its current meaning is informal and well established.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used variations of “big deal” to ask whether something mattered."
+          },
+          {
+            "when": "20th century",
+            "text": "“No big deal” became a common informal way to dismiss a minor matter."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely used in casual American and British English."
+          }
+        ]
+      },
+      "similar": [
+        "not a big deal",
+        "no problem",
+        "it doesn’t matter",
+        "not a serious issue"
+      ],
+      "opposite": "a big deal",
+      "pitfall": "Avoid saying “no big deal” when the other person is distressed or the problem clearly needs attention."
+    },
+    {
+      "id": "no-hard-feelings",
+      "kind": "phrase",
+      "term": "no hard feelings",
+      "pos": "phrase",
+      "hint": "not upset after a disagreement",
+      "register": "Common at work and in casual conversation",
+      "meaning": "A reassurance that you are not angry or personally offended by something someone has said or done.",
+      "nuance": "It is usually friendly and conciliatory, often used after disagreement, criticism or a failed negotiation. It may sound slightly formal in some casual settings, where “all good” or “no worries” can feel more natural.",
+      "literal": "Someone has hurt another person’s feelings, but the person says there is no lasting anger or resentment.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "After a tense project review",
+          "sentence": "I’m sorry the feedback was direct, but no hard feelings—we both want this launch to succeed.",
+          "highlight": "no hard feelings",
+          "tip": "Use it to ease tension after criticism or disagreement."
+        },
+        {
+          "setting": "social",
+          "where": "After cancelling a shared plan",
+          "sentence": "I know you were looking forward to dinner, but no hard feelings—we can reschedule for next week.",
+          "highlight": "no hard feelings",
+          "tip": "It reassures someone that you are not upset while leaving the door open."
+        },
+        {
+          "setting": "writing",
+          "where": "Message after a disagreement",
+          "sentence": "We approached the proposal differently, but there are no hard feelings between us.",
+          "highlight": "no hard feelings",
+          "tip": "It can soften a message, but consider naming the disagreement more directly."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the older expression “hard feelings,” meaning anger or resentment. Its exact first recorded use is uncertain, but it was established long before it became common in modern conversation.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression “hard feelings” referred to anger, dislike or lasting resentment between people."
+          },
+          {
+            "when": "19th century",
+            "text": "“No hard feelings” appeared as a way of denying or dismissing lasting resentment."
+          },
+          {
+            "when": "Today",
+            "text": "It is a familiar reassurance after arguments, criticism and broken plans."
+          }
+        ]
+      },
+      "similar": [
+        "no hard feelings between us",
+        "all good",
+        "no worries",
+        "not offended"
+      ],
+      "opposite": "hard feelings",
+      "pitfall": "Saying “no hard feelings” does not automatically repair a relationship; acknowledge the other person’s perspective if the disagreement mattered."
+    },
+    {
+      "id": "not-feeling-it",
+      "kind": "phrase",
+      "term": "not feeling it",
+      "pos": "phrase",
+      "hint": "low enthusiasm or conviction",
+      "register": "Casual",
+      "meaning": "Not enthusiastic, interested or convinced about something at the moment.",
+      "nuance": "Often used to describe a lack of motivation or emotional connection. It can sound honest and relaxed, but too much use may suggest disengagement rather than a thoughtful objection.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team check-in · proposed task",
+          "sentence": "Honestly, I’m just not feeling it today, so could we postpone the presentation until tomorrow?",
+          "highlight": "not feeling it",
+          "tip": "Pair it with a practical alternative so it doesn’t sound like a refusal to help."
+        },
+        {
+          "setting": "social",
+          "where": "Inviting friends · choosing plans",
+          "sentence": "I’m not feeling it tonight, but send me the photos if you all go out.",
+          "highlight": "not feeling it",
+          "tip": "Use it when your energy is low rather than when you strongly dislike the plan."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a friend · declining an invite",
+          "sentence": "Thanks for inviting me, but I’m not feeling it, so I’ll sit this one out.",
+          "highlight": "not feeling it",
+          "tip": "It works in casual messages; give a clearer reason in formal communication."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from the ordinary phrase “not feel it,” meaning not experiencing an emotion, sensation or strong inclination. Its modern use became especially common in informal speech.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal idea is not experiencing a feeling or sensation."
+          },
+          {
+            "when": "20th century",
+            "text": "Casual usage expands to mean lacking enthusiasm, interest or conviction."
+          },
+          {
+            "when": "Today",
+            "text": "Common in relaxed conversations about mood, motivation and social plans."
+          }
+        ]
+      },
+      "similar": [
+        "not into it",
+        "not up for it",
+        "not my thing",
+        "lacking enthusiasm"
+      ],
+      "opposite": "feeling it",
+      "pitfall": "It can sound vague. If you need someone to understand a decision clearly, explain what you do not feel enthusiastic about."
+    },
+    {
+      "id": "not-saying-much",
+      "kind": "phrase",
+      "term": "not saying much",
+      "pos": "phrase",
+      "hint": "speaking very little",
+      "register": "Everyday",
+      "meaning": "Speaking only a little, often because you are quiet, reserved or have little to contribute.",
+      "nuance": "This can sound neutral and descriptive, but it may imply that someone is unusually quiet or has little to say. In a work context, it can sometimes suggest that a person is holding back an opinion.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing a proposal",
+          "sentence": "Maya was not saying much, so I asked whether she had concerns about the new schedule.",
+          "highlight": "not saying much",
+          "tip": "Use it to describe someone’s level of participation, but ask directly if you need their view."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · quiet guest",
+          "sentence": "He was not saying much at first, but he opened up once the topic turned to music.",
+          "highlight": "not saying much",
+          "tip": "This is a gentle way to note that someone is quiet without making it sound like criticism."
+        },
+        {
+          "setting": "writing",
+          "where": "Meeting notes · evaluating feedback",
+          "sentence": "The client was not saying much during the call, although she clearly wanted time to review the proposal.",
+          "highlight": "not saying much",
+          "tip": "Use it when the amount of speech matters, not when you want to record someone’s exact words."
+        }
+      ],
+      "origin": {
+        "summary": "This is an ordinary English phrase made from a negative form of “say much,” rather than a fixed idiom with a clear origin.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression developed from the plain-language idea that a person “says little” or “does not say much.”"
+          },
+          {
+            "when": "19th century",
+            "text": "Similar constructions using “not saying much” appear in ordinary written and spoken English."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common everyday expression for describing quiet or limited participation."
+          }
+        ]
+      },
+      "similar": [
+        "saying little",
+        "being quiet",
+        "holding back",
+        "saying very little"
+      ],
+      "opposite": "having a lot to say",
+      "pitfall": "It can sound like a judgment, so pair it with context when describing someone who is simply thinking or taking time to respond."
+    },
+    {
+      "id": "not-to-worry",
+      "kind": "phrase",
+      "term": "not to worry",
+      "pos": "phrase",
+      "hint": "reassurance that something is fine",
+      "register": "Everyday",
+      "meaning": "A reassuring way to tell someone that there is no need to feel concerned.",
+      "nuance": "Warm and casual, it is often used when someone mentions a problem or worry. It can also sound a little dismissive if you do not acknowledge the concern first.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague mentions a minor delay",
+          "sentence": "The report will arrive a little late, but there’s not to worry; the deadline is still Friday.",
+          "highlight": "not to worry",
+          "tip": "Use it when you can reassure the person with clear information."
+        },
+        {
+          "setting": "social",
+          "where": "Friend mentions missing a train",
+          "sentence": "You’ll still get there before the party starts, so not to worry.",
+          "highlight": "not to worry",
+          "tip": "This sounds friendly and informal, especially with people you know well."
+        },
+        {
+          "setting": "writing",
+          "where": "Quick message after a misunderstanding",
+          "sentence": "There’s not to worry about the invoice; I’ll check the payment and let you know today.",
+          "highlight": "not to worry",
+          "tip": "Pair it with a concrete next step so it does not sound dismissive."
+        }
+      ],
+      "origin": {
+        "summary": "This phrase likely developed from the older expression “no need to worry,” with “not” replacing “no need” in everyday speech.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression “no need to worry” was used to offer reassurance."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "Shortened forms such as “not to worry” became common in informal English."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a casual way to reassure someone in conversation and writing."
+          }
+        ]
+      },
+      "similar": [
+        "no need to worry",
+        "don’t worry",
+        "nothing to worry about",
+        "it’s all right"
+      ],
+      "opposite": "something to worry about",
+      "pitfall": "Avoid saying “not to worry” when the situation is serious or the other person wants empathy rather than reassurance."
+    },
+    {
+      "id": "on-the-brink",
+      "kind": "phrase",
+      "term": "on the brink",
+      "pos": "idiom",
+      "hint": "very close to happening",
+      "register": "Common in formal writing and conversation",
+      "meaning": "Very close to reaching a serious or important point, especially a crisis or major change.",
+      "nuance": "It adds drama and signals that action is urgent. It is often followed by “of” and a noun, such as “on the brink of collapse.”",
+      "literal": "Balanced at the edge of something, such as a cliff, with a steep drop below.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Operations meeting · escalating outage",
+          "sentence": "Our payment system is on the brink of failing, so we need technical support now.",
+          "highlight": "on the brink",
+          "tip": "Use it to stress urgency, then follow with the action needed."
+        },
+        {
+          "setting": "social",
+          "where": "Late-night conversation · discussing a disagreement",
+          "sentence": "We were on the brink of arguing, but she apologised before the conversation got worse.",
+          "highlight": "on the brink",
+          "tip": "This version can describe the moment just before conflict or another event."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · financial uncertainty",
+          "sentence": "The small business is on the brink of closure after months of falling sales.",
+          "highlight": "on the brink",
+          "tip": "It works well in reporting because it clearly signals an imminent outcome."
+        }
+      ],
+      "origin": {
+        "summary": "The expression probably grew from the literal image of someone standing at the edge of a cliff or precipice. Its figurative use for being close to a crisis developed from that danger and suspense.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal expression referred to being positioned at the edge of a steep drop."
+          },
+          {
+            "when": "1600s–1700s",
+            "text": "Writers began using the image to describe situations involving extreme danger or uncertainty."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly means that something serious is about to happen, especially a crisis or collapse."
+          }
+        ]
+      },
+      "similar": [
+        "on the edge",
+        "on the verge",
+        "close to the point of",
+        "at the precipice"
+      ],
+      "opposite": "far from happening",
+      "pitfall": "Usually use “on the brink of” before a noun or gerund: “on the brink of shutting down,” not “on the brink to shut down.”"
+    },
+    {
+      "id": "ones-heart-out",
+      "kind": "phrase",
+      "term": "one's heart out",
+      "pos": "idiom",
+      "hint": "expressing deep feelings without restraint",
+      "register": "Common at work and in conversation",
+      "meaning": "To express one’s deepest feelings fully and without holding back.",
+      "nuance": "It suggests an intense, sincere emotional release, often involving speech, music or creativity. It can sound heartfelt, though it may feel dramatic in ordinary situations.",
+      "literal": "Taking one’s heart out and exposing it, as if revealing every feeling inside.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · sharing a difficult experience",
+          "sentence": "During the review, she poured her heart out about the problems she had faced.",
+          "highlight": "her heart out",
+          "tip": "It suits a sincere personal account rather than a brief status update."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up · hearing a friend’s news",
+          "sentence": "He poured his heart out about how much he had missed his family.",
+          "highlight": "his heart out",
+          "tip": "Use it when the speaker is being unusually open or emotional."
+        },
+        {
+          "setting": "writing",
+          "where": "Personal message · thanking someone",
+          "sentence": "I poured my heart out in the letter because I wanted her to know how grateful I was.",
+          "highlight": "my heart out",
+          "tip": "It adds warmth and emotional weight, so avoid it in routine messages."
+        }
+      ],
+      "origin": {
+        "summary": "The image probably comes from expressions such as “cry your heart out” and “scream your heart out,” in which a person’s deepest emotions are imagined as coming directly from the heart.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Similar wording appeared in expressions about crying or speaking from the heart."
+          },
+          {
+            "when": "20th century",
+            "text": "Forms such as “pour your heart out” became common for intense emotional expression."
+          },
+          {
+            "when": "Today",
+            "text": "People use it for heartfelt conversations, creative work and emotional performances."
+          }
+        ]
+      },
+      "similar": [
+        "pour your heart out",
+        "from the bottom of your heart",
+        "open your heart",
+        "bare your soul"
+      ],
+      "opposite": "keep your feelings to yourself",
+      "pitfall": "“One’s heart out” normally appears in a fuller phrase such as “pour one’s heart out” or “with all one’s heart out,” rather than standing alone."
+    },
+    {
+      "id": "sell-oneself-short",
+      "kind": "phrase",
+      "term": "sell oneself short",
+      "pos": "idiom",
+      "hint": "undervalue your own worth",
+      "register": "Common at work",
+      "meaning": "To present your abilities, value or prospects as lower than they really are.",
+      "nuance": "It describes being too modest, self-doubting or unwilling to claim what you bring. It often appears when discussing pay, promotion, qualifications or an application.",
+      "literal": "To sell your worth for less than it is actually worth.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Salary discussion · asking for a raise",
+          "sentence": "Don’t sell yourself short by accepting less than the role and your experience require.",
+          "highlight": "sell yourself short",
+          "tip": "Use it to encourage someone to state their value clearly and confidently."
+        },
+        {
+          "setting": "social",
+          "where": "Friendly advice · career change",
+          "sentence": "You’re skilled enough for that role, so try not to sell yourself short when you introduce yourself.",
+          "highlight": "sell yourself short",
+          "tip": "It works well as warm encouragement, but avoid making someone feel defensive."
+        },
+        {
+          "setting": "writing",
+          "where": "Cover email · applying for a job",
+          "sentence": "Describe the scope of your work without selling yourself short or apologising for your experience.",
+          "highlight": "selling yourself short",
+          "tip": "In this form, the highlight must match the exact wording used in the sentence."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from older trade-related language about selling goods below their value, then extended to people understating their abilities or prospects.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression “sell short” referred to selling something for less than its usual or fair value."
+          },
+          {
+            "when": "19th century",
+            "text": "People began using the idea of selling below value figuratively when speaking about personal chances or worth."
+          },
+          {
+            "when": "Today",
+            "text": "“Sell oneself short” is common advice about presenting your abilities and negotiating your value."
+          }
+        ]
+      },
+      "similar": [
+        "undersell yourself",
+        "put yourself down",
+        "sell yourself"
+      ],
+      "opposite": "sell yourself short",
+      "pitfall": "Some modesty can sound polite, but this phrase points to a real risk of being paid less, overlooked or hired for the wrong role."
+    }
+  ]
+}

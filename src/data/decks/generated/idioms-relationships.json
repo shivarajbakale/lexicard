@@ -1,0 +1,838 @@
+{
+  "id": "idioms-relationships",
+  "kind": "idiom",
+  "name": "Relationships",
+  "blurb": "14 idioms about relationships",
+  "cards": [
+    {
+      "id": "arms-length",
+      "kind": "idiom",
+      "term": "arm's length",
+      "pos": "idiom",
+      "hint": "maintain a careful distance",
+      "register": "Formal",
+      "meaning": "To keep a relationship, situation, or responsibility deliberately separate from yourself.",
+      "nuance": "It suggests staying uninvolved, cautious, or professionally detached. Use it when you want to limit emotional closeness, personal responsibility, or direct involvement.",
+      "literal": "At a distance of an outstretched arm.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Partnership review · setting boundaries",
+          "sentence": "We should keep the partnership at arm's length until the contract is signed.",
+          "highlight": "at arm's length",
+          "tip": "Often used when limiting involvement or avoiding responsibility."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · staying detached",
+          "sentence": "He kept the conversation at arm's length because he did not want to get involved.",
+          "highlight": "at arm's length",
+          "tip": "Shows emotional distance rather than physical distance."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · describing control",
+          "sentence": "The company maintains its investments at arm's length to limit direct control.",
+          "highlight": "at arm's length",
+          "tip": "Common in formal and financial writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the image of someone staying far enough away to avoid danger or interference. Its figurative sense developed as a way of describing deliberate distance in relationships and dealings.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "English uses the wording 'at arm's length' for a physical distance that allows safety or escape."
+          },
+          {
+            "when": "1800s",
+            "text": "The figurative meaning expands to describe keeping relationships, responsibilities, or business dealings separate."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly means maintaining a cautious or professionally detached position."
+          }
+        ]
+      },
+      "similar": [
+        "keep your distance",
+        "stand aloof",
+        "detached",
+        "at a distance"
+      ],
+      "pitfall": "It usually describes a deliberate lack of closeness or involvement, not merely physical space."
+    },
+    {
+      "id": "birds-of-a-feather",
+      "kind": "idiom",
+      "term": "birds of a feather",
+      "pos": "idiom",
+      "hint": "people who are alike",
+      "register": "Everyday",
+      "meaning": "People who have similar interests, habits, backgrounds, or personalities tend to associate with one another.",
+      "nuance": "It is friendly and often slightly teasing. Use it to point out that a group’s members have something notable in common.",
+      "literal": "Birds with the same kind of feathers gather together.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team lunch · discussing shared interests",
+          "sentence": "My colleagues are all cycling fanatics, so they are birds of a feather.",
+          "highlight": "birds of a feather",
+          "tip": "Often used when describing a group of colleagues or friends."
+        },
+        {
+          "setting": "social",
+          "where": "Party · meeting a similar friend",
+          "sentence": "We bonded over obscure films; birds of a feather really do flock together.",
+          "highlight": "birds of a feather",
+          "tip": "The added phrase ‘flock together’ reinforces the idea of grouping together."
+        },
+        {
+          "setting": "writing",
+          "where": "Community article · explaining a shared interest",
+          "sentence": "The club brings together photographers and artists, since birds of a feather naturally find one another.",
+          "highlight": "birds of a feather",
+          "tip": "Works well when explaining why people form a social or professional group."
+        }
+      ],
+      "origin": {
+        "summary": "The saying comes from the older proverb ‘birds of a feather flock together.’ It draws on the obvious fact that similar birds are likely to be found in the same group.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1700s",
+            "text": "The proverb ‘birds of a feather flock together’ appears in early collections of familiar sayings."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "The shorter expression ‘birds of a feather’ becomes established in English."
+          },
+          {
+            "when": "Today",
+            "text": "It describes people who share noticeable traits and choose one another’s company."
+          }
+        ]
+      },
+      "similar": [
+        "like attracts like",
+        "birds of a feather flock together",
+        "the same wavelength",
+        "kindred spirits"
+      ],
+      "opposite": "strange bedfellows",
+      "pitfall": "Usually refers to people with a shared trait, not to physically similar birds or objects."
+    },
+    {
+      "id": "blood-is-thicker-than-water",
+      "kind": "idiom",
+      "term": "blood is thicker than water",
+      "pos": "idiom",
+      "hint": "family loyalty comes first",
+      "register": "Everyday",
+      "meaning": "Family relationships and shared loyalties can be stronger than obligations to friends, colleagues or other groups.",
+      "nuance": "It suggests that people may favour relatives or close family ties even when doing so creates conflict. It is often used warmly, but sometimes implies that someone is being unfairly partial.",
+      "literal": "Blood represents family ties, while water represents other relationships or loyalties.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · choosing between relatives",
+          "sentence": "He knew the supplier’s sister was on another team, but blood is thicker than water.",
+          "highlight": "blood is thicker than water",
+          "tip": "Can point out divided loyalties without sounding directly accusatory."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · explaining the host’s choice",
+          "sentence": "I wasn’t surprised she invited her brother first; blood is thicker than water.",
+          "highlight": "blood is thicker than water",
+          "tip": "Often used affectionately when describing strong family loyalty."
+        },
+        {
+          "setting": "writing",
+          "where": "Community news · local dispute",
+          "sentence": "Residents accused the council of favouring families with connections, as blood is thicker than water.",
+          "highlight": "blood is thicker than water",
+          "tip": "Useful when discussing nepotism, favouritism or divided loyalties."
+        }
+      ],
+      "origin": {
+        "summary": "The proverb likely grew from older sayings that contrasted family ties with friendship or other loyalties. Its precise first use is difficult to establish, although the familiar wording is documented by the early 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Older European proverb traditions compared the strength of kinship with other bonds."
+          },
+          {
+            "when": "Early 1800s",
+            "text": "The familiar wording begins appearing in English proverb collections."
+          },
+          {
+            "when": "Today",
+            "text": "It means that family loyalty may outweigh friendship, workplace duty or impartial judgement."
+          }
+        ]
+      },
+      "similar": [
+        "family comes first",
+        "blood ties",
+        "we are family"
+      ],
+      "opposite": "blood is thinner than water",
+      "pitfall": "It does not mean that relatives are always right; it highlights the pull of family loyalty."
+    },
+    {
+      "id": "bull-in-a-china-shop",
+      "kind": "idiom",
+      "term": "bull in a china shop",
+      "pos": "idiom",
+      "hint": "clumsy in a delicate place",
+      "register": "Common at work",
+      "meaning": "A person who behaves roughly or carelessly in a place where delicacy and caution are needed.",
+      "nuance": "It suggests someone is disruptive, clumsy, or insensitive to the situation. It can describe a person or their actions and is often used humorously but critically.",
+      "literal": "A bull knocking over valuable china and breaking it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · sensitive client issue",
+          "sentence": "He went in like a bull in a china shop and upset half the room.",
+          "highlight": "bull in a china shop",
+          "tip": "Describes forceful or careless behaviour where people expect tact."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception · delicate family drama",
+          "sentence": "My uncle was a bull in a china shop, so we asked him not to give a speech.",
+          "highlight": "bull in a china shop",
+          "tip": "Often humorous when describing someone socially indiscreet."
+        },
+        {
+          "setting": "writing",
+          "where": "Team debrief · reviewing a launch",
+          "sentence": "Without a clear plan, the campaign risked becoming a bull in a china shop.",
+          "highlight": "bull in a china shop",
+          "tip": "Can describe a disruptive approach as well as a disruptive person."
+        }
+      ],
+      "origin": {
+        "summary": "The image comes from the traditional danger of a bull among fragile china goods. The earliest known wording dates to the early 1700s, with later versions using china shop.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Early 1700s",
+            "text": "A version describing a bull as dangerous in a china shop appears in a handbook about horsemanship."
+          },
+          {
+            "when": "1732",
+            "text": "Jonathan Swift uses the expression to describe someone whose forceful manners could destroy social harmony."
+          },
+          {
+            "when": "Today",
+            "text": "Means being clumsy, disruptive, or insensitive in a delicate setting."
+          }
+        ]
+      },
+      "similar": [
+        "Elephant in the room",
+        "Wild card",
+        "Troublemaker"
+      ],
+      "pitfall": "Use it for carelessness or disruption, not simply someone who is energetic or enthusiastic."
+    },
+    {
+      "id": "cup-of-tea",
+      "kind": "idiom",
+      "term": "cup of tea",
+      "pos": "idiom",
+      "hint": "something you find appealing",
+      "register": "Casual",
+      "meaning": "A person or thing that you find pleasant or appealing.",
+      "nuance": "Common in British and Irish English and often used negatively, as in “not everyone’s cup of tea.” It sounds light and conversational rather than deeply insulting.",
+      "literal": "A cup of warm tea, a familiar everyday drink.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team introductions · new colleague",
+          "sentence": "I thought the new designer was a bit of a cup of tea, but she turned out to be excellent.",
+          "highlight": "cup of tea",
+          "tip": "Usually appears in negative or qualified statements."
+        },
+        {
+          "setting": "social",
+          "where": "Discussing new people · party",
+          "sentence": "He seemed friendly, but he wasn’t really everyone’s cup of tea.",
+          "highlight": "everyone’s cup of tea",
+          "tip": "A mild way of saying some people may not like him."
+        },
+        {
+          "setting": "writing",
+          "where": "Film review · describing a character",
+          "sentence": "The warm, eccentric neighbour may not be everyone’s cup of tea, but she brings charm to the film.",
+          "highlight": "everyone’s cup of tea",
+          "tip": "Useful for a light, conversational critical comment."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed in British English during the early-to-mid 1900s. Its exact starting point is uncertain, but the idea was well established by the 1950s, especially in expressions such as “not everyone’s cup of tea.”",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1900s",
+            "text": "British speakers begin using “cup of tea” informally for a person or thing that is appealing."
+          },
+          {
+            "when": "1950s",
+            "text": "Forms including “not everyone’s cup of tea” become established in popular usage."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase remains common in casual British and Irish English."
+          }
+        ]
+      },
+      "similar": [
+        "not everyone’s cup of tea",
+        "to my taste",
+        "my kind of person"
+      ],
+      "opposite": "not my thing",
+      "pitfall": "It is usually negative or qualified; saying someone is “a cup of tea” is far less common than saying they are “not everyone’s cup of tea.”"
+    },
+    {
+      "id": "fall-for",
+      "kind": "idiom",
+      "term": "fall for",
+      "pos": "phrasal verb",
+      "hint": "be tricked—or become attracted",
+      "register": "Everyday",
+      "meaning": "To be deceived by someone, or to become attracted to someone.",
+      "nuance": "The meaning depends on the object: “fall for a scam” means being deceived, while “fall for someone” usually means developing romantic feelings.",
+      "literal": "Falling into a trap or being drawn toward someone.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Vendor review · checking an invoice",
+          "sentence": "The finance team fell for the vendor’s convincing story and paid the invoice.",
+          "highlight": "fell for",
+          "tip": "Use this when an explanation, offer, or trick proves misleading."
+        },
+        {
+          "setting": "social",
+          "where": "Starting a conversation · meeting someone new",
+          "sentence": "I knew we’d get along, but I didn’t expect to fall for him so quickly.",
+          "highlight": "fall for",
+          "tip": "Usually describes a sudden romantic attraction."
+        },
+        {
+          "setting": "writing",
+          "where": "Consumer advice · avoiding online scams",
+          "sentence": "Many customers fall for messages that promise an unexpected cash prize.",
+          "highlight": "fall for",
+          "tip": "Common in reporting on fraud, advertising, and online scams."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase grew from older uses of “fall” meaning to succumb to a trick or deception. Its romantic sense developed from the idea of being emotionally drawn to someone.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The verb “fall” was used for becoming trapped, defeated, or deceived."
+          },
+          {
+            "when": "1800s",
+            "text": "“Fall for” was documented in the sense of being deceived or taken in."
+          },
+          {
+            "when": "Today",
+            "text": "It is also widely used to mean becoming romantically attracted to someone."
+          }
+        ]
+      },
+      "similar": [
+        "be fooled by",
+        "take the bait",
+        "be smitten with"
+      ],
+      "pitfall": "“Fall for someone” normally means developing romantic feelings; it does not mean physically falling or approving of that person."
+    },
+    {
+      "id": "happily-ever-after",
+      "kind": "idiom",
+      "term": "happily ever after",
+      "pos": "phrase",
+      "hint": "the perfect ending",
+      "register": "Everyday and literary",
+      "meaning": "Used as a story ending to say that everyone ends up content and successful.",
+      "nuance": "Warm, traditional, and slightly old-fashioned. It can also be used playfully or ironically when a situation turns out well.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "After a difficult project",
+          "sentence": "The team missed two deadlines, fixed the launch, and finished happily ever after.",
+          "highlight": "happily ever after",
+          "tip": "Often sounds playful when describing an unexpectedly smooth ending."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception",
+          "sentence": "They danced all night, and everyone agreed they lived happily ever after.",
+          "highlight": "happily ever after",
+          "tip": "Natural in a toast or a lighthearted comment about a couple."
+        },
+        {
+          "setting": "writing",
+          "where": "Children’s story ending",
+          "sentence": "The lost puppy found its way home, and the story ended happily ever after.",
+          "highlight": "happily ever after",
+          "tip": "A familiar formula for ending a fairy tale or romance."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase was recorded in the mid-1800s and later became the traditional closing line of fairy tales. Its simple promise of lasting happiness helped make it a lasting part of popular storytelling.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Early 1800s",
+            "text": "Writers used “ever after” to mean for all the time following an event."
+          },
+          {
+            "when": "Mid-1800s",
+            "text": "The phrase “happily ever after” appears in English writing."
+          },
+          {
+            "when": "20th century onward",
+            "text": "It became a standard formula for ending fairy tales, especially in children’s books."
+          }
+        ]
+      },
+      "similar": [
+        "once upon a time",
+        "and they lived happily ever after",
+        "to the end of the story"
+      ],
+      "pitfall": "This is a complete phrase, so it does not need a verb such as “lived” after it."
+    },
+    {
+      "id": "head-over-heels",
+      "kind": "idiom",
+      "term": "head over heels",
+      "pos": "idiom",
+      "hint": "completely and intensely attracted",
+      "register": "Everyday",
+      "meaning": "To be deeply and intensely attracted to someone, or very enthusiastic about something.",
+      "nuance": "It suggests a strong, sometimes romantic or overwhelming fascination. It can describe romantic love or enthusiastic excitement about a new interest.",
+      "literal": "Headfirst, with the feet above the head.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "New colleague · team chat",
+          "sentence": "She’s been head over heels about the new project since the planning meeting.",
+          "highlight": "head over heels",
+          "tip": "Use it for strong enthusiasm, not just mild approval."
+        },
+        {
+          "setting": "social",
+          "where": "Talking about a new romance",
+          "sentence": "He’s completely head over heels for his new girlfriend.",
+          "highlight": "head over heels",
+          "tip": "Often used when describing romantic infatuation."
+        },
+        {
+          "setting": "writing",
+          "where": "Introducing a new obsession",
+          "sentence": "My sister has been head over heels with pottery, and she now owns half a workshop.",
+          "highlight": "head over heels",
+          "tip": "Works for both romantic and non-romantic enthusiasm."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase originally described being upside down, especially in acrobatics or physical comedy. Its figurative sense developed to mean being wildly enthusiastic or infatuated.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "The expression is recorded as a way of describing someone upside down."
+          },
+          {
+            "when": "1700s",
+            "text": "It begins to appear in figurative uses for intense emotional or romantic attraction."
+          },
+          {
+            "when": "Today",
+            "text": "It describes being deeply fascinated by someone or enthusiastically absorbed with something."
+          }
+        ]
+      },
+      "similar": [
+        "smitten with",
+        "crazy about",
+        "wildly enthusiastic about",
+        "over the moon"
+      ],
+      "opposite": "not interested in",
+      "pitfall": "It usually describes strong feeling or fascination, so it is more intense than simply liking something."
+    },
+    {
+      "id": "live-rent-free-in-someones-head",
+      "kind": "idiom",
+      "term": "live rent-free in someone's head",
+      "pos": "idiom",
+      "hint": "an uninvited mental tenant",
+      "register": "Everyday",
+      "meaning": "To occupy someone’s thoughts so persistently that they cannot easily forget you.",
+      "nuance": "It can suggest that someone is unforgettable, but it often carries a slightly annoyed or critical edge, especially when they are irritating.",
+      "literal": "Someone lives permanently in another person’s mind without paying rent.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · a difficult colleague",
+          "sentence": "That manager lives rent-free in everyone’s head after the budget meeting.",
+          "highlight": "lives rent-free in everyone’s head",
+          "tip": "Often describes someone whose behaviour or reputation remains unforgettable."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with a friend",
+          "sentence": "My old drama partner still lives rent-free in my head.",
+          "highlight": "lives rent-free in my head",
+          "tip": "Works well when talking about an unresolved or memorable connection."
+        },
+        {
+          "setting": "writing",
+          "where": "Film review",
+          "sentence": "Her performance lives rent-free in the audience’s head long after the credits.",
+          "highlight": "lives rent-free in the audience’s head",
+          "tip": "A vivid way to describe a scene or performance that stays with people."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is unclear. The expression builds on the older idea of living rent-free, meaning receiving something without cost or effort.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "English writers use ‘rent-free’ for something enjoyed without paying the usual cost."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression becomes associated with people who occupy another person’s thoughts."
+          },
+          {
+            "when": "Today",
+            "text": "It describes someone who remains mentally present, often longer than expected."
+          }
+        ]
+      },
+      "similar": [
+        "live in someone’s head",
+        "be stuck in someone’s head",
+        "be unforgettable",
+        "get under someone’s skin"
+      ],
+      "opposite": "be easily forgotten",
+      "pitfall": "It usually implies that the person is constantly on your mind; use ‘be on my mind’ for a less permanent thought."
+    },
+    {
+      "id": "roll-out-the-red-carpet",
+      "kind": "idiom",
+      "term": "roll out the red carpet",
+      "pos": "idiom",
+      "hint": "give someone a special welcome",
+      "register": "Common at work",
+      "meaning": "To welcome someone enthusiastically with special treatment or honours.",
+      "nuance": "It suggests generous hospitality, attention or celebration. It can also be used ironically when someone receives unusually favourable treatment.",
+      "literal": "Unrolling a red carpet for someone important to walk on.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client visit · preparing a welcome",
+          "sentence": "We’re rolling out the red carpet for our biggest client, including a private tour and lunch on the rooftop.",
+          "highlight": "rolling out the red carpet",
+          "tip": "Common when describing extra effort to impress an important visitor."
+        },
+        {
+          "setting": "social",
+          "where": "Family reunion · hosting someone",
+          "sentence": "My parents rolled out the red carpet when I finally moved back home.",
+          "highlight": "rolled out the red carpet",
+          "tip": "Often expresses affection and a lot of excited preparation."
+        },
+        {
+          "setting": "writing",
+          "where": "Community newsletter · thanking volunteers",
+          "sentence": "We should roll out the red carpet for the volunteers who gave up their weekends to help.",
+          "highlight": "roll out the red carpet",
+          "tip": "Useful for praise, hospitality and celebratory announcements."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from the custom of laying red carpets for honoured guests and performers. The figurative wording appears in 19th-century writing and later became common for describing an especially warm welcome.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1700s",
+            "text": "Red carpets were used in royal and ceremonial settings as a sign of honour."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression began appearing in print for giving someone a distinguished welcome."
+          },
+          {
+            "when": "Today",
+            "text": "It means welcoming someone with exceptional hospitality or attention."
+          }
+        ]
+      },
+      "similar": [
+        "give someone a warm welcome",
+        "pull out all the stops",
+        "make someone feel special"
+      ],
+      "opposite": "give someone the cold shoulder",
+      "pitfall": "It can sound sarcastic if the welcome is calculated or unfair, so check the tone of the situation."
+    },
+    {
+      "id": "save-face",
+      "kind": "idiom",
+      "term": "save face",
+      "pos": "idiom",
+      "hint": "keep your dignity",
+      "register": "Common at work",
+      "meaning": "To avoid embarrassment or preserve your dignity and reputation.",
+      "nuance": "It often describes a compromise or tactful solution that allows someone to step back without looking humiliated. It can also mean helping someone else avoid a loss of status.",
+      "literal": "Keeping one’s public dignity and avoiding humiliation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · a missed deadline",
+          "sentence": "Let Sam take responsibility for the delay and save face in front of the client.",
+          "highlight": "save face",
+          "tip": "Often used when suggesting a tactful way to handle blame."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · an awkward disagreement",
+          "sentence": "He changed the subject so his uncle could save face.",
+          "highlight": "save face",
+          "tip": "Common when discussing embarrassment, dignity, or public image."
+        },
+        {
+          "setting": "writing",
+          "where": "Diplomatic report · negotiations",
+          "sentence": "Both sides accepted the revised proposal, allowing each delegation to save face.",
+          "highlight": "save face",
+          "tip": "Especially natural in political, business, and diplomatic writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely reflects early English use influenced by Chinese discussions of reputation and dignity, where “face” represented social standing. Its exact borrowing path is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1900s",
+            "text": "English-language writing begins using “save face” in China-related discussions of diplomacy and social standing."
+          },
+          {
+            "when": "Mid-1900s",
+            "text": "The expression broadens beyond specifically Chinese contexts and becomes a general metaphor for preserving dignity."
+          },
+          {
+            "when": "Today",
+            "text": "Means avoiding embarrassment or a damaging loss of reputation."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "face-saving",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "save appearances",
+        "preserve dignity",
+        "avoid embarrassment"
+      ],
+      "opposite": "lose face",
+      "pitfall": "“Save face” means protecting dignity or reputation; it does not simply mean physically rescuing someone."
+    },
+    {
+      "id": "step-into-someones-shoes",
+      "kind": "idiom",
+      "term": "step into someone's shoes",
+      "pos": "idiom",
+      "hint": "see the situation from another person's view",
+      "register": "Common at work",
+      "meaning": "To consider a situation from another person's perspective by imagining their responsibilities, pressures, or experiences.",
+      "nuance": "It suggests trying to understand someone's position, not necessarily agreeing with it. It works best when someone is asking you to show empathy or appreciate a different point of view.",
+      "literal": "Physically putting on another person's footwear and walking in their place.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · differing priorities",
+          "sentence": "Before you defend the deadline, step into the support team's shoes and consider what they need from you.",
+          "highlight": "step into the support team's shoes",
+          "tip": "The highlighted phrase adapts naturally to a specific person's role."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · missed plans",
+          "sentence": "I was upset, but once I stepped into my friend's shoes, I understood why she had cancelled.",
+          "highlight": "stepped into my friend's shoes",
+          "tip": "Use the past tense when describing a change in perspective you have already had."
+        },
+        {
+          "setting": "writing",
+          "where": "Workplace email · resolving conflict",
+          "sentence": "Please step into the employee's shoes and consider how this policy will affect their daily work.",
+          "highlight": "step into the employee's shoes",
+          "tip": "This is a clear, professional way to invite empathy without becoming personal."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from older English expressions about wearing another person's shoes to mean taking on their role or viewpoint. Its exact early history is difficult to pin down, so the standard figurative explanation is best treated as likely rather than a documented single event.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early Modern English",
+            "text": "Expressions such as 'wear the shoe' were used for acting in another person's place or taking on their role."
+          },
+          {
+            "when": "1800s",
+            "text": "The wording 'step into someone's shoes' begins appearing in English for imagining another person's position."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used to ask for empathy and a fresh perspective."
+          }
+        ]
+      },
+      "similar": [
+        "put yourself in someone else's shoes",
+        "walk in someone's shoes",
+        "see it from someone's perspective",
+        "take a different viewpoint"
+      ],
+      "pitfall": "It means understanding someone's perspective, not assuming that you have experienced exactly the same situation."
+    },
+    {
+      "id": "sweep-someone-off-their-feet",
+      "kind": "idiom",
+      "term": "sweep someone off their feet",
+      "pos": "idiom",
+      "hint": "win their heart very quickly",
+      "register": "Everyday",
+      "meaning": "To make someone develop strong feelings of love or admiration for you very quickly.",
+      "nuance": "It describes charm or attraction that wins someone over almost instantly. It is usually romantic, but can also describe being captivated by someone’s talent, charisma, or generosity.",
+      "literal": "Knocking someone off their feet with an impressive emotional or romantic display.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "New colleague · joining the team",
+          "sentence": "Her clear ideas and calm manner swept the new team off their feet.",
+          "highlight": "swept the new team off their feet",
+          "tip": "Can describe admiration that develops quickly, not only romantic attraction."
+        },
+        {
+          "setting": "social",
+          "where": "First meeting · getting to know someone",
+          "sentence": "He met Mia at a concert, and her warmth swept him off their feet.",
+          "highlight": "swept him off their feet",
+          "tip": "The subject’s feet belong to the person being emotionally won over."
+        },
+        {
+          "setting": "writing",
+          "where": "Wedding profile · introducing the couple",
+          "sentence": "They met during a weekend hike, where Jack’s unexpected charm swept Sarah off her feet.",
+          "highlight": "swept Sarah off her feet",
+          "tip": "Often used in romantic stories, profiles, and personal writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is associated with the idea of a powerful attraction overwhelming someone. Its exact origin is uncertain, but the figurative expression was in use by the early 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1800s",
+            "text": "Similar wording appears in writing as a metaphor for being emotionally overwhelmed or conquered."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression becomes linked with sudden romantic attraction and the loss of normal emotional balance."
+          },
+          {
+            "when": "Today",
+            "text": "Means winning someone’s affection or admiration very quickly."
+          }
+        ]
+      },
+      "similar": [
+        "take someone by storm",
+        "win someone over",
+        "knock someone dead"
+      ],
+      "pitfall": "Usually passive: ‘She swept him off her feet,’ not ‘She swept him off his feet.’"
+    },
+    {
+      "id": "take-for-granted",
+      "kind": "idiom",
+      "term": "take for granted",
+      "pos": "idiom",
+      "hint": "assume it will always be there",
+      "register": "Everyday",
+      "meaning": "To assume that something is certain, dependable, or available without recognizing its value.",
+      "nuance": "Often used when a person overlooks an effort, privilege, or contribution. It can sound critical, so use it carefully when speaking to someone directly.",
+      "literal": "Treat something as already given and not worth special attention.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · assigning support work",
+          "sentence": "We shouldn’t take the other team’s availability for granted when we schedule the launch.",
+          "highlight": "take the other team’s availability for granted",
+          "tip": "The highlighted phrase is longer because “availability” is what is being taken for granted."
+        },
+        {
+          "setting": "social",
+          "where": "Birthday dinner · thanking a host",
+          "sentence": "I didn’t take it for granted when you drove us all home after dinner.",
+          "highlight": "take it for granted",
+          "tip": "Common when acknowledging someone’s effort or generosity."
+        },
+        {
+          "setting": "writing",
+          "where": "Community newsletter · thanking volunteers",
+          "sentence": "We do not take our volunteers’ time for granted, and we appreciate everything they contribute.",
+          "highlight": "take our volunteers’ time for granted",
+          "tip": "A clear way to show appreciation without sounding overly sentimental."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase was already in use by the early 1700s. It developed from older expressions about accepting or treating something as established, with “granted” meaning given or assured.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English speakers used “take” to mean accept or suppose, while “granted” could mean given, assured, or established."
+          },
+          {
+            "when": "1700s",
+            "text": "The expression “take for granted” appears in regular English usage."
+          },
+          {
+            "when": "Today",
+            "text": "It describes failing to recognize the value of something assumed to be secure or dependable."
+          }
+        ]
+      },
+      "similar": [
+        "take for granted",
+        "assume for granted",
+        "give someone the benefit of the doubt"
+      ],
+      "opposite": "appreciate the value of",
+      "pitfall": "Don’t confuse it with “take something as granted,” which can sound more formal and focuses on the act of assuming."
+    }
+  ]
+}

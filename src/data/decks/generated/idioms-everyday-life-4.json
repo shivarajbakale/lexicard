@@ -1,0 +1,1361 @@
+{
+  "id": "idioms-everyday-life-4",
+  "kind": "idiom",
+  "name": "Everyday life · 4",
+  "blurb": "23 idioms about everyday life",
+  "cards": [
+    {
+      "id": "snake-oil",
+      "kind": "idiom",
+      "term": "snake oil",
+      "pos": "idiom",
+      "hint": "a supposed cure that is not real",
+      "register": "Common at work",
+      "meaning": "A product, treatment, or promise that is fraudulent, exaggerated, or has little genuine value.",
+      "nuance": "Strongly dismissive and sometimes confrontational. It suits situations where someone is promoting a remedy, product, or impressive claim that cannot be trusted.",
+      "literal": "Oil made from snakes and sold as a supposed medicine.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product review · judging a claim",
+          "sentence": "Our manager dismissed the promise of instant productivity as snake oil.",
+          "highlight": "snake oil",
+          "tip": "Use it when you doubt a product or claim but want to sound direct."
+        },
+        {
+          "setting": "social",
+          "where": "Discussing a supplement",
+          "sentence": "My friend swore by the supplement, but it sounded like snake oil to me.",
+          "highlight": "snake oil",
+          "tip": "Common when questioning an unproven health remedy."
+        },
+        {
+          "setting": "writing",
+          "where": "Consumer article · reviewing a product",
+          "sentence": "The review dismissed the expensive cure as little more than snake oil.",
+          "highlight": "snake oil",
+          "tip": "Often used in reporting and critical reviews to expose weak claims."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase began with oil supposedly made from snakes and sold as a remedy. By the 1800s, it had developed its figurative meaning of a fake or worthless medicine, and later broadened to cover fraudulent products and exaggerated claims.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1766",
+            "text": "The phrase was first recorded in American English for oil sold as a medicinal substance associated with snakes."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase came to mean a fraudulent or ineffective remedy."
+          },
+          {
+            "when": "Today",
+            "text": "It labels any discredited product, treatment, or promotional promise as fake or unreliable."
+          }
+        ]
+      },
+      "similar": [
+        "quack remedy",
+        "panacea",
+        "miracle cure"
+      ],
+      "opposite": "genuine remedy",
+      "pitfall": "It describes something untrustworthy or worthless; it does not simply mean an old-fashioned medicine."
+    },
+    {
+      "id": "sort-out",
+      "kind": "idiom",
+      "term": "sort out",
+      "pos": "verb",
+      "hint": "put in order or make clear",
+      "register": "Common at work",
+      "meaning": "To organize something, resolve a problem, or make a situation clear.",
+      "nuance": "The phrase is broad and often slightly informal. It can describe tidying practical details, settling a dispute, or finding a solution to a confused situation.",
+      "literal": "Putting things into separate, orderly groups.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · unclear responsibilities",
+          "sentence": "We need to sort out who owns billing before the release.",
+          "highlight": "sort out",
+          "tip": "Often used when roles, details, or responsibilities need clarifying."
+        },
+        {
+          "setting": "social",
+          "where": "Making plans · choosing a venue",
+          "sentence": "Let’s sort out where to meet before everyone arrives.",
+          "highlight": "sort out",
+          "tip": "Natural for arranging plans or reaching agreement."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · requesting action",
+          "sentence": "Could you sort out the remaining questions and send me an update?",
+          "highlight": "sort out",
+          "tip": "Useful in emails when asking someone to handle loose ends."
+        }
+      ],
+      "origin": {
+        "summary": "The word “sort” is older, but the phrase developed its modern meaning during the 1800s. Its exact first appearance is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Middle English",
+            "text": "“Sort” is used for placing things into classes or orderly groups."
+          },
+          {
+            "when": "1800s",
+            "text": "Examples of “sort out” appear in the sense of arranging something or putting matters in order."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase also covers solving problems and making unclear situations clear."
+          }
+        ]
+      },
+      "similar": [
+        "straighten out",
+        "deal with",
+        "work out",
+        "iron out"
+      ],
+      "pitfall": "Use “sort out” for arranging, resolving, or clarifying; use “sort through” when examining a group of items one by one."
+    },
+    {
+      "id": "straight-and-narrow",
+      "kind": "idiom",
+      "term": "straight and narrow",
+      "pos": "idiom",
+      "hint": "a morally upright course",
+      "register": "Formal",
+      "meaning": "To behave honestly and responsibly according to accepted moral rules.",
+      "nuance": "It often suggests making a deliberate effort to stop dishonest, reckless or harmful behaviour. It can sound approving, but sometimes carries a slightly stern or religious tone.",
+      "literal": "A straight, narrow path with no room to stray.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · addressing misconduct",
+          "sentence": "After the investigation, the manager returned to the straight and narrow.",
+          "highlight": "straight and narrow",
+          "tip": "Use it when discussing a return to proper conduct."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · changing habits",
+          "sentence": "He cut back on gambling and kept to the straight and narrow for the rest of the year.",
+          "highlight": "straight and narrow",
+          "tip": "The phrase can sound mildly old-fashioned in casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Community news · honouring service",
+          "sentence": "The charity praised volunteers who remained on the straight and narrow despite difficult circumstances.",
+          "highlight": "straight and narrow",
+          "tip": "Works in reporting when praising ethical behaviour and responsibility."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely combines the biblical image of a narrow path with older language about a straight course. Its precise development is uncertain, although the figurative expression is documented by the early 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1611",
+            "text": "Matthew 7:14 in the King James Version contrasts the broad gate with the narrow way, providing a possible religious model."
+          },
+          {
+            "when": "Early 1800s",
+            "text": "The expression ‘straight and narrow’ appears in print in a figurative sense."
+          },
+          {
+            "when": "Today",
+            "text": "It describes honest, disciplined and morally responsible behaviour."
+          }
+        ]
+      },
+      "similar": [
+        "above board",
+        "by the book",
+        "on the up and up"
+      ],
+      "pitfall": "Use it for moral conduct, not simply for taking a direct route or working efficiently."
+    },
+    {
+      "id": "suspend-ones-disbelief",
+      "kind": "idiom",
+      "term": "suspend one's disbelief",
+      "pos": "idiom",
+      "hint": "temporarily set aside your doubts",
+      "register": "Literary and formal",
+      "meaning": "To choose to accept something imaginative or unlikely as though it could be true.",
+      "nuance": "It suggests a willing, temporary suspension of doubt rather than unquestioning belief. It is especially common in discussions of theatre, film, fiction and unusual ideas.",
+      "literal": "To pause disbelief so that an unlikely story can be accepted for a time.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product demo · explaining a bold idea",
+          "sentence": "Suspend your disbelief for a minute and imagine how useful this tool could be.",
+          "highlight": "Suspend your disbelief",
+          "tip": "Useful when inviting colleagues to consider an unconventional proposal."
+        },
+        {
+          "setting": "social",
+          "where": "Theatre · watching an unusual plot",
+          "sentence": "Suspend your disbelief when the comedy starts pretending that a cardboard spaceship is real.",
+          "highlight": "Suspend your disbelief",
+          "tip": "Often used when talking about plays, films, magic and fantasy."
+        },
+        {
+          "setting": "writing",
+          "where": "Film review · describing a fantasy premise",
+          "sentence": "The review invites readers to suspend their disbelief and accept the film's strange world.",
+          "highlight": "suspend their disbelief",
+          "tip": "A natural phrase in reviews, criticism and persuasive writing."
+        }
+      ],
+      "origin": {
+        "summary": "Standard dictionaries trace the expression to Shakespeare-era English. Its theatrical roots reflect the idea that an audience temporarily accepts an improbable story so that a performance can work.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1590s",
+            "text": "The expression appears in Shakespeare-era English and is associated with the theatrical idea of accepting an impossible story."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers use the phrase figuratively when discussing fiction, spectacle and unfamiliar ideas."
+          },
+          {
+            "when": "Today",
+            "text": "It means setting aside doubts in order to consider or enjoy something that may seem unlikely."
+          }
+        ]
+      },
+      "similar": [
+        "put aside your doubts",
+        "take it with a pinch of salt",
+        "use your imagination"
+      ],
+      "opposite": "believe it implicitly",
+      "pitfall": "It does not mean that you genuinely believe the claim; the willingness to set aside doubts is temporary and often playful."
+    },
+    {
+      "id": "sweat-the-small-stuff",
+      "kind": "idiom",
+      "term": "sweat the small stuff",
+      "pos": "idiom",
+      "hint": "worry about tiny details",
+      "register": "Everyday",
+      "meaning": "To spend a lot of time and effort on minor details instead of focusing on what matters most.",
+      "nuance": "It suggests getting caught up in small problems or details. Use it when someone is overthinking minor issues or making a task harder than it needs to be.",
+      "literal": "Working hard enough to sweat over small things.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · choosing a minor detail",
+          "sentence": "We’re sweating the small stuff while the deadline slips away.",
+          "highlight": "sweating the small stuff",
+          "tip": "Often points out misplaced attention during a busy project."
+        },
+        {
+          "setting": "social",
+          "where": "Friends · organising a trip",
+          "sentence": "Let’s not sweat the small stuff; the main thing is that we’re going together.",
+          "highlight": "sweat the small stuff",
+          "tip": "Use it to put another person’s concern in a calmer, more practical perspective."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · explaining a delay",
+          "sentence": "We’ve been sweating the small stuff, but we’re close to finishing the report.",
+          "highlight": "sweating the small stuff",
+          "tip": "Common in informal updates about setbacks or delays."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is unclear, but the phrase appears to have developed in the mid-20th century from the idea of working intensely, even over minor tasks.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early to mid-1900s",
+            "text": "Similar expressions about sweating details begin appearing in business and everyday speech."
+          },
+          {
+            "when": "Late 1900s",
+            "text": "The modern phrase becomes established in warnings against focusing on trivial matters."
+          },
+          {
+            "when": "Today",
+            "text": "Means giving excessive attention to minor details."
+          }
+        ]
+      },
+      "similar": [
+        "Overthinking",
+        "Making a mountain out of a molehill",
+        "Blowing things out of proportion"
+      ],
+      "opposite": "Let it go",
+      "pitfall": "It can sound critical, so use it carefully when another person’s concerns are genuinely important."
+    },
+    {
+      "id": "take-a-leaf-out-of-someones-book",
+      "kind": "idiom",
+      "term": "take a leaf out of someone's book",
+      "pos": "idiom",
+      "hint": "copy someone else",
+      "register": "Common at work",
+      "meaning": "To copy someone’s behavior, style, or way of doing something.",
+      "nuance": "It suggests learning from another person and adopting a useful approach. It is often used when someone follows a successful colleague’s methods or imitates a writer’s style.",
+      "literal": "Copying a page or example from someone else’s book.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · improving a presentation",
+          "sentence": "She took a leaf out of her manager’s book and opened with a short story instead of a long slide deck.",
+          "highlight": "took a leaf out of her manager’s book",
+          "tip": "The words ‘someone’s book’ can change to match the person’s name or role."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · giving advice",
+          "sentence": "I took a leaf out of my brother’s book and answered the difficult question with a joke.",
+          "highlight": "took a leaf out of my brother’s book",
+          "tip": "Often used when describing copying a family member’s approach."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial feedback · matching a house style",
+          "sentence": "The editor took a leaf out of the previous author’s book and kept the chapter deliberately understated.",
+          "highlight": "took a leaf out of the previous author’s book",
+          "tip": "Useful for discussing how a writer imitates another writer’s technique."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is recorded in the 1860s and means to copy another person’s example, behavior, or style. Its wording likely comes from the idea of copying a page from a book.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1860s",
+            "text": "The expression appears in writing with the sense of copying someone else’s example or methods."
+          },
+          {
+            "when": "Later 19th century",
+            "text": "It becomes established as a figurative expression for imitation."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for borrowing someone’s behavior, technique, or style."
+          }
+        ]
+      },
+      "similar": [
+        "follow in someone’s footsteps",
+        "model yourself on someone",
+        "learn from someone"
+      ],
+      "pitfall": "It means copying or learning from someone, not literally using a page from their book."
+    },
+    {
+      "id": "take-it-easy",
+      "kind": "idiom",
+      "term": "take it easy",
+      "pos": "idiom",
+      "hint": "slow down and relax",
+      "register": "Everyday",
+      "meaning": "To relax, avoid rushing, or handle something at a gentle pace.",
+      "nuance": "This can be friendly advice to someone who is stressed, exhausted, or working too hard. It can also mean doing only a small amount, depending on the context.",
+      "literal": "Do things without strain, hurry, or excessive effort.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "After a difficult release",
+          "sentence": "We’ve had a brutal release, so take it easy today and focus on the essentials.",
+          "highlight": "take it easy",
+          "tip": "Often reassures colleagues that they do not need to keep pushing at full speed."
+        },
+        {
+          "setting": "social",
+          "where": "After an argument",
+          "sentence": "Take it easy and give everyone some space before you continue the conversation.",
+          "highlight": "Take it easy",
+          "tip": "Use it to calm a tense situation without making the advice sound formal."
+        },
+        {
+          "setting": "writing",
+          "where": "An employee welcome guide",
+          "sentence": "New hires are encouraged to take it easy during their first week and ask as many questions as they need.",
+          "highlight": "take it easy",
+          "tip": "Common in instructions, advice, and informal workplace messages."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is documented in American English from the early 1900s. It likely developed from practical advice meaning not to overexert yourself or act in a hurry.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Early 1900s",
+            "text": "The wording appears in American English with the sense of avoiding strain or haste."
+          },
+          {
+            "when": "Mid-1900s",
+            "text": "It becomes a common informal expression of reassurance, relaxation, or moderation."
+          },
+          {
+            "when": "Today",
+            "text": "It can advise someone to rest or mean doing something less intensely."
+          }
+        ]
+      },
+      "similar": [
+        "take it slow",
+        "ease off",
+        "relax"
+      ],
+      "opposite": "give it everything",
+      "pitfall": "In some contexts, ‘take it easy’ can mean doing noticeably less than usual, so clarify if you mean ‘relax’ rather than ‘do less.’"
+    },
+    {
+      "id": "take-it-or-leave-it",
+      "kind": "idiom",
+      "term": "take it or leave it",
+      "pos": "idiom",
+      "hint": "accept the offer or decline it",
+      "register": "Common at work",
+      "meaning": "To accept the conditions as offered or decide not to accept them.",
+      "nuance": "It can sound firm and direct, sometimes a little impatient. It fits when presenting an offer or final decision, especially when negotiation is no longer wanted.",
+      "literal": "Taking the offered item or leaving it behind.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Offer negotiation · final terms",
+          "sentence": "The budget is fixed, so take it or leave it.",
+          "highlight": "take it or leave it",
+          "tip": "Common when one side has no intention of negotiating further."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing a restaurant · settling plans",
+          "sentence": "The party is at eight; take it or leave it.",
+          "highlight": "take it or leave it",
+          "tip": "Often sounds blunt, so use it only with people you know well."
+        },
+        {
+          "setting": "writing",
+          "where": "Consumer advice · limited offers",
+          "sentence": "The tickets are available while supplies last: take it or leave it.",
+          "highlight": "take it or leave it",
+          "tip": "Useful in sales messages, warnings and firm instructions."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the older expression 'take it or leave it,' used for an offer that must be accepted as it stands. Its exact first use is uncertain, but similar wording appears in English by the 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Similar forms of the phrase begin appearing in English, presenting something with no room for further negotiation."
+          },
+          {
+            "when": "1900s",
+            "text": "The expression becomes established in ordinary English for a firm choice."
+          },
+          {
+            "when": "Today",
+            "text": "It means accepting an offer or condition as presented."
+          }
+        ]
+      },
+      "similar": [
+        "accept or decline",
+        "take it or leave it",
+        "love it or leave it"
+      ],
+      "opposite": "keep negotiating",
+      "pitfall": "It is not a friendly way to invite discussion; saying it can shut down further conversation."
+    },
+    {
+      "id": "take-stock",
+      "kind": "idiom",
+      "term": "take stock",
+      "pos": "idiom",
+      "hint": "assess where you stand",
+      "register": "Common at work",
+      "meaning": "To pause and assess your current situation, progress, or options.",
+      "nuance": "It suggests a calm, practical review rather than a sudden reaction. People take stock before making a decision, changing direction, or deciding what to do next.",
+      "literal": "Counting or checking the goods held in a shop.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Quarterly review · checking priorities",
+          "sentence": "After the busy quarter, we took stock of our priorities and decided to postpone the redesign.",
+          "highlight": "took stock",
+          "tip": "Often followed by ‘of’ when naming what is being assessed."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a change of direction",
+          "sentence": "After moving to a new city, we took stock and realised we needed more time to settle in.",
+          "highlight": "took stock",
+          "tip": "Sounds thoughtful and measured, especially when discussing a life change."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · reviewing performance",
+          "sentence": "The report takes stock of the project’s successes and the challenges still ahead.",
+          "highlight": "takes stock",
+          "tip": "Useful in reports and reviews because it signals a broad assessment."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the older meaning of counting or checking the goods in a business. By the 1800s, it was also used figuratively for assessing one’s position or situation.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "‘Stock’ referred to the goods or supplies kept by a business or household."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase developed the figurative meaning of reviewing one’s position, resources, or prospects."
+          },
+          {
+            "when": "Today",
+            "text": "Means pausing to assess the situation before deciding what to do."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "stocktaking",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "assess the situation",
+        "size up",
+        "review where things stand"
+      ],
+      "opposite": "ignore the situation",
+      "pitfall": "‘Take stock’ means review and assess; it does not mean stock up on supplies."
+    },
+    {
+      "id": "take-the-cake",
+      "kind": "idiom",
+      "term": "take the cake",
+      "pos": "idiom",
+      "hint": "win the prize for being ridiculous",
+      "register": "Everyday",
+      "meaning": "To be so foolish, annoying, or outrageous that you seem to deserve a prize for it.",
+      "nuance": "Usually humorous but critical. It can describe a person, a decision, or a situation that is difficult to take seriously.",
+      "literal": "Winning the cake as the prize for the most ridiculous behaviour.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office update · a missed deadline",
+          "sentence": "You scheduled the client call for eight and forgot to invite them; that really takes the cake.",
+          "highlight": "takes the cake",
+          "tip": "Use it when teasing someone for an unusually foolish mistake."
+        },
+        {
+          "setting": "social",
+          "where": "Chatting · a friend’s bad excuse",
+          "sentence": "He blamed the rain for forgetting his umbrella, even though he left it at home.",
+          "highlight": "He blamed the rain for forgetting his umbrella, even though he left it at home.",
+          "tip": "The highlighted phrase should be ‘takes the cake’ to agree with ‘he.’"
+        },
+        {
+          "setting": "writing",
+          "where": "Funny review · a service disaster",
+          "sentence": "The waiter spilled my soup, cleared the table, and then asked what I wanted for dinner.",
+          "highlight": "The waiter spilled my soup, cleared the table, and then asked what I wanted for dinner.",
+          "tip": "Use ‘takes the cake’ for the situation: the whole episode took the cake."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is unclear, but the phrase appears in early American English as a playful way of saying someone deserves a prize for extreme foolishness or bad behaviour.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1900s",
+            "text": "The phrase begins appearing in American English, probably as a joke about winning a prize."
+          },
+          {
+            "when": "Mid-1900s",
+            "text": "It becomes established in everyday speech as a way to comment on ridiculous behaviour."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used to criticise something in a humorous, exaggerated way."
+          }
+        ]
+      },
+      "similar": [
+        "take the biscuit",
+        "what a joke",
+        "the limit"
+      ],
+      "opposite": "be a piece of cake",
+      "pitfall": "It usually expresses criticism, not admiration, even though the literal image suggests winning a prize."
+    },
+    {
+      "id": "best-of-both-worlds",
+      "kind": "idiom",
+      "term": "the best of both worlds",
+      "pos": "idiom",
+      "hint": "enjoying two good options at once",
+      "register": "Common at work",
+      "meaning": "To have the advantages of two different options without having to give up much of either one.",
+      "nuance": "It often describes an ideal arrangement that combines convenience, flexibility or enjoyment. It can be used positively or, with a hint of irony, when someone suspects there is a hidden cost.",
+      "literal": "Getting the best parts from each of two separate worlds.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Remote-work policy · choosing hours",
+          "sentence": "Splitting the week between home and the office gave her the best of both worlds.",
+          "highlight": "the best of both worlds",
+          "tip": "Common for arrangements that combine two useful options."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans · city and countryside",
+          "sentence": "Living close enough to town but staying in the countryside seems like the best of both worlds.",
+          "highlight": "the best of both worlds",
+          "tip": "Natural when comparing two places or lifestyles."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel feature · two destinations",
+          "sentence": "The rail pass lets visitors experience the best of both worlds in one week.",
+          "highlight": "the best of both worlds",
+          "tip": "Often used to present a balanced choice in articles and reviews."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from older wording about combining benefits from different places or spheres of life. The exact origin of the modern phrase is not securely documented.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Writers used similar expressions to mean enjoying the advantages of two different places or spheres."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression began appearing in English writing in forms close to the modern wording."
+          },
+          {
+            "when": "Today",
+            "text": "It means getting useful or enjoyable benefits from two different options."
+          }
+        ]
+      },
+      "similar": [
+        "have the best of both",
+        "get the best of both",
+        "enjoy the best of both"
+      ],
+      "opposite": "be forced to choose",
+      "pitfall": "Usually take ‘the’ before the phrase: ‘the best of both worlds’."
+    },
+    {
+      "id": "greatest-thing-since-sliced-bread",
+      "kind": "idiom",
+      "term": "the greatest thing since sliced bread",
+      "pos": "idiom",
+      "hint": "something people love so much",
+      "register": "Informal",
+      "meaning": "A person, product or idea that is praised as an enormous improvement on anything similar before it.",
+      "nuance": "Strongly enthusiastic and deliberately hyperbolic. It is common in informal conversation and advertising, but too casual for a serious report or formal evaluation.",
+      "literal": "The best new thing to appear since bread began to be sold in slices.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · introducing a new tool",
+          "sentence": "Our new scheduling app is the greatest thing since sliced bread; everyone is using it already.",
+          "highlight": "the greatest thing since sliced bread",
+          "tip": "Best suited to informal praise, especially when you are obviously exaggerating."
+        },
+        {
+          "setting": "social",
+          "where": "Trying a new café",
+          "sentence": "This almond croissant is the greatest thing since sliced bread, and I’m buying two.",
+          "highlight": "the greatest thing since sliced bread",
+          "tip": "Works for joking enthusiasm about something you genuinely like."
+        },
+        {
+          "setting": "writing",
+          "where": "Product promotion",
+          "sentence": "Supporters call the speaker platform the greatest thing since sliced bread, though not everyone agrees.",
+          "highlight": "the greatest thing since sliced bread",
+          "tip": "Useful in advertising or an informal opinion piece, not as a neutral claim."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is documented in advertising by 1909, but its exact creator is unknown. It later became especially associated with promotional language.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1909",
+            "text": "The phrase appears in advertising copy as a way of presenting a product as a major innovation."
+          },
+          {
+            "when": "1920s–1930s",
+            "text": "Commercially packaged sliced bread became widely familiar, strengthening the expression’s associations with convenience and modern living."
+          },
+          {
+            "when": "Today",
+            "text": "It remains an old-fashioned, humorous way to praise something as a major improvement."
+          }
+        ]
+      },
+      "similar": [
+        "the next best thing",
+        "a game changer",
+        "the best thing since"
+      ],
+      "pitfall": "This is subjective praise, not a factual comparison. Avoid it in formal writing or when you need to explain the actual benefits."
+    },
+    {
+      "id": "tip-of-the-iceberg",
+      "kind": "idiom",
+      "term": "tip of the iceberg",
+      "pos": "idiom",
+      "hint": "only the small part you can see",
+      "register": "Common at work and in everyday life",
+      "meaning": "The small part of a problem that is visible, while a much larger issue remains hidden.",
+      "nuance": "It highlights how the visible difficulty may be minor compared with what lies beneath it. It is often used when new evidence reveals that a situation is more serious than people thought.",
+      "literal": "The small upper piece of an iceberg that rises above the water while most of the iceberg remains hidden below.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · delayed project",
+          "sentence": "The missed deadline was just the tip of the iceberg; several teams are still waiting for access to the system.",
+          "highlight": "tip of the iceberg",
+          "tip": "Useful when one visible problem points to several hidden problems."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · recurring household faults",
+          "sentence": "The broken tap was the tip of the iceberg, but the pipes upstairs were leaking too.",
+          "highlight": "tip of the iceberg",
+          "tip": "Often introduces a larger problem discovered underneath."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · operational risks",
+          "sentence": "The recent outages were only the tip of the iceberg, according to the internal review.",
+          "highlight": "tip of the iceberg",
+          "tip": "A natural metaphor for hidden costs, risks or unresolved issues."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from the literal image of an iceberg, where only a small part appears above water. Its figurative use became established during the early 1900s, although the exact first recorded use is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1850s",
+            "text": "Writers increasingly use icebergs as metaphors for dangers or difficulties that are mostly hidden."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "The phrase appears in writing about unseen problems beneath a visible surface."
+          },
+          {
+            "when": "Today",
+            "text": "Means that what people can see is only a small part of a much bigger issue."
+          }
+        ]
+      },
+      "similar": [
+        "surface problem",
+        "small part of the problem",
+        "the full picture"
+      ],
+      "pitfall": "It does not mean the visible problem is itself the largest issue; it implies that more remains hidden."
+    },
+    {
+      "id": "to-boot",
+      "kind": "idiom",
+      "term": "to boot",
+      "pos": "idiom",
+      "hint": "and something more",
+      "register": "Common at work",
+      "meaning": "Used to add another thing to what has just been mentioned.",
+      "nuance": "It sounds lightly emphatic and often carries a hint of surprise or approval. Use it in conversation and writing when the extra detail strengthens your point.",
+      "literal": "An extra item added to what you already have.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team update · extra benefits",
+          "sentence": "The role comes with flexible hours and a training budget to boot.",
+          "highlight": "to boot",
+          "tip": "Placed at the end of a list to emphasize one more advantage."
+        },
+        {
+          "setting": "social",
+          "where": "Describing a holiday",
+          "sentence": "We stayed in a tiny cottage, but it had a beautiful view to boot.",
+          "highlight": "to boot",
+          "tip": "Often adds a pleasant detail after an unexpected drawback."
+        },
+        {
+          "setting": "writing",
+          "where": "Product review",
+          "sentence": "The headphones are comfortable, durable and surprisingly affordable to boot.",
+          "highlight": "to boot",
+          "tip": "Useful in reviews when you want to finish with a positive extra point."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from “boot,” an old word for an additional advantage or profit. Adding “to” eventually turned it into a way of introducing something else.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "“Boot” is recorded in the sense of an extra advantage or gain."
+          },
+          {
+            "when": "1600s",
+            "text": "The expression “to boot” begins appearing in English writing."
+          },
+          {
+            "when": "Today",
+            "text": "It means “as well” or “in addition,” usually at the end of a sentence."
+          }
+        ]
+      },
+      "similar": [
+        "as well",
+        "on top of that",
+        "to make matters even better"
+      ],
+      "pitfall": "It is not connected to wearing footwear, and it is more natural at the end of a sentence than at the beginning."
+    },
+    {
+      "id": "touch-up",
+      "kind": "idiom",
+      "term": "touch up",
+      "pos": "phrase",
+      "hint": "make small improvements",
+      "register": "Common at work",
+      "meaning": "To make small improvements to something, especially its appearance, wording or performance.",
+      "nuance": "It suggests quick, modest adjustments rather than a complete change. Use it when polishing details before presentation, publication or use.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Before a presentation",
+          "sentence": "I need to touch up the slides before we send them to the client.",
+          "highlight": "touch up",
+          "tip": "Often used for quick improvements to a document, design or presentation."
+        },
+        {
+          "setting": "social",
+          "where": "Getting ready for a party",
+          "sentence": "She touched up her makeup before heading out.",
+          "highlight": "touched up",
+          "tip": "The phrase can describe applying a small amount of makeup or fixing a minor appearance issue."
+        },
+        {
+          "setting": "writing",
+          "where": "Editing an article",
+          "sentence": "The editor asked me to touch up the final paragraph for clarity.",
+          "highlight": "touch up",
+          "tip": "Common when discussing small edits that improve style or readability."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the older meanings of “touch” and “up.” Its exact development is not fully clear, but it has long suggested applying or improving something slightly.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Touch” meant to make contact with or affect something."
+          },
+          {
+            "when": "1500s",
+            "text": "“Up” was used in combinations meaning an action was complete or something had been improved."
+          },
+          {
+            "when": "Today",
+            "text": "“Touch up” means making small improvements to appearance, wording, quality or performance."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "touch-up",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "polish up",
+        "tidy up",
+        "fine-tune",
+        "patch up"
+      ],
+      "opposite": "leave as it is",
+      "pitfall": "“Touch up” usually means improve something lightly, not repair it completely or add substantial new content."
+    },
+    {
+      "id": "tried-and-trusted",
+      "kind": "idiom",
+      "term": "tried and trusted",
+      "pos": "adjective",
+      "hint": "proven to work well",
+      "register": "Common at work",
+      "meaning": "Proven by experience to be reliable and effective.",
+      "nuance": "It suggests that something has worked successfully many times, so you can feel confident using it. It is often used for people, methods, products, or tools.",
+      "literal": "Someone who has been tested and has earned your trust.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · choosing a supplier",
+          "sentence": "We usually choose a tried and trusted supplier when the project cannot afford delays.",
+          "highlight": "tried and trusted",
+          "tip": "Often used for tools, services, people, or processes with a good track record."
+        },
+        {
+          "setting": "social",
+          "where": "Giving advice · recommending a restaurant",
+          "sentence": "That little Italian place nearby is tried and trusted by the whole neighbourhood.",
+          "highlight": "tried and trusted",
+          "tip": "Sounds warm and reassuring rather than overly formal."
+        },
+        {
+          "setting": "writing",
+          "where": "Business recommendation · email",
+          "sentence": "For sensitive client files, our tried and tested encryption system remains the safest option.",
+          "highlight": "tried and tested",
+          "tip": "‘Tried and tested’ is a close variant and fits especially well in formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines two older ideas: something has been tested, and someone or something has been judged worthy of trust. Its exact first appearance is difficult to pin down, but the expression was in use by the 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English speakers long used ‘tried’ for something tested and ‘trusted’ for something regarded as dependable."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase ‘tried and trusted’ appears in writing and becomes established as a description of reliable people, methods, and things."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common way to recommend something with a proven record."
+          }
+        ]
+      },
+      "similar": [
+        "well established",
+        "reliable",
+        "proven",
+        "time-tested"
+      ],
+      "opposite": "unproven",
+      "pitfall": "It usually describes something with a proven record, not merely something you happen to trust."
+    },
+    {
+      "id": "turn-back",
+      "kind": "idiom",
+      "term": "turn back",
+      "pos": "phrasal verb",
+      "register": "Everyday",
+      "meaning": "To change direction and go back the way you came.",
+      "nuance": "This is natural when someone is lost, late, or decides not to continue. It can also mean preventing something or someone from moving forward.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office building · wrong floor",
+          "sentence": "The badge reader rejected my pass, so I had to turn back and ask security for help.",
+          "highlight": "turn back",
+          "tip": "Common for changing your route or returning from a journey."
+        },
+        {
+          "setting": "social",
+          "where": "Walking home · sudden storm",
+          "sentence": "It started pouring, so we turned back and headed for the café instead.",
+          "highlight": "turned back",
+          "tip": "The past tense is ‘turned back’, with ‘back’ unchanged."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel update · delayed departure",
+          "sentence": "Flights to the island may turn back because of strong winds.",
+          "highlight": "turn back",
+          "tip": "Often used when a vehicle or group reverses its route."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the ordinary meanings of ‘turn’ and ‘back’. Its earliest uses referred to changing direction, before the figurative sense of returning or reversing developed.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Middle English",
+            "text": "The word ‘turn’ was already used for changing direction."
+          },
+          {
+            "when": "1300s",
+            "text": "Early records show the phrase being used for moving or facing in the opposite direction."
+          },
+          {
+            "when": "Later",
+            "text": "The meaning expanded to include returning, reversing a decision, or stopping progress."
+          }
+        ]
+      },
+      "similar": [
+        "turn around",
+        "head back",
+        "go back"
+      ],
+      "opposite": "carry on",
+      "pitfall": "Do not confuse ‘turn back’ with ‘turn around’, which can also mean to reverse a decision or improve someone’s mood."
+    },
+    {
+      "id": "turn-off",
+      "kind": "idiom",
+      "term": "turn off",
+      "pos": "phrase",
+      "hint": "stop paying attention",
+      "register": "Everyday",
+      "meaning": "To stop showing interest or attention in what someone is saying.",
+      "nuance": "It can describe withdrawing mentally or losing interest. It may sound blunt, so use it carefully when speaking to the person involved.",
+      "literal": "Physically switching off a device.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Long team briefing",
+          "sentence": "During long briefings, I mentally turn off when the details stop being relevant.",
+          "highlight": "turn off",
+          "tip": "Often means withdrawing attention, not physically leaving."
+        },
+        {
+          "setting": "social",
+          "where": "Tired conversation",
+          "sentence": "I tend to turn off when someone keeps repeating a story I’ve already heard.",
+          "highlight": "turn off",
+          "tip": "A casual way to describe losing interest in a conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Critical review",
+          "sentence": "A dry opening can make readers turn off before they understand the main point.",
+          "highlight": "turn off",
+          "tip": "Common when discussing style, entertainment or audience engagement."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the older idea of switching off a source of power. Its figurative sense developed by analogy, with people metaphorically switching off their attention.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Turning off electrical devices becomes a familiar everyday expression."
+          },
+          {
+            "when": "Early 20th century",
+            "text": "The figurative sense of withdrawing attention or interest becomes established."
+          },
+          {
+            "when": "Today",
+            "text": "Means disengaging mentally, especially from a conversation or performance."
+          }
+        ]
+      },
+      "similar": [
+        "tune out",
+        "zone out",
+        "switch off"
+      ],
+      "opposite": "tune in",
+      "pitfall": "Don’t use it for physical actions such as turning off a light, where you can simply say ‘switch off’."
+    },
+    {
+      "id": "turn-on",
+      "kind": "idiom",
+      "term": "turn on",
+      "pos": "phrase",
+      "hint": "switch to on",
+      "register": "Common at work",
+      "meaning": "To switch something on, or to make someone react with interest, emotion or energy.",
+      "nuance": "The meaning depends on the object: “turn on the lights” activates them, while “turn on the audience” means to arouse its interest or enthusiasm.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office · starting a meeting",
+          "sentence": "Please turn on your microphone when you want to speak.",
+          "highlight": "turn on",
+          "tip": "Used for devices, features and settings that have an on position."
+        },
+        {
+          "setting": "social",
+          "where": "Party · catching up",
+          "sentence": "You always turn on the charm when there are new people around.",
+          "highlight": "turn on",
+          "tip": "Here it means to become more lively or appealing."
+        },
+        {
+          "setting": "writing",
+          "where": "Technology guide",
+          "sentence": "Turn on location services only when the app needs them.",
+          "highlight": "Turn on",
+          "tip": "Capitalise the verb when it begins an instruction or sentence."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the everyday idea of switching a machine or device from off to on. Its broader figurative sense, meaning to arouse interest or emotion, was also established in the 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used “on” for the active position of switches, machines and lights."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers began using “turn on” for both activating devices and inspiring lively responses in people."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase is common in technology, work and social conversation."
+          }
+        ]
+      },
+      "similar": [
+        "switch on",
+        "activate",
+        "turn up"
+      ],
+      "opposite": "turn off",
+      "pitfall": "“Turn on” can also have a sexual meaning, so consider the context and audience."
+    },
+    {
+      "id": "turn-out",
+      "kind": "idiom",
+      "term": "turn out",
+      "pos": "phrasal verb",
+      "hint": "reveal what something really is",
+      "register": "Everyday",
+      "meaning": "To prove to be something after events unfold or the facts become clear.",
+      "nuance": "It often introduces a surprising or previously unknown result, as in “turn out to be.” It can also mean something develops, happens, or takes place.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · unexpected results",
+          "sentence": "The risky project turned out to be our most profitable launch this year.",
+          "highlight": "turned out",
+          "tip": "Often followed by “to be” when naming what something proved to be."
+        },
+        {
+          "setting": "social",
+          "where": "Reconnecting · changing plans",
+          "sentence": "The quiet café turned out to be the perfect place for our first date.",
+          "highlight": "turned out",
+          "tip": "Use it when a later discovery changes someone’s initial impression."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · investigation",
+          "sentence": "The suspect turned out to have been working under a false identity.",
+          "highlight": "turned out",
+          "tip": "Common in reporting when new facts reveal the true situation."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from the older literal idea of turning something outward or exposing it. Its figurative use for something becoming known or proving to be a certain type of thing was established by the early 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used “turn out” literally for exposing, emptying, or moving something outward."
+          },
+          {
+            "when": "1800s",
+            "text": "Figurative uses began to describe events becoming known or proving to be something."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly reports an outcome, often a surprising one."
+          }
+        ]
+      },
+      "similar": [
+        "end up",
+        "work out",
+        "prove to be"
+      ],
+      "pitfall": "The meaning depends on context: “turn out” can also mean to attend an event, empty a room, or produce something."
+    },
+    {
+      "id": "under-someones-nose",
+      "kind": "idiom",
+      "term": "under someone's nose",
+      "pos": "idiom",
+      "hint": "extremely close, but unnoticed",
+      "register": "Everyday",
+      "meaning": "Very near to someone, yet they do not notice something that should be obvious.",
+      "nuance": "It often implies that someone has overlooked something because of distraction, convenience, or overconfidence. It can also suggest that something is happening right in front of people.",
+      "literal": "Directly beneath a person’s nose.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office review · a missed error",
+          "sentence": "The duplicated setting was under Maya's nose the whole time.",
+          "highlight": "under Maya's nose",
+          "tip": "Use it for an obvious problem or opportunity that someone failed to notice."
+        },
+        {
+          "setting": "social",
+          "where": "Friends chatting · a visible detail",
+          "sentence": "Your keys were on the table under your nose the entire evening.",
+          "highlight": "under your nose",
+          "tip": "Often adds light amusement or frustration to the story."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · an overlooked threat",
+          "sentence": "The warning signs were under the regulator's nose for months.",
+          "highlight": "under the regulator's nose",
+          "tip": "Common in journalism when describing something obvious that was ignored."
+        }
+      ],
+      "origin": {
+        "summary": "The expression was in use by the early 1800s, but its exact literary source is unclear. Its literal nose image developed into a broad way of describing something close and readily noticeable.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1800s",
+            "text": "Print records begin using the expression to mean directly in front of someone."
+          },
+          {
+            "when": "1900s",
+            "text": "The phrase becomes established for anything obvious that someone overlooks."
+          },
+          {
+            "when": "Today",
+            "text": "It describes missed details, opportunities, dangers, or events happening nearby."
+          }
+        ]
+      },
+      "similar": [
+        "right under your nose",
+        "in plain sight",
+        "within easy reach"
+      ],
+      "opposite": "far from sight",
+      "pitfall": "It usually implies that the thing was easy to notice, not that it was physically tiny or hidden."
+    },
+    {
+      "id": "whats-up",
+      "kind": "idiom",
+      "term": "what's up",
+      "pos": "phrase",
+      "hint": "a casual greeting",
+      "register": "Casual",
+      "meaning": "A friendly way to ask someone how they are or what they have been doing.",
+      "nuance": "It is relaxed and informal, so it suits friends, colleagues, and casual messages rather than formal conversations.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Morning greeting · starting the day",
+          "sentence": "What's up? I heard the client moved the deadline to Friday.",
+          "highlight": "What's up",
+          "tip": "Use it as an informal opener with people you already know."
+        },
+        {
+          "setting": "social",
+          "where": "Meeting a friend · making small talk",
+          "sentence": "What's up? I haven't seen you since the summer party.",
+          "highlight": "What's up",
+          "tip": "It often invites a quick update rather than a serious conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message · checking in",
+          "sentence": "Hey, what's up? Let me know when you're free to chat this week.",
+          "highlight": "what's up",
+          "tip": "Common in texts and informal emails, but too casual for formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the literal question 'What is up?' and became a familiar greeting in American English during the early 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1900s",
+            "text": "American English uses 'What's up?' as both a question and a casual greeting."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a relaxed way to ask how someone is or open a conversation."
+          }
+        ]
+      },
+      "similar": [
+        "How are you?",
+        "How's it going?",
+        "What's happening?"
+      ],
+      "opposite": "Goodbye",
+      "pitfall": "It is usually friendly and informal, so avoid using it in a formal presentation or a tense conversation."
+    },
+    {
+      "id": "you-bet",
+      "kind": "idiom",
+      "term": "You bet",
+      "pos": "phrase",
+      "hint": "absolutely yes",
+      "register": "Casual",
+      "meaning": "An emphatic way of saying that something is certainly true or will certainly happen.",
+      "nuance": "It sounds confident and enthusiastic, though it can be mildly sarcastic depending on the context.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · tight deadline",
+          "sentence": "You bet we’ll need another designer if the client wants it by Friday.",
+          "highlight": "You bet",
+          "tip": "Useful for stressing an obvious prediction or consequence."
+        },
+        {
+          "setting": "social",
+          "where": "Plans with friends",
+          "sentence": "You bet I’m coming once I finish work on Friday.",
+          "highlight": "You bet",
+          "tip": "A friendly, emphatic way to confirm that you will do something."
+        },
+        {
+          "setting": "writing",
+          "where": "Casual email to a colleague",
+          "sentence": "Could you send the latest figures? You bet I’ll reply this afternoon.",
+          "highlight": "You bet",
+          "tip": "Suitable for informal messages, but not usually formal reports."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase grew from the older meaning of ‘bet’ as a wager. By the 19th century, ‘you bet’ was being used in American English to give a confident affirmative answer.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "‘Bet’ was used for making a wager or taking a risk on an outcome."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase appears in American English as an emphatic expression of certainty."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common informal way to say ‘certainly’ or ‘you can be sure’."
+          }
+        ]
+      },
+      "similar": [
+        "You can bet on it",
+        "Without a doubt",
+        "I’d bet on it"
+      ],
+      "pitfall": "It normally means strong agreement, not that you are literally making a wager."
+    }
+  ]
+}

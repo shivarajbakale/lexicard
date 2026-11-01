@@ -1,0 +1,1686 @@
+{
+  "id": "words-society-people-1",
+  "kind": "word",
+  "name": "Society & people · 1",
+  "blurb": "25 words about society & people",
+  "cards": [
+    {
+      "id": "abode",
+      "kind": "word",
+      "term": "abode",
+      "pos": "noun",
+      "phonetic": "/əˈboʊd/",
+      "sayIt": "uh-BOHD",
+      "register": "Formal",
+      "meaning": "A person’s home or the place where someone lives.",
+      "nuance": "Usually sounds literary or old-fashioned, especially in phrases such as “of abode.” In everyday conversation, say “home” or “residence.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Relocation email · housing details",
+          "sentence": "Please provide your new place of abode before the end of the month.",
+          "highlight": "place of abode",
+          "tip": "Useful in formal forms and templates where “home address” sounds too informal."
+        },
+        {
+          "setting": "social",
+          "where": "Inviting a friend · giving directions",
+          "sentence": "Welcome to my humble abode; the kettle is already on.",
+          "highlight": "humble abode",
+          "tip": "A playful way to refer to your home, often used with humor or exaggeration."
+        },
+        {
+          "setting": "writing",
+          "where": "Short story · describing a character",
+          "sentence": "He left the city and sought a quiet abode near the coast.",
+          "highlight": "quiet abode",
+          "tip": "The adjective before “abode” adds atmosphere and suits descriptive or literary writing."
+        }
+      ],
+      "origin": {
+        "summary": "Originally a verb meaning “to stay or remain,” closely related to “abide.” Its noun use for a dwelling developed later.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The word existed in forms related to “abide,” meaning “to stay” or “remain.”"
+          },
+          {
+            "when": "Middle English",
+            "text": "The noun meaning “a dwelling” began developing in the 1400s."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal or literary language for a home or residence."
+          }
+        ]
+      },
+      "similar": [
+        "home",
+        "residence",
+        "dwelling",
+        "habitation"
+      ],
+      "opposite": null,
+      "pitfall": "In “place of abode,” “abode” means a home; it does not mean the action of staying."
+    },
+    {
+      "id": "access",
+      "kind": "word",
+      "term": "access",
+      "pos": "noun & verb",
+      "phonetic": "/ˈækses/",
+      "sayIt": "AK-sess",
+      "register": "Common at work",
+      "meaning": "The permission or ability to enter, use, or obtain something.",
+      "nuance": "As a noun, access is the opportunity to reach a place, service, or information; as a verb, it means to gain entry or use. It can also refer to more than physical entry, such as having access to training or healthcare.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Shared drive · locating a document",
+          "sentence": "Do you have access to the shared drive, or should I send you a direct link?",
+          "highlight": "access",
+          "tip": "Common when asking whether someone can reach a file, system, or restricted area."
+        },
+        {
+          "setting": "social",
+          "where": "Community centre · asking about support",
+          "sentence": "The centre offers free access to language classes for residents of the area.",
+          "highlight": "access",
+          "tip": "Often describes who is able to use a service or take part in an activity."
+        },
+        {
+          "setting": "writing",
+          "where": "Application form · explaining availability",
+          "sentence": "Applicants will have access to all training materials once their account has been activated.",
+          "highlight": "access",
+          "tip": "Useful in formal writing when explaining what users can reach or use."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin accessus, “a going to,” formed from accedere, meaning “to go to.” It reached English through Old French.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Accessus means “a going to” or “approach” and comes from accedere, “to go to.”"
+          },
+          {
+            "when": "1300s–1400s",
+            "text": "The word enters English through Old French acces in the sense of an entrance or means of reaching something."
+          },
+          {
+            "when": "Today",
+            "text": "It refers broadly to permission, ability, or opportunity to enter, use, or obtain something."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "accessible",
+          "label": "adjective"
+        },
+        {
+          "term": "accessibility",
+          "label": "noun"
+        },
+        {
+          "term": "inaccessible",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "entry",
+        "admission",
+        "availability",
+        "permission"
+      ],
+      "opposite": "restriction",
+      "pitfall": "Access means the ability or permission to reach something; it does not mean that the thing itself is available."
+    },
+    {
+      "id": "accost",
+      "kind": "word",
+      "term": "accost",
+      "pos": "verb",
+      "phonetic": "/əˈkɒst/",
+      "sayIt": "uh-KOST",
+      "register": "Formal",
+      "meaning": "To approach someone directly and begin speaking to them, especially without invitation.",
+      "nuance": "It often suggests an abrupt or unwelcome approach, so it can sound confrontational even when no hostility is intended.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Press event · seeking a comment",
+          "sentence": "A reporter accosted the director as she left the building.",
+          "highlight": "accosted",
+          "tip": "Use it when someone approaches another person directly, often unexpectedly."
+        },
+        {
+          "setting": "social",
+          "where": "Outside a venue · stranger approaches",
+          "sentence": "A man accosted us outside the restaurant and asked for directions.",
+          "highlight": "accosted",
+          "tip": "The word can make an ordinary approach sound more intrusive or forceful."
+        },
+        {
+          "setting": "writing",
+          "where": "Opening paragraph · challenging an assumption",
+          "sentence": "The essay accosts a familiar argument and asks whether it really holds.",
+          "highlight": "accosts",
+          "tip": "Figurative use presents the topic as something the writer confronts head-on."
+        }
+      ],
+      "origin": {
+        "summary": "From French accoster, meaning to approach or address someone, which came from a medieval Latin word meaning to go alongside.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Medieval Latin",
+            "text": "Accostare develops the sense of coming alongside or approaching someone."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English through French accoster, initially meaning to approach or address a person."
+          },
+          {
+            "when": "Today",
+            "text": "It usually describes a direct approach, often implying that it was unexpected."
+          }
+        ]
+      },
+      "similar": [
+        "approach",
+        "hail",
+        "buttonhole",
+        "confront"
+      ],
+      "opposite": "avoid",
+      "pitfall": "Do not use it simply for meeting or seeing someone; it highlights an active approach and often carries a slightly confrontational tone."
+    },
+    {
+      "id": "anthropologist",
+      "kind": "word",
+      "term": "anthropologist",
+      "pos": "noun",
+      "phonetic": "/ˌænθrəˈpɑːlədʒɪst/",
+      "sayIt": "AN-thruh-POL-uh-jist",
+      "register": "Formal",
+      "meaning": "A person who studies human beings, their cultures, societies, and behaviour.",
+      "nuance": "The word usually refers to an academic or researcher who uses fieldwork, observation, and interviews to understand how people live together. In everyday conversation, it may simply mean someone who is knowledgeable about human cultures.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Research meeting · discussing a community study",
+          "sentence": "The anthropologist spent three months interviewing residents to understand how the neighbourhood had changed.",
+          "highlight": "anthropologist",
+          "tip": "Use it for someone who studies people and cultures, usually as part of academic or research work."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · explaining a career",
+          "sentence": "My cousin is an anthropologist, so she is always curious about why different communities behave differently.",
+          "highlight": "anthropologist",
+          "tip": "It can sound intellectually curious and slightly academic in casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Article introduction · presenting expert research",
+          "sentence": "Anthropologist Dr. Leila Hassan explains how shared rituals strengthen social bonds.",
+          "highlight": "Anthropologist",
+          "tip": "Use it before a name or role to introduce a researcher who studies human societies and culture."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek anthropos, meaning ‘human being’, and -logia, meaning ‘the study of’. The English form developed in the 19th century as people began using ‘anthropology’ for the academic study of humanity.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Anthropos means ‘human being’, and -logia means ‘study of’."
+          },
+          {
+            "when": "1800s",
+            "text": "Anthropology becomes established in English as the study of human beings and their societies."
+          },
+          {
+            "when": "1800s",
+            "text": "Anthropologist appears as the name for a specialist in this field."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "anthropology",
+          "label": "noun"
+        },
+        {
+          "term": "anthropological",
+          "label": "adjective"
+        },
+        {
+          "term": "anthropologically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "sociologist",
+        "archaeologist",
+        "ethnographer",
+        "social scientist"
+      ],
+      "pitfall": "Don’t confuse anthropologist, who studies human cultures and societies, with anthropologist’s use in the phrase ‘anthropology of’ when discussing abstract human behaviour."
+    },
+    {
+      "id": "appellation",
+      "kind": "word",
+      "term": "appellation",
+      "pos": "noun",
+      "phonetic": "/əˌpelˈeɪʃən/",
+      "sayIt": "uh-PEL-AY-shun",
+      "register": "Formal",
+      "meaning": "A name, title or designation given to a person, place or thing.",
+      "nuance": "It often suggests that the name is official, formal or more impressive than the everyday alternative. It can also sound a little grand or old-fashioned.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product review · naming an internal tool",
+          "sentence": "The shared drive has the grand appellation “Knowledge Hub,” although it mostly holds spreadsheets.",
+          "highlight": "appellation",
+          "tip": "Use it when discussing an official title or name, especially with a touch of humour."
+        },
+        {
+          "setting": "social",
+          "where": "Wine dinner · asking about a vineyard",
+          "sentence": "The vineyard’s full appellation includes the grape, the region and the year.",
+          "highlight": "appellation",
+          "tip": "In wine, it means the officially recognized place where the grapes were grown."
+        },
+        {
+          "setting": "writing",
+          "where": "Biography · describing a person’s title",
+          "sentence": "Under her professional appellation, she was known as the leading architect of the movement.",
+          "highlight": "appellation",
+          "tip": "Use it in formal writing when you want to emphasize a name, title or designation."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin appellation, meaning a calling, name or designation, related to appellare, “to call or name.” It entered English through Old French.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "Appellation develops from appellare, “to call or name,” with the sense of a name given to someone or something."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters Middle English from Old French appellation and Latin."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly formal and can refer to a title, official name or recognized designation."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "appellate",
+          "label": "adjective"
+        },
+        {
+          "term": "appellative",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "designation",
+        "title",
+        "name",
+        "label"
+      ],
+      "opposite": "anonymity",
+      "pitfall": "Don’t confuse it with appraisal, which is a judgement or assessment of quality."
+    },
+    {
+      "id": "artifact",
+      "kind": "word",
+      "term": "artifact",
+      "pos": "noun",
+      "phonetic": "/ˈɑːrtɪfækt/",
+      "sayIt": "AR-ti-fakt",
+      "register": "Common in specialist and technical work",
+      "meaning": "An object made or used by people, especially one that provides evidence about a particular period, culture, or activity.",
+      "nuance": "The word often suggests something old, unusual, or historically revealing. In technology, it can also mean an unwanted by-product, such as an image glitch.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product review · checking an export",
+          "sentence": "There’s a small compression artifact around the logo, so I’ll export the image again.",
+          "highlight": "artifact",
+          "tip": "In technical contexts, this usually means a defect caused by processing or display."
+        },
+        {
+          "setting": "social",
+          "where": "Museum visit · discussing an old object",
+          "sentence": "This coin is more than a decoration; it’s a rare artifact from the trading period.",
+          "highlight": "artifact",
+          "tip": "Use it for an object with historical, cultural, or personal significance."
+        },
+        {
+          "setting": "writing",
+          "where": "History essay · describing evidence",
+          "sentence": "The worn tools are valuable artifacts because they show how early communities worked with metal.",
+          "highlight": "artifacts",
+          "tip": "Pluralize it as artifacts when referring to several objects."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin artefactum, ‘a thing made by art or skill’, built from ars, ‘craft’, and facere, ‘to make’. The word entered English in the late Middle English period.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Artefactum combines ars, ‘craft or skill’, with facere, ‘to make’."
+          },
+          {
+            "when": "Late Middle English",
+            "text": "The word first referred to a skilled or artistic product."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly means a historical object, and in technical contexts, an unwanted by-product."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "artefact",
+          "label": "noun (British spelling)"
+        }
+      ],
+      "similar": [
+        "relic",
+        "object",
+        "by-product",
+        "remnant"
+      ],
+      "pitfall": "In British English, artefact is the standard spelling; artifact is also widely accepted."
+    },
+    {
+      "id": "automaton",
+      "kind": "word",
+      "term": "automaton",
+      "pos": "noun",
+      "phonetic": "/ɔːˈtɒmətən/",
+      "sayIt": "aw-TAH-muh-tun",
+      "register": "Formal",
+      "meaning": "A machine or person that acts mechanically, without independent thought or feeling.",
+      "nuance": "Literally, it can refer to a device that moves by a fixed mechanism. Figuratively, it describes someone whose behaviour seems lifeless or automatic, often with a critical or unsettling tone.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Process review · repetitive workflow",
+          "sentence": "The team redesigned the workflow so it no longer functioned like an automaton.",
+          "highlight": "automaton",
+          "tip": "Use it to suggest that a process has become rigid, repetitive and unresponsive to judgement."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · discussing a distant relative",
+          "sentence": "My aunt greets everyone in the same formulaic way, like a social automaton.",
+          "highlight": "automaton",
+          "tip": "In conversation, the word sounds literary and slightly exaggerated."
+        },
+        {
+          "setting": "writing",
+          "where": "Character description · lifeless behaviour",
+          "sentence": "He moved through the office each day like an automaton, never pausing to question the routine.",
+          "highlight": "automaton",
+          "tip": "The comparison can make a character’s behaviour feel eerie, deadened or excessively predictable."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek automaton, a neuter form of automatos meaning ‘self-acting’, built on autos, ‘self’. The word originally referred to self-moving devices and later acquired figurative meanings.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "Automaton develops from automatos, meaning ‘self-acting’ or ‘acting by itself’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English for mechanisms or figures that appeared to move by themselves."
+          },
+          {
+            "when": "1800s onward",
+            "text": "Its use broadens to describe machines and people that behave mechanically."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "automate",
+          "label": "verb"
+        },
+        {
+          "term": "automation",
+          "label": "noun"
+        },
+        {
+          "term": "automatic",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "robot",
+        "android",
+        "machine",
+        "puppet"
+      ],
+      "pitfall": "An automaton is not simply any robot: the word often stresses rigid, repetitive action that lacks independent judgement or feeling."
+    },
+    {
+      "id": "bedlam",
+      "kind": "word",
+      "term": "bedlam",
+      "pos": "noun",
+      "phonetic": "/ˈbɛd.ləm/",
+      "sayIt": "BED-lum",
+      "register": "Common in speech and writing",
+      "meaning": "A state of wild confusion, noise, and disorder.",
+      "nuance": "This is an informal, dramatic word for a place or situation that has suddenly become chaotic. It is more forceful than simply saying things are busy or messy.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget meeting · discussing competing priorities",
+          "sentence": "The budget meeting turned into bedlam when three teams began defending their own targets.",
+          "highlight": "bedlam",
+          "tip": "Use it when a normally controlled discussion becomes extremely noisy and chaotic."
+        },
+        {
+          "setting": "social",
+          "where": "Surprise party · unexpected guests arrive",
+          "sentence": "There was absolute bedlam when the guests walked in before the birthday guest was ready.",
+          "highlight": "bedlam",
+          "tip": "It adds drama to a story about confusion, noise, or people rushing in every direction."
+        },
+        {
+          "setting": "writing",
+          "where": "Incident report · describing a crowded event",
+          "sentence": "Organisers reported bedlam at the entrance after the opening announcement was delayed.",
+          "highlight": "bedlam",
+          "tip": "It works well in vivid reporting, but use a more neutral word in formal or technical documents."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Bedlam, the popular name for a medieval London hospital for people considered mentally ill. The institution's reputation helped turn its name into a word for extreme disorder.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Medieval period",
+            "text": "Bethlem, a London hospital associated with the care and confinement of people thought to be mentally ill, becomes known as Bedlam."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "Bedlam enters English as the name of the institution and then develops a figurative meaning connected with madness and disorder."
+          },
+          {
+            "when": "Today",
+            "text": "It describes a noisy, confused, or wildly chaotic situation."
+          }
+        ]
+      },
+      "similar": [
+        "mayhem",
+        "chaos",
+        "uproar",
+        "pandemonium"
+      ],
+      "opposite": "order",
+      "pitfall": "Bedlam describes a situation that is already out of control; it is usually too dramatic for a merely busy or crowded place."
+    },
+    {
+      "id": "bigot",
+      "kind": "word",
+      "term": "bigot",
+      "pos": "noun",
+      "phonetic": "/ˈbɪɡət/",
+      "sayIt": "BIG-uh",
+      "register": "Formal and strongly negative",
+      "meaning": "A person who holds harsh prejudice against a particular group and treats that prejudice as a rule.",
+      "nuance": "This is a serious accusation, not a general word for someone who is stubborn or opinionated. Bigot describes a person; bigoted usually describes an attitude, belief or action.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discriminatory decision",
+          "sentence": "The manager challenged the policy and refused to let one bigot dictate the team's work.",
+          "highlight": "bigot",
+          "tip": "Use it when describing persistent prejudice that shapes how someone treats others."
+        },
+        {
+          "setting": "social",
+          "where": "Family argument · identity-based insult",
+          "sentence": "He called her a bigot, but the insult shut down the conversation instead of challenging his view.",
+          "highlight": "bigot",
+          "tip": "Expect the word to escalate conflict because it labels a whole person negatively."
+        },
+        {
+          "setting": "writing",
+          "where": "Article analysis · explaining prejudice",
+          "sentence": "The article describes a bigot who sees one religious community as inferior to every other.",
+          "highlight": "bigot",
+          "tip": "Name the group, behaviour or belief when the context is clear and the evidence supports the accusation."
+        }
+      ],
+      "origin": {
+        "summary": "The word probably came through French from an older term used for a stubborn, ignorant or prejudiced person. Its exact earlier source is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier French",
+            "text": "The older French word was used as a hostile label for someone regarded as stubborn, ignorant or narrow-minded."
+          },
+          {
+            "when": "1600s",
+            "text": "English records appear during a period of strong religious and political divisions."
+          },
+          {
+            "when": "Today",
+            "text": "It is reserved for people who express or act on serious prejudice toward a group."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "bigoted",
+          "label": "adjective"
+        },
+        {
+          "term": "bigotry",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "prejudiced",
+        "intolerant",
+        "sectarian",
+        "xenophobic"
+      ],
+      "opposite": "open-minded",
+      "pitfall": "Do not use bigot as a loose insult for someone who disagrees with you; it specifically implies prejudice toward a group."
+    },
+    {
+      "id": "clique",
+      "kind": "word",
+      "term": "clique",
+      "pos": "noun",
+      "phonetic": "/kliːk/",
+      "sayIt": "KLEEK",
+      "register": "Everyday",
+      "meaning": "A small group of people who know one another and often behave as though outsiders do not belong.",
+      "nuance": "A clique can be neutral, but the word often suggests closeness, shared interests and exclusion. It is more commonly used about social, workplace or political groups than about an open team.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · hidden decision-making",
+          "sentence": "A clique of senior managers began deciding priorities without involving the rest of the team.",
+          "highlight": "clique",
+          "tip": "Use this when a close-knit group appears to be holding others at a distance."
+        },
+        {
+          "setting": "social",
+          "where": "Club night · meeting new people",
+          "sentence": "She joined the photography clique after a few weeks at the club.",
+          "highlight": "clique",
+          "tip": "The word can describe a social circle without directly criticising it."
+        },
+        {
+          "setting": "writing",
+          "where": "Article · describing political influence",
+          "sentence": "The report describes a political clique that shared interests and kept outsiders at a distance.",
+          "highlight": "clique",
+          "tip": "It is useful for showing how a powerful in-group protects its own interests."
+        }
+      ],
+      "origin": {
+        "summary": "Borrowed from French clique, meaning a small group or club. The French word is generally linked to clicking the tongue as a sign of agreement or shared understanding.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1700s",
+            "text": "French clique is borrowed into English for a small group of people with shared interests."
+          },
+          {
+            "when": "1800s",
+            "text": "The negative sense develops, suggesting a group that excludes others."
+          },
+          {
+            "when": "Today",
+            "text": "Used for social, workplace and political circles, often with a critical tone."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "cliquish",
+          "label": "adjective"
+        },
+        {
+          "term": "cliquishness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "circle",
+        "in-group",
+        "coterie",
+        "clan"
+      ],
+      "opposite": "open group",
+      "pitfall": "Do not assume the word is always hostile; it can simply identify a close-knit social group, although it often carries a negative implication."
+    },
+    {
+      "id": "conjugal",
+      "kind": "word",
+      "term": "conjugal",
+      "pos": "adjective",
+      "phonetic": "/ˈkɒndʒʊɡəl/",
+      "sayIt": "KON-juh-guhl",
+      "register": "Formal",
+      "meaning": "Relating to marriage or to the relationship between married partners.",
+      "nuance": "It sounds formal and traditional, often appearing in legal, religious or official contexts. It describes marriage as a partnership rather than the feelings connected with it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "HR policy · discussing leave",
+          "sentence": "The policy includes ten weeks of conjugal leave for employees whose spouses are having a baby.",
+          "highlight": "conjugal",
+          "tip": "Use it in formal workplace policies when describing leave or benefits connected with marriage."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding conversation · introducing a partner",
+          "sentence": "After thirty years of conjugal life, they still enjoy planning holidays together.",
+          "highlight": "conjugal",
+          "tip": "It sounds more formal than saying “married life” and may sound old-fashioned in casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Legal document · marriage clause",
+          "sentence": "The agreement sets out each partner’s rights and responsibilities in the conjugal relationship.",
+          "highlight": "conjugal",
+          "tip": "Use it in legal or formal writing when you want to refer clearly to the married partnership."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin conjugalis, meaning “of marriage,” based on conjugium, “a marriage or husband-and-wife union.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Conjugalis develops as an adjective meaning “of or relating to marriage.”"
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in formal legal and religious writing."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly formal, especially in legal, religious and policy contexts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "conjugate",
+          "label": "adjective"
+        },
+        {
+          "term": "conjugally",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "marital",
+        "matrimonial",
+        "spousal"
+      ],
+      "opposite": "non-marital",
+      "pitfall": "Conjugal refers to marriage or married partners, not every kind of romantic relationship."
+    },
+    {
+      "id": "connubial",
+      "kind": "word",
+      "term": "connubial",
+      "pos": "adjective",
+      "phonetic": "/kəˈnuːbiəl/",
+      "sayIt": "kuh-NOO-bee-uhl",
+      "register": "Formal",
+      "meaning": "Relating to marriage or the relationship between spouses.",
+      "nuance": "A formal, slightly literary word, often used in legal, historical or ceremonial contexts. It sounds more traditional than everyday words such as “marital.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Legal meeting · reviewing a marriage agreement",
+          "sentence": "The agreement sets out the connubial rights and responsibilities of both spouses.",
+          "highlight": "connubial",
+          "tip": "Use it in legal or formal writing when discussing the rights and duties of married partners."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding speech · celebrating a couple",
+          "sentence": "May your connubial journey be filled with trust, laughter and shared adventures.",
+          "highlight": "connubial",
+          "tip": "It suits a ceremonial or heartfelt toast, but may sound overly formal in casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "History essay · describing family life",
+          "sentence": "The diary offers a detailed picture of connubial life in the early nineteenth century.",
+          "highlight": "connubial",
+          "tip": "Use it for a refined historical tone, especially before terms such as life, harmony or conflict."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin connubialis, meaning “of marriage,” which was derived from connubium, “marriage” or “the joining of a husband and wife.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Classical Latin",
+            "text": "Connubialis is formed from connubium, meaning “marriage” or “the lawful union of spouses.”"
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in formal legal and literary writing."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly formal and is sometimes used humorously to mean “married.”"
+          }
+        ]
+      },
+      "similar": [
+        "marital",
+        "matrimonial",
+        "spousal",
+        "conjugal"
+      ],
+      "opposite": "non-marital",
+      "pitfall": "Connubial mainly refers to marriage itself or the spouse relationship; “conjugal” more often points to a couple’s shared life or duties."
+    },
+    {
+      "id": "controversial",
+      "kind": "word",
+      "term": "controversial",
+      "pos": "adjective",
+      "phonetic": "/ˌkɒntrəˈvɜːrsəl/",
+      "sayIt": "kon-truh-VER-suhl",
+      "register": "Common at work",
+      "meaning": "Likely to cause disagreement or strong criticism because it affects people differently or challenges accepted ideas.",
+      "nuance": "Often used for policies, decisions, people and creative work that provoke debate. It describes the subject as disputed, not necessarily wrong.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing a policy",
+          "sentence": "The proposed bonus system is controversial because several departments say it would reward visibility rather than performance.",
+          "highlight": "controversial",
+          "tip": "Use it when a decision is likely to divide colleagues or attract criticism."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · family debate",
+          "sentence": "Her comment about the restaurant’s hiring practices turned into a controversial conversation.",
+          "highlight": "controversial",
+          "tip": "This describes a subject that provokes disagreement; “disputed” is a useful alternative."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · reviewing a film",
+          "sentence": "The documentary explores a controversial decision that remains debated today.",
+          "highlight": "controversial",
+          "tip": "Often paired with issue, topic, decision, idea or question."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin controversus, meaning “disputed” or “open to dispute,” based on controversia, meaning a legal dispute or matter of contention.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Controversia referred to a legal dispute or contested matter."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in legal and political contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It describes anything that causes disagreement, debate or criticism."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "controversy",
+          "label": "noun"
+        },
+        {
+          "term": "controversially",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "contentious",
+        "disputed",
+        "debated",
+        "divisive"
+      ],
+      "opposite": "uncontroversial",
+      "pitfall": "Don’t use “controversial” as a synonym for “wrong”; it only says that a topic or decision causes strong disagreement."
+    },
+    {
+      "id": "coterie",
+      "kind": "word",
+      "term": "coterie",
+      "pos": "noun",
+      "phonetic": "/ˈkəʊtəri/",
+      "sayIt": "KOH-tuh-ree",
+      "register": "Formal",
+      "meaning": "A small, close-knit group of people who share an interest, background, or social connection.",
+      "nuance": "Often suggests that the group is exclusive or that members know one another well. It can sound approving or slightly snobbish, depending on the context.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Leadership discussion · building a support group",
+          "sentence": "The senior managers formed a coterie around the new strategy, but they kept the wider team informed.",
+          "highlight": "coterie",
+          "tip": "Useful when a distinct inner group is forming within an organisation."
+        },
+        {
+          "setting": "social",
+          "where": "Book club · introducing a close friend",
+          "sentence": "At the party, she introduced me to her coterie of university friends.",
+          "highlight": "coterie",
+          "tip": "It fits social circles made up of people with a shared history or strong connection."
+        },
+        {
+          "setting": "writing",
+          "where": "Profile · describing an influential circle",
+          "sentence": "A small coterie of artists helped shape the movement and brought its ideas to a wider audience.",
+          "highlight": "coterie",
+          "tip": "A polished word for a close, influential or somewhat exclusive circle."
+        }
+      ],
+      "origin": {
+        "summary": "Borrowed from French coterie, meaning a small group or circle. Its earlier French origin is uncertain, so claims that it comes from a particular village or place name should be treated cautiously.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "French",
+            "text": "The word coterie appears in French with the sense of a small group or circle of people."
+          },
+          {
+            "when": "1800s",
+            "text": "Coterie enters English, initially referring to a body of people sharing an interest or connection."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for a close-knit, sometimes exclusive social or professional circle."
+          }
+        ]
+      },
+      "similar": [
+        "clique",
+        "circle",
+        "inner circle",
+        "set"
+      ],
+      "opposite": "mass",
+      "pitfall": "Don’t use it as a simple synonym for group; coterie emphasises a close, often selective circle."
+    },
+    {
+      "id": "decorum",
+      "kind": "word",
+      "term": "decorum",
+      "pos": "noun",
+      "phonetic": "/dɪˈkɔːrəm/",
+      "sayIt": "dih-KOR-um",
+      "register": "Formal",
+      "meaning": "Dignified and respectful behaviour that suits the setting.",
+      "nuance": "It suggests politeness, self-control and awareness of what is appropriate. The word can sound old-fashioned, but it is useful when describing formal or sensitive situations.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Board meeting · confronting a dispute",
+          "sentence": "Both teams maintained decorum despite the tense disagreement over the budget.",
+          "highlight": "decorum",
+          "tip": "Often used with verbs such as maintain, preserve or observe."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · resolving an argument",
+          "sentence": "He showed remarkable decorum when his uncle began criticising the wedding plans.",
+          "highlight": "decorum",
+          "tip": "Use it for calm, respectful conduct, especially under pressure."
+        },
+        {
+          "setting": "writing",
+          "where": "Professional apology · acknowledging a mistake",
+          "sentence": "The apology acknowledged the delay and expressed the decorum expected in a client relationship.",
+          "highlight": "decorum",
+          "tip": "It fits formal writing better than everyday speech."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin decorum, meaning fitting or proper, based on decere, meaning to be fitting or suitable.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Decorum means fitting or proper and is related to decere, meaning to be suitable."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with meanings connected with propriety and suitable conduct."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly refers to dignified and respectful behaviour."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "decorous",
+          "label": "adjective"
+        },
+        {
+          "term": "decorously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "etiquette",
+        "propriety",
+        "dignity",
+        "respectability"
+      ],
+      "opposite": "impropriety",
+      "pitfall": "Do not confuse decorum with décor, which means the decoration or style of a room."
+    },
+    {
+      "id": "deference",
+      "kind": "word",
+      "term": "deference",
+      "pos": "noun",
+      "phonetic": "/ˈdɛfərəns/",
+      "sayIt": "DEF-er-uhns",
+      "register": "Formal",
+      "meaning": "Polite respect shown by accepting someone’s authority, opinion or wishes.",
+      "nuance": "It can sound admiring, but it may also suggest that you are yielding too much power or avoiding disagreement.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · differing opinions",
+          "sentence": "She showed deference to the director’s decision, although several managers had serious concerns.",
+          "highlight": "deference",
+          "tip": "Common in formal descriptions of workplace hierarchy and decision-making."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · discussing plans",
+          "sentence": "He treated her suggestion with deference, even though everyone else thought it was impractical.",
+          "highlight": "deference",
+          "tip": "Often describes unusually careful or respectful treatment of another person."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal report · explaining a decision",
+          "sentence": "Out of deference to local customs, the ceremony began later than scheduled.",
+          "highlight": "deference",
+          "tip": "The usual pattern is “deference to” followed by a person, group or custom."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin deferentia, meaning a bowing down or showing respect, based on deferre, “to bring down” or “yield”. English later used it for respectful submission.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Deferentia develops from deferre, combining de-, “down”, with ferre, “to carry” or “bring”."
+          },
+          {
+            "when": "1400s",
+            "text": "The word enters English with meanings connected with putting something aside and showing respect."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means respectful or courteous regard, often with an implication of yielding to authority."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "defer",
+          "label": "verb"
+        },
+        {
+          "term": "deferential",
+          "label": "adjective"
+        },
+        {
+          "term": "deferentially",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "respect",
+        "courtesy",
+        "reverence",
+        "submission"
+      ],
+      "opposite": "disregard",
+      "pitfall": "Deference is not simply obedience: it focuses on respectful or courteous treatment, often without direct agreement."
+    },
+    {
+      "id": "destitution",
+      "kind": "word",
+      "term": "destitution",
+      "pos": "noun",
+      "phonetic": "/ˌdɛstɪˈtjuːʃən/",
+      "sayIt": "des-ti-TOO-shun",
+      "register": "Formal",
+      "meaning": "The state of having too little money or resources to meet basic needs such as food, housing and clothing.",
+      "nuance": "It is a serious and often legal term for severe poverty. In everyday conversation, poverty is usually less formal and may be used for less extreme circumstances.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Charity report · describing hardship",
+          "sentence": "The report found that families facing long-term unemployment were at risk of destitution.",
+          "highlight": "destitution",
+          "tip": "Use it in reports or formal discussions when describing severe economic hardship."
+        },
+        {
+          "setting": "social",
+          "where": "Community meeting · supporting vulnerable neighbours",
+          "sentence": "One neighbour was close to destitution before the local food bank stepped in.",
+          "highlight": "destitution",
+          "tip": "It sounds compassionate but grave, so avoid using it casually for ordinary financial difficulty."
+        },
+        {
+          "setting": "writing",
+          "where": "News article · explaining poverty levels",
+          "sentence": "Rising housing costs have pushed some low-income households closer to destitution.",
+          "highlight": "destitution",
+          "tip": "It fits formal journalism and policy writing, especially when describing a serious worsening of poverty."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin destitutio, meaning abandonment or deprivation, based on destituere, ‘to set apart’ or ‘leave without’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Destitutio develops the sense of being left without resources or support."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters Middle English in the sense of deprivation or abandonment."
+          },
+          {
+            "when": "Today",
+            "text": "It is used mainly for the state of extreme poverty or deprivation."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "destitute",
+          "label": "adjective"
+        },
+        {
+          "term": "destitutely",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "poverty",
+        "deprivation",
+        "hardship",
+        "penury",
+        "impoverishment"
+      ],
+      "opposite": "affluence",
+      "pitfall": "Do not use destitution as a direct synonym for poverty in casual speech; it is more severe and much more formal."
+    },
+    {
+      "id": "disciple",
+      "kind": "word",
+      "term": "disciple",
+      "pos": "noun",
+      "phonetic": "/dɪˈsaɪpəl/",
+      "sayIt": "dis-SAY-pul",
+      "register": "Common in education and religious contexts",
+      "meaning": "Someone who follows and learns from a teacher, leader, or belief.",
+      "nuance": "The word suggests more than casual interest: a disciple is often a committed follower who develops a distinctive understanding of the person or ideas.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team workshop · learning from a leader",
+          "sentence": "She became a disciple of the sales coach and soon was mentoring new reps herself.",
+          "highlight": "disciple",
+          "tip": "Often means a devoted follower who adopts a mentor’s methods."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · discussing a famous artist",
+          "sentence": "He was a disciple of the painter and later opened a studio nearby.",
+          "highlight": "disciple",
+          "tip": "Use it for someone who learns directly from an artist, writer, or thinker."
+        },
+        {
+          "setting": "writing",
+          "where": "History essay · describing a religious movement",
+          "sentence": "The early disciples travelled widely to teach the message to others.",
+          "highlight": "disciples",
+          "tip": "Plural disciples commonly refers to followers of a religious teacher."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin discipulus, meaning ‘learner’ or ‘pupil’, originally from Greek mathētēs, a learner who followed a teacher.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Mathētēs meant a learner or follower of a philosopher or teacher."
+          },
+          {
+            "when": "Latin",
+            "text": "Discipulus developed into the ordinary Latin word for a pupil or learner."
+          },
+          {
+            "when": "Middle English",
+            "text": "Entered English with meanings including learner, follower, and religious devotee."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "disciplinary",
+          "label": "adjective"
+        },
+        {
+          "term": "discipline",
+          "label": "noun"
+        },
+        {
+          "term": "discipline",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "follower",
+        "adherent",
+        "student",
+        "supporter",
+        "protégé"
+      ],
+      "opposite": "mentor",
+      "pitfall": "Do not confuse disciple with discipline: a disciple is a person who follows or learns from someone, while discipline refers to training, controlled behaviour, or a field of study."
+    },
+    {
+      "id": "diversity",
+      "kind": "word",
+      "term": "diversity",
+      "pos": "noun",
+      "phonetic": "/dɪˈvɜːrsəti/",
+      "sayIt": "dih-VER-suh-tee",
+      "register": "Common at work",
+      "meaning": "The presence of people with different backgrounds, experiences, identities, or points of view within a group.",
+      "nuance": "Often used positively when discussing teams, communities, or organisations, though people may disagree about how much difference a setting should contain.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · improving collaboration",
+          "sentence": "Hiring people from different backgrounds brought valuable diversity to the product team.",
+          "highlight": "diversity",
+          "tip": "A useful word for recognising a range of perspectives within a group."
+        },
+        {
+          "setting": "social",
+          "where": "Community event · introducing a group",
+          "sentence": "The panel celebrated the diversity of our neighbourhood, from its cultures to its age groups.",
+          "highlight": "diversity",
+          "tip": "It works well when describing the variety that makes a community distinctive."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · reviewing workplace culture",
+          "sentence": "The report examines diversity in leadership and the recruitment practices behind it.",
+          "highlight": "diversity",
+          "tip": "In formal writing, specify the kind of difference you mean, such as gender, ethnicity, age, or background."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin diversitas, meaning difference or variety. It entered English in the 1500s and originally referred broadly to difference.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "diversitas, ‘difference, variety’, from diversus, ‘different’."
+          },
+          {
+            "when": "1500s",
+            "text": "Enters English with meanings connected to difference and variety."
+          },
+          {
+            "when": "1800s",
+            "text": "The word becomes closely associated with biological variety and varieties of life."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly describes varied identities, experiences, cultures, or perspectives within a group."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "diverse",
+          "label": "adjective"
+        },
+        {
+          "term": "diversify",
+          "label": "verb"
+        },
+        {
+          "term": "diversification",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "variety",
+        "inclusion",
+        "difference",
+        "range"
+      ],
+      "opposite": "homogeneity",
+      "pitfall": "Diversity describes the presence of difference; inclusion describes whether people are treated fairly and able to take part."
+    },
+    {
+      "id": "domicile",
+      "kind": "word",
+      "term": "domicile",
+      "pos": "noun",
+      "phonetic": "/ˈdɒməsaɪl/",
+      "sayIt": "DOM-uh-syle",
+      "register": "Formal",
+      "meaning": "The place where someone lives, especially as the address officially associated with them.",
+      "nuance": "It can sound legal or administrative, so it often appears in forms, contracts and official records. In general conversation, home or address is usually more natural.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Tax form · declaring residency",
+          "sentence": "Please enter your legal domicile and the date you moved there.",
+          "highlight": "domicile",
+          "tip": "Use this when a form asks for a formally recognised home address."
+        },
+        {
+          "setting": "social",
+          "where": "New neighbour · asking where they live",
+          "sentence": "I didn’t realise London was your legal domicile, though I suppose you spend most of your time abroad.",
+          "highlight": "domicile",
+          "tip": "It sounds more formal than asking, “Where are you based?”"
+        },
+        {
+          "setting": "writing",
+          "where": "Employment contract · confirming the working location",
+          "sentence": "Employees must confirm their domicile because the tax consequences may differ from their main working location.",
+          "highlight": "domicile",
+          "tip": "Choose it deliberately when home address, tax residence and workplace location are not the same."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin domicilium, meaning “abode” or “home,” based on domus, meaning “house.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Domicilium develops from domus, “house,” and later means a person’s home or place of residence."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English and becomes established in legal and administrative language."
+          },
+          {
+            "when": "Today",
+            "text": "It is used mainly for an official home address or place of legal residence."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "domiciliary",
+          "label": "adjective"
+        },
+        {
+          "term": "domicile",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "residence",
+        "home address",
+        "legal residence",
+        "permanent address"
+      ],
+      "opposite": "temporary residence",
+      "pitfall": "Don’t assume it simply means where someone sleeps most often. In legal and tax contexts, domicile can depend on personal circumstances and where someone considers their permanent home to be."
+    },
+    {
+      "id": "dregs",
+      "kind": "word",
+      "term": "dregs",
+      "pos": "noun",
+      "phonetic": "/drɛɡz/",
+      "sayIt": "DREGZ",
+      "register": "Common for leftovers; literary and derogatory for people",
+      "meaning": "The least useful or lowest-quality parts of something, especially the bits left after the rest has been used or removed.",
+      "nuance": "It can refer to ordinary residue, but it often suggests something worthless or contemptible. Describing people as the dregs of society is deliberately insulting and sounds literary or old-fashioned.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Database cleanup · removing old records",
+          "sentence": "We cleared out the dregs of last year’s contact list but kept every record the team still uses.",
+          "highlight": "dregs",
+          "tip": "Use it for the small, unwanted remainder after the useful parts have been removed."
+        },
+        {
+          "setting": "social",
+          "where": "Party kitchen · late-night snacks",
+          "sentence": "By midnight, only the dregs of the snacks were left on the table.",
+          "highlight": "dregs",
+          "tip": "It gives a slightly dismissive or humorous tone when describing leftovers."
+        },
+        {
+          "setting": "writing",
+          "where": "Opinion piece · criticising a group",
+          "sentence": "He dismissed the protesters as the dregs of society, a deliberately cutting choice.",
+          "highlight": "dregs",
+          "tip": "This figurative use is harsh and works best in clearly disparaging writing."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Old Norse words connected with dregg, meaning sludge or residue. It first referred to sediment and later acquired its figurative sense of the least valuable parts.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old Norse",
+            "text": "Dregg and dreggjar referred to dregs, sludge or sediment."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word appeared in English as dreges, meaning residue left by liquid."
+          },
+          {
+            "when": "1600s onward",
+            "text": "It began to mean the least valued parts of a larger group or thing."
+          }
+        ]
+      },
+      "similar": [
+        "residue",
+        "remnants",
+        "leftovers",
+        "scum"
+      ],
+      "pitfall": "Dregs is normally plural; dreg is possible but uncommon. Calling people dregs is deeply insulting and may sound dated outside deliberately forceful writing."
+    },
+    {
+      "id": "edifice",
+      "kind": "word",
+      "term": "edifice",
+      "pos": "noun",
+      "phonetic": "/ˈɛdɪfɪs/",
+      "sayIt": "EH-di-fis",
+      "register": "Formal",
+      "meaning": "A large, impressive building, or a complicated structure of ideas, institutions or plans.",
+      "nuance": "The literal use is uncommon today, but the figurative use is useful in formal writing. It often suggests that the structure is grand, elaborate or difficult to change.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Strategy meeting · reviewing legacy systems",
+          "sentence": "Replacing the entire edifice of legacy processes would take years, so we should improve the critical steps first.",
+          "highlight": "edifice",
+          "tip": "Use the figurative sense for a whole system or set of practices, not for one part."
+        },
+        {
+          "setting": "social",
+          "where": "City tour · discussing architecture",
+          "sentence": "We spent the afternoon admiring the stone edifice at the centre of the old town.",
+          "highlight": "edifice",
+          "tip": "This literal use sounds formal and often points to a grand or imposing building."
+        },
+        {
+          "setting": "writing",
+          "where": "Policy essay · criticising institutional reform",
+          "sentence": "The proposed reforms challenge the whole edifice of local government without explaining how ordinary citizens would benefit.",
+          "highlight": "edifice",
+          "tip": "A vivid formal choice for a system of institutions, rules or assumptions."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin aedificium, ‘a building’, related to aedes, ‘a house or temple’, and facere, ‘to make’. English borrowed it through Old French.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Aedificium develops from roots meaning ‘house or temple’ and ‘to make’."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English through Old French edifice, meaning a building or structure."
+          },
+          {
+            "when": "Today",
+            "text": "It is used literally for buildings and figuratively for complex systems or structures."
+          }
+        ]
+      },
+      "similar": [
+        "building",
+        "structure",
+        "institution",
+        "framework"
+      ],
+      "pitfall": "Use it for a substantial building or a well-developed system; it is not a general word for any small structure."
+    },
+    {
+      "id": "effigy",
+      "kind": "word",
+      "term": "effigy",
+      "pos": "noun",
+      "phonetic": "/ˈɛfɪdʒi/",
+      "sayIt": "EF-ih-jee",
+      "register": "Formal",
+      "meaning": "A model or image of a person, especially a sculpture or symbolic representation.",
+      "nuance": "In everyday discussion, an effigy often represents someone being mocked, criticised or symbolically punished. The expression “burn in effigy” is especially common in political contexts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Design review · mocking an old process",
+          "sentence": "Marketing created an effigy of the clunky checkout process to show what the new system should replace.",
+          "highlight": "effigy",
+          "tip": "Use it for a symbolic image that represents a person, organisation or outdated system."
+        },
+        {
+          "setting": "social",
+          "where": "Village bonfire · local protest",
+          "sentence": "Neighbours made an effigy of the councillor who had ignored their requests for months.",
+          "highlight": "effigy",
+          "tip": "This often suggests mockery or public condemnation rather than a realistic portrait."
+        },
+        {
+          "setting": "writing",
+          "where": "Heritage article · describing a town hall",
+          "sentence": "The article opens with an effigy of the founder carved above the town hall entrance.",
+          "highlight": "effigy",
+          "tip": "A formal noun that suits descriptions of statues, carvings and symbolic representations."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin effigies, meaning an image, portrait or statue. It comes from ex-, meaning “out,” and fingere, meaning “to shape or form.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Effigies develops from ex- and fingere, with the sense of something shaped or formed into an image."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English for a representation, portrait or figure, especially one carved or sculpted."
+          },
+          {
+            "when": "Today",
+            "text": "It also refers to a symbolic image used to mock or condemn someone, as in burning someone in effigy."
+          }
+        ]
+      },
+      "similar": [
+        "image",
+        "figure",
+        "likeness",
+        "representation",
+        "dummy"
+      ],
+      "pitfall": "An effigy is not necessarily a realistic portrait; it can be a crude model or symbolic representation made for a public display."
+    },
+    {
+      "id": "emissary",
+      "kind": "word",
+      "term": "emissary",
+      "pos": "noun",
+      "phonetic": "/ˈemɪsəri/",
+      "sayIt": "EM-ih-sair-ee",
+      "register": "Formal",
+      "meaning": "A person sent to represent another person or group and communicate on their behalf.",
+      "nuance": "The word suggests a formal, authorised role and can sound old-fashioned or dramatic. It is common in political, business and literary contexts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Business negotiation · representing a company",
+          "sentence": "The company sent an emissary to discuss the merger before making a formal offer.",
+          "highlight": "emissary",
+          "tip": "Use it when someone is officially acting as a representative for another person or organisation."
+        },
+        {
+          "setting": "social",
+          "where": "Family dispute · opening a conversation",
+          "sentence": "Her uncle acted as an emissary and asked whether the two sides would speak again.",
+          "highlight": "emissary",
+          "tip": "It can describe a messenger in a serious or delicate situation, not just a political representative."
+        },
+        {
+          "setting": "writing",
+          "where": "Historical novel · reporting a distant message",
+          "sentence": "The emissary arrived with a sealed letter and news that the king had accepted the terms.",
+          "highlight": "emissary",
+          "tip": "The word adds a sense of importance and formality to reports of messengers and representatives."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin emissarius, meaning ‘a person sent out’, derived from emittere, ‘to send out’. It entered English in the sense of an agent or messenger.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Emissarius develops from emittere, ‘to send out’, and originally referred to an agent or envoy."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English, mainly in political, diplomatic and religious contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal word for someone officially sent to represent another person or group."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "emit",
+          "label": "verb"
+        },
+        {
+          "term": "emission",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "envoy",
+        "representative",
+        "delegate",
+        "liaison"
+      ],
+      "pitfall": "Do not confuse it with ‘emissary’ from the phrase ‘emissary of light’; in ordinary use, it means an authorised messenger or representative."
+    },
+    {
+      "id": "entourage",
+      "kind": "word",
+      "term": "entourage",
+      "pos": "noun",
+      "phonetic": "/ˈɒntərɑːʒ/",
+      "sayIt": "ON-too-RAHZH",
+      "register": "Formal",
+      "meaning": "The group of people who regularly accompany and support an important or famous person.",
+      "nuance": "Often used for the people around a celebrity, politician or business leader, but it can describe any close and prominent circle. It can sound admiring, though sometimes slightly formal or distant.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Conference · meeting a senior executive",
+          "sentence": "The chief executive arrived with her entourage of advisers and communications staff.",
+          "highlight": "entourage",
+          "tip": "Useful when the whole accompanying group matters, not just one aide."
+        },
+        {
+          "setting": "social",
+          "where": "Event · introducing a well-known guest",
+          "sentence": "The singer entered with her entourage and stayed near the main table throughout the evening.",
+          "highlight": "entourage",
+          "tip": "It describes a visible inner circle rather than every guest at the event."
+        },
+        {
+          "setting": "writing",
+          "where": "Profile · describing a public figure",
+          "sentence": "His entourage included former colleagues, business partners and two longtime advisers.",
+          "highlight": "entourage",
+          "tip": "Pairs naturally with people such as advisers, friends, staff and associates."
+        }
+      ],
+      "origin": {
+        "summary": "Borrowed from French, where entourage originally referred to the surroundings around something. The sense of a person’s accompanying group developed from the idea of those who surround or attend upon them.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "French",
+            "text": "Entourage comes from entourer, ‘to surround’, related to tour, ‘a turn or circuit’."
+          },
+          {
+            "when": "1800s",
+            "text": "Enters English and is used for a person’s surroundings or accompanying circle."
+          },
+          {
+            "when": "20th century",
+            "text": "Becomes especially common for the companions and advisers surrounding famous or powerful people."
+          }
+        ]
+      },
+      "similar": [
+        "retinue",
+        "supporters",
+        "associates",
+        "companions"
+      ],
+      "pitfall": "Entourage refers to accompanying people, not the physical surroundings of a place or person."
+    }
+  ]
+}

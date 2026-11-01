@@ -1,0 +1,1472 @@
+{
+  "id": "phrases-reacting-6",
+  "kind": "phrase",
+  "name": "Reacting · 6",
+  "blurb": "25 phrases about reacting",
+  "cards": [
+    {
+      "id": "one-could-hear-a-pin-drop",
+      "kind": "phrase",
+      "term": "one could hear a pin drop",
+      "pos": "idiom",
+      "hint": "a room so quiet you could hear this",
+      "register": "Everyday",
+      "meaning": "To describe a room or group of people being so quiet that even the slightest sound would be noticeable.",
+      "nuance": "This emphasizes complete silence, often after everyone has been asked to quieten or listen carefully. It can sound slightly old-fashioned but remains natural in storytelling and conversation.",
+      "literal": "A pin falling onto the floor would be audible because the room is completely silent.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · awaiting feedback",
+          "sentence": "I asked for suggestions, and one could hear a pin drop.",
+          "highlight": "one could hear a pin drop",
+          "tip": "Use it when the silence itself highlights people’s hesitation or discomfort."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner table · after an announcement",
+          "sentence": "When she mentioned the surprise party, one could hear a pin drop.",
+          "highlight": "one could hear a pin drop",
+          "tip": "It works well for dramatic moments when everyone is processing surprising news."
+        },
+        {
+          "setting": "writing",
+          "where": "Event report · describing the audience",
+          "sentence": "During the announcement, one could hear a pin drop as the guests waited for details.",
+          "highlight": "one could hear a pin drop",
+          "tip": "Pair it with a concrete detail so the silence feels vivid rather than exaggerated."
+        }
+      ],
+      "origin": {
+        "summary": "The expression likely comes from the idea that a pin dropping onto a hard floor would be audible in an otherwise silent room. Its exact first use is uncertain, but similar wording appeared in English during the 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used the image of a tiny sound to represent absolute quiet."
+          },
+          {
+            "when": "1800s",
+            "text": "Expressions resembling “as if a pin could be heard to drop” began appearing in English writing and conversation."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase remains a vivid, slightly traditional way to describe intense silence."
+          }
+        ]
+      },
+      "similar": [
+        "a deafening silence",
+        "complete silence",
+        "not a sound",
+        "silent as the grave"
+      ],
+      "pitfall": "Use it for noticeable silence, not merely a normally quiet room; otherwise, it may sound overly dramatic."
+    },
+    {
+      "id": "one-strike-and-youre-out",
+      "kind": "phrase",
+      "term": "one strike and you're out",
+      "pos": "idiom",
+      "hint": "one mistake ends your chance",
+      "register": "Common at work and in casual conversation",
+      "meaning": "If you make one serious mistake, you lose your chance to continue.",
+      "nuance": "The phrase is emphatic and may sound harsh, but it can also be used playfully when describing strict rules or a high-stakes situation.",
+      "literal": "A baseball batter is out after three strikes, but this phrase treats the first mistake as decisive.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · warning about a mistake",
+          "sentence": "Submit the final figures carefully, because with this client, one strike and you're out.",
+          "highlight": "one strike and you're out",
+          "tip": "Use it when the consequences of an error are genuinely final."
+        },
+        {
+          "setting": "social",
+          "where": "Friendly game · setting the rules",
+          "sentence": "If you miss the hoop, it's game over: one strike and you're out.",
+          "highlight": "one strike and you're out",
+          "tip": "It can sound playful when everyone understands the joke."
+        },
+        {
+          "setting": "writing",
+          "where": "Team email · explaining a strict deadline",
+          "sentence": "We only have room for one correction, so one strike and you're out.",
+          "highlight": "one strike and you're out",
+          "tip": "Pair it with clear instructions so the rule does not seem unfair."
+        }
+      ],
+      "origin": {
+        "summary": "Likely adapted from baseball, where three strikes mean a batter is out. The exact history of this shortened form is unclear.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Baseball established the familiar warning that repeated strikes cause a batter to be out."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression developed into a broader warning that one failure can end a person's chance."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common for strict rules, warnings and playful challenges."
+          }
+        ]
+      },
+      "similar": [
+        "one chance only",
+        "one mistake and it's over",
+        "three strikes and you're out"
+      ],
+      "opposite": "plenty of chances to recover",
+      "pitfall": "Because the phrase is severe, explain the actual rule rather than using it for every small mistake."
+    },
+    {
+      "id": "ones-bark-is-worse-than-ones-bite",
+      "kind": "phrase",
+      "term": "one's bark is worse than one's bite",
+      "pos": "idiom",
+      "hint": "threatening more than you would actually do",
+      "register": "Common",
+      "meaning": "Someone threatens or complains more harshly than they are likely to act.",
+      "nuance": "It describes a mismatch between harsh words and restrained actions. Use it when you know the person is unlikely to carry out the threat, but avoid using it when the danger is real.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague complaint · reassuring a team",
+          "sentence": "Her bark is worse than her bite; she was frustrated about the delay, but she won’t escalate the issue.",
+          "highlight": "bark is worse than her bite",
+          "tip": "Use it to reassure people that a complaint will not become a serious conflict."
+        },
+        {
+          "setting": "social",
+          "where": "Argument with a friend · light teasing",
+          "sentence": "Don’t take his threat too seriously—his bark is worse than his bite.",
+          "highlight": "his bark is worse than his bite",
+          "tip": "It can add a teasing tone when you know the person is bluffing."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message · explaining a warning",
+          "sentence": "The manager sounded stern on the call, but her bark is worse than her bite, so the team has no reason to panic.",
+          "highlight": "her bark is worse than her bite",
+          "tip": "Keep this for informal writing; it may sound dismissive in a formal report."
+        }
+      ],
+      "origin": {
+        "summary": "This is an old proverb about dogs and other animals that bark or threaten but do not bite. Its figurative use is well documented from the 16th century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Literal sense: an animal’s threatening bark is more dangerous or aggressive than its bite."
+          },
+          {
+            "when": "1500s",
+            "text": "The proverb appears in English collections, including forms comparing a person’s bark with their bite."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar expression for harmless threats and excessive complaining."
+          }
+        ]
+      },
+      "similar": [
+        "all bark and no bite",
+        "bluff",
+        "empty threat"
+      ],
+      "opposite": "a warning that should be taken seriously",
+      "pitfall": "Don’t use it to dismiss a threat when the person may genuinely intend to act."
+    },
+    {
+      "id": "ones-blood-runs-cold",
+      "kind": "phrase",
+      "term": "one's blood runs cold",
+      "pos": "phrase",
+      "hint": "a sudden feeling of fear",
+      "register": "Dramatic or literary",
+      "meaning": "To feel suddenly afraid or shocked by something threatening or alarming.",
+      "nuance": "This describes a sharp physical reaction to fear, often used in stories or for dramatic effect. In everyday conversation, “my blood ran cold” may sound more natural than the full phrase.",
+      "literal": "Fear makes the body feel as though the blood has become ice-cold.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Unexpected budget cuts · team briefing",
+          "sentence": "Her blood ran cold when the director announced that half the team might be made redundant.",
+          "highlight": "Her blood ran cold",
+          "tip": "Strong and dramatic; neutral “it was terrifying” may suit a formal workplace."
+        },
+        {
+          "setting": "social",
+          "where": "Late-night knock · telling a story",
+          "sentence": "My blood ran cold when I realized the stranger had followed us home.",
+          "highlight": "My blood ran cold",
+          "tip": "Use it to build suspense when recounting a frightening experience."
+        },
+        {
+          "setting": "writing",
+          "where": "Thriller scene · revealing a threat",
+          "sentence": "When Lena opened the letter, her blood ran cold.",
+          "highlight": "her blood ran cold",
+          "tip": "A concise way to show fear without explaining the character’s reaction in detail."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from an older idea that fear or shock could make a person’s blood feel cold. Its figurative use became established in English during the 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal idea linked fear with a cold feeling in the body."
+          },
+          {
+            "when": "19th century",
+            "text": "Writers began using the image to describe sudden fear or alarm."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in dramatic writing and storytelling, though formal speakers often choose plainer wording."
+          }
+        ]
+      },
+      "similar": [
+        "my blood freezes",
+        "a chill runs down your spine",
+        "to be frightened stiff"
+      ],
+      "opposite": "one's blood warms",
+      "pitfall": "The phrase normally describes a sudden reaction; for an ongoing fear, say “I’m terrified” or “I’m scared stiff.”"
+    },
+    {
+      "id": "ones-days-are-numbered",
+      "kind": "phrase",
+      "term": "one's days are numbered",
+      "pos": "phrase",
+      "hint": "a limited or doomed future",
+      "register": "Formal",
+      "meaning": "Someone has only a short or limited time left, often because they are doomed or close to being stopped.",
+      "nuance": "Dramatic and often grim; it can describe a literal threat or exaggerate how little time someone has.",
+      "literal": "Someone’s remaining days being counted like the final days of a life.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Urgent project review",
+          "sentence": "With no budget and two days to launch, our days are numbered.",
+          "highlight": "our days are numbered",
+          "tip": "It sounds more severe than simply saying time is running out."
+        },
+        {
+          "setting": "social",
+          "where": "Supporting a sports team",
+          "sentence": "Down ten points with one minute left, their days are numbered.",
+          "highlight": "their days are numbered",
+          "tip": "Use it to describe an apparently hopeless situation."
+        },
+        {
+          "setting": "writing",
+          "where": "Commentary on a failing initiative",
+          "sentence": "Without new funding, the project’s days are numbered.",
+          "highlight": "the project’s days are numbered",
+          "tip": "It adds urgency and finality, so avoid it for a routine setback."
+        }
+      ],
+      "origin": {
+        "summary": "Likely grew from the older idea that a person’s lifespan is fixed or limited, with religious language helping establish the expression.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Ancient period",
+            "text": "Religious traditions spoke of a person’s days being counted or fixed by divine power."
+          },
+          {
+            "when": "Early modern period",
+            "text": "English writers used the idea of numbered days for a limited or predetermined lifetime."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase remains a dramatic warning that time or opportunity is nearly over."
+          }
+        ]
+      },
+      "similar": [
+        "the writing is on the wall",
+        "running out of time",
+        "a sinking ship"
+      ],
+      "opposite": "has plenty of time",
+      "pitfall": "Because it can imply death or total collapse, do not use it for an ordinary deadline or minor problem."
+    },
+    {
+      "id": "ones-race-is-run",
+      "kind": "phrase",
+      "term": "one's race is run",
+      "pos": "idiom",
+      "hint": "career or chapter over",
+      "register": "Formal; somewhat dated",
+      "meaning": "Someone has reached the end of their career, active period or time of usefulness.",
+      "nuance": "It is serious and often emotional, suggesting that a stage of life has ended rather than simply changed. The phrase can sound final or overly dramatic in casual conversation.",
+      "literal": "Finishing the course of a race.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague nearing retirement",
+          "sentence": "After forty years with the company, Maria says her race is run.",
+          "highlight": "race is run",
+          "tip": "Use it for a genuine ending, not an ordinary role change or disagreement."
+        },
+        {
+          "setting": "social",
+          "where": "Reunion with a former colleague",
+          "sentence": "At the reunion, Sam said, “My race is run,” and talked about his new life.",
+          "highlight": "race is run",
+          "tip": "The formal tone suits a reflective moment better than everyday small talk."
+        },
+        {
+          "setting": "writing",
+          "where": "Retirement announcement",
+          "sentence": "In his retirement note, Devon wrote, “My race is run.”",
+          "highlight": "race is run",
+          "tip": "Follow it with a warmer explanation of what comes next."
+        }
+      ],
+      "origin": {
+        "summary": "Likely draws on the biblical image of life as a race, especially the comparison in Paul’s first letter to the Corinthians. The exact wording developed later as a way to describe the end of someone’s career or active life.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1st century",
+            "text": "Paul compares the Christian life to running a race in his letter to the Corinthians."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers used the image of a finished race to describe the end of a life, career or period of activity."
+          },
+          {
+            "when": "Today",
+            "text": "The expression remains understood, but it is formal and somewhat dated."
+          }
+        ]
+      },
+      "similar": [
+        "the game is up",
+        "out of the game",
+        "come to the end of the road"
+      ],
+      "opposite": "still in the running",
+      "pitfall": "It can sound harsh when someone is merely leaving a job, so pair it with warmth or context."
+    },
+    {
+      "id": "only-time-will-tell",
+      "kind": "phrase",
+      "term": "only time will tell",
+      "pos": "phrase",
+      "hint": "you won’t know the outcome yet",
+      "register": "Common at work",
+      "meaning": "The result or truth of something cannot be known until some time has passed.",
+      "nuance": "It is used when the outcome is uncertain, whether the situation is serious, practical or lighthearted.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · judging a new proposal",
+          "sentence": "The proposal looks promising, but only time will tell whether it works in practice.",
+          "highlight": "only time will tell",
+          "tip": "Use it when you can make a cautious judgment without pretending to know the outcome."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · wondering whether a move was a good idea",
+          "sentence": "Moving to a new city was exciting, but only time will tell if we made the right choice.",
+          "highlight": "only time will tell",
+          "tip": "It can sound reflective and slightly uncertain rather than impatient."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining an uncertain result",
+          "sentence": "The trial has started, but only time will tell whether the treatment improves recovery.",
+          "highlight": "only time will tell",
+          "tip": "Use it in a report or update when further evidence is still needed."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase reflects the traditional idea that time reveals what is currently uncertain. Its exact first use is difficult to establish, but the wording has long been associated with predictions and judgments.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression linked the passing of time with discovering the truth or outcome."
+          },
+          {
+            "when": "20th century",
+            "text": "It became a common way to express uncertainty about future results."
+          },
+          {
+            "when": "Today",
+            "text": "It remains widely understood in everyday, workplace and written English."
+          }
+        ]
+      },
+      "similar": [
+        "we shall see",
+        "it remains to be seen",
+        "time will tell"
+      ],
+      "pitfall": "Use it for genuinely uncertain outcomes; it is not a substitute for checking the available evidence."
+    },
+    {
+      "id": "pants-on-fire",
+      "kind": "phrase",
+      "term": "pants on fire",
+      "pos": "idiom",
+      "hint": "blatantly lying",
+      "register": "Informal",
+      "meaning": "Used to describe a statement that is an obvious lie or a claim made in bad faith.",
+      "nuance": "It is strongly negative and more theatrical than simply calling someone a liar. It works best when the deception is clear and you want to sound emphatic rather than formal.",
+      "literal": "A person is so frightened or ashamed of being caught lying that their pants are imagined to be burning.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Status meeting · challenging false claims",
+          "sentence": "Saying the report was finished was pants on fire; the figures had barely been started.",
+          "highlight": "pants on fire",
+          "tip": "Use it after the lie is established; it can sound theatrical in a formal workplace."
+        },
+        {
+          "setting": "social",
+          "where": "Storytelling · exposing exaggeration",
+          "sentence": "He said he had never eaten pizza before, but there was sauce on his jacket—pants on fire.",
+          "highlight": "pants on fire",
+          "tip": "It adds humor when the contradiction is playful and obvious."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message · calling out dishonesty",
+          "sentence": "Calling Friday’s delay minor was pants on fire; the deadline had already slipped twice.",
+          "highlight": "pants on fire",
+          "tip": "Keep it in an informal message, and consider naming the specific false claim instead."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably developed from the children’s rhyme “liar, liar, pants on fire,” which was used to accuse someone of lying. Its precise beginning is difficult to pin down, but the rhyme was circulating in the early 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Children used “liar, liar, pants on fire” as a teasing accusation during games."
+          },
+          {
+            "when": "1920s",
+            "text": "Versions of the rhyme appear in printed collections of playground and children’s chants."
+          },
+          {
+            "when": "Later 20th century",
+            "text": "The shorter expression “pants on fire” became an informal label for obvious dishonesty."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a vivid, humorous but strongly derogatory way to describe a lie."
+          }
+        ]
+      },
+      "similar": [
+        "a blatant lie",
+        "complete nonsense",
+        "bullshitting"
+      ],
+      "opposite": "the truth",
+      "pitfall": "It is informal and confrontational, so avoid using it about a colleague unless the accusation is clearly intended and the relationship allows blunt criticism."
+    },
+    {
+      "id": "pedal-to-the-metal",
+      "kind": "phrase",
+      "term": "pedal to the metal",
+      "pos": "phrase",
+      "hint": "go all out, full speed",
+      "register": "Casual",
+      "meaning": "To push harder and go as fast as possible.",
+      "nuance": "It suggests urgency, intense effort or a sudden burst of speed. It works best when something is already in motion and the extra effort feels exciting rather than dangerous.",
+      "literal": "A driver presses the accelerator pedal all the way down while another person pedals a bicycle.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch week · meeting a tight deadline",
+          "sentence": "We should pedal to the metal today if we’re going to finish the proposal before the client calls.",
+          "highlight": "pedal to the metal",
+          "tip": "Use it to describe a focused push, especially with colleagues who already know the task."
+        },
+        {
+          "setting": "social",
+          "where": "Road trip · leaving the city",
+          "sentence": "The traffic is clearing out, so the driver decided to pedal to the metal for a while.",
+          "highlight": "pedal to the metal",
+          "tip": "It adds drama to a fast drive, but avoid using it when safety matters."
+        },
+        {
+          "setting": "writing",
+          "where": "Sports recap · a decisive push",
+          "sentence": "With two minutes left, the runners pedal to the metal and break clear of the pack.",
+          "highlight": "pedal to the metal",
+          "tip": "It gives informal sports writing energy and a sense of sudden urgency."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from the language of cycling and early motoring, combining the image of pressing a pedal with driving at full speed. The figurative sense became established in the mid-20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The phrase appears in a world where bicycles and motor vehicles both made literal pedal-to-the-metal images familiar."
+          },
+          {
+            "when": "1930s–50s",
+            "text": "Its figurative use for making a strong effort or moving at full speed becomes established."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a vivid, informal expression for an all-out burst of speed or effort."
+          }
+        ]
+      },
+      "similar": [
+        "go full speed",
+        "go all out",
+        "burn rubber",
+        "push hard"
+      ],
+      "opposite": "ease off",
+      "pitfall": "It can suggest reckless driving, so don’t use it in a serious safety warning unless that sense is intended."
+    },
+    {
+      "id": "read-my-lips",
+      "kind": "phrase",
+      "term": "read my lips",
+      "pos": "idiom",
+      "hint": "understand my words by watching my mouth",
+      "register": "Common",
+      "meaning": "To understand someone’s words by watching their lips, usually because other sounds make them difficult to hear.",
+      "nuance": "This is direct and slightly impatient, so it works best with people you know or when the problem is obvious. It can also jokingly mean that someone should stop speaking and make their point clearly.",
+      "literal": "Someone looks at your mouth movements and works out what you are saying.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Video call · poor audio",
+          "sentence": "The call keeps cutting out, so read my lips—we’re moving the review to Thursday.",
+          "highlight": "read my lips",
+          "tip": "Use it when the audio problem is obvious and everyone needs to pause."
+        },
+        {
+          "setting": "social",
+          "where": "Loud restaurant · making plans",
+          "sentence": "The music’s too loud; just read my lips and tell me whether you said Tuesday or Thursday.",
+          "highlight": "read my lips",
+          "tip": "Keep the tone light when joking with friends."
+        },
+        {
+          "setting": "writing",
+          "where": "Message about a recording",
+          "sentence": "The recording was unclear, so I had to ask them to read my lips before confirming the date.",
+          "highlight": "read my lips",
+          "tip": "This often refers to an earlier conversation that you are describing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the literal act of interpreting speech by watching someone’s mouth. It became especially well known through a televised U.S. presidential address in 1981.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal idea of reading words from someone’s lips was already in everyday use."
+          },
+          {
+            "when": "Mid-20th century",
+            "text": "“Read my lips” emerged as a familiar expression for understanding speech without hearing it clearly."
+          },
+          {
+            "when": "1981",
+            "text": "A televised U.S. presidential address about taxes brought the phrase to wide public attention."
+          }
+        ]
+      },
+      "similar": [
+        "lip-read",
+        "watch my lips",
+        "I can’t hear you"
+      ],
+      "opposite": "say it plainly",
+      "pitfall": "The phrase can sound rude if you use it with someone you do not know well or if the hearing problem is not obvious."
+    },
+    {
+      "id": "rumor-has-it",
+      "kind": "phrase",
+      "term": "rumor has it",
+      "pos": "phrase",
+      "hint": "people are saying, but nobody has confirmed it",
+      "register": "Everyday",
+      "meaning": "People are saying something, but the information has not been confirmed.",
+      "nuance": "Often used to introduce news you heard from someone else while making clear that you are not presenting it as fact. It can sound curious or gossipy, depending on the context.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office chat · sharing unconfirmed news",
+          "sentence": "Rumor has it that two teams are being combined, although nothing has been announced.",
+          "highlight": "Rumor has it",
+          "tip": "Use it when you need distance from information you cannot yet verify."
+        },
+        {
+          "setting": "social",
+          "where": "Party conversation · discussing someone",
+          "sentence": "Rumor has it that they may move abroad, but they haven’t said anything publicly.",
+          "highlight": "Rumor has it",
+          "tip": "It can signal curiosity, but avoid repeating stories that may embarrass someone."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal update · passing along a report",
+          "sentence": "Rumor has it that the event may be postponed, so please wait for confirmation.",
+          "highlight": "Rumor has it",
+          "tip": "Follow it with what is known, or your reader may assume you are endorsing the rumor."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably developed from the older noun “rumor,” meaning widespread talk or reports without proof. Its modern wording was established by the 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Late Middle English",
+            "text": "The noun “rumor” entered English through French, referring to talk spreading without proof."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression “rumor has it” became an established way to report unconfirmed information."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in everyday conversation and informal writing."
+          }
+        ]
+      },
+      "similar": [
+        "people are saying",
+        "word is",
+        "it is rumored",
+        "I heard"
+      ],
+      "pitfall": "Do not use it to introduce information that is confirmed; it specifically signals that the report is still unverified."
+    },
+    {
+      "id": "say-that-again",
+      "kind": "phrase",
+      "term": "say that again",
+      "pos": "phrase",
+      "hint": "ask someone to repeat what they said",
+      "register": "Everyday",
+      "meaning": "Ask someone to repeat what they just said, often because you did not hear it clearly or want to check what they mean.",
+      "nuance": "It can be a neutral request for clarification, but it may sound impatient if you use it forcefully or in an argument.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · checking a detail",
+          "sentence": "Sorry, could you say that again? I want to make sure I caught the deadline correctly.",
+          "highlight": "say that again",
+          "tip": "Pair it with a polite opener when you did not hear the speaker clearly."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · hearing a surprising detail",
+          "sentence": "Wait, say that again—you mean they cancelled the whole weekend?",
+          "highlight": "say that again",
+          "tip": "This version often shows surprise or disbelief rather than a simple request to repeat."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a colleague · confirming an instruction",
+          "sentence": "Could you say that again in writing so we both have the exact time?",
+          "highlight": "say that again",
+          "tip": "It is informal, so consider “Could you clarify that?” in a formal email."
+        }
+      ],
+      "origin": {
+        "summary": "This phrase comes from the ordinary act of asking someone to repeat their words. Its use as a distinctive expression is documented, but its exact first appearance is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used direct requests such as “say that again” when a spoken message was unclear."
+          },
+          {
+            "when": "19th–20th century",
+            "text": "The phrase became established in everyday English, including conversation and informal writing."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common way to ask for repetition, with the tone shaped by context."
+          }
+        ]
+      },
+      "similar": [
+        "come again",
+        "repeat that",
+        "say it again"
+      ],
+      "opposite": "say it once",
+      "pitfall": "In a tense conversation, repeating “say that again” can sound like a challenge; use “Could you repeat that?” when you want to stay calm."
+    },
+    {
+      "id": "say-what",
+      "kind": "phrase",
+      "term": "say what",
+      "pos": "phrase",
+      "hint": "asking someone to repeat themselves",
+      "register": "Casual",
+      "meaning": "A brief, informal way to ask someone to repeat or explain what they have just said.",
+      "nuance": "It can show surprise, confusion or disbelief. Among colleagues or friends it is usually friendly, though it may sound abrupt if you want to sound more considerate.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team call · unclear instructions",
+          "sentence": "Sorry, say what? I didn’t quite catch that.",
+          "highlight": "say what",
+          "tip": "A quick clarification works better when you also admit what you missed."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · an unexpected announcement",
+          "sentence": "Say what? You’re moving across town?",
+          "highlight": "Say what",
+          "tip": "This sounds lively, but use a softer question with people you do not know well."
+        },
+        {
+          "setting": "writing",
+          "where": "Chat message · checking an unclear point",
+          "sentence": "Can you say what you mean by “soon”? I want to check my schedule.",
+          "highlight": "say what",
+          "tip": "In writing, adding a reason makes the request sound clearer and less confrontational."
+        }
+      ],
+      "origin": {
+        "summary": "This appears to be a straightforward shortening of a question such as “What did you say?” or “Say that again?”, rather than an expression with a traceable story.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People regularly combined “say” with “what?” to request clarification."
+          },
+          {
+            "when": "Today",
+            "text": "The shorter form remains common in casual speech and informal messages."
+          }
+        ]
+      },
+      "similar": [
+        "what did you say",
+        "come again",
+        "say that again"
+      ],
+      "opposite": "never mind",
+      "pitfall": "In formal communication, “say what?” can seem dismissive; “Could you clarify what you mean?” is usually more suitable."
+    },
+    {
+      "id": "so-far-so-good",
+      "kind": "phrase",
+      "term": "so far so good",
+      "pos": "phrase",
+      "hint": "everything is going well so far",
+      "register": "Everyday",
+      "meaning": "Everything has been going well up to this point.",
+      "nuance": "Casual and positive, but often cautious because something may still go wrong later. It suits informal updates more than formal reports.",
+      "literal": "As of the present moment, the results have been good.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project update · early progress",
+          "sentence": "The launch is on schedule and the tests have passed, so far so good.",
+          "highlight": "so far so good",
+          "tip": "Add a brief qualifier when the situation is still developing."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with a friend",
+          "sentence": "The new flat is comfortable, the neighbours are friendly, and so far so good.",
+          "highlight": "so far so good",
+          "tip": "It sounds relaxed and conversational, especially among friends."
+        },
+        {
+          "setting": "writing",
+          "where": "Progress update · unfinished work",
+          "sentence": "The first batch is complete with no major problems, so far so good.",
+          "highlight": "so far so good",
+          "tip": "Use it sparingly in formal writing; it can sound too casual."
+        }
+      ],
+      "origin": {
+        "summary": "The wording is very old, but its familiar use as a brief statement of present progress became especially popular in the 20th century. Early versions often appeared as a proverb-like saying.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The phrase appeared in old English sayings expressing that a situation had gone well up to that point."
+          },
+          {
+            "when": "20th century",
+            "text": "Its shorter, conversational form became established in everyday speech."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely understood as a cautious positive update."
+          }
+        ]
+      },
+      "similar": [
+        "going well so far",
+        "things are looking good",
+        "no problems so far"
+      ],
+      "opposite": "so far not so good",
+      "pitfall": "The phrase says only how things have gone up to now; it does not promise that the rest of the process will go well."
+    },
+    {
+      "id": "so-much-for",
+      "kind": "phrase",
+      "term": "so much for",
+      "pos": "phrase",
+      "hint": "a plan or hope that has failed",
+      "register": "Everyday",
+      "meaning": "Used to comment wryly that a plan, hope or expectation has failed or been undone.",
+      "nuance": "It often carries a note of resignation, disappointment or mild irony. The tone can be playful or more resigned, depending on the situation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Missed deadline · reacting to setbacks",
+          "sentence": "So much for finishing the report early; the system went down twice.",
+          "highlight": "So much for",
+          "tip": "Use it when something has already made the hoped-for outcome impossible."
+        },
+        {
+          "setting": "social",
+          "where": "Lost while sightseeing · joking about the detour",
+          "sentence": "So much for taking the shortcut—we’re already going in the wrong direction.",
+          "highlight": "So much for",
+          "tip": "It can make a mishap feel light and humorous."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · noting a changed deadline",
+          "sentence": "So much for the neat launch timeline; the client moved the deadline forward.",
+          "highlight": "So much for",
+          "tip": "It works in informal updates, but choose a more neutral phrase for formal reports."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably grew from an older expression meaning that a large amount had been done or achieved for something, before developing its modern sense of acknowledging failure or disappointment.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The wording was associated with doing or achieving a great deal for something."
+          },
+          {
+            "when": "19th century",
+            "text": "The sense of disappointment or failure became established in English."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common informal way to react when plans go wrong."
+          }
+        ]
+      },
+      "similar": [
+        "that’s for",
+        "the end of",
+        "in ruins",
+        "out of the question"
+      ],
+      "opposite": "it worked out",
+      "pitfall": "It usually signals that the expected result has failed, so don’t use it when you mean the opposite."
+    },
+    {
+      "id": "so-they-say",
+      "kind": "phrase",
+      "term": "so they say",
+      "pos": "phrase",
+      "hint": "people claim, without proof",
+      "register": "Everyday; slightly informal",
+      "meaning": "Used to report what other people claim while suggesting that the claim may not be true.",
+      "nuance": "It can sound skeptical, amused or deliberately vague. It often helps you repeat a rumour without presenting it as fact.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · checking a rumour",
+          "sentence": "Customer churn is down, so they say, but the sales numbers still look odd.",
+          "highlight": "so they say",
+          "tip": "Useful when you want to raise doubt without directly challenging anyone."
+        },
+        {
+          "setting": "social",
+          "where": "Talking about a popular restaurant",
+          "sentence": "He’s the best chef in town, so they say, but I found his sauce bland.",
+          "highlight": "so they say",
+          "tip": "It adds a humorous or knowing tone to a doubtful claim."
+        },
+        {
+          "setting": "writing",
+          "where": "Summary email · noting an unconfirmed report",
+          "sentence": "The company is expanding, so they say, though the announcement gives no dates.",
+          "highlight": "so they say",
+          "tip": "It marks the information as hearsay rather than confirmed fact."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from the older expression “they say,” which reports what people commonly claim. Adding “so” makes the statement feel like an aside and often signals doubt or distance from the claim.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The phrase “they say” was used to introduce a claim without vouching for it."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression “so they say” appears in English writing as a compact way to report popular claims."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in everyday speech as a lightly sceptical or humorous response."
+          }
+        ]
+      },
+      "similar": [
+        "people say",
+        "rumor has it",
+        "allegedly",
+        "if you believe that"
+      ],
+      "pitfall": "It can sound dismissive or overly sceptical, so avoid it when you need to state confirmed information clearly."
+    },
+    {
+      "id": "sorry-not-sorry",
+      "kind": "phrase",
+      "term": "sorry, not sorry",
+      "pos": "phrase",
+      "hint": "apologetic on the surface, unapologetic underneath",
+      "register": "Casual",
+      "meaning": "An ironic way of saying that you do not really feel sorry about what you have done.",
+      "nuance": "Playful, cheeky, and sometimes dismissive; it can lighten a blunt response, but it may also come across as mocking or arrogant.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team chat · acknowledging a last-minute change",
+          "sentence": "I know this was frustrating, but I’m sorry, not sorry for changing the deadline.",
+          "highlight": "sorry, not sorry",
+          "tip": "Keep it among colleagues with an established playful tone."
+        },
+        {
+          "setting": "social",
+          "where": "Friends chatting · joking about a delay",
+          "sentence": "You arrived after the movie started? Sorry, not sorry—I was not waiting for anyone.",
+          "highlight": "Sorry, not sorry",
+          "tip": "It works best when the situation is obviously lighthearted."
+        },
+        {
+          "setting": "writing",
+          "where": "Friendly message · joking about a minor mistake",
+          "sentence": "I may have double-booked us, but sorry, not sorry—I really wanted to see that exhibition.",
+          "highlight": "sorry, not sorry",
+          "tip": "Use it only in a casual message where teasing is appropriate."
+        }
+      ],
+      "origin": {
+        "summary": "A modern internet expression built around repeating “sorry” and then taking it back. It became widely recognizable through social media and online culture in the 2010s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used simple reversals such as “I’m not sorry” to make a playful contradiction."
+          },
+          {
+            "when": "2010s",
+            "text": "The compressed form “sorry, not sorry” spread across social media, memes, and online conversations."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a casual expression for mixing apology with deliberate confidence or defiance."
+          }
+        ]
+      },
+      "similar": [
+        "not sorry at all",
+        "no regrets",
+        "would do it again"
+      ],
+      "pitfall": "Because it can sound insincere or smug, avoid it in serious apologies, sensitive conversations, or formal communication."
+    },
+    {
+      "id": "sparks-fly",
+      "kind": "phrase",
+      "term": "sparks fly",
+      "pos": "idiom",
+      "hint": "a heated exchange",
+      "register": "Everyday",
+      "meaning": "People argue fiercely or become intensely animated when discussing something.",
+      "nuance": "Usually describes lively conflict, but it can also suggest romantic attraction. The tone may be negative, excited or playful depending on the context.",
+      "literal": "Sparks shoot from something burning fiercely.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget meeting · differing priorities",
+          "sentence": "Sparks flew when the team debated whether to spend more on product development or marketing.",
+          "highlight": "Sparks flew",
+          "tip": "Use it when the disagreement is clearly heated rather than merely routine."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · controversial topic",
+          "sentence": "As soon as he mentioned the election, sparks flew between the two brothers.",
+          "highlight": "sparks flew",
+          "tip": "It works well for visible arguments and animated debate."
+        },
+        {
+          "setting": "writing",
+          "where": "Event report · disagreement",
+          "sentence": "Sparks flew during the panel discussion, with several speakers challenging the proposal.",
+          "highlight": "Sparks flew",
+          "tip": "Use the past tense for a completed event or “sparks fly” for a general pattern."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably comes from the image of sparks shooting out of a fire. Writers later applied that picture to lively conflict and intense interaction.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Literal use refers to small flames or particles flying from a fire."
+          },
+          {
+            "when": "19th century",
+            "text": "Figurative uses appear in descriptions of quarrels and intense disputes."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common idiom for heated arguments or animated exchanges."
+          }
+        ]
+      },
+      "similar": [
+        "a heated debate",
+        "a fiery exchange",
+        "the argument got heated"
+      ],
+      "opposite": "everyone agreed calmly",
+      "pitfall": "Don't use it for mild disagreement; “we discussed it and disagreed” is enough."
+    },
+    {
+      "id": "sticks-and-stones",
+      "kind": "phrase",
+      "term": "sticks and stones",
+      "pos": "idiom",
+      "hint": "physical pain versus hurtful words",
+      "register": "Familiar; often playful or old-fashioned",
+      "meaning": "The traditional idea that physical pain is easier to bear than the emotional impact of cruel or careless words.",
+      "nuance": "Usually used as a half-joking response to someone’s unkind remark. It can sound dismissive, especially when the hurt caused by the words was real.",
+      "literal": "Sticks and stones can break a person’s bones, while words are only sounds and cannot cause physical injury.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague makes a cutting remark",
+          "sentence": "When a colleague made a cutting remark, our manager replied, “Sticks and stones may break my bones, but words can still bruise feelings.”",
+          "highlight": "Sticks and stones",
+          "tip": "Use the full proverb to make the meaning clear; the short title alone may sound cryptic."
+        },
+        {
+          "setting": "social",
+          "where": "Friend teases you awkwardly",
+          "sentence": "“Sticks and stones may break my bones, but I still don’t appreciate that joke,” she said.",
+          "highlight": "Sticks and stones",
+          "tip": "A playful delivery can soften the message while still setting a boundary."
+        },
+        {
+          "setting": "writing",
+          "where": "Lighthearted message after friendly banter",
+          "sentence": "I can take a joke, but sticks and stones may break my bones, and words can still sting.",
+          "highlight": "sticks and stones",
+          "tip": "This works best in informal messages where everyone shares the same sense of humour."
+        }
+      ],
+      "origin": {
+        "summary": "The saying comes from an old rhyme contrasting breaks to the body with breaks to the heart. Its familiar “sticks and stones” wording became established in the 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Older versions linked sticks, stones and bones with words breaking the heart."
+          },
+          {
+            "when": "19th century",
+            "text": "The rhyme developed into the familiar version beginning “sticks and stones may break my bones.”"
+          },
+          {
+            "when": "Today",
+            "text": "The shortened phrase is often used as a humorous reminder that words can cause emotional pain."
+          }
+        ]
+      },
+      "similar": [
+        "words cut deeper than swords",
+        "words can wound",
+        "actions speak louder than words"
+      ],
+      "pitfall": "The claim that words “will never hurt me” is deliberately exaggerated; do not use it to dismiss someone’s feelings."
+    },
+    {
+      "id": "story-of-my-life",
+      "kind": "phrase",
+      "term": "story of my life",
+      "pos": "idiom",
+      "hint": "something frustrating that keeps happening",
+      "register": "Casual",
+      "meaning": "A complaint that a particular unfortunate situation seems to keep happening to you.",
+      "nuance": "It adds rueful humor and a sense of resignation. It works best with friends or colleagues you know well, not in a formal complaint.",
+      "literal": "The account of everything that has happened throughout your life.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Repeated delivery delays",
+          "sentence": "My laptop froze again during the client call. It’s the story of my life.",
+          "highlight": "story of my life",
+          "tip": "Use it to share frustration lightly when the situation is familiar to everyone."
+        },
+        {
+          "setting": "social",
+          "where": "Plans going repeatedly wrong",
+          "sentence": "I left my keys in the car again. The story of my life.",
+          "highlight": "story of my life",
+          "tip": "Pair it with a laugh or a specific detail to keep the mood playful."
+        },
+        {
+          "setting": "writing",
+          "where": "Casual message to a friend",
+          "sentence": "The bus broke down, I missed dinner, and then it started raining. Story of my life!",
+          "highlight": "Story of my life",
+          "tip": "It can punctuate a list of mishaps; use an exclamation mark for extra drama."
+        }
+      ],
+      "origin": {
+        "summary": "Probably grew from the literal idea of telling the story of someone’s life, then became a way to describe a recurring personal misfortune.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The phrase literally refers to the account of someone’s life."
+          },
+          {
+            "when": "19th century",
+            "text": "Writers used similar wording when presenting personal history, including recurring troubles."
+          },
+          {
+            "when": "Today",
+            "text": "It is common casual speech for a situation that repeatedly goes wrong."
+          }
+        ]
+      },
+      "similar": [
+        "same old story",
+        "just my luck",
+        "here we go again"
+      ],
+      "opposite": "a dream come true",
+      "pitfall": "Because it can sound self-pitying, use it for lighthearted frustration rather than a serious problem that needs attention."
+    },
+    {
+      "id": "stuck-in-time",
+      "kind": "phrase",
+      "term": "stuck in time",
+      "pos": "idiom",
+      "hint": "unable to move forward from the past",
+      "register": "Everyday",
+      "meaning": "Trapped in the past, with little interest or ability to move forward with the present.",
+      "nuance": "Often describes someone whose attitudes, routines or memories prevent them from adapting to change. It can sound sympathetic, but it may also be used critically about a person or organisation.",
+      "literal": "Remaining in one moment while time keeps moving around you.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · outdated processes",
+          "sentence": "Our forecasting team seems stuck in time, using last year’s figures for every forecast.",
+          "highlight": "stuck in time",
+          "tip": "Pair it with a specific concern when you want to challenge an outdated approach."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation about an old friend",
+          "sentence": "He’s still stuck in time, talking about the same problems he had five years ago.",
+          "highlight": "stuck in time",
+          "tip": "Use it gently when someone has not changed; it can sound insulting if delivered bluntly."
+        },
+        {
+          "setting": "writing",
+          "where": "Reviewing a traditional business",
+          "sentence": "The company insists it isn’t stuck in time, although its website still lists fax numbers.",
+          "highlight": "stuck in time",
+          "tip": "A vivid but slightly dismissive line, so support it with concrete evidence."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is uncertain. The expression likely grew from the older idea of being “stuck” combined with the notion that time continues moving while someone or something remains in an earlier period.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The word “stuck” was used for being held in place or unable to move."
+          },
+          {
+            "when": "20th century",
+            "text": "Writing increasingly combined being stuck with time to suggest remaining fixed in the past."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase describes people, places or systems that seem resistant to change."
+          }
+        ]
+      },
+      "similar": [
+        "stuck in the past",
+        "frozen in time",
+        "stuck in a rut"
+      ],
+      "opposite": "moving with the times",
+      "pitfall": "“Stuck in time” focuses on being held in the past; “stuck in a rut” more often means repeating the same routine."
+    },
+    {
+      "id": "talk-of-the-devil",
+      "kind": "phrase",
+      "term": "talk of the devil",
+      "pos": "idiom",
+      "hint": "someone appears just after being mentioned",
+      "register": "Casual",
+      "meaning": "Used when someone arrives or is heard from shortly after they have been mentioned.",
+      "nuance": "It expresses amused surprise, often in a playful way. It is usually friendly and informal, so use it with people you know well.",
+      "literal": "The devil is said to appear when people begin talking about him.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office conversation · unexpected arrival",
+          "sentence": "I was just saying we needed help with the report when talk of the devil walked in.",
+          "highlight": "talk of the devil",
+          "tip": "Keep it light when a colleague arrives at just the right moment."
+        },
+        {
+          "setting": "social",
+          "where": "Party · seeing an old friend",
+          "sentence": "We were talking about Marcus when he arrived, so it was talk of the devil.",
+          "highlight": "talk of the devil",
+          "tip": "It works best with people who share your sense of humour."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message · spotting a coincidence",
+          "sentence": "Talk of the devil: I was about to message you when you texted me.",
+          "highlight": "Talk of the devil",
+          "tip": "Use it in a friendly message, not in formal or serious writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the older saying “talk of the devil and he appears,” which warns that someone may arrive when they are being discussed. The shorter form became common in everyday English.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "A traditional saying linked the devil’s arrival with people talking about him."
+          },
+          {
+            "when": "1600s",
+            "text": "The wording “talk of the devil and he appears” appeared in English writing."
+          },
+          {
+            "when": "Today",
+            "text": "The shortened phrase is used as a playful comment on a surprising coincidence."
+          }
+        ]
+      },
+      "similar": [
+        "speaking of the devil",
+        "what a coincidence",
+        "fancy meeting you here"
+      ],
+      "opposite": "a welcome surprise",
+      "pitfall": "It can sound slightly old-fashioned or sarcastic, so avoid it with strangers or in a serious situation."
+    },
+    {
+      "id": "thats-life",
+      "kind": "phrase",
+      "term": "That's life",
+      "pos": "phrase",
+      "hint": "accepting something you cannot change",
+      "register": "Casual",
+      "meaning": "An informal way to accept that life brings difficulties, setbacks or unexpected events.",
+      "nuance": "It can sound resigned, philosophical or good-humoured, depending on the tone. Use it when you are acknowledging a frustration rather than dismissing someone’s concerns.",
+      "literal": "A simple statement that unpleasant or uncontrollable things are part of being alive.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "After a project is cancelled",
+          "sentence": "The client changed the deadline, but that’s life—we’ll focus on the next opportunity.",
+          "highlight": "that’s life",
+          "tip": "Acknowledge the setback, then show what you will do next."
+        },
+        {
+          "setting": "social",
+          "where": "Plans fall through",
+          "sentence": "The restaurant was full and we ended up getting takeaway, but that’s life.",
+          "highlight": "that’s life",
+          "tip": "It works best with a relaxed, lighthearted tone."
+        },
+        {
+          "setting": "writing",
+          "where": "Reflecting on a setback",
+          "sentence": "Not every idea works, and that’s life; the important part is learning what to try next.",
+          "highlight": "that’s life",
+          "tip": "Use it sparingly in professional writing because it can sound dismissive."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase reflects a long-standing idea that hardship and disappointment are unavoidable parts of life. Its exact first use is uncertain, but it became familiar as a casual saying and through popular songs.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "Similar expressions about life’s ups and downs appear in popular writing and song."
+          },
+          {
+            "when": "20th century",
+            "text": "The shortened form spreads widely as an informal response to misfortune."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in relaxed conversation, sometimes with a note of resignation."
+          }
+        ]
+      },
+      "similar": [
+        "that’s how it is",
+        "it is what it is",
+        "life goes on"
+      ],
+      "pitfall": "Saying “that’s life” while someone is upset may make you sound as if you are minimizing their problem."
+    },
+    {
+      "id": "thats-news-to-me",
+      "kind": "phrase",
+      "term": "That's news to me",
+      "pos": "idiom",
+      "hint": "something is new or unexpected",
+      "register": "Everyday",
+      "meaning": "Used to say that you have just heard something for the first time and did not know it before.",
+      "nuance": "It sounds mildly surprised, but it can also suggest that the information is not important to you. In serious situations, a more direct reaction may be better.",
+      "literal": "The information is new to me, like a news report I have not encountered before.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Hearing a last-minute project change",
+          "sentence": "That we're moving the deadline is news to me; I thought Friday was fixed.",
+          "highlight": "news to me",
+          "tip": "Use it when you need a moment to process unexpected information."
+        },
+        {
+          "setting": "social",
+          "where": "Learning about a friend's new job",
+          "sentence": "You're leaving the company? That's news to me—you never said anything.",
+          "highlight": "That's news to me",
+          "tip": "It works well with a playful tone among friends."
+        },
+        {
+          "setting": "writing",
+          "where": "Replying to an unexpected update",
+          "sentence": "The office is closing early today—that's news to me, but thanks for letting me know.",
+          "highlight": "that's news to me",
+          "tip": "Keep it casual; in formal writing, say 'I wasn't aware of that.'"
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely grew from everyday speech about hearing something for the first time, with 'news' meaning fresh information rather than only events reported by journalists.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used 'news' to mean information that was new or noteworthy."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression became established in informal speech for newly learned information."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in casual conversation and relaxed writing."
+          }
+        ]
+      },
+      "similar": [
+        "I didn't know that",
+        "that's new to me",
+        "I had no idea"
+      ],
+      "opposite": "I knew that already",
+      "pitfall": "In a serious or formal situation, saying this can sound dismissive instead of simply expressing surprise."
+    },
+    {
+      "id": "thats-someones-funeral",
+      "kind": "phrase",
+      "term": "that's someone's funeral",
+      "pos": "phrase",
+      "hint": "they will have to live with the consequences",
+      "register": "Informal",
+      "meaning": "It is that person’s own choice or responsibility, so they will have to deal with the consequences.",
+      "nuance": "Blunt and slightly dismissive, with the possible meaning “I don’t agree, but I won’t stop you.” It is common in British and Australian English but may sound insensitive in a serious situation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · handling risk",
+          "sentence": "If the team skips the review, that’s someone’s funeral.",
+          "highlight": "that’s someone’s funeral",
+          "tip": "Use it only when you are comfortable leaving the decision to them."
+        },
+        {
+          "setting": "social",
+          "where": "Friends planning a night out",
+          "sentence": "She wants to walk home alone after midnight? That’s someone’s funeral.",
+          "highlight": "That’s someone’s funeral",
+          "tip": "It can sound joking, so avoid it when someone is genuinely upset or worried."
+        },
+        {
+          "setting": "writing",
+          "where": "Casual message to a colleague",
+          "sentence": "You can ignore the deadline, but that’s someone’s funeral.",
+          "highlight": "that’s someone’s funeral",
+          "tip": "Keep it among colleagues who already share your blunt style."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is unclear. It likely developed from British use of “funeral” for serious trouble or an unwelcome outcome, followed by the idea that the person responsible must face the consequences.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Funeral” was used informally for serious trouble or trouble ahead."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression became established in British English as a way to comment on someone’s risky choice."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly informal and is especially associated with British and Australian English."
+          }
+        ]
+      },
+      "similar": [
+        "it's up to them",
+        "that's their problem",
+        "they've made their own bed"
+      ],
+      "opposite": "I'd be happy to help",
+      "pitfall": "The wording mentions a funeral, so it can feel heartless during bereavement or another genuinely serious situation."
+    }
+  ]
+}

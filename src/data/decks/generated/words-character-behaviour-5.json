@@ -1,0 +1,1736 @@
+{
+  "id": "words-character-behaviour-5",
+  "kind": "word",
+  "name": "Character & behaviour · 5",
+  "blurb": "25 words about character & behaviour",
+  "cards": [
+    {
+      "id": "profligate",
+      "kind": "word",
+      "term": "profligate",
+      "pos": "adjective",
+      "phonetic": "/ˈprɒflɪɡət/",
+      "sayIt": "PROF-li-git",
+      "register": "Formal; often critical",
+      "meaning": "Spending or using resources in a wasteful, excessively extravagant way.",
+      "nuance": "It is stronger and more disapproving than “expensive” or “extravagant.” It is often used about irresponsible spending, consumption or use of resources.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget review · questioning costs",
+          "sentence": "The agency’s profligate travel budget helped explain why the project ran out of money.",
+          "highlight": "profligate",
+          "tip": "Use it when criticising spending that seems careless or excessive."
+        },
+        {
+          "setting": "social",
+          "where": "With friends · discussing weekend plans",
+          "sentence": "Our weekend spending felt profligate after we realised we had booked three expensive dinners.",
+          "highlight": "profligate",
+          "tip": "It adds a strong, slightly judgemental note to a complaint about excess."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · reviewing expenses",
+          "sentence": "The report criticises the company’s profligate spending on consultants and international events.",
+          "highlight": "profligate",
+          "tip": "This is a formal and forceful choice for serious criticism of waste."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin profligatus, meaning “ruined” or “wasted,” originally associated with being driven down or destroyed.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Profligatus develops from profligare, meaning “to drive down, ruin or waste.”"
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "English adopts the word with senses involving ruin, waste and excessive spending."
+          },
+          {
+            "when": "Today",
+            "text": "Its main meaning is recklessly extravagant or wasteful, especially with money."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "profligacy",
+          "label": "noun"
+        },
+        {
+          "term": "profligately",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "extravagant",
+        "wasteful",
+        "reckless",
+        "lavish"
+      ],
+      "opposite": "frugal",
+      "pitfall": "It is more critical than “lavish,” which can describe generosity or luxury without disapproval. “Profligate” can also sound moralistic, so choose it carefully."
+    },
+    {
+      "id": "propensity",
+      "kind": "word",
+      "term": "propensity",
+      "pos": "noun",
+      "phonetic": "/prəˈpɛnsəti/",
+      "sayIt": "pruh-PEN-si-tee",
+      "register": "Common at work",
+      "meaning": "A natural tendency to behave in a particular way or prefer doing something.",
+      "nuance": "Often suggests a pattern that is noticeable but not always deliberate. It can sound slightly more formal than “tendency” and may imply a negative tendency when used about unwanted behaviour.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · reviewing customer feedback",
+          "sentence": "The product team has a propensity to prioritise speed over accessibility, so we should test the new flow with disabled users.",
+          "highlight": "propensity",
+          "tip": "Use it when describing a recurring tendency within a person or team."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · choosing a restaurant",
+          "sentence": "I have a propensity to order the same dish whenever I see it on the menu.",
+          "highlight": "propensity",
+          "tip": "It works naturally when describing a personal habit, especially one you are slightly self-aware about."
+        },
+        {
+          "setting": "writing",
+          "where": "Research summary · analysing survey results",
+          "sentence": "The findings show a clear propensity among younger respondents to share news through messaging apps.",
+          "highlight": "propensity",
+          "tip": "A useful formal word for patterns identified in data or research."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin propensio, meaning a leaning or inclination, and related to propensus, “inclined towards”.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root propensus meant inclined or leaning towards, and propensio meant an inclination."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with meanings connected to inclination and natural tendency."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for noticeable tendencies in behaviour, preferences or patterns found in data."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "propense",
+          "label": "adjective"
+        },
+        {
+          "term": "propension",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "tendency",
+        "inclination",
+        "predilection",
+        "disposition",
+        "leaning"
+      ],
+      "opposite": "reluctance",
+      "pitfall": "Don’t confuse it with “propaganda”; “propensity” is a tendency, while “propaganda” is material intended to influence opinion."
+    },
+    {
+      "id": "pugnacious",
+      "kind": "word",
+      "term": "pugnacious",
+      "pos": "adjective",
+      "phonetic": "/pʌɡˈneɪʃəs/",
+      "sayIt": "pug-NAY-shus",
+      "register": "Formal",
+      "meaning": "Ready and eager to fight, argue or take an aggressive approach.",
+      "nuance": "It suggests an active desire for confrontation, not merely a forceful personality. It can describe a person, an attitude or a demanding, combative negotiating style.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Negotiation · defending a proposal",
+          "sentence": "The department became pugnacious when managers rejected every request for additional staff.",
+          "highlight": "pugnacious",
+          "tip": "Use it for a noticeably hostile or confrontational response."
+        },
+        {
+          "setting": "social",
+          "where": "Family discussion · settling an argument",
+          "sentence": "My uncle gets pugnacious whenever anyone questions his advice.",
+          "highlight": "pugnacious",
+          "tip": "It sounds more critical than simply argumentative, because it implies eagerness for conflict."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · describing a dispute",
+          "sentence": "Both sides adopted a pugnacious tone, exchanging sharp accusations instead of addressing the proposal.",
+          "highlight": "pugnacious",
+          "tip": "The word fits formal reporting when you want to emphasize an openly hostile tone."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin pugnaciousus, meaning ‘fond of fighting’, from pugnare, ‘to fight’, and pugnax, ‘eager for battle’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Pugnaciousus is formed from pugnax, ‘eager for battle’, and a suffix meaning ‘characterized by’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in a literal sense, meaning inclined or skilled in fighting."
+          },
+          {
+            "when": "1800s onward",
+            "text": "Its use broadens to describe argumentative, aggressive behaviour and a hostile tone."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "pugnacity",
+          "label": "noun"
+        },
+        {
+          "term": "pugnaciously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "combative",
+        "confrontational",
+        "argumentative",
+        "bellicose"
+      ],
+      "opposite": "peaceable",
+      "pitfall": "Use it for people or attitudes that actively seek conflict; it is stronger and more formal than simply ‘aggressive’."
+    },
+    {
+      "id": "rapacious",
+      "kind": "word",
+      "term": "rapacious",
+      "pos": "adjective",
+      "phonetic": "/rəˈpeɪʃəs/",
+      "sayIt": "ruh-PAY-shuhs",
+      "register": "Formal",
+      "meaning": "Greedy for money, power or possessions, often taking more than you need or deserve.",
+      "nuance": "Strongly negative and usually more literary than everyday words such as “greedy.” It can describe a person, an organisation or a demanding appetite.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Contract review · pricing dispute",
+          "sentence": "The vendor’s rapacious pricing left us with no room to negotiate.",
+          "highlight": "rapacious",
+          "tip": "Stronger than “expensive”; it suggests unreasonable greed."
+        },
+        {
+          "setting": "social",
+          "where": "Family dinner · sharing leftovers",
+          "sentence": "My cousin was rapacious with the buffet and returned home with three extra plates.",
+          "highlight": "rapacious",
+          "tip": "Adds a humorous, slightly exaggerated sense of greed."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · criticising corporate expansion",
+          "sentence": "The takeover was driven by rapacious ambition rather than a sound long-term strategy.",
+          "highlight": "rapacious",
+          "tip": "A forceful choice for formal criticism of excessive corporate appetite."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin rapax, meaning “seizing” or “greedy,” based on rapere, “to seize or grab.” The word entered English in the 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Rapax develops from rapere, “to seize or grab,” and comes to mean “greedy” or “predatory.”"
+          },
+          {
+            "when": "1600s",
+            "text": "Rapacious enters English in the sense of greedy or excessively demanding."
+          },
+          {
+            "when": "Today",
+            "text": "It chiefly describes greed for money, power, possessions or food."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "rapacity",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "avaricious",
+        "greedy",
+        "grasping",
+        "predatory"
+      ],
+      "opposite": "generous",
+      "pitfall": "It can sound very forceful, so choose a gentler word such as “greedy” when you do not want strong criticism."
+    },
+    {
+      "id": "recalcitrant",
+      "kind": "word",
+      "term": "recalcitrant",
+      "pos": "adjective",
+      "phonetic": "/rɪˈkæl.sɪ.trənt/",
+      "sayIt": "re-KAL-si-trunt",
+      "register": "Formal",
+      "meaning": "Stubbornly resistant to authority, rules, instructions or attempts to cooperate.",
+      "nuance": "Stronger and more formal than “stubborn,” suggesting a person or thing repeatedly refuses to yield. It is often used for difficult students, employees, animals or machinery.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · handling a refusal",
+          "sentence": "The recalcitrant department head refused to approve the new workflow despite two meetings.",
+          "highlight": "recalcitrant",
+          "tip": "Use it when resistance is persistent, not merely a normal disagreement."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · persuading a teenager",
+          "sentence": "Our recalcitrant nephew had decided that no reasonable request would earn a yes.",
+          "highlight": "recalcitrant",
+          "tip": "A slightly humorous but firm way to describe someone being extremely uncooperative."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal report · describing delays",
+          "sentence": "The recalcitrant engine remained out of service until an engineer replaced its damaged control module.",
+          "highlight": "recalcitrant",
+          "tip": "It can describe machinery that will not work or respond as expected."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin recalcitrare, meaning “to be stubborn or refuse to yield,” originally associated with a horse’s heels and the lime used to make a path slippery.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "Recalcitrare developed from calx, meaning “lime,” and a root associated with slipping or resisting pressure."
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered English with the meaning “stubbornly resistant to control or authority.”"
+          },
+          {
+            "when": "Today",
+            "text": "It describes people, animals and machines that persistently refuse to cooperate."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "recalcitrance",
+          "label": "noun"
+        },
+        {
+          "term": "recalcitrantly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "stubborn",
+        "obstinate",
+        "resistant",
+        "uncooperative"
+      ],
+      "opposite": "compliant",
+      "pitfall": "It is stronger than “reluctant,” which may describe simple hesitation. Recalcitrant suggests firm, repeated resistance to pressure or authority."
+    },
+    {
+      "id": "reckless",
+      "kind": "word",
+      "term": "reckless",
+      "pos": "adjective",
+      "phonetic": "/ˈrɛkləs/",
+      "sayIt": "RECK-luss",
+      "register": "Common at work and in serious conversation",
+      "meaning": "Acting without enough thought about the risks or possible harm your actions could cause.",
+      "nuance": "It is a strong criticism and can suggest that someone ignored obvious dangers. It is often used when poor judgement leads to damage, danger or unnecessary risk.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Safety review · discussing a rushed decision",
+          "sentence": "Skipping the final checks was reckless, especially when the equipment can damage the whole production line.",
+          "highlight": "reckless",
+          "tip": "Use it for a decision that showed a serious lack of care or judgement."
+        },
+        {
+          "setting": "social",
+          "where": "Driving home · after an argument",
+          "sentence": "It was reckless to send that message while you were angry, so give yourself some time before replying.",
+          "highlight": "reckless",
+          "tip": "It fits actions that may hurt someone or make a difficult situation worse."
+        },
+        {
+          "setting": "writing",
+          "where": "Incident report · describing operational risk",
+          "sentence": "Management called the changes reckless because they exposed employees and customers to avoidable harm.",
+          "highlight": "reckless",
+          "tip": "Pair it with a clear consequence or detail to make the criticism specific."
+        }
+      ],
+      "origin": {
+        "summary": "From Old English words meaning “without care”: a word for care combined with a prefix meaning “without.” The modern form appeared in the 1500s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "Related to Old English words meaning “care” and “without care.”"
+          },
+          {
+            "when": "1500s",
+            "text": "The modern form emerges, describing behaviour marked by a lack of care."
+          },
+          {
+            "when": "Today",
+            "text": "It means acting without proper regard for danger, risk or consequences."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "recklessly",
+          "label": "adverb"
+        },
+        {
+          "term": "recklessness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "careless",
+        "rash",
+        "heedless",
+        "thoughtless"
+      ],
+      "opposite": "careful",
+      "pitfall": "Careless is often milder and more general; reckless suggests a clearer disregard for serious risk or consequences."
+    },
+    {
+      "id": "reliable",
+      "kind": "word",
+      "term": "reliable",
+      "pos": "adjective",
+      "phonetic": "/rɪˈlaɪəbəl/",
+      "sayIt": "ri-LY-uh-bul",
+      "register": "Everyday",
+      "meaning": "Able to be trusted to do what is expected, work consistently, or perform properly.",
+      "nuance": "It often suggests steadiness and dependability rather than exceptional skill. It can describe people, systems, methods, vehicles, news sources and more.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team handover · assigning tasks",
+          "sentence": "Priya is reliable, so I’m giving her the client report before Friday.",
+          "highlight": "reliable",
+          "tip": "Use it to praise someone’s dependability in a specific, practical way."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a trip · choosing transport",
+          "sentence": "The earlier train is more reliable when you’re going to meet friends for dinner.",
+          "highlight": "reliable",
+          "tip": "Useful when discussing transport, services or anything that needs to work consistently."
+        },
+        {
+          "setting": "writing",
+          "where": "Product review · comparing options",
+          "sentence": "This printer is less reliable than the cheaper model, but it produces better photos.",
+          "highlight": "reliable",
+          "tip": "A clear choice when a product needs to perform consistently over time."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin reliabilis, meaning trustworthy or dependable, based on fidus, meaning faithful or trustworthy.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Reliabilis is formed from fidere, ‘to trust’, and means trustworthy."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English in the sense of trustworthy or dependable."
+          },
+          {
+            "when": "Today",
+            "text": "It describes anything that can be trusted to work consistently or do what is expected."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "reliability",
+          "label": "noun"
+        },
+        {
+          "term": "reliably",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "dependable",
+        "consistent",
+        "trustworthy",
+        "steady"
+      ],
+      "opposite": "unreliable",
+      "pitfall": "Reliable means dependable, not necessarily the best or most powerful option."
+    },
+    {
+      "id": "remiss",
+      "kind": "word",
+      "term": "remiss",
+      "pos": "adjective",
+      "phonetic": "/rɪˈmɪs/",
+      "sayIt": "ri-MISS",
+      "register": "Formal",
+      "meaning": "Failing to show enough care, effort, or responsibility in carrying out a duty.",
+      "nuance": "It suggests negligence rather than an accidental mistake. The word is most natural in serious or official contexts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Compliance review · missed checks",
+          "sentence": "The auditor said the team had been remiss in recording the safety checks.",
+          "highlight": "remiss",
+          "tip": "Use it for a clear failure to meet a responsibility."
+        },
+        {
+          "setting": "social",
+          "where": "Community meeting · unfinished volunteering",
+          "sentence": "We were remiss in welcoming the new neighbours, so let’s organise a proper introduction.",
+          "highlight": "remiss",
+          "tip": "It can acknowledge a social duty that people did not fulfil."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal report · neglected maintenance",
+          "sentence": "The landlord was remiss in maintaining the heating system and failed to respond to repeated complaints.",
+          "highlight": "remiss",
+          "tip": "This gives formal reports a direct way to describe neglected duties."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin remissus, meaning ‘sent back’ or ‘slackened’, and later ‘careless or negligent’. It entered English in the 1500s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Remissus develops from remittere, meaning ‘send back’ or ‘release’, and comes to mean slack or careless."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with senses connected to release, pardon and carelessness."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used formally for neglecting a duty or responsibility."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "remissness",
+          "label": "noun"
+        },
+        {
+          "term": "remissly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "negligent",
+        "lax",
+        "careless",
+        "culpable"
+      ],
+      "opposite": "diligent",
+      "pitfall": "Use it for neglected duties, not simply a lack of skill or an unavoidable mistake."
+    },
+    {
+      "id": "repertoire",
+      "kind": "word",
+      "term": "repertoire",
+      "pos": "noun",
+      "phonetic": "/ˈrepərtwɑːr/",
+      "sayIt": "REP-er-twar",
+      "register": "Common at work",
+      "meaning": "A collection of skills, ideas or performances that someone can draw on.",
+      "nuance": "Often suggests a wide range of well-practised abilities. It can also refer to the material a performer regularly performs.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team workshop · planning for a new client",
+          "sentence": "Our support team’s repertoire of solutions is broad enough to handle almost any onboarding problem.",
+          "highlight": "repertoire",
+          "tip": "Use it when discussing the range of skills or approaches someone has developed."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · discussing a musician",
+          "sentence": "Her jazz repertoire includes both timeless standards and recent reinterpretations.",
+          "highlight": "repertoire",
+          "tip": "It is especially natural when talking about songs or material a performer knows."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · evaluating a new employee",
+          "sentence": "He brought an impressive repertoire of experience to his first leadership role.",
+          "highlight": "repertoire",
+          "tip": "Use it for a professional range of knowledge, techniques or proven methods."
+        }
+      ],
+      "origin": {
+        "summary": "Borrowed from French répertoire, originally meaning a catalogue or index, and ultimately related to Latin reperire, ‘to find out’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Reperire develops the sense of finding or discovering something available."
+          },
+          {
+            "when": "1600s",
+            "text": "French répertoire means a catalogue or inventory of items."
+          },
+          {
+            "when": "1800s",
+            "text": "The word reaches English and begins referring to a collection of artistic material."
+          },
+          {
+            "when": "Today",
+            "text": "It means a range of skills, works or performances someone can use."
+          }
+        ]
+      },
+      "similar": [
+        "range",
+        "collection",
+        "repertoire of skills",
+        "body of work"
+      ],
+      "opposite": "limited range",
+      "pitfall": "In British English, repertoire is common; repertoire is also accepted but is less usual."
+    },
+    {
+      "id": "reserved",
+      "kind": "word",
+      "term": "reserved",
+      "pos": "adjective",
+      "phonetic": "/rɪˈzɜːvd/",
+      "sayIt": "ree-ZERVED",
+      "register": "Everyday",
+      "meaning": "Not freely showing emotions, opinions or personal information.",
+      "nuance": "It can describe someone who is quiet and self-controlled, or simply formal with strangers. The word may sound mildly critical, especially when you imply that someone is holding something back.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "New team member · first introduction",
+          "sentence": "She was initially reserved, but opened up once she got to know the team.",
+          "highlight": "reserved",
+          "tip": "This sounds neutral and can describe someone who takes time to settle in."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · meeting new people",
+          "sentence": "He stayed reserved during the first course, then joined in when the conversation turned to football.",
+          "highlight": "reserved",
+          "tip": "Use it for quiet behaviour rather than unfriendliness."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · feedback",
+          "sentence": "Your reserved style helps in negotiations, though colleagues may find it difficult to read your mood.",
+          "highlight": "reserved",
+          "tip": "Pair it with style, manner or personality; avoid using it as a vague criticism."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French reserve, meaning kept back or saved, from the Latin reservare. English later developed the senses of keeping something for later and behaving with restraint.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old French",
+            "text": "Reserve means kept back, saved or set aside."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word develops senses including set aside for another purpose and kept in restraint."
+          },
+          {
+            "when": "Today",
+            "text": "Reserved most often describes a quiet, self-controlled person or manner."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "reserve",
+          "label": "verb"
+        },
+        {
+          "term": "reservation",
+          "label": "noun"
+        },
+        {
+          "term": "reservist",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "reticent",
+        "restrained",
+        "taciturn",
+        "formal",
+        "aloof"
+      ],
+      "opposite": "outgoing",
+      "pitfall": "Reserved can also mean set aside or booked, as in a reserved seat. The past tense of reserve is also spelled reserved."
+    },
+    {
+      "id": "resolute",
+      "kind": "word",
+      "term": "resolute",
+      "pos": "adjective",
+      "phonetic": "/ˈrezəluːt/",
+      "sayIt": "REZ-uh-loot",
+      "register": "Formal",
+      "meaning": "Showing firm determination to make a decision and continue until it is achieved.",
+      "nuance": "It suggests steadiness and a refusal to be shaken by difficulty. It is especially useful when describing leaders, decisions, or efforts that require firm commitment.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project meeting · deciding on a delay",
+          "sentence": "The team took a resolute approach to the deadline and agreed on three priorities for this week.",
+          "highlight": "resolute",
+          "tip": "Use it to emphasize firm action without sounding aggressive."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · discussing a difficult choice",
+          "sentence": "She was resolute about moving to another city, even though her friends were unsure.",
+          "highlight": "resolute",
+          "tip": "It fits when describing someone’s firm, settled determination."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · explaining leadership",
+          "sentence": "The manager remained resolute when the project faced several unexpected setbacks.",
+          "highlight": "resolute",
+          "tip": "It gives a formal note of praise for steady, determined leadership."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin resolutus, meaning ‘unbound’ or ‘resolved’, based on solvere, ‘to loosen’ or ‘solve’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Resolutus develops from resolvere, meaning ‘to untie’ or ‘solve’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English, initially meaning free from ties or obstacles."
+          },
+          {
+            "when": "1800s",
+            "text": "It takes on its modern sense of being firmly determined."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "resolution",
+          "label": "noun"
+        },
+        {
+          "term": "resolutely",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "determined",
+        "decisive",
+        "steadfast",
+        "firm"
+      ],
+      "opposite": "wavering",
+      "pitfall": "Don’t confuse it with resolute in the sense of being dissolved or broken; in modern English, it almost always means firmly determined."
+    },
+    {
+      "id": "resourceful",
+      "kind": "word",
+      "term": "resourceful",
+      "pos": "adjective",
+      "phonetic": "/rɪˈsɔːrsfəl/",
+      "sayIt": "re-SORCE-ful",
+      "register": "Common at work",
+      "meaning": "Able to solve problems creatively and make good use of the people, materials or opportunities available.",
+      "nuance": "It is a positive word that highlights ingenuity and adaptability, especially when conditions are difficult or unpredictable.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · solving a staffing shortage",
+          "sentence": "Mina was resourceful, training two new colleagues while keeping the project on schedule.",
+          "highlight": "resourceful",
+          "tip": "Use it to praise someone’s problem-solving skills and practical initiative."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend trip · lost without directions",
+          "sentence": "Our resourceful host turned a wrong turn into an afternoon exploring a nearby market.",
+          "highlight": "resourceful",
+          "tip": "It often describes people who stay calm and improvise when plans go wrong."
+        },
+        {
+          "setting": "writing",
+          "where": "Recommendation letter · describing a colleague",
+          "sentence": "She is a resourceful team member who can turn limited budgets into strong results.",
+          "highlight": "resourceful",
+          "tip": "It works well in evaluations when you want to emphasise adaptability rather than technical expertise."
+        }
+      ],
+      "origin": {
+        "summary": "Built from resource, meaning a source of help or support, plus the suffix -ful.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Resource comes through Old French from Latin resources, meaning sources or means of support."
+          },
+          {
+            "when": "1800s",
+            "text": "Resourceful begins appearing in English with the sense of able to find ways to succeed."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used to praise creativity, initiative and practical problem-solving."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "resource",
+          "label": "noun"
+        },
+        {
+          "term": "resourcefully",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "adaptable",
+        "inventive",
+        "shrewd",
+        "capable"
+      ],
+      "opposite": "helpless",
+      "pitfall": "Do not confuse resourceful with resourceful-looking; the word normally suggests a demonstrated ability to solve problems."
+    },
+    {
+      "id": "reticent",
+      "kind": "word",
+      "term": "reticent",
+      "pos": "adjective",
+      "phonetic": "/ˈrɛtɪsənt/",
+      "sayIt": "RET-i-sunt",
+      "register": "Formal",
+      "meaning": "Unwilling to talk freely about something, often because you are cautious or have been asked to keep it confidential.",
+      "nuance": "A negative word that suggests silence or guarded behaviour rather than simple shyness. It is especially useful when describing how someone handles sensitive information.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team briefing · discussing sensitive plans",
+          "sentence": "The director was reticent about the merger, so we waited for an official announcement.",
+          "highlight": "reticent",
+          "tip": "Use it for someone who deliberately avoids revealing information."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · asking about a new relationship",
+          "sentence": "He seemed reticent at first, but opened up once we moved away from the group.",
+          "highlight": "reticent",
+          "tip": "It can describe reserved behaviour in a social setting without sounding openly rude."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · describing communication",
+          "sentence": "Although knowledgeable, she was reticent in meetings and rarely volunteered her opinions.",
+          "highlight": "reticent",
+          "tip": "It is effective in formal reports when you need to comment on someone’s guarded communication style."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin reticere, meaning ‘to keep silent’, formed from re-, ‘back’, and tacere, ‘to be silent’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Reticere means ‘to keep silent’ or ‘to withhold speech’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in the sense of being reserved or reluctant to speak."
+          },
+          {
+            "when": "Today",
+            "text": "It describes someone who is cautious about speaking or revealing information."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "reticence",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "reserved",
+        "guarded",
+        "taciturn",
+        "retiring"
+      ],
+      "opposite": "forthcoming",
+      "pitfall": "Do not use it simply to mean shy; it usually implies deliberate caution or reluctance to speak."
+    },
+    {
+      "id": "sanctimonious",
+      "kind": "word",
+      "term": "sanctimonious",
+      "pos": "adjective",
+      "phonetic": "/ˌsæŋktɪˈmoʊniəs/",
+      "sayIt": "SANK-tih-MOH-nee-us",
+      "register": "Formal, often critical",
+      "meaning": "Making an exaggerated show of moral purity, goodness or religious devotion.",
+      "nuance": "It usually suggests that the person is self-righteous or more concerned with appearing virtuous than acting virtuously. It can describe either conscious hypocrisy or an outward performance that may hide ordinary behaviour.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · challenging a policy",
+          "sentence": "His sanctimonious response to the proposal made everyone uncomfortable.",
+          "highlight": "sanctimonious",
+          "tip": "Use it for a conspicuously self-righteous manner, not simply for having firm moral standards."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · judging a relative",
+          "sentence": "She became sanctimonious and called everyone selfish for enjoying the party.",
+          "highlight": "sanctimonious",
+          "tip": "It is strong and usually carries criticism from the speaker."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing a public figure",
+          "sentence": "The article dismissed his sanctimonious campaign as moral theatre rather than genuine reform.",
+          "highlight": "sanctimonious",
+          "tip": "It works well in sharp commentary but may sound too forceful in a neutral report."
+        }
+      ],
+      "origin": {
+        "summary": "It comes through French from Latin sanctimonia, meaning holiness or reverence, originally associated with being holy or sacred.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Sanctimonia develops from words meaning holy, holiness or reverence."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with the sense of showing reverence or moral seriousness."
+          },
+          {
+            "when": "Today",
+            "text": "It chiefly describes an exaggerated, often self-righteous display of virtue."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "sanctimony",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "self-righteous",
+        "priggish",
+        "pious",
+        "hypocritical"
+      ],
+      "opposite": "unassuming",
+      "pitfall": "Don’t use it for someone who is quietly devout or ethically strict; it usually implies a showy or judgemental attitude."
+    },
+    {
+      "id": "scurry",
+      "kind": "word",
+      "term": "scurry",
+      "pos": "verb",
+      "phonetic": "/ˈskʌri/",
+      "sayIt": "SKUR-ee",
+      "register": "Everyday",
+      "meaning": "To move quickly with short, hurried steps, often because of fear, excitement or urgency.",
+      "nuance": "It suggests light, nervous or bustling movement. As a noun, a scurry is a sudden burst of hurried activity.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office corridor · unexpected visit",
+          "sentence": "The interns scurry back to their desks when the director unexpectedly walks in.",
+          "highlight": "scurry",
+          "tip": "Use it to suggest nervous, hurried movement rather than calm activity."
+        },
+        {
+          "setting": "social",
+          "where": "Garden party · hunting for eggs",
+          "sentence": "Children scurry around the lawn while trying to find the hidden eggs.",
+          "highlight": "scurry",
+          "tip": "It sounds natural for quick, playful movement, especially involving small animals or children."
+        },
+        {
+          "setting": "writing",
+          "where": "Station report · last-minute travel",
+          "sentence": "A scurry of activity fills the station as passengers search for the correct platform.",
+          "highlight": "scurry",
+          "tip": "Use the noun for a sudden flurry of busy or slightly chaotic activity."
+        }
+      ],
+      "origin": {
+        "summary": "The exact source is uncertain. The word may come from an obsolete English verb, possibly influenced by Old French escorrer, meaning ‘to hasten’.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1600s",
+            "text": "Scurry appears in English with the sense of moving in short, hurried steps."
+          },
+          {
+            "when": "1600s",
+            "text": "A noun meaning a sudden rush or bustle develops alongside the verb."
+          },
+          {
+            "when": "Later",
+            "text": "The word becomes common in descriptions of nervous people, small animals and busy places."
+          }
+        ]
+      },
+      "similar": [
+        "scamper",
+        "scuttle",
+        "dash",
+        "flutter",
+        "hurry"
+      ],
+      "opposite": "linger",
+      "pitfall": "Scurry usually emphasizes quick, light movement or a flurry of activity; hurry focuses more directly on speed or urgency."
+    },
+    {
+      "id": "servile",
+      "kind": "word",
+      "term": "servile",
+      "pos": "adjective",
+      "phonetic": "/ˈsɜːrvəl/",
+      "sayIt": "SER-vile",
+      "register": "Formal",
+      "meaning": "Showing too much eagerness to obey or please someone, often in a humble or degrading way.",
+      "nuance": "The tone is critical: it suggests obedience that has lost self-respect. It is stronger and more negative than simply being respectful.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing workplace conduct",
+          "sentence": "He was servile toward senior managers but confident when speaking to junior colleagues.",
+          "highlight": "servile",
+          "tip": "Use it when respect appears excessive, unequal or driven by fear."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · reacting to a guest",
+          "sentence": "His servile agreement with every opinion made the conversation feel uncomfortable.",
+          "highlight": "servile",
+          "tip": "It can describe behaviour that seems ingratiating rather than genuinely enthusiastic."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing a manager's leadership style",
+          "sentence": "Her style was supportive, but some employees disliked how servile it could become.",
+          "highlight": "servile",
+          "tip": "Use it carefully in formal criticism, especially with evidence of unequal treatment."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin servilis, meaning ‘of or relating to a slave’, which developed into the idea of submissive obedience.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Servilis is derived from servus, meaning ‘slave’, and refers to being enslaved or subordinate."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with meanings connected with slavery, bondage and subjection."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes excessively submissive behaviour toward someone with power or authority."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "servility",
+          "label": "noun"
+        },
+        {
+          "term": "servilely",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "submissive",
+        "deferential",
+        "obsequious",
+        "sycophantic",
+        "slave-like"
+      ],
+      "opposite": "assertive",
+      "pitfall": "Servile is more critical than deferential: deferential can be a respectful courtesy, while servile suggests excessive obedience."
+    },
+    {
+      "id": "sinister",
+      "kind": "word",
+      "term": "sinister",
+      "pos": "adjective",
+      "phonetic": "/ˈsɪnɪstər/",
+      "sayIt": "SIN-is-ter",
+      "register": "Formal and literary",
+      "meaning": "Suggesting evil, danger, or a threatening hidden intention.",
+      "nuance": "It often creates a dark, suspenseful atmosphere. The word can describe a person’s appearance or apparent motives, so it may sound dramatic or melodramatic.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · assessing a proposal",
+          "sentence": "His sudden interest in our customer data felt sinister, and nobody trusted his explanation.",
+          "highlight": "sinister",
+          "tip": "Use it when something suggests deliberate harm rather than an ordinary mistake."
+        },
+        {
+          "setting": "social",
+          "where": "Friend telling a spooky story",
+          "sentence": "The abandoned house had a sinister atmosphere, especially when the lights began to flicker.",
+          "highlight": "sinister",
+          "tip": "It is effective for stories, warnings and descriptions that create unease."
+        },
+        {
+          "setting": "writing",
+          "where": "Mystery novel · describing a threat",
+          "sentence": "The investigator sensed that the stranger’s interest in the old diary was sinister.",
+          "highlight": "sinister",
+          "tip": "Pair it with atmosphere, motive, presence or rumour to build tension."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin sinister, meaning “left.” Left-hand signs became associated with bad luck in Roman thinking, which helped give the word its sense of something evil or threatening.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Classical Latin",
+            "text": "Sinister means “left,” and signs on the left came to be regarded as unlucky."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English with meanings connected with evil, misfortune and unfavourable omens."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes danger, menace or an appearance of hidden evil intent."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "sinisterly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "ominous",
+        "menacing",
+        "dark",
+        "evil"
+      ],
+      "opposite": "benign",
+      "pitfall": "It often carries a deliberately dark or dramatic tone, so choose a plain adjective for minor concerns."
+    },
+    {
+      "id": "slovenly",
+      "kind": "word",
+      "term": "slovenly",
+      "pos": "adjective",
+      "phonetic": "/ˈsləʊvənli/",
+      "sayIt": "SLOH-vuhn-lee",
+      "register": "Everyday",
+      "meaning": "Untidy or careless, especially in appearance, organisation or handling of tasks.",
+      "nuance": "It sounds negative and can seem quite harsh. In professional writing, “untidy” or “disorganised” may be more tactful.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office inspection · reviewing someone's workspace",
+          "sentence": "The slovenly arrangement of files made it difficult to find the latest version.",
+          "highlight": "slovenly",
+          "tip": "Use it for visible disorder that suggests poor care or organisation."
+        },
+        {
+          "setting": "social",
+          "where": "Friends visiting · preparing a room",
+          "sentence": "Sorry the place looks slovenly; I haven't had time to tidy up.",
+          "highlight": "slovenly",
+          "tip": "It can describe a room, appearance or person, but it may embarrass the person you are describing."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · noting repeated mistakes",
+          "sentence": "His slovenly record-keeping led to several important documents being misplaced.",
+          "highlight": "slovenly",
+          "tip": "Keep the tone factual; “disorganised” may sound less personal in formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "From the now-obsolete English word “sloven”, meaning careless or negligent, probably related to “slow”. It later became a familiar criticism of untidy people or places.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "“Slovenly” develops from an older form meaning careless or negligent."
+          },
+          {
+            "when": "1800s",
+            "text": "The word becomes established in everyday English, especially for untidy appearance and behaviour."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a direct, slightly harsh way to describe untidiness or carelessness."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "slovenliness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "untidy",
+        "disorderly",
+        "messy",
+        "negligent"
+      ],
+      "opposite": "tidy",
+      "pitfall": "“Slovenly” can describe either untidiness or careless work; it is not limited to someone’s appearance."
+    },
+    {
+      "id": "sordid",
+      "kind": "word",
+      "term": "sordid",
+      "pos": "adjective",
+      "phonetic": "/ˈsɔːrdɪd/",
+      "sayIt": "SOR-did",
+      "register": "Formal",
+      "meaning": "Dirty, unpleasant, or morally disreputable.",
+      "nuance": "It can describe physical dirtiness, but it is also used for dishonest or shameful behaviour. The word sounds stronger and more judgemental than “dirty” or “shameful.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · reviewing unethical behaviour",
+          "sentence": "The company ignored the sordid details of how the contract had been won.",
+          "highlight": "sordid",
+          "tip": "Use it for conduct that is both morally wrong and unpleasant to consider."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · explaining a scandal",
+          "sentence": "She refused to discuss the sordid argument they had had in public.",
+          "highlight": "sordid",
+          "tip": "It adds a strong sense of moral disapproval to a situation."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · criticising corruption",
+          "sentence": "The report revealed a sordid network of private deals and concealed payments.",
+          "highlight": "sordid",
+          "tip": "It is especially effective in formal writing about corruption or disgraceful conduct."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin sordidus, meaning ‘dirty’ or ‘disreputable’, related to sordes, ‘dirt’, and sordere, ‘to be dirty’. The word originally described physical filth before developing its moral sense.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Sordidus meant ‘dirty’, ‘filthy’, or ‘disreputable’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word entered English with meanings connected with dirt, filth, and disgrace."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used for morally shameful or deeply disreputable things."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "sordidly",
+          "label": "adverb"
+        },
+        {
+          "term": "sordidness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "shameful",
+        "disgraceful",
+        "immoral",
+        "squalid",
+        "disreputable"
+      ],
+      "opposite": "honourable",
+      "pitfall": "It is stronger and more judgemental than “dirty”; use it for something especially shameful, not for ordinary messiness."
+    },
+    {
+      "id": "spontaneous",
+      "kind": "word",
+      "term": "spontaneous",
+      "pos": "adjective",
+      "phonetic": "/spɒnˈteɪniəs/",
+      "sayIt": "spon-TAY-nee-us",
+      "register": "Common at work and socially",
+      "meaning": "Done naturally and without planning beforehand, often because the moment calls for it.",
+      "nuance": "It suggests an honest, immediate reaction rather than a carefully arranged performance. It can also mean someone who readily acts, joins in or offers ideas without hesitation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · unexpected question",
+          "sentence": "Her spontaneous offer to help unblocked the meeting when our supplier raised an urgent issue.",
+          "highlight": "spontaneous",
+          "tip": "Often describes quick, willing action that helps a situation."
+        },
+        {
+          "setting": "social",
+          "where": "Party conversation · inviting friends out",
+          "sentence": "After mentioning the concert, we made a spontaneous decision to buy tickets and go that night.",
+          "highlight": "spontaneous",
+          "tip": "Natural for a decision made on impulse rather than after careful planning."
+        },
+        {
+          "setting": "writing",
+          "where": "Event invitation · thanking a colleague",
+          "sentence": "Thank you for your spontaneous support; it made the event feel warm and welcoming.",
+          "highlight": "spontaneous",
+          "tip": "Praises something done quickly and generously without advance notice."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin spontaneus, meaning ‘of one’s own accord’, which developed from sponte, ‘of one’s own will’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Spontaneus develops from sponte, ‘of one’s own accord’, describing voluntary or self-directed action."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in senses connected with voluntary action and things done of one’s own accord."
+          },
+          {
+            "when": "1800s",
+            "text": "Takes on its modern sense of being done without prior planning."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly describes spontaneous decisions, reactions, gestures and offers of help."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "spontaneously",
+          "label": "adverb"
+        },
+        {
+          "term": "spontaneity",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "impulsive",
+        "instinctive",
+        "unplanned",
+        "unprompted"
+      ],
+      "opposite": "planned",
+      "pitfall": "Don’t assume spontaneous always means impulsive or careless; it can also describe prompt, generous action that works well."
+    },
+    {
+      "id": "staunch",
+      "kind": "word",
+      "term": "staunch",
+      "pos": "adjective",
+      "phonetic": "/stɔːntʃ/",
+      "sayIt": "STOWNCH",
+      "register": "Common at work and in formal discussion",
+      "meaning": "Showing firm loyalty, belief or support for a person, cause or position.",
+      "nuance": "It suggests steady commitment, not merely a temporary preference. It can also describe someone who firmly rejects something, such as a violent or harmful idea.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · defending a decision",
+          "sentence": "She was a staunch supporter of the new security policy from the start.",
+          "highlight": "staunch",
+          "tip": "Use it for strong, steady support, especially of a person, cause or decision."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation about politics · disagreeing",
+          "sentence": "He remains a staunch defender of environmental protections despite the criticism.",
+          "highlight": "staunch",
+          "tip": "This sounds committed and principled; use a milder word for casual agreement."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal report · describing an organisation",
+          "sentence": "The company has been a staunch defender of customer privacy for more than a decade.",
+          "highlight": "staunch",
+          "tip": "It works well before nouns such as defender, ally, supporter and advocate."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French estanch, meaning firm or secure, originally connected with stopping or closing something. Its modern sense of firmly committed developed in English.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Middle English",
+            "text": "The word appears in senses connected with being firm, fixed or secure."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "It develops the meaning of being firmly loyal or committed."
+          },
+          {
+            "when": "Today",
+            "text": "It describes strong, steady support or firm opposition."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "staunchly",
+          "label": "adverb"
+        },
+        {
+          "term": "stanch",
+          "label": "variant adjective or verb"
+        }
+      ],
+      "similar": [
+        "steadfast",
+        "loyal",
+        "committed",
+        "resolute"
+      ],
+      "opposite": "wavering",
+      "pitfall": "Use stanch for the less common variant spelling, but keep staunch when describing firm loyalty or opposition."
+    },
+    {
+      "id": "steadfast",
+      "kind": "word",
+      "term": "steadfast",
+      "pos": "adjective",
+      "phonetic": "/ˈstedfɑːst/",
+      "sayIt": "STED-fast",
+      "register": "Common at work",
+      "meaning": "Firmly committed to a purpose, principle, or person and unwilling to waver despite difficulty.",
+      "nuance": "It describes lasting loyalty or resolve, often with an approving tone. It is stronger and more personal than steady.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · handling a delay",
+          "sentence": "Maya remained steadfast in defending the plan even when the launch was postponed.",
+          "highlight": "steadfast",
+          "tip": "Use it to describe firm commitment when circumstances become difficult."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · supporting a friend",
+          "sentence": "He was steadfast in his support, showing up whenever she needed him.",
+          "highlight": "steadfast",
+          "tip": "It fits naturally when describing dependable support or loyalty."
+        },
+        {
+          "setting": "writing",
+          "where": "Letter to a mentor · expressing thanks",
+          "sentence": "Thank you for being steadfast in your encouragement throughout my first year.",
+          "highlight": "steadfast",
+          "tip": "Use it in appreciative writing to recognise consistent support or commitment."
+        }
+      ],
+      "origin": {
+        "summary": "From Old English stedefæst, a compound of stede, meaning a place or position, and fæst, meaning firm, fast, or secure.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "Stedefæst appears with the sense of firm, stable, or securely fixed."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word develops into forms such as stedfast and eventually steadfast."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes firm loyalty, resolve, or commitment."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "steadfastly",
+          "label": "adverb"
+        },
+        {
+          "term": "steadfastness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "loyal",
+        "resolute",
+        "unwavering",
+        "committed"
+      ],
+      "opposite": "wavering",
+      "pitfall": "Don’t confuse steadfast with steady: steadfast stresses firm commitment, while steady often stresses calmness or consistency."
+    },
+    {
+      "id": "strict",
+      "kind": "word",
+      "term": "strict",
+      "pos": "adjective",
+      "phonetic": "/strɪkt/",
+      "sayIt": "STRIKT",
+      "register": "Common at work",
+      "meaning": "Requiring exact obedience to rules, standards or instructions.",
+      "nuance": "It describes people who set firm limits and situations where precise conditions are required. It can sound careful and dependable, but sometimes overly severe.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · setting deadlines",
+          "sentence": "Our release process is strict, so every change needs approval before deployment.",
+          "highlight": "strict",
+          "tip": "Use it for firm, clearly defined rules rather than simply difficult tasks."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · discussing schedules",
+          "sentence": "My parents are strict about arriving on time, even for a casual dinner.",
+          "highlight": "strict",
+          "tip": "It can describe a demanding upbringing or a rule that allows little flexibility."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a client · clarifying requirements",
+          "sentence": "Please review the strict criteria for this role and include every requested example.",
+          "highlight": "strict",
+          "tip": "Often used before requirements, standards, rules or deadlines to emphasize precision."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin strictus, meaning drawn tight or closely bound, through Old French estroit. The word originally referred to something held tightly or closely.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Strictus meant drawn tight, close or exact."
+          },
+          {
+            "when": "Old French",
+            "text": "Estroit carried the sense of being tight, narrow or closely constrained."
+          },
+          {
+            "when": "Medieval English",
+            "text": "The word entered English and developed its modern sense of demanding exact obedience."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "strictly",
+          "label": "adverb"
+        },
+        {
+          "term": "strictness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "rigid",
+        "stringent",
+        "inflexible",
+        "disciplined"
+      ],
+      "opposite": "lenient",
+      "pitfall": "Strict is broader and more everyday. Stringent is more formal and often describes detailed rules, controls or requirements."
+    },
+    {
+      "id": "supercilious",
+      "kind": "word",
+      "term": "supercilious",
+      "pos": "adjective",
+      "phonetic": "/ˌsuːpərˈsɪliəs/",
+      "sayIt": "soo-per-SIL-ee-us",
+      "register": "Formal",
+      "meaning": "Behaving as though you are more important or clever than other people.",
+      "nuance": "It describes a haughty, self-important manner and often implies contempt for others. It is strongly negative and sounds more formal than everyday words such as “arrogant.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · challenging a colleague",
+          "sentence": "His supercilious tone made it difficult for the rest of us to suggest alternatives.",
+          "highlight": "supercilious",
+          "tip": "Use it for behaviour that seems arrogant and dismissive, especially toward colleagues."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · introducing an achievement",
+          "sentence": "She became supercilious whenever someone else received praise for their work.",
+          "highlight": "supercilious",
+          "tip": "It fits when someone displays pride or disdain that makes others uncomfortable."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · describing workplace behaviour",
+          "sentence": "His ideas were useful, but his supercilious manner damaged the team's trust in him.",
+          "highlight": "supercilious",
+          "tip": "Pair it with manner, tone or attitude when criticising a person’s behaviour."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin superciliosus, meaning “haughty” or “raising the eyebrow,” originally associated with pride expressed through the eyebrows.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Superciliosus develops from supercilium, meaning “eyebrow” and, by extension, a haughty expression."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English with the sense of haughty or disdainful."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal word for behaviour that is arrogant and self-important."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "superciliousness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "arrogant",
+        "haughty",
+        "disdainful",
+        "pompous"
+      ],
+      "opposite": "humble",
+      "pitfall": "Do not confuse it with “imperious,” which can mean domineering or commanding, not necessarily contemptuous of others."
+    },
+    {
+      "id": "sycophant",
+      "kind": "word",
+      "term": "sycophant",
+      "pos": "noun",
+      "phonetic": "/ˈsɪkəfænt/",
+      "sayIt": "SIK-uh-fant",
+      "register": "Formal and usually negative",
+      "meaning": "Someone who praises a powerful person to gain favour or avoid displeasing them.",
+      "nuance": "The word is strongly critical and suggests insincere flattery rather than genuine admiration. It is often used in politics, workplaces and arguments about influence.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · criticizing a manager",
+          "sentence": "He agreed with every decision because he was a sycophant, not because he thought the plan worked.",
+          "highlight": "sycophant",
+          "tip": "Use it for habitual, self-serving praise, not ordinary politeness."
+        },
+        {
+          "setting": "social",
+          "where": "Party conversation · someone’s promotion",
+          "sentence": "Her compliments sounded sincere, but some people called her a sycophant once they saw how quickly she changed her opinions.",
+          "highlight": "sycophant",
+          "tip": "It carries judgement, so explain the behaviour if you are not sure it fits."
+        },
+        {
+          "setting": "writing",
+          "where": "Opinion column · workplace culture",
+          "sentence": "The culture rewarded sycophants who repeated the leader’s ideas without adding any useful criticism.",
+          "highlight": "sycophants",
+          "tip": "Plural works well when describing a pattern within a group."
+        }
+      ],
+      "origin": {
+        "summary": "The familiar story that a sycophant informed on people who stole figs is a myth. The real origin is an Ancient Greek word for an informer or slanderer, later applied to deceitful flatterers.",
+        "confidence": "myth",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Sykophantes referred to an informer or slanderer, originally someone who made accusations for selfish or dishonest reasons."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word entered English through French and Latin, retaining the sense of a malicious informer."
+          },
+          {
+            "when": "1700s onward",
+            "text": "Its meaning broadened to include people who flatter others for personal advantage."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a hostile term for an insincere flatterer, especially around power and status."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "sycophancy",
+          "label": "noun"
+        },
+        {
+          "term": "sycophantic",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "toady",
+        "flatterer",
+        "yes-man",
+        "bootlicker",
+        "opportunist"
+      ],
+      "opposite": "candid critic",
+      "pitfall": "Don’t use it for someone giving a thoughtful compliment; the word implies exaggeration and a hidden motive."
+    }
+  ]
+}

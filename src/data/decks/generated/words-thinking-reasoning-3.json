@@ -1,0 +1,1723 @@
+{
+  "id": "words-thinking-reasoning-3",
+  "kind": "word",
+  "name": "Thinking & reasoning · 3",
+  "blurb": "25 words about thinking & reasoning",
+  "cards": [
+    {
+      "id": "falter",
+      "kind": "word",
+      "term": "falter",
+      "pos": "verb",
+      "phonetic": "/ˈfɔːltər/",
+      "sayIt": "FOL-ter",
+      "register": "Common at work and in formal writing",
+      "meaning": "To hesitate or lose confidence and ability to continue properly.",
+      "nuance": "It suggests that progress is interrupted by doubt, exhaustion or difficulty. It can also describe someone walking unsteadily.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · uncertain proposal",
+          "sentence": "When the budget questions came up, I began to falter and lost my place in the presentation.",
+          "highlight": "falter",
+          "tip": "Use it when someone’s confidence or performance starts to break down."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · making a decision",
+          "sentence": "I wanted to suggest another restaurant, but I faltered and just agreed with everyone.",
+          "highlight": "faltered",
+          "tip": "It naturally conveys hesitation caused by nerves or uncertainty."
+        },
+        {
+          "setting": "writing",
+          "where": "Progress report · delayed project",
+          "sentence": "The project began to falter after the main engineer left, so we brought in temporary support.",
+          "highlight": "falter",
+          "tip": "Useful for describing progress that weakens, slows or becomes unstable."
+        }
+      ],
+      "origin": {
+        "summary": "First recorded in English in the early 1500s, probably developed from Middle English. Its deeper origin is uncertain, though early uses suggest stumbling or going unsteady.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "English records falter in senses connected with stumbling, wavering and failing to continue."
+          },
+          {
+            "when": "Today",
+            "text": "The word is used for loss of confidence, hesitation and unsteady progress."
+          }
+        ]
+      },
+      "similar": [
+        "hesitate",
+        "waver",
+        "stumble",
+        "wobble",
+        "flag"
+      ],
+      "opposite": "steady",
+      "pitfall": "Don’t use falter for a complete stop; it usually means that progress continues but becomes weak or uncertain."
+    },
+    {
+      "id": "futility",
+      "kind": "word",
+      "term": "futility",
+      "pos": "noun",
+      "phonetic": "/fjuːˈtɪləti/",
+      "sayIt": "foo-TIL-ih-tee",
+      "register": "Formal",
+      "meaning": "The state of being unable to achieve a useful or worthwhile result.",
+      "nuance": "It suggests pointless effort or hopeless action, often with a serious or disappointed tone. It can sound more formal and judgmental than saying something is useless.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · repeated delays",
+          "sentence": "Continuing the same approval process without new deadlines risks revealing the futility of another round of revisions.",
+          "highlight": "futility",
+          "tip": "Use it when discussing efforts that are unlikely to produce a meaningful result."
+        },
+        {
+          "setting": "social",
+          "where": "Family discussion · repeated arguments",
+          "sentence": "After the third attempt to settle the holiday plans, everyone began to recognize the futility of arguing about them.",
+          "highlight": "futility",
+          "tip": "It works well when describing a pattern of unproductive effort rather than one frustrating event."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · proposing a stalled initiative",
+          "sentence": "Given the lack of support and available resources, I recommend documenting the futility of this initiative and focusing on the launch.",
+          "highlight": "futility",
+          "tip": "Choose it for a formal tone; in less formal writing, use pointless or useless."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin futilitas, meaning ‘uselessness’, from futilis, ‘useless’ or ‘leaky’. It entered English through Old French futilité.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The noun futilitas develops from futilis, meaning ‘useless’ or ‘leaky’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in the sense of uselessness or pointlessness."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes efforts or situations with no practical chance of success."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "futile",
+          "label": "adjective"
+        },
+        {
+          "term": "futilely",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "pointlessness",
+        "hopelessness",
+        "uselessness",
+        "inutility"
+      ],
+      "opposite": "productivity",
+      "pitfall": "Use futile, the adjective, for a particular action: The attempt was futile. Use futility for a broader state of affairs: the futility of the project."
+    },
+    {
+      "id": "germane",
+      "kind": "word",
+      "term": "germane",
+      "pos": "adjective",
+      "phonetic": "/dʒərˈmeɪn/",
+      "sayIt": "jor-MAYN",
+      "register": "Formal",
+      "meaning": "Directly relevant to the subject or issue being discussed.",
+      "nuance": "Often used in professional or academic contexts to connect an idea to the main point. It is more precise and formal than simply saying “relevant.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · clarifying priorities",
+          "sentence": "Let’s keep the discussion germane to the deadline rather than reopening every design decision.",
+          "highlight": "germane",
+          "tip": "Use it when you want to redirect a conversation toward the current issue."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · changing the subject",
+          "sentence": "Although I’m curious about your trip, that question isn’t germane to what we’re discussing.",
+          "highlight": "germane",
+          "tip": "It can sound formal, so use it mainly when gently steering a conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Research summary · narrowing the focus",
+          "sentence": "The final section omits details that are interesting but not germane to the argument.",
+          "highlight": "germane",
+          "tip": "Especially useful in research, legal writing and formal evaluations."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin germānus, meaning “genuine” or “of the same kind,” and earlier related to genuine English words.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Germānus meant “genuine,” “natural” or “of the same family.”"
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered English in senses connected with being genuine or closely related."
+          },
+          {
+            "when": "1800s",
+            "text": "The modern sense of “relevant” became established."
+          }
+        ]
+      },
+      "similar": [
+        "relevant",
+        "pertinent",
+        "apposite",
+        "related"
+      ],
+      "opposite": "irrelevant",
+      "pitfall": "Do not confuse it with “germinal,” which means relating to seeds or growth; “germane” means relevant."
+    },
+    {
+      "id": "gist",
+      "kind": "word",
+      "term": "gist",
+      "pos": "noun",
+      "phonetic": "/dʒɪst/",
+      "sayIt": "JIST",
+      "register": "Common at work",
+      "meaning": "The main point or essential meaning of an idea, conversation or piece of information.",
+      "nuance": "A gist is a brief summary that leaves out details. It often sounds informal, especially in spoken English.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team briefing · explaining a proposal",
+          "sentence": "The gist is that we’ll launch the update next month, but we still need approval on the design.",
+          "highlight": "gist",
+          "tip": "Use it when someone needs the central point quickly."
+        },
+        {
+          "setting": "social",
+          "where": "Phone call · catching up with a friend",
+          "sentence": "I caught the gist, but I’m not sure how the ending worked.",
+          "highlight": "gist",
+          "tip": "Natural when you understand the general idea but missed some specifics."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · requesting a short summary",
+          "sentence": "Please send me the gist of the report so I can brief the team before lunch.",
+          "highlight": "gist",
+          "tip": "Useful when you want a concise overview rather than every detail."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from an Old English word meaning taste, flavor or essence, and came to mean the essential point of something.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The ancestor of gist referred to taste, flavor or an essential quality."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word began to mean the main substance or point of a matter."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used for the central idea of a discussion or document."
+          }
+        ]
+      },
+      "similar": [
+        "point",
+        "summary",
+        "substance",
+        "main idea"
+      ],
+      "opposite": "detail",
+      "pitfall": "A gist is the main point, not every detail. Use “in gist” more often in speech than formal writing."
+    },
+    {
+      "id": "glean",
+      "kind": "word",
+      "term": "glean",
+      "pos": "verb",
+      "phonetic": "/ɡliːn/",
+      "sayIt": "GLEEN",
+      "register": "Common at work",
+      "meaning": "To collect small pieces of information, facts or understanding from different sources.",
+      "nuance": "It suggests piecing together what is scattered or not stated directly. It is often used for insights, evidence, clues or useful details.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Research meeting · reviewing customer interviews",
+          "sentence": "We can glean useful patterns from the interviews once the team has grouped the comments by theme.",
+          "highlight": "glean",
+          "tip": "Use it when information is spread across several sources and must be collected."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · asking about a new job",
+          "sentence": "I gleaned from what she said that she was nervous about starting in an unfamiliar team.",
+          "highlight": "gleaned",
+          "tip": "The past tense is natural when referring to information you picked up indirectly."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · presenting research findings",
+          "sentence": "The report allows readers to glean a clear picture of local conditions from the survey responses.",
+          "highlight": "glean",
+          "tip": "It often appears before details, insights, evidence, clues or an understanding."
+        }
+      ],
+      "origin": {
+        "summary": "From Old English glīan, meaning to pick grain or fruit remaining after the main harvest. The figurative sense of gathering scattered information developed later.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "glīan meant to pick up grain or fruit left after harvesting."
+          },
+          {
+            "when": "19th century",
+            "text": "The figurative meaning became established for gathering information in small pieces."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly refers to collecting facts, clues or insights."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "gleaning",
+          "label": "noun"
+        },
+        {
+          "term": "gleaner",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "infer",
+        "deduce",
+        "gather",
+        "extrapolate"
+      ],
+      "opposite": "ignore",
+      "pitfall": "It rhymes with clean, but the initial sound is the “g” in garden. It means collecting scattered information, not necessarily understanding something perfectly."
+    },
+    {
+      "id": "grandiose",
+      "kind": "word",
+      "term": "grandiose",
+      "pos": "adjective",
+      "phonetic": "/ɡræn.diˈoʊs/",
+      "sayIt": "GRAND-ee-OHS",
+      "register": "Formal",
+      "meaning": "Describing something as impressively large, important or magnificent, often beyond what is realistic.",
+      "nuance": "The word can sound admiring, but it is more often critical when a plan or idea is presented as far grander than it can be.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Pitch meeting · challenging a proposal",
+          "sentence": "The director called the international launch plan too grandiose for our current team.",
+          "highlight": "grandiose",
+          "tip": "Use it to question plans that sound impressive but lack realistic detail."
+        },
+        {
+          "setting": "social",
+          "where": "Party conversation · describing a speech",
+          "sentence": "His grandiose entrance had everyone laughing, but it certainly made an impression.",
+          "highlight": "grandiose",
+          "tip": "It can describe exaggerated behaviour as well as oversized projects or claims."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · evaluating a performance",
+          "sentence": "The production had a grandiose style, but the emotional story felt thin.",
+          "highlight": "grandiose",
+          "tip": "Often used in criticism of art, architecture, plans or claims of importance."
+        }
+      ],
+      "origin": {
+        "summary": "Borrowed from French, where it means large or magnificent, and ultimately connected to Latin grandis, meaning large.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Grandis develops the sense of large, great or extended."
+          },
+          {
+            "when": "1800s",
+            "text": "Grandiose enters English from French, initially describing large or magnificent things."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly carries a critical sense of excessive scale or importance."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "grandiosity",
+          "label": "noun"
+        },
+        {
+          "term": "grandiosely",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "grandiloquent",
+        "overblown",
+        "ambitious",
+        "inflated"
+      ],
+      "opposite": "modest",
+      "pitfall": "Grandiose is not simply a synonym for grand; it often suggests that the scale is excessive or hard to sustain."
+    },
+    {
+      "id": "imbibe",
+      "kind": "word",
+      "term": "imbibe",
+      "pos": "verb",
+      "phonetic": "/ɪmˈbaɪb/",
+      "sayIt": "im-BYBE",
+      "register": "Formal",
+      "meaning": "To absorb something, especially information or an idea, or to drink something.",
+      "nuance": "It has a literary, old-fashioned tone and can suggest taking in knowledge or experience deeply. For ordinary drinking, “drink” is usually more natural.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "New-hire orientation · learning company norms",
+          "sentence": "New team members imbibe our support norms through customer calls, team meetings and feedback from managers.",
+          "highlight": "imbibe",
+          "tip": "Use it for absorbing knowledge, habits or a company culture, rather than merely hearing information."
+        },
+        {
+          "setting": "social",
+          "where": "Book club · discussing a historical novel",
+          "sentence": "By the end of each meeting, we imbibe a little of the era and debate what the author wants us to notice.",
+          "highlight": "imbibe",
+          "tip": "This metaphorical use sounds thoughtful but literary; “absorb” is more common in everyday conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel feature · describing a local tradition",
+          "sentence": "Visitors arrive early to imbibe the herbal tea while watching the town prepare for its evening festival.",
+          "highlight": "imbibe",
+          "tip": "For actual drinking, it adds a formal atmosphere but can sound affected in a simple message."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin imbibere, “to drink in,” formed from in-, “into,” and bibere, “to drink.” The metaphorical sense of absorbing knowledge developed from the idea of taking in liquid.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Imbibere means “to drink in” or “to take into oneself.”"
+          },
+          {
+            "when": "Medieval Latin",
+            "text": "The word is used in religious and learned writing for taking in spiritual or intellectual nourishment."
+          },
+          {
+            "when": "15th century",
+            "text": "The word enters English, initially with the meanings of drinking and absorbing."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "imbibation",
+          "label": "noun"
+        },
+        {
+          "term": "imbibition",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "absorb",
+        "assimilate",
+        "soak up",
+        "ingest"
+      ],
+      "pitfall": "Do not use “imbibe” when you simply mean to drink something; “have a glass” or “drink” sounds much more natural."
+    },
+    {
+      "id": "impartial",
+      "kind": "word",
+      "term": "impartial",
+      "pos": "adjective",
+      "phonetic": "/ɪmˈpɑːrtʃəl/",
+      "sayIt": "im-PAR-shuhl",
+      "register": "Formal",
+      "meaning": "Treating people or situations fairly, without favouring one side.",
+      "nuance": "It strongly suggests that a decision is based on clear evidence or equal standards. It is especially common in professional, legal and official contexts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Hiring panel · choosing a candidate",
+          "sentence": "The panel tried to remain impartial when comparing the applicants’ experience.",
+          "highlight": "impartial",
+          "tip": "Use it when describing fairness in a decision or professional judgement."
+        },
+        {
+          "setting": "social",
+          "where": "Family discussion · settling a disagreement",
+          "sentence": "He stayed impartial and listened carefully to both sides before deciding.",
+          "highlight": "impartial",
+          "tip": "It sounds formal but can describe anyone who avoids taking sides."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · evaluating a proposal",
+          "sentence": "The review offers an impartial assessment of the project’s strengths and weaknesses.",
+          "highlight": "impartial",
+          "tip": "Pairs naturally with assessment, decision, judge, approach and perspective."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin imparialis, meaning ‘not partial’, based on impar, ‘unequal’. English borrowed it through Old French.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Impartialis develops from impar, ‘unequal’, with a meaning connected to unequal favour or bias."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English through Old French as a description of fair or unbiased judgement."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal word for treating everyone equally."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "impartiality",
+          "label": "noun"
+        },
+        {
+          "term": "impartially",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "unbiased",
+        "neutral",
+        "fair",
+        "even-handed",
+        "disinterested"
+      ],
+      "opposite": "biased",
+      "pitfall": "Don’t confuse impartial with indifferent: being impartial means being fair, not showing no concern for others."
+    },
+    {
+      "id": "impasse",
+      "kind": "word",
+      "term": "impasse",
+      "pos": "noun",
+      "phonetic": "/ɪmˈpæs/",
+      "sayIt": "im-PASS",
+      "register": "Formal",
+      "meaning": "A situation in which discussion or negotiation cannot continue because the participants cannot agree or find a way forward.",
+      "nuance": "It suggests a serious deadlock rather than a temporary disagreement. It is especially common in political, legal and workplace contexts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Contract meeting · disputed deadlines",
+          "sentence": "After two hours of arguing over responsibilities, the negotiations reached an impasse.",
+          "highlight": "impasse",
+          "tip": "Use it when a formal discussion has stopped because neither side will move."
+        },
+        {
+          "setting": "social",
+          "where": "Family discussion · choosing a holiday",
+          "sentence": "We reached an impasse about the destination, so we decided to choose separately.",
+          "highlight": "impasse",
+          "tip": "It can describe an unresolved disagreement, though it sounds more serious than a simple argument."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · stalled peace talks",
+          "sentence": "The peace talks ended in an impasse after both sides rejected the proposed terms.",
+          "highlight": "impasse",
+          "tip": "It is especially useful in reporting when negotiations have produced no agreement."
+        }
+      ],
+      "origin": {
+        "summary": "Borrowed from French impasse, meaning ‘a dead end’, from im-, meaning ‘not’, and passer, meaning ‘to pass’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "The French word impasse develops the sense of a dead end or blocked passage."
+          },
+          {
+            "when": "1800s",
+            "text": "English begins using impasse for situations where action or negotiation cannot continue."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used for political, legal and professional deadlocks."
+          }
+        ]
+      },
+      "similar": [
+        "deadlock",
+        "stalemate",
+        "standstill",
+        "gridlock"
+      ],
+      "opposite": "breakthrough",
+      "pitfall": "An impasse is a blockage in a situation, not a physical path that leads nowhere; don’t say ‘come to an impasse’."
+    },
+    {
+      "id": "imprudent",
+      "kind": "word",
+      "term": "imprudent",
+      "pos": "adjective",
+      "phonetic": "/ɪmˈpruːdənt/",
+      "sayIt": "im-PROO-duhnt",
+      "register": "Formal",
+      "meaning": "Not showing enough care or good judgement about the possible risks of an action.",
+      "nuance": "It describes behaviour or decisions that may cause harm or loss. It sounds more formal and stronger than simply saying someone was careless.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Risk meeting · reviewing a launch plan",
+          "sentence": "Skipping the safety review would be imprudent, even if the deadline is tight.",
+          "highlight": "imprudent",
+          "tip": "Useful when you want to warn against a risky decision without sounding overly dramatic."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · leaving after a late night",
+          "sentence": "Driving home after that party would be imprudent, so I’ll call a taxi.",
+          "highlight": "imprudent",
+          "tip": "It fits advice about personal safety when used with would be."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal report · evaluating an investment",
+          "sentence": "The committee considered it imprudent to expand before demand had been confirmed.",
+          "highlight": "imprudent",
+          "tip": "Common in formal reports, especially before decisions, actions or investments."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin imprudens, meaning ‘not prudent’, built on prudens, ‘careful or sensible’. It entered English with the sense of lacking caution or good judgement.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Imprudens forms from the negative prefix in- and prudens, ‘careful or sensible’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word appears in English in formal writing."
+          },
+          {
+            "when": "Today",
+            "text": "It means careless about risk and is mainly used in formal contexts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "imprudence",
+          "label": "noun"
+        },
+        {
+          "term": "imprudently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "unwise",
+        "careless",
+        "reckless",
+        "hasty"
+      ],
+      "opposite": "prudent",
+      "pitfall": "Imprudent is stronger and more formal than unwise; it often suggests a real risk of harm or loss."
+    },
+    {
+      "id": "inane",
+      "kind": "word",
+      "term": "inane",
+      "pos": "adjective",
+      "phonetic": "/ɪˈneɪn/",
+      "sayIt": "in-AYNE",
+      "register": "Everyday",
+      "meaning": "Completely lacking sense, reason or meaning.",
+      "nuance": "Often sounds more sharply critical and playful than “silly.” It can describe an idea, plan, remark or piece of behaviour.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · questioning a proposal",
+          "sentence": "The suggestion that we rewrite every report from scratch seems inane.",
+          "highlight": "inane",
+          "tip": "Use it to reject an idea as pointless or utterly impractical."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · explaining a bad decision",
+          "sentence": "We spent an hour arguing about the colour of the napkins, which was pretty inane.",
+          "highlight": "inane",
+          "tip": "It adds a humorous but dismissive tone to an unimportant topic."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · challenging a colleague",
+          "sentence": "It would be inane to delay the launch over such a minor detail.",
+          "highlight": "inane",
+          "tip": "Stronger and more formal than “pointless,” especially when criticising a decision."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin inanis, meaning “empty” or “vain,” and it originally referred to an empty space.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "inanis means “empty,” “vain” or “without meaning.”"
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with senses connected with emptiness and vanity."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means lacking sense, reason or meaning."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "inanity",
+          "label": "noun"
+        },
+        {
+          "term": "inanely",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "absurd",
+        "pointless",
+        "silly",
+        "foolish"
+      ],
+      "opposite": "sensible",
+      "pitfall": "Don’t confuse it with “insane,” which describes serious mental illness or extreme foolishness."
+    },
+    {
+      "id": "incoherent",
+      "kind": "word",
+      "term": "incoherent",
+      "pos": "adjective",
+      "phonetic": "/ˌɪn.kəʊˈhɪə.rənt/",
+      "sayIt": "in-KOH-heer-unt",
+      "register": "Common in writing and discussion",
+      "meaning": "Not logical, organised, or clear enough to be understood.",
+      "nuance": "It can describe speech that is difficult to follow, ideas that do not fit together, or writing that lacks a clear structure. It is usually more direct and less formal than saying something is nonsensical.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · untangling feedback",
+          "sentence": "The feedback was incoherent, so we separated the useful requests from the complaints.",
+          "highlight": "incoherent",
+          "tip": "Use it when the problem is a lack of clear logic or organisation."
+        },
+        {
+          "setting": "social",
+          "where": "Phone call · explaining a busy week",
+          "sentence": "Sorry, I’m being incoherent—I’ve had three interruptions since breakfast.",
+          "highlight": "incoherent",
+          "tip": "A light, self-aware way to explain that your thoughts are scattered."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · assessing an explanation",
+          "sentence": "The report’s final paragraph is incoherent and does not support its conclusion.",
+          "highlight": "incoherent",
+          "tip": "Strong but accurate when writing that seems muddled or logically inconsistent."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin incoherens, meaning ‘not holding together’, formed from the prefix in- and cohaerere, ‘to hold together’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Incoherens develops from in-, ‘not’, and cohaerere, ‘to hold together’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with meanings connected with lack of cohesion or logical consistency."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for unclear speech, writing, behaviour and reasoning."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "incoherence",
+          "label": "noun"
+        },
+        {
+          "term": "incoherently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "disjointed",
+        "rambling",
+        "illogical",
+        "nonsensical"
+      ],
+      "opposite": "coherent",
+      "pitfall": "Incoherent does not simply mean incorrect; it suggests that the parts do not fit together or cannot be understood clearly."
+    },
+    {
+      "id": "incompatibility",
+      "kind": "word",
+      "term": "incompatibility",
+      "pos": "noun",
+      "phonetic": "/ˌɪŋ.kəmˌpæt.əˈbɪl.ə.ti/",
+      "sayIt": "IN-kum-PAT-uh-BIL-uh-tee",
+      "register": "Formal",
+      "meaning": "A lack of agreement or the ability to work well together.",
+      "nuance": "It describes a significant problem caused by conflicting needs, values, features or expectations. It is more precise and formal than simply saying things do not fit together.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · choosing a new tool",
+          "sentence": "The main incompatibility is that our scheduling software cannot handle the company’s existing calendar system.",
+          "highlight": "incompatibility",
+          "tip": "Use it to name a specific technical or organisational conflict."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · discussing different plans",
+          "sentence": "Their different ideas about the weekend were not a serious incompatibility, but it did make the conversation awkward.",
+          "highlight": "incompatibility",
+          "tip": "It suits serious differences, not every minor disagreement."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a supplier · reporting a conflict",
+          "sentence": "We may need a different model because of an incompatibility between the device and the updated software.",
+          "highlight": "incompatibility",
+          "tip": "Often follows a description of what cannot work or agree together."
+        }
+      ],
+      "origin": {
+        "summary": "Built from Latin incompatibilis, meaning “not able to fit together,” with the negative prefix in- added to compatibilis, “compatible.” English borrowed the idea through Latin and French.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Incompatibilis is formed from in-, meaning “not,” and compatibilis, meaning “able to fit together.”"
+          },
+          {
+            "when": "Medieval Latin and French",
+            "text": "The term develops in legal, philosophical and scholarly contexts about things that cannot coexist."
+          },
+          {
+            "when": "1600s onward",
+            "text": "The noun incompatibility appears in English for incompatible people, principles or systems."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "incompatible",
+          "label": "adjective"
+        },
+        {
+          "term": "incompatibly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "conflict",
+        "clash",
+        "inconsistency",
+        "incompatibility"
+      ],
+      "opposite": "compatibility",
+      "pitfall": "This noun usually names a conflict between systems, needs or values; use incompatible directly when describing the things involved."
+    },
+    {
+      "id": "incongruous",
+      "kind": "word",
+      "term": "incongruous",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈkɒŋɡjuəs/",
+      "sayIt": "in-KON-groo-us",
+      "register": "Formal",
+      "meaning": "Strange or out of place because it does not fit with the surroundings, circumstances, or expectations.",
+      "nuance": "It describes a noticeable mismatch and often suggests that something feels awkward, unexpected, or slightly wrong.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team presentation · reviewing a proposal",
+          "sentence": "The formal tone felt incongruous in a presentation aimed at new customers.",
+          "highlight": "incongruous",
+          "tip": "Use it when something clashes with the situation or audience."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · conversation about clothing",
+          "sentence": "His bright trainers looked incongruous with the traditional suit.",
+          "highlight": "incongruous",
+          "tip": "It can describe anything that seems oddly unsuitable for its setting."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing an unusual detail",
+          "sentence": "The report notes an incongruous lack of detail in the otherwise careful account.",
+          "highlight": "incongruous",
+          "tip": "It is useful in writing when you want to point out an unexplained mismatch."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin incongruus, meaning ‘inconsistent’ or ‘unsuitable’, based on in- ‘not’ and congruere ‘to agree’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "incongruus develops from in- ‘not’ and congruere ‘to agree’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in the sense of inconsistent or not fitting together."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes something that seems out of place or does not fit."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "incongruity",
+          "label": "noun"
+        },
+        {
+          "term": "incongruously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "out of place",
+        "inconsistent",
+        "disjointed",
+        "ill-fitting",
+        "at odds"
+      ],
+      "opposite": "congruent",
+      "pitfall": "Don’t use it merely to mean unusual; the word specifically suggests a mismatch with the surroundings or expectations."
+    },
+    {
+      "id": "indiscriminate",
+      "kind": "word",
+      "term": "indiscriminate",
+      "pos": "adjective",
+      "phonetic": "/ˌɪndɪˈskrɪmɪnət/",
+      "sayIt": "in-dis-KRIM-uh-nit",
+      "register": "Formal; often critical",
+      "meaning": "Done without careful attention to differences, relevance or individual circumstances.",
+      "nuance": "It suggests that something ignores important distinctions and affects people or things indiscriminately. It commonly describes criticism, violence, damage or policies.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Security review · assessing an alert",
+          "sentence": "The security team called the alert indiscriminate because it flagged every large file, not just suspicious ones.",
+          "highlight": "indiscriminate",
+          "tip": "Use it when an action fails to distinguish between relevant and irrelevant cases."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · reacting to a review",
+          "sentence": "Her criticism felt indiscriminate because it complained about the food, the music and the decorations.",
+          "highlight": "indiscriminate",
+          "tip": "This is a strong way to say criticism is unfair because it ignores distinctions."
+        },
+        {
+          "setting": "writing",
+          "where": "Public proposal · discussing local closures",
+          "sentence": "The report warns that indiscriminate closures could deny essential services to rural communities.",
+          "highlight": "indiscriminate",
+          "tip": "It adds a formal, critical tone and often appears before actions, criticism or damage."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin indiscriminatus, meaning ‘undistinguished’, built from elements meaning ‘not’ and ‘distinguish’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Indiscriminatus is formed from in-, meaning ‘not’, and a root connected with discrimen, meaning ‘difference’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in the sense of making no distinctions."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes actions, criticism or damage that ignore relevant differences."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "indiscrimination",
+          "label": "noun"
+        },
+        {
+          "term": "indiscriminately",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "unselective",
+        "blanket",
+        "careless"
+      ],
+      "opposite": "selective",
+      "pitfall": "Don’t use it as a simple synonym for random; it specifically suggests that no meaningful distinctions are being made."
+    },
+    {
+      "id": "indoctrinate",
+      "kind": "word",
+      "term": "indoctrinate",
+      "pos": "verb",
+      "phonetic": "/ɪnˈdɒktrɪneɪt/",
+      "sayIt": "in-DOK-tri-nate",
+      "register": "Formal",
+      "meaning": "To teach someone a set of beliefs in a way that discourages independent thought or doubt.",
+      "nuance": "The word usually has a negative tone, suggesting that the beliefs are imposed rather than explored. It is especially common when discussing political, religious or institutional influence.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company discussion · challenging team beliefs",
+          "sentence": "Good managers question outdated assumptions instead of indoctrinating employees with one way of thinking.",
+          "highlight": "indoctrinating",
+          "tip": "Use it for rigid teaching that replaces open discussion with prescribed views."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · joining a group",
+          "sentence": "She joined the online community, but she was careful not to let them indoctrinate her.",
+          "highlight": "indoctrinate",
+          "tip": "The verb can describe any group that pressures people into accepting its beliefs."
+        },
+        {
+          "setting": "writing",
+          "where": "Article · criticizing a political movement",
+          "sentence": "Critics argued that the campaign indoctrinated young supporters by presenting its policies as the only acceptable option.",
+          "highlight": "indoctrinated",
+          "tip": "Use it when describing deliberate, systematic pressure rather than ordinary persuasion."
+        }
+      ],
+      "origin": {
+        "summary": "Built from Latin doctrina, meaning teaching or doctrine, and the prefix in-, which can suggest entering into something.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "Doctrina meant teaching or instruction and developed from docere, meaning to teach."
+          },
+          {
+            "when": "1500s",
+            "text": "The word entered English with the sense of instructing or teaching someone."
+          },
+          {
+            "when": "20th century onward",
+            "text": "It became strongly associated with the forceful teaching of political and ideological beliefs."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "indoctrination",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "brainwash",
+        "instruct",
+        "condition",
+        "propagandize"
+      ],
+      "opposite": "educate",
+      "pitfall": "Indoctrinate is stronger and more negative than instruct. Use it only when the teaching is rigid, imposed or deliberately limiting independent thought."
+    },
+    {
+      "id": "ineffectual",
+      "kind": "word",
+      "term": "ineffectual",
+      "pos": "adjective",
+      "phonetic": "/ˌɪnɪˈfektʃuəl/",
+      "sayIt": "in-ih-FEK-choo-uhl",
+      "register": "Formal",
+      "meaning": "Not producing the result or effect you intended.",
+      "nuance": "Often describes an action, plan or effort that had little practical impact. It can sound more pointed than simply “not effective,” especially when discussing a repeated approach.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team retrospective · reviewing a failed process",
+          "sentence": "Changing the report format alone was ineffectual; we need to solve the underlying data problem.",
+          "highlight": "ineffectual",
+          "tip": "Use it when something was carried out but did not achieve the intended result."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · giving unwanted advice",
+          "sentence": "My suggestion was ineffectual because nobody had explained what she actually needed.",
+          "highlight": "ineffectual",
+          "tip": "A slightly formal way to say that an action did not make a difference."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · evaluating a proposal",
+          "sentence": "The campaign was largely ineffectual, attracting attention without generating useful leads.",
+          "highlight": "ineffectual",
+          "tip": "Often appears in reports and reviews to evaluate an approach without sounding emotional."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin ineffectualis, meaning “not effective,” formed from in-, “not,” and effectual, “having an effect.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Ineffectualis forms from in-, meaning “not,” and effectualis, meaning “effective.”"
+          },
+          {
+            "when": "1500s",
+            "text": "The word begins appearing in English with the sense of having no effect."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in formal writing and discussion."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "ineffectively",
+          "label": "adverb"
+        },
+        {
+          "term": "ineffectiveness",
+          "label": "noun"
+        },
+        {
+          "term": "ineffectual",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "ineffective",
+        "futile",
+        "unproductive",
+        "unsuccessful"
+      ],
+      "opposite": "effectual",
+      "pitfall": "Ineffectual describes an action or attempt that fails to have an effect; ineffective more often describes the thing itself or the method as a whole."
+    },
+    {
+      "id": "infallible",
+      "kind": "word",
+      "term": "infallible",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈfæləbəl/",
+      "sayIt": "in-FAL-uh-buhl",
+      "register": "Common in formal and careful discussion",
+      "meaning": "Unable to make a mistake or be wrong.",
+      "nuance": "Usually negative because perfect judgement is unrealistic. It can also be used in a limited sense, such as a system that is designed never to fail.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · discussing a decision",
+          "sentence": "Even experienced leaders aren't infallible, so we should test the plan before launch.",
+          "highlight": "infallible",
+          "tip": "Use it to challenge the idea that one person’s judgement is always perfect."
+        },
+        {
+          "setting": "social",
+          "where": "Argument with a friend",
+          "sentence": "You’re not infallible, and neither am I, so let’s hear both sides.",
+          "highlight": "infallible",
+          "tip": "It can sound sharp or dismissive, depending on your tone."
+        },
+        {
+          "setting": "writing",
+          "where": "Reflective email · admitting a mistake",
+          "sentence": "We are not infallible, and this incident showed where our process needs work.",
+          "highlight": "infallible",
+          "tip": "Often used before a comma when introducing a limitation or criticism."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin infallibilis, meaning ‘unable to be deceived or overcome’, with in- expressing negation and fallibilis meaning ‘liable to fail’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Infallibilis is formed from in-, ‘not’, and fallibilis, ‘liable to fail’."
+          },
+          {
+            "when": "1400s",
+            "text": "The word enters English in religious and legal contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It is used more broadly for people, claims, systems and decisions that cannot be wrong."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "infallibility",
+          "label": "noun"
+        },
+        {
+          "term": "infallibly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "unerring",
+        "flawless",
+        "perfect",
+        "error-free"
+      ],
+      "opposite": "fallible",
+      "pitfall": "Don’t use it to mean merely reliable; a reliable person or process can still make mistakes."
+    },
+    {
+      "id": "ingenious",
+      "kind": "word",
+      "term": "ingenious",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈdʒiːniəs/",
+      "sayIt": "in-JEE-nee-us",
+      "register": "Common at work",
+      "meaning": "Clever and inventive, especially when solving a problem or creating something new.",
+      "nuance": "It is a strong compliment for an idea, design or solution. It can also suggest that something is unusually clever or complicated.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · solving a service issue",
+          "sentence": "That ingenious shortcut reduced our setup time without affecting accuracy.",
+          "highlight": "ingenious",
+          "tip": "Use it to praise an inventive solution, especially one that improves efficiency."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · explaining a gift",
+          "sentence": "What an ingenious idea—you turned those spare jars into beautiful table decorations.",
+          "highlight": "ingenious",
+          "tip": "It adds warm admiration when someone shows unusual creativity."
+        },
+        {
+          "setting": "writing",
+          "where": "Project proposal · describing a design",
+          "sentence": "The engineers developed an ingenious system that uses existing sensors to predict maintenance needs.",
+          "highlight": "ingenious",
+          "tip": "Strong in reports and pitches because it combines praise of creativity with a sense of practical value."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin ingeniosus, meaning ‘clever’ or ‘inventive’, which developed from ingenium, a natural talent or innate ability.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Ingenium means ‘natural talent’ or ‘inborn quality’, and ingeniosus means ‘clever’ or ‘inventive’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English in the sense of clever, skilful or inventive."
+          },
+          {
+            "when": "Today",
+            "text": "It usually praises a clever idea, invention or solution."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "ingenuity",
+          "label": "noun"
+        },
+        {
+          "term": "ingeniously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "clever",
+        "inventive",
+        "imaginative",
+        "resourceful"
+      ],
+      "opposite": "unimaginative",
+      "pitfall": "Do not confuse ingenious with ingenuous, which means honest or innocent."
+    },
+    {
+      "id": "integral",
+      "kind": "word",
+      "term": "integral",
+      "pos": "adjective",
+      "phonetic": "/ˈɪntɪɡrəl/",
+      "sayIt": "IN-tih-gruhl",
+      "register": "Common at work",
+      "meaning": "Necessary or very important as part of a larger whole.",
+      "nuance": "It is stronger than merely useful: an integral part is something the whole system cannot work well without. It can also mean included as a whole in a larger amount.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · improving a workflow",
+          "sentence": "Clear communication is integral to a smooth workflow, especially when several teams depend on each other.",
+          "highlight": "integral",
+          "tip": "Use it to show that something is essential, not just helpful."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · introducing someone",
+          "sentence": "Listening is integral to good conversation because it helps people feel heard.",
+          "highlight": "integral",
+          "tip": "This use gives the idea a slightly formal but natural tone."
+        },
+        {
+          "setting": "writing",
+          "where": "Project proposal · explaining priorities",
+          "sentence": "User feedback is integral to our design process, so we will include it at every major stage.",
+          "highlight": "integral",
+          "tip": "Pairs naturally with parts, elements, process, success and understanding."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin integer, meaning whole or untouched, based on the idea of something being complete in itself.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Integer meant whole, complete or untouched."
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered English in mathematical and general senses."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes something essential to a larger whole."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "integrally",
+          "label": "adverb"
+        },
+        {
+          "term": "integration",
+          "label": "noun"
+        },
+        {
+          "term": "integrate",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "essential",
+        "fundamental",
+        "central",
+        "indispensable"
+      ],
+      "opposite": "peripheral",
+      "pitfall": "In mathematics, an integral is an area or quantity calculated from a function. In everyday English, integral usually means essential to the whole."
+    },
+    {
+      "id": "intentional",
+      "kind": "word",
+      "term": "intentional",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈtɛnʃənəl/",
+      "sayIt": "in-TEN-shuh-nuhl",
+      "register": "Common at work",
+      "meaning": "Done deliberately, with a clear purpose or intended result.",
+      "nuance": "It emphasizes that an action or choice was planned rather than accidental. It can describe either a neutral purpose or a deliberate attempt to cause a particular outcome.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · clarifying a delay",
+          "sentence": "The change was intentional, but we should have explained it before the deadline.",
+          "highlight": "intentional",
+          "tip": "Useful when discussing a deliberate choice without sounding accusatory."
+        },
+        {
+          "setting": "social",
+          "where": "Friendship · addressing a missed message",
+          "sentence": "She was clearly intentional about replying, so I stopped worrying about it.",
+          "highlight": "intentional",
+          "tip": "Often appears with words such as clearly, deliberately or obviously."
+        },
+        {
+          "setting": "writing",
+          "where": "Incident report · explaining an action",
+          "sentence": "The employee stated that the omission was intentional rather than the result of a technical fault.",
+          "highlight": "intentional",
+          "tip": "Clear in formal reports when you need to distinguish planned conduct from an accident."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin intentionalis, meaning ‘of or relating to intention’, developed from intendere, ‘to stretch or direct toward a purpose’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Intentionalis develops from intendere, ‘to direct toward a purpose’."
+          },
+          {
+            "when": "1600s",
+            "text": "The English adjective appears in contexts involving purpose and planned action."
+          },
+          {
+            "when": "Today",
+            "text": "It means done deliberately or with an intended result."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "intentionally",
+          "label": "adverb"
+        },
+        {
+          "term": "intention",
+          "label": "noun"
+        },
+        {
+          "term": "intend",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "deliberate",
+        "purposeful",
+        "planned",
+        "conscious"
+      ],
+      "opposite": "accidental",
+      "pitfall": "Intentional describes an action or result; intention names the goal or purpose behind it."
+    },
+    {
+      "id": "intricate",
+      "kind": "word",
+      "term": "intricate",
+      "pos": "adjective",
+      "phonetic": "/ˈɪntrɪkət/",
+      "sayIt": "IN-tri-kit",
+      "register": "Common at work",
+      "meaning": "Made up of many small, detailed parts that are carefully fitted together.",
+      "nuance": "Often suggests impressive complexity or craftsmanship. It can also make a process sound unnecessarily difficult to understand or complete.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product review · explaining a design",
+          "sentence": "The dashboard has an intricate network of filters, but new users can ignore the advanced settings.",
+          "highlight": "intricate",
+          "tip": "Use it when complexity comes from many interconnected details."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · describing an artwork",
+          "sentence": "Look at the intricate pattern in the leaves; it changes slightly every time I zoom in.",
+          "highlight": "intricate",
+          "tip": "It works well for detailed designs, mechanisms and arrangements."
+        },
+        {
+          "setting": "writing",
+          "where": "Project proposal · outlining the work",
+          "sentence": "Reconstructing the system required intricate planning and a clear test for each stage.",
+          "highlight": "intricate",
+          "tip": "Pair it with planning, pattern, network or series to clarify what is complicated."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin intricatus, meaning ‘entangled’, the past participle of intricare, ‘to entangle or complicate’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Intricatus develops from the idea of threads being tangled together or made complicated."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English in the sense of complicated or entangled."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes detailed, interconnected patterns, designs, arrangements or processes."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "intricacy",
+          "label": "noun"
+        },
+        {
+          "term": "intricately",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "elaborate",
+        "complex",
+        "detailed",
+        "convoluted"
+      ],
+      "opposite": "straightforward",
+      "pitfall": "Don’t use intricate simply to mean complicated; it usually points to something rich in small, interconnected details."
+    },
+    {
+      "id": "intrinsic",
+      "kind": "word",
+      "term": "intrinsic",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈtrɪnzɪk/",
+      "sayIt": "in-TRIN-sik",
+      "register": "Formal",
+      "meaning": "Existing as a natural, essential part of something rather than being added from outside.",
+      "nuance": "It describes qualities, value or motivation that come from within the thing itself. It often contrasts with features or rewards that are external.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing motivation",
+          "sentence": "Intrinsic motivation often lasts longer than the desire to work for a reward.",
+          "highlight": "Intrinsic",
+          "tip": "Common in professional discussions about motivation, value and qualities."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation about a hobby",
+          "sentence": "For me, the intrinsic pleasure of playing music is enough to keep me practising.",
+          "highlight": "intrinsic",
+          "tip": "Use it when describing satisfaction that comes from the activity itself."
+        },
+        {
+          "setting": "writing",
+          "where": "Product review · evaluating a feature",
+          "sentence": "The app has few visual extras, but its intrinsic value lies in how quickly it organizes your notes.",
+          "highlight": "intrinsic",
+          "tip": "A useful word for explaining worth that exists independently of appearance or added benefits."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin intrinsecus, meaning ‘on the inside’, with the sense of something internal or inherent.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Intrinsecus meant ‘on the inside’ or ‘within’."
+          },
+          {
+            "when": "1600s",
+            "text": "Entered English in the sense of internal, inward or essential to something."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly describes qualities or value that are inherent rather than externally imposed."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "intrinsically",
+          "label": "adverb"
+        },
+        {
+          "term": "intrinsicism",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "inherent",
+        "innate",
+        "intrinsic to",
+        "built-in"
+      ],
+      "opposite": "extrinsic",
+      "pitfall": "Don’t use it for every quality that feels important; it specifically means that something is essential or naturally part of something else."
+    },
+    {
+      "id": "introspective",
+      "kind": "word",
+      "term": "introspective",
+      "pos": "adjective",
+      "phonetic": "/ˌɪn.trəˈspek.tɪv/",
+      "sayIt": "in-TROH-spek-tiv",
+      "register": "Everyday",
+      "meaning": "Given to thinking carefully about your own feelings, thoughts and behaviour.",
+      "nuance": "It suggests inward attention and self-examination, usually in a calm and thoughtful way. It can be positive, though it may also imply that someone focuses too much on their own inner life.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · considering feedback",
+          "sentence": "After the feedback, she became more introspective and realised that she had interrupted colleagues too often.",
+          "highlight": "introspective",
+          "tip": "Use it to describe thoughtful self-examination after an event or piece of feedback."
+        },
+        {
+          "setting": "social",
+          "where": "Late-night conversation · reflecting on a date",
+          "sentence": "He was unusually introspective that evening, wondering whether his first impression had been misleading.",
+          "highlight": "introspective",
+          "tip": "It fits when someone is turning their attention inward rather than actively socialising."
+        },
+        {
+          "setting": "writing",
+          "where": "Journal entry · reflecting on a decision",
+          "sentence": "An introspective essay about her year in the city, she explored the choices that had shaped her identity.",
+          "highlight": "introspective",
+          "tip": "The word often describes writing that examines the writer’s inner thoughts and experiences."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin introspicere, meaning ‘to look within’, built from intro, ‘inward’, and specere, ‘to look’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Introspicere combines intro, ‘inward’, with specere, ‘to look’."
+          },
+          {
+            "when": "1600s",
+            "text": "The Latin root develops into English words connected with looking inward."
+          },
+          {
+            "when": "1800s",
+            "text": "Introspective becomes established as a term for inward-looking thought and self-examination."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "introspection",
+          "label": "noun"
+        },
+        {
+          "term": "introspectively",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "reflective",
+        "self-aware",
+        "inward-looking",
+        "contemplative"
+      ],
+      "opposite": "outgoing",
+      "pitfall": "Introspective describes examining your own thoughts and feelings; introverted usually describes a personality that prefers quieter, less socially demanding situations."
+    },
+    {
+      "id": "irrational",
+      "kind": "word",
+      "term": "irrational",
+      "pos": "adjective",
+      "phonetic": "/ɪˈræʃənəl/",
+      "sayIt": "ih-RASH-uh-nuhl",
+      "register": "Common at work",
+      "meaning": "Not based on reason, logic, or careful thinking.",
+      "nuance": "It can describe behaviour, beliefs, decisions or numbers that do not make sense. In everyday use, it may sound slightly judgemental, so explain your reasoning when you use it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · evaluating a proposal",
+          "sentence": "It would be irrational to delay the launch while ignoring the customer feedback.",
+          "highlight": "irrational",
+          "tip": "Use it to question a decision that seems based on emotion rather than evidence."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation with a friend · explaining a reaction",
+          "sentence": "I know it sounds irrational, but I felt too embarrassed to say I was upset.",
+          "highlight": "irrational",
+          "tip": "Use it for an understandable emotional response, not only for foolish behaviour."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a manager · requesting a review",
+          "sentence": "Moving the deadline without changing the resources seems irrational and may reduce the quality of the final product.",
+          "highlight": "irrational",
+          "tip": "It is useful in a formal argument when you need to show that a choice lacks logical support."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin irrationalis, meaning ‘not rational’, built on ratio, ‘reason’ or ‘logic’. It entered English in the 1500s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Irregularis means ‘not according to rule’, while ratio means ‘reason’ or ‘logic’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in mathematical and philosophical contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It is used broadly for anything that is not based on sensible thought."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "irrationality",
+          "label": "noun"
+        },
+        {
+          "term": "irrationally",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "unreasonable",
+        "illogical",
+        "unthinking",
+        "irrational"
+      ],
+      "opposite": "rational",
+      "pitfall": "Do not confuse irrational with irrational numbers, which are numbers that cannot be written as a ratio of two whole numbers."
+    }
+  ]
+}

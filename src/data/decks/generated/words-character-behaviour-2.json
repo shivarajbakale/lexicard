@@ -1,0 +1,1746 @@
+{
+  "id": "words-character-behaviour-2",
+  "kind": "word",
+  "name": "Character & behaviour · 2",
+  "blurb": "25 words about character & behaviour",
+  "cards": [
+    {
+      "id": "confidant",
+      "kind": "word",
+      "term": "confidant",
+      "pos": "noun",
+      "phonetic": "/ˈkɒnfɪdænt/",
+      "sayIt": "KON-fi-dant",
+      "register": "Formal",
+      "meaning": "A person whom you trust enough to share private thoughts, feelings or problems with.",
+      "nuance": "It suggests a relationship built on dependable trust and emotional openness. The word can sound slightly formal or literary in everyday conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · sharing a concern",
+          "sentence": "Maya became my confidant at work, so I asked her thoughts before raising the issue with our manager.",
+          "highlight": "confidant",
+          "tip": "Use it for someone with whom you have genuine trust, not simply a friendly colleague."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · personal advice",
+          "sentence": "My sister has always been my confidant, especially when I need an honest opinion.",
+          "highlight": "confidant",
+          "tip": "This works well when you want to emphasize closeness and deep trust."
+        },
+        {
+          "setting": "writing",
+          "where": "Memoir · describing a friendship",
+          "sentence": "He was the one confidant I could tell when the pressure at home became too much.",
+          "highlight": "confidant",
+          "tip": "It fits reflective writing better than casual messages."
+        }
+      ],
+      "origin": {
+        "summary": "Borrowed from French confident, meaning a trusted person, and ultimately connected with Latin confidere, ‘to trust completely’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Confidere combines con-, ‘with’, and fidere, ‘to trust’."
+          },
+          {
+            "when": "French",
+            "text": "Confidant develops as a noun meaning a trusted person."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English and becomes associated with private trust."
+          }
+        ]
+      },
+      "similar": [
+        "confidante",
+        "close friend",
+        "trusted friend",
+        "boon companion"
+      ],
+      "pitfall": "Traditionally, confidant referred to a trusted man and confidante to a trusted woman, but modern usage allows confidant for people of any gender. Confidante is still commonly used for women."
+    },
+    {
+      "id": "congenial",
+      "kind": "word",
+      "term": "congenial",
+      "pos": "adjective",
+      "phonetic": "/kənˈdʒiːniəl/",
+      "sayIt": "kun-JEE-nee-ul",
+      "register": "Formal",
+      "meaning": "Pleasant, friendly, and suitable for a particular person, place, or purpose.",
+      "nuance": "It can describe someone who is easy to get along with, but it often emphasizes a good fit between people, things, or circumstances.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · pairing colleagues",
+          "sentence": "The two teams have a congenial working relationship, so they usually solve problems together without friction.",
+          "highlight": "congenial",
+          "tip": "Use it for a relationship that feels pleasant, cooperative, and naturally suited to the people involved."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · introducing guests",
+          "sentence": "She has a congenial manner and quickly puts new guests at ease.",
+          "highlight": "congenial",
+          "tip": "This formal word is useful when describing someone as warm and pleasant to be around."
+        },
+        {
+          "setting": "writing",
+          "where": "Venue email · proposing a meeting",
+          "sentence": "The quiet café is a congenial setting for an informal discussion with our client.",
+          "highlight": "congenial",
+          "tip": "It often appears before words such as atmosphere, environment, place or surroundings."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin congenialis, meaning ‘agreeable’ or ‘suitable’, built from con- and genus, meaning ‘kind’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root idea is something naturally agreeable or suited to a particular kind of person."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with meanings connected with pleasantness and suitability."
+          },
+          {
+            "when": "Today",
+            "text": "It describes pleasant people, relationships, places, and arrangements."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "congeniality",
+          "label": "noun"
+        },
+        {
+          "term": "congenially",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "amiable",
+        "agreeable",
+        "compatible",
+        "pleasant"
+      ],
+      "opposite": "incompatible",
+      "pitfall": "It is more than simply likeable: it often suggests that a person, place, or arrangement is a natural fit."
+    },
+    {
+      "id": "conscientious",
+      "kind": "word",
+      "term": "conscientious",
+      "pos": "adjective",
+      "phonetic": "/ˌkɒnʃiˈenʃəs/",
+      "sayIt": "kuhn-SHEEN-shuss",
+      "register": "Common at work",
+      "meaning": "Careful about doing your work properly, taking responsibility for your actions, and doing what is right.",
+      "nuance": "This is a strong compliment about someone’s reliability and ethical judgement. It suggests steady attention to detail rather than occasional bursts of hard work.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project handover · checking unfinished tasks",
+          "sentence": "Ravi was conscientious and clearly flagged every detail we still needed to resolve.",
+          "highlight": "conscientious",
+          "tip": "Use it to praise someone’s care, reliability and sense of responsibility."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a trip · choosing a restaurant",
+          "sentence": "Maya is conscientious about food allergies, so she checks the menu before we order.",
+          "highlight": "conscientious",
+          "tip": "It can describe someone who behaves thoughtfully in everyday situations."
+        },
+        {
+          "setting": "writing",
+          "where": "Reference letter · praising an employee",
+          "sentence": "A conscientious colleague who completes work accurately and considers others carefully.",
+          "highlight": "conscientious",
+          "tip": "Pair it with examples of dependable behaviour for a more convincing compliment."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin conscientia, meaning knowledge or awareness, and French conscientious, meaning having a clear sense of moral duty.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Conscientia develops from words meaning knowledge, awareness and thinking about something."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The French form conscientious enters English, initially describing someone guided by careful moral awareness."
+          },
+          {
+            "when": "Today",
+            "text": "It chiefly means careful, responsible and eager to do work properly."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "conscientiously",
+          "label": "adverb"
+        },
+        {
+          "term": "conscientiousness",
+          "label": "noun"
+        },
+        {
+          "term": "conscience",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "careful",
+        "diligent",
+        "responsible",
+        "meticulous",
+        "principled"
+      ],
+      "opposite": "careless",
+      "pitfall": "Don’t confuse conscientious with conscious, which means awake, aware or deliberately aware of something."
+    },
+    {
+      "id": "cynic",
+      "kind": "word",
+      "term": "cynic",
+      "pos": "noun",
+      "phonetic": "/ˈsɪnɪk/",
+      "sayIt": "SIN-ik",
+      "register": "Everyday",
+      "meaning": "A person who doubts that people are honest, sincere, or likely to act well.",
+      "nuance": "Often mildly critical, but it can sound harsh when used to dismiss someone’s motives. It may also describe a general distrust of human nature.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · reviewing a proposal",
+          "sentence": "He sounded like a cynic when he asked whether the company would actually support the idea.",
+          "highlight": "cynic",
+          "tip": "Use it for someone whose distrust seems excessive or unproductive."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · discussing a surprise party",
+          "sentence": "As a cynic, she refused to believe they were throwing her a party for no reason.",
+          "highlight": "cynic",
+          "tip": "It can add a dry, teasing tone when the distrust is not serious."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · a company’s public promises",
+          "sentence": "There is a certain cynic in the brand’s latest campaign for making empty claims about changing lives.",
+          "highlight": "cynic",
+          "tip": "This more literary use focuses on distrustful or mocking scepticism."
+        }
+      ],
+      "origin": {
+        "summary": "From the Greek Cynic, associated with ancient philosopher Diogenes and his followers, who were known for questioning convention and social expectations.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "The Cynics take their name from kynikos, meaning ‘dog-like’, linked to Diogenes’ life and reputation for challenging convention."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "Cynic enters English with the sense of a sharp or sceptical philosopher."
+          },
+          {
+            "when": "1700s",
+            "text": "The word develops broader meanings involving distrust, sarcasm and contemptuous doubt."
+          },
+          {
+            "when": "Today",
+            "text": "A cynic is someone seen as deeply doubtful of sincerity, motives or good intentions."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "cynical",
+          "label": "adjective"
+        },
+        {
+          "term": "cynicism",
+          "label": "noun"
+        },
+        {
+          "term": "cynically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "sceptic",
+        "skeptic",
+        "doubter",
+        "pessimist"
+      ],
+      "opposite": "optimist",
+      "pitfall": "A cynic distrusts people or motives; a sceptic simply questions whether a claim is true. The words are related but not identical."
+    },
+    {
+      "id": "dauntless",
+      "kind": "word",
+      "term": "dauntless",
+      "pos": "adjective",
+      "phonetic": "/ˈdɔːntləs/",
+      "sayIt": "DAUNT-less",
+      "register": "Everyday",
+      "meaning": "Showing courage and determination despite danger, difficulty or fear.",
+      "nuance": "It suggests steady courage rather than a reckless disregard for risk. The word has a slightly formal, old-fashioned tone.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · handling a setback",
+          "sentence": "The dauntless support team kept customers informed while engineers worked to restore the service.",
+          "highlight": "dauntless",
+          "tip": "Use it to praise persistence when someone faces a serious challenge."
+        },
+        {
+          "setting": "social",
+          "where": "Hiking trip · approaching a storm",
+          "sentence": "My dauntless cousin led us through the downpour without complaining once.",
+          "highlight": "dauntless",
+          "tip": "It can add warmth or humour when describing someone who refuses to be discouraged."
+        },
+        {
+          "setting": "writing",
+          "where": "Speech · celebrating an achievement",
+          "sentence": "Her dauntless determination turned a difficult first year into a remarkable success.",
+          "highlight": "dauntless",
+          "tip": "It works well in stories and tributes, especially when describing a long struggle."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French danter, meaning ‘to tame’ or ‘subdue’, with the sense developing toward being ‘undismayed by fear or difficulty’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old French",
+            "text": "The root danter means ‘to tame’ or ‘subdue’, from a word related to Latin domitare, meaning ‘to tame’."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word appears in the sense of ‘tamed’ or ‘subdued’, then begins to mean ‘undismayed’."
+          },
+          {
+            "when": "Today",
+            "text": "Dauntless describes courage in the face of danger or difficulty."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "daunt",
+          "label": "verb"
+        },
+        {
+          "term": "undaunted",
+          "label": "adjective"
+        },
+        {
+          "term": "undauntedly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "fearless",
+        "intrepid",
+        "steadfast",
+        "unflinching"
+      ],
+      "opposite": "timid",
+      "pitfall": "Dauntless means facing difficulty courageously, not ignoring real danger or behaving thoughtlessly."
+    },
+    {
+      "id": "deft",
+      "kind": "word",
+      "term": "deft",
+      "pos": "adjective",
+      "phonetic": "/dɛft/",
+      "sayIt": "DEFT",
+      "register": "Everyday",
+      "meaning": "Skilled and quick in your movements or handling of something.",
+      "nuance": "It suggests neat, confident control that looks easy or natural. It is often used for physical actions, but can also describe a clever, precise performance.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product demonstration · assembling equipment",
+          "sentence": "Her deft handling of the delicate parts made the repair look effortless.",
+          "highlight": "deft",
+          "tip": "Use it when praising skill, control or precise movement."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · passing the plates",
+          "sentence": "He was deft at keeping the conversation flowing while clearing the table.",
+          "highlight": "deft",
+          "tip": "It can describe someone managing a busy situation smoothly and discreetly."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · describing a colleague",
+          "sentence": "She has a deft way of simplifying complicated information without losing its meaning.",
+          "highlight": "deft",
+          "tip": "Use it in polished writing when you want to suggest graceful skill rather than mere effort."
+        }
+      ],
+      "origin": {
+        "summary": "Deft developed from an Old English word meaning skill or cleverness, related to the word craft.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The ancestor word referred to skill, cleverness or craft."
+          },
+          {
+            "when": "Middle English",
+            "text": "Deft began to mean skilful and quick in action."
+          },
+          {
+            "when": "Today",
+            "text": "It describes neat, controlled and often graceful skill."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "deftly",
+          "label": "adverb"
+        },
+        {
+          "term": "deftness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "nimble",
+        "agile",
+        "dexterous",
+        "skillful"
+      ],
+      "opposite": "clumsy",
+      "pitfall": "Do not confuse deft with daft, which means foolish or crazy."
+    },
+    {
+      "id": "degrade",
+      "kind": "word",
+      "term": "degrade",
+      "pos": "verb",
+      "phonetic": "/dɪˈɡreɪd/",
+      "sayIt": "di-GRAID",
+      "register": "Common at work and in formal writing",
+      "meaning": "To reduce something in quality, value, condition or status.",
+      "nuance": "It can describe either a gradual decline or an action that makes something worse. The word often sounds critical, especially when describing materials, systems or people’s treatment.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · reviewing a process",
+          "sentence": "Constantly changing requirements are degrading the quality of our reports.",
+          "highlight": "degrading",
+          "tip": "Use the present participle when the decline is the focus of the sentence."
+        },
+        {
+          "setting": "social",
+          "where": "Argument · discussing a shared space",
+          "sentence": "I don’t want our argument to degrade into personal insults.",
+          "highlight": "degrade",
+          "tip": "Use degrade into for a shift toward a worse kind of behaviour."
+        },
+        {
+          "setting": "writing",
+          "where": "Product report · explaining damage",
+          "sentence": "Frequent exposure to sunlight can degrade the coating within a few months.",
+          "highlight": "degrade",
+          "tip": "Common in technical writing for materials losing quality through wear or age."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin degradare, meaning ‘to lower in rank’. It combines de-, indicating reduction, with gradus, meaning ‘step’ or ‘rank’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Degradare develops from de-, ‘down’, and gradus, ‘step’ or ‘rank’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with meanings connected to lowering rank or status."
+          },
+          {
+            "when": "Today",
+            "text": "It also describes a loss of quality in materials, conditions or behaviour."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "degraded",
+          "label": "adjective"
+        },
+        {
+          "term": "degradation",
+          "label": "noun"
+        },
+        {
+          "term": "degradable",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "deteriorate",
+        "diminish",
+        "lower",
+        "downgrade"
+      ],
+      "opposite": "improve",
+      "pitfall": "Degrade usually means to become or make something worse; downgrade is more specific to reducing a category, price or status."
+    },
+    {
+      "id": "demeanor",
+      "kind": "word",
+      "term": "demeanor",
+      "pos": "noun",
+      "phonetic": "/dɪˈmiːnər/",
+      "sayIt": "dih-MEE-nur",
+      "register": "Formal",
+      "meaning": "The way someone behaves or conducts themselves, especially as others observe them.",
+      "nuance": "It often emphasizes a person’s outward manner, such as calm, friendly, or tense. It is more formal than simply saying behavior.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client meeting · managing tension",
+          "sentence": "Her calm demeanor kept the tense client meeting focused and professional.",
+          "highlight": "demeanor",
+          "tip": "Use it to describe how someone’s presence or conduct affects a situation."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · welcoming newcomers",
+          "sentence": "His friendly demeanor made it easy for newcomers to join the table.",
+          "highlight": "demeanor",
+          "tip": "This is a natural, slightly formal way to praise someone’s social presence."
+        },
+        {
+          "setting": "writing",
+          "where": "Incident report · describing a witness",
+          "sentence": "The report described the witness’s demeanor as calm and attentive.",
+          "highlight": "demeanor",
+          "tip": "Use it carefully in official writing, since it can also suggest that someone appeared calm."
+        }
+      ],
+      "origin": {
+        "summary": "From Middle English demenour, borrowed from Old French demeanour, meaning bearing or conduct and ultimately connected with Latin manere, ‘to remain’ or ‘stay’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old French",
+            "text": "demeanour develops from de plus maner, ‘to remain’, with the sense of conduct or manner."
+          },
+          {
+            "when": "1300s–1400s",
+            "text": "The Middle English form demenour appears in English."
+          },
+          {
+            "when": "1800s",
+            "text": "American English adopts the spelling demeanor, while British English retains demeanour."
+          }
+        ]
+      },
+      "similar": [
+        "bearing",
+        "mien",
+        "behavior",
+        "manner"
+      ],
+      "pitfall": "In American English, use demeanor; in British English, demeanour is standard. It describes a person’s outward manner, not their whole personality."
+    },
+    {
+      "id": "determined",
+      "kind": "word",
+      "term": "determined",
+      "pos": "adjective",
+      "phonetic": "/dɪˈtɜːrmɪnd/",
+      "sayIt": "dee-TERM-ind",
+      "register": "Common at work and everyday",
+      "meaning": "Having a strong intention to achieve something and continuing to try despite difficulties.",
+      "nuance": "It describes firm commitment and persistence, not necessarily a rigid or stubborn approach.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project meeting · facing a delay",
+          "sentence": "She was determined to finish the proposal, even after the deadline was moved forward.",
+          "highlight": "determined",
+          "tip": "Use it to emphasise someone’s resolve and willingness to keep working."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a trip · solving a problem",
+          "sentence": "We were determined to find a restaurant despite the rain and the closed roads.",
+          "highlight": "determined",
+          "tip": "It sounds positive when it shows persistence and determination."
+        },
+        {
+          "setting": "writing",
+          "where": "Recommendation letter · praising someone",
+          "sentence": "The determined learner improved her English by speaking to a new colleague every day.",
+          "highlight": "determined",
+          "tip": "It fits naturally before a noun describing a person, especially in praise."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin determinare, meaning ‘to set bounds’ or ‘to settle’, which developed into the sense of fixing a purpose or decision.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Determinare combines de-, ‘apart’, with terminus, ‘a boundary’, giving the idea of setting limits."
+          },
+          {
+            "when": "1400s",
+            "text": "Entered English with meanings connected with deciding, defining or settling."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly describes someone who is firmly committed to achieving a goal."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "determine",
+          "label": "verb"
+        },
+        {
+          "term": "determination",
+          "label": "noun"
+        },
+        {
+          "term": "determinedly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "committed",
+        "resolute",
+        "steadfast",
+        "persistent"
+      ],
+      "opposite": "indecisive",
+      "pitfall": "Determined usually focuses on a strong goal; stubborn suggests refusing to change despite good reasons."
+    },
+    {
+      "id": "diffident",
+      "kind": "word",
+      "term": "diffident",
+      "pos": "adjective",
+      "phonetic": "/ˈdɪfɪdənt/",
+      "sayIt": "DIF-i-duhnt",
+      "register": "Formal",
+      "meaning": "Lacking confidence or self-assurance, especially when speaking to other people or taking action.",
+      "nuance": "It suggests shyness or hesitation caused by uncertainty about how you will be received. It can be mildly critical when describing someone who should speak more confidently.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · offering an idea",
+          "sentence": "She was diffident about presenting the proposal, so her manager encouraged her to share it.",
+          "highlight": "diffident",
+          "tip": "Useful when describing someone’s hesitation to speak up or take the lead."
+        },
+        {
+          "setting": "social",
+          "where": "Small gathering · meeting new people",
+          "sentence": "He felt diffident at first, but the friendly group soon put him at ease.",
+          "highlight": "diffident",
+          "tip": "Often describes quietness or shyness in unfamiliar social situations."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · discussing communication",
+          "sentence": "His diffident manner made it difficult for clients to know how confident he felt about the project.",
+          "highlight": "diffident",
+          "tip": "A formal alternative to shy, hesitant or lacking confidence."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin diffidere, meaning ‘to distrust’ or ‘to have no confidence in’. The original sense was wary or distrustful, which later shifted toward shyness and lack of confidence.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Diffidere, ‘to distrust’ or ‘to lack confidence in’."
+          },
+          {
+            "when": "1500s",
+            "text": "Enters English with the sense of being distrustful or wary."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "Develops the modern sense of being shy or hesitant."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "diffidence",
+          "label": "noun"
+        },
+        {
+          "term": "diffidently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "shy",
+        "hesitant",
+        "self-conscious",
+        "timid"
+      ],
+      "opposite": "confident",
+      "pitfall": "Diffident means uncertain or hesitant in yourself; it does not simply mean being naturally quiet or preferring not to dominate a conversation."
+    },
+    {
+      "id": "dilettante",
+      "kind": "word",
+      "term": "dilettante",
+      "pos": "noun",
+      "phonetic": "/ˌdɪlɪˈtænti/",
+      "sayIt": "dil-uh-TAN-tee",
+      "register": "Formal",
+      "meaning": "Someone who takes up an activity for pleasure rather than as a serious professional or expert.",
+      "nuance": "It can sound slightly old-fashioned and often implies that the person shows limited depth or commitment. In less negative contexts, it simply means an enthusiastic amateur.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Design review · assessing feedback",
+          "sentence": "Her comments were useful, but she was a dilettante and missed the basics of user research.",
+          "highlight": "dilettante",
+          "tip": "Use it when you want to question someone’s expertise, but consider whether the criticism is fair."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · discussing hobbies",
+          "sentence": "I’m only a dilettante at photography, but I enjoy experimenting with different styles.",
+          "highlight": "dilettante",
+          "tip": "A self-deprecating use can present yourself as a relaxed amateur rather than an expert."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · introducing a musical release",
+          "sentence": "The album is more than the work of a dilettante, with performances that reveal deep technical control.",
+          "highlight": "dilettante",
+          "tip": "It is effective in criticism, though it can be harsh if the writer’s standards are not clear."
+        }
+      ],
+      "origin": {
+        "summary": "From Italian dilettante, originally a beginner or amateur. The word comes from dilettare, ‘to delight’, but English use developed a more critical sense.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1700s",
+            "text": "The Italian form enters English, referring to an amateur or someone learning an activity for pleasure."
+          },
+          {
+            "when": "1800s",
+            "text": "The sense broadens to include someone who treats an activity casually rather than professionally."
+          },
+          {
+            "when": "Today",
+            "text": "It usually suggests an amateur whose knowledge or commitment is considered shallow."
+          }
+        ]
+      },
+      "similar": [
+        "amateur",
+        "beginner",
+        "novice",
+        "enthusiast"
+      ],
+      "opposite": "expert",
+      "pitfall": "Don’t use it for every beginner: it carries a stronger suggestion of superficiality or lack of commitment."
+    },
+    {
+      "id": "disheveled",
+      "kind": "word",
+      "term": "disheveled",
+      "pos": "adjective",
+      "phonetic": "/dɪˈʃɛvəld/",
+      "sayIt": "dish-EV-uhld",
+      "register": "Everyday",
+      "meaning": "Having hair, clothing, or an appearance that looks untidy and messy.",
+      "nuance": "It suggests someone looks as though they have been busy, hurried, or too tired to tidy up. It is usually informal and can sound more noticeable than simply messy.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · arriving in a hurry",
+          "sentence": "He looked disheveled after running across town to make the presentation.",
+          "highlight": "disheveled",
+          "tip": "Use it when untidiness is visible in someone’s appearance."
+        },
+        {
+          "setting": "social",
+          "where": "Coffee with friends · after a long walk",
+          "sentence": "We were both disheveled after the hike, so we stopped for coffee before going home.",
+          "highlight": "disheveled",
+          "tip": "It often describes clothes and hair that have become loose, creased, or tousled."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a colleague · explaining a delay",
+          "sentence": "I arrived disheveled because the train broke down, but I’m ready to begin.",
+          "highlight": "disheveled",
+          "tip": "It can explain a casual appearance without sounding judgmental."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from the older verb dishevel, meaning to untangle or let something hang loose, especially hair. Its modern sense developed toward describing an untidy appearance.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "The older form dishevel appears in English, referring to untangling or loosening hair or fabric."
+          },
+          {
+            "when": "1800s",
+            "text": "The adjective develops the sense of having an untidy or rumpled appearance."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes disorganized clothing, hair, or overall appearance."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "dishevel",
+          "label": "verb"
+        },
+        {
+          "term": "dishevelment",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "unkempt",
+        "messy",
+        "scruffy",
+        "rumpled",
+        "tousled"
+      ],
+      "opposite": "neat",
+      "pitfall": "Use disheveled for a visibly untidy appearance; it does not mean dirty or poorly behaved."
+    },
+    {
+      "id": "effrontery",
+      "kind": "word",
+      "term": "effrontery",
+      "pos": "noun",
+      "phonetic": "/ɪˈfrʌntəri/",
+      "sayIt": "ih-FRUN-ter-ee",
+      "register": "Formal",
+      "meaning": "Shameless behaviour that shows a lack of respect for other people or accepted rules.",
+      "nuance": "It is a strong, disapproving word, especially for conduct that is both bold and clearly inappropriate.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · challenging a decision",
+          "sentence": "It took real effrontery to ignore the policy and present the change as everyone’s idea.",
+          "highlight": "effrontery",
+          "tip": "Use it for brazen conduct, not simply for giving someone uncomfortable feedback."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · an unwelcome guest",
+          "sentence": "Her effrontery in turning up uninvited left the whole room speechless.",
+          "highlight": "effrontery",
+          "tip": "A formal alternative to describing someone as rude, cheeky or pushy."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · condemning dishonest behaviour",
+          "sentence": "The company’s decision to blame the contractor was an act of effrontery.",
+          "highlight": "effrontery",
+          "tip": "Works well in serious commentary when you want to condemn knowingly disrespectful conduct."
+        }
+      ],
+      "origin": {
+        "summary": "From French effrontement, meaning shamelessness or brazenness. Its roots connect the word with facing or braving something and then with the forehead as a symbol of impudence.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "The French word effrontement comes into use for shameless behaviour."
+          },
+          {
+            "when": "Late 1500s",
+            "text": "Effrontery enters English in the sense of bold or shameless conduct."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly formal and strongly disapproving."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "effronterous",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "impudence",
+        "audacity",
+        "brazenness",
+        "presumption",
+        "impudicity"
+      ],
+      "opposite": "deference",
+      "pitfall": "Effrontery describes shameless, inappropriate behaviour; it does not simply mean boldness or confidence."
+    },
+    {
+      "id": "egotist",
+      "kind": "word",
+      "term": "egotist",
+      "pos": "noun",
+      "phonetic": "/ˈiːɡətɪst/",
+      "sayIt": "EE-go-tist",
+      "register": "Common at work",
+      "meaning": "Someone who is overly focused on their own achievements, importance, or superiority.",
+      "nuance": "The word is strongly negative and implies that the person is self-centred and difficult to work with. It describes a pattern of behaviour rather than ordinary confidence.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team review · sharing credit",
+          "sentence": "Calling him an egotist would start another argument; we need to focus on the missed deadline.",
+          "highlight": "egotist",
+          "tip": "Use it for persistent self-importance, not someone who simply takes pride in good work."
+        },
+        {
+          "setting": "social",
+          "where": "Group dinner · retelling a story",
+          "sentence": "He turned the dinner into a showcase for himself, leaving everyone else speechless.",
+          "highlight": "he",
+          "tip": "If you are not labelling the person directly, describe the behaviour instead."
+        },
+        {
+          "setting": "writing",
+          "where": "Feedback email · rejecting self-promotion",
+          "sentence": "His pitch sounded less like a proposal and more like a declaration that he was the only expert.",
+          "highlight": "the only expert",
+          "tip": "Choose a specific example of self-centred behaviour so the criticism feels fair and clear."
+        }
+      ],
+      "origin": {
+        "summary": "Built from ego, meaning a sense of personal identity or importance, plus the suffix -ist, which denotes a person. The related word egotism appeared in English in the 1800s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Early 1800s",
+            "text": "The word ego becomes established in English for a strong sense of personal identity or self-importance."
+          },
+          {
+            "when": "Mid-1800s",
+            "text": "Egotism appears, followed by egotist for a person described by that quality."
+          },
+          {
+            "when": "Today",
+            "text": "Egotist is mainly a critical label for someone who is excessively self-centred."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "egotism",
+          "label": "noun"
+        },
+        {
+          "term": "egotistic",
+          "label": "adjective"
+        },
+        {
+          "term": "egotistically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "self-centred",
+        "conceited",
+        "narcissist",
+        "boastful",
+        "self-important"
+      ],
+      "opposite": "modest",
+      "pitfall": "An egotist is self-centred and excessively proud; an egoist can also refer to someone who prioritises their own interests without necessarily boasting."
+    },
+    {
+      "id": "emulate",
+      "kind": "word",
+      "term": "emulate",
+      "pos": "verb",
+      "phonetic": "/ˈemjuleɪt/",
+      "sayIt": "EM-yoo-layt",
+      "register": "Common at work",
+      "meaning": "To copy the behaviour, style or approach of someone you admire.",
+      "nuance": "Often implies trying to match someone’s success or qualities, not simply copying their appearance. It can sound positive when the model is respected.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Career mentoring · building good habits",
+          "sentence": "I try to emulate her calm approach to difficult meetings.",
+          "highlight": "emulate",
+          "tip": "Use it when someone has become a model for your own professional behaviour."
+        },
+        {
+          "setting": "social",
+          "where": "Cooking with friends · trying a new dish",
+          "sentence": "We decided to emulate the restaurant and make our own pizza at home.",
+          "highlight": "emulate",
+          "tip": "It works for adopting the distinctive style or method of another person or group."
+        },
+        {
+          "setting": "writing",
+          "where": "Product review · explaining a design",
+          "sentence": "The app emulates a traditional filing system while making it easier to search.",
+          "highlight": "emulates",
+          "tip": "A polished alternative to ‘copies’ when describing how something resembles another thing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin emulari, meaning ‘to rival or compete with’, and originally implied trying to match or surpass someone.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "emulari, ‘to rival or compete with’, from a root associated with rivalry."
+          },
+          {
+            "when": "1600s",
+            "text": "Enters English with the sense of competing with or copying someone."
+          },
+          {
+            "when": "Today",
+            "text": "Mainly means copying the behaviour, style or approach of a respected model."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "emulation",
+          "label": "noun"
+        },
+        {
+          "term": "emulator",
+          "label": "noun"
+        },
+        {
+          "term": "emulated",
+          "label": "past tense"
+        }
+      ],
+      "similar": [
+        "imitate",
+        "model",
+        "match",
+        "follow the example of"
+      ],
+      "opposite": "diverge from",
+      "pitfall": "Emulate usually suggests learning from or matching someone you admire; use ‘mimic’ when the focus is superficial copying or mockery."
+    },
+    {
+      "id": "energetic",
+      "kind": "word",
+      "term": "energetic",
+      "pos": "adjective",
+      "phonetic": "/ˌenəˈdʒetɪk/",
+      "sayIt": "en-ER-JET-ik",
+      "register": "Common at work",
+      "meaning": "Full of energy, enthusiasm, and lively activity.",
+      "nuance": "It describes both physical vitality and an enthusiastic, energetic manner. It is generally positive, but can sometimes suggest someone is unusually restless or intense.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · starting a new project",
+          "sentence": "Our energetic team is ready to tackle the launch this week.",
+          "highlight": "energetic",
+          "tip": "Use it to describe a team’s lively, enthusiastic approach to a task."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans · meeting friends",
+          "sentence": "After work, I felt energetic and suggested we try the new climbing gym.",
+          "highlight": "energetic",
+          "tip": "It works when you want to show that you have plenty of energy and enthusiasm."
+        },
+        {
+          "setting": "writing",
+          "where": "Event proposal · introducing a speaker",
+          "sentence": "Her energetic presentation kept the audience engaged from start to finish.",
+          "highlight": "energetic",
+          "tip": "Pair it with qualities such as enthusiastic, lively, or dynamic for a stronger description."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek energētos, meaning ‘active’ or ‘powerful’, based on energein, ‘to put into motion’ or ‘work’. It entered English in the 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "Energētos means ‘active, powerful, or full of energy’, from energein, ‘to put into motion’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in the sense of powerful, active, or vigorous."
+          },
+          {
+            "when": "Today",
+            "text": "It most often describes people, activities, and events that are lively and full of enthusiasm."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "energy",
+          "label": "noun"
+        },
+        {
+          "term": "energize",
+          "label": "verb"
+        },
+        {
+          "term": "energetically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "lively",
+        "dynamic",
+        "vigorous",
+        "enthusiastic"
+      ],
+      "opposite": "lethargic",
+      "pitfall": "Energetic describes someone or something full of energy; energized more often means that energy has just been given or regained."
+    },
+    {
+      "id": "exacting",
+      "kind": "word",
+      "term": "exacting",
+      "pos": "adjective",
+      "phonetic": "/ɪɡˈzæktɪŋ/",
+      "sayIt": "ig-ZAK-ting",
+      "register": "Common at work and in formal writing",
+      "meaning": "Demanding precise results, high standards, or careful attention to detail.",
+      "nuance": "It can be a compliment when describing high standards, but it may sound critical or difficult to please when describing a person.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · checking quality",
+          "sentence": "The client is exacting about the final design and expects every detail to be perfect.",
+          "highlight": "exacting",
+          "tip": "Useful when explaining why someone needs careful work rather than a quick approximation."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · planning a trip",
+          "sentence": "She’s exacting about restaurant choices, so we should book somewhere we know she likes.",
+          "highlight": "exacting",
+          "tip": "In social settings, it often suggests that someone is fussy or hard to satisfy."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · describing a manager",
+          "sentence": "His exacting standards raised the quality of the team, although some colleagues found him demanding.",
+          "highlight": "exacting",
+          "tip": "Pair it with standards, attention to detail, or demands to keep the meaning clear."
+        }
+      ],
+      "origin": {
+        "summary": "Formed in the 1600s from exact and the ending -ing, originally meaning precise or strict.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "The word appears as a form of exact, with meanings including precise and strict."
+          },
+          {
+            "when": "1800s",
+            "text": "It develops the modern sense of demanding high standards or careful treatment."
+          },
+          {
+            "when": "Today",
+            "text": "It describes both exacting standards and, sometimes, exacting people."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "exactly",
+          "label": "adverb"
+        },
+        {
+          "term": "exactness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "demanding",
+        "meticulous",
+        "precise",
+        "fussy"
+      ],
+      "opposite": "lenient",
+      "pitfall": "Exacting describes a high standard of quality; it does not simply mean mathematically exact."
+    },
+    {
+      "id": "fastidious",
+      "kind": "word",
+      "term": "fastidious",
+      "pos": "adjective",
+      "phonetic": "/fæˈstɪdiəs/",
+      "sayIt": "fa-STID-ee-us",
+      "register": "Common at work",
+      "meaning": "Very careful about details, accuracy and doing things properly.",
+      "nuance": "Often describes thorough work or a careful attitude, but can imply that someone is difficult to please.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · checking final details",
+          "sentence": "She is fastidious about presentation, so every slide is checked twice before the meeting.",
+          "highlight": "fastidious",
+          "tip": "A flattering way to praise someone’s careful attention to detail."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · describing a host",
+          "sentence": "Our host is fastidious: every glass has a perfectly aligned napkin beside it.",
+          "highlight": "fastidious",
+          "tip": "Use it for careful habits, though the context may suggest excessive fussiness."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · describing an employee",
+          "sentence": "His fastidious approach to research made the final report reliable and easy to follow.",
+          "highlight": "fastidious",
+          "tip": "It works well before approach, attention, care or concern."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin fastidiosus, meaning ‘disdainful’ or ‘hard to please’, originally connected with dislike or aversion.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Fastidiosus develops from fastidium, meaning ‘dislike’ or ‘aversion’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English with meanings connected with being hard to please."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes someone who is exceptionally careful about details."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "fastidiousness",
+          "label": "noun"
+        },
+        {
+          "term": "fastidiously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "meticulous",
+        "scrupulous",
+        "thorough",
+        "fussy"
+      ],
+      "opposite": "careless",
+      "pitfall": "Fastidious usually means carefully exact; it can sound more critical than meticulous when it describes a difficult person."
+    },
+    {
+      "id": "flamboyant",
+      "kind": "word",
+      "term": "flamboyant",
+      "pos": "adjective",
+      "phonetic": "/flæmˈbɔɪənt/",
+      "sayIt": "flam-BOY-unt",
+      "register": "Common at work and in social settings",
+      "meaning": "Bright, dramatic, and deliberately noticeable, especially in style or behaviour.",
+      "nuance": "It can celebrate confident self-expression, but it can also suggest showing off or wanting all the attention.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team presentation · announcing a campaign",
+          "sentence": "Her flamboyant launch presentation won attention, though some colleagues thought it overwhelmed the product.",
+          "highlight": "flamboyant",
+          "tip": "Use it for style that is bold and visually striking, not simply for any exciting event."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception · describing an outfit",
+          "sentence": "He wore a flamboyant red suit that immediately set him apart from the guests.",
+          "highlight": "flamboyant",
+          "tip": "A natural word for colourful clothes, dramatic gestures or an extravagant entrance."
+        },
+        {
+          "setting": "writing",
+          "where": "Event review · describing the atmosphere",
+          "sentence": "The evening was flamboyant, with sequined costumes, loud music and a cake taller than the table.",
+          "highlight": "flamboyant",
+          "tip": "It adds a vivid impression when a scene is rich in colour, theatre or excess."
+        }
+      ],
+      "origin": {
+        "summary": "From French flamboyant, meaning ‘flaming’ or ‘flashing’, originally referring to a flame-like decorative style.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "French",
+            "text": "Developed from flamboyer, ‘to blaze or flourish’, with an earlier connection to flamme, ‘flame’."
+          },
+          {
+            "when": "1800s",
+            "text": "Entered English, first describing vivid flame-like forms in art and decoration."
+          },
+          {
+            "when": "1900s",
+            "text": "Expanded to describe people, behaviour and styles that attract attention through drama or boldness."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "flamboyance",
+          "label": "noun"
+        },
+        {
+          "term": "flamboyantly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "ostentatious",
+        "showy",
+        "extravagant",
+        "theatrical",
+        "gaudy"
+      ],
+      "opposite": "understated",
+      "pitfall": "Flamboyant describes something deliberately bold or showy; it does not merely mean colourful or attractive."
+    },
+    {
+      "id": "fledgling",
+      "kind": "word",
+      "term": "fledgling",
+      "pos": "noun",
+      "phonetic": "/ˈflɛdʒlɪŋ/",
+      "sayIt": "FLEDJ-ling",
+      "register": "Common at work",
+      "meaning": "A fledgling is a young or inexperienced person who is beginning to develop their skills.",
+      "nuance": "It often suggests that someone has promise but still has much to learn. It can also refer to a new bird that has not yet learned to fly.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · introducing a new colleague",
+          "sentence": "As a fledgling developer, Maya is still learning how our release process works.",
+          "highlight": "fledgling",
+          "tip": "Use it for someone who is new and developing, but avoid making them sound incapable."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception · introducing a relative",
+          "sentence": "My nephew is a fledgling photographer, and he brought a whole album of his work.",
+          "highlight": "fledgling",
+          "tip": "It can be affectionate when you want to acknowledge someone’s early interest in an activity."
+        },
+        {
+          "setting": "writing",
+          "where": "Company newsletter · staff announcement",
+          "sentence": "We welcomed three fledgling managers who will be working with experienced leaders this year.",
+          "highlight": "fledgling",
+          "tip": "Choose it when the person is genuinely new; for a more neutral label, say ‘new’ or ‘junior’."
+        }
+      ],
+      "origin": {
+        "summary": "The word originally described a young bird that has left the nest but cannot yet fly. It later became a metaphor for anyone who is new and still developing.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Used for a young bird that is beginning to grow its feathers and learn to fly."
+          },
+          {
+            "when": "19th century",
+            "text": "The figurative sense began to describe inexperienced people developing their skills."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly means someone new to a profession, activity or responsibility."
+          }
+        ]
+      },
+      "similar": [
+        "beginner",
+        "novice",
+        "newcomer",
+        "rookie"
+      ],
+      "opposite": "veteran",
+      "pitfall": "It usually emphasizes early development, so it may sound condescending if used to describe an experienced professional."
+    },
+    {
+      "id": "flippant",
+      "kind": "word",
+      "term": "flippant",
+      "pos": "adjective",
+      "phonetic": "/ˈflɪpənt/",
+      "sayIt": "FLIP-uhnt",
+      "register": "Common at work",
+      "meaning": "Showing a lack of seriousness or respect for something important.",
+      "nuance": "It describes behaviour or speech that is careless, playful, or lightly dismissive when a serious response is needed. It can also suggest someone is trying to avoid taking responsibility.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Safety briefing · discussing a serious risk",
+          "sentence": "His flippant reply during the safety briefing made everyone take the risk less seriously.",
+          "highlight": "flippant",
+          "tip": "Use it to criticise casual or dismissive behaviour in a serious situation."
+        },
+        {
+          "setting": "social",
+          "where": "Friendship · responding to a personal problem",
+          "sentence": "Don't be flippant when she explains why she needs another week.",
+          "highlight": "flippant",
+          "tip": "It can sound harsh, so reserve it for behaviour that genuinely shows a lack of concern."
+        },
+        {
+          "setting": "writing",
+          "where": "Campaign review · financial warning message",
+          "sentence": "The campaign draft was too flippant for a message about serious financial harm.",
+          "highlight": "flippant",
+          "tip": "A useful editorial label when a serious topic is treated with an unsuitable joking tone."
+        }
+      ],
+      "origin": {
+        "summary": "Formed in early 19th-century English from flip, associated with turning or moving lightly, and the suffix -ant. Its modern sense developed from the idea of treating something with careless ease.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English had the word flip for quick turns and light, careless movement."
+          },
+          {
+            "when": "Early 1800s",
+            "text": "Flippant enters English, initially with meanings connected with quick movement and talkativeness."
+          },
+          {
+            "when": "Late 1800s",
+            "text": "The modern sense develops: lacking seriousness or treating important matters too lightly."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "flippancy",
+          "label": "noun"
+        },
+        {
+          "term": "flippantly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "careless",
+        "disrespectful",
+        "glib",
+        "frivolous"
+      ],
+      "opposite": "serious",
+      "pitfall": "Flippant usually implies a lack of seriousness or respect; frivolous focuses more on being pointless or not worth serious attention."
+    },
+    {
+      "id": "forthright",
+      "kind": "word",
+      "term": "forthright",
+      "pos": "adjective",
+      "phonetic": "/ˈfɔːrθraɪt/",
+      "sayIt": "FORTH-right",
+      "register": "Common at work",
+      "meaning": "Honest and direct in expressing thoughts, feelings, or opinions without hiding them.",
+      "nuance": "It suggests frankness and clarity without necessarily implying rudeness. It often works well when someone appreciates candour but still wants the message delivered respectfully.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing growth",
+          "sentence": "She was forthright about her strengths and asked directly for clearer promotion criteria.",
+          "highlight": "forthright",
+          "tip": "Use it to describe honest communication, especially when directness is valued."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · disagreeing politely",
+          "sentence": "I appreciated his forthright answer even though it was not the response I hoped for.",
+          "highlight": "forthright",
+          "tip": "It can praise someone’s honesty while acknowledging that the truth may be uncomfortable."
+        },
+        {
+          "setting": "writing",
+          "where": "Feedback email · raising a concern",
+          "sentence": "We need a forthright explanation of why the deadline was missed and what changes will prevent it happening again.",
+          "highlight": "forthright",
+          "tip": "It adds a note of directness and seriousness to a request for a clear account."
+        }
+      ],
+      "origin": {
+        "summary": "Formed in English from forth and right, combining ideas of moving forward and taking the straight or correct course.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "The word begins appearing in English with senses connected with going straight forward or taking a direct course."
+          },
+          {
+            "when": "1600s",
+            "text": "It develops the modern sense of being direct and honest in speech or behaviour."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes frank communication, sometimes with the added sense of being direct to the point of bluntness."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "forthrightly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "frank",
+        "candid",
+        "direct",
+        "outspoken",
+        "straightforward"
+      ],
+      "opposite": "guarded",
+      "pitfall": "Forthright describes honest and direct communication; straightforward more often describes a clear, uncomplicated action or method."
+    },
+    {
+      "id": "fractious",
+      "kind": "word",
+      "term": "fractious",
+      "pos": "adjective",
+      "phonetic": "/ˈfræk.ʃəs/",
+      "sayIt": "FRAK-shus",
+      "register": "Everyday",
+      "meaning": "Easily annoyed and quick to become argumentative or disruptive.",
+      "nuance": "It describes someone whose mood leads to fussing, quarrels or restless behaviour. It is often mildly critical rather than a severe insult.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · resolving a delay",
+          "sentence": "The project became fractious when two departments blamed each other for the missed deadline.",
+          "highlight": "fractious",
+          "tip": "Use it for a group or situation that becomes tense and argumentative."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · seating guests",
+          "sentence": "Our host gets fractious if anyone questions his choice of wine.",
+          "highlight": "fractious",
+          "tip": "It fits informal descriptions of people who become irritable over small things."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing a committee",
+          "sentence": "The committee was fractious, splitting into factions over every proposal.",
+          "highlight": "fractious",
+          "tip": "Pair it with group, meeting, debate or committee for a polished, slightly formal tone."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin fractiosus, connected with frangere, meaning ‘to break’. It originally conveyed the idea of being prone to break or split.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Fractiosus develops from frangere, ‘to break’, with the sense of being likely to break or cause division."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English and is used for people or groups described as unruly or inclined to quarrel."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means easily annoyed, argumentative or disruptive."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "fractiously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "quarrelsome",
+        "irritable",
+        "contentious",
+        "restless"
+      ],
+      "opposite": "placid",
+      "pitfall": "Do not confuse it with ‘fractal’, which describes a repeating mathematical pattern."
+    },
+    {
+      "id": "frenetic",
+      "kind": "word",
+      "term": "frenetic",
+      "pos": "adjective",
+      "phonetic": "/frəˈnɛtɪk/",
+      "sayIt": "fruh-NET-ik",
+      "register": "Common at work",
+      "meaning": "Full of frantic energy, activity or excitement.",
+      "nuance": "It suggests movement, pressure and a lack of calm. It can describe a busy period, a busy person or something happening at great speed.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project launch · final-hour changes",
+          "sentence": "The last two days were frenetic as we fixed bugs and prepared the launch announcement.",
+          "highlight": "frenetic",
+          "tip": "Use it for intense, fast-moving periods when normal work feels unusually rushed."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception · dancing",
+          "sentence": "The dance floor was frenetic once the band started playing.",
+          "highlight": "frenetic",
+          "tip": "It adds vivid energy to descriptions of parties, crowds or celebrations."
+        },
+        {
+          "setting": "writing",
+          "where": "Event report · describing the finale",
+          "sentence": "The concert ended with a frenetic encore that left the audience exhausted.",
+          "highlight": "frenetic",
+          "tip": "Pair it with pace, activity or excitement to make a description more forceful."
+        }
+      ],
+      "origin": {
+        "summary": "From French frénétique, from Greek phrenetikos, meaning 'mad, delirious', related to phrenē, 'mind'.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "The root phrenē meant 'mind', and phrenetikos described a person in a state of delirium or madness."
+          },
+          {
+            "when": "French",
+            "text": "Frénétique developed the meaning 'wildly excited or energetic'."
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered English, initially in medical contexts involving fever or delirium."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes activity, movement or excitement at high speed."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "frenetically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "frantic",
+        "hectic",
+        "chaotic",
+        "feverish"
+      ],
+      "opposite": "calm",
+      "pitfall": "Frenetic usually means intensely busy or energetic; it does not simply mean nervous."
+    },
+    {
+      "id": "frivolous",
+      "kind": "word",
+      "term": "frivolous",
+      "pos": "adjective",
+      "phonetic": "/ˈfrɪvələs/",
+      "sayIt": "FRIV-uh-lus",
+      "register": "Common at work",
+      "meaning": "Not serious, important, or useful, especially when treated as fun or worthwhile.",
+      "nuance": "It suggests that something lacks purpose or real value. It can describe behaviour, activities, expenses or arguments.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget review · cutting costs",
+          "sentence": "The team cancelled the frivolous party and put the money toward staff training.",
+          "highlight": "frivolous",
+          "tip": "Use it for spending or activities that seem unnecessary rather than merely inexpensive."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · weekend plans",
+          "sentence": "I didn’t want to turn the evening into a frivolous debate, so we changed the subject.",
+          "highlight": "frivolous",
+          "tip": "It can sound critical, especially when you disagree with how someone is spending time."
+        },
+        {
+          "setting": "writing",
+          "where": "Complaint email · distracting meeting",
+          "sentence": "Your report mixes several serious findings with a few frivolous comments that should be removed.",
+          "highlight": "frivolous",
+          "tip": "It adds a firm, slightly formal note of criticism to an argument or piece of writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin frivolus, meaning ‘worthless’ or ‘silly’, and later related to French frivole.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "frivolus develops from roots associated with a worthless thing and foolish behaviour."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English through French and means silly, empty or of little value."
+          },
+          {
+            "when": "Today",
+            "text": "It describes things considered unserious, unimportant or lacking useful purpose."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "frivolity",
+          "label": "noun"
+        },
+        {
+          "term": "frivolously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "trivial",
+        "silly",
+        "petty",
+        "trifling"
+      ],
+      "opposite": "serious",
+      "pitfall": "Frivolous means lacking seriousness or purpose; it does not simply mean funny or playful."
+    }
+  ]
+}

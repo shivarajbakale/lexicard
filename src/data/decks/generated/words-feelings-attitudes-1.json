@@ -1,0 +1,1777 @@
+{
+  "id": "words-feelings-attitudes-1",
+  "kind": "word",
+  "name": "Feelings & attitudes · 1",
+  "blurb": "25 words about feelings & attitudes",
+  "cards": [
+    {
+      "id": "abhorrent",
+      "kind": "word",
+      "term": "abhorrent",
+      "pos": "adjective",
+      "phonetic": "/əbˈhɔːrənt/",
+      "sayIt": "ab-HOR-uhnt",
+      "register": "Formal",
+      "meaning": "Deeply hateful or disgusting to someone.",
+      "nuance": "It expresses strong moral or emotional revulsion and sounds more forceful and formal than words like “awful” or “dreadful.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · unethical conduct",
+          "sentence": "The committee described the company’s treatment of workers as abhorrent.",
+          "highlight": "abhorrent",
+          "tip": "Use it when you want to condemn an action or practice clearly and formally."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · reacting to cruelty",
+          "sentence": "She found the idea of attacking someone for their accent utterly abhorrent.",
+          "highlight": "abhorrent",
+          "tip": "It works in serious conversation, but may sound unusually strong in casual talk."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · condemning discrimination",
+          "sentence": "The report condemns the abhorrent practice of denying children access to education.",
+          "highlight": "abhorrent",
+          "tip": "A useful formal adjective for moral condemnation in essays, reports and opinion writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin abhorrere, formed from ab-, meaning “away from”, and horrere, meaning “to shudder”.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Abhorrere originally meant “to shudder at” or “to shrink away from” something."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with the sense of regarding something with intense disgust."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used as a formal adjective meaning deeply hateful or disgusting."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "abhorrence",
+          "label": "noun"
+        },
+        {
+          "term": "abhor",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "detestable",
+        "odious",
+        "revolting",
+        "loathsome"
+      ],
+      "pitfall": "“Abhorrent” is an adjective; use “abhorrence” for the noun and “abhor” for the verb."
+    },
+    {
+      "id": "afflict",
+      "kind": "word",
+      "term": "afflict",
+      "pos": "verb",
+      "phonetic": "/əˈflɪkt/",
+      "sayIt": "uh-FLIKT",
+      "register": "Formal",
+      "meaning": "To cause someone pain, hardship, or serious trouble.",
+      "nuance": "Usually suggests suffering that is persistent or difficult to escape. It is more forceful and formal than “trouble” or “harm.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · workload concerns",
+          "sentence": "Understaffing may afflict the support team during the busiest months.",
+          "highlight": "afflict",
+          "tip": "Use it for serious problems that seriously affect people or operations."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · lasting worry",
+          "sentence": "The uncertainty has continued to afflict the whole family for months.",
+          "highlight": "afflict",
+          "tip": "This sounds formal and emotional, so it suits serious hardship rather than minor annoyance."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · social impact",
+          "sentence": "Housing costs continue to afflict low-income households across the region.",
+          "highlight": "afflict",
+          "tip": "It adds a serious tone when describing a persistent problem affecting a group."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French affliquer, based on Latin affligere, meaning “to strike down.” English later developed the sense of causing suffering.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Affligere combines a prefix meaning “toward” with fligere, “to strike down or defeat.”"
+          },
+          {
+            "when": "1300s",
+            "text": "The word enters Middle English through Old French affliquer."
+          },
+          {
+            "when": "1600s onward",
+            "text": "Its use expands to describe persistent pain, hardship, or trouble."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "affliction",
+          "label": "noun"
+        },
+        {
+          "term": "afflicted",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "trouble",
+        "plague",
+        "beset",
+        "torment"
+      ],
+      "opposite": "comfort",
+      "pitfall": "Do not confuse it with “affect,” which can mean any kind of influence; “afflict” is more formal and usually implies serious suffering."
+    },
+    {
+      "id": "alacrity",
+      "kind": "word",
+      "term": "alacrity",
+      "pos": "noun",
+      "phonetic": "/əˈlækrəti/",
+      "sayIt": "uh-LAK-rih-tee",
+      "register": "Formal",
+      "meaning": "Brisk and eager willingness to act or respond.",
+      "nuance": "It suggests readiness, speed and enthusiasm rather than mere obligation. It is more literary than everyday words such as “eagerness” or “willingness.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · taking on a task",
+          "sentence": "She accepted the extra assignment with surprising alacrity, despite the short deadline.",
+          "highlight": "alacrity",
+          "tip": "Use it when someone responds quickly and willingly, especially in a formal report."
+        },
+        {
+          "setting": "social",
+          "where": "Friends gathering · sudden plan change",
+          "sentence": "To my relief, everyone showed alacrity when we decided to meet earlier for dinner.",
+          "highlight": "alacrity",
+          "tip": "It adds a polished tone when describing an unexpectedly enthusiastic response."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · noting initiative",
+          "sentence": "He accepted responsibility for the difficult project with alacrity and completed it ahead of schedule.",
+          "highlight": "alacrity",
+          "tip": "It works well in formal writing about initiative, responsiveness and willingness."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin alacritas, meaning “readiness” or “eagerness,” based on alacer, meaning “brisk” or “lively.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Medieval Latin",
+            "text": "Alacritas develops from alacer, meaning brisk, lively or ready to act."
+          },
+          {
+            "when": "1400s",
+            "text": "The word enters English in the sense of briskness or readiness to act."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal word for eager, prompt willingness."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "alacritous",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "eagerness",
+        "readiness",
+        "promptness",
+        "enthusiasm",
+        "willingness"
+      ],
+      "opposite": "reluctance",
+      "pitfall": "It describes a willingness to act quickly, not simply the ability to do something promptly."
+    },
+    {
+      "id": "allay",
+      "kind": "word",
+      "term": "allay",
+      "pos": "verb",
+      "phonetic": "/əˈleɪ/",
+      "sayIt": "uh-LAY",
+      "register": "Formal",
+      "meaning": "To reduce the intensity of fear, worry, pain, anger, or another difficult feeling.",
+      "nuance": "It is a slightly formal, often written word that suggests easing something rather than removing it completely.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · addressing concerns",
+          "sentence": "The clear explanation did little to allay the team’s worries about the deadline.",
+          "highlight": "allay",
+          "tip": "Common in careful workplace communication about anxiety, uncertainty, or concern."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation with a friend",
+          "sentence": "She tried to allay my embarrassment by changing the subject.",
+          "highlight": "allay",
+          "tip": "Use it for reducing a strong feeling such as embarrassment, fear, or frustration."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · responding to a complaint",
+          "sentence": "We hope the refund will allay the frustration the delay caused.",
+          "highlight": "allay",
+          "tip": "Often paired with anxiety, concerns, fears, doubt, or frustration."
+        }
+      ],
+      "origin": {
+        "summary": "Allay developed from Old English alegan, meaning ‘to put away or remove’, and was also influenced by Old French alayer, meaning ‘to calm’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "Its ancestor, alegan, meant ‘to put away, remove, or dissolve’."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word appeared in forms such as alayen, with meanings connected with putting something down and calming a feeling."
+          },
+          {
+            "when": "1500s onward",
+            "text": "It developed into its modern sense of reducing fear, worry, pain, or anger."
+          }
+        ]
+      },
+      "similar": [
+        "alleviate",
+        "assuage",
+        "ease",
+        "soothe",
+        "abate"
+      ],
+      "opposite": "intensify",
+      "pitfall": "Allay usually takes a feeling, worry, or symptom as its object; do not confuse it with obey."
+    },
+    {
+      "id": "altruistic",
+      "kind": "word",
+      "term": "altruistic",
+      "pos": "adjective",
+      "phonetic": "/ˌæl.truˈɪs.tɪk/",
+      "sayIt": "al-TROO-is-tik",
+      "register": "Common at work",
+      "meaning": "Showing concern for the needs and welfare of other people rather than your own.",
+      "nuance": "It often suggests a genuine desire to help, although the behaviour may also bring personal benefits.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing a colleague’s workload",
+          "sentence": "Her offer to take on the difficult client was genuinely altruistic.",
+          "highlight": "altruistic",
+          "tip": "Use it to describe action motivated by concern for someone else."
+        },
+        {
+          "setting": "social",
+          "where": "Community event · thanking a volunteer",
+          "sentence": "It was altruistic of him to spend his weekend helping at the shelter.",
+          "highlight": "altruistic",
+          "tip": "It fits naturally after an expression such as “it was … of you”."
+        },
+        {
+          "setting": "writing",
+          "where": "Donation letter · explaining support",
+          "sentence": "The company’s donation reflected an altruistic commitment to improving public healthcare.",
+          "highlight": "altruistic",
+          "tip": "Pairs well with motivation, gesture, action and commitment."
+        }
+      ],
+      "origin": {
+        "summary": "It comes from French and Italian words based on Latin alter, meaning ‘other’, and originally referred to the moral principle of putting others’ welfare first.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root alter means ‘other’."
+          },
+          {
+            "when": "1830s",
+            "text": "French altruiste and Italian altruismo develop as terms for selfless concern for others."
+          },
+          {
+            "when": "1830s",
+            "text": "The word enters English in philosophical and moral discussions."
+          },
+          {
+            "when": "Today",
+            "text": "It describes actions or motives understood as caring about other people."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "altruism",
+          "label": "noun"
+        },
+        {
+          "term": "altruist",
+          "label": "noun (person)"
+        },
+        {
+          "term": "altruistically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "selfless",
+        "charitable",
+        "philanthropic",
+        "considerate"
+      ],
+      "opposite": "selfish",
+      "pitfall": "Altruistic describes a motive or outlook; it does not automatically mean the person ignores practical consequences or their own wellbeing."
+    },
+    {
+      "id": "amorous",
+      "kind": "word",
+      "term": "amorous",
+      "pos": "adjective",
+      "phonetic": "/ˈæmərəs/",
+      "sayIt": "AM-uh-rus",
+      "register": "Formal or literary",
+      "meaning": "Showing romantic or sexual love toward someone.",
+      "nuance": "Often suggests a playful or enthusiastic romantic interest. The word can sound slightly old-fashioned, especially when describing intense feelings.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team social · introducing a colleague",
+          "sentence": "Her amorous messages about the new chef made everyone at the office smile.",
+          "highlight": "amorous",
+          "tip": "Usually refers to playful or openly romantic feelings rather than serious commitment."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · teasing a friend",
+          "sentence": "He wrote such an amorous note that she read it twice before hiding it.",
+          "highlight": "amorous",
+          "tip": "Use it for expressive love or flirtation, often in a humorous context."
+        },
+        {
+          "setting": "writing",
+          "where": "Romantic novel · describing a character",
+          "sentence": "She became suddenly amorous whenever the evening light caught his face.",
+          "highlight": "amorous",
+          "tip": "A literary choice that adds warmth or sensuality without directly naming the emotion."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin amorosus, meaning ‘full of love’, which developed from amor, ‘love’. The English form is well documented from the early 16th century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Amorosus is formed from amor, ‘love’, with a suffix meaning ‘full of’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with meanings connected with love and sexual affection."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal or literary English."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "amorously",
+          "label": "adverb"
+        },
+        {
+          "term": "amorousness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "romantic",
+        "affectionate",
+        "loving",
+        "passionate"
+      ],
+      "opposite": "indifferent",
+      "pitfall": "Do not confuse amorous with amoral, which means morally wrong or lacking moral principles."
+    },
+    {
+      "id": "anathema",
+      "kind": "word",
+      "term": "anathema",
+      "pos": "noun",
+      "phonetic": "/əˈnæθəmə/",
+      "sayIt": "uh-NATH-uh-muh",
+      "register": "Formal",
+      "meaning": "Something regarded with intense hatred, disgust, or condemnation.",
+      "nuance": "Stronger and more dramatic than “disliked” or “objectionable.” It is often used in formal or literary speech and may refer to a person, policy, or practice.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · rejecting a policy",
+          "sentence": "For some staff, mandatory overtime is an anathema, so we should offer more flexible scheduling.",
+          "highlight": "anathema",
+          "tip": "Use it for a choice or practice that inspires strong opposition."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · bad service",
+          "sentence": "Cold food and an apology from the manager were an anathema to her.",
+          "highlight": "anathema",
+          "tip": "It adds theatrical emphasis, so reserve it for strong reactions."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · opposing a proposal",
+          "sentence": "The proposal has become an anathema among local residents.",
+          "highlight": "anathema",
+          "tip": "It sounds forceful in an opinion piece but may sound overheated in a neutral report."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek anathema, literally a thing dedicated or offered, which came to mean a curse or solemn condemnation. English borrowed it through late Latin and biblical usage.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "Anathema originally meant an offering dedicated to a deity."
+          },
+          {
+            "when": "Biblical Greek",
+            "text": "The word develops the sense of a curse or condemnation."
+          },
+          {
+            "when": "1500s",
+            "text": "It enters English through religious and scholarly writing."
+          },
+          {
+            "when": "Today",
+            "text": "It means something intensely hated or condemned."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "anathematize",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "abomination",
+        "horror",
+        "curse",
+        "loathing"
+      ],
+      "opposite": "blessing",
+      "pitfall": "This is a formal, emphatic word, not a neutral substitute for “disagreement.”"
+    },
+    {
+      "id": "antipathy",
+      "kind": "word",
+      "term": "antipathy",
+      "pos": "noun",
+      "phonetic": "/ænˈtɪpəθi/",
+      "sayIt": "an-TIP-uh-thee",
+      "register": "Formal",
+      "meaning": "A strong feeling of dislike or opposition toward someone or something.",
+      "nuance": "It suggests a deep, settled dislike rather than mild irritation. It is often used in serious discussion, especially when describing political, social or personal conflicts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · resolving friction",
+          "sentence": "Her antipathy toward rigid reporting slowed down our efforts to agree on a better process.",
+          "highlight": "antipathy",
+          "tip": "Use it for a strong, persistent dislike rather than a passing annoyance."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · differing values",
+          "sentence": "He has an obvious antipathy to social media, so he rarely discusses what he sees online.",
+          "highlight": "antipathy",
+          "tip": "This formal word can add weight to a strong personal or political position."
+        },
+        {
+          "setting": "writing",
+          "where": "Commentary · analysing public debate",
+          "sentence": "The campaign attracted strong antipathy because many voters distrusted its promises.",
+          "highlight": "antipathy",
+          "tip": "It works well in serious analysis, but consider whether simpler wording would suit the audience."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek antipatheia, combining anti- ‘against’ with pathos ‘feeling’, originally meaning opposition or hostility.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "Antipatheia develops from anti- ‘against’ and pathos ‘feeling’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with the sense of hostility or opposition."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal noun for strong dislike or opposition."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "antipathetic",
+          "label": "adjective"
+        },
+        {
+          "term": "antipathist",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "aversion",
+        "hostility",
+        "dislike",
+        "distaste",
+        "repugnance"
+      ],
+      "opposite": "affinity",
+      "pitfall": "Antipathy is stronger than simple dislike. Do not confuse it with apathy, which means a lack of interest or concern."
+    },
+    {
+      "id": "apathetic",
+      "kind": "word",
+      "term": "apathetic",
+      "pos": "adjective",
+      "phonetic": "/ˌæpəˈθetɪk/",
+      "sayIt": "AP-uh-THET-ik",
+      "register": "Common at work",
+      "meaning": "Showing little interest, concern or enthusiasm about something that normally matters.",
+      "nuance": "It suggests a lack of motivation or emotional engagement, often with a mildly critical tone. It is stronger and more negative than simply being uninterested.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing low engagement",
+          "sentence": "The response was apathetic, so we changed the plan and asked for more specific feedback.",
+          "highlight": "apathetic",
+          "tip": "Use it for behaviour that seems passive or disconnected rather than simply cautious."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a party · getting no replies",
+          "sentence": "Everyone was so apathetic about the party that we cancelled it and stayed in instead.",
+          "highlight": "apathetic",
+          "tip": "A natural way to describe a shared lack of enthusiasm without blaming one person."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · engagement concerns",
+          "sentence": "Attendance declined after the reorganisation, and apathetic responses to team updates became a concern.",
+          "highlight": "apathetic",
+          "tip": "Keep it factual in formal writing, especially when you are describing observable behaviour."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek apatheia, meaning a lack of feeling, and apathetikos, meaning unaffected or indifferent. English borrowed it through Latin and French.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Apatheia forms from apatheia, ‘lack of feeling’, built on pathos, ‘feeling’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in medical and philosophical writing about the absence of feeling."
+          },
+          {
+            "when": "1800s",
+            "text": "It develops its modern sense of showing little interest or enthusiasm."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "apathy",
+          "label": "noun"
+        },
+        {
+          "term": "apathetically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "indifferent",
+        "unenthusiastic",
+        "disinterested",
+        "listless",
+        "detached"
+      ],
+      "opposite": "enthusiastic",
+      "pitfall": "Apathetic is stronger than indifferent: it often suggests failing to care or take action, not merely having no preference."
+    },
+    {
+      "id": "apathy",
+      "kind": "word",
+      "term": "apathy",
+      "pos": "noun",
+      "phonetic": "/ˈæpəθi/",
+      "sayIt": "AP-uh-thee",
+      "register": "Everyday",
+      "meaning": "A lack of interest, enthusiasm, or concern about something that normally matters.",
+      "nuance": "It suggests emotional indifference or passive disengagement, rather than active disagreement. It can describe one person, a group, or a wider social attitude.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · proposing a new idea",
+          "sentence": "There was noticeable apathy about the new project, so we paused to ask what had gone wrong.",
+          "highlight": "apathy",
+          "tip": "Use it when a group shows little interest, but explain the cause if you can."
+        },
+        {
+          "setting": "social",
+          "where": "Community event · low attendance",
+          "sentence": "Her apathy about the neighbourhood cleanup surprised everyone who knew how much she cared earlier.",
+          "highlight": "apathy",
+          "tip": "Use it to describe withdrawn or indifferent behaviour without directly criticising the person."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · declining participation",
+          "sentence": "The report attributes the decline in participation to voter apathy rather than practical barriers.",
+          "highlight": "apathy",
+          "tip": "Pair it with about, toward or towards when naming what people seem indifferent to."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek apatheia, meaning lack of feeling, built on apathes, ‘without feeling or passion’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Apatheia originally referred to a state without feeling or emotional excitement."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English and is also used in medical and philosophical contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes a lack of interest, concern or motivation."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "apathetic",
+          "label": "adjective"
+        },
+        {
+          "term": "apathetically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "indifference",
+        "disinterest",
+        "listlessness",
+        "complacency"
+      ],
+      "opposite": "enthusiasm",
+      "pitfall": "Apathy is not the same as apathy toward something specific in every context; make clear what people appear indifferent to."
+    },
+    {
+      "id": "appalled",
+      "kind": "word",
+      "term": "appalled",
+      "pos": "adjective",
+      "phonetic": "/əˈpɔːld/",
+      "sayIt": "uh-PAWLD",
+      "register": "Everyday",
+      "meaning": "Deeply shocked and horrified by something unpleasant or wrong.",
+      "nuance": "It describes a strong emotional reaction, especially when a person feels that something is shocking, unjust or offensive.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · hearing a safety concern",
+          "sentence": "We were appalled to hear that the warning signs had been removed from the equipment.",
+          "highlight": "appalled",
+          "tip": "Use it for a serious reaction, not for mild surprise."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · a news story",
+          "sentence": "Everyone at the table was appalled by how the animals had been treated.",
+          "highlight": "appalled",
+          "tip": "It works well when expressing moral outrage or intense shock."
+        },
+        {
+          "setting": "writing",
+          "where": "Letter of complaint · describing an incident",
+          "sentence": "I was appalled by the lack of care shown toward customers who had reported the problem.",
+          "highlight": "appalled",
+          "tip": "In formal writing, pair it with a clear description of what caused the reaction."
+        }
+      ],
+      "origin": {
+        "summary": "From the verb appall, meaning to horrify or shock. The word comes through French from a root associated with turning pale.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Middle English",
+            "text": "The verb appall develops, meaning to shock or horrify."
+          },
+          {
+            "when": "1800s",
+            "text": "The adjective appalled becomes common for describing a person’s shocked reaction."
+          },
+          {
+            "when": "Today",
+            "text": "It means deeply shocked or horrified, usually by something wrong or unpleasant."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "appall",
+          "label": "verb"
+        },
+        {
+          "term": "appalling",
+          "label": "adjective"
+        },
+        {
+          "term": "appallingly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "horrified",
+        "shocked",
+        "outraged",
+        "disgusted"
+      ],
+      "opposite": "unmoved",
+      "pitfall": "Appalled describes how a person feels; appalling describes the thing or situation that causes the reaction."
+    },
+    {
+      "id": "ardent",
+      "kind": "word",
+      "term": "ardent",
+      "pos": "adjective",
+      "phonetic": "/ˈɑːrdənt/",
+      "sayIt": "AR-dunt",
+      "register": "Formal",
+      "meaning": "Showing intense enthusiasm, passion or determination.",
+      "nuance": "It is stronger and more formal than “keen” or “eager.” It can describe a supporter, a campaign or someone pursuing a goal with energetic commitment.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project kickoff · rallying a team",
+          "sentence": "Her ardent support for the new idea persuaded the committee to approve a pilot.",
+          "highlight": "ardent",
+          "tip": "Use it for committed enthusiasm, especially in presentations and formal reports."
+        },
+        {
+          "setting": "social",
+          "where": "Book club · discussing a controversial novel",
+          "sentence": "Several members were ardent defenders of the author’s controversial final chapter.",
+          "highlight": "ardent",
+          "tip": "A slightly elevated alternative to “passionate” in conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Letter of support · advocating a cause",
+          "sentence": "We remain ardent supporters of giving every young person access to affordable education.",
+          "highlight": "ardent",
+          "tip": "It pairs naturally with supporters, advocates, defenders and champions."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin ardens, meaning “burning” or “glowing with heat.” The literal sense of intense feeling developed from the idea of passion or strong emotion.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Ardens comes from ardere, “to burn,” and means “burning” or “glowing.”"
+          },
+          {
+            "when": "Late medieval period",
+            "text": "Entered English through Old French with the sense of burning or being emotionally intense."
+          },
+          {
+            "when": "Today",
+            "text": "Usually means showing strong enthusiasm, loyalty or commitment."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "ardently",
+          "label": "adverb"
+        },
+        {
+          "term": "ardency",
+          "label": "noun"
+        },
+        {
+          "term": "ardor",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "passionate",
+        "fervent",
+        "zealous",
+        "devoted"
+      ],
+      "opposite": "apathetic",
+      "pitfall": "In modern English, “ardent” almost always expresses enthusiasm or commitment; its older literal meaning of hot or burning is rare."
+    },
+    {
+      "id": "assuage",
+      "kind": "word",
+      "term": "assuage",
+      "pos": "verb",
+      "phonetic": "/əˈsweɪdʒ/",
+      "sayIt": "uh-SWAYJ",
+      "register": "Formal",
+      "meaning": "To make something such as anxiety, pain, or doubt less severe.",
+      "nuance": "Often used when someone’s fears or concerns are being calmed. It is more formal than “ease” and usually takes an object, as in “assuage her worries.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · addressing launch concerns",
+          "sentence": "The clear rollout plan helped assuage the team’s concerns about the new system.",
+          "highlight": "assuage",
+          "tip": "Use it for serious worries or uncertainties that reassurance can reduce."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · calming a friend",
+          "sentence": "He wanted to assuage her guilt after admitting he had forgotten the date.",
+          "highlight": "assuage",
+          "tip": "This sounds formal but fits a thoughtful, serious conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · responding to a client",
+          "sentence": "We hope the additional security details assuage any concerns raised during the review.",
+          "highlight": "assuage",
+          "tip": "In writing, it pairs naturally with concerns, fears, doubts and anxieties."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin assuagere, meaning ‘to soften or sweeten’, built from ad-, ‘to’, and suavis, ‘sweet’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Assuagere means ‘to soften’ or ‘make agreeable’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with meanings connected with soothing pain or calming the mind."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used to mean reducing anxiety, pain, guilt or doubt."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "assuagement",
+          "label": "noun"
+        },
+        {
+          "term": "assuaged",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "alleviate",
+        "ease",
+        "soothe",
+        "quell"
+      ],
+      "opposite": "aggravate",
+      "pitfall": "It is often confused with “assuade,” which is not a standard English word. Unlike “ease,” assuage is normally transitive."
+    },
+    {
+      "id": "assured",
+      "kind": "word",
+      "term": "assured",
+      "pos": "adjective",
+      "phonetic": "/əˈʃʊərd/",
+      "sayIt": "uh-SHOORD",
+      "register": "Common at work",
+      "meaning": "Confident in your abilities, judgment or expectations, especially when speaking or acting under pressure.",
+      "nuance": "A positive word that suggests calm confidence rather than overconfidence. It can also mean certain that something will happen.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client presentation · defending a proposal",
+          "sentence": "She remained assured when the client challenged the budget and asked for a detailed explanation.",
+          "highlight": "assured",
+          "tip": "Use it for confidence that stays steady when questions or criticism arrive."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · sharing good news",
+          "sentence": "He sounded assured as he explained the new job, though he admitted he was still nervous about starting.",
+          "highlight": "assured",
+          "tip": "Often describes someone’s tone or manner as calm and self-believing."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · recommending a colleague",
+          "sentence": "Her assured handling of difficult clients made her an excellent candidate for the regional role.",
+          "highlight": "assured",
+          "tip": "Works well before words describing conduct, such as handling, delivery or performance."
+        }
+      ],
+      "origin": {
+        "summary": "Assured comes through French from Latin asserere, meaning ‘to occupy, defend or state firmly’. Its confident sense developed from the idea of being firmly established or certain.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Asserere means ‘to occupy, defend’ and later ‘to affirm firmly’."
+          },
+          {
+            "when": "Old French",
+            "text": "Assurer means ‘to assure or make certain’, and its past participle is assured."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "Assured enters English in senses connected with certainty and firmness."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes confident speech, behaviour or certainty."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "assure",
+          "label": "verb"
+        },
+        {
+          "term": "assurance",
+          "label": "noun"
+        },
+        {
+          "term": "assuredly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "confident",
+        "self-assured",
+        "certain",
+        "poised"
+      ],
+      "opposite": "uncertain",
+      "pitfall": "Don’t confuse the adjective assured with the verb assure: I am assured means I am certain, while you assure someone means you give them confidence."
+    },
+    {
+      "id": "avarice",
+      "kind": "word",
+      "term": "avarice",
+      "pos": "noun",
+      "phonetic": "/ˈævərɪs/",
+      "sayIt": "AV-uh-riss",
+      "register": "Formal",
+      "meaning": "An excessive, greedy desire to possess money, property or power.",
+      "nuance": "The word is strongly negative and suggests a lack of restraint or fairness. It is common in formal writing, moral discussion and forceful criticism.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company review · discussing a promotion",
+          "sentence": "Her avarice became obvious when she pursued a senior title despite having no interest in the work.",
+          "highlight": "avarice",
+          "tip": "Use it for greed that appears to override responsibility or fair treatment."
+        },
+        {
+          "setting": "social",
+          "where": "Argument · dividing an inheritance",
+          "sentence": "He accused his sister of avarice after she demanded more than the others.",
+          "highlight": "avarice",
+          "tip": "It fits when you want to label someone's greed strongly and judgmentally."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · criticizing corporate excess",
+          "sentence": "The editorial condemned the corporation’s avarice and its failure to invest in local communities.",
+          "highlight": "avarice",
+          "tip": "Pair it with behaviour or motives: avarice drove the decision, exposed the avarice."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin avaritia, meaning greed or excessive love of money, derived from avarus, “greedy for money.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Avaritia appears as a noun meaning greed, especially for money or possessions."
+          },
+          {
+            "when": "1400s",
+            "text": "The word entered Middle English through Latin and Old French."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal word for extreme or morally objectionable greed."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "avaricious",
+          "label": "adjective"
+        },
+        {
+          "term": "avariciously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "greed",
+        "covetousness",
+        "rapacity",
+        "miserliness"
+      ],
+      "opposite": "generosity",
+      "pitfall": "Avarice is stronger than greed and carries a clear moral judgment; avoid using it for ordinary ambition or wanting a good salary."
+    },
+    {
+      "id": "aversion",
+      "kind": "word",
+      "term": "aversion",
+      "pos": "noun",
+      "phonetic": "/əˈvɜːrʒən/",
+      "sayIt": "uh-VER-shun",
+      "register": "Common at work and in formal writing",
+      "meaning": "A strong feeling of dislike or unwillingness toward someone or something.",
+      "nuance": "An aversion suggests a settled dislike that can make you avoid a person, situation or activity. It is usually stronger and more personal than simple disapproval.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · choosing a project",
+          "sentence": "She has an aversion to rushed meetings, so she asked for an agenda beforehand.",
+          "highlight": "aversion",
+          "tip": "Use it for a strong, personal dislike rather than a minor complaint."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · discussing travel",
+          "sentence": "He has a deep aversion to public speaking, but he agreed to give a short toast.",
+          "highlight": "aversion",
+          "tip": "A natural choice when someone strongly dislikes an activity or experience."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a colleague · proposing a change",
+          "sentence": "My aversion to early meetings led me to suggest a later afternoon slot.",
+          "highlight": "aversion",
+          "tip": "Often follows “an” and is followed by “to” plus a noun or gerund."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin aversio, meaning a turning away, based on avertere, “to turn away from”.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Aversio develops from avertere, “to turn away from.”"
+          },
+          {
+            "when": "1500s",
+            "text": "The word appears in English with the sense of dislike or opposition."
+          },
+          {
+            "when": "Today",
+            "text": "It means a strong dislike or unwillingness toward someone or something."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "averse",
+          "label": "adjective"
+        },
+        {
+          "term": "avert",
+          "label": "verb"
+        },
+        {
+          "term": "aversive",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "dislike",
+        "antipathy",
+        "disinclination",
+        "repugnance"
+      ],
+      "opposite": "fondness",
+      "pitfall": "Say “an aversion to,” not “an aversion of.” The related adjective is “averse to,” as in “averse to risk.”"
+    },
+    {
+      "id": "avid",
+      "kind": "word",
+      "term": "avid",
+      "pos": "adjective",
+      "phonetic": "/ˈævɪd/",
+      "sayIt": "AV-id",
+      "register": "Common at work and socially",
+      "meaning": "Very keen and eager to do something or get something.",
+      "nuance": "It usually expresses strong enthusiasm or interest. Depending on the context, it can also suggest an intense or almost greedy appetite for something.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · learning a new tool",
+          "sentence": "She was avid to learn the new reporting system and had it working within a week.",
+          "highlight": "avid",
+          "tip": "Use it to describe a strong, active eagerness, especially for learning or improving."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans · following a hobby",
+          "sentence": "He is an avid photographer, so we often spend Saturdays exploring the city with our cameras.",
+          "highlight": "avid",
+          "tip": "This is a natural way to describe someone who has a strong, lasting interest."
+        },
+        {
+          "setting": "writing",
+          "where": "Newsletter · announcing a new feature",
+          "sentence": "We are avid listeners, so every note you send will shape the next version.",
+          "highlight": "avid",
+          "tip": "Use it before a noun or with “to” plus a verb to show enthusiasm."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin avidus, meaning eager or greedy, and French avide. English has used the word since the early 1400s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin avidus meant eager, greedy or strongly desirous."
+          },
+          {
+            "when": "1400s",
+            "text": "The word entered English through French as avide."
+          },
+          {
+            "when": "Today",
+            "text": "It describes strong enthusiasm, interest or appetite for something."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "avidly",
+          "label": "adverb"
+        },
+        {
+          "term": "avidity",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "eager",
+        "keen",
+        "enthusiastic",
+        "voracious"
+      ],
+      "opposite": "indifferent",
+      "pitfall": "Don’t confuse avid with avoid: avid means keen or eager, while avoid means to steer clear of something."
+    },
+    {
+      "id": "begrudge",
+      "kind": "word",
+      "term": "begrudge",
+      "pos": "verb",
+      "phonetic": "/bɪˈɡrʌdʒ/",
+      "sayIt": "be-GRUJ",
+      "register": "Everyday",
+      "meaning": "To feel unwilling to give someone something good because you envy or resent them.",
+      "nuance": "It often implies that the person is making the other person’s success harder to enjoy. It can also mean simply being reluctant to part with something valuable.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Promotion announcement · team discussion",
+          "sentence": "I don’t begrudge her the promotion; she has earned it.",
+          "highlight": "begrudge",
+          "tip": "Use it to say you do not resent someone’s advantage or success."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · comparing holidays",
+          "sentence": "I may begrudge them their week in the sun, but their plans sounded brilliant.",
+          "highlight": "begrudge",
+          "tip": "This use often carries a playful or slightly jealous tone."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · acknowledging a colleague’s achievement",
+          "sentence": "No one should begrudge the time she put into learning the new system.",
+          "highlight": "begrudge",
+          "tip": "It can sound more pointed in writing, so keep the surrounding message clear and fair."
+        }
+      ],
+      "origin": {
+        "summary": "Likely combines the Old English sense of envying or resenting with the Middle English addition of the prefix be-, which intensifies the action.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The root appears in words connected with envy or resentment."
+          },
+          {
+            "when": "Middle English",
+            "text": "The form develops with the prefix be-, giving the modern verb."
+          },
+          {
+            "when": "Today",
+            "text": "Usually means to resent or envy someone’s good fortune."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "grudge",
+          "label": "noun"
+        },
+        {
+          "term": "grudge",
+          "label": "verb"
+        },
+        {
+          "term": "grudgingly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "envy",
+        "resent",
+        " resent"
+      ],
+      "opposite": "cheer",
+      "pitfall": "Begrudge usually describes your feelings toward someone else; it does not mean that you dislike the good thing itself."
+    },
+    {
+      "id": "bereft",
+      "kind": "word",
+      "term": "bereft",
+      "pos": "adjective",
+      "phonetic": "/bəˈrɛft/",
+      "sayIt": "buh-REFT",
+      "register": "Formal",
+      "meaning": "Left without someone or something that was important, expected, or once possessed.",
+      "nuance": "It suggests a noticeable loss and often carries a feeling of sadness or helplessness. It is more literary than everyday English.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team handover · key colleague leaving",
+          "sentence": "The team felt bereft after losing the project manager who had guided it for years.",
+          "highlight": "bereft",
+          "tip": "Use it for a serious loss that leaves people noticeably deprived or disoriented."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · unexpected separation",
+          "sentence": "She was bereft when her closest friend moved to another country.",
+          "highlight": "bereft",
+          "tip": "It fits a deep emotional response to losing a person or something valued."
+        },
+        {
+          "setting": "writing",
+          "where": "Memorial letter · reflecting on a loss",
+          "sentence": "The community was bereft after the sudden death of a trusted local teacher.",
+          "highlight": "bereft",
+          "tip": "Use it in reflective or formal writing when the loss affected a whole group."
+        }
+      ],
+      "origin": {
+        "summary": "It comes from an Old English compound based on be- and a word meaning to rob or strip. Its sense developed from being physically robbed to being deprived of something important.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The compound originally conveyed being robbed, stripped, or deprived."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word appeared in forms close to the modern bereft."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal English for a felt or shared loss."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "bereave",
+          "label": "verb"
+        },
+        {
+          "term": "bereavement",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "deprived",
+        "bereaved",
+        "abandoned",
+        "devastated"
+      ],
+      "opposite": "possessed of",
+      "pitfall": "Unlike bereaved, which usually focuses on losing a person through death, bereft can describe the absence of any important person, thing, quality, or opportunity."
+    },
+    {
+      "id": "bliss",
+      "kind": "word",
+      "term": "bliss",
+      "pos": "noun",
+      "phonetic": "/blɪs/",
+      "sayIt": "BLISS",
+      "register": "Everyday",
+      "meaning": "A state of complete happiness or intense joy.",
+      "nuance": "Bliss sounds warm and idealistic, suggesting either perfect happiness or a moment of extraordinary joy. It can be sincere, but it may feel slightly poetic or exaggerated in casual conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch celebration · after a successful release",
+          "sentence": "With the release on schedule and every team member cheering, the office was filled with bliss.",
+          "highlight": "bliss",
+          "tip": "Use it for a noticeably joyful moment, not for ordinary satisfaction."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception · greeting newlyweds",
+          "sentence": "Watching them dance together, we shared a moment of pure bliss.",
+          "highlight": "bliss",
+          "tip": "It works naturally after expressions like pure, perfect or absolute."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel diary · describing a perfect day",
+          "sentence": "Warm bread, clear skies and no notifications for hours made the afternoon feel like bliss.",
+          "highlight": "bliss",
+          "tip": "Pair it with concrete details to make the happiness feel vivid."
+        }
+      ],
+      "origin": {
+        "summary": "Bliss comes from Old English bliss, a word related to blithe and ultimately connected with a sense of being cheerful or pleasantly surprised.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "Bliss appears with meanings connected with unusual happiness and a pleasant sense of wonder."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word develops toward its modern sense of intense happiness or joy."
+          },
+          {
+            "when": "Today",
+            "text": "Bliss commonly describes perfect happiness, though it can also carry a lighthearted or dreamy tone."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "blissful",
+          "label": "adjective"
+        },
+        {
+          "term": "blissfully",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "ecstasy",
+        "elation",
+        "joy",
+        "rapture"
+      ],
+      "opposite": "misery",
+      "pitfall": "Bliss can sound overly dramatic in ordinary situations; use joy or happiness when the feeling is mild."
+    },
+    {
+      "id": "chagrin",
+      "kind": "word",
+      "term": "chagrin",
+      "pos": "noun",
+      "phonetic": "/ˈʃæɡ.rɪn/",
+      "sayIt": "SHA-grin",
+      "register": "Formal",
+      "meaning": "A feeling of embarrassment or disappointment caused by something unpleasant that has happened.",
+      "nuance": "Chagrin is more restrained than anger and often suggests feeling sorry for yourself as well as upset. It fits politely or formally, especially when describing disappointment in yourself.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Presentation · a missed deadline",
+          "sentence": "She tried to hide her chagrin when the presentation software failed just before the meeting.",
+          "highlight": "chagrin",
+          "tip": "Use it for a controlled, formal reaction rather than openly showing anger."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · an awkward arrival",
+          "sentence": "He looked a little embarrassed when his date arrived an hour late, but politely concealed his chagrin.",
+          "highlight": "chagrin",
+          "tip": "It suggests disappointment mixed with embarrassment, not a dramatic emotional outburst."
+        },
+        {
+          "setting": "writing",
+          "where": "Professional email · acknowledging an error",
+          "sentence": "We share the team's chagrin that the report was sent with several figures missing.",
+          "highlight": "chagrin",
+          "tip": "Use it in formal writing when you want to name mild disappointment without sounding bitter."
+        }
+      ],
+      "origin": {
+        "summary": "Borrowed from French chagrin, meaning sorrow or grief, which developed from an Old French word associated with heaviness and sadness.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Old French",
+            "text": "An Old French word related to grief and heaviness appears in medieval French."
+          },
+          {
+            "when": "1500s–1700s",
+            "text": "The French form develops the sense of sorrow, then embarrassment or disappointed feelings."
+          },
+          {
+            "when": "1800s",
+            "text": "The word begins appearing regularly in English in formal writing."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used for dignified embarrassment, regret or disappointment."
+          }
+        ]
+      },
+      "similar": [
+        "embarrassment",
+        "disappointment",
+        "frustration",
+        "humiliation"
+      ],
+      "opposite": "delight",
+      "pitfall": "Do not confuse it with “char-grin” or assume it means anger; chagrin is closer to embarrassed disappointment."
+    },
+    {
+      "id": "compassion",
+      "kind": "word",
+      "term": "compassion",
+      "pos": "noun",
+      "phonetic": "/kəmˈpæʃən/",
+      "sayIt": "kum-PASH-uhn",
+      "register": "Common at work and in formal writing",
+      "meaning": "A strong feeling of sympathy and care for someone who is suffering or in difficulty.",
+      "nuance": "It suggests both feeling concern and being moved to help. It is warmer and more active than pity.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · supporting a colleague",
+          "sentence": "She showed compassion when the team member made a mistake under pressure.",
+          "highlight": "compassion",
+          "tip": "Use it when you want to describe care that leads to understanding or support."
+        },
+        {
+          "setting": "social",
+          "where": "Friendship · hearing bad news",
+          "sentence": "He offered compassion instead of criticism when his friend lost her job.",
+          "highlight": "compassion",
+          "tip": "It works well for kind, humane treatment during a difficult time."
+        },
+        {
+          "setting": "writing",
+          "where": "Award nomination · recognising care",
+          "sentence": "Her compassion for patients shaped the way she led the nursing team.",
+          "highlight": "compassion",
+          "tip": "Pair it with for, toward or towards to identify who or what receives the care."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French compassion, influenced by Latin compati, ‘to suffer with’. The word has long referred to shared suffering and sympathy for others.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old French",
+            "text": "Compassion develops from a word meaning pity or sympathy."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English in religious and moral contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It means deep sympathy expressed through care and humane action."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "compassionate",
+          "label": "adjective"
+        },
+        {
+          "term": "compassionately",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "empathy",
+        "sympathy",
+        "mercy",
+        "kindness",
+        "sensitivity"
+      ],
+      "opposite": "callousness",
+      "pitfall": "Compassion is more than understanding another person’s feelings; it usually implies active care or concern."
+    },
+    {
+      "id": "compassionate",
+      "kind": "word",
+      "term": "compassionate",
+      "pos": "adjective",
+      "phonetic": "/kəmˈpæʃənət/",
+      "sayIt": "kuhm-PASH-uh-nuhnt",
+      "register": "Common at work and in formal writing",
+      "meaning": "Feeling and showing deep sympathy for people who are suffering or in difficulty.",
+      "nuance": "It suggests more than being polite: you notice another person's pain and respond with care. It is often used in serious conversations, workplace decisions and messages of support.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · responding to a setback",
+          "sentence": "We were compassionate when a colleague lost a family member and gave them time away from work.",
+          "highlight": "compassionate",
+          "tip": "Use it to describe considerate treatment of someone who is struggling."
+        },
+        {
+          "setting": "social",
+          "where": "Supporting a friend · hearing bad news",
+          "sentence": "She was compassionate, listening carefully instead of rushing to offer advice.",
+          "highlight": "compassionate",
+          "tip": "This is a natural way to praise someone for responding with genuine care."
+        },
+        {
+          "setting": "writing",
+          "where": "Donor thank-you email · acknowledging hardship",
+          "sentence": "Thank you for your compassionate support during our neighbours' difficult winter.",
+          "highlight": "compassionate",
+          "tip": "It works well as a formal compliment in emails and public messages."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin compassionem, meaning pity or tenderness, based on compati, 'to suffer with'. The idea developed from sharing another person's suffering.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Compassio means 'suffering with' or pity, formed from compati, 'to suffer with'."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English in religious and moral writing about pity and mercy."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes people, actions and policies that show concern for those in distress."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "compassion",
+          "label": "noun"
+        },
+        {
+          "term": "compassionately",
+          "label": "adverb"
+        },
+        {
+          "term": "compassionate",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "sympathetic",
+        "kind",
+        "caring",
+        "empathetic"
+      ],
+      "opposite": "callous",
+      "pitfall": "Don't use it as a substitute for understanding someone's full situation; it describes caring and sympathetic treatment, not necessarily agreeing with them."
+    },
+    {
+      "id": "composed",
+      "kind": "word",
+      "term": "composed",
+      "pos": "adjective",
+      "phonetic": "/kəmˈpoʊzd/",
+      "sayIt": "kum-POHZD",
+      "register": "Everyday",
+      "meaning": "Calm, controlled, and able to think clearly, especially during a difficult situation.",
+      "nuance": "It suggests that someone is handling pressure with self-control. It can also mean made up or arranged from particular parts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client meeting · handling a complaint",
+          "sentence": "She remained composed when the client rejected the proposal and asked for a complete redesign.",
+          "highlight": "composed",
+          "tip": "Use it to describe someone who stays calm and focused under pressure."
+        },
+        {
+          "setting": "social",
+          "where": "Family dinner · resolving an argument",
+          "sentence": "He was composed enough to hear both sides without interrupting anyone.",
+          "highlight": "composed",
+          "tip": "It often appears after a form of be, such as stayed, remained or seemed."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · describing a colleague",
+          "sentence": "Priya gave clear feedback and stayed composed even when the discussion became heated.",
+          "highlight": "composed",
+          "tip": "It adds a formal, approving tone when describing someone’s behaviour at work."
+        }
+      ],
+      "origin": {
+        "summary": "Composed comes from compose, which entered English from French and ultimately came from Latin componere, meaning ‘put together’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Componere combines com- ‘together’ with ponere ‘put’, giving the basic idea of putting parts together."
+          },
+          {
+            "when": "French",
+            "text": "The verb composer develops, meaning ‘to put together’ or ‘to arrange’."
+          },
+          {
+            "when": "English",
+            "text": "Composed first developed the sense ‘formed or arranged’, then came to describe calm, controlled behaviour."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "compose",
+          "label": "verb"
+        },
+        {
+          "term": "composure",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "calm",
+        "self-possessed",
+        "collected",
+        "unruffled"
+      ],
+      "opposite": "agitated",
+      "pitfall": "In the phrase ‘composed of’, it means made up from parts, not calm: ‘The team is composed of six people.’"
+    },
+    {
+      "id": "condolence",
+      "kind": "word",
+      "term": "condolence",
+      "pos": "noun",
+      "phonetic": "/kənˈdoʊləns/",
+      "sayIt": "kun-DOH-luns",
+      "register": "Formal",
+      "meaning": "An expression of sympathy for someone who has experienced a serious loss, especially a death.",
+      "nuance": "It is usually formal and respectful. The plural “condolences” is more common when offering sympathy to a person or group.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague’s bereavement · sending a message",
+          "sentence": "Please accept my condolence on the loss of your father.",
+          "highlight": "condolence",
+          "tip": "Use the singular after “a” or in the phrase “offer my condolence.”"
+        },
+        {
+          "setting": "social",
+          "where": "Friends after a loss · offering support",
+          "sentence": "I want to offer my sincere condolence and support during this difficult time.",
+          "highlight": "condolence",
+          "tip": "Pair it with sincere, deepest or heartfelt when you know the person well."
+        },
+        {
+          "setting": "writing",
+          "where": "Company statement · responding to a death",
+          "sentence": "The company sent a note of condolence to the family and its close colleagues.",
+          "highlight": "condolence",
+          "tip": "The fixed phrase “note of condolence” is especially suitable for formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin condolere, combining con- “with” and dolere “to grieve or be in pain.” English later developed the noun for a sympathetic message of grief.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Condolere means “to grieve with” or “to share in another person’s sorrow.”"
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English, initially as a verb meaning to express grief or sympathy."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly a formal noun used to offer sympathy after a death or serious loss."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "condolences",
+          "label": "plural noun"
+        },
+        {
+          "term": "condole",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "sympathy",
+        "commiseration",
+        "solace",
+        "grief"
+      ],
+      "opposite": "congratulation",
+      "pitfall": "Use “condolence” for the expression of sympathy; use “condolences” when addressing someone who has suffered a loss."
+    }
+  ]
+}

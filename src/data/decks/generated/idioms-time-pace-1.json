@@ -1,0 +1,1485 @@
+{
+  "id": "idioms-time-pace-1",
+  "kind": "idiom",
+  "name": "Time & pace · 1",
+  "blurb": "25 idioms about time & pace",
+  "cards": [
+    {
+      "id": "around-the-clock",
+      "kind": "idiom",
+      "term": "around the clock",
+      "pos": "idiom",
+      "hint": "day and night without stopping",
+      "register": "Common at work",
+      "meaning": "Continuing or being done continuously, especially for the whole day and night.",
+      "nuance": "It emphasizes nonstop activity or effort. It can describe literal 24-hour work or figurative, sustained pressure.",
+      "literal": "Going around every part of a clock’s face, suggesting an entire day and night.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch week · monitoring a service",
+          "sentence": "The support team worked around the clock to restore the payment service.",
+          "highlight": "around the clock",
+          "tip": "Often used for emergency, overnight, or nonstop operational work."
+        },
+        {
+          "setting": "social",
+          "where": "Planning an event",
+          "sentence": "We stayed up around the clock finishing the decorations before the party.",
+          "highlight": "around the clock",
+          "tip": "In social contexts, it can suggest determined or slightly excessive effort."
+        },
+        {
+          "setting": "writing",
+          "where": "Operations report",
+          "sentence": "The warehouse operates around the clock, handling deliveries throughout the week.",
+          "highlight": "around the clock",
+          "tip": "Useful in reports to show that a service or process never closes."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the idea of passing around the whole clock face, covering every hour. Its earliest printed uses are difficult to pin down, but it was established by the 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "Print uses of ‘round the clock’ and ‘around the clock’ began describing activity carried on through all hours."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression became common in journalism and business writing for continuous or overnight work."
+          },
+          {
+            "when": "Today",
+            "text": "It describes anything performed without a break, often for a full 24 hours."
+          }
+        ]
+      },
+      "similar": [
+        "round the clock",
+        "day and night",
+        "non-stop"
+      ],
+      "pitfall": "It does not always mean exactly 24 hours; it can more generally mean working continuously through every part of the day."
+    },
+    {
+      "id": "around-the-corner",
+      "kind": "idiom",
+      "term": "around the corner",
+      "pos": "idiom",
+      "hint": "very near—or nearly here",
+      "register": "Common at work",
+      "meaning": "Close by in distance, or about to happen in time.",
+      "nuance": "It can describe something physically nearby, but it is often used for an event that feels close or inevitable. “Just around the corner” adds the sense of imminent arrival.",
+      "literal": "Immediately beyond the next bend in a road.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office planning · a looming deadline",
+          "sentence": "The budget review is around the corner, so let’s finalize the slides today.",
+          "highlight": "around the corner",
+          "tip": "Often signals that something important is approaching soon."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · a friend’s arrival",
+          "sentence": "Don’t leave yet—Maya is around the corner and should be here in a minute.",
+          "highlight": "around the corner",
+          "tip": "Common for someone who is physically close by."
+        },
+        {
+          "setting": "writing",
+          "where": "City guide · nearby destinations",
+          "sentence": "There are several quiet cafés around the corner from the museum.",
+          "highlight": "around the corner",
+          "tip": "A natural way to describe nearby places without giving exact directions."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the idea of something located immediately beyond a nearby corner. Its figurative use for events about to happen developed from this everyday spatial image.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People use corners and bends as simple landmarks when describing where something is located."
+          },
+          {
+            "when": "1800s",
+            "text": "English writers begin using the phrase figuratively for nearby places and approaching events."
+          },
+          {
+            "when": "Today",
+            "text": "It expresses both physical closeness and the idea that something is about to arrive or happen."
+          }
+        ]
+      },
+      "similar": [
+        "just around the corner",
+        "nearby",
+        "on the horizon",
+        "imminent"
+      ],
+      "opposite": "far away",
+      "pitfall": "It does not always mean literally beside a corner; in business and everyday conversation, it often means something is about to happen."
+    },
+    {
+      "id": "at-the-last-minute",
+      "kind": "idiom",
+      "term": "at the last minute",
+      "pos": "idiom",
+      "hint": "right before it was due",
+      "register": "Everyday",
+      "meaning": "At the very end of a deadline or just before something happens.",
+      "nuance": "It can sound mildly critical when someone acts too late, or simply describe very short notice.",
+      "literal": "At the final minute before a time limit or event.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project deadline · unfinished slides",
+          "sentence": "Maya submitted the proposal at the last minute, so we barely had time to review it.",
+          "highlight": "at the last minute",
+          "tip": "Often implies the work could have been finished sooner."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner plans · changing the time",
+          "sentence": "He changed the plans at the last minute, leaving us wondering whether to wait for him.",
+          "highlight": "at the last minute",
+          "tip": "Common when plans change unexpectedly."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel update · delayed booking",
+          "sentence": "The travel company issued its confirmation at the last minute, just hours before the flight.",
+          "highlight": "at the last minute",
+          "tip": "Useful for describing very late action or information."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase reflects the idea of acting only when the final moment arrives. Its precise first use is not firmly documented, but the wording has long been connected with deadlines.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression developed from the familiar idea of a deadline and its final minute."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "Print usage shows the phrase becoming established for doing something at the latest possible moment."
+          },
+          {
+            "when": "Today",
+            "text": "Means just before a deadline or immediately before an event."
+          }
+        ]
+      },
+      "similar": [
+        "at the eleventh hour",
+        "in the nick of time",
+        "right up to the deadline"
+      ],
+      "opposite": "well in advance",
+      "pitfall": "Don’t use it for something that happened before the final deadline but close enough to it."
+    },
+    {
+      "id": "bit-by-bit",
+      "kind": "idiom",
+      "term": "bit by bit",
+      "pos": "idiom",
+      "hint": "gradually, in small stages",
+      "register": "Everyday",
+      "meaning": "To do or change something gradually, in small amounts or stages.",
+      "nuance": "It suggests progress that happens little by little rather than all at once. Use it for improvements, processes, revelations, or difficult tasks built up over time.",
+      "literal": "Taking one small piece at a time.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team retrospective · improving a process",
+          "sentence": "We’re fixing the reporting process bit by bit, starting with the most common errors.",
+          "highlight": "bit by bit",
+          "tip": "Often used when progress is steady but not dramatic."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · learning a language",
+          "sentence": "I’ve been learning Italian bit by bit, with a few words every day.",
+          "highlight": "bit by bit",
+          "tip": "Natural for small, repeated steps toward a bigger result."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining a gradual change",
+          "sentence": "The service is becoming more reliable bit by bit as the new checks are added.",
+          "highlight": "bit by bit",
+          "tip": "Useful in updates when you want to emphasize steady improvement."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the older expression ‘bit by bit,’ meaning piece by piece. Its figurative use for gradual progress is well established in English.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "The phrase ‘bit by bit’ appears in English, referring to small pieces taken one after another."
+          },
+          {
+            "when": "1600s–1700s",
+            "text": "Writers increasingly use it to describe actions or changes happening gradually."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common way to describe slow, steady progress."
+          }
+        ]
+      },
+      "similar": [
+        "piece by piece",
+        "little by little",
+        "step by step"
+      ],
+      "opposite": "all at once",
+      "pitfall": "Use it for gradual progress; it does not mean the change is complete or necessarily quick."
+    },
+    {
+      "id": "build-up",
+      "kind": "idiom",
+      "term": "build up",
+      "pos": "verb",
+      "hint": "make something stronger over time",
+      "register": "Common at work",
+      "meaning": "To make something stronger, larger, or more developed gradually.",
+      "nuance": "It often suggests steady progress rather than a sudden change. It can also mean accumulating something, such as trust, pressure, or an audience.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · developing a new service",
+          "sentence": "We can build up customer confidence by improving the onboarding experience.",
+          "highlight": "build up",
+          "tip": "Common when discussing gradual improvement or stronger results."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans · reconnecting with friends",
+          "sentence": "We build up momentum by meeting for a short walk every Saturday.",
+          "highlight": "build up",
+          "tip": "Often paired with ‘momentum’, ‘confidence’, or ‘strength’."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining steady progress",
+          "sentence": "The volunteers built up a strong local network over six months.",
+          "highlight": "built up",
+          "tip": "The past form is ‘built up’, but the base verb remains ‘build’."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines the older word ‘build’ with the directional word ‘up’, originally describing physical structures that rise as they are made. Its broader sense of gradual growth developed over time.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The word ‘build’ comes from Old English and originally referred to construction."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The expression ‘build up’ appears in writing, initially mainly in the sense of constructing or making something taller."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase expands to mean developing strength, confidence, or momentum gradually."
+          }
+        ]
+      },
+      "similar": [
+        "strengthen",
+        "develop",
+        "accumulate"
+      ],
+      "opposite": "tear down",
+      "pitfall": "‘Build up’ is different from ‘build upon’, which means to use an existing idea, achievement, or resource as a starting point."
+    },
+    {
+      "id": "down-the-line",
+      "kind": "idiom",
+      "term": "down the line",
+      "pos": "idiom",
+      "hint": "later, not now",
+      "register": "Everyday",
+      "meaning": "At a later time, after the present situation has developed.",
+      "nuance": "It often suggests that something will happen eventually, sometimes with the implication that it is being postponed. It can also mean “farther along in a sequence.”",
+      "literal": "Farther along a line.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · scheduling a review",
+          "sentence": "We can discuss the budget down the line once the sales figures are final.",
+          "highlight": "down the line",
+          "tip": "A natural way to refer to something that will happen later."
+        },
+        {
+          "setting": "social",
+          "where": "Arranging plans with a friend",
+          "sentence": "Let’s have a drink now and arrange dinner down the line.",
+          "highlight": "down the line",
+          "tip": "Often means later, without saying exactly when."
+        },
+        {
+          "setting": "writing",
+          "where": "Explaining a future change",
+          "sentence": "The new policy will affect everyone down the line.",
+          "highlight": "down the line",
+          "tip": "Useful when describing consequences that appear later."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably developed from the idea of moving or looking farther along a line. Its modern sense of “later” was established by the 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Uses of the phrase appear in writing connected with position, sequence, and distance along a line."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "The expression becomes established in the sense of “later” or “at a future point.”"
+          },
+          {
+            "when": "Today",
+            "text": "Common for something postponed or expected to happen later."
+          }
+        ]
+      },
+      "similar": [
+        "later on",
+        "down the road",
+        "at a later date"
+      ],
+      "pitfall": "In some contexts, it means farther along a sequence rather than simply later in time."
+    },
+    {
+      "id": "down-the-road",
+      "kind": "idiom",
+      "term": "down the road",
+      "pos": "idiom",
+      "hint": "later on",
+      "register": "Common at work",
+      "meaning": "At a later time or stage in the future.",
+      "nuance": "It can suggest something will happen later, but it may also imply the matter is not urgent. The phrase is especially common in American English.",
+      "literal": "Farther along a road in the direction you are travelling.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing priorities",
+          "sentence": "We can revisit the budget down the road if sales start growing.",
+          "highlight": "down the road",
+          "tip": "Often used when postponing a decision or discussing future plans."
+        },
+        {
+          "setting": "social",
+          "where": "Chat with a friend",
+          "sentence": "Let’s order now, but we can get something to eat down the road.",
+          "highlight": "down the road",
+          "tip": "Means later in the evening or at another future point."
+        },
+        {
+          "setting": "writing",
+          "where": "Business update",
+          "sentence": "The company expects to expand down the road once the new system is stable.",
+          "highlight": "down the road",
+          "tip": "Useful in reports and plans when referring to future developments."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably grew from literal travel wording and was later extended to mean a future time. Its figurative use was established by the early twentieth century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used ‘down the road’ naturally to describe continuing farther along a route."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "Writers began using the phrase figuratively for something happening later."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly refers to a later time, stage or event."
+          }
+        ]
+      },
+      "similar": [
+        "down the line",
+        "further down the road",
+        "later on",
+        "in due course"
+      ],
+      "opposite": "right now",
+      "pitfall": "In some contexts, ‘down the road’ literally means farther along a street; the future-time meaning is figurative."
+    },
+    {
+      "id": "drag-on",
+      "kind": "idiom",
+      "term": "drag on",
+      "pos": "verb",
+      "hint": "keep going for too long",
+      "register": "Common at work",
+      "meaning": "To continue for longer than expected or desirable.",
+      "nuance": "It often carries mild annoyance or criticism, especially when describing a meeting, process or delay. It can also sound neutral when simply reporting that something took a long time.",
+      "literal": "Dragging something onward so that it keeps going.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project meeting · unfinished discussion",
+          "sentence": "The budget discussion dragged on for an hour before we reached a decision.",
+          "highlight": "dragged on",
+          "tip": "The tense changes with the subject; use ‘drag on’ in the present."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · changing the subject",
+          "sentence": "We tried to change the subject, but he kept dragging on about his renovation.",
+          "highlight": "dragging on",
+          "tip": "Natural for something that continues longer than you would like."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · delayed delivery",
+          "sentence": "Testing dragged on, so the release date was moved to next month.",
+          "highlight": "dragged on",
+          "tip": "Useful in reports when describing a delay or extended process."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines an older sense of ‘drag,’ meaning to delay or prolong something, with ‘on’ to suggest continued activity. The exact date when the expression became fixed is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "‘Drag’ came to mean delay, hinder or prolong an action."
+          },
+          {
+            "when": "19th century",
+            "text": "Writers began combining ‘drag’ with ‘on’ to describe activity continuing for an extended period."
+          },
+          {
+            "when": "Today",
+            "text": "‘Drag on’ describes a meeting, process or delay that continues longer than expected."
+          }
+        ]
+      },
+      "similar": [
+        "drone on",
+        "drag out",
+        "run long"
+      ],
+      "opposite": "wrap up",
+      "pitfall": "Do not confuse it with ‘drag on someone,’ which can mean force someone to participate when they do not want to."
+    },
+    {
+      "id": "drag-ones-feet",
+      "kind": "idiom",
+      "term": "drag one's feet",
+      "pos": "idiom",
+      "hint": "delay doing something",
+      "register": "Common at work",
+      "meaning": "To delay taking action or completing something, especially when you could act sooner.",
+      "nuance": "It often suggests that someone is moving slowly on purpose. It can describe a person, a group or an organization that is not making enough progress.",
+      "literal": "Moving forward while dragging your feet along the ground.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · approval delayed",
+          "sentence": "The legal team has been dragging its feet on the contract for weeks.",
+          "highlight": "dragging its feet",
+          "tip": "The pronoun changes to match the subject: ‘his,’ ‘their,’ ‘our’ or ‘my.’"
+        },
+        {
+          "setting": "social",
+          "where": "House plans · deciding to travel",
+          "sentence": "We’ve been dragging our feet about booking the trip, so prices have gone up.",
+          "highlight": "dragging our feet",
+          "tip": "Natural when discussing indecision or a delayed decision."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · following up on a request",
+          "sentence": "The supplier has dragged its feet over the invoice, so we may need to escalate this.",
+          "highlight": "dragged its feet",
+          "tip": "Use the past tense for an action that has already caused delay."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely comes from the physical image of someone walking with their feet dragging behind them. Its exact first use is not firmly established, but it was in circulation by the early 1900s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal image is of someone walking slowly with their feet trailing along the ground."
+          },
+          {
+            "when": "1900s",
+            "text": "The phrase appears in early written use with the meaning of moving slowly or delaying action."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly criticizes avoidable delay by a person or organization."
+          }
+        ]
+      },
+      "similar": [
+        "stall",
+        "hold things up",
+        "put something off"
+      ],
+      "opposite": "get moving",
+      "pitfall": "Use ‘drag one’s feet,’ not ‘drag one’s leg’ or ‘drag the feet.’"
+    },
+    {
+      "id": "early-bird",
+      "kind": "idiom",
+      "term": "early bird",
+      "pos": "idiom",
+      "hint": "first to arrive or get things done",
+      "register": "Everyday",
+      "meaning": "Someone who gets up early or acts quickly before everyone else.",
+      "nuance": "Often mildly complimentary, suggesting energy, preparation, or an advantage. It can also sound like a label for someone who is unusually eager.",
+      "literal": "A bird that rises and begins its day at dawn.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Morning planning · preparing a presentation",
+          "sentence": "Mina was an early bird and had the slides ready before the meeting began.",
+          "highlight": "early bird",
+          "tip": "Often describes someone who arrives early or starts work before others."
+        },
+        {
+          "setting": "social",
+          "where": "Coffee shop · meeting friends",
+          "sentence": "As an early bird, I booked the table for seven so we could avoid the queue.",
+          "highlight": "early bird",
+          "tip": "Natural when explaining an early appointment or preference."
+        },
+        {
+          "setting": "writing",
+          "where": "Product launch · announcing early access",
+          "sentence": "Early customers received a discount, rewarding the early birds who placed orders before launch day.",
+          "highlight": "early birds",
+          "tip": "The plural works well when referring to customers, applicants, or volunteers who acted first."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably developed from the older proverb about the early bird catching the worm. Its modern use follows both the literal image and the idea of gaining an advantage by acting early.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "Versions of the proverb 'the early bird catches the worm' appear in English writing."
+          },
+          {
+            "when": "1800s",
+            "text": "'Early bird' is used for people who rise early and, more broadly, those who act first."
+          },
+          {
+            "when": "Today",
+            "text": "It can describe an early riser, the first person to act, or someone who is especially keen."
+          }
+        ]
+      },
+      "similar": [
+        "early riser",
+        "first mover",
+        "early starter"
+      ],
+      "opposite": "night owl",
+      "pitfall": "In business contexts, the phrase can mean whoever acts first, not necessarily someone who wakes up early."
+    },
+    {
+      "id": "easier-said-than-done",
+      "kind": "idiom",
+      "term": "easier said than done",
+      "pos": "idiom",
+      "hint": "sounds simpler than it is",
+      "register": "Everyday",
+      "meaning": "Something may sound simple to describe but be difficult to put into practice.",
+      "nuance": "Use it when you want to point out the gap between talking about a solution and actually carrying it out. It often carries a mildly frustrated or resigned tone.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning · implementing a new process",
+          "sentence": "Switching teams is easier said than done, especially when everyone has existing responsibilities.",
+          "highlight": "easier said than done",
+          "tip": "Common when acknowledging that a plan requires real coordination and effort."
+        },
+        {
+          "setting": "social",
+          "where": "Group chat · making plans",
+          "sentence": "Suggesting a pub night is easy, but getting everyone to agree is easier said than done.",
+          "highlight": "easier said than done",
+          "tip": "Natural and informal when discussing plans that are difficult to organise."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining a delay",
+          "sentence": "The migration is straightforward in theory, but it is easier said than done once permissions and testing are involved.",
+          "highlight": "easier said than done",
+          "tip": "Useful in reports or presentations for describing practical complications."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase has been used in English since the early 1800s to mean that something is more easily suggested or discussed than actually done.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1800s",
+            "text": "The wording begins appearing in English, including in printed uses and popular songs."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression becomes established in the form 'easier said than done.'"
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common way to describe the difficulty of turning words or ideas into action."
+          }
+        ]
+      },
+      "similar": [
+        "easier said than done",
+        "a piece of cake",
+        "in theory"
+      ],
+      "opposite": "a simple matter",
+      "pitfall": "Use it to describe a difficulty in doing something, not to say that someone is refusing to act."
+    },
+    {
+      "id": "eleventh-hour",
+      "kind": "idiom",
+      "term": "eleventh hour",
+      "pos": "idiom",
+      "hint": "right at the very end",
+      "register": "Common at work",
+      "meaning": "At the latest possible moment, just before a deadline or an event.",
+      "nuance": "It often suggests that the action was delayed longer than it should have been. It can be neutral, but it may also carry a note of pressure or poor planning.",
+      "literal": "The final hour of a twelve-hour period.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project deadline · submitting a proposal",
+          "sentence": "We approved the campaign at the eleventh hour, leaving the team almost no time to prepare it.",
+          "highlight": "eleventh hour",
+          "tip": "Natural for a decision or action completed just before a deadline."
+        },
+        {
+          "setting": "social",
+          "where": "Party planning · changing the arrangements",
+          "sentence": "They booked the restaurant at the eleventh hour, but somehow found a table for eight.",
+          "highlight": "eleventh hour",
+          "tip": "Use it when something is arranged very late or with little time to spare."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · emergency funding",
+          "sentence": "The government released emergency funds at the eleventh hour to support flood-hit businesses.",
+          "highlight": "eleventh hour",
+          "tip": "Common in reporting about late decisions, funding, or last-minute action."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from the idea of the last hour of the day. It later developed into a general way of referring to the latest possible time for completing something.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The phrase originally referred to the final hour of a twelve-hour period."
+          },
+          {
+            "when": "1600s",
+            "text": "Writers began using it figuratively for the latest possible moment."
+          },
+          {
+            "when": "Today",
+            "text": "It means doing something just before a deadline, often with little time available."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "eleventh-hour",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "at the last minute",
+        "in the nick of time",
+        "until the very last minute"
+      ],
+      "opposite": "well in advance",
+      "pitfall": "Use “eleventh-hour” as an adjective when it comes before a noun, as in “an eleventh-hour change.”"
+    },
+    {
+      "id": "fall-behind",
+      "kind": "idiom",
+      "term": "fall behind",
+      "pos": "phrase",
+      "hint": "not keep up",
+      "register": "Everyday",
+      "meaning": "To become slower or less advanced than someone else.",
+      "nuance": "It can describe missed progress, lower performance or simply lagging behind a group. It often implies that catching up is still possible.",
+      "literal": "Moving or progressing less far than someone else.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · comparing deadlines",
+          "sentence": "If the design team falls behind, we’ll need to adjust the launch date.",
+          "highlight": "falls behind",
+          "tip": "Often used when discussing deadlines, workloads or progress."
+        },
+        {
+          "setting": "social",
+          "where": "Running conversation · sports",
+          "sentence": "I usually fall behind at the start, but I catch up near the finish.",
+          "highlight": "fall behind",
+          "tip": "Works for anything where one person or group is slower."
+        },
+        {
+          "setting": "writing",
+          "where": "School report · student progress",
+          "sentence": "Regular practice helped the learner fall behind less often.",
+          "highlight": "fall behind",
+          "tip": "Common in reports about education, performance and development."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase has been recorded in English since the 1800s. Its meaning developed from moving less far ahead to being slower in progress.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Early uses describe people or vehicles moving less far ahead than others."
+          },
+          {
+            "when": "1900s",
+            "text": "The phrase becomes established for work, study and other forms of lagging progress."
+          },
+          {
+            "when": "Today",
+            "text": "It means failing to keep pace with others or with expected progress."
+          }
+        ]
+      },
+      "similar": [
+        "lag behind",
+        "fall short",
+        "get left behind"
+      ],
+      "opposite": "keep up",
+      "pitfall": "Unlike ‘fall behind on’, this phrase usually takes no preposition when you mention the thing being matched, as in ‘fall behind the competition’."
+    },
+    {
+      "id": "full-blast",
+      "kind": "idiom",
+      "term": "full blast",
+      "pos": "idiom",
+      "hint": "maximum power or effort",
+      "register": "Everyday",
+      "meaning": "At maximum power, speed, volume or effort.",
+      "nuance": "It suggests that something is operating as intensely as possible. It often appears as ‘at full blast’ and can describe machinery, activity, noise or effort.",
+      "literal": "A furnace or blast working with the greatest possible force or heat.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch week · meeting pressure",
+          "sentence": "The support team is working at full blast to handle the launch.",
+          "highlight": "full blast",
+          "tip": "Common for maximum effort, activity or output."
+        },
+        {
+          "setting": "social",
+          "where": "New year’s party · loud music",
+          "sentence": "The music was playing at full blast, so we stayed outside.",
+          "highlight": "full blast",
+          "tip": "Often describes a machine or sound at maximum volume."
+        },
+        {
+          "setting": "writing",
+          "where": "Industry report · factory output",
+          "sentence": "The plant is operating at full blast to meet export orders.",
+          "highlight": "full blast",
+          "tip": "Useful in reports for equipment running at maximum capacity."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase appears to have developed from the idea of a furnace or blast operating at its greatest force. Its early use was literal before it became common for speed, volume and intense effort.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Wording resembling ‘full blast’ appears in descriptions of furnaces and powerful blasts."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "The phrase begins to describe engines, machinery and noise operating at maximum force."
+          },
+          {
+            "when": "Today",
+            "text": "It means maximum intensity, power, volume or effort."
+          }
+        ]
+      },
+      "similar": [
+        "at full speed",
+        "flat out",
+        "at full capacity"
+      ],
+      "opposite": "at low intensity",
+      "pitfall": "Use ‘at full blast’ for maximum intensity; use ‘full of blast’ only when you literally mean the entire quantity of explosive gas."
+    },
+    {
+      "id": "full-tilt",
+      "kind": "idiom",
+      "term": "full tilt",
+      "pos": "phrase",
+      "hint": "maximum speed or effort",
+      "register": "Common at work",
+      "meaning": "At maximum speed, effort, or intensity.",
+      "nuance": "It suggests pushing hard without slowing down. Use it for urgent activity, determined effort, or something happening very fast.",
+      "literal": "Moving with the greatest possible speed or force.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch week · fixing a delay",
+          "sentence": "The support team worked at full tilt to restore the service before noon.",
+          "highlight": "full tilt",
+          "tip": "Often used when people respond to a deadline or crisis."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception · dancing",
+          "sentence": "Once the music started, everyone was dancing at full tilt until the band finished.",
+          "highlight": "full tilt",
+          "tip": "Natural for energetic movement or activity."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · rapid growth",
+          "sentence": "Demand for the new service grew at full tilt during the first quarter.",
+          "highlight": "full tilt",
+          "tip": "Common in reports describing rapid growth or progress."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from “tilt,” an older word for a fast gallop. By the early 1800s, “full tilt” was being used for maximum speed and later for maximum effort.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1700s",
+            "text": "“Tilt” could mean the speed of a galloping horse."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers began using “full tilt” for the greatest possible speed."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase describes maximum speed, effort, or intensity."
+          }
+        ]
+      },
+      "similar": [
+        "flat out",
+        "full speed",
+        "at top speed",
+        "with great force"
+      ],
+      "opposite": "at a crawl",
+      "pitfall": "It usually appears with “at”: “at full tilt,” not “in full tilt.”"
+    },
+    {
+      "id": "hang-on",
+      "kind": "idiom",
+      "term": "hang on",
+      "pos": "idiom",
+      "hint": "wait a moment",
+      "register": "Everyday",
+      "meaning": "To wait briefly or to ask someone to pause before continuing.",
+      "nuance": "It is a quick, informal instruction often used when there is a short delay or you want someone’s attention. In some contexts, especially on the phone, it means to keep the connection open.",
+      "literal": "Keeping hold of something while waiting.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Phone call · waiting for a colleague",
+          "sentence": "Hang on for a minute; I’m just checking the shared spreadsheet.",
+          "highlight": "Hang on",
+          "tip": "A natural way to keep someone waiting briefly on a call."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · sudden interruption",
+          "sentence": "Could you hang on for a second? I need to answer the door.",
+          "highlight": "hang on",
+          "tip": "Use it when you need someone to pause."
+        },
+        {
+          "setting": "writing",
+          "where": "Chat message · delayed reply",
+          "sentence": "Please hang on while I finish this report and send you the details.",
+          "highlight": "hang on",
+          "tip": "Common in quick messages when the response will take a little time."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase began as a literal instruction to hold on tightly, then developed into a familiar way of telling someone to wait. Its exact earliest figurative use is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "People use “hang on” as a command to keep hold of something."
+          },
+          {
+            "when": "1900s",
+            "text": "The phrase is established in conversation and written messages for asking someone to wait."
+          },
+          {
+            "when": "Today",
+            "text": "It means waiting briefly, keeping a connection open, or asking someone to pause."
+          }
+        ]
+      },
+      "similar": [
+        "hold on",
+        "wait a moment",
+        "stay on the line"
+      ],
+      "opposite": "let go",
+      "pitfall": "In British English, “hang on” can also mean “continue” during a phone call, so context matters."
+    },
+    {
+      "id": "high-time",
+      "kind": "idiom",
+      "term": "high time",
+      "pos": "idiom",
+      "hint": "should have happened already",
+      "register": "Common at work",
+      "meaning": "It is now time to do something that should have been done earlier.",
+      "nuance": "It suggests delay has gone on long enough. Use it to introduce a needed action, often with a mildly urgent or slightly reproachful tone.",
+      "literal": "A point in time that has already passed, when action is overdue.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · missed deadline",
+          "sentence": "It’s high time we fixed the reporting process before the next audit.",
+          "highlight": "high time",
+          "tip": "Often followed by ‘we’ or ‘you’ and a clear next action."
+        },
+        {
+          "setting": "social",
+          "where": "Friends · unanswered invitation",
+          "sentence": "It’s high time I answered Priya’s invitation, hasn’t it?",
+          "highlight": "high time",
+          "tip": "Adds gentle pressure when you admit something has been left too long."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · delayed proposal",
+          "sentence": "It is high time to confirm the budget so the team can begin work.",
+          "highlight": "high time",
+          "tip": "Common in professional emails when a delay needs to be acknowledged."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from older senses of ‘high time’ meaning a period of urgency or need. The exact link to the current meaning is not fully clear.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "‘High time’ was used for a period of danger, need or urgency."
+          },
+          {
+            "when": "1600s",
+            "text": "The expression ‘it is high time’ was established in the sense of ‘the moment for action has arrived’."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly means that something should have happened sooner."
+          }
+        ]
+      },
+      "similar": [
+        "long overdue",
+        "past time",
+        "about time",
+        "now is the time"
+      ],
+      "opposite": "no need to rush",
+      "pitfall": "Usually takes ‘it’ or ‘it’s’ before it; ‘high time’ alone can have other meanings and may sound incomplete."
+    },
+    {
+      "id": "hold-off",
+      "kind": "idiom",
+      "term": "hold off",
+      "pos": "idiom",
+      "hint": "wait before doing something",
+      "register": "Common at work",
+      "meaning": "To delay an action or postpone doing something until a later time or until conditions are suitable.",
+      "nuance": "It often suggests a deliberate pause rather than a permanent refusal. Depending on context, it can also mean to wait or keep someone at a distance.",
+      "literal": "Keep something away for a time.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning · choosing a supplier",
+          "sentence": "Let’s hold off on the new vendor until next quarter.",
+          "highlight": "hold off",
+          "tip": "Common for postponing a decision or action until there is a better time."
+        },
+        {
+          "setting": "social",
+          "where": "Shopping · waiting for a sale",
+          "sentence": "He held off buying the jacket until the sale started.",
+          "highlight": "held off",
+          "tip": "Often implies that the delay is sensible rather than careless."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · setting expectations",
+          "sentence": "The report will hold off discussing costs until the audit is complete.",
+          "highlight": "hold off",
+          "tip": "Useful for announcing that a topic or decision will be addressed later."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines two older English words: ‘hold’, meaning to keep back or delay, and ‘off’, meaning away. Standard dictionaries record the expression in use by the late Middle English period.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Before 1400",
+            "text": "The expression ‘hold off’ is recorded in late Middle English usage."
+          },
+          {
+            "when": "1500s–1700s",
+            "text": "Its meanings develop to include delaying action and keeping someone or something at a distance."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly means to postpone an action until a later time."
+          }
+        ]
+      },
+      "similar": [
+        "put off",
+        "delay",
+        "wait"
+      ],
+      "opposite": "go ahead",
+      "pitfall": "‘Hold off’ can also mean to resist or keep someone back, so check the surrounding words for the intended sense."
+    },
+    {
+      "id": "hold-on",
+      "kind": "idiom",
+      "term": "hold on",
+      "pos": "idiom",
+      "hint": "a brief request to wait",
+      "register": "Everyday",
+      "meaning": "To wait briefly, or to ask someone to pause for a moment.",
+      "nuance": "It often sounds impatient but usually remains polite. It can also mean “keep going” or “maintain your grip,” depending on the context.",
+      "literal": "Keeping your hand or grip steady.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team call · checking a detail",
+          "sentence": "Hold on, let me confirm the delivery date before I answer.",
+          "highlight": "Hold on",
+          "tip": "Use it when you need a few seconds to check or think."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · someone is talking",
+          "sentence": "Could you hold on? I think my phone is ringing.",
+          "highlight": "hold on",
+          "tip": "Common in casual speech when briefly interrupting yourself."
+        },
+        {
+          "setting": "writing",
+          "where": "Customer email · requesting time",
+          "sentence": "Please hold on while I check with our support team.",
+          "highlight": "hold on",
+          "tip": "Useful when explaining a short delay to a reader."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase grew from older uses of “hold” meaning to stay or wait, with “on” suggesting that the waiting or holding should continue. Its exact first appearance is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Hold” could mean to stay, wait or keep a grip."
+          },
+          {
+            "when": "19th century",
+            "text": "“Hold on” becomes established in speech and writing for asking someone to wait."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly means “wait a moment” or “pause.”"
+          }
+        ]
+      },
+      "similar": [
+        "hang on",
+        "wait a moment",
+        "hold onto"
+      ],
+      "opposite": "carry on",
+      "pitfall": "“Hold on” means to wait or pause, while “hold onto” means to keep something in your hand or retain possession of it."
+    },
+    {
+      "id": "hold-up",
+      "kind": "idiom",
+      "term": "hold up",
+      "pos": "idiom",
+      "hint": "keep something from moving forward",
+      "register": "Common at work",
+      "meaning": "To delay something or prevent it from making progress.",
+      "nuance": "Often used when a person, approval or unexpected problem is causing a delay. It can also mean to support something physically, depending on the context.",
+      "literal": "Keeping an object or person from moving forward.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch planning · awaiting approval",
+          "sentence": "A legal review will hold up the launch until Friday.",
+          "highlight": "hold up",
+          "tip": "Common for delays caused by approvals, problems or dependencies."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a walk · bad weather",
+          "sentence": "Heavy rain can hold up our walk for hours.",
+          "highlight": "hold up",
+          "tip": "Use it when weather or another obstacle delays an activity."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · delivery risk",
+          "sentence": "The supplier shortage could hold up the entire project.",
+          "highlight": "hold up",
+          "tip": "Useful in reports when explaining why work has been delayed."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase grew from literal uses involving supporting or stopping something. By the 1800s, it was also being used figuratively for delaying people, plans or progress.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "‘Hold up’ originally meant to support something or keep it from falling or moving."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers began using the phrase for stopping or delaying movement and progress."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly means to delay an activity, process or project."
+          }
+        ]
+      },
+      "similar": [
+        "delay",
+        "hold back",
+        "set back",
+        "hold up the works"
+      ],
+      "opposite": "speed up",
+      "pitfall": "In some contexts, ‘hold up’ simply means to support something, as in ‘hold up the sign for a moment.’"
+    },
+    {
+      "id": "in-a-snap",
+      "kind": "idiom",
+      "term": "in a snap",
+      "pos": "idiom",
+      "hint": "right away",
+      "register": "Everyday",
+      "meaning": "Very quickly or immediately.",
+      "nuance": "It suggests that something happens suddenly and without delay. Use it for fast actions or quick results, often in casual conversation.",
+      "literal": "With a quick snap of the fingers.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Quick decision · choosing a meeting time",
+          "sentence": "I can send you the updated numbers in a snap.",
+          "highlight": "in a snap",
+          "tip": "Sounds informal; useful when promising a quick response."
+        },
+        {
+          "setting": "social",
+          "where": "Making plans · grabbing a drink",
+          "sentence": "Give me ten minutes, and I’ll be there in a snap.",
+          "highlight": "in a snap",
+          "tip": "Often used when someone is hurrying to arrive or finish something."
+        },
+        {
+          "setting": "writing",
+          "where": "Casual email · requesting a reply",
+          "sentence": "Could you confirm this in a snap? I need to let the team know.",
+          "highlight": "in a snap",
+          "tip": "Keeps the tone friendly, but less suited to formal emails."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely comes from the idea of making something happen by snapping your fingers. Its figurative sense of very quick action appears in the 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The expression appears in writing with the meaning of immediately or very quickly."
+          },
+          {
+            "when": "Today",
+            "text": "It is a common informal way to say that something will happen right away."
+          }
+        ]
+      },
+      "similar": [
+        "in a flash",
+        "right away",
+        "in no time"
+      ],
+      "opposite": "at some point",
+      "pitfall": "It describes speed, not the amount of time a task takes overall."
+    },
+    {
+      "id": "due-course",
+      "kind": "idiom",
+      "term": "in due course",
+      "pos": "phrase",
+      "hint": "at the appropriate time",
+      "register": "Common at work",
+      "meaning": "At the proper or expected time, after the necessary steps have been completed.",
+      "nuance": "Polite and reassuring, but it does not promise an exact date. It often suggests that something will happen naturally as the process moves forward.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project update · next steps",
+          "sentence": "The revised contract should reach Legal in due course.",
+          "highlight": "in due course",
+          "tip": "Reassures someone while avoiding a firm deadline."
+        },
+        {
+          "setting": "social",
+          "where": "Waiting for wedding details",
+          "sentence": "The invitation will arrive in due course, once the venue confirms the guest list.",
+          "highlight": "in due course",
+          "tip": "Useful when explaining a delay that is still expected."
+        },
+        {
+          "setting": "writing",
+          "where": "Payment email · invoice approval",
+          "sentence": "Payment will be processed in due course after the invoice has been approved.",
+          "highlight": "in due course",
+          "tip": "Common in formal business correspondence."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from Anglo-French and originally referred to something happening in the normal or proper order of events. Its modern meaning as ‘at the appropriate time’ developed in the early 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Late Middle English",
+            "text": "English adopted the Anglo-French expression meaning ‘in good course’, or according to the proper order."
+          },
+          {
+            "when": "Early 1600s",
+            "text": "The phrase began to mean that something would happen at the proper or expected time."
+          },
+          {
+            "when": "Today",
+            "text": "It describes something that will happen naturally after the relevant process or preparations."
+          }
+        ]
+      },
+      "similar": [
+        "in due time",
+        "at the appropriate time",
+        "eventually"
+      ],
+      "opposite": "right away",
+      "pitfall": "Use the full phrase ‘in due course’. It implies normal timing, not the same urgency as ‘as soon as possible’."
+    },
+    {
+      "id": "in-the-blink-of-an-eye",
+      "kind": "idiom",
+      "term": "in the blink of an eye",
+      "pos": "idiom",
+      "hint": "before you have time to notice",
+      "register": "Common at work",
+      "meaning": "In a very short time, almost instantly.",
+      "nuance": "It emphasizes how quickly something happened or can happen. It often feels natural in conversation and is useful for describing fast changes or sudden events.",
+      "literal": "During the quick movement of an eyelid.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team update · a fast rollout",
+          "sentence": "The customer list was cleaned and imported in the blink of an eye.",
+          "highlight": "in the blink of an eye",
+          "tip": "Good for highlighting how little time a quick process takes."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up · an unexpected change",
+          "sentence": "One moment we were planning the party, and in the blink of an eye it was cancelled.",
+          "highlight": "in the blink of an eye",
+          "tip": "Works well when describing a sudden change in plans."
+        },
+        {
+          "setting": "writing",
+          "where": "Event report · a rapid recovery",
+          "sentence": "The system returned to normal in the blink of an eye after the update.",
+          "highlight": "in the blink of an eye",
+          "tip": "A vivid alternative to saying something happened very quickly."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is linked to the very short time it takes to blink. Its precise first appearance is difficult to trace, but nineteenth-century examples show that this wording was already in use.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Writers began using the phrase to describe something happening extremely quickly."
+          },
+          {
+            "when": "1900s",
+            "text": "The expression became established in ordinary English and was used in both speech and writing."
+          },
+          {
+            "when": "Today",
+            "text": "It describes events or changes that happen almost instantly."
+          }
+        ]
+      },
+      "similar": [
+        "in the twinkling of an eye",
+        "before you know it",
+        "in a flash"
+      ],
+      "opposite": "in the slow lane",
+      "pitfall": "It describes speed, not something that happens gradually."
+    },
+    {
+      "id": "in-the-nick-of-time",
+      "kind": "idiom",
+      "term": "in the nick of time",
+      "pos": "idiom",
+      "hint": "just before it is too late",
+      "register": "Everyday",
+      "meaning": "At exactly the moment when something needs to happen, often just before a deadline or problem.",
+      "nuance": "It suggests a narrow escape or fortunate last-minute arrival. Use it when help, timing, or action arrives with very little margin.",
+      "literal": "In the tiny notch or corner marked on a clock where the minute hand is just before the next hour.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project deadline · final review",
+          "sentence": "The backup system failed, but IT restored it in the nick of time.",
+          "highlight": "in the nick of time",
+          "tip": "Natural when a problem is solved just before the deadline."
+        },
+        {
+          "setting": "social",
+          "where": "Birthday party · missing guest",
+          "sentence": "You arrived in the nick of time; we were about to give up on you.",
+          "highlight": "in the nick of time",
+          "tip": "Often conveys relief that someone or something arrived just in time."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · emergency response",
+          "sentence": "Emergency crews reached the apartment in the nick of time.",
+          "highlight": "in the nick of time",
+          "tip": "Works well in reporting when events unfold with very little time to spare."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is linked to the old practice of marking the space just before the hour on a clock. Its exact origin is not firmly documented, but the timing sense is well established.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Clock faces used small marks or notches near the numerals to show precise positions."
+          },
+          {
+            "when": "1600s",
+            "text": "Early uses of the phrase refer to arriving or acting at a precise moment on a clock."
+          },
+          {
+            "when": "Today",
+            "text": "Means doing something just before it is too late."
+          }
+        ]
+      },
+      "similar": [
+        "just in time",
+        "at the last minute",
+        "in the last minute"
+      ],
+      "opposite": "far too early",
+      "pitfall": "It describes very close timing, not something that happened late after a missed opportunity."
+    },
+    {
+      "id": "its-about-time",
+      "kind": "idiom",
+      "term": "it's about time",
+      "pos": "idiom",
+      "hint": "the moment should have arrived already",
+      "register": "Everyday",
+      "meaning": "Something should have happened sooner, or the time to do something has finally arrived.",
+      "nuance": "It can show mild impatience that something overdue should be dealt with, or relief that an opportunity has finally arrived.",
+      "literal": "The proper time for an event is now.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · delayed project",
+          "sentence": "It's about time we reviewed the project plan; we've missed two deadlines.",
+          "highlight": "It's about time",
+          "tip": "Often expresses frustration about unnecessary delay."
+        },
+        {
+          "setting": "social",
+          "where": "Birthday message · catching up",
+          "sentence": "It's about time we caught up properly; I can't believe it's been a year.",
+          "highlight": "It's about time",
+          "tip": "A friendly way to suggest that people have spent too long apart."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · requesting action",
+          "sentence": "It's about time we updated the policy so every new starter knows the process.",
+          "highlight": "It's about time",
+          "tip": "Common in emails that introduce a needed change or overdue action."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is uncertain. The phrase likely grew from older uses of “about time” meaning nearly or precisely the right moment, with the wording gradually gaining an impatient or evaluative sense.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "Writers use “about time” for an event that is approaching or nearly the right moment."
+          },
+          {
+            "when": "Late 19th century",
+            "text": "“It's about time” begins appearing as a comment on what should already have happened."
+          },
+          {
+            "when": "Today",
+            "text": "It expresses either impatience at delay or the arrival of a long-awaited opportunity."
+          }
+        ]
+      },
+      "similar": [
+        "high time",
+        "now's the time",
+        "long overdue"
+      ],
+      "opposite": "there's plenty of time",
+      "pitfall": "It often implies that something is late or should have happened earlier, so it may sound impatient."
+    }
+  ]
+}

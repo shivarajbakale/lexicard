@@ -1,0 +1,1735 @@
+{
+  "id": "words-power-conflict-3",
+  "kind": "word",
+  "name": "Power & conflict · 3",
+  "blurb": "25 words about power & conflict",
+  "cards": [
+    {
+      "id": "indict",
+      "kind": "word",
+      "term": "indict",
+      "pos": "verb",
+      "phonetic": "/ɪnˈdaɪt/",
+      "sayIt": "in-DITE",
+      "register": "Formal and legal",
+      "meaning": "To formally accuse someone of a crime or serious wrongdoing.",
+      "nuance": "This is a serious legal term, not a general word for criticising or blaming someone. An indictment brings charges but does not itself establish guilt.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company investigation · reviewing misconduct",
+          "sentence": "Prosecutors may indict two former employees if the evidence supports criminal charges.",
+          "highlight": "indict",
+          "tip": "Use it in legal or regulatory reporting when charges are formally brought."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · describing a public scandal",
+          "sentence": "The report indicts the organisation for misleading customers, although it does not prove every allegation.",
+          "highlight": "indicts",
+          "tip": "It can sound forceful in general discussion, so check the legal meaning fits your context."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · charges against a business",
+          "sentence": "A grand jury decided to indict the company over alleged fraud and conceal its financial losses.",
+          "highlight": "indict",
+          "tip": "Pair it with a named defendant, alleged conduct and the stage of the legal process."
+        }
+      ],
+      "origin": {
+        "summary": "It comes through Anglo-French from Latin indicere, a word built from in- and dicere, both connected with speaking out against someone.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Roman Latin",
+            "text": "Indicere meant to declare, state or accuse, combining in- with dicere, ‘to say’."
+          },
+          {
+            "when": "Medieval period",
+            "text": "The word entered Middle English through Anglo-French in senses connected with accusation and formal statements."
+          },
+          {
+            "when": "1600s onward",
+            "text": "The spelling indict became established, especially for formally charging someone with a crime."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "indictment",
+          "label": "noun"
+        },
+        {
+          "term": "indicatory",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "accuse",
+        "charge",
+        "impeach",
+        "prosecute"
+      ],
+      "opposite": "acquit",
+      "pitfall": "Don’t use indict as a softer synonym for blame or criticise; it refers to a formal accusation of wrongdoing."
+    },
+    {
+      "id": "inflicted",
+      "kind": "word",
+      "term": "inflicted",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈflɪktɪd/",
+      "sayIt": "in-FLIK-tid",
+      "register": "Formal",
+      "meaning": "Caused deliberately, especially pain, damage, punishment or suffering upon someone or something.",
+      "nuance": "It usually suggests that harm was imposed on a person rather than accidentally suffered. The phrase “inflicted upon” sounds especially formal and can make the action sound deliberate or severe.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Incident report · workplace harm",
+          "sentence": "The report says the error inflicted serious damage on the customer database.",
+          "highlight": "inflicted",
+          "tip": "Use it for measurable damage or disruption, especially in formal reports."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · describing cruelty",
+          "sentence": "She did not realize how much emotional pain his betrayal inflicted on the family.",
+          "highlight": "inflicted",
+          "tip": "It often takes the form “inflicted on” or “inflicted upon”."
+        },
+        {
+          "setting": "writing",
+          "where": "History essay · describing punishment",
+          "sentence": "The regime inflicted harsh punishments on anyone who challenged its authority.",
+          "highlight": "inflicted",
+          "tip": "This construction suits analysis of cruelty, punishment and deliberate harm."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin inflictus, the past participle of infligere, meaning “to strike against” or “lay upon.” It entered English in the sense of imposing punishment or causing harm.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Inficere means “to strike or lay upon”; its past participle is inflictus."
+          },
+          {
+            "when": "1500s",
+            "text": "The form “inflict” enters English, initially meaning to impose a punishment or penalty."
+          },
+          {
+            "when": "Today",
+            "text": "“Inflicted” commonly describes deliberate pain, damage or suffering."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "inflict",
+          "label": "verb"
+        },
+        {
+          "term": "infliction",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "imposed",
+        "dealt",
+        "caused",
+        "inflicted upon"
+      ],
+      "opposite": "sustained",
+      "pitfall": "Usually describe the harm itself, not the person causing it: say “harm was inflicted,” rather than “he was inflicted.”"
+    },
+    {
+      "id": "infraction",
+      "kind": "word",
+      "term": "infraction",
+      "pos": "noun",
+      "phonetic": "/ɪnˈfrækʃən/",
+      "sayIt": "in-FRAK-shun",
+      "register": "Formal",
+      "meaning": "A violation of a law, rule or official agreement.",
+      "nuance": "Often suggests a relatively minor breach, but it can refer to any violation. It sounds more formal than “rule-breaking” and may imply that the breach can be challenged or penalised.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office conduct · reviewing a policy breach",
+          "sentence": "The late submission was treated as a minor infraction rather than a serious disciplinary matter.",
+          "highlight": "infraction",
+          "tip": "Use it for a breach of workplace rules, especially when the wording needs to remain formal."
+        },
+        {
+          "setting": "social",
+          "where": "Shared event · enforcing house rules",
+          "sentence": "Parking across the drive was a small infraction, but the neighbours were not pleased.",
+          "highlight": "infraction",
+          "tip": "It can describe a minor breach of expectations without sounding as severe as “crime.”"
+        },
+        {
+          "setting": "writing",
+          "where": "Report · documenting a regulatory breach",
+          "sentence": "The inspection recorded an infraction of the safety code and required the barrier to be replaced.",
+          "highlight": "infraction",
+          "tip": "Common in legal, regulatory and formal reports about violations."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin infractio, meaning “a breaking,” formed from infringere, “to break or infringe.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Roman legal Latin",
+            "text": "Infractio referred to a breaking or breach, especially of a law or agreement."
+          },
+          {
+            "when": "1600s–1700s",
+            "text": "The word enters English in legal and official contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means a violation of a rule, law or formal agreement."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "infringe",
+          "label": "verb"
+        },
+        {
+          "term": "infringement",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "violation",
+        "breach",
+        "offence",
+        "transgression"
+      ],
+      "opposite": "compliance",
+      "pitfall": "Do not confuse it with “infrastructure,” which refers to the basic systems and facilities of a place or organisation."
+    },
+    {
+      "id": "ingratiate",
+      "kind": "word",
+      "term": "ingratiate",
+      "pos": "verb",
+      "phonetic": "/ɪŋˈɡreɪʃieɪt/",
+      "sayIt": "in-GRAY-shee-ayt",
+      "register": "Formal",
+      "meaning": "To try to earn someone’s favour or approval by being especially pleasing, flattering or attentive to them.",
+      "nuance": "It often suggests that the effort feels excessive, calculating or insincere. It is commonly used with “oneself” or “himself” and carries a mildly negative tone.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Networking event · meeting a senior contact",
+          "sentence": "He tried to ingratiate himself with the director by agreeing with everything she said.",
+          "highlight": "ingratiate himself",
+          "tip": "Use it when describing obvious attempts to win favour, especially if they seem fake."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · impressing a new guest",
+          "sentence": "She was complimenting everyone and laughing too loudly, clearly trying to ingratiate herself.",
+          "highlight": "ingratiate herself",
+          "tip": "The reflexive form is especially common when someone is behaving in an overly flattering way."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · describing workplace behaviour",
+          "sentence": "The report says he attempted to ingratiate himself with managers rather than contribute openly to the team.",
+          "highlight": "ingratiate himself",
+          "tip": "It fits serious descriptions of political behaviour, flattery or calculated displays of loyalty."
+        }
+      ],
+      "origin": {
+        "summary": "It comes through Italian from Latin ingratus, meaning “ungrateful”, with the sense shifting toward gaining favour by pleasing someone.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Ingratus combines the negative prefix in- with gratus, “pleasing” or “grateful”."
+          },
+          {
+            "when": "Italian",
+            "text": "Ingratiare develops the meaning “to make oneself pleasing to someone”."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English, initially describing behaviour intended to gain favour or patronage."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "ingratiation",
+          "label": "noun"
+        },
+        {
+          "term": "ingratiating",
+          "label": "adjective"
+        },
+        {
+          "term": "ingratiated",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "curry favour",
+        "flatter",
+        "fawn over",
+        "win over"
+      ],
+      "opposite": "alienate",
+      "pitfall": "Ingratiate usually implies a deliberate and often excessive effort to gain favour; for ordinary praise or friendly behaviour, use “please” or “impress”."
+    },
+    {
+      "id": "interloper",
+      "kind": "word",
+      "term": "interloper",
+      "pos": "noun",
+      "phonetic": "/ˈɪntərloʊpər/",
+      "sayIt": "IN-ter-loh-per",
+      "register": "Formal; common at work",
+      "meaning": "Someone who enters a group, place, or activity without permission or a clear invitation.",
+      "nuance": "The word is usually negative and suggests someone is intruding on other people’s territory, responsibility, or conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project meeting · an unexpected attendee",
+          "sentence": "The contractor’s engineer acted like an interloper in our internal planning meeting.",
+          "highlight": "interloper",
+          "tip": "Useful when someone enters a meeting or decision-making process without a role."
+        },
+        {
+          "setting": "social",
+          "where": "Party · arriving with a friend",
+          "sentence": "At first she felt like an interloper, but soon the group made her feel welcome.",
+          "highlight": "interloper",
+          "tip": "It can describe feeling out of place even when nobody has actually challenged you."
+        },
+        {
+          "setting": "writing",
+          "where": "Security report · describing unauthorized access",
+          "sentence": "The report identifies the interloper as an unauthorized contractor who entered the restricted area.",
+          "highlight": "interloper",
+          "tip": "It gives a formal, slightly dramatic tone to reports about unwanted or unapproved entry."
+        }
+      ],
+      "origin": {
+        "summary": "Formed in English from the prefix inter-, meaning ‘between’ or ‘into’, and lope, meaning ‘to move or sneak’, with the ending -er for a person.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "Interloper first appears in English with the sense of someone who moves between places or joins an activity without permission."
+          },
+          {
+            "when": "1600s",
+            "text": "The word becomes established for an unwelcome person who intrudes on other people’s affairs."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for unwanted entrants in workplaces, institutions, groups, and restricted places."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "interlope",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "intruder",
+        "outsider",
+        "newcomer",
+        "trespasser"
+      ],
+      "opposite": "invited guest",
+      "pitfall": "Unlike outsider, which can simply mean someone new, interloper usually implies that the person has entered without permission."
+    },
+    {
+      "id": "internecine",
+      "kind": "word",
+      "term": "internecine",
+      "pos": "adjective",
+      "phonetic": "/ˌɪntərˈniːsiːn/",
+      "sayIt": "IN-ter-NEE-sin",
+      "register": "Formal and literary",
+      "meaning": "Causing destruction or serious harm to all the parties involved.",
+      "nuance": "This rare word usually describes conflict in which both sides hurt or destroy each other. It can also describe destructive rivalry within one group.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Strategy meeting · rival teams",
+          "sentence": "The two departments entered an internecine bidding war that helped neither of them.",
+          "highlight": "internecine",
+          "tip": "Use it for mutually damaging competition, but expect it to sound deliberately formal."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · old rivalry",
+          "sentence": "Their argument became internecine, with each side saying things designed to wound the other.",
+          "highlight": "internecine",
+          "tip": "It is strongest when the conflict harms everyone involved rather than just one target."
+        },
+        {
+          "setting": "writing",
+          "where": "History essay · describing civil conflict",
+          "sentence": "The novel portrays an internecine struggle in which rival families destroy their own community.",
+          "highlight": "internecine",
+          "tip": "It works well in literary or historical writing when you want a precise, elevated tone."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin internecinus, meaning destructive on both sides. It combines inter-, meaning between, with necare, meaning to kill.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Neocitur from internecare, a combination of inter-, ‘between’, and necare, ‘to kill’."
+          },
+          {
+            "when": "1600s",
+            "text": "The Latin word enters English with senses connected with mutual destruction."
+          },
+          {
+            "when": "Today",
+            "text": "It remains rare and is mainly used in formal or literary contexts."
+          }
+        ]
+      },
+      "similar": [
+        "mutually destructive",
+        "self-destructive",
+        "destructive",
+        "ruinous"
+      ],
+      "opposite": "cooperative",
+      "pitfall": "This does not simply mean hostile or destructive; it usually implies harm to every side involved."
+    },
+    {
+      "id": "intimidate",
+      "kind": "word",
+      "term": "intimidate",
+      "pos": "verb",
+      "phonetic": "/ɪnˈtɪmɪdeɪt/",
+      "sayIt": "in-TIM-ih-dayt",
+      "register": "Common at work",
+      "meaning": "To make someone feel afraid, nervous, or afraid to act because of your presence, power, or manner.",
+      "nuance": "It describes creating a sense of fear or pressure, especially when someone has some power over you. It can also mean making someone feel less confident or more restrained.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · raising a concern",
+          "sentence": "I didn’t want to intimidate the junior team, so I asked for their views before explaining my decision.",
+          "highlight": "intimidate",
+          "tip": "Use it when describing how a powerful person’s presence affects others."
+        },
+        {
+          "setting": "social",
+          "where": "Group conversation · disagreeing",
+          "sentence": "He can intimidate people simply by interrupting every time they speak.",
+          "highlight": "intimidate",
+          "tip": "It often suggests that fear comes from a person’s manner, not just what they say."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · explaining leadership style",
+          "sentence": "Some employees felt the new manager’s direct approach intimidated them and made it harder to ask questions.",
+          "highlight": "intimidated",
+          "tip": "The related adjective, ‘intimidated,’ describes how someone feels."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin intimidare, meaning ‘to make timid’, built on timidus, ‘timid’ or ‘fearful’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Intimidare develops from timidus, meaning ‘timid’ or ‘fearful’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with the meaning ‘to make afraid or timid’."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for making people nervous, fearful, or less confident."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "intimidating",
+          "label": "adjective"
+        },
+        {
+          "term": "intimidated",
+          "label": "adjective"
+        },
+        {
+          "term": "intimidation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "unnerve",
+        "frighten",
+        "browbeat",
+        "cow"
+      ],
+      "opposite": "reassure",
+      "pitfall": "Don’t use ‘intimidate’ as a simple substitute for ‘frighten’ when the focus is on making someone feel safe or comfortable enough to act."
+    },
+    {
+      "id": "inviolable",
+      "kind": "word",
+      "term": "inviolable",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈvaɪələbəl/",
+      "sayIt": "in-VY-uh-luh-buhl",
+      "register": "Formal",
+      "meaning": "So important or firmly established that it must not be broken, ignored or interfered with.",
+      "nuance": "This is a strong, formal word for rules, rights, promises or principles. It suggests that the boundary is absolute and not open to practical exceptions.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · setting boundaries",
+          "sentence": "The security policy is inviolable, so nobody can access the records without approval.",
+          "highlight": "inviolable",
+          "tip": "Use it for a rule that the organisation treats as absolute."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · making a promise",
+          "sentence": "I made my sister an inviolable promise, and I have always kept it.",
+          "highlight": "inviolable",
+          "tip": "It gives a promise a serious, lasting sense that it must never be broken."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal report · protecting a right",
+          "sentence": "The constitution declares the right to privacy inviolable.",
+          "highlight": "inviolable",
+          "tip": "It sounds authoritative in legal, political and ethical writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin inviolabilis, meaning ‘not to be violated’, formed from in-, ‘not’, and violare, ‘to violate’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin inviolabilis means ‘not to be violated’ or ‘protected from injury’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in legal and formal contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used for principles, rights, promises and rules that must be respected."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "inviolability",
+          "label": "noun"
+        },
+        {
+          "term": "inviolably",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "inviolate",
+        "immutable",
+        "unbreakable",
+        "sacred"
+      ],
+      "opposite": "violable",
+      "pitfall": "Don’t confuse it with inviolate, which means currently untouched or unbroken. Inviolable describes something that must never be violated."
+    },
+    {
+      "id": "jeopardize",
+      "kind": "word",
+      "term": "jeopardize",
+      "pos": "verb",
+      "phonetic": "/ˈdʒɛpərdaɪz/",
+      "sayIt": "JEP-er-dize",
+      "register": "Common at work",
+      "meaning": "To put something valuable at risk of harm, loss, or failure.",
+      "nuance": "It is a fairly strong verb for actions that could damage a person, plan, reputation, or result. It often suggests a serious risk rather than a minor inconvenience.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · warning about a deadline",
+          "sentence": "Skipping the security review could jeopardize the launch and the company’s reputation.",
+          "highlight": "jeopardize",
+          "tip": "Use it when an action could seriously damage an important outcome."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a road trip · weather warning",
+          "sentence": "Driving through the storm may jeopardize our safety and the trip itself.",
+          "highlight": "jeopardize",
+          "tip": "A natural choice for discussing risks to people, plans, or shared activities."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal report · explaining a risk",
+          "sentence": "Cutting maintenance could jeopardize the building’s structural integrity.",
+          "highlight": "jeopardize",
+          "tip": "It sounds professional in reports, though it can sound dramatic in casual writing."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from jeopardy, which originally referred to a risky game in which the result depended on a single chance. Jeopardize was later formed by adding the verb-making ending -ize.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old French",
+            "text": "Jeopardy developed from an expression meaning a divided game, with the outcome resting on one chance."
+          },
+          {
+            "when": "1400s",
+            "text": "Jeopardy appears in English, first referring to a dangerous game and later to danger or risk."
+          },
+          {
+            "when": "Early 1800s",
+            "text": "Jeopardize is formed from jeopardy with the ending -ize."
+          },
+          {
+            "when": "Today",
+            "text": "It means to put something important at risk of harm or failure."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "jeopardy",
+          "label": "noun"
+        },
+        {
+          "term": "jeopardous",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "endanger",
+        "imperil",
+        "threaten",
+        "undermine",
+        "compromise"
+      ],
+      "opposite": "protect",
+      "pitfall": "Jeopardize describes putting something at risk; it does not mean that the harm has already happened."
+    },
+    {
+      "id": "jostle",
+      "kind": "word",
+      "term": "jostle",
+      "pos": "verb",
+      "phonetic": "/ˈdʒɒs.əl/",
+      "sayIt": "JOSS-uhl",
+      "register": "Common",
+      "meaning": "To push, squeeze, or move roughly against someone in a crowded space.",
+      "nuance": "It suggests energetic or slightly forceful physical contact. It can also mean competing closely for attention, position, or advantage.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Busy office · crossing paths",
+          "sentence": "We jostle for space around the coffee machine every morning.",
+          "highlight": "jostle",
+          "tip": "Usually describes mild, accidental pushing in a crowded place."
+        },
+        {
+          "setting": "social",
+          "where": "Concert crowd · waiting near the stage",
+          "sentence": "We jostled towards the front as the doors opened.",
+          "highlight": "jostled",
+          "tip": "The past tense works naturally when telling a quick story."
+        },
+        {
+          "setting": "writing",
+          "where": "Market report · rivalry for customers",
+          "sentence": "Several small stores jostle for attention on the same shopping street.",
+          "highlight": "jostle",
+          "tip": "Used figuratively, it suits business and competition contexts."
+        }
+      ],
+      "origin": {
+        "summary": "Probably developed from the older word justle, influenced by Old French jostler, meaning to joust or tilt. The original sense was linked to close physical encounters.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Middle English",
+            "text": "The form justle appears in the sense of pushing or coming into close contact."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The spelling jostle becomes established."
+          },
+          {
+            "when": "Today",
+            "text": "It describes rough movement in crowds and, figuratively, close competition."
+          }
+        ]
+      },
+      "similar": [
+        "nudge",
+        "shove",
+        "bump",
+        "crowd",
+        "compete"
+      ],
+      "opposite": "avoid",
+      "pitfall": "Jostle implies physical movement or a jostling sense of rivalry; it does not simply mean talk to someone casually."
+    },
+    {
+      "id": "jurisdiction",
+      "kind": "word",
+      "term": "jurisdiction",
+      "pos": "noun",
+      "phonetic": "/dʒʊərɪsˈdɪkʃən/",
+      "sayIt": "JUR-is-DIK-shun",
+      "register": "Formal",
+      "meaning": "The legal authority of a court, organisation, or government to make decisions or enforce rules over a particular matter or area.",
+      "nuance": "In legal and workplace contexts, it often means the official power or area of responsibility. It can also refer to the geographical area where that authority applies.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Compliance meeting · clarifying responsibility",
+          "sentence": "The finance team has jurisdiction over payments, while the operations team handles supplier disputes.",
+          "highlight": "jurisdiction",
+          "tip": "Use it to identify which team or authority is responsible for a decision."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · local government powers",
+          "sentence": "The council has jurisdiction over public parks, but it does not manage private land.",
+          "highlight": "jurisdiction",
+          "tip": "This formal word can make a discussion of authority sound more precise."
+        },
+        {
+          "setting": "writing",
+          "where": "Legal letter · dispute escalation",
+          "sentence": "Before filing a claim, check whether the court has jurisdiction over the parties and the location involved.",
+          "highlight": "jurisdiction",
+          "tip": "Common in legal writing when describing a court’s authority to hear a case."
+        }
+      ],
+      "origin": {
+        "summary": "From French, ultimately from Latin juris dicere, meaning to speak or pronounce law.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The roots refer to speaking law or declaring what is legally right."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word first referred to a court’s authority or the act of administering justice."
+          },
+          {
+            "when": "Modern English",
+            "text": "It now covers legal authority, legal territory, and an area of organisational responsibility."
+          }
+        ]
+      },
+      "similar": [
+        "authority",
+        "mandate",
+        "domain",
+        "scope",
+        "competence"
+      ],
+      "opposite": "non-jurisdiction",
+      "pitfall": "It usually describes legal or official authority, not simply a broad personal influence; use influence or control for that meaning."
+    },
+    {
+      "id": "machiavellian",
+      "kind": "word",
+      "term": "Machiavellian",
+      "pos": "adjective",
+      "phonetic": "/ˌmækiəˈvɛliən/",
+      "sayIt": "MAK-ee-uh-VELL-ee-uhn",
+      "register": "Formal and often negative",
+      "meaning": "Cunning, calculating and willing to manipulate people or situations to gain an advantage.",
+      "nuance": "It suggests cynical political tactics or deliberate deception. It can describe a person, plan or strategy, but is usually more critical than simply saying someone is strategic.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · competing proposals",
+          "sentence": "His Machiavellian approach won support, but it left the rest of us suspicious of his motives.",
+          "highlight": "Machiavellian",
+          "tip": "Use it for manipulative conduct that goes beyond ordinary workplace negotiation."
+        },
+        {
+          "setting": "social",
+          "where": "Group chat · explaining someone’s motives",
+          "sentence": "She seemed friendly, but her Machiavellian timing made everyone distrust her.",
+          "highlight": "Machiavellian",
+          "tip": "It can fit personal drama when behaviour appears deliberately designed to divide people."
+        },
+        {
+          "setting": "writing",
+          "where": "Business analysis · assessing a rival",
+          "sentence": "The takeover plan looked clever until we recognized its Machiavellian treatment of smaller suppliers.",
+          "highlight": "Machiavellian",
+          "tip": "Strong in commentary and criticism, but usually too loaded for a neutral report."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from the Italian political writer Niccolò Machiavelli and was made popular by his book The Prince, associated with cunning leadership and the use of political power.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1513",
+            "text": "Machiavelli completes The Prince, which examines how rulers gain and preserve power."
+          },
+          {
+            "when": "1532",
+            "text": "The first published edition of The Prince appears, followed by English translations."
+          },
+          {
+            "when": "1530s",
+            "text": "The English adjective begins referring to political cunning and manipulation."
+          },
+          {
+            "when": "Today",
+            "text": "It describes cynical, calculating behaviour or tactics."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "Machiavellian",
+          "label": "noun (person)"
+        },
+        {
+          "term": "Machiavellianism",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "cunning",
+        "calculating",
+        "devious",
+        "manipulative"
+      ],
+      "opposite": "scrupulous",
+      "pitfall": "Don’t use it for an ordinary strategic plan; it carries a stronger implication of deception or cynical manipulation."
+    },
+    {
+      "id": "neutralize",
+      "kind": "word",
+      "term": "neutralize",
+      "pos": "verb",
+      "phonetic": "/ˈnuːtrəlaɪz/",
+      "sayIt": "NOO-truh-lyze",
+      "register": "Common at work",
+      "meaning": "To make something harmless, ineffective, or no longer able to cause conflict.",
+      "nuance": "It can describe physically removing danger, cancelling an effect, or reducing opposition to a workable level. The wording may sound firm or controlling rather than conciliatory.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · managing competing priorities",
+          "sentence": "We’ll neutralize the urgent request by assigning it a clear deadline and owner.",
+          "highlight": "neutralize",
+          "tip": "Useful when describing how you contain a problem or competing demand."
+        },
+        {
+          "setting": "social",
+          "where": "Family discussion · easing tension",
+          "sentence": "He made a joke to neutralize the awkwardness before changing the subject.",
+          "highlight": "neutralize",
+          "tip": "Often suggests responding to tension with something that takes the edge off."
+        },
+        {
+          "setting": "writing",
+          "where": "Safety report · describing a risk",
+          "sentence": "The barrier helps neutralize the impact if the battery is damaged.",
+          "highlight": "neutralize",
+          "tip": "A strong technical verb for reducing danger, strength, or effect."
+        }
+      ],
+      "origin": {
+        "summary": "Neutralize was formed from neutral plus the verb-ending -ize. Its roots run through French neutre and Latin neuter, meaning ‘neither’ or ‘uncommitted.’",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Neuter means ‘neither,’ originally describing a grammatical form that is neither masculine nor feminine."
+          },
+          {
+            "when": "French",
+            "text": "Neutre develops the senses ‘uncommitted,’ ‘impartial,’ and ‘without a distinctive character.’"
+          },
+          {
+            "when": "1800s",
+            "text": "Neutralize appears in scientific writing, especially in the language of chemistry."
+          },
+          {
+            "when": "Later 1800s",
+            "text": "The figurative use develops for removing conflict, opposition, or harmful effects."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "neutralization",
+          "label": "noun"
+        },
+        {
+          "term": "neutral",
+          "label": "adjective"
+        },
+        {
+          "term": "neutrally",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "defuse",
+        "counteract",
+        "offset",
+        "neutralize"
+      ],
+      "opposite": "aggravate",
+      "pitfall": "In political or workplace contexts, neutralize can sound like overpowering opposition rather than reaching agreement or remaining impartial."
+    },
+    {
+      "id": "obliterate",
+      "kind": "word",
+      "term": "obliterate",
+      "pos": "verb",
+      "phonetic": "/əˈblɪtəreɪt/",
+      "sayIt": "uh-BLIT-uh-rayt",
+      "register": "Formal",
+      "meaning": "To destroy something completely, or remove it so completely that it seems to have never existed.",
+      "nuance": "This is stronger and more dramatic than “destroy” or “delete.” It can describe physical destruction, complete erasure, or the removal of evidence.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · discussing a failed campaign",
+          "sentence": "The new launch obliterated the old campaign’s results in just one week.",
+          "highlight": "obliterated",
+          "tip": "Use it for a striking result that completely outmatches or overwhelms something."
+        },
+        {
+          "setting": "social",
+          "where": "Football match · celebrating a decisive victory",
+          "sentence": "The second-half performance completely obliterated their narrow lead.",
+          "highlight": "obliterated",
+          "tip": "It adds drama and emphasizes an overwhelming difference."
+        },
+        {
+          "setting": "writing",
+          "where": "Historical account · describing wartime destruction",
+          "sentence": "The bombardment obliterated several buildings and left the surrounding streets empty.",
+          "highlight": "obliterated",
+          "tip": "A vivid choice for writing about total physical destruction or disappearance."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin obliterare, meaning “to strike out” or “erase.” Its roots combine a prefix meaning “away” with littera, “letter.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "Obliterare develops from ob-, meaning “away” or “against,” and littera, meaning “letter.”"
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English in the sense of rubbing out or removing writing."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for complete physical destruction and for complete removal or erasure."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "obliteration",
+          "label": "noun"
+        },
+        {
+          "term": "obliterated",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "annihilate",
+        "destroy",
+        "erase",
+        "wipe out"
+      ],
+      "opposite": "preserve",
+      "pitfall": "This is more dramatic than “destroy” and is not normally used for routine removal, such as deleting one file."
+    },
+    {
+      "id": "omnipotent",
+      "kind": "word",
+      "term": "omnipotent",
+      "pos": "adjective",
+      "phonetic": "/ˌɒmˈnɪpətənt/",
+      "sayIt": "om-NIP-uh-tuhnt",
+      "register": "Formal",
+      "meaning": "Having unlimited power and being able to do anything.",
+      "nuance": "Usually describes a god, a fictional ruler or something presented as unbeatable. In everyday criticism, it can suggest that one person or system has too much control.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Strategy meeting · choosing a vendor",
+          "sentence": "No single platform is omnipotent, so we should keep our options open.",
+          "highlight": "omnipotent",
+          "tip": "Useful for warning that a powerful tool or company still has limits."
+        },
+        {
+          "setting": "social",
+          "where": "Chat with friends · teasing a pet owner",
+          "sentence": "My friend says his cat is omnipotent because it controls every household decision.",
+          "highlight": "omnipotent",
+          "tip": "Often used playfully for an especially dominant person or animal."
+        },
+        {
+          "setting": "writing",
+          "where": "Fantasy story · describing a ruler",
+          "sentence": "The novel presents an omnipotent ruler who can reshape reality with a single word.",
+          "highlight": "omnipotent",
+          "tip": "A strong formal word for theology, fantasy and dramatic world-building."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin omnipotens, meaning ‘all-powerful’, formed from omnis, ‘all’, and potens, ‘powerful’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Roman Latin",
+            "text": "Omnipotens means ‘all-powerful’, combining omnis, ‘all’, with potens, ‘powerful’."
+          },
+          {
+            "when": "Medieval period",
+            "text": "Latin Christianity uses the idea of God as omnipotent, or having unlimited power."
+          },
+          {
+            "when": "1400s onward",
+            "text": "The word enters Middle English and later becomes common in theology, fantasy and formal description."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "omnipotence",
+          "label": "noun"
+        },
+        {
+          "term": "omnipotently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "all-powerful",
+        "almighty",
+        "supreme",
+        "unlimited"
+      ],
+      "opposite": "powerless",
+      "pitfall": "It is more absolute than ‘very powerful’ and may sound exaggerated or overly dramatic in ordinary conversation."
+    },
+    {
+      "id": "oust",
+      "kind": "word",
+      "term": "oust",
+      "pos": "verb",
+      "phonetic": "/aʊst/",
+      "sayIt": "OWST",
+      "register": "Formal",
+      "meaning": "To force someone out of a position, group or place.",
+      "nuance": "It suggests that someone is removed through power, competition or pressure. It often feels forceful or adversarial.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Board meeting · leadership change",
+          "sentence": "The new director ousted two managers who had opposed the reorganization.",
+          "highlight": "ousted",
+          "tip": "Use it when someone is forcibly removed from a role or position."
+        },
+        {
+          "setting": "social",
+          "where": "Community group · leadership vote",
+          "sentence": "Members ousted the chair after she ignored the committee’s concerns.",
+          "highlight": "ousted",
+          "tip": "It can describe removal from any influential group, not just a formal workplace."
+        },
+        {
+          "setting": "writing",
+          "where": "History article · political struggle",
+          "sentence": "The article explains how the faction gradually ousted its opponents from the organization.",
+          "highlight": "ousted",
+          "tip": "This verb gives a formal, often dramatic tone to accounts of losing power."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through Middle English from Old French oster, meaning “to expel” or “remove,” ultimately from a Latin word meaning “to take away.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "From ablare, “to take away or carry off.”"
+          },
+          {
+            "when": "Old French",
+            "text": "Oster means “to expel” or “remove.”"
+          },
+          {
+            "when": "Middle English",
+            "text": "Ousten appears in the sense “expel” or “drive out.”"
+          },
+          {
+            "when": "Today",
+            "text": "Commonly means forcing someone out of a position, group or place."
+          }
+        ]
+      },
+      "similar": [
+        "expel",
+        "evict",
+        "displace",
+        "remove"
+      ],
+      "pitfall": "Do not add an “e”: it is spelled oust, not ouste."
+    },
+    {
+      "id": "peremptory",
+      "kind": "word",
+      "term": "peremptory",
+      "pos": "adjective",
+      "phonetic": "/pəˈremptəri/",
+      "sayIt": "puh-REM-puh-tree",
+      "register": "Formal; often negative",
+      "meaning": "Authoritative and final, especially in a way that leaves no room for discussion.",
+      "nuance": "It can describe a clear decision or command, but it often suggests impatience, rigidity or an unreasonable refusal to consider other views.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · challenging a decision",
+          "sentence": "Her peremptory reply ended the discussion before we could suggest another solution.",
+          "highlight": "peremptory",
+          "tip": "Use it when a forceful tone closes down a conversation."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · changing plans",
+          "sentence": "He issued a peremptory no and changed the subject without explaining why.",
+          "highlight": "peremptory",
+          "tip": "It can sound bossy or rude when used about another person."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · setting expectations",
+          "sentence": "The demand for immediate results was too peremptory to allow for a realistic handover.",
+          "highlight": "peremptory",
+          "tip": "Often works well when describing an abrupt instruction or attitude."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin peremptorius, meaning “final” or “decisive,” based on peremptus, “settled,” which comes from perimere, “to destroy or bring to an end.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Peremptorius develops the sense of final, settled and impossible to overturn."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in legal and formal contexts with the meaning of final or conclusive."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes a manner of speaking or acting that is final and unwilling to consider discussion."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "peremptorily",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "authoritative",
+        "imperious",
+        "dogmatic",
+        "categorical"
+      ],
+      "opposite": "consultative",
+      "pitfall": "Peremptory describes how something is said or done, not simply whether it is important or decisive."
+    },
+    {
+      "id": "perpetrate",
+      "kind": "word",
+      "term": "perpetrate",
+      "pos": "verb",
+      "phonetic": "/ˈpɜːrpəˌtreɪt/",
+      "sayIt": "PUR-puh-TRAYT",
+      "register": "Formal",
+      "meaning": "To carry out a crime, violent act, or other seriously wrong deed.",
+      "nuance": "This is a strong, formal word for doing something harmful or unlawful. It is usually used in reports, legal writing, and serious journalism.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Security briefing · discussing an incident",
+          "sentence": "The investigation is examining whether the same group perpetrated the attack on the warehouse.",
+          "highlight": "perpetrated",
+          "tip": "Use the past form in reports when describing an incident that has already happened."
+        },
+        {
+          "setting": "social",
+          "where": "News conversation · reacting to a fraud case",
+          "sentence": "He was accused of perpetrating fraud, but the court found no evidence against him.",
+          "highlight": "perpetrating",
+          "tip": "This sounds formal and serious, so reserve it for clear wrongdoing."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · condemning online abuse",
+          "sentence": "The article condemns the campaign for perpetrating coordinated harassment against public figures.",
+          "highlight": "perpetrating",
+          "tip": "It fits formal editorial and legal language, especially with crimes, violence, or fraud."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin perpetrare, meaning ‘to carry through’ or ‘to complete’, originally a neutral term for carrying out an action.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Perpetrare meant ‘to carry through’ or ‘to complete’, built from per- ‘through’ and petere ‘to seek’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in legal and literary contexts, initially with the sense of carrying out or completing."
+          },
+          {
+            "when": "Today",
+            "text": "It is used mainly for crimes and other seriously harmful acts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "perpetration",
+          "label": "noun"
+        },
+        {
+          "term": "perpetrator",
+          "label": "noun (person)"
+        },
+        {
+          "term": "perpetrated",
+          "label": "past tense"
+        }
+      ],
+      "similar": [
+        "commit",
+        "carry out",
+        "execute",
+        "wreak"
+      ],
+      "opposite": "prevent",
+      "pitfall": "Don’t use it for ordinary actions; ‘commit a meeting’ is incorrect. Use it for crimes or seriously wrong acts."
+    },
+    {
+      "id": "plaintiff",
+      "kind": "word",
+      "term": "plaintiff",
+      "pos": "noun",
+      "phonetic": "/ˈpleɪntɪf/",
+      "sayIt": "PLAY-ntiff",
+      "register": "Formal",
+      "meaning": "The person or organisation that starts a legal case by making a complaint against someone else.",
+      "nuance": "This is a legal role, not a general label for someone who complains. It is usually paired with a case type, such as a commercial plaintiff or the plaintiff in a negligence case.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Legal meeting · reviewing a claim",
+          "sentence": "Our legal team represents the plaintiff, while the other company has appointed its own defence solicitor.",
+          "highlight": "plaintiff",
+          "tip": "Use it when identifying the side that began the legal proceedings."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · discussing a court case",
+          "sentence": "The plaintiff says the faulty heater caused thousands in damage, but the supplier denies responsibility.",
+          "highlight": "plaintiff",
+          "tip": "It works in an informal explanation of a dispute, even though the word itself is legal."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · outlining a lawsuit",
+          "sentence": "The plaintiff filed a claim on Monday, arguing that the company knowingly sold defective equipment.",
+          "highlight": "plaintiff",
+          "tip": "Keep it lowercase unless it begins a sentence or forms part of a formal title."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through Old French from Latin roots connected with making a complaint or bringing a charge.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The roots relate to complaining, lamenting and formally accusing another party."
+          },
+          {
+            "when": "Old French",
+            "text": "Plaignant develops as a legal term for the person bringing an action."
+          },
+          {
+            "when": "Late Middle English",
+            "text": "The word enters English in its legal sense."
+          },
+          {
+            "when": "Today",
+            "text": "It remains the standard name for the party that begins most civil lawsuits."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "plaintiff's case",
+          "label": "noun phrase"
+        },
+        {
+          "term": "co-plaintiff",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "claimant",
+        "complainant",
+        "applicant"
+      ],
+      "opposite": "defendant",
+      "pitfall": "Do not confuse it with principle. A plaintiff is a person or organisation bringing a case; a principle is a guiding rule or belief."
+    },
+    {
+      "id": "potentate",
+      "kind": "word",
+      "term": "potentate",
+      "pos": "noun",
+      "phonetic": "/ˈpoʊtənteɪt/",
+      "sayIt": "POH-tuhn-tayt",
+      "register": "Formal or literary",
+      "meaning": "A ruler or leader who holds powerful authority.",
+      "nuance": "This word sounds grand and old-fashioned, so it is more likely to appear in historical writing than in everyday conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "History presentation · describing a regime",
+          "sentence": "The potentate governed the region with absolute authority and little outside scrutiny.",
+          "highlight": "potentate",
+          "tip": "Use it in a historical or political context where the formal tone fits."
+        },
+        {
+          "setting": "social",
+          "where": "Novel discussion · an imaginary kingdom",
+          "sentence": "The young potentate distrusted the advisers who surrounded his father.",
+          "highlight": "potentate",
+          "tip": "It adds a dramatic, slightly old-fashioned flavour to stories about rulers."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · a period drama",
+          "sentence": "The film presents its ruler not as a noble leader but as a ruthless potentate.",
+          "highlight": "potentate",
+          "tip": "It works well when you want to emphasize both political power and a distant or authoritarian style of rule."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French potentat, based on Latin potentatus, meaning rule or power, from potens, meaning powerful.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Potentatus develops from roots meaning power, rule and powerful authority."
+          },
+          {
+            "when": "Old French",
+            "text": "The word appears as potentat, referring to a ruler with extensive power."
+          },
+          {
+            "when": "Late Middle English",
+            "text": "Potentate enters English, initially in political and historical contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It survives mainly as a formal or literary word for a powerful ruler."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "potency",
+          "label": "noun"
+        },
+        {
+          "term": "potent",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "monarch",
+        "ruler",
+        "sovereign",
+        "tyrant"
+      ],
+      "opposite": "commoner",
+      "pitfall": "Do not confuse it with potential, which means the possibility of something happening or developing."
+    },
+    {
+      "id": "prerogative",
+      "kind": "word",
+      "term": "prerogative",
+      "pos": "noun",
+      "phonetic": "/prɪˈrɒɡətɪv/",
+      "sayIt": "pri-ROG-uh-tiv",
+      "register": "Formal",
+      "meaning": "A special right or privilege that gives someone authority or freedom to act in a particular way.",
+      "nuance": "Often suggests a power reserved for a particular person or group, especially one connected with status, authority or tradition. It can sound formal and occasionally imply that the holder is being protective of an unfair advantage.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Board meeting · approving a decision",
+          "sentence": "The chair has the prerogative to call an early meeting if a decision cannot wait.",
+          "highlight": "prerogative",
+          "tip": "Use it for a recognised right or authority, not simply a personal preference."
+        },
+        {
+          "setting": "social",
+          "where": "Family dinner · making a plan",
+          "sentence": "It is my prerogative as host to choose the restaurant, so let us go somewhere quiet.",
+          "highlight": "prerogative",
+          "tip": "This can add a slightly old-fashioned or humorous sense of special authority."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal letter · requesting an exception",
+          "sentence": "Members have the prerogative to submit comments, but the final decision remains with the committee.",
+          "highlight": "prerogative",
+          "tip": "Common in formal writing about rights, authority and legal or institutional powers."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin praerogativum, meaning ‘thing asked in advance’, referring to the privilege of being asked first before others. It later developed the sense of a special right or privilege.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Praerogativum referred to the privilege of being questioned first, based on prae, ‘before’, and rogare, ‘to ask’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "Entered English in legal and parliamentary contexts as a special privilege or right."
+          },
+          {
+            "when": "Today",
+            "text": "Means a distinctive right or power belonging to a person, group or position."
+          }
+        ]
+      },
+      "similar": [
+        "privilege",
+        "entitlement",
+        "discretion",
+        "authority"
+      ],
+      "opposite": "constraint",
+      "pitfall": "Do not confuse it with privilege: a privilege is generally a benefit or advantage, while a prerogative more specifically implies authority to act."
+    },
+    {
+      "id": "puissant",
+      "kind": "word",
+      "term": "puissant",
+      "pos": "adjective",
+      "phonetic": "/ˈpjuːɪsənt/",
+      "sayIt": "PYOO-ih-suhnt",
+      "register": "Formal",
+      "meaning": "Having great power, strength, or influence.",
+      "nuance": "This is a formal, literary word with a grand, forceful tone. It suits serious writing more than everyday conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Leadership speech · introducing a strategy",
+          "sentence": "The new platform gives our sales team a puissant advantage in a crowded market.",
+          "highlight": "puissant",
+          "tip": "Use it in polished presentations or formal reports when you want a strong, emphatic tone."
+        },
+        {
+          "setting": "social",
+          "where": "Formal introduction · acknowledging a guest",
+          "sentence": "Her reputation for fair judgment is truly puissant among senior colleagues.",
+          "highlight": "puissant",
+          "tip": "It sounds ceremonious, so reserve it for formal praise or elevated conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Book review · describing a commanding figure",
+          "sentence": "The novel presents a powerful ruler whose quiet authority proves increasingly puissant as the story unfolds.",
+          "highlight": "puissant",
+          "tip": "Pair it with nouns such as force, presence, personality or reputation for a more deliberate effect."
+        }
+      ],
+      "origin": {
+        "summary": "Puissant came into English from Old French and ultimately traces to a Latin word meaning powerful or able.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The family of meanings develops from potens, meaning powerful, able or having strength."
+          },
+          {
+            "when": "Old French",
+            "text": "Puissant appears with the sense powerful, strong or influential."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English, initially used in legal, political and literary contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly formal and literary, especially in descriptions of power or influence."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "puissance",
+          "label": "noun"
+        },
+        {
+          "term": "puissantly",
+          "label": "adverb"
+        },
+        {
+          "term": "impuissant",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "powerful",
+        "potent",
+        "formidable",
+        "commanding"
+      ],
+      "opposite": "impotent",
+      "pitfall": "Puissant can suggest latent strength or influence, not merely physical power; in formal writing, consider whether potent is more natural."
+    },
+    {
+      "id": "quell",
+      "kind": "word",
+      "term": "quell",
+      "pos": "verb",
+      "phonetic": "/kwɛl/",
+      "sayIt": "KWEL",
+      "register": "Formal; common in work and reporting",
+      "meaning": "To put an end to something such as violence, panic, anger, or resistance.",
+      "nuance": "It suggests bringing a threatening or emotionally charged situation under control. It can describe ending a disturbance or calming strong feelings.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Incident response · managing a disturbance",
+          "sentence": "The security team used clear de-escalation tactics to quell the disturbance.",
+          "highlight": "quell",
+          "tip": "Use it for panic, anger, violence, or resistance that needs to be brought under control."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · resolving an argument",
+          "sentence": "A few calm words from Priya helped quell the tension at the table.",
+          "highlight": "quell",
+          "tip": "Often works when describing the calming effect of a person, action, or situation."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · describing a protest",
+          "sentence": "The report describes how local mediators helped quell the protests without force.",
+          "highlight": "quell",
+          "tip": "A precise choice in reporting when a conflict or disturbance is stopped."
+        }
+      ],
+      "origin": {
+        "summary": "From Old English cwellan, meaning ‘to kill, extinguish’ and later ‘to suppress or subdue’. The sense of putting down violence or calming strong feelings developed over time.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "Cwellan appears with meanings including ‘to kill’ and ‘to extinguish’."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word continues in forms such as quelen, with senses including suppressing and subduing."
+          },
+          {
+            "when": "1500s onward",
+            "text": "The spelling quell becomes established for calming disturbances, resistance, fear, or anger."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "quellable",
+          "label": "adjective"
+        },
+        {
+          "term": "queller",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "suppress",
+        "subdue",
+        "calm",
+        "pacify"
+      ],
+      "opposite": "incite",
+      "pitfall": "Quell means to stop or calm something, not necessarily to remove its cause or defeat it permanently."
+    },
+    {
+      "id": "raze",
+      "kind": "word",
+      "term": "raze",
+      "pos": "verb",
+      "phonetic": "/reɪz/",
+      "sayIt": "RAYZ",
+      "register": "Formal",
+      "meaning": "To completely destroy a building, structure, or similar thing.",
+      "nuance": "Raze suggests total destruction, especially by demolishing it. It is more final and dramatic than words such as damage or destroy.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Site meeting · replacing an old building",
+          "sentence": "The contractor will raze the old warehouse before construction begins.",
+          "highlight": "raze",
+          "tip": "Use it for a deliberate act of complete destruction, especially of a structure."
+        },
+        {
+          "setting": "social",
+          "where": "Neighbourhood news · a dangerous building",
+          "sentence": "Officials may raze the unsafe building if repairs cannot make it secure.",
+          "highlight": "raze",
+          "tip": "It sounds more dramatic than knock down and is especially common about buildings."
+        },
+        {
+          "setting": "writing",
+          "where": "History article · describing wartime destruction",
+          "sentence": "Bombers razed much of the city, leaving only a few stone buildings standing.",
+          "highlight": "razed",
+          "tip": "The past tense works naturally when describing destruction that has already happened."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through Old French from Latin radere, meaning ‘to scrape’ or ‘erase’. Its modern sense developed into the complete destruction of buildings and structures.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin radere means ‘to scrape’ or ‘erase’."
+          },
+          {
+            "when": "Old French",
+            "text": "The word raser develops, referring to scraping away or destroying completely."
+          },
+          {
+            "when": "Middle English",
+            "text": "Raze enters English and becomes associated with destroying buildings and fortifications."
+          }
+        ]
+      },
+      "similar": [
+        "demolish",
+        "destroy",
+        "level",
+        "obliterate"
+      ],
+      "opposite": "preserve",
+      "pitfall": "Raze means to destroy a physical structure completely; do not confuse it with erase, which usually means removing text, an image, or a mark."
+    },
+    {
+      "id": "relegate",
+      "kind": "word",
+      "term": "relegate",
+      "pos": "verb",
+      "phonetic": "/rɪˈleɡeɪt/",
+      "sayIt": "ri-LAY-gate",
+      "register": "Common in sports and institutions",
+      "meaning": "Move someone or something to a lower rank, team or level of importance.",
+      "nuance": "Usually describes an official decision rather than a personal demotion. It is especially common when discussing sports leagues, jobs and organizational restructuring.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company restructure · department cuts",
+          "sentence": "If costs keep rising, the company may relegate that project to a lower priority.",
+          "highlight": "relegate",
+          "tip": "Use it for a formal or practical reduction in status or importance."
+        },
+        {
+          "setting": "social",
+          "where": "Football discussion · league results",
+          "sentence": "After losing six matches, they were relegated to the second division.",
+          "highlight": "relegated",
+          "tip": "This is the standard word for a team being moved down from the top division."
+        },
+        {
+          "setting": "writing",
+          "where": "Team announcement · end-of-season review",
+          "sentence": "The committee decided to relegate the proposal until the next budget cycle.",
+          "highlight": "relegate",
+          "tip": "It sounds formal and suggests a deliberate decision, not simply being overlooked."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin relegare, meaning to send away or banish; the idea developed into assigning someone or something a lower position.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin relegare meant to send away, banish or remove someone to another place."
+          },
+          {
+            "when": "1500s",
+            "text": "The word entered English in senses connected with sending away or removing."
+          },
+          {
+            "when": "1800s",
+            "text": "Use developed for lowering a team or participant to a lower division or rank."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "relegation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "demote",
+        "downgrade",
+        "deprioritize",
+        "banish"
+      ],
+      "opposite": "promote",
+      "pitfall": "Do not confuse it with delegate, which means assigning a task or authority to someone else."
+    }
+  ]
+}

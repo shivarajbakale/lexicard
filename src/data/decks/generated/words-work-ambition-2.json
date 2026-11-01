@@ -1,0 +1,889 @@
+{
+  "id": "words-work-ambition-2",
+  "kind": "word",
+  "name": "Work & ambition · 2",
+  "blurb": "13 words about work & ambition",
+  "cards": [
+    {
+      "id": "paramount",
+      "kind": "word",
+      "term": "paramount",
+      "pos": "adjective",
+      "phonetic": "/ˈpærəmaʊnt/",
+      "sayIt": "PAR-uh-MOUNT",
+      "register": "Formal",
+      "meaning": "More important than anything else in a particular situation.",
+      "nuance": "It has a strong, formal tone and signals that a priority, rule or concern comes above all others. It is common in professional and official writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · setting priorities",
+          "sentence": "Protecting customer data is paramount while we redesign the system.",
+          "highlight": "paramount",
+          "tip": "Use it when one priority must clearly take precedence over the others."
+        },
+        {
+          "setting": "social",
+          "where": "Family discussion · planning a celebration",
+          "sentence": "Making sure everyone feels included is paramount when choosing where to eat.",
+          "highlight": "paramount",
+          "tip": "It can sound slightly formal, so reserve it for important decisions."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · explaining company policy",
+          "sentence": "The paramount concern is reducing delays without compromising the quality of our work.",
+          "highlight": "paramount",
+          "tip": "Pairs naturally with concern, priority, issue, consideration and principle."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French paramont, meaning ‘above’ or ‘higher than’, built from par, ‘beside’, and mont, ‘hill’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old French",
+            "text": "Paramont literally refers to something situated above or beyond another place."
+          },
+          {
+            "when": "1500s",
+            "text": "Enters English in legal and political language, with a sense of highest rank or authority."
+          },
+          {
+            "when": "Today",
+            "text": "Used mainly to describe the greatest importance, priority or precedence."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "paramountly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "supreme",
+        "overriding",
+        "chief",
+        "predominant"
+      ],
+      "opposite": "secondary",
+      "pitfall": "Paramount means most important; it does not simply mean the most numerous, strongest or most common."
+    },
+    {
+      "id": "pecuniary",
+      "kind": "word",
+      "term": "pecuniary",
+      "pos": "adjective",
+      "phonetic": "/pɪˈkjuːniəri/",
+      "sayIt": "pih-KYOO-nee-uh-ree",
+      "register": "Formal",
+      "meaning": "Relating to money or financial value.",
+      "nuance": "Common in legal, business and academic writing, especially when discussing payments, losses or benefits. It sounds more formal than simply saying financial.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Business review · assessing damage",
+          "sentence": "The report separates pecuniary losses from reputational damage.",
+          "highlight": "pecuniary",
+          "tip": "Use it to make clear that the issue concerns money rather than feelings or reputation."
+        },
+        {
+          "setting": "social",
+          "where": "Award ceremony · discussing a prize",
+          "sentence": "Although the award has little pecuniary value, it gives her welcome recognition.",
+          "highlight": "pecuniary",
+          "tip": "This slightly formal use works when describing an amount of money without giving the exact figure."
+        },
+        {
+          "setting": "writing",
+          "where": "Contract clause · limiting liability",
+          "sentence": "The agreement limits the supplier’s liability for pecuniary loss caused by delays.",
+          "highlight": "pecuniary",
+          "tip": "Pairs naturally with loss, gain, benefit, reward and value in formal or legal contexts."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin pecunia, meaning ‘money’ or ‘property’. The word entered English through formal and legal writing.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Pecunia means ‘money’ and originally referred to wealth held as property or livestock."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English, mainly in legal and financial contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal adjective for anything connected with money."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "pecuniarily",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "financial",
+        "monetary",
+        "economic",
+        "fiscal"
+      ],
+      "opposite": "nonfinancial",
+      "pitfall": "Don’t confuse pecuniary with personal; pecuniary concerns money, while personal can concern anything individual or private."
+    },
+    {
+      "id": "pinnacle",
+      "kind": "word",
+      "term": "pinnacle",
+      "pos": "noun",
+      "phonetic": "/ˈpɪnəkəl/",
+      "sayIt": "PIN-uh-kuhl",
+      "register": "Formal",
+      "meaning": "The highest level or most successful achievement in a person's life, career, or field.",
+      "nuance": "It usually describes an exceptional, crowning achievement rather than an ordinary success. It can also refer literally to a pointed mountain peak.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team celebration · marking a promotion",
+          "sentence": "Leading the company through its biggest launch was the pinnacle of her career so far.",
+          "highlight": "pinnacle",
+          "tip": "Use it for a rare professional achievement that represents the peak of someone’s success."
+        },
+        {
+          "setting": "social",
+          "where": "Reunion · celebrating a friend’s career",
+          "sentence": "Receiving an international award seemed like the pinnacle of everything she had worked toward.",
+          "highlight": "pinnacle",
+          "tip": "It can sound admiring and celebratory when describing someone’s greatest achievement."
+        },
+        {
+          "setting": "writing",
+          "where": "Film review · assessing a body of work",
+          "sentence": "This ambitious final film may be the pinnacle of the director’s career.",
+          "highlight": "pinnacle",
+          "tip": "The common pattern is “the pinnacle of,” followed by a career, achievement, or area of work."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through Middle French from Medieval Latin pinnaculum, originally a pointed or projecting part.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Pinnaculum develops from pinna, meaning a wing, feather, or projecting point."
+          },
+          {
+            "when": "1400s",
+            "text": "The word appears in Middle French as pinacle, referring to a summit or pointed top."
+          },
+          {
+            "when": "1600s onward",
+            "text": "Its geographical meaning expands to include the pointed summit of a mountain."
+          },
+          {
+            "when": "1800s onward",
+            "text": "It becomes common in the figurative sense of the highest achievement."
+          }
+        ]
+      },
+      "similar": [
+        "peak",
+        "summit",
+        "zenith",
+        "apogee",
+        "culmination"
+      ],
+      "opposite": "nadir",
+      "pitfall": "Don't use it for a temporary high point or an ordinary success; it implies an exceptional peak."
+    },
+    {
+      "id": "prolific",
+      "kind": "word",
+      "term": "prolific",
+      "pos": "adjective",
+      "phonetic": "/prəˈlɪfɪk/",
+      "sayIt": "pruh-LIF-ik",
+      "register": "Common at work",
+      "meaning": "Producing a large amount of work, ideas, results or offspring.",
+      "nuance": "It often carries praise because it combines high output with consistent activity. It can also describe someone who creates a great deal within a particular field.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · assessing output",
+          "sentence": "Her prolific contributions to the research team made her a strong candidate for lead.",
+          "highlight": "prolific",
+          "tip": "Use it to praise someone’s consistent output, especially in writing, research or creative work."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · discussing hobbies",
+          "sentence": "He seems prolific, but most of his songs are quick pieces he finishes in a few hours.",
+          "highlight": "prolific",
+          "tip": "It can describe a wide range of activity, but context should make clear what is being produced."
+        },
+        {
+          "setting": "writing",
+          "where": "Author biography · describing a career",
+          "sentence": "A prolific playwright, she wrote more than forty plays over a thirty-year career.",
+          "highlight": "prolific",
+          "tip": "This is especially natural before a writer, artist, performer or other creator’s name."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin prolificus, meaning ‘producing offspring or fruit’, developed from proles, ‘offspring’, and facere, ‘to make’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Prolificus originally described something that produces abundant offspring or fruit."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English, initially in contexts involving growth, offspring and abundant production."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used for people who produce a large amount of work or creative material."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "prolifically",
+          "label": "adverb"
+        },
+        {
+          "term": "productivity",
+          "label": "noun"
+        },
+        {
+          "term": "product",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "productive",
+        "industrious",
+        "prolific",
+        "fruitful"
+      ],
+      "opposite": "unproductive",
+      "pitfall": "Prolific describes the amount produced; it does not necessarily mean the work is original, valuable or of high quality."
+    },
+    {
+      "id": "remote",
+      "kind": "word",
+      "term": "remote",
+      "pos": "adjective",
+      "phonetic": "/rɪˈməʊt/",
+      "sayIt": "ri-MOHT",
+      "register": "Common at work",
+      "meaning": "Far away from a place or person, or involving working or communicating from a location away from the main office.",
+      "nuance": "It can describe physical distance, such as a remote village, or the modern practice of working from home. It can also mean unlikely to concern or affect someone closely.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing location",
+          "sentence": "Most of our remote staff will join the quarterly planning session online.",
+          "highlight": "remote",
+          "tip": "Use it for people who work away from the main office or workplace."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans · meeting friends",
+          "sentence": "It was a remote café, but the quiet music made it worth the journey.",
+          "highlight": "remote",
+          "tip": "This use suggests a place is noticeably far from town or other central places."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · giving context to news",
+          "sentence": "The issue seems remote from our daily work, although it may affect the wider industry.",
+          "highlight": "remote",
+          "tip": "Use it when something feels distant from your current concerns or experience."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin remotus, meaning ‘removed’, which comes from removere, ‘to remove’. English later developed both the sense of ‘far away’ and, more recently, the work-related sense of ‘away from the main workplace’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Remotus means ‘removed’ or ‘taken away’, formed from removere, ‘to remove’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with the sense of distant or separated."
+          },
+          {
+            "when": "Late 1900s to today",
+            "text": "‘Remote work’ becomes common as people regularly work away from an employer’s main office."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "remotely",
+          "label": "adverb"
+        },
+        {
+          "term": "remoteness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "distant",
+        "far-off",
+        "away",
+        "detached"
+      ],
+      "opposite": "nearby",
+      "pitfall": "In ‘remote work’, remote describes the working arrangement, not the worker; say ‘a remote employee’ or ‘working remotely’, rather than ‘the employee is remote’."
+    },
+    {
+      "id": "remuneration",
+      "kind": "word",
+      "term": "remuneration",
+      "pos": "noun",
+      "phonetic": "/rɪˌmjuːnəˈreɪʃən/",
+      "sayIt": "ri-MYOO-nuh-RAY-shun",
+      "register": "Formal",
+      "meaning": "Payment given to someone for their work or services.",
+      "nuance": "A formal word often used for an employee’s total pay, including salary, bonuses, allowances and benefits. It can sound official or corporate rather than conversational.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Job review · discussing total pay",
+          "sentence": "The remuneration package includes base pay, annual bonuses, and retirement contributions.",
+          "highlight": "remuneration",
+          "tip": "Use it when discussing the complete financial rewards of a role, not just its hourly wage."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with colleagues · comparing jobs",
+          "sentence": "Over dinner, we compared remuneration packages and complained about our long commutes.",
+          "highlight": "remuneration",
+          "tip": "It sounds slightly formal, so it can sound like a joke when used among colleagues."
+        },
+        {
+          "setting": "writing",
+          "where": "Job advertisement · listing salary",
+          "sentence": "The advertisement offers remuneration of £55,000 plus performance bonuses and private medical insurance.",
+          "highlight": "remuneration",
+          "tip": "Common in formal recruitment and compensation documents; specify the amount and what it includes."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin remunerare, meaning ‘to reward’, based on munus, meaning ‘gift, duty or service’, with the prefix re- indicating repayment.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Remuneratio develops from remunerare, meaning ‘to reward or compensate’."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English in the sense of payment or reward for service."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly a formal term for pay and benefits received for work."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "remunerate",
+          "label": "verb"
+        },
+        {
+          "term": "remunerative",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "compensation",
+        "pay",
+        "salary",
+        "stipend"
+      ],
+      "opposite": "unpaid",
+      "pitfall": "Remuneration can include more than salary, so use it when you mean the full financial reward for a role."
+    },
+    {
+      "id": "requisite",
+      "kind": "word",
+      "term": "requisite",
+      "pos": "adjective",
+      "phonetic": "/rɪˈkwɪzɪt/",
+      "sayIt": "reh-KWIZ-it",
+      "register": "Formal",
+      "meaning": "Necessary because of the situation or purpose.",
+      "nuance": "It sounds formal and precise, often describing what a particular job, process or goal requires. It can also be used as a noun for something that is needed.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Hiring discussion · listing job needs",
+          "sentence": "Experience with the reporting tool is requisite for this role.",
+          "highlight": "requisite",
+          "tip": "Use it when something is a clear condition of the role or task."
+        },
+        {
+          "setting": "social",
+          "where": "Planning an event · setting the scene",
+          "sentence": "A quiet room and some clear directions are requisite if the children are taking part.",
+          "highlight": "requisite",
+          "tip": "It can sound slightly formal in casual conversation; “necessary” is more natural."
+        },
+        {
+          "setting": "writing",
+          "where": "Application form · eligibility details",
+          "sentence": "A valid address is requisite for delivery of the documents.",
+          "highlight": "requisite",
+          "tip": "It fits formal instructions and requirements, but avoid using it repeatedly in the same passage."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin requisitus, the past participle of requirere, meaning ‘to ask for, demand or need’. It entered English in a formal sense.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Requisitus comes from requirere, ‘to ask for, demand or need’."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English in legal and formal contexts, meaning required or demanded."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used as a formal adjective meaning necessary, with an occasional noun use."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "requirement",
+          "label": "noun"
+        },
+        {
+          "term": "requisite",
+          "label": "noun"
+        },
+        {
+          "term": "rerequisite",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "necessary",
+        "essential",
+        "needed",
+        "required"
+      ],
+      "opposite": "unnecessary",
+      "pitfall": "As a noun, “requisites” can mean needed items or belongings, but this use can sound old-fashioned; “essential” is usually more natural today."
+    },
+    {
+      "id": "sinecure",
+      "kind": "word",
+      "term": "sinecure",
+      "pos": "noun",
+      "phonetic": "/ˈsaɪnɪkjʊə/",
+      "sayIt": "SY-nih-kyoor",
+      "register": "Formal",
+      "meaning": "A paid position that involves little or no real work.",
+      "nuance": "Often suggests that the job is undeservedly easy or exists mainly to give someone status or income. It can sound critical or sarcastic.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing responsibilities",
+          "sentence": "Her title suggests leadership, but the role has become little more than a sinecure.",
+          "highlight": "sinecure",
+          "tip": "Use it when an official position offers status or pay without meaningful duties."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up · comparing jobs",
+          "sentence": "He jokes that his new position is a sinecure because he has barely opened his laptop.",
+          "highlight": "sinecure",
+          "tip": "This works well as dry humour when someone has a very light workload."
+        },
+        {
+          "setting": "writing",
+          "where": "Company profile · describing a role",
+          "sentence": "The post was described as an honorary sinecure with no executive responsibilities.",
+          "highlight": "sinecure",
+          "tip": "The word adds a sharply critical tone, so avoid it in neutral job descriptions."
+        }
+      ],
+      "origin": {
+        "summary": "It comes from Latin sine cura, meaning ‘without care’, and first referred to a church appointment paid without requiring pastoral work.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Medieval Latin",
+            "text": "Sine cura, ‘without care’, develops in church administration."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English for a paid church office with few or no religious duties."
+          },
+          {
+            "when": "Today",
+            "text": "It means any paid position with little or no genuine responsibility."
+          }
+        ]
+      },
+      "similar": [
+        "easy money",
+        "token position",
+        "pay without work"
+      ],
+      "opposite": "work-filled position",
+      "pitfall": "Don’t confuse it with ‘secure’, which means safe or unlikely to change; ‘sinecure’ focuses on having little work."
+    },
+    {
+      "id": "stipulate",
+      "kind": "word",
+      "term": "stipulate",
+      "pos": "verb",
+      "phonetic": "/ˈstɪp.jə.leɪt/",
+      "sayIt": "STIP-yoo-layt",
+      "register": "Formal",
+      "meaning": "To state something as a required condition, rule or part of an agreement.",
+      "nuance": "This is a formal word commonly used in contracts, policies and official documents. It is stronger than simply suggesting something because the condition is meant to be clear and binding.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Contract review · ending a service agreement",
+          "sentence": "The contract stipulates that all customer data must be deleted within 30 days of termination.",
+          "highlight": "stipulates",
+          "tip": "Use it when stating a condition that the parties are expected to follow."
+        },
+        {
+          "setting": "social",
+          "where": "Formal invitation · event arrangements",
+          "sentence": "The invitation stipulates that guests should arrive by seven, so please do not be late.",
+          "highlight": "stipulates",
+          "tip": "It can sound slightly stiff in casual conversation, but it makes a rule sound precise."
+        },
+        {
+          "setting": "writing",
+          "where": "Scholarship email · reporting requirements",
+          "sentence": "The scholarship terms stipulate that recipients must submit a progress report every term.",
+          "highlight": "stipulate",
+          "tip": "A natural alternative is ‘state’ or ‘set out’ when the tone is less formal."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Latin, where it referred to making a formal agreement or setting an explicit condition. It entered English through French legal and official writing.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The verb stipulari was used for making a formal agreement or laying down a condition."
+          },
+          {
+            "when": "1500s",
+            "text": "The word appears in English, especially in legal and official writing."
+          },
+          {
+            "when": "Today",
+            "text": "It is used whenever a rule, condition or requirement is stated explicitly."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "stipulation",
+          "label": "noun"
+        },
+        {
+          "term": "stipulative",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "specify",
+        "require",
+        "state",
+        "demand",
+        "agree"
+      ],
+      "opposite": "leave unspecified",
+      "pitfall": "Do not confuse stipulate with imply. Stipulating makes a condition explicit, while implying leaves it unstated."
+    },
+    {
+      "id": "thrifty",
+      "kind": "word",
+      "term": "thrifty",
+      "pos": "adjective",
+      "phonetic": "/ˈθrɪfti/",
+      "sayIt": "THRIF-tee",
+      "register": "Common at work",
+      "meaning": "Careful with money, time or resources so that nothing is wasted.",
+      "nuance": "It often suggests sensible restraint rather than excessive caution. It can sound slightly approving, while “stingy” is more critical.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · controlling costs",
+          "sentence": "We need to be thrifty with the production budget, but we shouldn't cut the testing time.",
+          "highlight": "thrifty",
+          "tip": "Useful when you want to control spending without sounding unwilling to invest."
+        },
+        {
+          "setting": "social",
+          "where": "Holiday planning · saving money",
+          "sentence": "She was thrifty with her holiday money by booking early and staying in a budget hotel.",
+          "highlight": "thrifty",
+          "tip": "It describes sensible use of resources, not necessarily refusing to spend."
+        },
+        {
+          "setting": "writing",
+          "where": "Proposal · explaining efficiency",
+          "sentence": "The proposal is thrifty: it reuses existing components instead of buying new ones.",
+          "highlight": "thrifty",
+          "tip": "A positive choice when you want to emphasise efficiency and careful planning."
+        }
+      ],
+      "origin": {
+        "summary": "Thrifty comes through Middle English from the idea of thrift or prosperity, which ultimately relates to Old English words for flourishing or succeeding.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Before 1100",
+            "text": "Old English þrift meant prosperity or flourishing, with roots connected to thriving and succeeding."
+          },
+          {
+            "when": "Middle English",
+            "text": "Thrifty develops from thrift and its earlier associations with prosperity and good management."
+          },
+          {
+            "when": "Today",
+            "text": "It chiefly means careful with money, time or other resources."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "thrift",
+          "label": "noun"
+        },
+        {
+          "term": "thriftily",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "frugal",
+        "economical",
+        "prudent",
+        "sparing"
+      ],
+      "opposite": "wasteful",
+      "pitfall": "Thrifty usually praises sensible restraint; stingy suggests being unwilling to spend or share."
+    },
+    {
+      "id": "tyro",
+      "kind": "word",
+      "term": "tyro",
+      "pos": "noun",
+      "phonetic": "/ˈtaɪroʊ/",
+      "sayIt": "TY-ro",
+      "register": "Formal and literary",
+      "meaning": "A person who is new to a job, field or skill and still learning the basics.",
+      "nuance": "It sounds deliberately old-fashioned and may be used humorously. In ordinary conversation, “novice” or “beginner” is more natural.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · introducing a new hire",
+          "sentence": "As a tyro in data analysis, she asked the senior analyst to review her first report.",
+          "highlight": "tyro",
+          "tip": "Use it for a beginner whose lack of experience is relevant and not damaging."
+        },
+        {
+          "setting": "social",
+          "where": "Cooking class · trying a new technique",
+          "sentence": "Even as a tyro at baking, he enjoyed shaping the dough by hand.",
+          "highlight": "tyro",
+          "tip": "A slightly playful choice when describing someone learning something new."
+        },
+        {
+          "setting": "writing",
+          "where": "Book review · assessing a debut novel",
+          "sentence": "The debut author remains a tyro, but her striking characters promise greater achievement ahead.",
+          "highlight": "tyro",
+          "tip": "It gives a polished, literary tone, but “novice” may suit a modern readership better."
+        }
+      ],
+      "origin": {
+        "summary": "From the Latin tiro, meaning a recruit or beginner. The word was inherited directly into English and is now uncommon.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Tiro means a new recruit or someone beginning to learn."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in the sense of a novice or beginner."
+          },
+          {
+            "when": "Today",
+            "text": "It survives mainly in literary, historical and deliberately old-fashioned usage."
+          }
+        ]
+      },
+      "similar": [
+        "novice",
+        "beginner",
+        "newcomer",
+        "rookie"
+      ],
+      "opposite": "veteran",
+      "pitfall": "Because it sounds dated and a little grand, “tyro” may sound ironic unless the context clearly presents it as a fitting description."
+    },
+    {
+      "id": "underwrite",
+      "kind": "word",
+      "term": "underwrite",
+      "pos": "verb",
+      "phonetic": "/ˌʌndərˈraɪt/",
+      "sayIt": "un-der-RITE",
+      "register": "Formal; common in finance and business",
+      "meaning": "Agree to pay for something or accept the financial risk of providing it, often in exchange for a fee or other benefit.",
+      "nuance": "In insurance, an underwriter accepts the risk of paying a claim. More broadly, it means providing financial backing or making sure enough money is available.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · securing funding",
+          "sentence": "The sales team will underwrite the pilot, so we can test it without delaying the launch.",
+          "highlight": "underwrite",
+          "tip": "Use it when someone or a company takes responsibility for covering the costs."
+        },
+        {
+          "setting": "social",
+          "where": "Group trip · covering costs",
+          "sentence": "I’ll underwrite the deposit, and we can settle up after everyone has paid their share.",
+          "highlight": "underwrite",
+          "tip": "In casual conversation, it can sound formal; explain that you mean you’ll cover the cost."
+        },
+        {
+          "setting": "writing",
+          "where": "Business proposal · funding terms",
+          "sentence": "The nonprofit asked the foundation to underwrite its training programme for the next two years.",
+          "highlight": "underwrite",
+          "tip": "Often used in proposals and agreements to describe financial support or risk coverage."
+        }
+      ],
+      "origin": {
+        "summary": "Built from under and write. It originally meant to write something below another text, then developed meanings involving backing and paying for something.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The compound underwrite appears in English, with a sense connected with writing underneath."
+          },
+          {
+            "when": "1800s",
+            "text": "The financial and insurance senses become established, including the idea of accepting risk in return for a premium."
+          },
+          {
+            "when": "Today",
+            "text": "Common in insurance, banking, nonprofit work and business proposals."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "underwriting",
+          "label": "noun"
+        },
+        {
+          "term": "underwriter",
+          "label": "noun (person or company)"
+        }
+      ],
+      "similar": [
+        "insure",
+        "finance",
+        "back",
+        "guarantee",
+        "sponsor"
+      ],
+      "pitfall": "Don’t use it merely to mean approve: underwrite usually implies paying costs or accepting financial risk."
+    },
+    {
+      "id": "zenith",
+      "kind": "word",
+      "term": "zenith",
+      "pos": "noun",
+      "phonetic": "/ˈziːnɪθ/",
+      "sayIt": "ZEE-nith",
+      "register": "Formal",
+      "meaning": "The highest point of something, especially someone’s success, power, or reputation.",
+      "nuance": "It suggests the peak of achievement or influence, often compared with a later period of decline. It is more literary and dramatic than “peak.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Career review · reflecting on growth",
+          "sentence": "Her promotion last year marked the zenith of her rise through the company.",
+          "highlight": "zenith",
+          "tip": "Use it for the strongest or most successful point in a career."
+        },
+        {
+          "setting": "social",
+          "where": "Retirement party · celebrating a colleague",
+          "sentence": "At the zenith of her career, she was known for turning difficult projects into successes.",
+          "highlight": "zenith",
+          "tip": "It sounds impressive in a speech, but it can feel overdramatic in casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Biography · describing a public career",
+          "sentence": "He reached the zenith of his political influence during the reform campaign.",
+          "highlight": "zenith",
+          "tip": "Often appears in the phrase “at the zenith of” followed by a period, achievement, or influence."
+        }
+      ],
+      "origin": {
+        "summary": "The word came into English from French and originally referred to the highest point reached by the sun. Its astronomical sense developed into a general metaphor for the peak of power or success.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Arabic and medieval astronomy",
+            "text": "The concept developed through an Arabic term associated with the sun’s highest path."
+          },
+          {
+            "when": "1600s",
+            "text": "English borrowed the word from French for the highest point of the sun’s apparent path."
+          },
+          {
+            "when": "Today",
+            "text": "It is used mainly for the peak of a person’s success, power, or reputation."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "zenithal",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "pinnacle",
+        "apex",
+        "peak",
+        "culmination"
+      ],
+      "opposite": "nadir",
+      "pitfall": "Use “at the zenith of” rather than “at the zenith to”; the usual pattern is “at the zenith of her career.”"
+    }
+  ]
+}

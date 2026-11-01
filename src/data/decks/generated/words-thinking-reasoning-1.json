@@ -1,0 +1,1724 @@
+{
+  "id": "words-thinking-reasoning-1",
+  "kind": "word",
+  "name": "Thinking & reasoning · 1",
+  "blurb": "25 words about thinking & reasoning",
+  "cards": [
+    {
+      "id": "absurd",
+      "kind": "word",
+      "term": "absurd",
+      "pos": "adjective",
+      "phonetic": "/əbˈsɜːrd/",
+      "sayIt": "ub-SURD",
+      "register": "Common in discussion",
+      "meaning": "So unreasonable, illogical, or silly that it makes no sense.",
+      "nuance": "It can express strong disbelief or criticism, but it is also often used playfully for something silly or unexpected.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing a request",
+          "sentence": "The idea of spending two days filing identical reports seems absurd, so we need a better process.",
+          "highlight": "absurd",
+          "tip": "Use it to challenge a request clearly without sounding personal."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · a strange request",
+          "sentence": "He wants to arrive in a costume made entirely from newspaper, which is completely absurd.",
+          "highlight": "absurd",
+          "tip": "It works well when you are amused by how strange something is."
+        },
+        {
+          "setting": "writing",
+          "where": "Opinion article · criticising a policy",
+          "sentence": "It would be absurd to expect one volunteer to complete a task that requires a whole department.",
+          "highlight": "absurd",
+          "tip": "Use it in formal writing to emphasise that something is clearly unreasonable."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin absurdus, meaning 'dull, deaf, unreasonable'. Its early English senses included uncouth and irrational before it developed the modern idea of being ridiculous or making no sense.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Absurdus is derived from surdus, meaning 'dull, deaf, or irrational'."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with senses connected to unusual, uncouth, or unreasonable things."
+          },
+          {
+            "when": "1600s onward",
+            "text": "It becomes established in English as a word for something highly ridiculous or nonsensical."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "absurdity",
+          "label": "noun"
+        },
+        {
+          "term": "absurdly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "ridiculous",
+        "unreasonable",
+        "preposterous",
+        "illogical"
+      ],
+      "opposite": "reasonable",
+      "pitfall": "Absurd often means extremely silly or nonsensical; it is stronger than merely being unusual or impractical."
+    },
+    {
+      "id": "acumen",
+      "kind": "word",
+      "term": "acumen",
+      "pos": "noun",
+      "phonetic": "/ˈæk.jə.mən/",
+      "sayIt": "AK-yuh-muhn",
+      "register": "Formal",
+      "meaning": "Sharp practical intelligence that helps you understand situations and make good decisions.",
+      "nuance": "It suggests clear thinking gained through experience, especially in business, strategy or problem-solving. It is more often used to praise someone's judgement than to describe everyday cleverness.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Strategy meeting · assessing a proposal",
+          "sentence": "Her business acumen helped the team spot the risks before we committed to the project.",
+          "highlight": "business acumen",
+          "tip": "Use it for practical judgement, especially about business, finance or strategy."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a trip · comparing options",
+          "sentence": "With his travel acumen, he found a cheaper route that still had time for the main sights.",
+          "highlight": "travel acumen",
+          "tip": "It can sound lightly humorous when used for expertise in an ordinary activity."
+        },
+        {
+          "setting": "writing",
+          "where": "Recommendation email · noting a strength",
+          "sentence": "She combines technical knowledge with the acumen to explain complex ideas clearly.",
+          "highlight": "acumen",
+          "tip": "Use it in formal writing when you want to emphasise sharp, practical judgement."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin acumen, meaning keenness or sharpness of mind, related to acutus, sharp.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Acumen refers to keenness of perception or sharpness of judgement."
+          },
+          {
+            "when": "1500s",
+            "text": "The word begins appearing in English with the sense of intellectual sharpness."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly praises practical intelligence and sound judgement."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "acuminous",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "sagacity",
+        "shrewdness",
+        "insight",
+        "discernment"
+      ],
+      "opposite": "obtuseness",
+      "pitfall": "Acumen is a noun and usually takes an article or a modifier, such as business acumen; do not say an acumen."
+    },
+    {
+      "id": "ambiguous",
+      "kind": "word",
+      "term": "ambiguous",
+      "pos": "adjective",
+      "phonetic": "/æmˈbɪɡjuəs/",
+      "sayIt": "am-BIG-yoo-us",
+      "register": "Common at work",
+      "meaning": "Open to more than one meaning, so it is not completely clear.",
+      "nuance": "Useful when language, instructions or evidence can be interpreted in several ways. It can describe a genuine lack of clarity or a deliberate attempt to avoid giving a definite answer.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing unclear instructions",
+          "sentence": "The brief is ambiguous about who approves the final version, so let’s clarify the approval process.",
+          "highlight": "ambiguous",
+          "tip": "Pair it with about, regarding or in to identify what is unclear."
+        },
+        {
+          "setting": "social",
+          "where": "Party conversation · responding to a vague message",
+          "sentence": "Her reply was ambiguous, and I wasn’t sure whether she was accepting the invitation or postponing it.",
+          "highlight": "ambiguous",
+          "tip": "It works well when you want to describe words without directly accusing someone of being unclear."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a client · explaining a policy",
+          "sentence": "The wording may be ambiguous, so we will replace it with a sentence that gives one clear instruction.",
+          "highlight": "ambiguous",
+          "tip": "A useful editing comment when a sentence could reasonably be read in more than one way."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin ambigere, meaning ‘to doubt’, built from ambi- ‘both’ and agere ‘to drive or lead’. It entered English in the 1500s with the sense of being doubtful or uncertain.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Ambigere means ‘to doubt’ and comes from ambi- ‘both’ and agere ‘to drive’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in legal and general contexts, meaning doubtful or open to doubt."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes language, situations or evidence that allow more than one interpretation."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "ambiguity",
+          "label": "noun"
+        },
+        {
+          "term": "ambiguously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "unclear",
+        "equivocal",
+        "vague",
+        "indeterminate"
+      ],
+      "opposite": "unambiguous",
+      "pitfall": "Don’t confuse it with ‘ambitious’, which describes someone who wants success or strong goals."
+    },
+    {
+      "id": "analogous",
+      "kind": "word",
+      "term": "analogous",
+      "pos": "adjective",
+      "phonetic": "/əˈnæləɡəs/",
+      "sayIt": "uh-NAL-uh-gus",
+      "register": "Formal",
+      "meaning": "Similar to something else because the two share a feature, function or pattern.",
+      "nuance": "A useful word for drawing a careful comparison. It suggests a meaningful resemblance rather than saying two things are simply alike.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Design review · comparing workflows",
+          "sentence": "The approval process is analogous to the checkout flow because both require a final check before completion.",
+          "highlight": "analogous",
+          "tip": "Use it when two systems or experiences work in a comparable way."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · comparing two experiences",
+          "sentence": "Her new role is analogous to my old job, although the team structure is quite different.",
+          "highlight": "analogous",
+          "tip": "It sounds thoughtful but slightly formal, so it suits serious comparisons."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · explaining a pattern",
+          "sentence": "This growth pattern is analogous to the earlier increase, but the underlying causes are different.",
+          "highlight": "analogous",
+          "tip": "Pair it with “to” or “with” to make the comparison clear."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek analogos, meaning “proportionate” or “comparable,” with roots referring to relation and proportion.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "Analogos combines roots meaning “according to relation” and “proportion.”"
+          },
+          {
+            "when": "1600s",
+            "text": "Enters English in mathematical and general senses involving comparison."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly means similar because of a shared feature, function or pattern."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "analogy",
+          "label": "noun"
+        },
+        {
+          "term": "analogously",
+          "label": "adverb"
+        },
+        {
+          "term": "analogize",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "comparable",
+        "parallel",
+        "similar",
+        "correspondent"
+      ],
+      "opposite": "different",
+      "pitfall": "Do not confuse it with “analog,” which can mean an old-fashioned thing or a signal represented continuously rather than in digits."
+    },
+    {
+      "id": "anomaly",
+      "kind": "word",
+      "term": "anomaly",
+      "pos": "noun",
+      "phonetic": "/əˈnɒm.ə.li/",
+      "sayIt": "uh-NOM-uh-lee",
+      "register": "Common at work and in formal writing",
+      "meaning": "Something that differs noticeably from the usual pattern, expectation or rule.",
+      "nuance": "Often used for a surprising result, unusual occurrence or unexplained discrepancy. It does not necessarily mean something is wrong, although it can suggest that further investigation is needed.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Data review · investigating a spike",
+          "sentence": "The sales dip was an anomaly caused by the holiday weekend, not a change in demand.",
+          "highlight": "anomaly",
+          "tip": "Useful when discussing a result that breaks an expected pattern."
+        },
+        {
+          "setting": "social",
+          "where": "Group chat · planning an event",
+          "sentence": "His sudden interest in cycling was an anomaly, but nobody minded.",
+          "highlight": "anomaly",
+          "tip": "Can describe any unusual behaviour, even when it is harmless."
+        },
+        {
+          "setting": "writing",
+          "where": "Research report · reviewing findings",
+          "sentence": "We excluded three anomalies caused by incomplete records.",
+          "highlight": "anomalies",
+          "tip": "Plural is common when referring to unusual data points or exceptions."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek anomalos, meaning unusual or irregular, based on anomos, without law or order. The word reached English through Latin and French.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Anomalos comes from anomos, meaning without law or order, and refers to something irregular."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in astronomy and mathematics for an irregularity in a pattern."
+          },
+          {
+            "when": "Today",
+            "text": "It is used broadly for anything that departs from the normal or expected."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "anomalous",
+          "label": "adjective"
+        },
+        {
+          "term": "anomalously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "irregularity",
+        "abnormality",
+        "exception",
+        "outlier"
+      ],
+      "opposite": "normality",
+      "pitfall": "An anomaly is not automatically an error or abnormality; it may simply be a rare departure from the normal pattern."
+    },
+    {
+      "id": "antithesis",
+      "kind": "word",
+      "term": "antithesis",
+      "pos": "noun",
+      "phonetic": "/ænˈtɪθəsɪs/",
+      "sayIt": "an-TITH-uh-sis",
+      "register": "Formal",
+      "meaning": "A word, idea or approach that directly opposes another.",
+      "nuance": "This is a precise, formal word for presenting the strongest contrast. It can describe a direct opposite, or an approach that works in a completely different way.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Strategy meeting · comparing two proposals",
+          "sentence": "Her hands-on proposal is the antithesis of the previous top-down approach.",
+          "highlight": "antithesis",
+          "tip": "Common in formal presentations and analytical writing."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · discussing travel styles",
+          "sentence": "Planning every hour is the antithesis of travelling spontaneously.",
+          "highlight": "antithesis",
+          "tip": "Use it when you want to emphasize a striking difference between two attitudes."
+        },
+        {
+          "setting": "writing",
+          "where": "Essay · contrasting two theories",
+          "sentence": "The author presents cooperation as the antithesis of competition.",
+          "highlight": "antithesis",
+          "tip": "Often appears in academic, philosophical or persuasive writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek antithesis, meaning opposition or contrast, built from anti- ‘against’ and thesis ‘a placing or proposition’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Antithesis referred to placing one statement opposite another for the purpose of comparison."
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered English and developed its sense of a direct contrast."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal speech and writing to describe opposing ideas, styles or approaches."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "antithetical",
+          "label": "adjective"
+        },
+        {
+          "term": "antithesize",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "opposite",
+        "counterpoint",
+        "contrast",
+        "antagonism"
+      ],
+      "opposite": "synthesis",
+      "pitfall": "An antithesis is more than a simple difference: it emphasizes a direct opposition. Do not use it for any two contrasting things."
+    },
+    {
+      "id": "arbitrary",
+      "kind": "word",
+      "term": "arbitrary",
+      "pos": "adjective",
+      "phonetic": "/ˈɑːrbətreri/",
+      "sayIt": "AR-bih-truh-ree",
+      "register": "Common at work",
+      "meaning": "Based on personal choice, chance, or an unexplained rule rather than a clear reason or system.",
+      "nuance": "It often criticises a decision as unfair or irrational. In mathematics, it can neutrally mean chosen by a rule rather than by a particular value.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · setting priorities",
+          "sentence": "The new limit feels arbitrary because no one explained how we chose it.",
+          "highlight": "arbitrary",
+          "tip": "Use it when a rule or decision seems disconnected from a sensible reason."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · choosing a place",
+          "sentence": "We chose the restaurant by an arbitrary method: whoever spun the bottle first picked.",
+          "highlight": "arbitrary",
+          "tip": "It can describe choices made without a meaningful reason, including playful ones."
+        },
+        {
+          "setting": "writing",
+          "where": "Proposal · reviewing a policy",
+          "sentence": "The proposal sets an arbitrary cap of ten files, without considering the size of each upload.",
+          "highlight": "arbitrary",
+          "tip": "Pair it with limit, rule, deadline or decision to make the criticism precise."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Latin arbitrarius, which referred to something determined by another person's judgement rather than by an objective rule.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Arbitrarius develops from roots connected with judgement and decision."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with meanings connected with a decision or rule made by another."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly means based on whim, chance, or an unexplained rule."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "arbitrarily",
+          "label": "adverb"
+        },
+        {
+          "term": "arbitrariness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "random",
+        "capricious",
+        "subjective",
+        "discretionary"
+      ],
+      "opposite": "principled",
+      "pitfall": "Arbitrary does not always mean random: in technical writing, it can mean selected by a stated rule rather than by a particular value."
+    },
+    {
+      "id": "ascertain",
+      "kind": "word",
+      "term": "ascertain",
+      "pos": "verb",
+      "phonetic": "/ˌæsərˈteɪn/",
+      "sayIt": "uh-SUR-TAYN",
+      "register": "Formal",
+      "meaning": "To find out something with certainty.",
+      "nuance": "It is more formal than “find out” and suggests a careful effort to establish facts. Use it when the information matters and guessing is not acceptable.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · checking a delay",
+          "sentence": "We need to ascertain the cause of the delay before we change the schedule.",
+          "highlight": "ascertain",
+          "tip": "Often used in professional communication when you need confirmed information."
+        },
+        {
+          "setting": "social",
+          "where": "Planning an event · confirming details",
+          "sentence": "Let’s ascertain whether the restaurant can seat ten people before making a firm booking.",
+          "highlight": "ascertain",
+          "tip": "It sounds slightly formal, so it works best in organised conversations."
+        },
+        {
+          "setting": "writing",
+          "where": "Research report · explaining a finding",
+          "sentence": "The investigators ascertained that the warning had been issued several hours earlier.",
+          "highlight": "ascertained",
+          "tip": "The past tense is common in reports describing what an investigation established."
+        }
+      ],
+      "origin": {
+        "summary": "From Old Frenchertain, from Latin ad certum, meaning “to certainty”. The idea of finding out something certain developed through French and English legal and scholarly usage.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Built from ad, ‘to’, and certum, ‘certain’."
+          },
+          {
+            "when": "Old French",
+            "text": "The form ascertain appears in the sense of making certain or establishing."
+          },
+          {
+            "when": "1500s",
+            "text": "Enters English, initially in legal and scholarly contexts."
+          },
+          {
+            "when": "Today",
+            "text": "Means to determine or establish with confidence."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "ascertainable",
+          "label": "adjective"
+        },
+        {
+          "term": "ascertainment",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "determine",
+        "establish",
+        "discover",
+        "confirm"
+      ],
+      "opposite": "remain uncertain",
+      "pitfall": "It is not the same as “ascend” or “certain”; it means to find out or establish something."
+    },
+    {
+      "id": "astute",
+      "kind": "word",
+      "term": "astute",
+      "pos": "adjective",
+      "phonetic": "/əˈstuːt/",
+      "sayIt": "uh-STOOT",
+      "register": "Common at work",
+      "meaning": "Showing sharp judgement and an ability to understand what is really going on.",
+      "nuance": "A strong, complimentary word for someone who notices hidden motives, risks or opportunities. It can also describe clever analysis rather than a person.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reading a proposal",
+          "sentence": "Her astute review showed that the timeline ignored several hidden dependencies.",
+          "highlight": "astute",
+          "tip": "Use it for judgement that reveals an overlooked problem or motive."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · noticing a change in plans",
+          "sentence": "He was astute enough to realise that the invitation meant more than a simple dinner.",
+          "highlight": "astute",
+          "tip": "It suggests perceptiveness, especially when you understand a situation before others do."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · evaluating a contribution",
+          "sentence": "Her astute analysis identified the main risk before the project reached production.",
+          "highlight": "astute",
+          "tip": "Pairs naturally with analysis, insight, judgement, observation and thinking."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin astutus, meaning ‘keen’ or ‘clever’, probably developed from astus, meaning ‘sharpness’ or ‘cleverness’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Astutus meant ‘keen’, ‘shrewd’ or ‘clever’, based on astus, ‘sharpness’ or ‘cleverness’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word entered English and began to describe keen intelligence and practical judgement."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal way to praise perceptiveness and sharp thinking."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "astutely",
+          "label": "adverb"
+        },
+        {
+          "term": "astuteness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "shrewd",
+        "perceptive",
+        "savvy",
+        "sharp"
+      ],
+      "opposite": "oblivious",
+      "pitfall": "Astute usually suggests practical judgement or perceptiveness, not simply being highly intelligent."
+    },
+    {
+      "id": "chimerical",
+      "kind": "word",
+      "term": "chimerical",
+      "pos": "adjective",
+      "phonetic": "/kaɪˈmɪərɪkəl/",
+      "sayIt": "kai-MEER-ih-kul",
+      "register": "Formal",
+      "meaning": "Based on an imagined or fanciful idea that is unlikely to become real.",
+      "nuance": "Often mildly critical, suggesting that a plan is unrealistic or built on mistaken assumptions. It can sound less harsh than calling something impossible.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · testing a bold concept",
+          "sentence": "The chimerical plan ignored both our budget and the time engineers would need.",
+          "highlight": "chimerical",
+          "tip": "Use it when you want to question a plan without sounding overly harsh."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · describing an unlikely dream",
+          "sentence": "Buying that island was always a chimerical dream, but it made the weekend fun.",
+          "highlight": "chimerical",
+          "tip": "It can be playful when describing an impractical shared ambition."
+        },
+        {
+          "setting": "writing",
+          "where": "Project proposal · explaining the risks",
+          "sentence": "Several chimerical assumptions about user demand weakened the original proposal.",
+          "highlight": "chimerical",
+          "tip": "Pairs well with assumptions, plans and ideas in formal criticism."
+        }
+      ],
+      "origin": {
+        "summary": "From the Chimera, a creature in Greek mythology made from several animals, and later from French and Latin forms referring to such creatures or imaginary ideas.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greece",
+            "text": "The Chimera was a mythical creature combining a lion, a goat and a serpent."
+          },
+          {
+            "when": "Earlier",
+            "text": "Latin chimaera and French chimérique developed senses connected with imaginary creatures or fanciful ideas."
+          },
+          {
+            "when": "Today",
+            "text": "Chimerical means fanciful, unrealistic or based on an imagined idea."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "chimera",
+          "label": "noun"
+        },
+        {
+          "term": "chimerically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "fanciful",
+        "unrealistic",
+        "idealistic",
+        "visionary"
+      ],
+      "opposite": "realistic",
+      "pitfall": "In biology, chimeric means involving genetically distinct parts, so check the context before using it technically."
+    },
+    {
+      "id": "circuitous",
+      "kind": "word",
+      "term": "circuitous",
+      "pos": "adjective",
+      "phonetic": "/sɚˈkjuːtəs/",
+      "sayIt": "ser-KYOO-tuhs",
+      "register": "Formal",
+      "meaning": "Going around in a long, indirect way rather than taking the shortest or clearest route.",
+      "nuance": "Often mildly critical: it suggests that a process, route or explanation is more complicated than it needs to be. It can also sound neutral when describing a winding physical path.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · explaining delays",
+          "sentence": "The approval process has become circuitous, taking us through three departments for a simple request.",
+          "highlight": "circuitous",
+          "tip": "Useful for describing unnecessarily complicated procedures without sounding too aggressive."
+        },
+        {
+          "setting": "social",
+          "where": "Walking home · choosing a route",
+          "sentence": "We took a circuitous route along the river because we did not want to miss the sunset.",
+          "highlight": "circuitous",
+          "tip": "Often sounds elegant or literary when describing a deliberately winding path."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · explaining an argument",
+          "sentence": "His circuitous explanation obscured the main point, so I asked him to be more direct.",
+          "highlight": "circuitous",
+          "tip": "Pairs well with route, path, process and explanation in formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin circuitus, meaning a going around. It combines circum, “around,” with ire, “to go.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Circuitus develops from circum, “around,” and ire, “to go.”"
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with the sense of going around in a circle."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes an indirect route, process or explanation."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "circuitously",
+          "label": "adverb"
+        },
+        {
+          "term": "circuitousness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "indirect",
+        "winding",
+        "meandering",
+        "convoluted"
+      ],
+      "opposite": "direct",
+      "pitfall": "Do not use it to mean complicated in general; it specifically suggests an indirect or roundabout route."
+    },
+    {
+      "id": "cognizant",
+      "kind": "word",
+      "term": "cognizant",
+      "pos": "adjective",
+      "phonetic": "/ˈkɒɡnɪzənt/",
+      "sayIt": "KOG-nuh-zunt",
+      "register": "Formal",
+      "meaning": "Aware of something, especially a situation, fact, risk or responsibility.",
+      "nuance": "It sounds professional and attentive, often suggesting that you understand both what is happening and why it matters.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Risk review · discussing a new supplier",
+          "sentence": "We should ensure every manager is cognizant of the data-access risks before the audit.",
+          "highlight": "cognizant",
+          "tip": "Use it when awareness alone is important, especially in formal workplace communication."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · explaining a change",
+          "sentence": "I wasn’t fully cognizant of how late the train would arrive, so thank you for waiting.",
+          "highlight": "cognizant",
+          "tip": "It adds a thoughtful, slightly formal tone when acknowledging what you did or did not notice."
+        },
+        {
+          "setting": "writing",
+          "where": "Project proposal · stating responsibilities",
+          "sentence": "All reviewers must be cognizant of the deadline and the consequences of late feedback.",
+          "highlight": "cognizant",
+          "tip": "A natural choice for policies, proposals and reports; it normally takes “of” before a noun or pronoun."
+        }
+      ],
+      "origin": {
+        "summary": "Cognizant comes from Latin cognoscere, meaning ‘to get to know’, and entered English through cognizance, meaning knowledge or awareness.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Cognoscere combines co-, ‘together’, with gnoscere, ‘to get to know’."
+          },
+          {
+            "when": "1400s",
+            "text": "Cognizance appears in English with the sense of knowledge, observation or recognition."
+          },
+          {
+            "when": "1600s",
+            "text": "Cognizant develops as an adjective meaning aware or having knowledge."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal and professional contexts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "cognizance",
+          "label": "noun"
+        },
+        {
+          "term": "cognizantly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "aware",
+        "conscious",
+        "knowledgeable",
+        "attentive"
+      ],
+      "opposite": "unaware",
+      "pitfall": "Don’t confuse it with cognoscent, which means having advanced knowledge of a particular subject."
+    },
+    {
+      "id": "coherent",
+      "kind": "word",
+      "term": "coherent",
+      "pos": "adjective",
+      "phonetic": "/koʊˈhɪrənt/",
+      "sayIt": "koh-HEER-uhnt",
+      "register": "Common at work",
+      "meaning": "Clear, logical, and able to fit together in a way that makes sense.",
+      "nuance": "Often used to praise an argument, plan, or piece of writing. It can also describe physical parts that work well together.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · choosing a direction",
+          "sentence": "We need a coherent proposal before Friday, not several disconnected ideas.",
+          "highlight": "coherent",
+          "tip": "Use it when you want a plan or argument to connect clearly from one point to the next."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · telling a story",
+          "sentence": "Your explanation was coherent, even though I still need to check the final date.",
+          "highlight": "coherent",
+          "tip": "It can sound like a compliment when someone has made a complicated story easy to follow."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · reviewing an argument",
+          "sentence": "The report is coherent, but it needs stronger evidence for its main claim.",
+          "highlight": "coherent",
+          "tip": "Often paired with argument, account, strategy, narrative or structure."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin cohaerere, meaning ‘to stick together’, through French coherent. Its original sense of fitting together developed into the modern idea of ideas being logically connected.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root cohaerere combines co-, ‘together’, with haerere, ‘to stick’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with meanings related to agreement and connection."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes clear reasoning, writing, plans, or parts that fit together."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "coherence",
+          "label": "noun"
+        },
+        {
+          "term": "coherently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "logical",
+        "consistent",
+        "clear",
+        "lucid"
+      ],
+      "opposite": "incoherent",
+      "pitfall": "Coherent focuses on ideas fitting together logically, while cohesive mainly emphasizes the parts of a whole being closely joined."
+    },
+    {
+      "id": "commonplace",
+      "kind": "word",
+      "term": "commonplace",
+      "pos": "adjective",
+      "phonetic": "/ˈkɒmənpleɪs/",
+      "sayIt": "COM-uhn-place",
+      "register": "Everyday",
+      "meaning": "So ordinary or familiar that it does not attract much attention.",
+      "nuance": "It can suggest that something lacks special interest, importance or originality. It may sound neutral or mildly critical depending on the context.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing a routine proposal",
+          "sentence": "The request for a standard template became commonplace after the first quarter.",
+          "highlight": "commonplace",
+          "tip": "Use it to describe something that has become ordinary and expected."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · comparing weekends",
+          "sentence": "Finishing dinner at nine is commonplace on Friday nights here.",
+          "highlight": "commonplace",
+          "tip": "It works naturally when something happens regularly without causing surprise."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · assessing a familiar theme",
+          "sentence": "The novel offers vivid characters, but its concern with money is commonplace.",
+          "highlight": "commonplace",
+          "tip": "Use it in criticism when an idea or subject feels familiar rather than fresh."
+        }
+      ],
+      "origin": {
+        "summary": "The word developed from the older phrase “common place,” meaning a general or widely shared topic. It was later applied to things regarded as ordinary.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "The phrase “common place” appears in English for a general subject or shared place."
+          },
+          {
+            "when": "1600s",
+            "text": "The word takes on its sense of something ordinary or frequently encountered."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means everyday, ordinary or unremarkable."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "commonplaceness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "ordinary",
+        "routine",
+        "familiar",
+        "mundane"
+      ],
+      "opposite": "unusual",
+      "pitfall": "Do not confuse it with “commonplace” used as a noun for a widely accepted remark or idea."
+    },
+    {
+      "id": "compatible",
+      "kind": "word",
+      "term": "compatible",
+      "pos": "adjective",
+      "phonetic": "/kəmˈpætəbəl/",
+      "sayIt": "kuhm-PAT-uh-buhl",
+      "register": "Common at work and in everyday life",
+      "meaning": "Able to exist, work or be used together without problems.",
+      "nuance": "Often describes systems, formats or people whose different qualities can work well together. It can also mean suitable for a particular situation or purpose.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Software planning · choosing a tool",
+          "sentence": "The export format is compatible with both spreadsheet programs, so finance can update its templates.",
+          "highlight": "compatible",
+          "tip": "Common when describing whether products, software or processes can work together."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · different personalities",
+          "sentence": "We’re quite compatible as housemates because we keep the shared spaces tidy.",
+          "highlight": "compatible",
+          "tip": "Use it to say that people’s habits, tastes or lifestyles can fit together."
+        },
+        {
+          "setting": "writing",
+          "where": "Product email · customer question",
+          "sentence": "This charger is compatible with the latest tablet, although it does not support fast charging.",
+          "highlight": "compatible",
+          "tip": "Pair it with “with” when naming what it works with or suits."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin compatibilis, meaning “agreeing” or “suitable,” based on compati, “to agree or be suitable.” It entered English with a mathematical sense before broadening to systems, people and circumstances.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "compatibilis develops from compati, meaning “to agree” or “be suitable.”"
+          },
+          {
+            "when": "1600s",
+            "text": "The word appears in English, especially in mathematics and physical science."
+          },
+          {
+            "when": "Today",
+            "text": "It means able to work together or be suitable for a situation."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "compatibility",
+          "label": "noun"
+        },
+        {
+          "term": "compatibly",
+          "label": "adverb"
+        },
+        {
+          "term": "incompatible",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "consistent",
+        "suitable",
+        "adaptable",
+        "harmonious"
+      ],
+      "opposite": "incompatible",
+      "pitfall": "Compatible does not mean identical; two things can be compatible while still having important differences."
+    },
+    {
+      "id": "complex",
+      "kind": "word",
+      "term": "complex",
+      "pos": "adjective",
+      "phonetic": "/kəmˈpleks/",
+      "sayIt": "kuhm-PLEKS",
+      "register": "Common at work",
+      "meaning": "Made up of many connected parts and therefore difficult to understand or deal with.",
+      "nuance": "It can describe systems, situations or emotions. When used about people, it may sound analytical, but it can also suggest emotional difficulty.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project meeting · explaining delays",
+          "sentence": "The problem is complex because several teams depend on the same approval process.",
+          "highlight": "complex",
+          "tip": "Use it when the difficulty comes from several connected factors rather than one obvious problem."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · explaining a busy week",
+          "sentence": "It’s been a complex week, with family plans and work deadlines happening at once.",
+          "highlight": "complex",
+          "tip": "This sounds more thoughtful than saying everything was simply difficult."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · proposing next steps",
+          "sentence": "This is a complex change, so we’ll release it in stages and monitor the results carefully.",
+          "highlight": "complex",
+          "tip": "Pair it with a practical next step so the description does not feel vague."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin complexus, meaning ‘held together’ or ‘intertwined’, combining com- (‘together’) with plexus (‘woven’).",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "The root elements mean ‘together’ and ‘woven’, giving the idea of parts joined in a tangled whole."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in senses connected with intricate arrangements or complicated situations."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely used for difficult systems, situations, experiences and ideas."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "complexity",
+          "label": "noun"
+        },
+        {
+          "term": "complex",
+          "label": "noun (a group of connected buildings)"
+        }
+      ],
+      "similar": [
+        "complicated",
+        "intricate",
+        "involved",
+        "multifaceted"
+      ],
+      "opposite": "simple",
+      "pitfall": "As an adjective, stress the second syllable: com-PLEX. In the noun meaning a group of buildings, stress the first syllable: COM-plex."
+    },
+    {
+      "id": "concoct",
+      "kind": "word",
+      "term": "concoct",
+      "pos": "verb",
+      "phonetic": "/kənˈkɒkt/",
+      "sayIt": "kun-KOKT",
+      "register": "Common at work and in writing",
+      "meaning": "To invent or combine ingredients, ideas, or details into something new, often something strange or difficult to believe.",
+      "nuance": "It often suggests making an implausible story or mixture, but it can also mean carefully devising a plan. The tone may be playful, suspicious, or deliberately exaggerated.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · explaining a prototype",
+          "sentence": "The designer concocted a clever solution by combining two features we had already built.",
+          "highlight": "concocted",
+          "tip": "Use it when creativity or an unusual combination is the main point."
+        },
+        {
+          "setting": "social",
+          "where": "Friends chatting · telling a tall tale",
+          "sentence": "He concocted an elaborate story about meeting a famous singer at a bus stop.",
+          "highlight": "concocted",
+          "tip": "This often adds humor or signals that the story may not be entirely true."
+        },
+        {
+          "setting": "writing",
+          "where": "Novel draft · describing a suspicious account",
+          "sentence": "She had concocted a convincing explanation, but several details did not match the evidence.",
+          "highlight": "concocted",
+          "tip": "It gives a slightly formal and dramatic tone to invented stories or excuses."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin concoctus, “boiled together,” formed from con- and coquere, “to cook or boil.” The word later broadened to mean inventing or putting things together.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Concoquere means “to boil together” or “cook thoroughly.”"
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "Enters English with the meaning of cooking ingredients together."
+          },
+          {
+            "when": "1700s onward",
+            "text": "Develops the broader sense of devising or inventing something."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "concoction",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "devise",
+        "invent",
+        "contrive",
+        "fabricate"
+      ],
+      "opposite": "discover",
+      "pitfall": "Concoct often implies that the result is unusual or not entirely believable, so use a simpler word such as “develop” for a straightforward plan."
+    },
+    {
+      "id": "concomitant",
+      "kind": "word",
+      "term": "concomitant",
+      "pos": "adjective",
+      "phonetic": "/kənˈkɒmɪtənt/",
+      "sayIt": "kun-KOM-ih-tunt",
+      "register": "Formal",
+      "meaning": "Existing or happening together with something else.",
+      "nuance": "Often used in technical or academic writing to describe a connected feature, risk or effect. It does not mean the two things are inseparable or that one causes the other.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · discussing delays",
+          "sentence": "Cost overruns are concomitant with scope changes, so both need approval.",
+          "highlight": "concomitant",
+          "tip": "Common in formal business English when linking two developments."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · someone gets embarrassed",
+          "sentence": "Her quick laugh was concomitant with her embarrassment, though she tried to hide it.",
+          "highlight": "concomitant",
+          "tip": "Use it for a secondary detail that appears at the same time as another."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · workplace safety",
+          "sentence": "The report notes that fatigue is concomitant with night shifts and recommends extra rest breaks.",
+          "highlight": "concomitant",
+          "tip": "It fits formal reports and analysis, especially before ‘with’ or ‘of’."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin concomitant, meaning ‘accompanying’, which comes from a word meaning ‘to accompany’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root means ‘to accompany’, with a prefix that adds the sense of being together."
+          },
+          {
+            "when": "Late 1500s–1600s",
+            "text": "The word enters English in formal and academic contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly formal and often describes linked features, effects or circumstances."
+          }
+        ]
+      },
+      "similar": [
+        "accompanying",
+        "associated",
+        "linked",
+        "related"
+      ],
+      "opposite": "unconnected",
+      "pitfall": "Concomitant means occurring together, not necessarily caused by or dependent on something else."
+    },
+    {
+      "id": "concur",
+      "kind": "word",
+      "term": "concur",
+      "pos": "verb",
+      "phonetic": "/kənˈkɜːr/",
+      "sayIt": "kuhn-KUR",
+      "register": "Formal",
+      "meaning": "To agree with what someone else has said or proposed.",
+      "nuance": "Often used in meetings, reports and formal writing to show that several people share the same view. It can sound more official than simply saying “agree.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing a proposal",
+          "sentence": "I concur with Mia’s suggestion, provided we have enough time to test it.",
+          "highlight": "concur",
+          "tip": "Use it when you are formally agreeing with a point or proposal."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · choosing a restaurant",
+          "sentence": "I concur; the Italian place will be easier for everyone to reach.",
+          "highlight": "concur",
+          "tip": "A slightly formal or playful alternative to “I agree.”"
+        },
+        {
+          "setting": "writing",
+          "where": "Report · presenting committee findings",
+          "sentence": "The committee concurred that the current schedule left too little time for testing.",
+          "highlight": "concurred",
+          "tip": "Common in reports and legal writing for recording shared agreement."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin concurrere, meaning “to run together” and later “to agree.” English borrowed it in the sense of agreeing or happening together.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin concurrere combines com-, meaning “together,” with currere, “to run.”"
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with meanings including agreement and happening at the same time."
+          },
+          {
+            "when": "Today",
+            "text": "Its main modern use is to express agreement, especially in formal contexts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "concurrence",
+          "label": "noun"
+        },
+        {
+          "term": "concurrent",
+          "label": "adjective"
+        },
+        {
+          "term": "concurrently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "agree",
+        "assent",
+        "accede",
+        "be in agreement"
+      ],
+      "opposite": "disagree",
+      "pitfall": "When you mean that two things happen at the same time, use “coincide” or “occur concurrently” rather than simply “concur.”"
+    },
+    {
+      "id": "conducive",
+      "kind": "word",
+      "term": "conducive",
+      "pos": "adjective",
+      "phonetic": "/kənˈduːsɪv/",
+      "sayIt": "kun-DOO-siv",
+      "register": "Formal",
+      "meaning": "Making something more likely to happen or develop successfully.",
+      "nuance": "Usually appears in the phrase “conducive to” followed by a noun or gerund. It is especially common in formal writing and professional discussion.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · choosing a work environment",
+          "sentence": "A quiet workspace is more conducive to focused work than a busy café.",
+          "highlight": "conducive",
+          "tip": "Use it to describe conditions that support a particular result."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a study session with friends",
+          "sentence": "A tidy table and a phone-free room are conducive to getting through our revision.",
+          "highlight": "conducive",
+          "tip": "It sounds natural when describing a setting that helps people succeed."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · explaining why a proposal works",
+          "sentence": "The proposed schedule is conducive to steady progress without overworking the team.",
+          "highlight": "conducive",
+          "tip": "Pair it with “to” and a noun or -ing form for a polished, formal tone."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin conducere, meaning ‘to lead, guide or bring together’, with the sense of helping something happen.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root conducere meant ‘to lead, guide or direct’, and could also mean ‘to bring about’."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English in the sense of leading or guiding."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means helping create conditions for a successful or likely outcome."
+          }
+        ]
+      },
+      "similar": [
+        "helpful",
+        "favourable",
+        "supportive",
+        "beneficial"
+      ],
+      "opposite": "detrimental",
+      "pitfall": "Use “conducive to”, not “conducive for”: “conducive to collaboration.”"
+    },
+    {
+      "id": "connoisseur",
+      "kind": "word",
+      "term": "connoisseur",
+      "pos": "noun",
+      "phonetic": "/ˌkɒnəˈsɜːr/",
+      "sayIt": "kon-uh-SER",
+      "register": "Common at work and socially",
+      "meaning": "Someone with deep knowledge and a strong ability to judge the quality of something, especially art, food, wine or cars.",
+      "nuance": "It suggests informed taste and expertise rather than simply enjoying a subject. Use it carefully if your knowledge is still developing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Restaurant review · choosing wine",
+          "sentence": "Our head chef is a connoisseur of Italian wines, so he chose the bottle for the tasting.",
+          "highlight": "connoisseur",
+          "tip": "Common when describing someone with expert knowledge of food, wine or art."
+        },
+        {
+          "setting": "social",
+          "where": "Gallery opening · discussing an exhibition",
+          "sentence": "My sister is a connoisseur of modern art and can explain why she likes each painting.",
+          "highlight": "connoisseur",
+          "tip": "A natural way to show that someone knows a subject well."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel feature · introducing local produce",
+          "sentence": "As a connoisseur of regional cheeses, she visits the dairy every spring.",
+          "highlight": "connoisseur",
+          "tip": "The phrase ‘a connoisseur of’ works smoothly in formal and informal writing."
+        }
+      ],
+      "origin": {
+        "summary": "Borrowed from French connoisseur, originally someone who knows or recognizes something. The French word comes from connoître, ‘to know’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "French",
+            "text": "Connoisseur develops from connoître, ‘to know’, with a focus on expert recognition and judgement."
+          },
+          {
+            "when": "1700s",
+            "text": "The word enters English, initially referring to an expert judge of artistic or academic matters."
+          },
+          {
+            "when": "1800s",
+            "text": "Its use broadens to include experts on food, wine and other objects valued for quality."
+          }
+        ]
+      },
+      "similar": [
+        "expert",
+        "specialist",
+        "enthusiast",
+        "authority"
+      ],
+      "opposite": "novice",
+      "pitfall": "Spell it with two s’s: connoisseur. It is often used loosely, but it traditionally implies substantial knowledge and discernment."
+    },
+    {
+      "id": "construe",
+      "kind": "word",
+      "term": "construe",
+      "pos": "verb",
+      "phonetic": "/kənˈstruː/",
+      "sayIt": "kun-STROO",
+      "register": "Formal",
+      "meaning": "Interpret a word, action or set of circumstances in a particular way.",
+      "nuance": "Often sounds careful or analytical, but it can also imply that someone is giving an unusual or strained interpretation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · interpreting feedback",
+          "sentence": "The team construed her criticism as a request for more detail rather than a complaint.",
+          "highlight": "construed",
+          "tip": "Use it when you want to describe how people understand something, especially when the interpretation is debatable."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · explaining a vague message",
+          "sentence": "I construed his silence as agreement, although I may have read too much into it.",
+          "highlight": "construed",
+          "tip": "This works well for an interpretation based on clues rather than an explicit statement."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · analysing an incident",
+          "sentence": "The report construes the sequence of events as an attempt to conceal the error.",
+          "highlight": "construes",
+          "tip": "A slightly formal choice that suits reports, academic writing and legal analysis."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin construere, meaning ‘build’ or ‘put together’, which developed into the sense of interpreting wording or circumstances.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Construere combined con-, meaning ‘together’, with struere, meaning ‘build’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in legal and interpretive senses."
+          },
+          {
+            "when": "Today",
+            "text": "It means to understand or interpret something in a stated way."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "construction",
+          "label": "noun"
+        },
+        {
+          "term": "construct",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "interpret",
+        "understand",
+        "read",
+        "regard"
+      ],
+      "opposite": "misconstrue",
+      "pitfall": "Don’t use it as a simple synonym for ‘build’; that sense belongs to ‘construct’."
+    },
+    {
+      "id": "criterion",
+      "kind": "word",
+      "term": "criterion",
+      "pos": "noun",
+      "phonetic": "/kraɪˈtɪriən/",
+      "sayIt": "kry-TEE-ri-uhn",
+      "register": "Formal",
+      "meaning": "A standard or principle used to judge whether something is good, successful or acceptable.",
+      "nuance": "Common in careful discussion and professional writing because it sounds precise. It usually refers to a rule or measure, not simply a personal preference.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · agreeing goals",
+          "sentence": "A useful criterion for judging the campaign is whether it brings in qualified leads.",
+          "highlight": "criterion",
+          "tip": "Use it when explaining what standard your decision or evaluation will follow."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing a restaurant · comparing options",
+          "sentence": "For us, good service is the main criterion when choosing where to eat.",
+          "highlight": "criterion",
+          "tip": "It sounds more considered than simply saying 'thing we care about.'"
+        },
+        {
+          "setting": "writing",
+          "where": "Research paper · stating a method",
+          "sentence": "Participants were selected using three clear criteria: experience, availability and subject knowledge.",
+          "highlight": "criteria",
+          "tip": "Remember that 'criteria' is the usual plural of 'criterion.'"
+        }
+      ],
+      "origin": {
+        "summary": "From Latin criterium, borrowed from Greek kritērion, meaning a means of judging. It is connected to the Greek verb kritein, meaning to judge or decide.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "kritērion develops from kritein, 'to judge, distinguish or decide'."
+          },
+          {
+            "when": "Latin",
+            "text": "criterium appears as a term for a standard used in making a judgement."
+          },
+          {
+            "when": "17th century",
+            "text": "The word enters English through French and Latin, initially in scholarly discussion."
+          },
+          {
+            "when": "Today",
+            "text": "It means a standard or principle used for evaluation."
+          }
+        ]
+      },
+      "similar": [
+        "standard",
+        "benchmark",
+        "measure",
+        "test",
+        "yardstick"
+      ],
+      "pitfall": "In formal English, 'criterion' is singular and 'criteria' is plural. Avoid 'criterions' unless discussing a specific field’s terminology."
+    },
+    {
+      "id": "cursory",
+      "kind": "word",
+      "term": "cursory",
+      "pos": "adjective",
+      "phonetic": "/ˈkɜːrsəri/",
+      "sayIt": "KUR-suh-ree",
+      "register": "Common at work",
+      "meaning": "Done quickly and without close attention, detail or thorough examination.",
+      "nuance": "It can suggest efficiency when time is limited, but it often implies that something important was not examined carefully.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team review · checking a proposal",
+          "sentence": "I gave the proposal a cursory review, so please don’t treat my comments as a full assessment.",
+          "highlight": "cursory",
+          "tip": "Useful when acknowledging a quick check without claiming to have covered everything."
+        },
+        {
+          "setting": "social",
+          "where": "Café conversation · trying a new place",
+          "sentence": "We only had a cursory look at the menu before deciding, so we ended up ordering the usual.",
+          "highlight": "cursory",
+          "tip": "It can sound slightly dismissive because it emphasizes a lack of close attention."
+        },
+        {
+          "setting": "writing",
+          "where": "Research summary · introducing a report",
+          "sentence": "The report provides a cursory overview of the market but does not examine regional differences.",
+          "highlight": "cursory",
+          "tip": "Use it to identify the limited depth of an overview, review or examination."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin cursorius, meaning ‘of running’ or ‘quick’, related to currere, ‘to run’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Developed from cursorius, ‘of running’, with currere meaning ‘to run’."
+          },
+          {
+            "when": "Early 1600s",
+            "text": "Entered English with meanings connected with running and haste."
+          },
+          {
+            "when": "Today",
+            "text": "Mainly describes a quick examination without careful detail."
+          }
+        ]
+      },
+      "similar": [
+        "brief",
+        "hasty",
+        "superficial",
+        "quick"
+      ],
+      "opposite": "thorough",
+      "pitfall": "Cursory does not mean careless; it means quick and lacking depth, though it can still suggest inadequate attention."
+    },
+    {
+      "id": "decisive",
+      "kind": "word",
+      "term": "decisive",
+      "pos": "adjective",
+      "phonetic": "/dɪˈsaɪsɪv/",
+      "sayIt": "dih-SY-siv",
+      "register": "Common at work",
+      "meaning": "Able to make clear choices quickly and confidently, or able to settle an important matter.",
+      "nuance": "Usually a compliment when describing good judgement and firm action. It can sound slightly negative when it suggests excessive authority or rushing into a decision.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · choosing priorities",
+          "sentence": "Her decisive leadership helped us cut the project down to three essential features.",
+          "highlight": "decisive",
+          "tip": "Use it to praise firm judgement that helps a team move forward."
+        },
+        {
+          "setting": "social",
+          "where": "Restaurant with friends · choosing a meal",
+          "sentence": "We were hungry, so we made a decisive choice and ordered two pizzas.",
+          "highlight": "decisive",
+          "tip": "It sounds natural when someone settles a minor question quickly."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · describing progress",
+          "sentence": "She took decisive action and resolved the customer issue before it affected the wider team.",
+          "highlight": "decisive",
+          "tip": "Pairs well with action, leadership, role, approach and factor."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin decisivus, meaning ‘able to decide’, which developed from decidere, ‘to cut off, settle or decide’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Decidere combines de-, ‘off’, with caedere, ‘to cut’, originally referring to making a final cut or settlement."
+          },
+          {
+            "when": "1600s",
+            "text": "The related English word decisive enters use in the sense of final, conclusive or able to decide."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes quick, clear choices and firm action."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "decisiveness",
+          "label": "noun"
+        },
+        {
+          "term": "decisively",
+          "label": "adverb"
+        },
+        {
+          "term": "decision",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "resolute",
+        "firm",
+        "determined",
+        "conclusive"
+      ],
+      "opposite": "indecisive",
+      "pitfall": "Decisive usually concerns making a choice; conclusive more often means settling a question or matter."
+    }
+  ]
+}

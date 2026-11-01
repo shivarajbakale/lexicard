@@ -1,0 +1,1481 @@
+{
+  "id": "phrases-everyday-life-4",
+  "kind": "phrase",
+  "name": "Everyday life · 4",
+  "blurb": "25 phrases about everyday life",
+  "cards": [
+    {
+      "id": "nothing-to-it",
+      "kind": "phrase",
+      "term": "nothing to it",
+      "pos": "phrase",
+      "hint": "easy, with no real difficulty",
+      "register": "Common at work",
+      "meaning": "Something is simple or easy to do, with little effort or difficulty.",
+      "nuance": "It can reassure someone that a task is manageable or praise someone for making it look easy. Use it casually, since it may sound dismissive if the task was genuinely difficult.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague asks for help",
+          "sentence": "Don’t worry, there’s nothing to it; I can update the spreadsheet before lunch.",
+          "highlight": "there’s nothing to it",
+          "tip": "Use it to offer reassurance when someone seems hesitant."
+        },
+        {
+          "setting": "social",
+          "where": "Friend shows you a new recipe",
+          "sentence": "I thought making fresh pasta would be complicated, but there’s nothing to it.",
+          "highlight": "there’s nothing to it",
+          "tip": "It sounds friendly and lightly informal in conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Instructions for a simple task",
+          "sentence": "There’s nothing to it—just sign the form and email it back.",
+          "highlight": "There’s nothing to it",
+          "tip": "Keep the following instructions clear so the reassurance feels helpful."
+        }
+      ],
+      "origin": {
+        "summary": "This is an ordinary English phrase built from words that mean “no difficulty.” Its exact first appearance is uncertain, but it was already in use by the 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The building blocks “nothing” and “to it” appear in older English expressions meaning that something requires no effort."
+          },
+          {
+            "when": "19th century",
+            "text": "Forms close to “there is nothing in it” are recorded for describing a task as easy."
+          },
+          {
+            "when": "Today",
+            "text": "“There’s nothing to it” remains common in reassuring everyday speech."
+          }
+        ]
+      },
+      "similar": [
+        "a piece of cake",
+        "easier than you think",
+        "no big deal"
+      ],
+      "opposite": "a real challenge",
+      "pitfall": "Avoid saying it about someone’s work if they struggled; “That was easy” can sound mocking."
+    },
+    {
+      "id": "on-all-fours",
+      "kind": "phrase",
+      "term": "on all fours",
+      "pos": "idiom",
+      "hint": "down on hands and knees",
+      "register": "Common in everyday conversation",
+      "meaning": "On your hands and knees, or making a determined, all-out effort to achieve something.",
+      "nuance": "The literal image is someone crawling on hands and knees. Figuratively, it suggests going to great lengths, often because the situation feels difficult or urgent.",
+      "literal": "A person moving along on both hands and both knees.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Missed deadline · asking for help",
+          "sentence": "We’re going to be on all fours to finish this report before the client calls.",
+          "highlight": "on all fours",
+          "tip": "Use it for a serious effort, not ordinary hard work."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a surprise party",
+          "sentence": "She went on all fours to arrange the surprise party without her brother finding out.",
+          "highlight": "on all fours",
+          "tip": "It adds a slightly humorous or dramatic tone."
+        },
+        {
+          "setting": "writing",
+          "where": "Describing a company’s recovery",
+          "sentence": "The small business went on all fours to survive its first difficult winter.",
+          "highlight": "on all fours",
+          "tip": "This gives the sentence a vivid sense of determined struggle."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from the literal posture of someone on their hands and knees. Its figurative use for determined effort is likely older than its frequent use in modern business and media language.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal sense refers to a person on hands and knees."
+          },
+          {
+            "when": "19th century",
+            "text": "The image was extended to describe extreme effort or a difficult struggle."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a vivid way to describe going to great lengths to succeed or recover."
+          }
+        ]
+      },
+      "similar": [
+        "on hands and knees",
+        "flat out",
+        "by all possible means"
+      ],
+      "opposite": "halfhearted",
+      "pitfall": "On all fours suggests an exceptional or desperate effort, so it can sound exaggerated when the task is merely routine."
+    },
+    {
+      "id": "one-thing-leads-to-another",
+      "kind": "phrase",
+      "term": "one thing leads to another",
+      "pos": "phrase",
+      "hint": "events happen one after another",
+      "register": "Everyday",
+      "meaning": "A series of events follows naturally from something that happened first.",
+      "nuance": "It suggests a chain of consequences or coincidences, often with the final outcome being unexpected, awkward or amusing. It can sound neutral in a story but vague when you need to explain what actually caused what.",
+      "literal": "One event points toward or causes the next event.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Explaining a chain of delays",
+          "sentence": "One thing leads to another: the supplier missed the deadline, so testing had to be rescheduled.",
+          "highlight": "One thing leads to another",
+          "tip": "Use it to introduce a sequence, then state the important cause clearly."
+        },
+        {
+          "setting": "social",
+          "where": "Describing an evening out",
+          "sentence": "We stopped for one drink, and one thing leads to another—we ended up at a party across town.",
+          "highlight": "one thing leads to another",
+          "tip": "It works well for telling a light, slightly chaotic story."
+        },
+        {
+          "setting": "writing",
+          "where": "Recounting a complicated day",
+          "sentence": "One thing leads to another: my train was delayed, the meeting overran, and I missed dinner.",
+          "highlight": "One thing leads to another",
+          "tip": "Use it to connect several events without overexplaining every link."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from the literal idea that one action or event causes another. Its exact first use is uncertain, but similar wording appears in English from the 1600s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "Similar forms describing one thing causing another appear in English writing."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression becomes established in its familiar form."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used to introduce a chain of events in speech and writing."
+          }
+        ]
+      },
+      "similar": [
+        "one thing after another",
+        "before you know it",
+        "it all snowballs"
+      ],
+      "opposite": "nothing came of it",
+      "pitfall": "Because it can be vague, name the key cause and result if the reader needs a clear explanation."
+    },
+    {
+      "id": "ones-gotta-do-what-ones-gotta-do",
+      "kind": "phrase",
+      "term": "one's gotta do what one's gotta do",
+      "pos": "phrase",
+      "hint": "an unavoidable responsibility",
+      "register": "Casual",
+      "meaning": "One must accept and carry out a responsibility, even when it is difficult or unwelcome.",
+      "nuance": "This often expresses resignation to a necessary duty, with a hint of frustration. It can sound sympathetic or self-aware, but it is usually too informal for serious formal writing.",
+      "literal": "Someone has to do the thing that they are required to do.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · covering an unpopular task",
+          "sentence": "Someone has to update the old client list, so one’s gotta do what one’s gotta do.",
+          "highlight": "one’s gotta do what one’s gotta do",
+          "tip": "Use it when acknowledging a duty you dislike without making a big complaint."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · helping before dinner",
+          "sentence": "I’d rather stay on the sofa, but one’s gotta do what one’s gotta do and help clear the table.",
+          "highlight": "one’s gotta do what one’s gotta do",
+          "tip": "Keep the tone light when joking about a responsibility you would rather avoid."
+        },
+        {
+          "setting": "writing",
+          "where": "Casual message · explaining why you will attend",
+          "sentence": "The meeting is at eight, so one’s gotta do what one’s gotta do and be there on time.",
+          "highlight": "one’s gotta do what one’s gotta do",
+          "tip": "It works in a relaxed message among people you know, but not in formal business correspondence."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase appears to have developed from everyday talk about doing what is required. Its wording became especially familiar through popular songs and television in the mid-20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used conversational variants such as “you’ve got to do what you’ve got to do” for unavoidable responsibilities."
+          },
+          {
+            "when": "1950s–60s",
+            "text": "Similar wording became prominent in popular music and entertainment."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar casual way to accept an unpleasant but necessary task."
+          }
+        ]
+      },
+      "similar": [
+        "you’ve got to do what you’ve got to do",
+        "it is what it is",
+        "when duty calls"
+      ],
+      "opposite": "leave it to someone else",
+      "pitfall": "Because “one’s” is a placeholder, replace it with a subject when you want a more specific sentence, such as “I’ve got to do what I’ve got to do.”"
+    },
+    {
+      "id": "pick-your-poison",
+      "kind": "phrase",
+      "term": "pick your poison",
+      "pos": "idiom",
+      "hint": "choose between unwanted options",
+      "register": "Casual",
+      "meaning": "To choose between several options when none of them is ideal.",
+      "nuance": "It has a humorous, slightly resigned tone and works when the choices are annoying but manageable. It can sound too casual for serious decisions.",
+      "literal": "Choose which poison to drink when every available option is harmful.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team scheduling · choosing a meeting time",
+          "sentence": "Thursday afternoon or Monday morning—pick your poison.",
+          "highlight": "pick your poison",
+          "tip": "Use it when every time slot has a clear drawback."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing a restaurant · reading the menu",
+          "sentence": "Both specials sound questionable, so pick your poison.",
+          "highlight": "pick your poison",
+          "tip": "Keep it light when the situation is only mildly inconvenient."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal email · confirming a choice",
+          "sentence": "You can take the train or stay at the hotel—pick your poison.",
+          "highlight": "pick your poison",
+          "tip": "It suits friendly messages, not formal notices."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is unclear, but the expression likely grew from older forms such as “choose your poison.” It uses the old idea that someone might have to choose their own harmful medicine or treatment.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "Forms close to “pick your poison” appear in English, expressing a choice between unwelcome alternatives."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression becomes established in casual speech."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used for choosing between imperfect options, usually with humor."
+          }
+        ]
+      },
+      "similar": [
+        "choose your poison",
+        "take your pick",
+        "between a rock and a hard place"
+      ],
+      "opposite": "a clear choice",
+      "pitfall": "The phrase suggests every option is bad, so avoid it when one choice is genuinely better."
+    },
+    {
+      "id": "search-me",
+      "kind": "phrase",
+      "term": "search me",
+      "pos": "idiom",
+      "hint": "I don't know",
+      "register": "Casual",
+      "meaning": "A casual way of saying that you do not know something or that you were not involved.",
+      "nuance": "It can sound dismissive, so it works best with people you know or in a relaxed conversation. It may also suggest that nobody will find any evidence against you.",
+      "literal": "A challenge to look for the answer, a clue or any evidence linking you to something.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team chat · clarifying a decision",
+          "sentence": "If you're asking who chose that date, search me; I only saw the final version.",
+          "highlight": "search me",
+          "tip": "Use it casually, not when you need to give a clear answer."
+        },
+        {
+          "setting": "social",
+          "where": "With friends · explaining a gap",
+          "sentence": "You ask me where I was last Tuesday? Search me, I have no idea.",
+          "highlight": "Search me",
+          "tip": "It adds a relaxed, slightly humorous tone to “I don't know.”"
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message · clarifying responsibility",
+          "sentence": "If you're looking for who handled the paperwork, search me; I wasn't involved.",
+          "highlight": "search me",
+          "tip": "Keep it for friendly or informal messages, since it can sound evasive in serious correspondence."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely grew out of the idea that a person who was not involved could be searched for clues and none would be found. Its broader meaning as “I don't know” is especially associated with informal American English.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Literal sense: searching someone for evidence or an explanation."
+          },
+          {
+            "when": "20th century",
+            "text": "The informal expression developed as a way to deny involvement or disclaim knowledge."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in casual speech and informal messages, especially in North America."
+          }
+        ]
+      },
+      "similar": [
+        "I have no idea",
+        "ask anyone but me",
+        "I wasn't involved"
+      ],
+      "opposite": "I know exactly",
+      "pitfall": "In a formal meeting, email or complaint, “search me” may sound like you are avoiding responsibility rather than answering the question."
+    },
+    {
+      "id": "see-you-tomorrow",
+      "kind": "phrase",
+      "term": "see you tomorrow",
+      "pos": "phrase",
+      "hint": "a friendly goodbye until the next day",
+      "register": "Everyday",
+      "meaning": "A friendly way to say goodbye to someone when you expect to meet or speak with them the next day.",
+      "nuance": "Casual and warm, often used among friends, family or coworkers. It can also be a light way to end a conversation without suggesting a formal arrangement.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Leaving the office · ending a workday",
+          "sentence": "I’ll send the revised proposal tonight, so see you tomorrow at nine.",
+          "highlight": "see you tomorrow",
+          "tip": "Use it when you know you will speak with the person again."
+        },
+        {
+          "setting": "social",
+          "where": "Leaving a friend’s home",
+          "sentence": "Thanks for dinner! See you tomorrow when we meet at the station.",
+          "highlight": "See you tomorrow",
+          "tip": "It sounds friendly and informal, especially with someone you know well."
+        },
+        {
+          "setting": "writing",
+          "where": "Quick message to a coworker",
+          "sentence": "I’ve finished the first draft, so see you tomorrow for your feedback.",
+          "highlight": "see you tomorrow",
+          "tip": "Use it in a message to someone you already know; “talk to you tomorrow” may sound slightly more personal."
+        }
+      ],
+      "origin": {
+        "summary": "A modern everyday goodbye built from “see you” plus a time reference. It reflects the common habit of using “see you” to mean “meet or speak with you.”",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“See you” developed as a casual goodbye meaning that the speakers will meet again."
+          },
+          {
+            "when": "Today",
+            "text": "Adding “tomorrow” makes the farewell more specific and confirms an expected meeting the next day."
+          }
+        ]
+      },
+      "similar": [
+        "talk to you tomorrow",
+        "see you later",
+        "see you next time"
+      ],
+      "pitfall": "It can sound uncertain or leave the meeting vague, so give the time or place when the plan matters."
+    },
+    {
+      "id": "soups-on",
+      "kind": "phrase",
+      "term": "soup's on",
+      "pos": "idiom",
+      "hint": "a meal is ready",
+      "register": "Casual",
+      "meaning": "An informal announcement that food is ready and available to eat.",
+      "nuance": "It sounds warm, playful and welcoming, especially when calling people to the table. It may refer to soup specifically, but it can also mean that a whole meal is ready.",
+      "literal": "The soup is ready to serve.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team lunch · food arrives",
+          "sentence": "Soup's on, everyone — grab a bowl and come to the meeting room.",
+          "highlight": "Soup's on",
+          "tip": "Use it to make an informal lunch invitation sound friendly."
+        },
+        {
+          "setting": "social",
+          "where": "Family dinner · guests arrive",
+          "sentence": "Soup's on, so please help yourselves while I finish getting everything out.",
+          "highlight": "Soup's on",
+          "tip": "It works well as a relaxed announcement that dinner is ready."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to friends · dinner update",
+          "sentence": "Soup's on whenever you arrive, so no need to knock.",
+          "highlight": "Soup's on",
+          "tip": "Keep it conversational; it may sound too casual for a formal invitation."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is uncertain. It probably grew from the idea that soup could be a complete, ready-to-eat meal, with the phrase later used more loosely for any meal being served.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Soup was commonly treated as a simple meal that could be served in one dish."
+          },
+          {
+            "when": "1900s",
+            "text": "Informal expressions announcing that food was ready began appearing in everyday speech."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase remains a warm, playful way to announce that food is ready."
+          }
+        ]
+      },
+      "similar": [
+        "dinner's ready",
+        "lunch is ready",
+        "food's ready",
+        "help yourself"
+      ],
+      "opposite": "not hungry",
+      "pitfall": "It can sound dated or overly folksy if used in a formal setting, so consider the relationship and tone first."
+    },
+    {
+      "id": "stars-align",
+      "kind": "phrase",
+      "term": "stars align",
+      "pos": "phrase",
+      "hint": "conditions come together favorably",
+      "register": "Common at work",
+      "meaning": "Several circumstances come together in a way that allows something to happen successfully.",
+      "nuance": "It suggests a favorable combination of timing and conditions, often with a sense that the outcome was partly due to chance. It can sound hopeful or mildly formal.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch planning · securing final approvals",
+          "sentence": "With the budget approved and the team available, the stars align for next week’s launch.",
+          "highlight": "stars align",
+          "tip": "Use it when several separate conditions genuinely need to come together."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a reunion · finding a convenient date",
+          "sentence": "Everyone is free that weekend, so it looks like the stars align for a proper reunion.",
+          "highlight": "stars align",
+          "tip": "It adds a light, playful touch to an unexpected opportunity."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining a good opportunity",
+          "sentence": "The stars aligned when our preferred supplier opened space in the same week as our deadline.",
+          "highlight": "stars aligned",
+          "tip": "It works well in informal updates, but use plain wording in formal reports."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from astrology, where the positions of stars are thought to influence events. Its modern figurative meaning grew from the idea that favorable planetary positions can bring a rare combination of circumstances.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Astronomical and astrological language used alignments of stars to describe significant patterns in the sky."
+          },
+          {
+            "when": "1600s",
+            "text": "English writers described the apparent alignment of stars and planets, sometimes linking it to notable events."
+          },
+          {
+            "when": "1800s",
+            "text": "Figurative expressions began linking stellar positions with favorable timing or coincidence."
+          },
+          {
+            "when": "Today",
+            "text": "“The stars align” is a familiar way to describe circumstances combining favorably."
+          }
+        ]
+      },
+      "similar": [
+        "everything falls into place",
+        "the timing is right",
+        "circumstances are favorable"
+      ],
+      "opposite": "the stars are misaligned",
+      "pitfall": "Use “the stars align,” not “the stars aligns,” when the phrase is the subject of a sentence."
+    },
+    {
+      "id": "stuck-in-a-rut",
+      "kind": "phrase",
+      "term": "stuck in a rut",
+      "pos": "idiom",
+      "hint": "doing the same thing without moving forward",
+      "register": "Everyday",
+      "meaning": "Repeating the same routine or approach without making meaningful progress.",
+      "nuance": "It suggests that a habit, situation or way of thinking has become limiting. It can sound mildly critical, so use it tactfully when discussing work or life choices.",
+      "literal": "A wheel or animal stuck in a deep track in the ground.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · reviewing old methods",
+          "sentence": "We’re stuck in a rut if we keep making changes without asking customers what they actually need.",
+          "highlight": "stuck in a rut",
+          "tip": "Use it to describe the pattern, then suggest a specific change."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with friends · discussing routines",
+          "sentence": "I think we’re all a bit stuck in a rut since the new year.",
+          "highlight": "stuck in a rut",
+          "tip": "It’s a friendly way to acknowledge a shared lack of variety."
+        },
+        {
+          "setting": "writing",
+          "where": "Career advice email · suggesting growth",
+          "sentence": "After several years in the same role, you may feel stuck in a rut and ready for a new challenge.",
+          "highlight": "stuck in a rut",
+          "tip": "Pair it with a concrete option or next step to avoid sounding defeatist."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely comes from the literal image of a wheel remaining in the same deep track. Its figurative use grew from the idea of being trapped in a fixed path.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The word “rut” referred to a deep track or hollow made by repeated movement."
+          },
+          {
+            "when": "1800s",
+            "text": "Figurative uses developed for people or things held in a fixed pattern."
+          },
+          {
+            "when": "Today",
+            "text": "It is common everyday English for describing an unchanging routine or approach."
+          }
+        ]
+      },
+      "similar": [
+        "in a rut",
+        "going through the motions",
+        "stagnant"
+      ],
+      "opposite": "moving forward",
+      "pitfall": "“Stuck in a rut” focuses on repetition and lack of progress, so it may sound judgmental if you mean simply that you are busy."
+    },
+    {
+      "id": "sweet-dreams",
+      "kind": "phrase",
+      "term": "sweet dreams",
+      "pos": "phrase",
+      "hint": "a friendly wish for a good night’s sleep",
+      "register": "Everyday",
+      "meaning": "A warm way to wish someone a peaceful and pleasant night’s sleep.",
+      "nuance": "It can be sincere or gently ironic, especially when the person has had a difficult day. It is friendly and personal rather than formal.",
+      "literal": "Pleasant, sweet dreams during sleep.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Signing off after a late shift",
+          "sentence": "Thanks for covering the release—sweet dreams once you’ve finished the handover.",
+          "highlight": "sweet dreams",
+          "tip": "Best with a colleague you know well; it can sound overly familiar at work."
+        },
+        {
+          "setting": "social",
+          "where": "Saying goodnight after an evening out",
+          "sentence": "I’m heading home now—sweet dreams, and thanks for coming.",
+          "highlight": "sweet dreams",
+          "tip": "Use it as a warm sign-off when you want to sound affectionate."
+        },
+        {
+          "setting": "writing",
+          "where": "Ending a late-night message",
+          "sentence": "I hope the rest of your evening is calm—sweet dreams.",
+          "highlight": "sweet dreams",
+          "tip": "It works in a personal message; “sleep well” is usually more suitable for formal email."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines “sweet,” meaning pleasant, with “dreams,” the images or feelings experienced during sleep. Its friendly wish for good sleep became established in modern English, and later also developed a mildly ironic use.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal idea was a pleasant dream during sleep."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression appears in English as a wish for pleasant dreams."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely used as a friendly goodnight phrase, sometimes with gentle irony."
+          }
+        ]
+      },
+      "similar": [
+        "sleep well",
+        "good night",
+        "rest well"
+      ],
+      "opposite": "nightmare",
+      "pitfall": "If the other person has had an awful day, “sweet dreams” may sound sarcastic; “sleep well” is safer."
+    },
+    {
+      "id": "thats-the-tip",
+      "kind": "phrase",
+      "term": "that's the tip",
+      "pos": "phrase",
+      "hint": "here's the useful advice",
+      "register": "Everyday",
+      "meaning": "That is the useful advice or key point someone should remember.",
+      "nuance": "Friendly and conversational, often used when offering a small piece of practical wisdom. It can sound more casual than “that is my advice.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague asks for quick advice",
+          "sentence": "Send the summary first, and let them read it tomorrow—that's the tip.",
+          "highlight": "that's the tip",
+          "tip": "Use it to offer one practical suggestion without sounding bossy."
+        },
+        {
+          "setting": "social",
+          "where": "Friend plans a birthday party",
+          "sentence": "Buy the cake in the morning; that's the tip if the shop gets busy later.",
+          "highlight": "that's the tip",
+          "tip": "It suits informal advice between friends."
+        },
+        {
+          "setting": "writing",
+          "where": "Short email to a colleague",
+          "sentence": "Check the attachment before the meeting—that's the tip.",
+          "highlight": "that's the tip",
+          "tip": "Keep the tone light, especially in an email to someone senior."
+        }
+      ],
+      "origin": {
+        "summary": "Likely grew out of the older meaning of “tip” as a useful piece of advice. The shortened conversational form became established in everyday English, though its exact first use is difficult to trace.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Tip” was used for a useful hint, piece of advice or practical trick."
+          },
+          {
+            "when": "20th century",
+            "text": "Short expressions pointing out the best practical advice became common in conversation."
+          },
+          {
+            "when": "Today",
+            "text": "“That's the tip” is a familiar way to pass along a useful suggestion."
+          }
+        ]
+      },
+      "similar": [
+        "that's the advice",
+        "here's the tip",
+        "the key is",
+        "word of advice"
+      ],
+      "opposite": "that's not the answer",
+      "pitfall": "It usually introduces a brief tip, so avoid following it with a long lecture or several unrelated points."
+    },
+    {
+      "id": "the-coast-is-clear",
+      "kind": "phrase",
+      "term": "the coast is clear",
+      "pos": "idiom",
+      "hint": "no obstacle or danger ahead",
+      "register": "Everyday",
+      "meaning": "The path or situation is safe and unobstructed, so you can move forward.",
+      "nuance": "It often means there is no one or nothing in your way right now. It can be literal, but is also used metaphorically for a clear opportunity or a safe moment to act.",
+      "literal": "The shoreline or sea route is free of obstacles or danger.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office after a meeting",
+          "sentence": "The client left, so the coast is clear for us to finish the proposal.",
+          "highlight": "the coast is clear",
+          "tip": "Use it to signal that a conversation or interruption is over."
+        },
+        {
+          "setting": "social",
+          "where": "Checking a crowded room",
+          "sentence": "I checked the entrance and the coast is clear, so we can go in.",
+          "highlight": "the coast is clear",
+          "tip": "This is a natural way to say there is nobody nearby."
+        },
+        {
+          "setting": "writing",
+          "where": "Planning a launch",
+          "sentence": "Once legal approves the wording, the coast is clear for publication.",
+          "highlight": "the coast is clear",
+          "tip": "Use it to explain that the final obstacle has been removed."
+        }
+      ],
+      "origin": {
+        "summary": "Probably comes from the idea of a ship having a safe route ahead, with the sea or shoreline free from danger and obstacles. The figurative use developed as a way to describe a clear path or opportunity.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Literal sense: the sea or coast is free of danger and obstacles."
+          },
+          {
+            "when": "19th century",
+            "text": "The phrase appears in writing about having a safe or unobstructed route."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for both literal safety and figurative freedom to proceed."
+          }
+        ]
+      },
+      "similar": [
+        "the path is clear",
+        "all clear",
+        "the way is open"
+      ],
+      "opposite": "the coast is not clear",
+      "pitfall": "It does not guarantee that everything will go smoothly; it only means there is no immediate obstacle."
+    },
+    {
+      "id": "the-computer-says-no",
+      "kind": "phrase",
+      "term": "the computer says no",
+      "pos": "idiom",
+      "hint": "a system blocks the request",
+      "register": "Common at work; informal",
+      "meaning": "Used when a computer system or organisational process refuses a request, often without giving a clear reason.",
+      "nuance": "It often carries a mildly frustrated or humorous tone, suggesting that the real problem may be a rigid process rather than the technology itself.",
+      "literal": "A computer displays a message refusing access or approval.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Employee system · requesting access",
+          "sentence": "I completed the form, but the computer says no until my manager verifies my account.",
+          "highlight": "the computer says no",
+          "tip": "Add the exact error message when asking IT for help."
+        },
+        {
+          "setting": "social",
+          "where": "Ticket website · booking an event",
+          "sentence": "The website rejected my card, so the computer says no before I can choose seats.",
+          "highlight": "the computer says no",
+          "tip": "It works well for lighthearted frustration, but not for a serious complaint."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to support · checking a blocked payment",
+          "sentence": "The computer says no when I try to renew my membership, although my card has not expired.",
+          "highlight": "The computer says no",
+          "tip": "State what you were trying to do and what result you expected."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed as British workplace and public-services language for decisions blocked by computerised systems. It became associated with frustrating bureaucracy rather than technical failure alone.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Computers were used by banks, government offices and large organisations to approve or reject applications automatically."
+          },
+          {
+            "when": "Late 20th century",
+            "text": "The expression spread in Britain as shorthand for frustrating administrative systems."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely understood as a joke about technology, bureaucracy or an unexplained rejection."
+          }
+        ]
+      },
+      "similar": [
+        "the system won't allow it",
+        "automatically rejected",
+        "blocked by the system"
+      ],
+      "opposite": "approved automatically",
+      "pitfall": "The phrase can sound dismissive if someone needs practical help; name the error and ask for support instead."
+    },
+    {
+      "id": "the-cupboard-is-bare",
+      "kind": "phrase",
+      "term": "the cupboard is bare",
+      "pos": "phrase",
+      "hint": "nothing left to eat or use",
+      "register": "Casual",
+      "meaning": "There is no food or other useful supplies left.",
+      "nuance": "It can be a humorous or exaggerated way to say you have nothing available. It may also describe a lack of money, resources or options.",
+      "literal": "An empty cupboard or pantry with no food inside.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning a team event",
+          "sentence": "We’ll need to order supplies because the cupboard is bare.",
+          "highlight": "the cupboard is bare",
+          "tip": "Useful when explaining why a team cannot contribute refreshments or materials."
+        },
+        {
+          "setting": "social",
+          "where": "Hosting friends at home",
+          "sentence": "Don’t worry about the snacks—the cupboard is bare, but we can order a pizza.",
+          "highlight": "the cupboard is bare",
+          "tip": "A light, often playful way to admit there is no food at home."
+        },
+        {
+          "setting": "writing",
+          "where": "Home inventory email",
+          "sentence": "The pantry is nearly empty, as the cupboard is bare until tomorrow’s shop.",
+          "highlight": "the cupboard is bare",
+          "tip": "It adds a friendly, slightly old-fashioned tone to an informal message."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is recorded in Shakespeare’s early 17th-century play Henry IV, Part 2, where it describes having no food. Its modern figurative use grew from that older household image.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Early 1600s",
+            "text": "The phrase appears in Shakespeare’s Henry IV, Part 2 in the sense of having nothing to eat."
+          },
+          {
+            "when": "Later",
+            "text": "Writers extended it to describe a shortage of money, supplies or other resources."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar expression for an empty pantry or a lack of available resources."
+          }
+        ]
+      },
+      "similar": [
+        "nothing left in the cupboard",
+        "the pantry is empty",
+        "we’re out of supplies"
+      ],
+      "opposite": "the cupboard is full",
+      "pitfall": "The phrase usually adds colour or humour; for a precise inventory problem, name the missing item directly."
+    },
+    {
+      "id": "the-dog-ate-my-homework",
+      "kind": "phrase",
+      "term": "the dog ate my homework",
+      "pos": "phrase",
+      "hint": "a playful excuse for missing work",
+      "register": "Casual",
+      "meaning": "A humorous excuse for not doing or handing in homework, usually blamed on a family pet.",
+      "nuance": "It is intentionally silly, so use it among people who know you are joking. In a serious conversation, it can sound like you are making excuses.",
+      "literal": "A dog supposedly got into the schoolwork and ate it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team chat · missed a deadline",
+          "sentence": "I know the report is late, but the dog ate my homework is getting old.",
+          "highlight": "the dog ate my homework",
+          "tip": "Use it lightly to acknowledge a delay, then give the real update."
+        },
+        {
+          "setting": "social",
+          "where": "Chatting with friends · school memories",
+          "sentence": "I used the dog ate my homework excuse once, and now my friends never let me forget it.",
+          "highlight": "the dog ate my homework",
+          "tip": "It works best as a nostalgic joke about childhood."
+        },
+        {
+          "setting": "writing",
+          "where": "Playful message to a classmate",
+          "sentence": "Please believe me: the dog ate my homework, so I need another day to finish it.",
+          "highlight": "the dog ate my homework",
+          "tip": "Keep it obviously humorous rather than presenting it as a genuine explanation."
+        }
+      ],
+      "origin": {
+        "summary": "Probably grew out of the familiar joke that children make excuses for missing schoolwork. Its exact first use is difficult to pin down, but it became widely recognized in late-20th-century English.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Children told adults that pets or other mishaps had stopped them doing their schoolwork."
+          },
+          {
+            "when": "Late 20th century",
+            "text": "The phrase became a well-known humorous excuse for missing homework."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used as a joke among friends, classmates and coworkers."
+          }
+        ]
+      },
+      "similar": [
+        "my dog ate my homework",
+        "the cat knocked it off the desk",
+        "a technical difficulty",
+        "an unexpected delay"
+      ],
+      "opposite": "I finished my homework",
+      "pitfall": "Do not use it as a real excuse at school or work; give an honest explanation and propose a solution."
+    },
+    {
+      "id": "the-family-that-lays-together-stays-together",
+      "kind": "phrase",
+      "term": "the family that lays together stays together",
+      "pos": "phrase",
+      "hint": "cooperation keeps a group strong",
+      "register": "Everyday",
+      "meaning": "People who cooperate and support one another are more likely to remain close and successful.",
+      "nuance": "It emphasizes teamwork, shared effort and mutual support. It can sound warm and encouraging when used about family or close groups, but may feel old-fashioned or overly sentimental in some workplaces.",
+      "literal": "A family that works together to build a shared nest will be more likely to remain together.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team check-in · sharing responsibilities",
+          "sentence": "The family that lays together stays together, so let’s divide the tasks and support one another.",
+          "highlight": "The family that lays together stays together",
+          "tip": "Use it to encourage cooperation, especially after a difficult project."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a family project",
+          "sentence": "We’re moving my parents’ furniture on Saturday; the family that lays together stays together.",
+          "highlight": "the family that lays together stays together",
+          "tip": "It works well as a lighthearted reminder that everyone should pitch in."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a volunteer group",
+          "sentence": "The family that lays together stays together, so each team will need one person to coordinate shared tasks.",
+          "highlight": "The family that lays together stays together",
+          "tip": "Use it when explaining why cooperation matters, then follow it with a practical plan."
+        }
+      ],
+      "origin": {
+        "summary": "This is a traditional proverb, probably shaped by older sayings about birds that build nests together. Its exact first appearance is uncertain, so a specific source cannot be safely claimed.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Older folk sayings linked successful nest-building with birds that work together."
+          },
+          {
+            "when": "20th century",
+            "text": "The proverb appears in forms that compare human cooperation with birds building nests together."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar saying about family, teamwork and mutual support."
+          }
+        ]
+      },
+      "similar": [
+        "working together keeps us together",
+        "birds of a feather flock together",
+        "unity is strength"
+      ],
+      "opposite": "every man for himself",
+      "pitfall": "The proverb can sound dated or overly sentimental; in formal writing, explain the need for cooperation directly."
+    },
+    {
+      "id": "the-half-of-it",
+      "kind": "phrase",
+      "term": "the half of it",
+      "pos": "idiom",
+      "hint": "only a small part of the whole",
+      "register": "Casual",
+      "meaning": "Only a small part of a situation, story, task or explanation.",
+      "nuance": "It often means there is much more to understand or deal with than has been mentioned. It can sound dismissive, so use it when you want to point out what is still missing.",
+      "literal": "One of two equal parts of something.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team briefing · missing context",
+          "sentence": "There’s more to this change than what I shared; the numbers are only the half of it.",
+          "highlight": "the half of it",
+          "tip": "Use it when you need to signal that the discussion has left out important details."
+        },
+        {
+          "setting": "social",
+          "where": "Friend tells a story",
+          "sentence": "You’ve only told me the half of it, so what happened after the party?",
+          "highlight": "the half of it",
+          "tip": "This is a friendly way to ask someone to continue without sounding demanding."
+        },
+        {
+          "setting": "writing",
+          "where": "Email requesting more information",
+          "sentence": "I may be missing the half of it, but the summary doesn’t explain why the deadline changed.",
+          "highlight": "the half of it",
+          "tip": "Use it to soften criticism when you suspect important context is absent."
+        }
+      ],
+      "origin": {
+        "summary": "Probably developed in British English from the literal idea that a person has heard only part of a whole story. The phrase later became common in informal speech.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal expression referred to one of two equal parts."
+          },
+          {
+            "when": "20th century",
+            "text": "The figurative sense grew in British speech for an incomplete account or explanation."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in informal British and American English, especially in conversation."
+          }
+        ]
+      },
+      "similar": [
+        "only part of the story",
+        "not the whole picture",
+        "a fraction of it"
+      ],
+      "opposite": "the whole of it",
+      "pitfall": "It can sound dismissive, especially at work. Explain what information or issue is missing instead of leaving the point vague."
+    },
+    {
+      "id": "the-heavens-open",
+      "kind": "phrase",
+      "term": "the heavens open",
+      "pos": "idiom",
+      "hint": "sudden torrential rain",
+      "register": "Everyday",
+      "meaning": "Rain suddenly begins falling so heavily and continuously that it seems as if the sky has opened up.",
+      "nuance": "It is a vivid, slightly dramatic way to describe a sudden downpour. It is more colorful than simply saying that it is raining.",
+      "literal": "The sky seems to split open and release a massive torrent of rain.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office commute · sudden downpour",
+          "sentence": "As we left the office, the heavens opened and everyone ran for the nearest shelter.",
+          "highlight": "the heavens opened",
+          "tip": "Use it when the rain is strikingly sudden and heavy."
+        },
+        {
+          "setting": "social",
+          "where": "Picnic · unexpected weather",
+          "sentence": "We had barely unpacked the food when the heavens opened and soaked the table.",
+          "highlight": "the heavens opened",
+          "tip": "It adds a humorous, dramatic touch to a story about the weather."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel diary · storm described",
+          "sentence": "Without warning, the heavens opened, and the narrow street became impossible to cross.",
+          "highlight": "the heavens opened",
+          "tip": "Use it sparingly in formal writing because its imagery is quite strong."
+        }
+      ],
+      "origin": {
+        "summary": "The expression probably developed from older religious and literary language about the heavens opening, especially in accounts of immense rain. Its modern use for a sudden downpour became established through descriptions of dramatic weather.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Religious and literary writing described the heavens as opening during great floods or storms."
+          },
+          {
+            "when": "19th century",
+            "text": "Writers increasingly used the image to describe exceptionally heavy rain."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase remains a vivid, familiar way to report a sudden downpour."
+          }
+        ]
+      },
+      "similar": [
+        "it starts pouring",
+        "the rain comes down in sheets",
+        "a downpour",
+        "buckets of rain"
+      ],
+      "opposite": "a fine drizzle",
+      "pitfall": "The phrase describes intense rain, not merely a light shower, so reserve it for genuinely heavy weather."
+    },
+    {
+      "id": "the-juice-is-worth-the-squeeze",
+      "kind": "phrase",
+      "term": "the juice is worth the squeeze",
+      "pos": "idiom",
+      "hint": "the effort is justified by the result",
+      "register": "Informal; common at work and in conversation",
+      "meaning": "If the result is valuable enough, the effort required to achieve it is worth enduring.",
+      "nuance": "This is an informal way to judge whether something difficult is worth doing. It works well when the benefit is clear but the process is inconvenient or demanding.",
+      "literal": "Juice must be squeezed from fruit, but squeezing it may not produce enough juice to make the effort worthwhile.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · weighing extra effort",
+          "sentence": "The manual checks take two days, but the juice is worth the squeeze because the errors are costly.",
+          "highlight": "the juice is worth the squeeze",
+          "tip": "Use it when the extra effort has a clear practical benefit."
+        },
+        {
+          "setting": "social",
+          "where": "Event planning · assembling decorations",
+          "sentence": "We spent all morning making banners, but the juice is worth the squeeze now that the venue looks fantastic.",
+          "highlight": "the juice is worth the squeeze",
+          "tip": "It suits informal conversation about effort that paid off."
+        },
+        {
+          "setting": "writing",
+          "where": "Email proposal · explaining added workload",
+          "sentence": "Migrating the records will take time, but the juice is worth the squeeze because it will reduce future errors.",
+          "highlight": "the juice is worth the squeeze",
+          "tip": "Keep it friendly and follow it with the specific benefit."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from the literal idea of squeezing fruit for juice and the older expression “worth the squeeze,” meaning that an effort is worthwhile.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used the literal image of squeezing fruit to obtain its juice."
+          },
+          {
+            "when": "19th century",
+            "text": "“Worth the squeeze” appeared in figurative expressions about whether an effort or hardship was justified."
+          },
+          {
+            "when": "Later",
+            "text": "“The juice is worth the squeeze” became a more playful, conversational form of the idea."
+          }
+        ]
+      },
+      "similar": [
+        "worth the effort",
+        "worth it",
+        "worth the hassle"
+      ],
+      "opposite": "not worth the effort",
+      "pitfall": "The phrase assumes the result is worthwhile; use it only when you can explain what makes the effort worthwhile."
+    },
+    {
+      "id": "pick-of-the-crop",
+      "kind": "phrase",
+      "term": "the pick of the crop",
+      "pos": "idiom",
+      "hint": "the very best from a group",
+      "register": "Common but slightly traditional",
+      "meaning": "The best person or thing in a group.",
+      "nuance": "It sounds warm and appreciative, but it can sound old-fashioned in casual conversation. Use it to praise one standout among several people or options.",
+      "literal": "The choicest fruit or vegetables gathered from a harvest.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team awards · recognizing strong work",
+          "sentence": "Her presentation was the pick of the crop, and the client loved the clear recommendations.",
+          "highlight": "the pick of the crop",
+          "tip": "Use it for a clear standout rather than giving everyone the same praise."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · complimenting the host",
+          "sentence": "That roast was definitely the pick of the crop—I’ll ask for the recipe.",
+          "highlight": "the pick of the crop",
+          "tip": "It naturally praises the best item among many dishes."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel post · recommending a hotel",
+          "sentence": "The rooftop suite was the pick of the crop, with the best views in the city.",
+          "highlight": "the pick of the crop",
+          "tip": "It adds a polished, appreciative tone to a recommendation."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the idea that the best fruit or vegetables can be selected from a harvest. Its figurative use developed from that agricultural image.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Agricultural wording referred to choosing the finest produce from a harvest."
+          },
+          {
+            "when": "1800s",
+            "text": "Figurative use appeared for the best person or thing in a group."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar idiom, especially in appreciative or traditional writing."
+          }
+        ]
+      },
+      "similar": [
+        "the best of the bunch",
+        "the cream of the crop",
+        "the top pick"
+      ],
+      "opposite": "the bottom of the barrel",
+      "pitfall": "The phrase can sound overly formal or old-fashioned, so “the best one” may feel more natural in relaxed speech."
+    },
+    {
+      "id": "trick-or-treat",
+      "kind": "phrase",
+      "term": "trick or treat",
+      "pos": "phrase",
+      "hint": "a Halloween cry for candy",
+      "register": "Casual",
+      "meaning": "A playful Halloween expression used when asking for candy and offering not to play a trick in return.",
+      "nuance": "It is mainly a traditional children’s call, often followed by “Happy Halloween!” It can sound out of place or insincere when used with adults outside a clearly playful Halloween setting.",
+      "literal": "Children visit homes on Halloween and offer not to play a trick if the residents give them a treat.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Halloween office party · greeting colleagues",
+          "sentence": "A group of visitors arrived at our office shouting trick or treat, and the team had bowls of candy ready.",
+          "highlight": "trick or treat",
+          "tip": "Keep it light and seasonal; it works best when everyone is joining in."
+        },
+        {
+          "setting": "social",
+          "where": "Halloween trick-or-treating with children",
+          "sentence": "The children rang the doorbell and shouted trick or treat before checking their giant bags for more candy.",
+          "highlight": "trick or treat",
+          "tip": "It is a friendly call that expects a playful response and perhaps a small treat."
+        },
+        {
+          "setting": "writing",
+          "where": "Halloween message to friends",
+          "sentence": "We sent our neighbors a Halloween card saying trick or treat and promising them homemade cookies.",
+          "highlight": "trick or treat",
+          "tip": "Use it as a playful seasonal reference rather than as a serious request."
+        }
+      ],
+      "origin": {
+        "summary": "The expression became associated with children visiting houses on Halloween and asking for treats. Its exact beginning is uncertain, although the phrase was already in use by the 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "The phrase “trick or treat” appears in printed use, but its first occasion is not securely known."
+          },
+          {
+            "when": "20th century",
+            "text": "It becomes strongly linked with Halloween costume parties and children going door to door for candy."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar Halloween tradition in many English-speaking countries."
+          }
+        ]
+      },
+      "similar": [
+        "happy Halloween",
+        "give or take",
+        "a little treat"
+      ],
+      "pitfall": "Because “trick” can mean deception, some people may find the phrase inappropriate outside Halloween or when directed at strangers."
+    },
+    {
+      "id": "two-birds-one-stone",
+      "kind": "phrase",
+      "term": "two birds, one stone",
+      "pos": "phrase",
+      "hint": "two goals, one action",
+      "register": "Common",
+      "meaning": "To achieve two useful results with a single action.",
+      "nuance": "This is a shortened, informal form of “kill two birds with one stone.” It works well when one practical step can solve two problems at once.",
+      "literal": "A stone can strike two birds at the same time.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · simplifying a process",
+          "sentence": "Updating the shared checklist will clarify priorities and reduce duplicate work—two birds, one stone.",
+          "highlight": "two birds, one stone",
+          "tip": "Use it after explaining how one action will deliver two clear benefits."
+        },
+        {
+          "setting": "social",
+          "where": "Planning an event with friends",
+          "sentence": "Inviting everyone to one group video call covers both the schedule and the final menu—two birds, one stone.",
+          "highlight": "two birds, one stone",
+          "tip": "It sounds relaxed, so it suits informal conversations better than formal proposals."
+        },
+        {
+          "setting": "writing",
+          "where": "Email suggesting a combined solution",
+          "sentence": "We can resolve the delay and save money by moving to the smaller package—two birds, one stone.",
+          "highlight": "two birds, one stone",
+          "tip": "Follow it with the two specific outcomes so the benefit is easy to understand."
+        }
+      ],
+      "origin": {
+        "summary": "The idea comes from old fables and proverbs about striking two birds with one stone. The familiar English wording became established with the longer expression “kill two birds with one stone.”",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Ancient",
+            "text": "Fables used images of catching or killing two birds with one stone to represent solving two problems at once."
+          },
+          {
+            "when": "1600s",
+            "text": "English proverb collections began recording closely related forms of the expression."
+          },
+          {
+            "when": "Today",
+            "text": "“Two birds, one stone” survives as a concise, informal shorthand for getting two results from one action."
+          }
+        ]
+      },
+      "similar": [
+        "kill two birds with one stone",
+        "get two benefits from one action",
+        "combine two goals in one step"
+      ],
+      "opposite": "one solution, two problems",
+      "pitfall": "Make sure the two results are genuinely connected; otherwise, the phrase may sound like an unrealistic shortcut."
+    },
+    {
+      "id": "two-for-one",
+      "kind": "phrase",
+      "term": "two for one",
+      "pos": "phrase",
+      "hint": "a double deal",
+      "register": "Everyday",
+      "meaning": "Two items are offered for the price normally charged for one.",
+      "nuance": "It describes a bargain in which you receive twice as much for the same price. It can also refer more broadly to a two-to-one exchange or advantage.",
+      "literal": "Receiving two goods or benefits in place of one.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Staff event · announcing a benefit",
+          "sentence": "Every employee can bring a guest because the workshop tickets are two for one.",
+          "highlight": "two for one",
+          "tip": "This sounds natural in announcements about offers, discounts or bundled benefits."
+        },
+        {
+          "setting": "social",
+          "where": "Coffee shop · ordering with a friend",
+          "sentence": "The pastries are two for one today, so we can each have one without breaking the bank.",
+          "highlight": "two for one",
+          "tip": "Use it to explain or point out a bargain; it is more familiar than “50% off.”"
+        },
+        {
+          "setting": "writing",
+          "where": "Retail email · promoting a sale",
+          "sentence": "This weekend only, selected books are two for one when you buy any two.",
+          "highlight": "two for one",
+          "tip": "Check the conditions, since some offers require a minimum purchase or apply only to selected items."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase grew from ordinary counting and trade language describing two items being given for the price of one. It later became especially common in retail advertising.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression follows a simple trade pattern: two goods are provided for the cost of one."
+          },
+          {
+            "when": "1800s",
+            "text": "The wording appears in general and commercial use for two-to-one exchanges and advantages."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely understood as a promotional bargain, often written “two-for-one” before a noun."
+          }
+        ]
+      },
+      "similar": [
+        "buy one, get one free",
+        "one-for-one offer",
+        "double the value"
+      ],
+      "opposite": "one for one",
+      "pitfall": "When modifying a noun, write “two-for-one,” as in “a two-for-one offer,” but keep “two for one” as a complete phrase."
+    },
+    {
+      "id": "until-the-cows-come-home",
+      "kind": "phrase",
+      "term": "until the cows come home",
+      "pos": "idiom",
+      "hint": "for a very long time",
+      "register": "Casual",
+      "meaning": "For much longer than you are willing to wait.",
+      "nuance": "This sounds humorous and mildly impatient, so it suits friendly conversation rather than formal writing. It emphasises that the wait is likely to last a long time.",
+      "literal": "Imagines cows returning home in the evening, suggesting that evening will never arrive soon enough.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Delayed system update · checking progress",
+          "sentence": "The vendor says it could be until the cows come home before this update is approved.",
+          "highlight": "until the cows come home",
+          "tip": "Use it with colleagues when a delay is frustrating but the conversation remains light."
+        },
+        {
+          "setting": "social",
+          "where": "Friends waiting for a table",
+          "sentence": "We might be sitting here until the cows come home if we don’t order now.",
+          "highlight": "until the cows come home",
+          "tip": "It works well between friends because the exaggeration feels playful, not serious."
+        },
+        {
+          "setting": "writing",
+          "where": "Casual message about a repair",
+          "sentence": "The boiler could be out of order until the cows come home, so we’ve booked another hotel.",
+          "highlight": "until the cows come home",
+          "tip": "Keep it in a relaxed message; it may seem flippant in a complaint or formal update."
+        }
+      ],
+      "origin": {
+        "summary": "The expression probably comes from the idea that cows traditionally return home in the evening. Writers later used that daily event to mean an impossibly long wait.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Cows were commonly expected to return to their owners or farms by evening."
+          },
+          {
+            "when": "1800s",
+            "text": "Similar expressions appeared in English writing to mean “a very long time.”"
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar humorous idiom for an indefinite or lengthy wait."
+          }
+        ]
+      },
+      "similar": [
+        "forever",
+        "for ages",
+        "at the speed of a cold turkey"
+      ],
+      "opposite": "in a moment",
+      "pitfall": "Because it exaggerates a long wait, it may sound dismissive when someone is genuinely dealing with a serious delay."
+    }
+  ]
+}

@@ -1,0 +1,834 @@
+{
+  "id": "phrases-small-talk-2",
+  "kind": "phrase",
+  "name": "Small talk · 2",
+  "blurb": "14 phrases about small talk",
+  "cards": [
+    {
+      "id": "is-it-just-me",
+      "kind": "phrase",
+      "term": "is it just me",
+      "pos": "phrase",
+      "hint": "am I the only one feeling this?",
+      "register": "Casual",
+      "meaning": "A way of asking whether you are the only person experiencing something unusual, awkward or unwelcome.",
+      "nuance": "Casual and conversational; often used with humour or mild irritation to invite others to share the experience.",
+      "literal": "Am I the only person noticing or feeling this?",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team chat · confusing update",
+          "sentence": "Is it just me, or did that meeting invite arrive for the wrong time?",
+          "highlight": "Is it just me",
+          "tip": "Use it to check a shared observation without sounding overly certain."
+        },
+        {
+          "setting": "social",
+          "where": "At a party · unexpected silence",
+          "sentence": "Is it just me, or has the music completely stopped?",
+          "highlight": "Is it just me",
+          "tip": "This version is light and playful when everyone can see what you mean."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to colleagues · odd delay",
+          "sentence": "Is it just me, or has the shared calendar stopped showing today’s appointments?",
+          "highlight": "Is it just me",
+          "tip": "It suits an informal group chat better than formal business email."
+        }
+      ],
+      "origin": {
+        "summary": "A modern conversational question built on the older phrase “just me,” meaning only oneself. Its wording is documented in informal English, though the exact first use is unclear.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The phrase “just me” was used to mean “only myself.”"
+          },
+          {
+            "when": "20th century",
+            "text": "“Is it just me” became a conversational way to question whether a shared experience is really happening."
+          },
+          {
+            "when": "Today",
+            "text": "Common in casual speech, group chats and online posts."
+          }
+        ]
+      },
+      "similar": [
+        "am I the only one",
+        "is it just me or",
+        "does anyone else"
+      ],
+      "pitfall": "It usually invites agreement and does not prove that you are the only one noticing something."
+    },
+    {
+      "id": "its-a-small-world",
+      "kind": "phrase",
+      "term": "it's a small world",
+      "pos": "idiom",
+      "hint": "a surprising connection between people or places",
+      "register": "Casual",
+      "meaning": "Used to express surprise when two people or places turn out to be connected in an unexpected way.",
+      "nuance": "It feels friendly and lightly surprised rather than skeptical. It works well when meeting someone with a shared connection, hearing about an unexpected coincidence, or recognising a place from somewhere else.",
+      "literal": "The world is physically small, so people and places seem closer together than expected.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team introductions · spotting a shared connection",
+          "sentence": "You studied in Manchester too? It’s a small world — we even used the same coffee shop.",
+          "highlight": "It’s a small world",
+          "tip": "Use it after revealing a surprising shared experience, not as a substitute for a proper introduction."
+        },
+        {
+          "setting": "social",
+          "where": "Meeting a friend’s acquaintance",
+          "sentence": "Turns out my neighbour knows your cousin from university. It’s a small world!",
+          "highlight": "It’s a small world",
+          "tip": "The exclamation mark makes it sound especially enthusiastic; leave it out for a calmer tone."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a friend · mentioning a coincidence",
+          "sentence": "I just discovered that you and I took the same flight last summer — it’s a small world!",
+          "highlight": "it’s a small world",
+          "tip": "Use it in informal messages when you want to share a surprising connection."
+        }
+      ],
+      "origin": {
+        "summary": "The idea appeared in writing during the 19th century. The familiar wording became especially familiar through the title of the 1964 song “It’s a Small World (After All),” which was already associated with theme-park attractions and Disneyland.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Writers used variations of “a small world” to comment on unexpected links between people and places."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "The phrase appeared in popular songs and entertainment, including the 1914 song “It’s a Small World.”"
+          },
+          {
+            "when": "1964",
+            "text": "The Sherman brothers wrote “It’s a Small World (After All),” which reached number two on the US pop chart."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common way to react with friendly surprise to an unexpected connection."
+          }
+        ]
+      },
+      "similar": [
+        "what a small world",
+        "we live in a small world",
+        "life is full of coincidences",
+        "the world is smaller than you think"
+      ],
+      "pitfall": "It usually expresses a genuine coincidence, so avoid using it when the connection is obvious or already known."
+    },
+    {
+      "id": "mums-the-word",
+      "kind": "phrase",
+      "term": "mum's the word",
+      "pos": "idiom",
+      "hint": "keep the secret",
+      "register": "Casual",
+      "meaning": "Keep something secret, or refuse to reveal what you know.",
+      "nuance": "It sounds playful and conspiratorial rather than formal. It can promise discretion, but it may also signal that someone is deliberately withholding information.",
+      "literal": "The old phrase treats “mum” as a command for silence and “the word” as the secret being kept.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague asks about a private matter",
+          "sentence": "You know why Sam left early, right? Well, mum’s the word for now.",
+          "highlight": "mum’s the word",
+          "tip": "This can sound secretive; use it only when you are comfortable keeping the information private."
+        },
+        {
+          "setting": "social",
+          "where": "Friend asks for party details",
+          "sentence": "We’re planning a surprise dinner, but mum’s the word until Saturday.",
+          "highlight": "mum’s the word",
+          "tip": "It adds friendly suspense and asks the other person not to spill the news."
+        },
+        {
+          "setting": "writing",
+          "where": "Playful message to a friend",
+          "sentence": "I’ve booked the tickets, but mum’s the word—the surprise starts next weekend.",
+          "highlight": "mum’s the word",
+          "tip": "It works in a light message, but not when a clear answer is required."
+        }
+      ],
+      "origin": {
+        "summary": "The expression probably developed from older British speech, where “mum” meant to remain silent and “the word” referred to the information being withheld. Its exact first appearance is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "18th century",
+            "text": "“Mum” was used in British speech to mean silent or without speaking."
+          },
+          {
+            "when": "19th century",
+            "text": "Phrases combining “mum” with “the word” began appearing as a promise to keep information quiet."
+          },
+          {
+            "when": "Today",
+            "text": "The idiom remains mainly British and informal, especially in social and surprise-party contexts."
+          }
+        ]
+      },
+      "similar": [
+        "keep it quiet",
+        "not saying a word",
+        "secret's out"
+      ],
+      "opposite": "spill the beans",
+      "pitfall": "Do not use it when someone needs a clear answer, consent or full disclosure."
+    },
+    {
+      "id": "see-you",
+      "kind": "phrase",
+      "term": "see you",
+      "pos": "phrase",
+      "hint": "a casual goodbye",
+      "register": "Casual",
+      "meaning": "A friendly way to say goodbye when you expect to meet or speak to someone again soon.",
+      "nuance": "It sounds warm and informal, so it works well with friends, family and colleagues you know well. In a formal email, use “talk to you soon” or “have a good day” instead.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Leaving the office · ending a chat",
+          "sentence": "I’m heading out now, but see you at the team meeting tomorrow.",
+          "highlight": "see you",
+          "tip": "Use it with colleagues you already know; it may feel too familiar with a new client."
+        },
+        {
+          "setting": "social",
+          "where": "Parting with friends · making plans",
+          "sentence": "I’ll send you the photos later, but see you on Friday.",
+          "highlight": "see you",
+          "tip": "Add “soon” or mention when you’ll meet again to make the goodbye clearer."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message · closing a chat",
+          "sentence": "Thanks for helping with the tickets—see you tomorrow.",
+          "highlight": "see you",
+          "tip": "Keep it for a message to someone familiar, not a formal business email."
+        }
+      ],
+      "origin": {
+        "summary": "A shortened form of “I’ll see you,” used as an informal goodbye. Its exact beginning is hard to pin down, but it became established through everyday spoken English and later online messaging.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The fuller expression “I’ll see you” was used when leaving someone or arranging another meeting."
+          },
+          {
+            "when": "1900s–mid-20th century",
+            "text": "Informal speech increasingly shortened the farewell to “see you.”"
+          },
+          {
+            "when": "Today",
+            "text": "It is a common casual goodbye in conversation, phone messages and text messages."
+          }
+        ]
+      },
+      "similar": [
+        "talk to you later",
+        "catch you later",
+        "see you later"
+      ],
+      "pitfall": "In a formal email, “see you” can sound too casual; choose “talk to you soon” or “have a good day.”"
+    },
+    {
+      "id": "see-you-around",
+      "kind": "phrase",
+      "term": "see you around",
+      "pos": "phrase",
+      "hint": "a casual goodbye until next time",
+      "register": "Casual",
+      "meaning": "A relaxed way to say goodbye when you expect to see the person again soon.",
+      "nuance": "It is friendly and informal, often used with colleagues, classmates or friends. It can also suggest that the next meeting is not far away.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office chat · ending a quick conversation",
+          "sentence": "I’ll send the notes later—see you around.",
+          "highlight": "see you around",
+          "tip": "Use it when leaving a colleague you may meet again soon."
+        },
+        {
+          "setting": "social",
+          "where": "Leaving a friend’s place",
+          "sentence": "I’d better head off, but see you around.",
+          "highlight": "see you around",
+          "tip": "It sounds friendly, but it may not be the best choice for a formal farewell."
+        },
+        {
+          "setting": "writing",
+          "where": "Casual message to a teammate",
+          "sentence": "Thanks for covering the meeting—see you around next week.",
+          "highlight": "see you around",
+          "tip": "Keep it out of formal business correspondence unless your workplace is very casual."
+        }
+      ],
+      "origin": {
+        "summary": "Probably grew from the idea of seeing someone again as you move about in the same place or community. It became a casual goodbye in everyday speech during the 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Literal sense: encountering someone again while moving around."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression develops into a casual way to say goodbye before meeting again."
+          },
+          {
+            "when": "Today",
+            "text": "Common among friends, classmates and colleagues in informal settings."
+          }
+        ]
+      },
+      "similar": [
+        "see you later",
+        "see you soon",
+        "talk to you later"
+      ],
+      "opposite": "see you tomorrow",
+      "pitfall": "It does not communicate a definite time or promise to meet, so use a clearer farewell if plans matter."
+    },
+    {
+      "id": "see-you-later",
+      "kind": "phrase",
+      "term": "see you later",
+      "pos": "phrase",
+      "hint": "a casual goodbye",
+      "register": "Casual",
+      "meaning": "A friendly way to say goodbye, with the suggestion that you will meet again soon.",
+      "nuance": "Warm and informal; it works with friends, family, and coworkers you know well. It usually signals that the meeting is ending, not necessarily that you are leaving immediately.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Leaving a coworkers' desk",
+          "sentence": "I need to join another call, but see you later at the team lunch.",
+          "highlight": "see you later",
+          "tip": "Use it with colleagues you already know casually."
+        },
+        {
+          "setting": "social",
+          "where": "Leaving a friend's party",
+          "sentence": "Thanks for having me tonight—see you later at the weekend game.",
+          "highlight": "see you later",
+          "tip": "A relaxed goodbye that suggests another meeting is likely."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a friend",
+          "sentence": "I’m running late, but see you later outside the cinema.",
+          "highlight": "see you later",
+          "tip": "It suits informal messages between people who are already familiar."
+        }
+      ],
+      "origin": {
+        "summary": "This is a casual farewell made from the ordinary words “see you” and “later.” Its current meaning comes from people meeting again informally.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“See you” developed as an informal way to say that you expect to meet someone."
+          },
+          {
+            "when": "20th century",
+            "text": "Adding “later” became common in spoken American English as a friendly farewell."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase is widely used in casual conversation and informal messages."
+          }
+        ]
+      },
+      "similar": [
+        "see you soon",
+        "talk to you later",
+        "catch you later"
+      ],
+      "opposite": "see you tomorrow",
+      "pitfall": "It can sound vague if you need a firm time, so give the hour or place when that matters."
+    },
+    {
+      "id": "small-world",
+      "kind": "phrase",
+      "term": "small world",
+      "pos": "phrase",
+      "hint": "a surprising connection",
+      "register": "Everyday",
+      "meaning": "Used to express surprise when two people, places or experiences turn out to be unexpectedly connected.",
+      "nuance": "It often signals friendly surprise and can lead into a story about the connection. The phrase usually implies that the link is unusual or coincidental.",
+      "literal": "The physical size of the world, especially as shared by people who discover they know the same person or have visited the same place.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team conversation · making an unexpected connection",
+          "sentence": "Small world — Jamie says she worked with the new designer from my previous company.",
+          "highlight": "Small world",
+          "tip": "Use it when announcing a surprising link between colleagues."
+        },
+        {
+          "setting": "social",
+          "where": "Reunion · meeting an old acquaintance",
+          "sentence": "Small world! I didn’t know you’d moved here too.",
+          "highlight": "Small world",
+          "tip": "It works well as a warm, informal reaction to a coincidence."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a friend · sharing news",
+          "sentence": "Small world — it turns out we both know Sofia from university.",
+          "highlight": "Small world",
+          "tip": "Keep the punctuation light; it usually takes a comma or an exclamation mark."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the idea that people can feel close and connected despite living far apart. Its modern surprise-based use developed in the 19th century, including through its popularisation as the title of a 1948 novel.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "Earlier forms expressed the thought that every distant place is connected to the observer’s own small world."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase becomes established in writing for an unexpected connection or coincidence."
+          },
+          {
+            "when": "1948",
+            "text": "A novel titled Small World popularises the expression for many English speakers."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common reaction to an unexpected personal or social connection."
+          }
+        ]
+      },
+      "similar": [
+        "what a small world",
+        "the world is small",
+        "what a coincidence"
+      ],
+      "opposite": "",
+      "pitfall": "It usually calls for a genuine coincidence; using it after hearing a predictable story can sound forced."
+    },
+    {
+      "id": "tell-me-about-it",
+      "kind": "phrase",
+      "term": "tell me about it",
+      "pos": "phrase",
+      "hint": "I know exactly what you mean",
+      "register": "Casual",
+      "meaning": "Used to show that you fully understand and share someone’s experience or frustration.",
+      "nuance": "It creates a sense of recognition and solidarity, often between people who have had similar difficulties. Depending on the tone, it can also sound sarcastic or dismissive.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleagues discussing a difficult process",
+          "sentence": "Tell me about it; the approval system took me three weeks to get one small change approved.",
+          "highlight": "Tell me about it",
+          "tip": "Use it when you have a genuinely similar experience, not to dismiss someone else’s problem."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation about a hectic week",
+          "sentence": "Tell me about it—three meetings in a row and I barely had time to eat.",
+          "highlight": "Tell me about it",
+          "tip": "It works well as a relaxed response that keeps the conversation going."
+        },
+        {
+          "setting": "writing",
+          "where": "Friendly message to a colleague",
+          "sentence": "Tell me about it—I was trying to update the same files all morning.",
+          "highlight": "Tell me about it",
+          "tip": "It suits informal messages, but use a warmer, more specific comment in professional emails."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from an older expression meaning to describe or account for something, then shifted toward an informal way of saying that an experience is familiar.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal sense was “speak to me about it” or “describe it to me.”"
+          },
+          {
+            "when": "20th century",
+            "text": "The phrase became associated with shared understanding, especially in casual speech."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in conversation as a brief expression of agreement or solidarity."
+          }
+        ]
+      },
+      "similar": [
+        "I know what you mean",
+        "you’re not wrong",
+        "same here"
+      ],
+      "opposite": "I have no idea what you’re talking about",
+      "pitfall": "It can sound sarcastic or impatient if the listener is looking for empathy or advice."
+    },
+    {
+      "id": "the-drinks-are-on-me",
+      "kind": "phrase",
+      "term": "the drinks are on me",
+      "pos": "phrase",
+      "hint": "this round is my treat",
+      "register": "Casual",
+      "meaning": "Used to say that you will pay for everyone’s drinks.",
+      "nuance": "It is a friendly, informal way to offer to buy the next round. It can also be used jokingly when you are only buying a small number of drinks.",
+      "literal": "The drinks will be paid for by me.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team celebration · after a successful launch",
+          "sentence": "The drinks are on me tonight—we’ve earned a break after this launch.",
+          "highlight": "The drinks are on me",
+          "tip": "Use it to make a generous, clear offer without making a big announcement."
+        },
+        {
+          "setting": "social",
+          "where": "Meeting friends at a bar",
+          "sentence": "Come on, the drinks are on me tonight.",
+          "highlight": "the drinks are on me",
+          "tip": "It works best with a relaxed group and a straightforward invitation."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to friends",
+          "sentence": "Just so you know, the drinks are on me when we meet up on Friday.",
+          "highlight": "the drinks are on me",
+          "tip": "This is natural in a casual message, but use a more specific offer in a formal email."
+        }
+      ],
+      "origin": {
+        "summary": "This is a natural expression built from the idea that someone is paying for the drinks. The phrase “on me” means that the cost is being covered by the speaker.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression “on me” developed as a way of saying that someone would pay."
+          },
+          {
+            "when": "20th century",
+            "text": "“The drinks are on me” became established in informal social and workplace conversations."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common, friendly way to offer to pay for a round."
+          }
+        ]
+      },
+      "similar": [
+        "this round is on me",
+        "I’ll get this round",
+        "my treat"
+      ],
+      "opposite": "split the bill",
+      "pitfall": "Say it when you genuinely intend to pay; it can sound like an unexpected claim if you only mean you will cover one drink."
+    },
+    {
+      "id": "the-jokes-on-someone",
+      "kind": "phrase",
+      "term": "the joke's on someone",
+      "pos": "phrase",
+      "hint": "someone has been fooled, or the situation has turned against them",
+      "register": "Casual",
+      "meaning": "Someone has been tricked, embarrassed or made to look foolish, often by a situation they once controlled.",
+      "nuance": "It can be playful between friends or pointed when someone’s plan has backfired. It is usually said with amusement, though the tone may become mocking depending on the context.",
+      "literal": "The hidden meaning of a joke is about the person being tricked.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "A colleague’s unsuccessful presentation",
+          "sentence": "He spent ten minutes promoting the old report, only to discover the joke’s on him: it was already outdated.",
+          "highlight": "the joke’s on him",
+          "tip": "Use it lightly when a mistake has left someone looking foolish."
+        },
+        {
+          "setting": "social",
+          "where": "A playful trick between friends",
+          "sentence": "I hid the dessert before anyone arrived, and now the joke’s on you.",
+          "highlight": "the joke’s on you",
+          "tip": "This is a friendly way to announce that someone has been tricked."
+        },
+        {
+          "setting": "writing",
+          "where": "A teasing message to a friend",
+          "sentence": "You said you’d find the best café in town, but the joke’s on you—it closed last month.",
+          "highlight": "the joke’s on you",
+          "tip": "Keep it warm and conversational unless you are deliberately teasing someone."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from the idea that the real point of a joke is the person it exposes or mocks. Its modern wording developed as people referred to “the joke being on” someone.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used the expression “the joke is on” someone to mean that the joke exposed that person as foolish or deceived."
+          },
+          {
+            "when": "19th century",
+            "text": "The phrase appeared in English writing and conversation in forms such as “the joke is on you.”"
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common informal expression for teasing or describing someone’s comeuppance."
+          }
+        ]
+      },
+      "similar": [
+        "the joke is on you",
+        "serves you right",
+        "you’ve been had"
+      ],
+      "opposite": "the joke is on me",
+      "pitfall": "It can sound cruel if used to humiliate someone publicly, so match the tone to the relationship and situation."
+    },
+    {
+      "id": "the-night-is-young",
+      "kind": "phrase",
+      "term": "the night is young",
+      "pos": "phrase",
+      "hint": "there is still time to enjoy the evening",
+      "register": "Casual",
+      "meaning": "Used when the evening has only just begun, so there is still plenty of time to go out, celebrate or continue having fun.",
+      "nuance": "It often invites someone to extend the evening or try something new. It is playful and social, so it is less suitable for a serious or formal setting.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Informal team celebration",
+          "sentence": "The night is young, but we should probably leave enough time to review tomorrow’s launch plan.",
+          "highlight": "The night is young",
+          "tip": "It can add a relaxed tone when colleagues are still at an evening event."
+        },
+        {
+          "setting": "social",
+          "where": "After dinner with friends",
+          "sentence": "The night is young, so should we find somewhere for a drink?",
+          "highlight": "The night is young",
+          "tip": "Use it as a cheerful suggestion when you want to keep the evening going."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a friend",
+          "sentence": "We’ve only just arrived, but the night is young and the pub is still open.",
+          "highlight": "the night is young",
+          "tip": "Use it to sound upbeat and suggest that there is more time to enjoy the evening."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is unclear, but the phrase was established in English by the 19th century. It later became a familiar invitation to enjoy the evening or keep going.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The phrase drew on the idea that a night just beginning still has hours of activity ahead."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression appears in English, describing an evening that is still young or unfinished."
+          },
+          {
+            "when": "20th century onward",
+            "text": "It became a common playful way to suggest continuing with evening activities."
+          }
+        ]
+      },
+      "similar": [
+        "the evening is still young",
+        "there’s plenty of time left",
+        "the night is young"
+      ],
+      "opposite": "it’s getting late",
+      "pitfall": "It does not literally mean the night has only just started; it often means there is still time to continue enjoying yourself."
+    },
+    {
+      "id": "you-had-to-be-there",
+      "kind": "phrase",
+      "term": "You had to be there",
+      "pos": "phrase",
+      "hint": "you needed to witness it",
+      "register": "Casual",
+      "meaning": "A comment about an event, experience or joke that was so memorable, funny or unusual that someone had to experience it to understand.",
+      "nuance": "It is warm and conversational, often used with friends or coworkers you know well. It assumes shared context, so it may feel vague with people who were not there.",
+      "literal": "You needed to be physically present at the event.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team chat · describing a client call",
+          "sentence": "The client accidentally called the VP Dave; you had to be there.",
+          "highlight": "you had to be there",
+          "tip": "Best with colleagues who understand the wider story."
+        },
+        {
+          "setting": "social",
+          "where": "Recounting a night out",
+          "sentence": "Then the bride grabbed the microphone—you had to be there.",
+          "highlight": "you had to be there",
+          "tip": "Use it to pull someone into a funny story, not to demand details."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a close friend",
+          "sentence": "That concert was absolutely chaotic; you had to be there to believe it.",
+          "highlight": "you had to be there",
+          "tip": "It works in a personal message, but usually needs a brief explanation."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase began with a simple statement about needing to attend something. Over time, it became a way to describe an experience so striking that hearing about it is not quite the same as being present.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Literal use: a person had to attend an event for a practical or social reason."
+          },
+          {
+            "when": "20th century",
+            "text": "The phrase expanded into informal speech for memorable experiences that others needed to witness."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in friendly conversations, messages and workplace banter."
+          }
+        ]
+      },
+      "similar": [
+        "you should've seen it",
+        "you won't believe it",
+        "it was something else"
+      ],
+      "opposite": "you needed to hear the whole story",
+      "pitfall": "It can sound dismissive if you use it without adding enough context, especially when someone wants a detailed account."
+    },
+    {
+      "id": "you-know-what",
+      "kind": "phrase",
+      "term": "you know what",
+      "pos": "phrase",
+      "hint": "introducing a thought you’re about to share",
+      "register": "Everyday",
+      "meaning": "A conversational phrase used to introduce a new thought, opinion or change of direction.",
+      "nuance": "It makes your speaking sound relaxed and spontaneous, often with a small pause before the thought. In formal writing or a serious meeting, it can seem unnecessary or slightly dismissive.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team check-in · changing a plan",
+          "sentence": "I think the draft needs work; you know what, let’s shorten it before sending.",
+          "highlight": "you know what",
+          "tip": "Use it when you want your idea to sound spontaneous rather than fully prepared."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing a restaurant with friends",
+          "sentence": "That place was disappointing; you know what, let’s try somewhere near the station.",
+          "highlight": "you know what",
+          "tip": "It works well before suggesting a change of plan."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message to a colleague",
+          "sentence": "We can request an extension; you know what, I’ll include the revised schedule too.",
+          "highlight": "you know what",
+          "tip": "Keep it for casual messages, not formal emails or reports."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is uncertain, but it likely grew from older conversational uses of “you know” to address the listener and create a moment of connection.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used “you know” in conversation to signal shared attention or understanding."
+          },
+          {
+            "when": "20th century",
+            "text": "Adding “what” developed into a way to pause and introduce an informal thought."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in relaxed speech, especially when changing direction or making a suggestion."
+          }
+        ]
+      },
+      "similar": [
+        "the thing is",
+        "actually",
+        "you know",
+        "by the way"
+      ],
+      "opposite": "to put it plainly",
+      "pitfall": "Avoid using it in a tense exchange or formal presentation, where it may sound like you are about to make a weak or irrelevant point."
+    },
+    {
+      "id": "your-reputation-precedes-you",
+      "kind": "phrase",
+      "term": "Your reputation precedes you",
+      "pos": "phrase",
+      "hint": "people know about you before you arrive",
+      "register": "Common at work",
+      "meaning": "People have already heard something about your character, skills or past before they meet you.",
+      "nuance": "The phrase can be flattering when the reputation is positive, but it may suggest that your behaviour has given others a story to tell.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Joining a new team",
+          "sentence": "Your reputation precedes you—the client already told everyone you handled the last project well.",
+          "highlight": "Your reputation precedes you",
+          "tip": "Use it when an existing connection has prepared the group to meet you."
+        },
+        {
+          "setting": "social",
+          "where": "Meeting a friend’s partner",
+          "sentence": "Your reputation precedes you; I’ve heard you’re always the one planning the best pub nights.",
+          "highlight": "Your reputation precedes you",
+          "tip": "It adds warmth and a little suspense before the first proper introduction."
+        },
+        {
+          "setting": "writing",
+          "where": "Introducing a new colleague",
+          "sentence": "Your reputation precedes you, but I’m sure the team will get to know you in person.",
+          "highlight": "Your reputation precedes you",
+          "tip": "Keep it friendly and follow it with a specific compliment or introduction."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from the older idea that a person’s name or fame travels ahead of their physical arrival.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The longstanding proverb “fame travels fast” expressed the idea that news spreads quickly."
+          },
+          {
+            "when": "19th–20th century",
+            "text": "Writers used similar constructions about a person’s reputation or name arriving before them."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase is common when someone is known by reputation before a meeting or arrival."
+          }
+        ]
+      },
+      "similar": [
+        "fame travels fast",
+        "I’ve heard a lot about you",
+        "you have a name for yourself"
+      ],
+      "opposite": "I have no idea who you are",
+      "pitfall": "If the reputation is negative, the phrase can sound like an accusation rather than friendly praise."
+    }
+  ]
+}

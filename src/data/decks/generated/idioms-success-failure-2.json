@@ -1,0 +1,656 @@
+{
+  "id": "idioms-success-failure-2",
+  "kind": "idiom",
+  "name": "Success & failure · 2",
+  "blurb": "11 idioms about success & failure",
+  "cards": [
+    {
+      "id": "sink-or-swim",
+      "kind": "idiom",
+      "term": "sink or swim",
+      "pos": "idiom",
+      "hint": "survive or fail completely",
+      "register": "Common at work",
+      "meaning": "To succeed or fail depending entirely on your own effort, with little outside help.",
+      "nuance": "It emphasizes a moment of decisive pressure when there is no safe option. It can sound blunt or motivational, so use it carefully in sensitive situations.",
+      "literal": "A swimmer either stays afloat or goes under.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch week · final checks",
+          "sentence": "With the deadline tomorrow, the team has to sink or swim on the launch.",
+          "highlight": "sink or swim",
+          "tip": "Natural for describing a high-pressure situation with no easy solution."
+        },
+        {
+          "setting": "social",
+          "where": "Party plans · last-minute venue",
+          "sentence": "We found a table and a band, but getting home after that is sink or swim.",
+          "highlight": "sink or swim",
+          "tip": "Often adds humor to a situation where the plan is uncertain."
+        },
+        {
+          "setting": "writing",
+          "where": "Business commentary · volatile market",
+          "sentence": "Small retailers may have to sink or swim as online competition intensifies.",
+          "highlight": "sink or swim",
+          "tip": "Useful in reporting when describing firms facing a decisive test."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely comes from the literal danger faced by someone learning to swim: they must keep afloat or go under. Its precise figurative beginning is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Swimming instructions and accounts of learning to swim provide the literal background."
+          },
+          {
+            "when": "18th century",
+            "text": "The expression appears in figurative use, presenting a choice between success and failure."
+          },
+          {
+            "when": "Today",
+            "text": "It means having to rely entirely on oneself under pressure."
+          }
+        ]
+      },
+      "similar": [
+        "make or break",
+        "fight or flight",
+        "stand or fall"
+      ],
+      "opposite": "give up",
+      "pitfall": "It describes a decisive situation, not a small problem; avoid it when the outcome is already certain or nobody has to take responsibility."
+    },
+    {
+      "id": "slam-dunk",
+      "kind": "idiom",
+      "term": "slam dunk",
+      "pos": "noun",
+      "hint": "almost certain to succeed",
+      "register": "Casual",
+      "meaning": "Something that is so likely to succeed that success seems virtually guaranteed.",
+      "nuance": "It often expresses confident prediction rather than proof that something cannot fail. It is common in conversation and informal business discussion.",
+      "literal": "A forceful dunk of a basketball through the hoop.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch planning · predicting results",
+          "sentence": "The promotion was a slam dunk, so we approved the campaign immediately.",
+          "highlight": "slam dunk",
+          "tip": "Use it for a prediction that everyone present agrees is obvious."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a party · choosing a restaurant",
+          "sentence": "That pizza place is a slam dunk; everyone we asked loved it.",
+          "highlight": "slam dunk",
+          "tip": "Natural when discussing an easy choice with friends."
+        },
+        {
+          "setting": "writing",
+          "where": "Sports analysis · discussing a match",
+          "sentence": "With three minutes left, the winning goal looked like a slam dunk.",
+          "highlight": "slam dunk",
+          "tip": "Often used in commentary when one side has an overwhelming advantage."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase began as basketball terminology and later became a general metaphor for something overwhelmingly likely to succeed.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Late 1970s",
+            "text": "Slam dunk appears in basketball writing as a forceful way of scoring."
+          },
+          {
+            "when": "1980s",
+            "text": "The expression begins appearing in sports commentary for an outcome that seems virtually certain."
+          },
+          {
+            "when": "Today",
+            "text": "It is used informally for easy successes and highly predictable results."
+          }
+        ]
+      },
+      "similar": [
+        "no-brainer",
+        "sure thing",
+        "done deal",
+        "walkover"
+      ],
+      "opposite": "long shot",
+      "pitfall": "It means something is nearly certain to succeed, not merely that it is possible."
+    },
+    {
+      "id": "smash-hit",
+      "kind": "idiom",
+      "term": "smash hit",
+      "pos": "noun",
+      "hint": "an enormous success",
+      "register": "Everyday",
+      "meaning": "A song, film, book, show, or product that becomes extremely popular very quickly.",
+      "nuance": "It suggests a major, often unexpected success rather than steady popularity. Use it for something that breaks through with the public or performs exceptionally well.",
+      "literal": "A hit delivered with smashing force.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Marketing review · campaign results",
+          "sentence": "The campaign’s short video became a smash hit and tripled sign-ups.",
+          "highlight": "smash hit",
+          "tip": "Strong for content, products, or campaigns that outperform expectations."
+        },
+        {
+          "setting": "social",
+          "where": "Talking about a new song",
+          "sentence": "I didn’t expect her debut single to be such a smash hit.",
+          "highlight": "smash hit",
+          "tip": "Often expresses surprise as well as enthusiasm."
+        },
+        {
+          "setting": "writing",
+          "where": "Entertainment review",
+          "sentence": "The stage adaptation was a smash hit, drawing packed audiences across the country.",
+          "highlight": "smash hit",
+          "tip": "Common in reviews, headlines, and reports about commercial success."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is unclear. The phrase developed from earlier theatrical use of ‘smash’ for an especially successful production, and the combined expression was established by the early 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1900s",
+            "text": "Entertainment writers use ‘smash’ to describe a powerful theatrical success."
+          },
+          {
+            "when": "1920s",
+            "text": "‘Smash hit’ is in regular use for songs, plays, and films that achieve exceptional popularity."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase applies across entertainment, publishing, business, and online media."
+          }
+        ]
+      },
+      "similar": [
+        "blockbuster",
+        "sell-out",
+        "breakthrough hit"
+      ],
+      "opposite": "dud",
+      "pitfall": "A smash hit implies exceptional and often sudden success; an ordinary popular release may be a hit but not a smash hit."
+    },
+    {
+      "id": "so-be-it",
+      "kind": "idiom",
+      "term": "so be it",
+      "pos": "phrase",
+      "hint": "accepting what cannot be changed",
+      "register": "Common at work",
+      "meaning": "To accept a difficult or unwelcome outcome because you believe there is nothing more you can do.",
+      "nuance": "It can sound resigned, determined, or slightly dramatic. Use it when someone is accepting a final decision or an unavoidable result.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning · accepting a setback",
+          "sentence": "The client rejected our proposal, so be it; we’ll focus on the next opportunity.",
+          "highlight": "so be it",
+          "tip": "Sounds decisive, though it can also suggest resignation."
+        },
+        {
+          "setting": "social",
+          "where": "After an argument",
+          "sentence": "She missed the train, and now she is stuck there, so be it.",
+          "highlight": "so be it",
+          "tip": "Common when admitting that a minor problem cannot be fixed."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · final decision",
+          "sentence": "The council has approved the changes, so be it; construction will begin next month.",
+          "highlight": "so be it",
+          "tip": "Useful for reporting a decision that others may dislike."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines “so,” meaning “therefore,” with “be it,” an old expression of acceptance. Its exact first appearance is difficult to pin down, but it was in use by the late medieval period.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Medieval period",
+            "text": "The wording begins to appear in expressions of acceptance and resignation."
+          },
+          {
+            "when": "1600s",
+            "text": "The phrase is established in English as a way to acknowledge a fixed outcome."
+          },
+          {
+            "when": "Today",
+            "text": "It means accepting what cannot be changed, often with a firm or resigned tone."
+          }
+        ]
+      },
+      "similar": [
+        "That’s how it is",
+        "Let it go",
+        "We’ll make do"
+      ],
+      "opposite": "It can’t be changed",
+      "pitfall": "It is not a substitute for “that’s why”; it expresses acceptance rather than a reason or result."
+    },
+    {
+      "id": "take-by-storm",
+      "kind": "idiom",
+      "term": "take by storm",
+      "pos": "idiom",
+      "hint": "become an instant hit",
+      "register": "Common at work",
+      "meaning": "To achieve sudden, overwhelming success or impress people very quickly.",
+      "nuance": "It often suggests that an event, performance, product, or idea attracts enormous attention. The success feels rapid and difficult for others to resist.",
+      "literal": "To capture a place by attacking it with overwhelming force.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch · new product",
+          "sentence": "Our new onboarding app took by storm at yesterday’s company demo.",
+          "highlight": "took by storm",
+          "tip": "Often used for something that becomes unexpectedly popular."
+        },
+        {
+          "setting": "social",
+          "where": "Event · unexpected applause",
+          "sentence": "Her improvised speech took by storm, and everyone wanted to talk to her afterward.",
+          "highlight": "took by storm",
+          "tip": "Common when describing a performance that captivates an audience."
+        },
+        {
+          "setting": "writing",
+          "where": "Arts review · opening night",
+          "sentence": "The production took by storm, earning praise from critics and audiences alike.",
+          "highlight": "took by storm",
+          "tip": "Works well in reviews when an event creates an immediate sensation."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the military idea of capturing a defended position with a forceful attack. Its figurative use for winning immediate and overwhelming approval appears in the 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "To take or capture a fortified place by storm meant overcoming it with sudden, forceful action."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers began using the expression for rapid and overwhelming success or attention."
+          },
+          {
+            "when": "Today",
+            "text": "It describes a person, event, product, or idea that becomes an immediate sensation."
+          }
+        ]
+      },
+      "similar": [
+        "take the world by storm",
+        "sweep the nation",
+        "set the world on fire"
+      ],
+      "opposite": "flop",
+      "pitfall": "Use it for rapid, conspicuous success, not simply a steady or gradual success."
+    },
+    {
+      "id": "take-credit",
+      "kind": "idiom",
+      "term": "take credit",
+      "pos": "phrase",
+      "hint": "claim the recognition",
+      "register": "Everyday",
+      "meaning": "To claim recognition or praise for something you did.",
+      "nuance": "It can be neutral when you acknowledge your contribution, but it may sound unfair if you are taking credit for someone else’s work.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team debrief · completed project",
+          "sentence": "I took credit for the proposal, even though Maya wrote most of it.",
+          "highlight": "took credit",
+          "tip": "The past form works when discussing something that already happened."
+        },
+        {
+          "setting": "social",
+          "where": "Family dinner · helping with dinner",
+          "sentence": "Dad took credit for the excellent roast, although Grandma prepared it.",
+          "highlight": "took credit",
+          "tip": "Often used playfully when someone claims an achievement."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · shared results",
+          "sentence": "The team took credit for the quick turnaround while acknowledging the design team’s support.",
+          "highlight": "took credit",
+          "tip": "Use carefully if others contributed and deserve acknowledgement."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines older meanings of “take,” meaning receive or claim, and “credit,” meaning recognition or praise. Its exact early use is difficult to pin down, but the expression appears in English by the 1500s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English speakers used “credit” for praise, recognition and the belief that something was deserved."
+          },
+          {
+            "when": "1500s",
+            "text": "The expression “take credit” appears in English, initially referring to receiving recognition."
+          },
+          {
+            "when": "Today",
+            "text": "It means claiming recognition for an achievement, sometimes more or less deserved."
+          }
+        ]
+      },
+      "similar": [
+        "claim credit",
+        "get the credit",
+        "take the praise"
+      ],
+      "opposite": "share the credit",
+      "pitfall": "“Take credit” often means claim recognition for yourself; “receive credit” simply means to be given recognition."
+    },
+    {
+      "id": "top-notch",
+      "kind": "idiom",
+      "term": "Top-notch",
+      "pos": "idiom",
+      "hint": "the very best",
+      "register": "Common at work",
+      "meaning": "Of the highest quality or standard.",
+      "nuance": "It sounds confident and complimentary, but it can feel informal in some workplaces. Use it for people, work, products, or performance that are genuinely excellent.",
+      "literal": "The highest notch marked on a scale or range.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team feedback · reviewing a presentation",
+          "sentence": "Her handling of a difficult client was absolutely top-notch.",
+          "highlight": "top-notch",
+          "tip": "Natural when praising someone’s professional performance."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · recommending a restaurant",
+          "sentence": "The food there was top-notch, and the service was just as impressive.",
+          "highlight": "top-notch",
+          "tip": "Use it when something is clearly better than ordinary."
+        },
+        {
+          "setting": "writing",
+          "where": "Product review · comparing two laptops",
+          "sentence": "The premium model offers top-notch performance, but it costs considerably more.",
+          "highlight": "top-notch",
+          "tip": "Works in reviews and recommendations, though a more specific compliment may sound stronger."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably comes from the idea of cutting the highest notch on a scale or measuring device. Its exact origin is not clearly documented.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The expression begins appearing in English, alongside the idea of a ‘notch’ as a level or marked degree."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "‘Top-notch’ becomes associated with the highest level of quality or achievement."
+          },
+          {
+            "when": "Today",
+            "text": "Means excellent, first-rate, or of the highest standard."
+          }
+        ]
+      },
+      "similar": [
+        "First-rate",
+        "Excellent",
+        "Top-of-the-line"
+      ],
+      "opposite": "Second-rate",
+      "pitfall": "Usually written ‘top-notch’ when it describes a noun, as in ‘a top-notch designer.’"
+    },
+    {
+      "id": "track-record",
+      "kind": "idiom",
+      "term": "track record",
+      "pos": "phrase",
+      "hint": "a history of results",
+      "register": "Common at work",
+      "meaning": "The record of someone’s or something’s performance or results over a period of time.",
+      "nuance": "Often used when judging reliability, success, or quality. It can describe a consistently strong history, but it may also include failures and mixed results.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Hiring · choosing a supplier",
+          "sentence": "She has a strong track record of delivering complex projects on time.",
+          "highlight": "track record",
+          "tip": "Especially useful when discussing previous performance."
+        },
+        {
+          "setting": "social",
+          "where": "Recommending a contractor",
+          "sentence": "We hired Sam because he has a good track record with home renovations.",
+          "highlight": "track record",
+          "tip": "Common in informal recommendations and everyday judgments."
+        },
+        {
+          "setting": "writing",
+          "where": "Company profile",
+          "sentence": "The charity has a long track record of supporting local schools.",
+          "highlight": "track record",
+          "tip": "A neutral, professional phrase for describing past achievements or results."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase began in horse racing, where a horse’s record of races provided evidence of its ability. It later broadened to describe any person’s or organisation’s history of performance.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The phrase appears in horse-racing writing to mean a racehorse’s record of performances."
+          },
+          {
+            "when": "1900s",
+            "text": "Figurative use spreads to business, politics and public life for a person’s or organisation’s record of results."
+          },
+          {
+            "when": "Today",
+            "text": "It means past performance or results, whether strong, weak or mixed."
+          }
+        ]
+      },
+      "similar": [
+        "track record",
+        "past performance",
+        "record"
+      ],
+      "opposite": "unknown quantity",
+      "pitfall": "A track record is a history of performance; it does not guarantee future success."
+    },
+    {
+      "id": "train-wreck",
+      "kind": "idiom",
+      "term": "train wreck",
+      "pos": "idiom",
+      "hint": "a disastrous mess",
+      "register": "Common at work and socially",
+      "meaning": "A disastrous failure, especially a chaotic event or situation.",
+      "nuance": "It often suggests that several problems combined and made everything go badly. It can describe a meeting, relationship, project, or performance.",
+      "literal": "A badly wrecked train, or a serious collision involving trains.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team retrospective · a failed launch",
+          "sentence": "The launch became a train wreck when the system failed and nobody knew who was in charge.",
+          "highlight": "became a train wreck",
+          "tip": "Common for describing a badly mishandled event or project."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · discussing a date",
+          "sentence": "Their first date was an absolute train wreck, so they never spoke again.",
+          "highlight": "an absolute train wreck",
+          "tip": "Informal and often slightly humorous or dramatic."
+        },
+        {
+          "setting": "writing",
+          "where": "Project review · evaluating a campaign",
+          "sentence": "The campaign was a train wreck from start to finish and lost the company millions.",
+          "highlight": "a train wreck",
+          "tip": "Stronger than simply saying something failed; it suggests a complete disaster."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase began as a literal description of a wrecked train or railway collision. Its figurative use developed from the idea of an event causing widespread confusion and damage.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "Writers used “train wreck” for the destruction of a train or serious railway accidents."
+          },
+          {
+            "when": "Early 20th century",
+            "text": "The expression began to describe events, processes, or situations that had ended in chaos."
+          },
+          {
+            "when": "Today",
+            "text": "It means a spectacular failure or a disastrous mess."
+          }
+        ]
+      },
+      "similar": [
+        "disaster",
+        "fiasco",
+        "shambles",
+        "catastrophe"
+      ],
+      "pitfall": "A train wreck is more severe than an ordinary failure; it suggests a chaotic disaster rather than a problem that was simply handled poorly."
+    },
+    {
+      "id": "tried-and-tested",
+      "kind": "idiom",
+      "term": "tried and tested",
+      "pos": "idiom",
+      "hint": "proven to work well",
+      "register": "Common at work",
+      "meaning": "Describes something that has been used and checked enough times for people to trust it.",
+      "nuance": "It suggests proven reliability and experience, not just a quick successful attempt. It is often used when recommending a dependable method, person, product, or solution.",
+      "literal": "Something that has been tried and put through tests.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · choosing a method",
+          "sentence": "We used the tried and tested checklist to move the project forward without delays.",
+          "highlight": "tried and tested",
+          "tip": "Common when recommending a method or process with a strong track record."
+        },
+        {
+          "setting": "social",
+          "where": "Sharing family advice",
+          "sentence": "Her tried and tested advice for calming nervous dogs has never let us down.",
+          "highlight": "tried and tested",
+          "tip": "Works naturally with advice, recipes, tips, and solutions."
+        },
+        {
+          "setting": "writing",
+          "where": "Product review · comparing options",
+          "sentence": "The guide highlights three tried and tested ways to improve your morning routine.",
+          "highlight": "tried and tested",
+          "tip": "A useful phrase in reviews, articles, and recommendations."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely grew from older uses of ‘tried’ for experienced and ‘tested’ for proved. Its modern sense combines personal experience with repeated verification.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The words ‘tried’ and ‘tested’ are used separately to mean experienced and proved."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression ‘tried and tested’ begins appearing in English writing."
+          },
+          {
+            "when": "Today",
+            "text": "It describes something dependable because it has worked successfully many times."
+          }
+        ]
+      },
+      "similar": [
+        "well-established",
+        "time-tested",
+        "proven",
+        "battle-tested"
+      ],
+      "opposite": "untested",
+      "pitfall": "It usually implies repeated experience, so it may sound too strong for something checked only once."
+    },
+    {
+      "id": "wild-goose-chase",
+      "kind": "idiom",
+      "term": "wild-goose chase",
+      "pos": "idiom",
+      "hint": "a foolish hunt for something impossible",
+      "register": "Common at work",
+      "meaning": "A pointless or impractical attempt to achieve something difficult or unlikely.",
+      "nuance": "It suggests that the effort is not only unlikely to succeed but may be foolishly aimed. It is often used when a plan, search, or project is based on poor assumptions.",
+      "literal": "Chasing a wild goose that is already flying away.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · troubleshooting a bug",
+          "sentence": "That investigation became a wild-goose chase after the logs showed no sign of the fault.",
+          "highlight": "wild-goose chase",
+          "tip": "Use it when the team is searching in the wrong place or pursuing an unrealistic cause."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · chasing a rumor",
+          "sentence": "Following that rumor across three apps was a total wild-goose chase.",
+          "highlight": "wild-goose chase",
+          "tip": "Often describes a desperate search with little chance of success."
+        },
+        {
+          "setting": "writing",
+          "where": "Project review · assessing a proposal",
+          "sentence": "Reviewers called the rollout a wild-goose chase because it depended on several unlikely assumptions.",
+          "highlight": "wild-goose chase",
+          "tip": "Useful in reports and criticism when explaining why a plan is unrealistic."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from an old proverb comparing a foolish hunt with trying to catch a wild goose. The precise source of that proverb is uncertain, but the figurative meaning was established by the 1500s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "Early English records describe a “wild-goose chase” as a foolish or hopeless pursuit."
+          },
+          {
+            "when": "1600s",
+            "text": "The phrase appears in writing with its modern form and figurative meaning."
+          },
+          {
+            "when": "Today",
+            "text": "It refers to any search, plan, or effort with little realistic chance of success."
+          }
+        ]
+      },
+      "similar": [
+        "chasing rainbows",
+        "a Sisyphean task",
+        "a needle in a haystack",
+        "a dead end"
+      ],
+      "pitfall": "It describes a hopeless or badly planned pursuit, not merely any difficult task."
+    }
+  ]
+}

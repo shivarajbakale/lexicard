@@ -1,0 +1,1719 @@
+{
+  "id": "words-thinking-reasoning-2",
+  "kind": "word",
+  "name": "Thinking & reasoning · 2",
+  "blurb": "25 words about thinking & reasoning",
+  "cards": [
+    {
+      "id": "deem",
+      "kind": "word",
+      "term": "deem",
+      "pos": "verb",
+      "phonetic": "/diːm/",
+      "sayIt": "DEEM",
+      "register": "Formal",
+      "meaning": "To consider or judge something to be a particular way.",
+      "nuance": "It is a formal, confident way of expressing an opinion or decision, especially in legal, academic, or official contexts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing an employee",
+          "sentence": "The manager deemed the proposal clear and practical, so the team approved it.",
+          "highlight": "deemed",
+          "tip": "Use it when presenting a considered judgement rather than an obvious fact."
+        },
+        {
+          "setting": "social",
+          "where": "Argument · responding to a suggestion",
+          "sentence": "I deemed the comment unnecessary, so I changed the subject.",
+          "highlight": "deemed",
+          "tip": "It can sound firm or formal, so use it carefully in casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Legal email · stating a decision",
+          "sentence": "The application was deemed complete, and the documents were processed that afternoon.",
+          "highlight": "deemed",
+          "tip": "It often appears in official writing when a person or body reaches a formal conclusion."
+        }
+      ],
+      "origin": {
+        "summary": "From Old English dēman, meaning to judge or give a verdict. It is related to words such as doom and deem in the sense of deciding a person's fate.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The word meant to judge, decide, or pronounce a verdict."
+          },
+          {
+            "when": "Middle English",
+            "text": "Its meaning continued to include judging or considering something to be a certain way."
+          },
+          {
+            "when": "Today",
+            "text": "Common in formal and legal contexts, especially with words such as suitable, necessary, or complete."
+          }
+        ]
+      },
+      "similar": [
+        "consider",
+        "judge",
+        "regard",
+        "estimate"
+      ],
+      "opposite": "reject",
+      "pitfall": "Deem is more formal and deliberate than think or regard, so it may sound unnecessarily official in casual speech."
+    },
+    {
+      "id": "deliberate",
+      "kind": "word",
+      "term": "deliberate",
+      "pos": "adjective",
+      "phonetic": "/dɪˈlɪbərət/",
+      "sayIt": "di-LIB-ur-it",
+      "register": "Common at work",
+      "meaning": "Done on purpose rather than by chance or accident.",
+      "nuance": "It can also describe something slow and careful. As a verb, “deliberate” means to think carefully before deciding.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · addressing missed deadlines",
+          "sentence": "The repeated errors were deliberate attempts to pressure the team into changing the deadline.",
+          "highlight": "deliberate",
+          "tip": "Use it when someone did something intentionally rather than simply made a mistake."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · explaining a close friend’s choice",
+          "sentence": "Leaving early was deliberate; she had already decided not to stay for the argument.",
+          "highlight": "deliberate",
+          "tip": "It emphasizes intention without necessarily suggesting that the action was unreasonable."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal report · describing an incident",
+          "sentence": "The report concluded that the damage was deliberate and had been caused with clear intent.",
+          "highlight": "deliberate",
+          "tip": "Common in reports and legal writing when distinguishing an intended action from an accident."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin deliberare, meaning “to weigh carefully” or “consider in detail,” originally used for discussing or deciding.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Deliberare was formed from de-, meaning “apart,” and liberare, meaning “to weigh or balance.”"
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "Entered English with meanings connected to careful discussion and decision-making."
+          },
+          {
+            "when": "Today",
+            "text": "As an adjective, it usually means intentional; as a verb, it means to consider something carefully."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "deliberately",
+          "label": "adverb"
+        },
+        {
+          "term": "deliberation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "intentional",
+        "premeditated",
+        "purposeful",
+        "methodical"
+      ],
+      "opposite": "accidental",
+      "pitfall": "The adjective is pronounced /dɪˈlɪbərət/, while the verb is usually /dɪˈlɪbəreɪt/: “She was deliberate” versus “She will deliberate.”"
+    },
+    {
+      "id": "delineation",
+      "kind": "word",
+      "term": "delineation",
+      "pos": "noun",
+      "phonetic": "/dɪˈlɪni.eɪ.ʃən/",
+      "sayIt": "dih-LIN-ee-AY-shun",
+      "register": "Formal",
+      "meaning": "A clear description or outline of the boundaries, details, or differences within something.",
+      "nuance": "It suggests careful marking of where one thing ends and another begins. It is common in academic, legal, and technical writing, but can sound overly formal in casual conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · separating teams’ responsibilities",
+          "sentence": "The project charter provides a clear delineation of each team’s responsibilities.",
+          "highlight": "delineation",
+          "tip": "Use it when a document or agreement defines roles, limits, or areas of ownership."
+        },
+        {
+          "setting": "social",
+          "where": "Discussion · explaining different opinions",
+          "sentence": "There was a clear delineation between what we could change today and what needed the council’s approval.",
+          "highlight": "delineation",
+          "tip": "It can help separate options or categories, though a simpler phrase may sound more natural socially."
+        },
+        {
+          "setting": "writing",
+          "where": "Research summary · describing a concept",
+          "sentence": "The report offers a detailed delineation of the causes and effects of the housing shortage.",
+          "highlight": "delineation",
+          "tip": "Pairs naturally with detailed, clear, precise, and broad."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin delineare, meaning ‘to mark out with lines’, formed from de- ‘to undo’ and linea ‘line’. English later used it for describing boundaries and distinctions.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Delineare develops from de- ‘to undo’ and linea ‘line’, giving the idea of marking out boundaries."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with meanings connected with drawing lines and defining limits."
+          },
+          {
+            "when": "1800s",
+            "text": "Its use broadens to include clear descriptions of distinctions and details."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly formal and is often used in academic, legal, and technical contexts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "delineate",
+          "label": "verb"
+        },
+        {
+          "term": "delineated",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "definition",
+        "outline",
+        "description",
+        "distinction",
+        "boundary"
+      ],
+      "pitfall": "Remember that delineation is a noun; use delineate when you mean to mark or describe something."
+    },
+    {
+      "id": "delve",
+      "kind": "word",
+      "term": "delve",
+      "pos": "verb",
+      "phonetic": "/dɛlv/",
+      "sayIt": "DELV",
+      "register": "Formal",
+      "meaning": "To examine or investigate something carefully and in detail.",
+      "nuance": "It suggests a thorough, focused search for information or understanding. It is common in formal writing and can sound overly serious in casual conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Research meeting · reviewing customer feedback",
+          "sentence": "Could you delve into the feedback and identify the main reasons customers are leaving?",
+          "highlight": "delve",
+          "tip": "Use it when an assignment needs careful analysis rather than a quick overview."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · exploring a hobby",
+          "sentence": "We delved into the history of the neighbourhood over coffee and talked for hours.",
+          "highlight": "delved",
+          "tip": "It can describe getting deeply interested in a subject, even in an informal setting."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · explaining a complex issue",
+          "sentence": "The report delves into the causes of the delay and proposes three practical solutions.",
+          "highlight": "delves",
+          "tip": "A strong choice for essays, reports and articles that promise detailed explanation."
+        }
+      ],
+      "origin": {
+        "summary": "From Old English delfan, meaning 'to dig or excavate', which later developed into the figurative sense of searching carefully.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The word delfan meant 'to dig, search or excavate'."
+          },
+          {
+            "when": "Late Middle English",
+            "text": "It began to be used figuratively for examining a subject closely."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means to investigate or explore something in detail."
+          }
+        ]
+      },
+      "similar": [
+        "investigate",
+        "examine",
+        "explore",
+        "probe"
+      ],
+      "opposite": "skim",
+      "pitfall": "Delve into is the usual pattern; delve something on its own is possible but less common."
+    },
+    {
+      "id": "denouement",
+      "kind": "word",
+      "term": "denouement",
+      "pos": "noun",
+      "phonetic": "/denˈuːeɪ/",
+      "sayIt": "den-OO-ay",
+      "register": "Formal",
+      "meaning": "The final outcome of a complicated story or sequence of events.",
+      "nuance": "It suggests that loose ends are being resolved, often after tension or mystery has built up. It is mainly used for stories, but can also describe the outcome of a difficult situation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · wrapping up negotiations",
+          "sentence": "After weeks of debate, the denouement was a revised schedule and a compromise on responsibilities.",
+          "highlight": "denouement",
+          "tip": "Use it when the final outcome follows a long, complicated process."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · explaining a family mystery",
+          "sentence": "The denouement came when an old letter revealed why the two sisters had stopped speaking.",
+          "highlight": "denouement",
+          "tip": "It fits well when describing the surprising resolution of a story."
+        },
+        {
+          "setting": "writing",
+          "where": "Mystery novel · closing the investigation",
+          "sentence": "Rather than explaining everything directly, the author saves the denouement for the final chapter.",
+          "highlight": "denouement",
+          "tip": "Use it to refer to the ending or final reveal of a plot."
+        }
+      ],
+      "origin": {
+        "summary": "It comes from French dénouement, meaning an untying or outcome, based on dénouer, “to untie” or “unravel.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "French",
+            "text": "Dénouement develops the sense of untying a knot and, figuratively, resolving a story."
+          },
+          {
+            "when": "19th century",
+            "text": "The word enters English, initially associated with the resolution of a plot."
+          },
+          {
+            "when": "Today",
+            "text": "It can describe the ending of a story or the final outcome of a complicated situation."
+          }
+        ]
+      },
+      "forms": [],
+      "similar": [
+        "resolution",
+        "outcome",
+        "conclusion",
+        "finale"
+      ],
+      "pitfall": "This is mainly a formal or literary word, so avoid using it for an ordinary ending."
+    },
+    {
+      "id": "derived",
+      "kind": "word",
+      "term": "derived",
+      "pos": "adjective",
+      "phonetic": "/dɪˈraɪvd/",
+      "sayIt": "di-RIVED",
+      "register": "Common at work",
+      "meaning": "Obtained or developed from another source, idea or piece of information.",
+      "nuance": "It suggests that something comes from an earlier source or process. It is often used with words such as conclusion, figure, formula and result.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Business review · analysing results",
+          "sentence": "The team presented a forecast derived from last year’s sales data.",
+          "highlight": "derived",
+          "tip": "Use it to show where an idea, figure or result comes from."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · comparing family traditions",
+          "sentence": "Her recipe is derived from a dish her grandmother used to make on Sundays.",
+          "highlight": "derived",
+          "tip": "It works for anything based on an earlier example, without suggesting exact copying."
+        },
+        {
+          "setting": "writing",
+          "where": "Research report · explaining a method",
+          "sentence": "The final score was derived by combining attendance, participation and completed assignments.",
+          "highlight": "derived",
+          "tip": "Use it in formal writing to make the source or calculation behind a result clear."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin derivare, meaning ‘to draw out’ or ‘lead down’, which led to the idea of obtaining something from a source.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "derivare means ‘to draw out, lead down’ and develops the sense of taking or receiving something from a source."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in the sense of drawing or obtaining something from another thing."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly describes a result, figure, idea or form that comes from a source or process."
+          }
+        ]
+      },
+      "similar": [
+        "calculated",
+        "obtained",
+        "based",
+        "inferred"
+      ],
+      "opposite": "original",
+      "pitfall": "Do not confuse derived with deprived, which means having something important taken away from you."
+    },
+    {
+      "id": "desultory",
+      "kind": "word",
+      "term": "desultory",
+      "pos": "adjective",
+      "phonetic": "/dɪˈsʌltəri/",
+      "sayIt": "di-SUL-tuh-ree",
+      "register": "Formal; common in writing",
+      "meaning": "Moving from one thing to another without a clear plan, purpose or connection.",
+      "nuance": "It suggests a lack of direction or organisation, often in discussion, reading or activity. It can sound critical when describing someone's work or attention.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · reviewing priorities",
+          "sentence": "His desultory presentation covered several projects but gave us no clear recommendation.",
+          "highlight": "desultory",
+          "tip": "Use it to describe work that lacks focus, structure or a clear purpose."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · changing subjects",
+          "sentence": "We had a desultory chat about holidays, work and the food our neighbour had grown.",
+          "highlight": "desultory",
+          "tip": "It can describe informal conversation that keeps drifting between unrelated subjects."
+        },
+        {
+          "setting": "writing",
+          "where": "Research notes · draft introduction",
+          "sentence": "The article begins with a desultory summary before narrowing down to the main argument.",
+          "highlight": "desultory",
+          "tip": "A useful formal word for explaining that an account or discussion lacks organisation."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin desultorius, connected with desultor, a leaper who jumped from one horse to another. The English sense developed from leaping between things to moving between topics without direction.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Roman Latin",
+            "text": "The root describes a rider or acrobat leaping from one position to another."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in senses connected with leaping or jumping."
+          },
+          {
+            "when": "1800s onward",
+            "text": "It takes on the modern sense of lacking direction or staying on one course."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "desultorily",
+          "label": "adverb"
+        },
+        {
+          "term": "desultoriness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "scattered",
+        "aimless",
+        "disconnected",
+        "random"
+      ],
+      "opposite": "purposeful",
+      "pitfall": "Desultory focuses on lack of direction or organisation; cursory more often means quick and superficial."
+    },
+    {
+      "id": "discern",
+      "kind": "word",
+      "term": "discern",
+      "pos": "verb",
+      "phonetic": "/dɪˈsɜːrn/",
+      "sayIt": "di-SURN",
+      "register": "Formal",
+      "meaning": "To notice, understand, or recognize something, especially by paying careful attention.",
+      "nuance": "Often suggests that you can distinguish something subtle or make a careful judgement. It sounds more deliberate and analytical than simply seeing or noticing something.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client review · spotting a pattern",
+          "sentence": "We can discern a recurring delay in the approval process from the last three reports.",
+          "highlight": "discern",
+          "tip": "Use it when something is not obvious but can be identified through careful observation."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · sensing a change",
+          "sentence": "I could discern from her tone that she was not comfortable with the suggestion.",
+          "highlight": "discern",
+          "tip": "It can describe noticing a subtle feeling, mood or change in circumstances."
+        },
+        {
+          "setting": "writing",
+          "where": "Research summary · interpreting evidence",
+          "sentence": "The figures allow us to discern a gradual shift in customer preferences.",
+          "highlight": "discern",
+          "tip": "This gives a formal tone, especially when describing patterns, differences or trends."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin discernere, formed from dis- ‘apart’ and cernere ‘to separate’, originally meaning to distinguish or set apart.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Discernere means ‘to separate’, ‘distinguish’ or ‘perceive clearly’."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English with meanings connected to distinguishing and perceiving."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used for noticing something through careful attention."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "discerning",
+          "label": "adjective"
+        },
+        {
+          "term": "discernible",
+          "label": "adjective"
+        },
+        {
+          "term": "discernment",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "distinguish",
+        "detect",
+        "perceive",
+        "notice",
+        "identify"
+      ],
+      "opposite": "overlook",
+      "pitfall": "Use discern for something you recognize through attention; detection usually means finding something that may be hidden."
+    },
+    {
+      "id": "discerning",
+      "kind": "word",
+      "term": "discerning",
+      "pos": "adjective",
+      "phonetic": "/dɪˈsɜːnɪŋ/",
+      "sayIt": "dis-SERN-ing",
+      "register": "Common at work",
+      "meaning": "Able to notice differences and understand what is important or true.",
+      "nuance": "It suggests good judgement and awareness rather than simply being highly informed. It is often complimentary when describing a person, audience or eye.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · assessing judgement",
+          "sentence": "She is a discerning manager who notices when a client needs more support.",
+          "highlight": "discerning",
+          "tip": "Use it to praise someone’s ability to notice important details."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing a restaurant · discussing food",
+          "sentence": "He has a discerning palate and can tell which olive oil the kitchen used.",
+          "highlight": "discerning",
+          "tip": "A natural choice when talking about taste, taste buds or perceptiveness."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · evaluating an argument",
+          "sentence": "The essay makes a discerning case for spending less time online.",
+          "highlight": "discerning",
+          "tip": "Use it before a noun such as eye, mind, reader or judgement."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin discernere, meaning ‘to distinguish or understand clearly’, with the sense of separating things by their differences.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Discernere combines dis-, ‘apart’, and cernere, ‘to see’."
+          },
+          {
+            "when": "Late Middle English",
+            "text": "The word enters English in senses connected with distinguishing and understanding."
+          },
+          {
+            "when": "Today",
+            "text": "‘Discerning’ usually describes a person with sharp perception or good judgement."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "discern",
+          "label": "verb"
+        },
+        {
+          "term": "discernment",
+          "label": "noun"
+        },
+        {
+          "term": "discernible",
+          "label": "adjective"
+        },
+        {
+          "term": "discernibly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "perceptive",
+        "astute",
+        "shrewd",
+        "discriminative"
+      ],
+      "opposite": "undiscerning",
+      "pitfall": "Discerning means able to notice and understand differences; it does not simply mean doubtful or suspicious."
+    },
+    {
+      "id": "disparate",
+      "kind": "word",
+      "term": "disparate",
+      "pos": "adjective",
+      "phonetic": "/dɪˈspærət/",
+      "sayIt": "dis-PAIR-uhnt",
+      "register": "Formal",
+      "meaning": "Distinct and different from one another in type, nature, or quality.",
+      "nuance": "Often used when items, groups, or experiences have noticeable differences. It can sound more technical than simply “different,” especially in work and writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · comparing regions",
+          "sentence": "Sales are strong in cities, but customer needs remain disparate across rural areas.",
+          "highlight": "disparate",
+          "tip": "Use it to emphasize that several things differ clearly from one another."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · comparing trips",
+          "sentence": "My holiday in Morocco was nothing like our beach trip; they were completely disparate experiences.",
+          "highlight": "disparate",
+          "tip": "It fits when you want to highlight a contrast between two experiences."
+        },
+        {
+          "setting": "writing",
+          "where": "Research summary · grouping findings",
+          "sentence": "The report brings together disparate studies on remote work and employee wellbeing.",
+          "highlight": "disparate",
+          "tip": "It often appears before “groups,” “views,” “backgrounds” or “data.”"
+        }
+      ],
+      "origin": {
+        "summary": "From Latin disparatus, meaning “separated” or “different,” through French disparate.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root disparatus meant “set apart” or “distinguished from others.”"
+          },
+          {
+            "when": "1500s",
+            "text": "The word entered English through French in the sense of “different” or “unlike.”"
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used to describe clearly different things, groups or experiences."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "disparity",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "different",
+        "dissimilar",
+        "varied",
+        "distinct"
+      ],
+      "opposite": "similar",
+      "pitfall": "Don’t confuse it with dispassionate, which means calm and not emotionally involved."
+    },
+    {
+      "id": "divergent",
+      "kind": "word",
+      "term": "divergent",
+      "pos": "adjective",
+      "phonetic": "/dɪˈvɜːdʒənt/",
+      "sayIt": "di-VER-juhnt",
+      "register": "Common at work",
+      "meaning": "Moving away from one another or developing in different ways.",
+      "nuance": "It describes differences in opinions, paths, results, or thinking. It can sound neutral in analytical work but slightly negative when it implies a group is splitting apart.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · comparing team ideas",
+          "sentence": "The team took divergent approaches, but both ideas solved the customer problem.",
+          "highlight": "divergent",
+          "tip": "Use it for ideas, strategies, or results that differ from one another."
+        },
+        {
+          "setting": "social",
+          "where": "Family dinner · comparing holiday plans",
+          "sentence": "Our plans became divergent when one of us wanted mountains and the other wanted the coast.",
+          "highlight": "divergent",
+          "tip": "It works for paths or preferences that are moving in different directions."
+        },
+        {
+          "setting": "writing",
+          "where": "Research summary · comparing findings",
+          "sentence": "The two studies reached divergent conclusions despite examining similar data.",
+          "highlight": "divergent",
+          "tip": "A strong choice before conclusions, views, experiences, or results."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin divergere, meaning ‘to go apart’, built on vertere, ‘to turn’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1400s",
+            "text": "The Latin-derived word appears in English with the meaning ‘differing or apart’."
+          },
+          {
+            "when": "1600s–1700s",
+            "text": "Its mathematical use develops for lines or quantities moving in different directions."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for differences in thinking, development, outcomes, and direction."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "diverge",
+          "label": "verb"
+        },
+        {
+          "term": "divergence",
+          "label": "noun"
+        },
+        {
+          "term": "divergently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "different",
+        "diverse",
+        "dissimilar",
+        "diverging"
+      ],
+      "opposite": "convergent",
+      "pitfall": "Divergent means moving or developing differently; it does not simply mean unusual or unexpected."
+    },
+    {
+      "id": "dogmatic",
+      "kind": "word",
+      "term": "dogmatic",
+      "pos": "adjective",
+      "phonetic": "/dɔːɡˈmætɪk/",
+      "sayIt": "dog-MAT-ik",
+      "register": "Formal",
+      "meaning": "Completely certain that a belief is right and unwilling to consider evidence that challenges it.",
+      "nuance": "It is often critical: describing someone as dogmatic suggests they are rigid and overly forceful. It can also describe a strict approach to rules or principles.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · challenging a proposal",
+          "sentence": "Her dogmatic approach made it difficult to explore alternatives before choosing a supplier.",
+          "highlight": "dogmatic",
+          "tip": "Use this when someone treats one conclusion as unquestionable."
+        },
+        {
+          "setting": "social",
+          "where": "Family debate · differing opinions",
+          "sentence": "He became dogmatic about the best holiday and dismissed every other suggestion.",
+          "highlight": "dogmatic",
+          "tip": "It can sound harsh in casual conversation, so consider the relationship and tone."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · assessing a leadership style",
+          "sentence": "The report criticises the director’s dogmatic enforcement of outdated procedures.",
+          "highlight": "dogmatic",
+          "tip": "Pairs well with words such as attitude, enforcement, adherence and thinking."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek dogma, meaning an established belief, and dogmatikos, meaning connected with such beliefs. English later extended it to describe rigid certainty.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Dogma referred to a settled belief, opinion or teaching that people were expected to accept."
+          },
+          {
+            "when": "1500s",
+            "text": "Dogmatic enters English through Latin and French in religious and philosophical writing."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly describes someone who accepts only one view and resists discussion."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "dogmatism",
+          "label": "noun"
+        },
+        {
+          "term": "dogmatist",
+          "label": "noun (person)"
+        },
+        {
+          "term": "dogmatically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "rigid",
+        "inflexible",
+        "dogmatic",
+        "partisan",
+        "categorical"
+      ],
+      "opposite": "open-minded",
+      "pitfall": "It can describe committed reasoning as well as rigid intolerance, so make the context clear."
+    },
+    {
+      "id": "dubious",
+      "kind": "word",
+      "term": "dubious",
+      "pos": "adjective",
+      "phonetic": "/ˈdjuːbiəs/",
+      "sayIt": "DYOO-bee-uhs",
+      "register": "Common at work",
+      "meaning": "Uncertain or doubtful about something, especially because it seems strange, unclear or unreliable.",
+      "nuance": "It can suggest mild distrust without being openly confrontational. It may also mean doubtful about whether something will happen or succeed.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · reviewing a forecast",
+          "sentence": "I’m dubious about that sales forecast because the last two estimates were too optimistic.",
+          "highlight": "dubious",
+          "tip": "Use it to express careful doubt about a claim or prediction."
+        },
+        {
+          "setting": "social",
+          "where": "Friend’s invitation · suggesting an outing",
+          "sentence": "She was dubious about the restaurant choice, so they checked the reviews first.",
+          "highlight": "dubious",
+          "tip": "It sounds conversational and restrained rather than openly negative."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · noting an unclear result",
+          "sentence": "The findings remain dubious because the sample was small and the data came from one location.",
+          "highlight": "dubious",
+          "tip": "Pair it with about when directly stating what seems doubtful."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin dubius, meaning doubtful or uncertain, with roots in dubitare, to doubt.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Dubius means doubtful, uncertain or ambiguous."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with the sense of doubtful or questionable."
+          },
+          {
+            "when": "Today",
+            "text": "It describes uncertainty, scepticism or something that seems unreliable."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "doubt",
+          "label": "noun and verb"
+        },
+        {
+          "term": "doubtful",
+          "label": "adjective"
+        },
+        {
+          "term": "dubiously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "doubtful",
+        "sceptical",
+        "uncertain",
+        "questionable",
+        "suspicious"
+      ],
+      "opposite": "certain",
+      "pitfall": "Dubious does not always mean false; it usually means uncertain, doubtful or not yet convincing."
+    },
+    {
+      "id": "eclectic",
+      "kind": "word",
+      "term": "eclectic",
+      "pos": "adjective",
+      "phonetic": "/ɪˈklɛktɪk/",
+      "sayIt": "ee-KLEK-tik",
+      "register": "Common in writing and discussion",
+      "meaning": "Combining elements from a wide range of different sources, styles or traditions.",
+      "nuance": "It often suggests openness to variety and curiosity rather than preference for one narrow approach. It can also describe a collection deliberately made up of contrasting influences.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Design review · choosing a visual direction",
+          "sentence": "The team took an eclectic approach, mixing modern typography with colours inspired by vintage posters.",
+          "highlight": "eclectic",
+          "tip": "Use it to show that you are drawing ideas from several distinct places."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · discussing music",
+          "sentence": "Her playlist is wonderfully eclectic, moving from jazz to Nigerian pop and old film scores.",
+          "highlight": "eclectic",
+          "tip": "This is a natural, slightly admiring way to describe someone with varied tastes."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel article · describing a neighbourhood",
+          "sentence": "The neighbourhood has an eclectic character, with independent bookshops, family restaurants and small galleries side by side.",
+          "highlight": "eclectic",
+          "tip": "Especially useful when you want to emphasise diversity without sounding negative."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek eklektikos, meaning ‘choosing or selecting’, connected with eklegein, ‘to choose out’. English uses developed in the sense of selecting from varied sources.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Eklegtein means ‘to choose out’, and eklektikos refers to someone who selects."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in philosophical contexts, especially discussions about choosing ideas from different schools of thought."
+          },
+          {
+            "when": "Today",
+            "text": "It describes anything that combines varied styles, sources, influences or interests."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "eclecticism",
+          "label": "noun"
+        },
+        {
+          "term": "eclectically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "varied",
+        "diverse",
+        "eclectic",
+        "cosmopolitan",
+        "eclectic"
+      ],
+      "opposite": "narrow",
+      "pitfall": "Eclectic describes variety, not necessarily quality or originality; an eclectic choice can still be unoriginal."
+    },
+    {
+      "id": "elaborate",
+      "kind": "word",
+      "term": "elaborate",
+      "pos": "adjective",
+      "phonetic": "/ɪˈlæbərət/",
+      "sayIt": "ih-LAB-uh-rit",
+      "register": "Common at work",
+      "meaning": "Detailed and carefully developed, often involving many parts or steps.",
+      "nuance": "It can sound approving when it describes thorough preparation, but negative when it suggests needless complexity. As a verb, “elaborate on” something means to explain it in greater detail.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · presenting a proposal",
+          "sentence": "The client asked for an elaborate plan, so we broke each phase into clear deliverables.",
+          "highlight": "elaborate",
+          "tip": "Use it for something complex and carefully worked out."
+        },
+        {
+          "setting": "social",
+          "where": "Storytelling · describing an unusual evening",
+          "sentence": "Her account of the evening was so elaborate that nobody could believe a word of it.",
+          "highlight": "elaborate",
+          "tip": "It can suggest that an explanation is detailed, elaborate or even exaggerated."
+        },
+        {
+          "setting": "writing",
+          "where": "Report editing · tightening an introduction",
+          "sentence": "Keep the introduction focused; an elaborate explanation will only distract readers.",
+          "highlight": "elaborate",
+          "tip": "Use it to describe complex writing, but consider “detailed” or “lengthy” for a clearer tone."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin elaborare, meaning “to work out” or “untangle,” formed from ex-, meaning “out,” and labor, meaning “work” or “effort.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Elaborare meant “to work out” or “untangle,” referring to careful mental effort."
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered English with meanings connected with careful development and detail."
+          },
+          {
+            "when": "Today",
+            "text": "It describes something detailed and complex, and can also mean to explain further."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "elaborate",
+          "label": "verb (same spelling)"
+        },
+        {
+          "term": "elaboration",
+          "label": "noun"
+        },
+        {
+          "term": "elaborately",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "detailed",
+        "intricate",
+        "thorough",
+        "complex"
+      ],
+      "opposite": "simple",
+      "pitfall": "When you mean that someone should explain something further, say “elaborate on,” not “elaborate about.”"
+    },
+    {
+      "id": "elusive",
+      "kind": "word",
+      "term": "elusive",
+      "pos": "adjective",
+      "phonetic": "/ɪˈluːsɪv/",
+      "sayIt": "ih-LOO-siv",
+      "register": "Common at work",
+      "meaning": "Hard to find, catch, reach, or understand.",
+      "nuance": "It can describe a person, an object, or an idea that keeps slipping away. It often suggests the difficulty is persistent rather than accidental.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · investigating a bug",
+          "sentence": "The cause of the intermittent failure is still elusive, even after yesterday’s tests.",
+          "highlight": "elusive",
+          "tip": "Use it when a problem is difficult to pin down or explain."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans · waiting for a friend",
+          "sentence": "My friend was elusive all afternoon, so I gave up and went for a walk.",
+          "highlight": "elusive",
+          "tip": "It can sound playful or mildly critical when someone is hard to contact."
+        },
+        {
+          "setting": "writing",
+          "where": "Research memo · describing findings",
+          "sentence": "Despite several interviews, the reasons for the change remain elusive.",
+          "highlight": "elusive",
+          "tip": "Often used in formal writing to describe a fact, motive, or solution that cannot be identified."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin eludere, meaning ‘to evade or escape’, built from ex-, ‘out of’, and ludere, ‘to play’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Eludere means ‘to evade, escape, or deceive’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in the sense of escaping or avoiding someone or something."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used for things that are difficult to find, understand, or obtain."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "elusiveness",
+          "label": "noun"
+        },
+        {
+          "term": "elusively",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "evasive",
+        "hard to find",
+        "slippery",
+        "intangible"
+      ],
+      "opposite": "accessible",
+      "pitfall": "Use it for difficulty finding, reaching, or understanding something; for a person who avoids a direct question, ‘evasive’ is usually clearer."
+    },
+    {
+      "id": "epitome",
+      "kind": "word",
+      "term": "epitome",
+      "pos": "noun",
+      "phonetic": "/ɪˈpɪtəmi/",
+      "sayIt": "ih-PIT-uh-mee",
+      "register": "Formal",
+      "meaning": "A person or thing that perfectly represents a wider group, type or idea.",
+      "nuance": "Often used to highlight the clearest example of something, usually with approval but sometimes critically. It can also mean a concise summary of a larger subject.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing leadership",
+          "sentence": "Her calm under pressure made her the epitome of a capable team leader.",
+          "highlight": "epitome",
+          "tip": "Follow it with “of” to identify the type or quality being represented."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · describing someone",
+          "sentence": "My aunt is the epitome of hospitality: nobody leaves without leftovers.",
+          "highlight": "epitome",
+          "tip": "Use it for a person who strongly embodies a familiar quality."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · summarising a book",
+          "sentence": "The final chapter is the epitome of the novel: tense, revealing and beautifully controlled.",
+          "highlight": "epitome",
+          "tip": "It can praise the strongest part of something as much as it can describe a typical example."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek epitome, meaning a summary or condensation, ultimately connected with a word for cutting into pieces.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "The noun combines epi, ‘onto’, with temein, ‘to cut’, reflecting the idea of condensing a larger text."
+          },
+          {
+            "when": "Latin",
+            "text": "Epitoma referred to a condensed version of a longer work."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English, initially meaning a brief summary."
+          },
+          {
+            "when": "Today",
+            "text": "It most often means a person or thing that perfectly represents a type."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "epitomize",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "quintessence",
+        "archetype",
+        "embodiment",
+        "paradigm"
+      ],
+      "opposite": "outlier",
+      "pitfall": "Do not confuse it with epilogue or epitaph; an epitome represents or summarises something, while an epilogue concludes a work."
+    },
+    {
+      "id": "erudite",
+      "kind": "word",
+      "term": "erudite",
+      "pos": "adjective",
+      "phonetic": "/ˈɛrʊdaɪt/",
+      "sayIt": "eh-roo-DITE",
+      "register": "Formal",
+      "meaning": "Having or showing broad learning, especially about serious or unusual subjects.",
+      "nuance": "It is a complimentary word that suggests someone is not only well informed but also intellectually curious. It can sound formal, so use it when precise, educated language fits.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · introducing a specialist",
+          "sentence": "Our legal advisor is erudite and can explain the new regulation without making it sound complicated.",
+          "highlight": "erudite",
+          "tip": "Use it to praise deep knowledge while remaining professional."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · discussing history",
+          "sentence": "I knew the art historian was erudite, but I had not expected such a clear explanation of the period.",
+          "highlight": "erudite",
+          "tip": "It works in conversation when you want to emphasise someone’s learning."
+        },
+        {
+          "setting": "writing",
+          "where": "Recommendation letter · praising a colleague",
+          "sentence": "An erudite and thoughtful writer, Maya brought unusual depth to every research project.",
+          "highlight": "erudite",
+          "tip": "It pairs naturally with writers, scholars and speakers in formal recommendations."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin eruditus, meaning educated or instructed, originally from erudire, to instruct or teach.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "The Latin root erudire meant to instruct or teach, and eruditus described someone educated."
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered English in the sense of learned or academically instructed."
+          },
+          {
+            "when": "Today",
+            "text": "It is used as a formal compliment for people with impressive knowledge or education."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "erudition",
+          "label": "noun"
+        },
+        {
+          "term": "eruditely",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "learned",
+        "scholarly",
+        "knowledgeable",
+        "cultured"
+      ],
+      "opposite": "ignorant",
+      "pitfall": "Erudite usually suggests broad or impressive learning; learned can be less formal, while scholarly often focuses on academic work."
+    },
+    {
+      "id": "eschew",
+      "kind": "word",
+      "term": "eschew",
+      "pos": "verb",
+      "phonetic": "/ɪˈtʃuː/",
+      "sayIt": "es-CHOO",
+      "register": "Formal",
+      "meaning": "To deliberately avoid using, doing or being involved with something.",
+      "nuance": "It suggests a conscious choice rather than a simple lack of interest. The word often sounds literary, professional or slightly old-fashioned.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · choosing a tool",
+          "sentence": "We eschewed the standard contract because it was too restrictive for this partnership.",
+          "highlight": "eschewed",
+          "tip": "Use it for a deliberate choice to avoid a particular option."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · dietary choices",
+          "sentence": "My friend eschews formal dining and prefers something relaxed.",
+          "highlight": "eschews",
+          "tip": "It can describe a strong personal habit or preference."
+        },
+        {
+          "setting": "writing",
+          "where": "Essay · discussing modern work",
+          "sentence": "Some professionals eschew the traditional office in favour of flexible, remote roles.",
+          "highlight": "eschew",
+          "tip": "It fits formal writing when you want to emphasize a principled rejection."
+        }
+      ],
+      "origin": {
+        "summary": "From Old English words meaning 'to avoid' or 'to turn away from'; the form later developed into Middle English eschewen.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The root appears in Old English with the sense of avoiding or rejecting."
+          },
+          {
+            "when": "Middle English",
+            "text": "It appears as eschewen, meaning to avoid or shun."
+          },
+          {
+            "when": "1500s onward",
+            "text": "The modern spelling becomes established in English."
+          }
+        ]
+      },
+      "similar": [
+        "avoid",
+        "shun",
+        "abstain from",
+        "forsake"
+      ],
+      "opposite": "embrace",
+      "pitfall": "It takes an object directly: 'eschew waste', not 'eschew from waste'. It is also usually written with one s and pronounced like 'es-CHOO'."
+    },
+    {
+      "id": "evaluate",
+      "kind": "word",
+      "term": "evaluate",
+      "pos": "verb",
+      "phonetic": "/ɪˈvæljueɪt/",
+      "sayIt": "ih-VAL-yoo-AYT",
+      "register": "Common at work",
+      "meaning": "To judge the quality, value or effectiveness of something by considering evidence.",
+      "nuance": "Use it when the judgment is based on a careful process rather than an immediate impression. It can also mean to assess someone’s performance or the result of an action.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team review · checking a new process",
+          "sentence": "We’ll evaluate the new process after three months and decide whether it saves time.",
+          "highlight": "evaluate",
+          "tip": "Common when a decision needs evidence, measurable results or a formal review."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · comparing apartments",
+          "sentence": "We evaluated both apartments before choosing the one near the park.",
+          "highlight": "evaluated",
+          "tip": "Often describes comparing options against practical criteria such as cost, location or quality."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · assessing progress",
+          "sentence": "The report evaluates the program’s impact over the past year.",
+          "highlight": "evaluates",
+          "tip": "In formal writing, it often signals an objective analysis supported by evidence."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin evaluare, meaning ‘to appraise or assess’, built on e- ‘out of’ and value, ‘worth’. It entered English in the 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "evaluare develops from evaluare, ‘to appraise’, using the root for value or worth."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in the sense of assessing the value or quality of something."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for judgments based on examination, evidence, performance or results."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "evaluation",
+          "label": "noun"
+        },
+        {
+          "term": "evaluative",
+          "label": "adjective"
+        },
+        {
+          "term": "evaluator",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "assess",
+        "appraise",
+        "judge",
+        "analyze"
+      ],
+      "opposite": "ignore",
+      "pitfall": "Evaluate usually suggests a more careful or systematic judgment than judge, which can sound more personal or final."
+    },
+    {
+      "id": "extraneous",
+      "kind": "word",
+      "term": "extraneous",
+      "pos": "adjective",
+      "phonetic": "/ɪkˈstræŋjəs/",
+      "sayIt": "ek-STRAY-nee-us",
+      "register": "Formal",
+      "meaning": "Not needed or relevant to the matter being considered.",
+      "nuance": "It often suggests that something adds clutter or falls outside the main point. It can also mean physically outside or beyond something, though that use is less common.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · trimming a proposal",
+          "sentence": "We removed the extraneous market data because it didn’t support our recommendation.",
+          "highlight": "extraneous",
+          "tip": "Use it for information, expenses, details or steps that have no clear purpose."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · changing the subject",
+          "sentence": "Sorry, I don’t want to bring up anything extraneous, but how is your new job going?",
+          "highlight": "extraneous",
+          "tip": "It can politely distance yourself from a topic without directly criticizing it."
+        },
+        {
+          "setting": "writing",
+          "where": "Report edit · tightening an argument",
+          "sentence": "The final draft is clearer after the editor removed the extraneous examples.",
+          "highlight": "extraneous",
+          "tip": "It sounds more formal and evaluative than simply saying ‘unnecessary’."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin extraneus, meaning ‘foreign’ or ‘external’, from exter, meaning ‘outside’. It originally referred to things coming from outside, before developing its modern sense of unnecessary or irrelevant.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Extraneus develops from exter, ‘outside’, meaning ‘foreign’ or ‘external’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with senses connected with things outside the proper sphere or boundaries."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "It takes on the modern sense of irrelevant, unnecessary or added without purpose."
+          }
+        ]
+      },
+      "similar": [
+        "irrelevant",
+        "unnecessary",
+        "superfluous",
+        "incidental"
+      ],
+      "opposite": "relevant",
+      "pitfall": "Don’t assume it always means accidentally included; it often carries a stronger judgement that something is needless or outside the main point."
+    },
+    {
+      "id": "extrinsic",
+      "kind": "word",
+      "term": "extrinsic",
+      "pos": "adjective",
+      "phonetic": "/ɪkˈstrɪnsɪk/",
+      "sayIt": "ik-STRIN-sik",
+      "register": "Common at work and in study",
+      "meaning": "Coming from outside something, especially from rewards, pressures or influences that are separate from the activity itself.",
+      "nuance": "It often contrasts with intrinsic motivation, which comes from enjoying the activity for its own sake. It can sound slightly negative when describing motives, but neutral when identifying outside factors.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · motivation and rewards",
+          "sentence": "Bonuses are extrinsic rewards, but they may not keep people interested in the work itself.",
+          "highlight": "extrinsic",
+          "tip": "Common in conversations about motivation, incentives and employee engagement."
+        },
+        {
+          "setting": "social",
+          "where": "Fitness class · explaining a new habit",
+          "sentence": "My motivation became less extrinsic once I started enjoying the exercise itself.",
+          "highlight": "extrinsic",
+          "tip": "Use it when comparing outside rewards with genuine personal interest."
+        },
+        {
+          "setting": "writing",
+          "where": "Essay about advertising · persuasive techniques",
+          "sentence": "The advert relies on extrinsic appeals, using prizes and status to persuade people to buy.",
+          "highlight": "extrinsic",
+          "tip": "Useful for describing influences that come from outside an activity or idea."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin extrinsecus, meaning ‘from outside’, entered English in the 1600s with senses connected to external position or influences.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Extrinsecus means ‘from outside’ or ‘externally’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English, initially referring to something outside or external."
+          },
+          {
+            "when": "Today",
+            "text": "It is often used to describe motivation, rewards and influences that come from outside an activity."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "extrinsically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "external",
+        "outside",
+        "extrinsic motivation",
+        "external incentive"
+      ],
+      "opposite": "intrinsic",
+      "pitfall": "Don’t confuse extrinsic with extrinsic-looking: an extrinsic factor comes from outside, while extrinsic-looking simply appears that way."
+    },
+    {
+      "id": "facet",
+      "kind": "word",
+      "term": "facet",
+      "pos": "noun",
+      "phonetic": "/ˈfæsɪt/",
+      "sayIt": "FA-set",
+      "register": "Common at work",
+      "meaning": "A particular feature, aspect, or part of a person, object, or idea; in geometry, a flat surface of a solid.",
+      "nuance": "In general use, it means one part of a wider subject. In technical contexts, especially about gems, metal, or shapes, it refers to a flat face.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · assessing a proposal",
+          "sentence": "We need to consider every facet of the proposal before making a final decision.",
+          "highlight": "facet",
+          "tip": "Use it for a distinct feature of a wider issue or plan."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · discussing a shared experience",
+          "sentence": "Moving abroad added a completely new facet to their relationship.",
+          "highlight": "facet",
+          "tip": "It can introduce a new aspect of a person, event, or situation."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · analysing customer feedback",
+          "sentence": "The report examines several facets of customer satisfaction, including speed, price, and support.",
+          "highlight": "facets",
+          "tip": "Plural forms such as “facets of” sound natural when listing related features."
+        }
+      ],
+      "origin": {
+        "summary": "From the Latin facies, meaning “face,” “form,” or “appearance.” The geometric sense developed from the idea of one face of a solid.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "Facies could mean an external form, face, or overall appearance."
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered English with meanings connected to appearance and form."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used for one feature of a wider subject and technically for a flat surface."
+          }
+        ]
+      },
+      "similar": [
+        "aspect",
+        "feature",
+        "dimension",
+        "side"
+      ],
+      "pitfall": "For a feature of an idea or issue, use “facet”; reserve the physical flat-face sense mainly for shapes, gems, or manufactured objects."
+    },
+    {
+      "id": "facile",
+      "kind": "word",
+      "term": "facile",
+      "pos": "adjective",
+      "phonetic": "/ˈfæsiːl/",
+      "sayIt": "FAY-seel",
+      "register": "Common at work",
+      "meaning": "Easy to do or understand, especially without needing much effort.",
+      "nuance": "It can sound elegant in formal writing, but in criticism it may suggest that something is too easy or lacks depth.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · simplifying a task",
+          "sentence": "The reporting process was facile once we assigned one person to each data source.",
+          "highlight": "facile",
+          "tip": "Use it to describe a task or process that turns out to be surprisingly easy."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · explaining a quick solution",
+          "sentence": "It was facile to solve once my neighbour showed me the correct switch.",
+          "highlight": "facile",
+          "tip": "A slightly formal alternative to easy, especially when describing a process."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · describing progress",
+          "sentence": "Her transition to the new team was facile, and she was contributing within weeks.",
+          "highlight": "facile",
+          "tip": "It sounds polished in reports, but consider whether easy would be clearer and more conversational."
+        }
+      ],
+      "origin": {
+        "summary": "From French facile, meaning ‘easy’ or ‘skilful’, which came from Latin facilis, meaning ‘easy to do’ or ‘capable’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Facilis develops from a root associated with ease and the ability to do something."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English in senses connected with ease, skill and quickness."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means easy to perform, learn or understand."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "facility",
+          "label": "noun"
+        },
+        {
+          "term": "facilitate",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "easy",
+        "effortless",
+        "simple",
+        "adept"
+      ],
+      "opposite": "difficult",
+      "pitfall": "In criticism, facile can imply that something is overly simple or shallow, so check the tone."
+    },
+    {
+      "id": "fallacious",
+      "kind": "word",
+      "term": "fallacious",
+      "pos": "adjective",
+      "phonetic": "/fəˈleɪʃəs/",
+      "sayIt": "fuh-LAY-shuhs",
+      "register": "Formal",
+      "meaning": "Based on a false belief, faulty reasoning, or an incorrect assumption.",
+      "nuance": "It is stronger than merely questionable: it says the idea is wrong because its reasoning or evidence fails. It often appears in formal criticism and debate.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Strategy review · testing a proposal",
+          "sentence": "The conclusion rests on a fallacious assumption that every customer wants a faster version.",
+          "highlight": "fallacious",
+          "tip": "Use it to identify faulty reasoning in a business proposal."
+        },
+        {
+          "setting": "social",
+          "where": "Group discussion · challenging a stereotype",
+          "sentence": "His argument is fallacious because one person’s experience cannot represent everyone.",
+          "highlight": "fallacious",
+          "tip": "It can sound intellectually forceful, so explain the specific error."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal report · evaluating evidence",
+          "sentence": "The article dismisses a fallacious comparison between short-term gains and long-term success.",
+          "highlight": "fallacious",
+          "tip": "It works well before a noun such as assumption, reasoning, argument or inference."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin fallax, meaning deceptive or deceptive-sounding, and fallacia, a deceitful argument. It entered English in the 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Fallax means deceptive or deceptive-sounding; fallacia means a deceitful argument."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with meanings connected with deception and faulty arguments."
+          },
+          {
+            "when": "Today",
+            "text": "It chiefly describes reasoning or assumptions that are false or misleading."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "fallacy",
+          "label": "noun"
+        },
+        {
+          "term": "fallaciously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "spurious",
+        "misleading",
+        "unfounded",
+        "erroneous"
+      ],
+      "opposite": "sound",
+      "pitfall": "Use it for faulty reasoning or assumptions, not simply for something you dislike or consider false."
+    }
+  ]
+}

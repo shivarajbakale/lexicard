@@ -1,0 +1,700 @@
+{
+  "id": "words-change-time-3",
+  "kind": "word",
+  "name": "Change & time · 3",
+  "blurb": "10 words about change & time",
+  "cards": [
+    {
+      "id": "sporadic",
+      "kind": "word",
+      "term": "sporadic",
+      "pos": "adjective",
+      "phonetic": "/spəˈrædɪk/",
+      "sayIt": "spuh-RAD-ik",
+      "register": "Everyday",
+      "meaning": "Happening occasionally and at irregular intervals rather than regularly.",
+      "nuance": "It suggests that something happens from time to time, but with no predictable pattern. It is often used for problems, outbreaks, efforts and events.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing project delays",
+          "sentence": "We’ve had sporadic delays from the supplier, but the deadline is still realistic.",
+          "highlight": "sporadic",
+          "tip": "Use it when interruptions happen occasionally rather than continuously."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans · arranging to meet friends",
+          "sentence": "There have been sporadic rain showers all morning, so let’s keep the walk short.",
+          "highlight": "sporadic",
+          "tip": "It fits weather, symptoms and other things that appear on and off."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · describing team progress",
+          "sentence": "The team made sporadic progress in June, followed by a strong push in July.",
+          "highlight": "sporadic",
+          "tip": "Use it to describe an uneven pattern clearly without sounding dramatic."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek sporadikos, meaning scattered or dispersed, which came from sporos, a scattering or sowing. English later used it for things occurring separately or at irregular intervals.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "Sporadikos means scattered, dispersed or occurring in separate instances."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English through Latin and describes scattered diseases or isolated occurrences."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly means happening occasionally and without a regular pattern."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "sporadically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "occasional",
+        "intermittent",
+        "irregular",
+        "scattered"
+      ],
+      "opposite": "regular",
+      "pitfall": "Don’t use it for something that happens regularly but only sometimes; sporadic means there is no dependable pattern."
+    },
+    {
+      "id": "stagnant",
+      "kind": "word",
+      "term": "stagnant",
+      "pos": "adjective",
+      "phonetic": "/ˈstæɡ.nənt/",
+      "sayIt": "STAG-nant",
+      "register": "Common at work and in formal writing",
+      "meaning": "Not moving, changing or developing, especially when continued activity is expected.",
+      "nuance": "For water, it means still and not flowing. For careers, pay or projects, it suggests a lack of growth that may need attention.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team review · assessing progress",
+          "sentence": "Sales have been stagnant for six months, so we need to test a different approach.",
+          "highlight": "stagnant",
+          "tip": "Use it to describe growth, activity or performance that has stopped improving."
+        },
+        {
+          "setting": "social",
+          "where": "Garden visit · looking at a pond",
+          "sentence": "The pond is stagnant, and the water has a faint smell because it is not circulating.",
+          "highlight": "stagnant",
+          "tip": "The literal meaning describes water that is still rather than flowing."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · discussing household costs",
+          "sentence": "Wages remained stagnant while rent continued to rise, squeezing household budgets.",
+          "highlight": "stagnant",
+          "tip": "Common when describing wages, prices, populations or other measures that remain unchanged."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin stagnare, meaning ‘to be still’, originally referring to standing water. English later extended the word to describe anything lacking movement or development.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Stagnare means ‘to be still’, especially like water in a pool."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English and is first used mainly for still water."
+          },
+          {
+            "when": "Later",
+            "text": "It develops figurative meanings for careers, pay, growth and other things that remain unchanged."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "stagnate",
+          "label": "verb"
+        },
+        {
+          "term": "stagnation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "static",
+        "unchanging",
+        "inactive",
+        "stale"
+      ],
+      "opposite": "growing",
+      "pitfall": "Stagnant suggests a lack of movement or development; it is not simply a synonym for stationary, which may be perfectly normal."
+    },
+    {
+      "id": "stunted",
+      "kind": "word",
+      "term": "stunted",
+      "pos": "adjective",
+      "phonetic": "/ˈstʌntɪd/",
+      "sayIt": "STUN-tid",
+      "register": "Common at work",
+      "meaning": "Prevented from developing or growing fully, often in a way that limits opportunities or progress.",
+      "nuance": "It can describe physical growth, but it is also commonly used for careers, projects and economies. It usually suggests that something has been held back rather than simply being small.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · career development",
+          "sentence": "Her stunted career began to recover once she gained more autonomy and challenging assignments.",
+          "highlight": "stunted",
+          "tip": "Use it to describe progress that has been hindered, especially in a career or organisation."
+        },
+        {
+          "setting": "social",
+          "where": "Family dinner · discussing a childhood",
+          "sentence": "He jokes that his stunted childhood left him with strong practical skills and no interest in homework.",
+          "highlight": "stunted",
+          "tip": "This use adds a slightly humorous or self-aware tone when describing an unusual upbringing."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · economic analysis",
+          "sentence": "Years of underinvestment left the region with a stunted economy and a shortage of skilled workers.",
+          "highlight": "stunted",
+          "tip": "It works well before growth-related nouns such as development, growth or progress."
+        }
+      ],
+      "origin": {
+        "summary": "The word developed from the verb 'stunt', meaning to stop or check growth. The '-ed' form came to mean growth that has been prevented or limited.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "The verb 'stunt' appears in the sense of checking or hindering growth."
+          },
+          {
+            "when": "1700s",
+            "text": "The adjective 'stunted' develops for growth or development that has been stopped or reduced."
+          },
+          {
+            "when": "Today",
+            "text": "It is used literally for limited physical growth and figuratively for restricted development."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "stunt",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "underdeveloped",
+        "restricted",
+        "hindered",
+        "impeded"
+      ],
+      "opposite": "developed",
+      "pitfall": "Don't use it for something that is merely small; it specifically suggests that normal growth or development has been prevented or limited."
+    },
+    {
+      "id": "sudden",
+      "kind": "word",
+      "term": "sudden",
+      "pos": "adjective",
+      "phonetic": "/ˈsʌdən/",
+      "sayIt": "SUD-en",
+      "register": "Everyday",
+      "meaning": "Happening quickly or unexpectedly, with little warning.",
+      "nuance": "It describes an event, change or decision that arrives without much preparation. It can also mean done quickly, but usually stresses the lack of warning.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · changing priorities",
+          "sentence": "The sudden change in the deadline left us unsure how to finish on time.",
+          "highlight": "sudden",
+          "tip": "Use it before a change or event to show that it happened without warning."
+        },
+        {
+          "setting": "social",
+          "where": "At a party · seeing an old friend",
+          "sentence": "Her sudden appearance at the party surprised everyone.",
+          "highlight": "sudden",
+          "tip": "Natural for describing something that happens unexpectedly in a familiar situation."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · describing an event",
+          "sentence": "The sudden collapse of the bridge prompted an immediate investigation.",
+          "highlight": "sudden",
+          "tip": "Common in reporting when an event takes place faster than expected."
+        }
+      ],
+      "origin": {
+        "summary": "From the Latin word subitus, meaning ‘sudden’ or ‘unexpected’. The English form developed through Old French.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root subitus meant ‘sudden’ or ‘coming unexpectedly’."
+          },
+          {
+            "when": "Old French",
+            "text": "The form сотeин, later written as sudden, entered English."
+          },
+          {
+            "when": "Middle English",
+            "text": "Sudden came to mean both ‘happening unexpectedly’ and ‘done without warning.’"
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "suddenly",
+          "label": "adverb"
+        },
+        {
+          "term": "suddenness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "abrupt",
+        "unexpected",
+        "instant",
+        "swift"
+      ],
+      "opposite": "gradual",
+      "pitfall": "Use an adverb when you want to describe an action happening quickly: ‘She suddenly left.’"
+    },
+    {
+      "id": "terminate",
+      "kind": "word",
+      "term": "terminate",
+      "pos": "verb",
+      "phonetic": "/ˈtɜːrmɪneɪt/",
+      "sayIt": "TUR-muh-nayt",
+      "register": "Common at work",
+      "meaning": "To bring something to an end or stop it from continuing.",
+      "nuance": "Formal and decisive, especially when ending a contract, arrangement or period of activity. In some workplaces, it can sound harsh when used about employment.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · ending a trial",
+          "sentence": "We’ll terminate the trial next Friday because the early results are strong.",
+          "highlight": "terminate",
+          "tip": "Use it for a planned or officially agreed end."
+        },
+        {
+          "setting": "social",
+          "where": "Event planning · closing a discussion",
+          "sentence": "Let’s terminate the debate and agree on the best option for everyone.",
+          "highlight": "terminate",
+          "tip": "It can sound unusually firm or formal in casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Business email · ending an agreement",
+          "sentence": "Either party may terminate the agreement by giving 30 days’ written notice.",
+          "highlight": "terminate",
+          "tip": "Common in contracts when a formal right to end an arrangement is involved."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin terminare, ‘to end’ or ‘set a boundary’, based on terminus, ‘boundary’ or ‘limit’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Terminare means ‘to end’ or ‘set a boundary’, from terminus, ‘boundary’."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English in legal, scholarly and official contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It is used formally for ending contracts, activities, discussions and other arrangements."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "termination",
+          "label": "noun"
+        },
+        {
+          "term": "terminator",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "end",
+        "conclude",
+        "cease",
+        "discontinue"
+      ],
+      "opposite": "commence",
+      "pitfall": "When referring to dismissing an employee, use the appropriate legal or workplace term rather than simply saying ‘terminate’."
+    },
+    {
+      "id": "transient",
+      "kind": "word",
+      "term": "transient",
+      "pos": "adjective",
+      "phonetic": "/ˈtrænziənt/",
+      "sayIt": "TRAN-see-uhnt",
+      "register": "Common at work",
+      "meaning": "Lasting only for a short time or existing briefly before disappearing.",
+      "nuance": "It describes something temporary without suggesting that it is unimportant. It often suits problems, feelings or changes that pass quickly.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · reviewing a system issue",
+          "sentence": "The transient network errors disappeared after we restarted the server.",
+          "highlight": "transient",
+          "tip": "Use it for a brief problem that clears up without becoming permanent."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with a friend · describing a mood",
+          "sentence": "Her anxiety was transient, fading as soon as she began talking.",
+          "highlight": "transient",
+          "tip": "It can describe a feeling that is real but does not last."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining a delay",
+          "sentence": "We experienced a transient delay, but the release is now back on schedule.",
+          "highlight": "transient",
+          "tip": "It sounds measured and technical in reports, especially for temporary faults."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin transire, meaning ‘to pass across’ or ‘to pass away’, with transiens meaning ‘passing’ or ‘temporary’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The word transiens meant ‘passing’ or ‘temporary’, based on transire, ‘to pass’."
+          },
+          {
+            "when": "1500s",
+            "text": "It entered English with meanings connected with passing across and being temporary."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes something that lasts briefly or soon disappears."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "transience",
+          "label": "noun"
+        },
+        {
+          "term": "transiently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "temporary",
+        "fleeting",
+        "brief",
+        "ephemeral"
+      ],
+      "opposite": "permanent",
+      "pitfall": "Don't confuse it with ‘transitional’, which describes a stage in a longer process rather than something that simply passes quickly."
+    },
+    {
+      "id": "truncated",
+      "kind": "word",
+      "term": "truncated",
+      "pos": "adjective",
+      "phonetic": "/trʌŋˈkeɪtɪd/",
+      "sayIt": "trun-KAY-ted",
+      "register": "Formal",
+      "meaning": "Cut short or left incomplete, often in a way that removes important content.",
+      "nuance": "It can describe something physically cut, or a message, story, file or period of time that ends too soon. It often suggests an accidental or deliberately selective loss.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · reporting a data issue",
+          "sentence": "The report was truncated, so we could only see the first part of the results.",
+          "highlight": "truncated",
+          "tip": "Useful for describing incomplete data, files or messages in technical and workplace contexts."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · telling a complicated story",
+          "sentence": "Her explanation was truncated when the phone rang, but she called back later.",
+          "highlight": "truncated",
+          "tip": "This sounds more technical than simply cut off and can add a slightly formal tone."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · clarifying a document",
+          "sentence": "The final version is truncated, and the supporting details are missing from the file.",
+          "highlight": "truncated",
+          "tip": "Use it when you want to say that something stops before reaching its intended full length."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin truncatus, meaning ‘cut off’, which comes from truncare, ‘to cut or shorten’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The word is based on truncare, meaning ‘to cut off’ or ‘shorten’."
+          },
+          {
+            "when": "1500s",
+            "text": "Truncated enters English in the sense of cut short."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for physical objects, messages, records, files and time periods that end incomplete."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "truncate",
+          "label": "verb"
+        },
+        {
+          "term": "truncation",
+          "label": "noun"
+        },
+        {
+          "term": "truncating",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "abridged",
+        "curtailed",
+        "cut short",
+        "incomplete"
+      ],
+      "opposite": "complete",
+      "pitfall": "Truncated means cut short or made incomplete; it does not simply mean shortened in a normal, harmless way."
+    },
+    {
+      "id": "turbulent",
+      "kind": "word",
+      "term": "turbulent",
+      "pos": "adjective",
+      "phonetic": "/ˈtɜːrbjələnt/",
+      "sayIt": "TUR-byuh-lunt",
+      "register": "Common at work",
+      "meaning": "Characterized by sudden changes, disorder, or instability.",
+      "nuance": "It can describe a dramatic period, an unsettled situation, or strong and constantly changing emotions. It is often slightly negative but not necessarily harsh.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · managing changing priorities",
+          "sentence": "The project had a turbulent month after three deadlines were moved and the main client changed direction.",
+          "highlight": "turbulent",
+          "tip": "Use it for a period marked by disruption, uncertainty, or frequent change."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · describing a relationship",
+          "sentence": "Their first year together was turbulent, but they learned how to communicate more openly.",
+          "highlight": "turbulent",
+          "tip": "It fits personal events or relationships that went through repeated upheaval."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining delays",
+          "sentence": "The turbulent launch exposed weaknesses in our approval process and staffing plan.",
+          "highlight": "turbulent",
+          "tip": "It gives a formal, vivid description of a process disrupted by rapid changes."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin turbulentus, meaning ‘agitated’ or ‘disordered’, related to turba, ‘a crowd’, and turbare, ‘to disturb’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Developed from roots referring to a disorderly crowd and disturbance."
+          },
+          {
+            "when": "1500s",
+            "text": "Entered English in senses connected with agitation, disorder, and upheaval."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly describes unstable situations, difficult periods, and unsettled feelings."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "turbulence",
+          "label": "noun"
+        },
+        {
+          "term": "turbulently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "stormy",
+        "chaotic",
+        "unsettling",
+        "volatile",
+        "unstable"
+      ],
+      "opposite": "stable",
+      "pitfall": "Don’t confuse it with turbid, which means cloudy or unclear, often describing water or light."
+    },
+    {
+      "id": "vestige",
+      "kind": "word",
+      "term": "vestige",
+      "pos": "noun",
+      "phonetic": "/ˈves.tɪdʒ/",
+      "sayIt": "VES-tij",
+      "register": "Formal",
+      "meaning": "A trace of something that once existed or was more common.",
+      "nuance": "It often suggests what remains after a person, place, or practice has largely disappeared. The tone is formal and slightly literary.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Systems audit · reviewing old software",
+          "sentence": "The extra login screen is a vestige of a security policy we no longer use.",
+          "highlight": "vestige",
+          "tip": "Use it for a feature or practice that remains only as a trace of an earlier system."
+        },
+        {
+          "setting": "social",
+          "where": "Old neighbourhood · passing a railway station",
+          "sentence": "The faded sign outside the station is a vestige of the neighbourhood’s rail era.",
+          "highlight": "vestige",
+          "tip": "It works well for a visible reminder of something that has mostly disappeared."
+        },
+        {
+          "setting": "writing",
+          "where": "Historical novel · describing an old house",
+          "sentence": "The worn staircase remains a vestige of the house’s original grandeur.",
+          "highlight": "vestige",
+          "tip": "Use it in descriptive or historical writing to introduce a surviving trace of the past."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through French from Latin vestigium, meaning “a footprint, track, or trace.” The deeper origin of the Latin word is uncertain.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Roman Latin",
+            "text": "Vestigium meant a footprint, track, or other visible sign."
+          },
+          {
+            "when": "1500s",
+            "text": "The word entered English through French vestige, referring to a trace or sign."
+          },
+          {
+            "when": "Today",
+            "text": "It can describe a physical remnant or an abstract trace of something that has disappeared."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "vestigial",
+          "label": "adjective"
+        },
+        {
+          "term": "vestigially",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "remnant",
+        "trace",
+        "leftover",
+        "residue"
+      ],
+      "pitfall": "Don’t confuse vestigial with essential: vestigial means remaining as a trace, while essential means necessary and important."
+    },
+    {
+      "id": "vicissitudes",
+      "kind": "word",
+      "term": "vicissitudes",
+      "pos": "noun",
+      "phonetic": "/vɪˈsɪsɪtjuːdz/",
+      "sayIt": "vi-SIS-i-toodz",
+      "register": "Formal",
+      "meaning": "The changes in circumstances, luck, or conditions that happen over time.",
+      "nuance": "A formal, slightly literary word for the ups and downs of a situation. It often suggests that conditions keep changing, sometimes unpredictably.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · unexpected setbacks",
+          "sentence": "Despite the vicissitudes of the project, the team stayed focused on its main goal.",
+          "highlight": "vicissitudes",
+          "tip": "Use it when describing changing circumstances that affect progress."
+        },
+        {
+          "setting": "social",
+          "where": "Reunion · reflecting on life",
+          "sentence": "Through all the vicissitudes of the past decade, we remained close friends.",
+          "highlight": "vicissitudes",
+          "tip": "It adds a thoughtful, formal tone to a reflection on changing times."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · business performance",
+          "sentence": "The company continued to grow despite the vicissitudes of the market.",
+          "highlight": "vicissitudes",
+          "tip": "Often appears in formal writing about changes in markets, careers, or personal circumstances."
+        }
+      ],
+      "origin": {
+        "summary": "From the Latin vicissitudo, meaning a change or turn, which developed from vicis, meaning turn or change.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Vicissitudo referred to a change, turn, or alternation."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word entered English and was used for changes of fortune or circumstances."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means the ups and downs encountered over time."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "vicissitude",
+          "label": "noun (singular)"
+        }
+      ],
+      "similar": [
+        "ups and downs",
+        "fluctuations",
+        "changes",
+        "turns of fortune"
+      ],
+      "opposite": "stability",
+      "pitfall": "This is normally plural. For one changing event or circumstance, use the singular vicissitude."
+    }
+  ]
+}

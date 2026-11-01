@@ -1,0 +1,1315 @@
+{
+  "id": "words-truth-deception-3",
+  "kind": "word",
+  "name": "Truth & deception · 3",
+  "blurb": "19 words about truth & deception",
+  "cards": [
+    {
+      "id": "prevaricate",
+      "kind": "word",
+      "term": "prevaricate",
+      "pos": "verb",
+      "phonetic": "/prɪˈværɪkeɪt/",
+      "sayIt": "pri-VAIR-ih-kayt",
+      "register": "Formal",
+      "meaning": "To avoid giving a direct or truthful answer, especially by using vague or misleading statements.",
+      "nuance": "It suggests deliberate evasion rather than simply lacking an answer. The word often implies that someone is trying to hide the truth.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · clarifying a delay",
+          "sentence": "The director began to prevaricate when asked why the report had not been submitted.",
+          "highlight": "prevaricate",
+          "tip": "Use it when describing a formal or careful attempt to avoid a direct answer."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · explaining plans",
+          "sentence": "He prevaricated about the reason for cancelling, giving us one excuse after another.",
+          "highlight": "prevaricated",
+          "tip": "It sounds more accusatory than “be vague” and suggests deception."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · questioning an unclear account",
+          "sentence": "Rather than prevaricate, please explain what happened and when you learned of the problem.",
+          "highlight": "prevaricate",
+          "tip": "Useful in serious writing about evasive answers, negotiations or official statements."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin praevaricari, meaning to stand apart or straddle, and later to evade by crooked arguments. English initially used it for legal evasion before adopting its broader sense of speaking evasively.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Praevaricari referred to standing apart or taking an indirect course."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "Entered English in legal contexts, describing conduct intended to evade a question or obstacle."
+          },
+          {
+            "when": "Today",
+            "text": "Means to answer or speak in a vague, misleading way, usually on purpose."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "prevarication",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "equivocate",
+        "evade",
+        "hedge",
+        "obfuscate"
+      ],
+      "opposite": "be candid",
+      "pitfall": "It normally implies deliberate avoidance, so it may be too strong for someone who is merely confused or needs more time to answer."
+    },
+    {
+      "id": "prevarication",
+      "kind": "word",
+      "term": "prevarication",
+      "pos": "noun",
+      "phonetic": "/prɪˌværɪˈkeɪʃən/",
+      "sayIt": "pri-ver-i-KAY-shun",
+      "register": "Formal",
+      "meaning": "The act of avoiding the truth by giving vague, misleading, or deliberately evasive answers.",
+      "nuance": "It suggests deliberate deception rather than a simple mistake. The word is especially useful for describing a pattern of evasive language.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing missed targets",
+          "sentence": "His prevarication about the missed deadline made the review difficult to trust.",
+          "highlight": "prevarication",
+          "tip": "Use it when someone avoids a direct question or shifts responsibility."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · explaining a delay",
+          "sentence": "Her prevarication about why she was late quickly became annoying.",
+          "highlight": "prevarication",
+          "tip": "It can describe evasive talk in casual conversation, though it sounds formal or disapproving."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal report · describing a spokesperson’s answers",
+          "sentence": "The report criticized the spokesperson’s prevarication and lack of clear information.",
+          "highlight": "prevarication",
+          "tip": "Stronger and more formal than ‘evasion’ or ‘avoiding the question.’"
+        }
+      ],
+      "origin": {
+        "summary": "From Latin praevaricari, meaning ‘to straddle’ or ‘wander,’ originally referring to taking an indirect course.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Praevaricari meant ‘to straddle’ or ‘wander,’ and could describe speaking evasively."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "Enters English in the sense of making evasive or misleading statements."
+          },
+          {
+            "when": "Today",
+            "text": "Mainly means deliberate avoidance of the truth or straightforward answers."
+          }
+        ]
+      },
+      "similar": [
+        "evasion",
+        "equivocation",
+        "misdirection",
+        "dodging"
+      ],
+      "opposite": "candour",
+      "pitfall": "It does not mean an ordinary mistake or forgetfulness; it implies an intentional attempt to avoid telling the truth."
+    },
+    {
+      "id": "recant",
+      "kind": "word",
+      "term": "recant",
+      "pos": "verb",
+      "phonetic": "/rɪˈkænt/",
+      "sayIt": "reh-KANT",
+      "register": "Formal",
+      "meaning": "To withdraw or formally reject a belief, statement, or claim that you previously held or made.",
+      "nuance": "Often used when someone publicly changes their position, especially after criticism or legal pressure. It can sound severe because it suggests a clear reversal, not merely a minor adjustment.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Internal investigation · disputed report",
+          "sentence": "The executive recanted her earlier claim that the warning had been sent.",
+          "highlight": "recanted",
+          "tip": "Use it when someone withdraws a previous statement, particularly under scrutiny."
+        },
+        {
+          "setting": "social",
+          "where": "Family argument · changing an opinion",
+          "sentence": "After seeing the evidence, he recanted his accusation against his brother.",
+          "highlight": "recanted",
+          "tip": "It can be personal, but it often suggests a public or unmistakable reversal."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · correction of a statement",
+          "sentence": "The witness recanted his testimony and said that he had misidentified the driver.",
+          "highlight": "recanted",
+          "tip": "A strong choice for legal, political, or controversial statements; retract is more neutral."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin recantare: re- meaning ‘again’ or ‘back’ plus cantare meaning ‘to sing’, originally referring to withdrawing or retracting a claim.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Recantare develops the sense of retracting a statement or opinion."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in legal, religious, and political contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It remains formal and usually implies a deliberate reversal of a previous position."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "recantation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "retract",
+        "renounce",
+        "repudiate",
+        "withdraw"
+      ],
+      "opposite": "affirm",
+      "pitfall": "Recant is stronger than retract: it often implies a clear and sometimes public reversal, while retract can describe any withdrawal."
+    },
+    {
+      "id": "refute",
+      "kind": "word",
+      "term": "refute",
+      "pos": "verb",
+      "phonetic": "/rɪˈfjuːt/",
+      "sayIt": "ri-FYOOT",
+      "register": "Formal; common in debate and academic writing",
+      "meaning": "To show that a statement or claim is false or wrong.",
+      "nuance": "A strong, evidence-based word often used in serious argument or writing. It addresses the claim itself rather than the person making it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client presentation · challenging a report",
+          "sentence": "These figures refute the claim that customer costs have fallen.",
+          "highlight": "refute",
+          "tip": "Use it when you have clear evidence that directly disproves an allegation."
+        },
+        {
+          "setting": "social",
+          "where": "Friendly debate · correcting a claim",
+          "sentence": "That doesn’t refute my point; it only explains why the plan failed.",
+          "highlight": "refute",
+          "tip": "It can sound confrontational, so use it carefully in casual disagreement."
+        },
+        {
+          "setting": "writing",
+          "where": "Review response · defending an argument",
+          "sentence": "The new evidence refutes the central assumption behind the proposal.",
+          "highlight": "refutes",
+          "tip": "It pairs naturally with claims, allegations, arguments and assumptions."
+        }
+      ],
+      "origin": {
+        "summary": "Refute comes from Latin refutare, meaning ‘to drive back’ or ‘reject’, and originally referred to pushing back an argument or claim.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin antiquity",
+            "text": "Refutare develops from roots meaning ‘back’ and ‘repel’ or ‘reject’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in the sense of rejecting or disproving an argument."
+          },
+          {
+            "when": "Today",
+            "text": "It is used mainly for claims disproved by strong evidence or reasoning."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "refutation",
+          "label": "noun"
+        },
+        {
+          "term": "refutable",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "disprove",
+        "contradict",
+        "rebut",
+        "debunk"
+      ],
+      "opposite": "substantiate",
+      "pitfall": "Refute means to disprove a claim, not to insult or dismiss the person who made it."
+    },
+    {
+      "id": "repudiate",
+      "kind": "word",
+      "term": "repudiate",
+      "pos": "verb",
+      "phonetic": "/rɪˈpjuːdi.eɪt/",
+      "sayIt": "reh-PYOO-dee-AYT",
+      "register": "Formal",
+      "meaning": "To formally reject or deny the authority, validity or truth of something.",
+      "nuance": "Stronger and more official than simply reject. It often appears in legal, political and formal written contexts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Contract dispute · refusing an instruction",
+          "sentence": "The committee repudiated the manager’s decision to postpone the review.",
+          "highlight": "repudiated",
+          "tip": "Use it when formally rejecting a decision, agreement or instruction."
+        },
+        {
+          "setting": "social",
+          "where": "Family dispute · rejecting an accusation",
+          "sentence": "He repudiated the accusation that he had taken money from the charity.",
+          "highlight": "repudiated",
+          "tip": "It sounds forceful and may make a conversation more confrontational."
+        },
+        {
+          "setting": "writing",
+          "where": "Legal letter · denying an obligation",
+          "sentence": "The statement repudiates any claim that the company breached its agreement.",
+          "highlight": "repudiates",
+          "tip": "Common in legal and diplomatic writing for a firm denial."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin repudiare, meaning to reject or disown, probably connected with repudium, a rejection or divorce.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Roman period",
+            "text": "Latin repudiare develops the sense of rejecting, disowning or formally renouncing."
+          },
+          {
+            "when": "1400s",
+            "text": "The word appears in English in legal and religious contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It is used mainly for formal or forceful rejection."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "repudiation",
+          "label": "noun"
+        },
+        {
+          "term": "repudiated",
+          "label": "past tense"
+        }
+      ],
+      "similar": [
+        "reject",
+        "disavow",
+        "renounce",
+        "deny"
+      ],
+      "opposite": "accept",
+      "pitfall": "Do not use it for an everyday dislike; repudiate refers to a clear rejection of a claim, decision, agreement or authority."
+    },
+    {
+      "id": "reputed",
+      "kind": "word",
+      "term": "reputed",
+      "pos": "adjective",
+      "phonetic": "/rɪˈpjuːtɪd/",
+      "sayIt": "ri-PYOO-tid",
+      "register": "Common in formal writing",
+      "meaning": "Generally believed or said to have a particular quality, reputation or status.",
+      "nuance": "It often describes a belief that is widely held but has not been independently confirmed. It can sound more established than “alleged” without claiming certainty.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Vendor review · checking a supplier",
+          "sentence": "The vendor is a reputed expert in data security, but our own review still matters.",
+          "highlight": "reputed",
+          "tip": "Useful when referring to someone’s established reputation while acknowledging that you have not checked every claim."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · introducing someone",
+          "sentence": "Her uncle is a reputed jazz guitarist, and he played with several well-known bands.",
+          "highlight": "reputed",
+          "tip": "It gives a person or thing a recognised reputation without overstating the evidence."
+        },
+        {
+          "setting": "writing",
+          "where": "Research note · describing a disputed claim",
+          "sentence": "The document is reputed to date from 1780, although later analysis found strong signs of a modern copy.",
+          "highlight": "reputed",
+          "tip": "Often followed by “to be,” especially when presenting a claim that remains unconfirmed."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin reputari, meaning “to reckon, calculate or consider,” and related to putare, “to reckon or suppose.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin reputari develops meanings connected with reckoning, estimating and considering."
+          },
+          {
+            "when": "1500s",
+            "text": "The related English words repute and reputation appear in senses involving estimation or standing."
+          },
+          {
+            "when": "1600s",
+            "text": "Reputed takes on its modern sense of being generally believed or said to be something."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "repute",
+          "label": "noun"
+        },
+        {
+          "term": "repute",
+          "label": "verb"
+        },
+        {
+          "term": "reputedly",
+          "label": "adverb"
+        },
+        {
+          "term": "reputation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "alleged",
+        "believed",
+        "so-called",
+        "renowned"
+      ],
+      "pitfall": "Reputed does not mean proven; it reports what people believe. If you have strong evidence, state the fact directly instead."
+    },
+    {
+      "id": "skeptical",
+      "kind": "word",
+      "term": "skeptical",
+      "pos": "adjective",
+      "phonetic": "/ˈskep.tɪ.kəl/",
+      "sayIt": "SKEP-tih-kul",
+      "register": "Common at work",
+      "meaning": "Not easily convinced that something is true, good or likely.",
+      "nuance": "It suggests doubt based on questioning or evidence rather than automatic disbelief. It can describe healthy critical thinking, but may sound negative if you doubt someone’s motives.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client meeting · discussing a proposal",
+          "sentence": "The finance team was skeptical about the forecast, so we agreed to test it with a smaller pilot.",
+          "highlight": "skeptical",
+          "tip": "Use it when you want to show careful doubt without directly opposing the proposal."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · hearing an unusual claim",
+          "sentence": "She was skeptical when her friend said the restaurant served food from another planet.",
+          "highlight": "skeptical",
+          "tip": "This is a natural word for doubt in a friendly conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · reviewing survey results",
+          "sentence": "We remained skeptical of the results until the same pattern appeared in three separate studies.",
+          "highlight": "skeptical",
+          "tip": "It works well before “of,” “about” or a clause explaining what caused the doubt."
+        }
+      ],
+      "origin": {
+        "summary": "It comes from Greek skeptikos, related to the idea of examining or investigating. English adopted the related word skepticism in the 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "The root skeptikos referred to someone who examined questions carefully."
+          },
+          {
+            "when": "1600s",
+            "text": "Skeptic and skepticism enter English, especially in discussions of philosophy and religion."
+          },
+          {
+            "when": "Later",
+            "text": "Skeptical develops as the adjective for showing doubt or needing convincing."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "skepticism",
+          "label": "noun"
+        },
+        {
+          "term": "skeptic",
+          "label": "noun (person)"
+        },
+        {
+          "term": "skeptically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "doubtful",
+        "dubious",
+        "wary",
+        "unconvinced"
+      ],
+      "opposite": "convinced",
+      "pitfall": "Skeptical does not always mean hostile; it can simply mean you want evidence before accepting a claim."
+    },
+    {
+      "id": "sophistry",
+      "kind": "word",
+      "term": "sophistry",
+      "pos": "noun",
+      "phonetic": "/ˈsɒfəstri/",
+      "sayIt": "SOF-ih-stree",
+      "register": "Formal",
+      "meaning": "Subtle reasoning that is intended to sound convincing but is based on faulty logic or deception.",
+      "nuance": "The word suggests intellectual trickery rather than a simple mistake. It is especially useful when describing an argument that misleads while appearing clever.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Presentation review · defending a weak proposal",
+          "sentence": "His explanation sounded impressive, but it was pure sophistry designed to hide the lack of evidence.",
+          "highlight": "sophistry",
+          "tip": "Use it when the persuasive language is more impressive than the reasoning."
+        },
+        {
+          "setting": "social",
+          "where": "Family discussion · responding to a relative",
+          "sentence": "I don’t want to get into sophistry; just tell me whether you actually agree with the plan.",
+          "highlight": "sophistry",
+          "tip": "It can sound confrontational, so use it carefully when someone may be hurt."
+        },
+        {
+          "setting": "writing",
+          "where": "Critique · analysing an advertisement",
+          "sentence": "The advert relies on sophistry, presenting a stylish product as if style alone made it useful.",
+          "highlight": "sophistry",
+          "tip": "Strong but formal; it suits criticism of misleading arguments or promotional claims."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek sophistēs, meaning a skilled reasoner or teacher of rhetoric, and sophistia, clever reasoning. The negative sense developed as people began to associate such arguments with deceptive logic.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greece",
+            "text": "Sophistēs referred to a skilled teacher or reasoner skilled in rhetoric and argument."
+          },
+          {
+            "when": "Ancient Greece",
+            "text": "Sophistia came to mean clever reasoning, including arguments later judged misleading or deceptive."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "Entered English through Latin and became established in the sense of deceptive or fallacious reasoning."
+          },
+          {
+            "when": "Today",
+            "text": "Used mainly for subtle arguments that mislead by twisting logic or exploiting persuasive language."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "sophist",
+          "label": "noun (person)"
+        },
+        {
+          "term": "sophisticate",
+          "label": "verb"
+        },
+        {
+          "term": "sophisticated",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "fallacy",
+        "sophism",
+        "casuistry",
+        "rhetoric"
+      ],
+      "opposite": "sound reasoning",
+      "pitfall": "Do not confuse sophistry with sophistication, which can mean advanced, refined or highly developed."
+    },
+    {
+      "id": "specious",
+      "kind": "word",
+      "term": "specious",
+      "pos": "adjective",
+      "phonetic": "/ˈspiːʃəs/",
+      "sayIt": "SPEE-shuss",
+      "register": "Formal",
+      "meaning": "Appearing reasonable or convincing, even though it is actually false or misleading.",
+      "nuance": "It describes an argument or claim that has a surface of logic but lacks a sound basis. It is especially useful in criticism and careful discussion.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · challenging a proposal",
+          "sentence": "The director dismissed the budget argument as specious because it ignored the cost of training.",
+          "highlight": "specious",
+          "tip": "Use it for a plausible-sounding but fundamentally weak argument."
+        },
+        {
+          "setting": "social",
+          "where": "Debate · correcting a friend",
+          "sentence": "His excuse sounds sensible, but it is specious; he is avoiding the real question.",
+          "highlight": "specious",
+          "tip": "It is stronger and more formal than simply saying someone is wrong."
+        },
+        {
+          "setting": "writing",
+          "where": "Critical essay · analysing advertising",
+          "sentence": "The advertisement makes a specious claim that the product is safer simply because it uses natural ingredients.",
+          "highlight": "specious",
+          "tip": "Pairs well with claim, argument, reasoning and assumption."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin spiciosus, meaning 'showy, deceptive' and related to specere, 'to look at'. It entered English with the sense of something that looks true without being true.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Spiciosus develops from specere, 'to look at', referring to appearance rather than reality."
+          },
+          {
+            "when": "1600s",
+            "text": "Enters English as a word for false reasoning that appears sound."
+          },
+          {
+            "when": "Today",
+            "text": "Remain chiefly a formal term for misleading claims, arguments or reasoning."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "speciousness",
+          "label": "noun"
+        },
+        {
+          "term": "speciously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "plausible",
+        "fallacious",
+        "misleading",
+        "spurious"
+      ],
+      "opposite": "sound",
+      "pitfall": "A plausible claim can still be false, but 'specious' suggests that the appearance of validity is deceptive rather than merely unproven."
+    },
+    {
+      "id": "spurious",
+      "kind": "word",
+      "term": "spurious",
+      "pos": "adjective",
+      "phonetic": "/ˈspjʊəriəs/",
+      "sayIt": "SPYOOR-ee-us",
+      "register": "Formal and professional",
+      "meaning": "False, misleading, or not genuine, even if it appears convincing.",
+      "nuance": "Often used for claims, arguments or data that look reasonable but lack a sound basis. It can also describe something incorrectly presented as genuine.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · checking a report",
+          "sentence": "The sales figures were spurious, so we need to verify them before presenting them to the client.",
+          "highlight": "spurious",
+          "tip": "Use it when something is not genuine or has no credible basis."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · challenging an excuse",
+          "sentence": "That explanation sounds spurious, and you know the real reason you missed the appointment.",
+          "highlight": "spurious",
+          "tip": "It sounds blunt, so use it when you are directly questioning someone’s story."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · disputing a conclusion",
+          "sentence": "The proposed correlation is spurious because both measurements reflect the same underlying factor.",
+          "highlight": "spurious",
+          "tip": "Especially useful in technical writing about flawed reasoning, data or correlations."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin spurius, meaning false or illegitimate; the word’s deeper origin is uncertain.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Spurious meant false, illegitimate or not genuine."
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered English with legal and scholarly senses."
+          },
+          {
+            "when": "Today",
+            "text": "It is used mainly for convincing but false claims, reasons or results."
+          }
+        ]
+      },
+      "similar": [
+        "bogus",
+        "false",
+        "unfounded",
+        "artificial"
+      ],
+      "opposite": "legitimate",
+      "pitfall": "Spurious does not merely mean something is inaccurate; it suggests that the thing is false, misleading or falsely presented as genuine."
+    },
+    {
+      "id": "substantiate",
+      "kind": "word",
+      "term": "substantiate",
+      "pos": "verb",
+      "phonetic": "/səbˈstænʃieɪt/",
+      "sayIt": "sub-STAN-shee-AYT",
+      "register": "Formal",
+      "meaning": "To support a statement or idea with evidence, showing that it is true or valid.",
+      "nuance": "Common in professional and legal writing, where claims need proof. It is more emphatic and formal than “support.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget review · checking figures",
+          "sentence": "We need to substantiate the figures before the board approves the budget.",
+          "highlight": "substantiate",
+          "tip": "Use it when a claim requires clear evidence rather than an opinion."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · challenging a rumour",
+          "sentence": "Can you substantiate that story with something you actually saw?",
+          "highlight": "substantiate",
+          "tip": "It can sound formal, so use it mainly when the question is serious."
+        },
+        {
+          "setting": "writing",
+          "where": "Research proposal · defending a claim",
+          "sentence": "The editor asked us to substantiate the claim with a published source.",
+          "highlight": "substantiate",
+          "tip": "Often followed by “a claim,” “an allegation,” or “concern.”"
+        }
+      ],
+      "origin": {
+        "summary": "It comes from Latin, combining sub- meaning “under” with a word meaning “to stand,” so the idea was originally to make something stand firm.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root verb meant to make firm, strengthen or establish."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in the sense of strengthening a case or making a claim firm."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used for supporting claims with evidence."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "substantiation",
+          "label": "noun"
+        },
+        {
+          "term": "substantive",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "verify",
+        "confirm",
+        "corroborate",
+        "prove"
+      ],
+      "opposite": "disprove",
+      "pitfall": "Do not confuse it with “substantial,” which means large in amount, size or importance."
+    },
+    {
+      "id": "subterfuge",
+      "kind": "word",
+      "term": "subterfuge",
+      "pos": "noun",
+      "phonetic": "/ˈsʌbtərfjuːɡ/",
+      "sayIt": "SUB-ter-fyooj",
+      "register": "Formal",
+      "meaning": "A clever trick or misleading excuse used to avoid doing something or facing responsibility.",
+      "nuance": "The word usually suggests an attempt to dodge a difficult issue through deception. It is stronger and more critical than “workaround,” which may be entirely reasonable.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · missed deadline",
+          "sentence": "Calling the delay a training issue was pure subterfuge; the team simply underestimated the work.",
+          "highlight": "subterfuge",
+          "tip": "Use it when someone invents an excuse to avoid accountability."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · unwanted question",
+          "sentence": "He used subterfuge to change the subject whenever anyone mentioned his finances.",
+          "highlight": "subterfuge",
+          "tip": "It describes indirect, deceptive ways of avoiding a topic."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal email · disputing a demand",
+          "sentence": "The revised figures appear to be a subterfuge for changing the deadline without consulting the committee.",
+          "highlight": "subterfuge",
+          "tip": "It suits serious criticism of tricks, evasions or falsely presented reasons."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin subterfugere, meaning “to evade by slipping away,” built from sub- (“under”) and fugere (“to flee”). English uses developed from the idea of an escape or trick.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Subterfugium develops from subterfugere, “to evade or flee by a trick.”"
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English with the sense of an evasion, device or trick."
+          },
+          {
+            "when": "Today",
+            "text": "It chiefly means a deceptive method used to avoid responsibility or difficulty."
+          }
+        ]
+      },
+      "similar": [
+        "evasion",
+        "deception",
+        "trickery",
+        "dodging"
+      ],
+      "opposite": "candor",
+      "pitfall": "Use it for dishonest or evasive behaviour, not merely for a legitimate workaround."
+    },
+    {
+      "id": "surreptitious",
+      "kind": "word",
+      "term": "surreptitious",
+      "pos": "adjective",
+      "phonetic": "/ˌsʌrəpˈtɪʃəs/",
+      "sayIt": "suh-rup-TISH-us",
+      "register": "Formal",
+      "meaning": "Done secretly, especially in a way intended to avoid notice.",
+      "nuance": "It suggests deliberate concealment and often carries a critical tone. Use it when the hidden action feels improper or manipulative.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office · handling a confidential request",
+          "sentence": "The surreptitious copying of customer files raised concerns about data protection.",
+          "highlight": "surreptitious",
+          "tip": "Stronger and more disapproving than secret; often used for actions that breach rules."
+        },
+        {
+          "setting": "social",
+          "where": "Gathering · noticing an indirect approach",
+          "sentence": "His surreptitious attempts to change the seating plan made everyone uncomfortable.",
+          "highlight": "surreptitious",
+          "tip": "Useful when describing behaviour that is hidden rather than openly discussed."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · describing covert activity",
+          "sentence": "The report documented the surreptitious removal of documents from the shared archive.",
+          "highlight": "surreptitious",
+          "tip": "Fits formal reports and legal-style descriptions of deliberately hidden actions."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin surreptitius, meaning ‘taken by surprise’ or ‘done secretly’, based on surripere, ‘to snatch away secretly’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Derived from surripere: sub, ‘under’, and rapere, ‘to seize or snatch’."
+          },
+          {
+            "when": "1600s",
+            "text": "Entered English in the sense of done secretly or without notice."
+          },
+          {
+            "when": "Today",
+            "text": "Usually describes a concealed action that appears improper or manipulative."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "surreptitiously",
+          "label": "adverb"
+        },
+        {
+          "term": "surreptitiousness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "clandestine",
+        "covert",
+        "furtive",
+        "underhand"
+      ],
+      "opposite": "overt",
+      "pitfall": "This is more than simply secret; it often implies that the person was trying not to be noticed."
+    },
+    {
+      "id": "suspicious",
+      "kind": "word",
+      "term": "suspicious",
+      "pos": "adjective",
+      "phonetic": "/səˈspɪʃəs/",
+      "sayIt": "suh-SPI-shus",
+      "register": "Common at work",
+      "meaning": "Making you think that something is dishonest, unsafe, or unlikely to be genuine.",
+      "nuance": "It describes both a feeling of distrust and something that causes suspicion. It is stronger and more direct than simply feeling uncertain.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · unusual request",
+          "sentence": "The request was suspicious because it asked for confidential details through an unfamiliar link.",
+          "highlight": "suspicious",
+          "tip": "Use “suspicious of” for a feeling about someone or something, and “a suspicious request” for the thing itself."
+        },
+        {
+          "setting": "social",
+          "where": "Party · noticing someone",
+          "sentence": "She became suspicious when the stranger claimed to know everyone there.",
+          "highlight": "suspicious",
+          "tip": "This sounds natural when you describe a change in behaviour that makes you doubt someone."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · describing an incident",
+          "sentence": "The witness described several suspicious vehicles parked near the building.",
+          "highlight": "suspicious",
+          "tip": "Use it before a noun when the subject itself appears unusual or dishonest."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin suspiciosus, meaning watchful or mistrustful. It comes from suspicere, formed from sus- and specere, referring to looking carefully or watching.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "suspiciosus develops from suspicere, meaning to look at carefully or watch with suspicion."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English through French in the sense of mistrustful or watchful."
+          },
+          {
+            "when": "Today",
+            "text": "It describes both distrustful feelings and things that cause people to doubt their honesty or safety."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "suspicion",
+          "label": "noun"
+        },
+        {
+          "term": "suspiciously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "wary",
+        "skeptical",
+        "distrustful",
+        "questionable"
+      ],
+      "opposite": "trusting",
+      "pitfall": "In formal writing, prefer “suspicious of” when describing a feeling: “She was suspicious of the offer.”"
+    },
+    {
+      "id": "tenable",
+      "kind": "word",
+      "term": "tenable",
+      "pos": "adjective",
+      "phonetic": "/ˈtenəbəl/",
+      "sayIt": "TEN-uh-buhl",
+      "register": "Formal",
+      "meaning": "Strong enough to be supported, maintained or defended against criticism.",
+      "nuance": "Often used for arguments, positions and proposals that can withstand close examination. In everyday conversation, workable or defensible may sound more natural.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · testing a proposal",
+          "sentence": "The revised proposal gives us a tenable path forward without exceeding the budget.",
+          "highlight": "tenable",
+          "tip": "Use it when a plan has enough practical and logical support to survive scrutiny."
+        },
+        {
+          "setting": "social",
+          "where": "Debate with friends · challenging a claim",
+          "sentence": "Her explanation sounded convincing, but it was not tenable once she admitted the missing evidence.",
+          "highlight": "tenable",
+          "tip": "A common but slightly formal choice when discussing whether an argument can hold up."
+        },
+        {
+          "setting": "writing",
+          "where": "Research report · assessing a conclusion",
+          "sentence": "The findings are interesting, but the conclusion is not tenable without further data.",
+          "highlight": "tenable",
+          "tip": "Useful in analytical writing for a claim that can or cannot withstand challenge."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin tenere, ‘to hold’, through Old French tenable, meaning able to be held or defended.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "The source is tenere, ‘to hold, keep or sustain’."
+          },
+          {
+            "when": "Old French",
+            "text": "Tenable develops the sense of able to be held or defended."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English with the meaning defensible or able to be maintained."
+          }
+        ]
+      },
+      "similar": [
+        "defensible",
+        "workable",
+        "sustainable",
+        "viable",
+        "coherent"
+      ],
+      "opposite": "untenable",
+      "pitfall": "Don’t confuse tenable with tenant, which means a person who rents a home or business."
+    },
+    {
+      "id": "transparent",
+      "kind": "word",
+      "term": "transparent",
+      "pos": "adjective",
+      "phonetic": "/trænsˈpærənt/",
+      "sayIt": "tranz-PAIR-uhnt",
+      "register": "Common at work",
+      "meaning": "Easy to see through, understand, or check; used for materials, processes, decisions and communication.",
+      "nuance": "It can describe physical transparency, such as clear glass, or openness and accountability, such as a transparent process. In a work context, it usually suggests that information or decision-making is not hidden.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · explaining a delay",
+          "sentence": "We need to be transparent about why the launch was delayed and share the revised timeline today.",
+          "highlight": "transparent",
+          "tip": "Use it when acknowledging a problem and showing that you are willing to explain it."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · discussing someone’s motives",
+          "sentence": "Her reaction seemed transparent, so I gently asked what she was really thinking.",
+          "highlight": "transparent",
+          "tip": "Here it means that feelings or motives are easy to read."
+        },
+        {
+          "setting": "writing",
+          "where": "Company policy · reporting standards",
+          "sentence": "The company requires a transparent record of expenses, approvals and changes to project budgets.",
+          "highlight": "transparent",
+          "tip": "It is a strong choice for describing openness, clarity and accountability."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin transparens, meaning ‘see-through’ or ‘clear’, based on trans- ‘across’ and parere ‘to appear’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Transparens develops from transparere, meaning ‘to see through’ or ‘to be visible through’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with meanings connected with clear materials and visible qualities."
+          },
+          {
+            "when": "1800s",
+            "text": "It expands to describe processes, conduct and communication that are open to scrutiny."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used to mean clear, easily understood or open about decisions and information."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "transparency",
+          "label": "noun"
+        },
+        {
+          "term": "transparently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "clear",
+        "open",
+        "apparent",
+        "translucent"
+      ],
+      "opposite": "opaque",
+      "pitfall": "Transparent does not mean merely invisible; it usually implies that something can be seen through, understood or openly examined."
+    },
+    {
+      "id": "veneer",
+      "kind": "word",
+      "term": "veneer",
+      "pos": "noun",
+      "phonetic": "/vəˈnɪər/",
+      "sayIt": "vuh-NEER",
+      "register": "Common at work and in writing",
+      "meaning": "A thin, attractive outer layer covering a less attractive surface beneath it.",
+      "nuance": "It can describe a literal surface layer, such as wood or stone, or figuratively suggest that charm or quality only covers something less convincing underneath.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team presentation · reviewing a proposal",
+          "sentence": "The proposal has a polished veneer, but it doesn’t explain how the team will deliver the work.",
+          "highlight": "veneer",
+          "tip": "Use it to question an appearance that may be hiding weak substance."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · discussing a confident stranger",
+          "sentence": "He has a veneer of confidence, although he seems nervous when the conversation turns personal.",
+          "highlight": "veneer",
+          "tip": "Often suggests a surface quality that does not reflect what someone is really feeling."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing a poorly made cabinet",
+          "sentence": "The cabinet has a thin veneer over cheap particleboard, so the surface began to lift within months.",
+          "highlight": "veneer",
+          "tip": "For the physical material, pair it with terms such as wood, plywood or finish."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through Old French and medieval Latin, originally referring to an outer layer or decorative covering.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Medieval Latin",
+            "text": "The word appears in a sense connected with furnishing or covering a surface."
+          },
+          {
+            "when": "Middle English",
+            "text": "It is adopted for a thin layer placed over wood or another material."
+          },
+          {
+            "when": "Today",
+            "text": "It is also used figuratively for an attractive but superficial outer appearance."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "veneered",
+          "label": "adjective"
+        },
+        {
+          "term": "veneering",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "façade",
+        "gloss",
+        "laminate",
+        "coating",
+        "surface"
+      ],
+      "opposite": "substance",
+      "pitfall": "Don’t confuse it with “vener,” an old word for a member of the clergy, or use “veneer” when you mean the material beneath the surface."
+    },
+    {
+      "id": "veracity",
+      "kind": "word",
+      "term": "veracity",
+      "pos": "noun",
+      "phonetic": "/vəˈræsəti/",
+      "sayIt": "vuh-RASS-uh-tee",
+      "register": "Formal",
+      "meaning": "The quality of being true, accurate and faithful to facts.",
+      "nuance": "It is a formal word for truthfulness or accuracy, especially when judging a statement, report or person. It suggests reliability rather than merely being believable.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Meeting · reviewing a market report",
+          "sentence": "We need to understand the veracity of the figures before we include them in the proposal.",
+          "highlight": "veracity",
+          "tip": "Common in professional contexts discussing evidence, claims and reports."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · questioning a rumour",
+          "sentence": "Given the veracity of the story, it seems more likely that the meeting was cancelled than rescheduled.",
+          "highlight": "veracity",
+          "tip": "Use it when you want to focus directly on whether something is true."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · challenging an unsupported claim",
+          "sentence": "There are good reasons to question the veracity of this claim, particularly because no source is provided.",
+          "highlight": "veracity",
+          "tip": "It works well in formal writing about the reliability of information."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin veracitas, meaning truthfulness or truth, which was based on verus, meaning true.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Veracitas, ‘truth’ or ‘truthfulness’, comes from verus, ‘true’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English, initially in formal and scholarly writing."
+          },
+          {
+            "when": "Today",
+            "text": "It remains especially common in discussions of truth, evidence and reliability."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "veracious",
+          "label": "adjective"
+        },
+        {
+          "term": "veraciously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "truthfulness",
+        "accuracy",
+        "authenticity",
+        "reliability"
+      ],
+      "opposite": "falsehood",
+      "pitfall": "Use veracity for the quality of being true; use veracious when describing someone or something that is habitually truthful."
+    },
+    {
+      "id": "vindicate",
+      "kind": "word",
+      "term": "vindicate",
+      "pos": "verb",
+      "phonetic": "/ˈvɪndɪkeɪt/",
+      "sayIt": "VIN-di-kayt",
+      "register": "Formal",
+      "meaning": "To show that someone was right, or that a decision or belief was justified.",
+      "nuance": "It can mean proving someone innocent of blame, but it can also mean showing that an earlier claim or choice was correct. It is usually used when evidence or events support the original view.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · defending a decision",
+          "sentence": "The new data vindicated her decision to delay the launch.",
+          "highlight": "vindicated",
+          "tip": "Use it for a decision that later evidence or results have justified."
+        },
+        {
+          "setting": "social",
+          "where": "Friendship · clearing up a misunderstanding",
+          "sentence": "I’m glad you told him the truth; that may have vindicated you.",
+          "highlight": "vindicated",
+          "tip": "It often describes someone whose reputation or judgment has been restored."
+        },
+        {
+          "setting": "writing",
+          "where": "Article · reviewing a disputed report",
+          "sentence": "The study seemed to contradict the theory, but later research vindicated its central claim.",
+          "highlight": "vindicated",
+          "tip": "A strong word for writing that later findings support an earlier conclusion."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin vindicare, ‘to declare free from guilt or blame’, based on vindex, ‘defender’ or ‘one who establishes rights’. It reached English in the 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "vindicare means ‘to free from blame’ or ‘defend’, from vindex, ‘defender’."
+          },
+          {
+            "when": "1600s",
+            "text": "Enters English with the sense of clearing someone from blame or establishing their rights."
+          },
+          {
+            "when": "Today",
+            "text": "Widely used for evidence, events or later findings that support a person, decision or belief."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "vindication",
+          "label": "noun"
+        },
+        {
+          "term": "vindicatory",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "justify",
+        "exonerate",
+        "support",
+        "validate"
+      ],
+      "opposite": "condemn",
+      "pitfall": "Vindicate means that the person, decision or claim was shown to be right; it does not simply mean someone was defended or praised."
+    }
+  ]
+}

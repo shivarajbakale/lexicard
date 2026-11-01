@@ -1,0 +1,1484 @@
+{
+  "id": "phrases-agreeing-disagreeing-1",
+  "kind": "phrase",
+  "name": "Agreeing & disagreeing · 1",
+  "blurb": "25 phrases about agreeing & disagreeing",
+  "cards": [
+    {
+      "id": "a-deal-is-a-deal",
+      "kind": "phrase",
+      "term": "a deal is a deal",
+      "pos": "phrase",
+      "hint": "a promise that must be kept",
+      "register": "Common at work",
+      "meaning": "An agreement or promise is settled and must be honoured.",
+      "nuance": "It sounds firm and final, sometimes with a slightly stern edge. Use it when you want to emphasize that there is no more negotiation.",
+      "literal": "A promise or agreement is treated as binding.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Negotiating a contract",
+          "sentence": "We agreed on the final price, so a deal is a deal.",
+          "highlight": "a deal is a deal",
+          "tip": "Use it to close the discussion and confirm that the terms are settled."
+        },
+        {
+          "setting": "social",
+          "where": "Making plans with a friend",
+          "sentence": "You promised to cover the restaurant bill, and a deal is a deal.",
+          "highlight": "a deal is a deal",
+          "tip": "It can sound playful between friends, but it may sound serious if the issue is tense."
+        },
+        {
+          "setting": "writing",
+          "where": "Confirming terms in an email",
+          "sentence": "We have agreed on the delivery date; a deal is a deal, so please confirm the shipment this week.",
+          "highlight": "a deal is a deal",
+          "tip": "Follow it with the practical details people need to act."
+        }
+      ],
+      "origin": {
+        "summary": "Probably comes from the older idea that a deal or bargain is a legal and moral commitment. The exact first use is uncertain, but the wording became established in modern English.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "A deal was understood as a binding agreement, not merely a casual suggestion."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression appears in speech as a way of insisting that agreed terms should be respected."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used to end discussions and emphasize the seriousness of a promise."
+          }
+        ]
+      },
+      "similar": [
+        "what's agreed is agreed",
+        "that's final",
+        "the deal is done",
+        "a promise is a promise"
+      ],
+      "opposite": "anything is negotiable",
+      "pitfall": "Saying “a deal is a deal” does not replace checking that everyone understands the same terms."
+    },
+    {
+      "id": "after-all-is-said-and-done",
+      "kind": "phrase",
+      "term": "after all is said and done",
+      "pos": "phrase",
+      "hint": "once everything has happened",
+      "register": "Common at work",
+      "meaning": "Used to introduce a final thought after everything has happened or been considered.",
+      "nuance": "It signals that the speaker is drawing a conclusion from the whole situation, sometimes gently emphasizing that the result still matters.",
+      "literal": "After all the talking and doing have finished.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · assessing an outcome",
+          "sentence": "After all is said and done, the revised process saved us more time than the original plan did.",
+          "highlight": "After all is said and done",
+          "tip": "Use it near the end of a discussion to summarize what ultimately mattered."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation about a long-running issue",
+          "sentence": "After all is said and done, we’re glad you came along and helped us sort it out.",
+          "highlight": "After all is said and done",
+          "tip": "It works well before a final, reflective comment."
+        },
+        {
+          "setting": "writing",
+          "where": "Closing paragraph of a report",
+          "sentence": "After all is said and done, the main benefit will be clearer communication between the two teams.",
+          "highlight": "After all is said and done",
+          "tip": "Keep it in the final part of a piece so the conclusion feels natural."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from older wording about things being said and done, meaning once discussion and action are complete. Its modern form became established during the 19th century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "16th century",
+            "text": "Similar expressions appeared in English, combining the ideas of saying and doing something."
+          },
+          {
+            "when": "19th century",
+            "text": "The wording became established in the form “after all is said and done.”"
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common way to introduce a final judgment or conclusion."
+          }
+        ]
+      },
+      "similar": [
+        "when all is said and done",
+        "all things considered",
+        "at the end of the day"
+      ],
+      "pitfall": "It can sound overly formal or dramatic in a casual message; in everyday conversation, “all things considered” is often lighter."
+    },
+    {
+      "id": "all-that-said",
+      "kind": "phrase",
+      "term": "all that said",
+      "pos": "phrase",
+      "hint": "considering everything mentioned",
+      "register": "Common at work",
+      "meaning": "Used to introduce a qualification or important point after everything else that has been said.",
+      "nuance": "It signals that you have considered the previous discussion but want to add a significant caveat, balance or final thought. It is useful in meetings and writing when the preceding point should not simply be dismissed.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · weighing risks",
+          "sentence": "The new schedule looks efficient, but all that said, we may need more time for testing.",
+          "highlight": "all that said",
+          "tip": "Use it to introduce a qualification after discussing the main benefits."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · changing the subject",
+          "sentence": "The restaurant was expensive and the food was cold, but all that said, we still had a good time.",
+          "highlight": "all that said",
+          "tip": "It can balance a complaint without completely changing the overall impression."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · adding a final consideration",
+          "sentence": "All that said, the proposal is worth revisiting if the team can reduce the setup time.",
+          "highlight": "All that said",
+          "tip": "Put it at the start of a sentence when the qualification deserves emphasis."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely grew from the written expression “that said,” which introduces a contrasting point. Adding “all” made the qualification feel more comprehensive and is especially common in modern professional discussion.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“That said” was used in writing to mark a qualification or contrast."
+          },
+          {
+            "when": "20th century",
+            "text": "The expanded form “all that said” became established in discussion and formal writing."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely used to introduce a final or important qualification."
+          }
+        ]
+      },
+      "similar": [
+        "that said",
+        "even so",
+        "having said that",
+        "on the other hand"
+      ],
+      "opposite": "that being the case",
+      "pitfall": "Avoid using it when no meaningful qualification follows; it can make a sentence sound padded or overly formal."
+    },
+    {
+      "id": "am-i-right",
+      "kind": "phrase",
+      "term": "am I right",
+      "pos": "phrase",
+      "hint": "checking for agreement",
+      "register": "Casual",
+      "meaning": "A way of asking someone to confirm that you are correct or that they agree with you.",
+      "nuance": "It can invite support, but it may sound a little self-checking or expect agreement. In formal settings, ask “Do you agree?” or “Am I correct?” instead.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · checking a conclusion",
+          "sentence": "The client needs the report by Friday, so am I right that we should finish it today?",
+          "highlight": "am I right",
+          "tip": "Use it to invite confirmation, not to demand agreement."
+        },
+        {
+          "setting": "social",
+          "where": "Chat with friends · checking a plan",
+          "sentence": "We’re meeting outside the station at six, am I right?",
+          "highlight": "am I right",
+          "tip": "It sounds friendly when you’re making sure everyone has the same details."
+        },
+        {
+          "setting": "writing",
+          "where": "Quick message · checking an understanding",
+          "sentence": "You’ll send the final version this afternoon, am I right?",
+          "highlight": "am I right",
+          "tip": "It can work in a casual message, but a direct question is usually clearer in formal email."
+        }
+      ],
+      "origin": {
+        "summary": "This is a natural English question built from “am I,” which asks whether something is true, and “right,” meaning correct. Its conversational use is well established.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The structure “am I right?” developed as a straightforward way to ask whether one is correct."
+          },
+          {
+            "when": "19th–20th centuries",
+            "text": "It became common in spoken English as a quick request for agreement or confirmation."
+          },
+          {
+            "when": "Today",
+            "text": "It remains widely used in casual conversation and informal workplace exchanges."
+          }
+        ]
+      },
+      "similar": [
+        "am I correct",
+        "right?",
+        "don’t you think?",
+        "wouldn’t you agree?"
+      ],
+      "opposite": "am I wrong",
+      "pitfall": "It can sound as if you expect the other person to agree, so phrase it as a genuine check when that’s what you mean."
+    },
+    {
+      "id": "and-thats-flat",
+      "kind": "phrase",
+      "term": "and that's flat",
+      "pos": "phrase",
+      "hint": "a firm final answer",
+      "register": "Common at work",
+      "meaning": "Used to emphasize that a decision is final and will not be changed or discussed further.",
+      "nuance": "It sounds blunt and slightly impatient, so use it when you need to close off negotiation without sounding overly emotional.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget meeting · rejecting a proposal",
+          "sentence": "The budget stays as approved, and that’s flat.",
+          "highlight": "and that’s flat",
+          "tip": "Use it after explaining the reason; by itself, it may sound curt."
+        },
+        {
+          "setting": "social",
+          "where": "Plans with friends · settling the venue",
+          "sentence": "We’re doing dinner at home, and that’s flat.",
+          "highlight": "and that’s flat",
+          "tip": "It can playfully end an argument, but your tone matters."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · refusing a change request",
+          "sentence": "We cannot accommodate the extra feature in this release, and that’s flat.",
+          "highlight": "and that’s flat",
+          "tip": "It is informal, so consider a direct but softer sentence in formal correspondence."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably grew out of the older expression “a flat refusal,” where “flat” means complete and unmistakable. The wording became common in speech during the 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Flat” came to mean complete or without qualification, especially in “a flat refusal.”"
+          },
+          {
+            "when": "20th century",
+            "text": "People began using “and that’s flat” as a conversational way to announce a final decision."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase remains an informal, emphatic way to close discussion."
+          }
+        ]
+      },
+      "similar": [
+        "and that's final",
+        "the answer is no",
+        "flatly refused",
+        "that is settled"
+      ],
+      "opposite": "that’s open to discussion",
+      "pitfall": "Because it can sound rude, avoid it with people you do not know well or in formal written communication."
+    },
+    {
+      "id": "asked-and-answered",
+      "kind": "phrase",
+      "term": "asked and answered",
+      "pos": "phrase",
+      "hint": "a question that needs no further discussion",
+      "register": "Common at work",
+      "meaning": "A question that has already been answered and does not need more discussion.",
+      "nuance": "It signals that the point is settled, often with a slightly firm or dismissive tone. Use it when the answer is clear and repeating the discussion would waste time.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · closing a debate",
+          "sentence": "Why we chose Friday is asked and answered, so let’s move on to the next item.",
+          "highlight": "asked and answered",
+          "tip": "Use it after giving the answer, not as a substitute for explaining it."
+        },
+        {
+          "setting": "social",
+          "where": "Group discussion · settling a topic",
+          "sentence": "I think that’s asked and answered, so can we talk about something else?",
+          "highlight": "asked and answered",
+          "tip": "It can sound impatient, so soften it with “I think” when appropriate."
+        },
+        {
+          "setting": "writing",
+          "where": "Project email · resolving a question",
+          "sentence": "The question of who owns the account is asked and answered in the attached brief.",
+          "highlight": "asked and answered",
+          "tip": "Pair it with the decision or supporting information so readers can verify it."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase follows a simple question-and-answer pattern and appears in formal English in the 19th century. Its modern figurative use means that a matter has been settled.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The wording appears in formal writing to mean a question that has been put and answered."
+          },
+          {
+            "when": "1900s",
+            "text": "It develops the broader sense of a matter being settled and beyond further debate."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used in meetings, conversations and written correspondence."
+          }
+        ]
+      },
+      "similar": [
+        "settled",
+        "case closed",
+        "a done deal",
+        "beyond dispute"
+      ],
+      "opposite": "an open question",
+      "pitfall": "Saying something is “asked and answered” can sound dismissive if the other person has not seen the answer or had a chance to respond."
+    },
+    {
+      "id": "because-i-said-so",
+      "kind": "phrase",
+      "term": "because I said so",
+      "pos": "phrase",
+      "hint": "my authority is the only reason",
+      "register": "Casual",
+      "meaning": "Used to insist that something is true or should be done simply because the speaker has already decided it.",
+      "nuance": "Usually negative: it suggests that the speaker is relying on authority rather than giving a sensible reason. Depending on the relationship, it can sound childish, stubborn or domineering.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · defending a decision",
+          "sentence": "The deadline is final because I said so.",
+          "highlight": "because I said so",
+          "tip": "It can sound disrespectful at work; explain the business reason instead."
+        },
+        {
+          "setting": "social",
+          "where": "Argument with a friend",
+          "sentence": "I’m not changing my answer because I said so.",
+          "highlight": "because I said so",
+          "tip": "Expect it to sound provocative or childish in a disagreement."
+        },
+        {
+          "setting": "writing",
+          "where": "Rejecting a request",
+          "sentence": "We can’t skip the review because I said so.",
+          "highlight": "because I said so",
+          "tip": "In writing, it may seem especially blunt; state the policy or reason plainly."
+        }
+      ],
+      "origin": {
+        "summary": "Likely grew from the old authority formula “I said so,” with “because” making the speaker’s authority the stated reason for a decision.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used “I said so” as a blunt way of claiming that their word was final."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression became common as a dismissive response to questions about the reasons for a decision."
+          },
+          {
+            "when": "Today",
+            "text": "It remains familiar shorthand for stubborn or unreasonable authority."
+          }
+        ]
+      },
+      "similar": [
+        "just because",
+        "I’m the boss",
+        "that’s my final answer"
+      ],
+      "opposite": "because it makes sense",
+      "pitfall": "The phrase dismisses the need for a reason, so it rarely persuades anyone who was not already convinced."
+    },
+    {
+      "id": "between-two-stools",
+      "kind": "phrase",
+      "term": "between two stools",
+      "pos": "idiom",
+      "hint": "torn between two choices",
+      "register": "Common at work",
+      "meaning": "In a difficult position where two choices or obligations pull you in different directions.",
+      "nuance": "It suggests that neither option is comfortable or that trying to satisfy both sides leaves you stuck. The fuller expression, “caught between two stools,” is especially common.",
+      "literal": "Trying to balance yourself on two separate seats at once.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Prioritisation meeting · resolving competing requests",
+          "sentence": "We’re caught between two stools because both projects are important, but we only have one developer available.",
+          "highlight": "between two stools",
+          "tip": "Use it to explain why a decision needs clearer priorities."
+        },
+        {
+          "setting": "social",
+          "where": "Family plans · choosing between activities",
+          "sentence": "I’m between two stools: my friends want to eat out, but my sister has already invited us to her place.",
+          "highlight": "between two stools",
+          "tip": "It works in conversation when you need to admit that two plans do not fit together."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · flagging limited resources",
+          "sentence": "The marketing team is caught between two stools and needs either more capacity or a revised launch date.",
+          "highlight": "between two stools",
+          "tip": "Pair it with a specific request so the problem is easy to address."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from an old comic image of someone trying to balance or sit on two stools at once. The image was later used for the idea of being unable to choose between two sides.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal image suggests a person trying to sit on two separate stools."
+          },
+          {
+            "when": "1600s–1700s",
+            "text": "English writers used the image for divided loyalties and difficult choices."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar way to describe being stuck between competing demands."
+          }
+        ]
+      },
+      "similar": [
+        "torn between two choices",
+        "in a dilemma",
+        "under conflicting demands",
+        "caught in a bind"
+      ],
+      "opposite": "comfortably in agreement",
+      "pitfall": "“Between two stools” often sounds incomplete on its own; “caught between two stools” is the more usual full expression."
+    },
+    {
+      "id": "business-is-business",
+      "kind": "phrase",
+      "term": "business is business",
+      "pos": "phrase",
+      "hint": "work matters take priority over feelings",
+      "register": "Common at work",
+      "meaning": "Business decisions must be based on business priorities rather than personal feelings.",
+      "nuance": "It can sound firm and practical, but also cold or dismissive, especially when someone feels their concerns are being ignored.",
+      "literal": "Commercial matters are governed by commercial priorities.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · handling a conflict",
+          "sentence": "I’m sorry you missed the project, but business is business, so we need to move forward with the new owner.",
+          "highlight": "business is business",
+          "tip": "Use it carefully; it may sound insensitive when emotions are still unresolved."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation with a friend · discussing work",
+          "sentence": "She wanted to keep her friend on the team, but business is business and another manager took the role.",
+          "highlight": "business is business",
+          "tip": "It explains a workplace decision but can make the speaker seem unfeeling."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · declining a personal request",
+          "sentence": "Business is business, so I’m unable to approve the discount outside our standard policy.",
+          "highlight": "Business is business",
+          "tip": "Pair it with a brief explanation or apology to soften the refusal."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines the older sense of “business” as commercial affairs with the older proverb pattern “X is X.” It became a way to present business decisions as impersonal and necessary.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Business” was already used to mean a person’s occupation, commercial affairs or an organization’s work."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression emerged in the era when business and moral rules were often discussed as separate concerns."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in workplace speech for insisting that commercial priorities come first."
+          }
+        ]
+      },
+      "similar": [
+        "that’s just business",
+        "it’s nothing personal",
+        "we have to think about the bottom line"
+      ],
+      "opposite": "business can be personal",
+      "pitfall": "The phrase can sound heartless or cynical; explain the decision and acknowledge the person’s disappointment when appropriate."
+    },
+    {
+      "id": "can-we-say",
+      "kind": "phrase",
+      "term": "can we say",
+      "pos": "phrase",
+      "hint": "a cautious way to check whether something is accurate",
+      "register": "Common at work",
+      "meaning": "A way of asking whether a statement is true, fair or reasonable.",
+      "nuance": "It sounds thoughtful and tentative rather than confrontational. Use it when you want to examine a claim before accepting or rejecting it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · checking progress",
+          "sentence": "Can we say the rollout is complete, or are a few teams still waiting for access?",
+          "highlight": "Can we say",
+          "tip": "Follow it with the specific claim you want to check."
+        },
+        {
+          "setting": "social",
+          "where": "Chatting after dinner · describing a hobby",
+          "sentence": "Can we say we’re terrible at karaoke, or was that rendition actually impressive?",
+          "highlight": "Can we say",
+          "tip": "It adds humor and mild uncertainty to friendly criticism."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance report · qualifying a claim",
+          "sentence": "Can we say customer satisfaction will improve next quarter?",
+          "highlight": "Can we say",
+          "tip": "Use it when the evidence is promising but does not guarantee the result."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines the Old English word “say” with a question about what can be asserted. Its modern use as a cautious way to frame a claim is likely, rather than a clearly traceable fixed expression.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "“Say” developed from an Old English verb meaning to speak, tell or state."
+          },
+          {
+            "when": "Earlier",
+            "text": "Questions about whether something can be said were used to test the truth or suitability of a statement."
+          },
+          {
+            "when": "Today",
+            "text": "“Can we say...?” remains a natural way to introduce careful discussion of a claim."
+          }
+        ]
+      },
+      "similar": [
+        "can we claim",
+        "is it accurate to say",
+        "would it be fair to say"
+      ],
+      "pitfall": "Make sure the question is clear: “Can we say” alone may sound incomplete if the statement it refers to is not obvious."
+    },
+    {
+      "id": "case-closed",
+      "kind": "phrase",
+      "term": "case closed",
+      "pos": "idiom",
+      "hint": "the matter is settled",
+      "register": "Common at work and in casual speech",
+      "meaning": "Used to say that a matter has been settled and does not need any further discussion.",
+      "nuance": "It has a decisive, final tone and can be playful when everyone clearly agrees. In a serious disagreement, saying it too quickly may sound impatient or dismissive.",
+      "literal": "An investigation has been completed and officially closed.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project debrief · ending a debate",
+          "sentence": "We’ve agreed on the final design, so case closed on that decision.",
+          "highlight": "case closed",
+          "tip": "Use it after the decision is clear, not as a way to end an unresolved discussion."
+        },
+        {
+          "setting": "social",
+          "where": "Chat with friends · settling plans",
+          "sentence": "You’re bringing the tickets, I’m handling the food—case closed.",
+          "highlight": "case closed",
+          "tip": "It can add friendly finality when the plan is already settled."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · confirming completion",
+          "sentence": "The remaining checks are complete and all corrections have been sent, so case closed.",
+          "highlight": "case closed",
+          "tip": "Pair it with a brief recap of what was completed."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from legal and law-enforcement language, where a case is formally closed after an investigation is complete. Detective stories and television later helped make the short expression familiar.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The word “case” came to mean a matter or investigation, especially in legal and law-enforcement settings."
+          },
+          {
+            "when": "20th century",
+            "text": "Detective stories and crime television popularized the idea of declaring an investigation finished with “case closed.”"
+          },
+          {
+            "when": "Today",
+            "text": "The expression is used figuratively to mark any issue as settled."
+          }
+        ]
+      },
+      "similar": [
+        "that’s settled",
+        "all done",
+        "it’s a wrap",
+        "matter closed"
+      ],
+      "opposite": "still open",
+      "pitfall": "It can sound abrupt in a heated discussion; make sure the decision is genuinely final before using it."
+    },
+    {
+      "id": "caught-between-two-stools",
+      "kind": "phrase",
+      "term": "caught between two stools",
+      "pos": "idiom",
+      "hint": "stuck choosing between two options",
+      "register": "Common at work",
+      "meaning": "Caught in a difficult position because two choices or pressures pull you in different directions.",
+      "nuance": "It describes a genuine bind, often involving divided loyalties, responsibilities or competing demands. It can sound more negative than simply saying you are undecided.",
+      "literal": "Trying to sit safely on two chairs at once, as if either could tip you off.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning cover · resolving competing requests",
+          "sentence": "I’m caught between two stools because my manager wants the report today, but the client asked for it tomorrow.",
+          "highlight": "caught between two stools",
+          "tip": "Use it to explain a conflict, then suggest how the competing demands could be balanced."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing plans · two friends disagree",
+          "sentence": "I’m caught between two stools: Maya wants dinner tonight, but Sam has already booked us for the match.",
+          "highlight": "caught between two stools",
+          "tip": "It fits when two reasonable options make scheduling genuinely difficult."
+        },
+        {
+          "setting": "writing",
+          "where": "Resignation email · leaving a team",
+          "sentence": "After months of feeling caught between two stools, I decided to leave and focus on one role.",
+          "highlight": "caught between two stools",
+          "tip": "This sounds slightly formal; explain the conflicting responsibilities for clarity."
+        }
+      ],
+      "origin": {
+        "summary": "The exact source is unclear, but similar expressions about being divided between two positions were in use during the 19th century. The modern wording became established as a way to describe conflicting loyalties or pressures.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "Related phrases about being divided between two stools appear in writing."
+          },
+          {
+            "when": "Later 19th century",
+            "text": "The wording “caught between two stools” becomes established for a person torn between competing positions."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used for conflicts involving duties, loyalties, priorities or obligations."
+          }
+        ]
+      },
+      "similar": [
+        "between a rock and a hard place",
+        "torn between two options",
+        "in a dilemma",
+        "caught in the middle"
+      ],
+      "opposite": "comfortably in one position",
+      "pitfall": "Reserve it for a real conflict; using it for ordinary indecision may sound overly dramatic."
+    },
+    {
+      "id": "credit-where-credits-due",
+      "kind": "phrase",
+      "term": "credit where credit's due",
+      "pos": "phrase",
+      "hint": "acknowledging who deserves recognition",
+      "register": "Common",
+      "meaning": "Used to say that someone should receive recognition for the work or contribution they made.",
+      "nuance": "It can be a genuine acknowledgment, but it can also point out that one person has been overlooked. The tone may feel direct or slightly challenging depending on the situation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · recognizing support",
+          "sentence": "Maya handled the difficult client call, so there’s credit where credit’s due.",
+          "highlight": "credit where credit’s due",
+          "tip": "Name the contribution so the recognition feels specific."
+        },
+        {
+          "setting": "social",
+          "where": "Group conversation · sharing an achievement",
+          "sentence": "I cooked most of dinner, so I think there’s credit where credit’s due.",
+          "highlight": "credit where credit’s due",
+          "tip": "A light joke can soften a request for equal credit."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · clarifying contributions",
+          "sentence": "The campaign succeeded because several people contributed ideas, and there’s credit where credit’s due.",
+          "highlight": "credit where credit’s due",
+          "tip": "Follow it by naming the people who helped."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from an older expression about giving people credit when they deserve it. Its exact modern wording became established through repeated use.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Older versions used the longer form “give credit where credit is due.”"
+          },
+          {
+            "when": "20th century",
+            "text": "The expression became common in spoken and written English."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar way to recognize a contribution or point out an omission."
+          }
+        ]
+      },
+      "similar": [
+        "give credit where credit is due",
+        "deserve recognition",
+        "give credit",
+        "acknowledge someone's contribution"
+      ],
+      "pitfall": "The shorter phrase can sound pointed when someone feels they received too little recognition, so use it carefully."
+    },
+    {
+      "id": "dont-knock-it-until-youve-tried-it",
+      "kind": "phrase",
+      "term": "don't knock it until you've tried it",
+      "pos": "phrase",
+      "hint": "judge it only after trying it",
+      "register": "Everyday",
+      "meaning": "Do not criticise or dismiss something until you have given it a fair try.",
+      "nuance": "This is friendly advice that encourages an open mind, though it can sound defensive if used when someone is criticising you.",
+      "literal": "Knocking on a door before trying what is behind it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · considering an unfamiliar tool",
+          "sentence": "Don’t knock it until you’ve tried it—the new scheduling tool may solve half your admin work.",
+          "highlight": "Don’t knock it until you’ve tried it",
+          "tip": "Use it to encourage curiosity without dismissing the other person’s concerns."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · trying a new food",
+          "sentence": "Don’t knock it until you’ve tried it; the soup smells strange, but it tastes surprisingly good.",
+          "highlight": "Don’t knock it until you’ve tried it",
+          "tip": "It works well when inviting someone to be less quick to judge."
+        },
+        {
+          "setting": "writing",
+          "where": "Product feedback · reviewing an unfamiliar feature",
+          "sentence": "Don’t knock it until you’ve tried it, because the reports have been easier to use than expected.",
+          "highlight": "Don’t knock it until you’ve tried it",
+          "tip": "Keep it light in writing, especially where disagreement may already be sensitive."
+        }
+      ],
+      "origin": {
+        "summary": "This appears to combine older advice not to judge something in advance with the familiar image of knocking, a theme associated with doors and waiting to be invited in.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English and other European languages had proverbs warning people not to judge something before trying it."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "Short proverb-like expressions about trying before criticising became established in everyday speech."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase remains a common and playful way to ask people to keep an open mind."
+          }
+        ]
+      },
+      "similar": [
+        "give it a chance",
+        "try before you criticise",
+        "judge it on its merits"
+      ],
+      "opposite": "dismiss it out of hand",
+      "pitfall": "It does not mean you must ignore genuine problems; the advice is to try the thing yourself before condemning it."
+    },
+    {
+      "id": "dont-tread-on-me",
+      "kind": "phrase",
+      "term": "Don't tread on me",
+      "pos": "phrase",
+      "hint": "a warning not to threaten or intrude",
+      "register": "Formal",
+      "meaning": "A warning to keep away and not provoke, challenge or take advantage of someone.",
+      "nuance": "The phrase is forceful and defensive, often expressing independence or a willingness to resist. It can sound rebellious or confrontational outside a historical or political context.",
+      "literal": "A warning not to step on a dangerous snake.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Responding to a controlling colleague",
+          "sentence": "If you keep overruling my decisions without discussion, don’t tread on me.",
+          "highlight": "don’t tread on me",
+          "tip": "Use it only after setting a clear boundary, because it can end a working relationship."
+        },
+        {
+          "setting": "social",
+          "where": "Defending your personal space",
+          "sentence": "I’m happy to chat, but please don’t tread on me while I’m trying to relax.",
+          "highlight": "don’t tread on me",
+          "tip": "It sounds stronger and more confrontational than simply asking for personal space."
+        },
+        {
+          "setting": "writing",
+          "where": "Declining pressure in a message",
+          "sentence": "I’m willing to discuss the deadline, but please don’t tread on me with an ultimatum.",
+          "highlight": "don’t tread on me",
+          "tip": "In writing, pair it with calm, specific language so the message does not seem hostile."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase appeared in colonial America as a warning against oppression and is closely associated with the Gadsden flag, which showed a coiled rattlesnake.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1775",
+            "text": "The phrase and snake imagery appeared on the first Gadsden flag during the American Revolution."
+          },
+          {
+            "when": "Late 18th–19th centuries",
+            "text": "It became linked with resistance, independence and opposition to arbitrary authority."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used as a political slogan or a forceful warning not to challenge someone."
+          }
+        ]
+      },
+      "similar": [
+        "keep off",
+        "leave me alone",
+        "back off",
+        "don’t mess with me"
+      ],
+      "opposite": "be vulnerable",
+      "pitfall": "Because the phrase is confrontational, use it sparingly and avoid making it sound like a threat."
+    },
+    {
+      "id": "eat-the-rich",
+      "kind": "phrase",
+      "term": "eat the rich",
+      "pos": "phrase",
+      "hint": "take wealth from the wealthiest people",
+      "register": "Informal and politically charged",
+      "meaning": "A slogan or accusation suggesting that wealthy people should lose their wealth or resources so that others can benefit.",
+      "nuance": "It is blunt, hostile and often used in radical political criticism. It can sound violent, classist or theatrical, so context matters.",
+      "literal": "The wealthy people are literally consumed, creating a deliberately grotesque image of their wealth being taken away.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · pay inequality",
+          "sentence": "Her argument was basically to eat the rich and redistribute the profits.",
+          "highlight": "eat the rich",
+          "tip": "Use it only when discussing extreme redistribution or clearly satirizing inequality."
+        },
+        {
+          "setting": "social",
+          "where": "Argument with a friend · tax policy",
+          "sentence": "He jokingly said we should eat the rich, but nobody thought he meant it literally.",
+          "highlight": "eat the rich",
+          "tip": "The joke works best when everyone already understands the political reference."
+        },
+        {
+          "setting": "writing",
+          "where": "Opinion column · wealth inequality",
+          "sentence": "The campaign slogan seemed to tell the public to eat the rich rather than fix the system.",
+          "highlight": "eat the rich",
+          "tip": "Quote it when reporting a slogan; outside quotation marks, it may distract from your point."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is uncertain, but the phrase became established in left-wing and anti-capitalist rhetoric during the 20th century. People sometimes connect it with the earlier “let them eat cake” slogan, although a direct historical line is hard to prove.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The familiar image of food being withheld from hungry people appears in older political sayings."
+          },
+          {
+            "when": "20th century",
+            "text": "“Eat the rich” appears in radical and anti-capitalist political language."
+          },
+          {
+            "when": "Late 20th century onward",
+            "text": "The phrase becomes widely recognizable as a provocative slogan about inequality and redistribution."
+          }
+        ]
+      },
+      "similar": [
+        "eat the cake",
+        "rob Peter to pay Paul",
+        "take from the rich and give to the poor"
+      ],
+      "opposite": "leave the rich alone",
+      "pitfall": "Do not use it as a neutral description of taxation or redistribution; it frames the policy as a hostile attack on wealthy people."
+    },
+    {
+      "id": "end-of-story",
+      "kind": "phrase",
+      "term": "end of story",
+      "pos": "phrase",
+      "hint": "a final decision with no more discussion",
+      "register": "Common at work and everyday conversation",
+      "meaning": "A way of saying that a matter is settled and should not be discussed further.",
+      "nuance": "Firm and slightly impatient; it signals that you consider the issue closed. Use it sparingly because it can sound dismissive.",
+      "literal": "The story has reached its final line, so there is nothing more to add.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project meeting · closing a decision",
+          "sentence": "We agreed on Friday, and that’s the end of story.",
+          "highlight": "end of story",
+          "tip": "Use it after a decision is clear and final."
+        },
+        {
+          "setting": "social",
+          "where": "Responding to repeated questions",
+          "sentence": "I said no, and that’s the end of story.",
+          "highlight": "end of story",
+          "tip": "Keep the tone light if you do not want to sound harsh."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · explaining a remaining step",
+          "sentence": "We still need approval, so I can’t call this the end of story.",
+          "highlight": "end of story",
+          "tip": "It can make an email sound decisive, but avoid sounding dismissive."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase uses the literal idea of reaching the end of a narrative to mean that a subject has been fully settled.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Story” referred to a narrative or account, including its ending."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression began appearing as a way of saying that a topic or dispute was finished."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a direct, informal way to declare a matter closed."
+          }
+        ]
+      },
+      "similar": [
+        "case closed",
+        "that’s that",
+        "final decision",
+        "no more discussion"
+      ],
+      "opposite": "open for discussion",
+      "pitfall": "Using it before everyone understands the decision may sound like you are refusing to discuss the issue further."
+    },
+    {
+      "id": "fair-is-fair",
+      "kind": "phrase",
+      "term": "fair is fair",
+      "pos": "phrase",
+      "hint": "a fair result for everyone",
+      "register": "Common at work",
+      "meaning": "A fair decision should be based on the same standard for everyone.",
+      "nuance": "It can express confidence that a situation has been handled impartially. It may sound firm or slightly argumentative if someone feels the opposite.",
+      "literal": "If the situation is fair, it is fair by definition, without special treatment for anyone.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Reviewing a team decision",
+          "sentence": "The same criteria applied to both proposals, so fair is fair; we should move forward.",
+          "highlight": "fair is fair",
+          "tip": "Use it after briefly explaining the evidence or criteria."
+        },
+        {
+          "setting": "social",
+          "where": "Settling a disagreement",
+          "sentence": "We each chose the same restaurant and split the bill evenly, so fair is fair.",
+          "highlight": "fair is fair",
+          "tip": "It can gently close a dispute when everyone treated the situation the same way."
+        },
+        {
+          "setting": "writing",
+          "where": "Explaining a workplace decision",
+          "sentence": "Everyone received the same review process, and fair is fair means the final result did not depend on personal preference.",
+          "highlight": "fair is fair",
+          "tip": "Pair it with the specific standard that was applied."
+        }
+      ],
+      "origin": {
+        "summary": "Probably grew from older English proverbs about giving people no more or less than what is right. Its exact first appearance is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Older proverbs and legal language stressed impartial judgment and equal treatment."
+          },
+          {
+            "when": "19th century",
+            "text": "The short proverb form “fair is fair” became established in English."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar way to defend a decision as reasonable and unbiased."
+          }
+        ]
+      },
+      "similar": [
+        "by the same token",
+        "all is fair in love and war",
+        "fair enough"
+      ],
+      "opposite": "special treatment",
+      "pitfall": "It does not prove a decision was fair; explain the standard you are applying."
+    },
+    {
+      "id": "fair-play",
+      "kind": "phrase",
+      "term": "fair play",
+      "pos": "phrase",
+      "hint": "honest rules, no cheating",
+      "register": "Common at work",
+      "meaning": "Honest behaviour that follows the rules and gives everyone a fair chance.",
+      "nuance": "It can describe playing a sport honestly, but it also works more broadly for workplace decisions and relationships. It is more likely to sound accusatory when used during a disagreement.",
+      "literal": "Players follow the rules and do not gain an unfair advantage.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team review · discussing assignments",
+          "sentence": "Let’s decide this by fair play rather than favouring whoever asked first.",
+          "highlight": "fair play",
+          "tip": "Use it when the decision process itself needs to be impartial."
+        },
+        {
+          "setting": "social",
+          "where": "Friendly match · settling a dispute",
+          "sentence": "I thought the game would be fair play, so I’m not happy about that last point.",
+          "highlight": "fair play",
+          "tip": "In sport, this naturally means following the rules without cheating."
+        },
+        {
+          "setting": "writing",
+          "where": "Complaint email · explaining a concern",
+          "sentence": "I expected fair play from both sides, not a series of decisions made behind our backs.",
+          "highlight": "fair play",
+          "tip": "Pair it with a specific, factual example of what seemed unfair."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the idea of sports being played according to agreed rules. Its broader sense of honest and impartial behaviour became established in the 19th century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Late 16th century",
+            "text": "The expression first referred to honest and rule-following play in sport."
+          },
+          {
+            "when": "19th century",
+            "text": "It began to describe moral honesty, especially in public life and business."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common for rules, competition and fair treatment."
+          }
+        ]
+      },
+      "similar": [
+        "sportsmanship",
+        "honest play",
+        "playing by the rules",
+        "fairness"
+      ],
+      "opposite": "foul play",
+      "pitfall": "In everyday conversation, “fair play” may imply that someone has cheated or ignored the rules, so explain the specific problem if that is your point."
+    },
+    {
+      "id": "fairs-fair",
+      "kind": "phrase",
+      "term": "fair's fair",
+      "pos": "phrase",
+      "hint": "fair treatment should go both ways",
+      "register": "Casual",
+      "meaning": "Used to say that a situation or decision is fair because the same rule applies to everyone.",
+      "nuance": "It has a practical, slightly firm tone: accept the outcome because neither side is receiving special treatment. It is common in friendly British English but can sound impatient if used too forcefully.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · sharing a workload",
+          "sentence": "We take turns presenting, fair's fair, so everyone gets some practice.",
+          "highlight": "fair's fair",
+          "tip": "Use it to reinforce an equal rule rather than demand a personal concession."
+        },
+        {
+          "setting": "social",
+          "where": "Friends settling a bill",
+          "sentence": "We split the restaurant bill down the middle, fair's fair.",
+          "highlight": "fair's fair",
+          "tip": "It works well when the arrangement is simple and genuinely even."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a housemate",
+          "sentence": "I did the shopping last time, so it's your turn to clean, fair's fair.",
+          "highlight": "fair's fair",
+          "tip": "It is friendly but direct; avoid it when the other person may feel singled out."
+        }
+      ],
+      "origin": {
+        "summary": "Probably grew from the older idea that fairness means equal treatment. The exact expression became established in British English during the 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The adjective “fair” had long meant equal and just treatment."
+          },
+          {
+            "when": "1800s",
+            "text": "The repeated form “fair's fair” appears in British speech as a way of stating that equality must apply both ways."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in informal British English and is understood more widely."
+          }
+        ]
+      },
+      "similar": [
+        "that's fair",
+        "fair enough",
+        "in fairness",
+        "on equal terms"
+      ],
+      "opposite": "unfair",
+      "pitfall": "The phrase asserts that a situation is fair; make sure the rule really is even before saying it."
+    },
+    {
+      "id": "heads-i-win-tails-you-lose",
+      "kind": "phrase",
+      "term": "heads I win, tails you lose",
+      "pos": "phrase",
+      "hint": "a rigged outcome either way",
+      "register": "Informal",
+      "meaning": "A situation in which one side benefits whichever outcome occurs.",
+      "nuance": "It is often used to describe a bargain, rule or decision that seems unfair or deliberately one-sided. It can sound accusing, so explain the specific problem when using it.",
+      "literal": "A coin toss in which one person wins on heads and the other loses on tails.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · reviewing a proposal",
+          "sentence": "The manager called the proposal heads I win, tails you lose because either outcome favors one team.",
+          "highlight": "heads I win, tails you lose",
+          "tip": "Use it to flag a visibly one-sided process, then explain the problem."
+        },
+        {
+          "setting": "social",
+          "where": "Argument with a friend · disputing a deal",
+          "sentence": "She rejected the offer because it was heads I win, tails you lose for the person proposing it.",
+          "highlight": "heads I win, tails you lose",
+          "tip": "It conveys frustration more strongly than simply calling a deal unfair."
+        },
+        {
+          "setting": "writing",
+          "where": "Email about contract terms",
+          "sentence": "As written, the contract is heads I win, tails you lose for one side and needs revision.",
+          "highlight": "heads I win, tails you lose",
+          "tip": "Follow it with a concrete clause or outcome to make the criticism clear."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably grew from an ancient coin-toss example used to describe outcomes that seem inevitable for one person. The precise path to the modern wording is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Ancient Greece",
+            "text": "Stoic philosopher Chrysippus used a heads-or-tails example to discuss outcomes that appear to favor one side."
+          },
+          {
+            "when": "19th–20th centuries",
+            "text": "English-language versions of the coin-toss challenge became established as a description of a one-sided bargain."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar, informal way to criticize arrangements that seem rigged."
+          }
+        ]
+      },
+      "similar": [
+        "a win-win situation",
+        "a no-win situation",
+        "a one-sided deal",
+        "a rigged system"
+      ],
+      "opposite": "a level playing field",
+      "pitfall": "It is a strong accusation, so avoid it when the situation is merely unbalanced rather than plainly unfair."
+    },
+    {
+      "id": "hear-me-out",
+      "kind": "phrase",
+      "term": "hear me out",
+      "pos": "phrase",
+      "hint": "listen before judging",
+      "register": "Everyday",
+      "meaning": "Please listen to what I have to say before you respond or make a decision.",
+      "nuance": "It asks for patience and a fair chance to explain your position. It can sound slightly impatient if used repeatedly, so keep your tone warm.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · explaining a missed deadline",
+          "sentence": "Hear me out: the report was blocked by missing data, and I have a plan to get it back on schedule.",
+          "highlight": "Hear me out",
+          "tip": "Use it when context matters and the other person may be about to react."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · explaining a change of plans",
+          "sentence": "Hear me out before you say no; I think we can still make the trip if we leave earlier.",
+          "highlight": "Hear me out",
+          "tip": "A relaxed tone makes it sound like a request, not an argument."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · requesting a quick conversation",
+          "sentence": "Could you hear me out for five minutes? I’d like to explain the situation from my side.",
+          "highlight": "hear me out",
+          "tip": "It works well when the full explanation does not fit comfortably in an email."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from a simple older English pattern meaning to listen to someone until they finish speaking. The wording became common as a way to ask for an uninterrupted hearing.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English speakers used various forms of “hear” and “listen” to request attention."
+          },
+          {
+            "when": "1800s",
+            "text": "The exact expression “hear me out” became established in English conversation and writing."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar phrase for asking someone to hear your explanation before responding."
+          }
+        ]
+      },
+      "similar": [
+        "listen to me",
+        "let me explain",
+        "hear my side"
+      ],
+      "opposite": "ignore me",
+      "pitfall": "It can sound demanding if you use it with a sharp tone; explain what you need and allow the other person to respond."
+    },
+    {
+      "id": "i-know-it-when-i-see-it",
+      "kind": "phrase",
+      "term": "I know it when I see it",
+      "pos": "idiom",
+      "hint": "recognizing something from experience",
+      "register": "Common",
+      "meaning": "Being able to recognize something as soon as you encounter it, based on experience or instinct.",
+      "nuance": "This suggests that recognition comes from direct exposure rather than a precise definition. It can be useful when describing taste, warning signs, authenticity, or a problem, though it may sound subjective.",
+      "literal": "You recognize something immediately after seeing it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · spotting a weak proposal",
+          "sentence": "I know it when I see it, and this proposal has several signs of a rushed decision.",
+          "highlight": "I know it when I see it",
+          "tip": "Use it when experience is important, but explain the signs that made you suspicious."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation about food · recognizing a favorite",
+          "sentence": "I know it when I see it—that restaurant’s roast potatoes are unmistakable.",
+          "highlight": "I know it when I see it",
+          "tip": "A relaxed way to describe an immediate, confident reaction without giving a formal explanation."
+        },
+        {
+          "setting": "writing",
+          "where": "Review comment · explaining a design choice",
+          "sentence": "I know it when I see it: the layout feels cluttered, even though every individual element is fine.",
+          "highlight": "I know it when I see it",
+          "tip": "Follow it with a specific observation so the reader understands what you noticed."
+        }
+      ],
+      "origin": {
+        "summary": "The expression became well known through a 1972 US Supreme Court opinion, but an earlier version appeared in a legal writing from the early 1900s. It describes practical recognition rather than a strict test.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Early 1900s",
+            "text": "An earlier form of the expression appears in legal commentary about judging obscenity by personal reaction."
+          },
+          {
+            "when": "1972",
+            "text": "A US Supreme Court concurrence used the phrase “know it when I see it,” helping make it widely familiar."
+          },
+          {
+            "when": "Today",
+            "text": "It is common informal English for recognizing something through experience."
+          }
+        ]
+      },
+      "similar": [
+        "you can tell",
+        "I can spot it immediately",
+        "it speaks for itself"
+      ],
+      "opposite": "I can’t quite put my finger on it",
+      "pitfall": "The phrase can sound subjective, so support it with concrete details when you need someone to agree."
+    },
+    {
+      "id": "i-only-work-here",
+      "kind": "phrase",
+      "term": "I only work here",
+      "pos": "phrase",
+      "hint": "I’m not taking responsibility beyond my role",
+      "register": "Common at work",
+      "meaning": "I’m doing my job, but the issue is outside my role or authority.",
+      "nuance": "It can set a boundary, but it may also sound defensive or dismissive, especially when said bluntly.",
+      "literal": "My job is at this workplace, and nothing beyond it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · unclear responsibilities",
+          "sentence": "I only work here, so changing the approval process is probably Priya’s responsibility.",
+          "highlight": "I only work here",
+          "tip": "Pair the boundary with a suggestion about who can help."
+        },
+        {
+          "setting": "social",
+          "where": "Group chat · unexpected extra task",
+          "sentence": "I only work here, so I can’t organise the whole event after dinner.",
+          "highlight": "I only work here",
+          "tip": "A warmer, less literal alternative may work better with friends."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · handling another team’s request",
+          "sentence": "I only work here, so I’m not the best person to approve this request.",
+          "highlight": "I only work here",
+          "tip": "Name the appropriate colleague instead of leaving the request hanging."
+        }
+      ],
+      "origin": {
+        "summary": "There is no confirmed single origin. The phrase likely developed from the ordinary statement “I work here,” with “only” limiting the speaker’s role or responsibility.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Workers used simple statements such as “I work here” to identify their employment or workplace."
+          },
+          {
+            "when": "20th century",
+            "text": "Adding “only” became a way to indicate that a matter fell outside someone’s duties."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase remains a blunt boundary-setting expression in workplaces."
+          }
+        ]
+      },
+      "similar": [
+        "I’m just doing my job",
+        "That’s not my job",
+        "I do what I’m asked"
+      ],
+      "pitfall": "It can imply that you don’t care about the wider problem; name your limit politely and offer a next step when possible."
+    },
+    {
+      "id": "i-rest-my-case",
+      "kind": "phrase",
+      "term": "I rest my case",
+      "pos": "idiom",
+      "hint": "I have said everything I need to say",
+      "register": "Informal and theatrical",
+      "meaning": "To declare that you have finished making your argument and have nothing further to add.",
+      "nuance": "It can sound confident and final, often with a hint of smugness. Use it lightly when your point is settled, but avoid it when the other person may still feel genuinely unconvinced.",
+      "literal": "A lawyer announces that they have stopped presenting evidence and are leaving the decision to the court.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · closing a point",
+          "sentence": "The report explains every delay, so I rest my case.",
+          "highlight": "I rest my case",
+          "tip": "Use it for a lighthearted finish after your strongest point has been made."
+        },
+        {
+          "setting": "social",
+          "where": "Friendly debate · winning an argument",
+          "sentence": "My neighbour locked his keys inside again, and once again, I rest my case.",
+          "highlight": "I rest my case",
+          "tip": "The dramatic tone works best among people who know each other well."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · ending a firm explanation",
+          "sentence": "The screenshots and timestamps show exactly what happened; I rest my case.",
+          "highlight": "I rest my case",
+          "tip": "It can be too pointed in formal correspondence, where a neutral closing is usually better."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from courtroom language. A lawyer saying “I rest my case” concluded the presentation of their side, with its figurative sense developing as a way to end an argument decisively.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "In court, a lawyer announces that they have finished presenting evidence for their side."
+          },
+          {
+            "when": "19th century",
+            "text": "The courtroom expression becomes widely recorded in English."
+          },
+          {
+            "when": "20th century onward",
+            "text": "The phrase spreads into playful, nonlegal speech as a way to close an argument."
+          }
+        ]
+      },
+      "similar": [
+        "my point stands",
+        "that settles it",
+        "I have said my piece"
+      ],
+      "opposite": "I have more to say",
+      "pitfall": "Because it can sound smug or dismissive, avoid it when you still need to persuade someone or repair a disagreement."
+    }
+  ]
+}
