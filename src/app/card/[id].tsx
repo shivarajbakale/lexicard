@@ -1,6 +1,6 @@
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { useEffect, useRef, useState } from 'react';
-import { StyleSheet, View, type ScrollViewInstance } from 'react-native';
+import { StyleSheet, useWindowDimensions, View, type ScrollViewInstance } from 'react-native';
 import Animated, { FadeInDown } from 'react-native-reanimated';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
@@ -23,6 +23,7 @@ export default function CardDetail() {
   const { id, log } = useLocalSearchParams<{ id: string; log?: string }>();
   const router = useRouter();
   const insets = useSafeAreaInsets();
+  const phone = useWindowDimensions().width < 430;
   const card = cardsById[id ?? ''];
   const saved = useStore((s) => s.saved.includes(id ?? ''));
   const toggleSaved = useStore((s) => s.toggleSaved);
@@ -65,6 +66,7 @@ export default function CardDetail() {
     );
   }
 
+  const heroSize = card.term.length > 16 ? (phone ? 28 : 34) : phone ? 34 : 42;
   const kind = kindStyle[card.kind];
   const conf = confidenceStyle[card.origin.confidence];
   const deck = deckOfCard[card.id];
@@ -111,7 +113,7 @@ export default function CardDetail() {
               </Txt>
             </View>
           </View>
-          <Txt weight="semibold" size={card.term.length > 16 ? 34 : 42} style={{ letterSpacing: -1.3, lineHeight: card.term.length > 16 ? 38 : 46 }}>
+          <Txt weight="semibold" size={heroSize} style={{ letterSpacing: heroSize > 32 ? -1.1 : -0.6, lineHeight: Math.round(heroSize * 1.12) }}>
             {card.term}
           </Txt>
           <PressScale
