@@ -1,0 +1,26 @@
+{
+  "engine": "kokoro",
+  "model": "hexgrad/Kokoro-82M",
+  "voices": {
+    "heart": {
+      "id": "af_heart",
+      "lang": "a"
+    },
+    "michael": {
+      "id": "am_michael",
+      "lang": "a"
+    }
+  },
+  "bitrate": 96,
+  "speed": {
+    "term": 0.85,
+    "meaning": 0.95,
+    "work": 1.0,
+    "social": 1.0,
+    "writing": 0.97
+  },
+  "spokenAs": {
+    "pragmatic": "Prag-matic"
+  },
+  "_help": "voices: app voice key -> Kokoro voice id (af_* American female, am_* American male, bf_/bm_ British) and lang ('a' American, 'b' British English). The keys must match src/lib/voices.ts. spokenAs: optional per-card override of what is spoken for the term clip, e.g. {\"delegate\": \"dell-ih-gate\"}."
+}
