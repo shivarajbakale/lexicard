@@ -1,0 +1,539 @@
+{
+  "id": "idioms-risk-luck-2",
+  "kind": "idiom",
+  "name": "Risk & luck · 2",
+  "blurb": "9 idioms about risk & luck",
+  "cards": [
+    {
+      "id": "rule-out",
+      "kind": "idiom",
+      "term": "rule out",
+      "pos": "idiom",
+      "hint": "decide something is impossible",
+      "register": "Common at work",
+      "meaning": "To eliminate a possibility or make something unable to happen.",
+      "nuance": "It suggests using evidence, judgment, or an action to remove an option from consideration. It is often used when discussing plans, causes, risks, or explanations.",
+      "literal": "To draw a line around something and keep it outside.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · assessing risks",
+          "sentence": "The data lets us rule out a network outage as the cause of the delay.",
+          "highlight": "rule out",
+          "tip": "Common when considering possible causes or obstacles."
+        },
+        {
+          "setting": "social",
+          "where": "Making plans · checking availability",
+          "sentence": "Let’s rule out Friday for the dinner, since I’ll be travelling that day.",
+          "highlight": "rule out",
+          "tip": "Often means deciding that a time or option is unavailable."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · explaining a finding",
+          "sentence": "The investigation did not rule out human error, so the report recommends additional safeguards.",
+          "highlight": "rule out",
+          "tip": "Formal and careful; often followed by a possible cause or outcome."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines the older sense of ‘rule’ with ‘out’, meaning to exclude or decide against something. The exact earliest figurative use is difficult to pin down, but the expression is well established.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The word ‘rule’ already meant to make a decision or exclude a possibility."
+          },
+          {
+            "when": "1800s",
+            "text": "The combination ‘rule out’ appears in writing for excluding an option or possibility."
+          },
+          {
+            "when": "Today",
+            "text": "Means eliminate a possibility, explanation, risk, or available choice."
+          }
+        ]
+      },
+      "similar": [
+        "eliminate",
+        "rule out",
+        "exclude",
+        "dismiss"
+      ],
+      "opposite": "consider",
+      "pitfall": "It does not mean simply to reject an idea; it usually implies that evidence or a deliberate check makes that option unlikely or impossible."
+    },
+    {
+      "id": "shoot-oneself-in-the-foot",
+      "kind": "idiom",
+      "term": "shoot oneself in the foot",
+      "pos": "idiom",
+      "hint": "harm yourself with your own action",
+      "register": "Common at work",
+      "meaning": "To harm your own interests or chances by doing something careless or counterproductive.",
+      "nuance": "It describes a self-inflicted setback, often caused by an avoidable mistake. It can be serious or mildly humorous, depending on the context.",
+      "literal": "Aiming a gun at one’s own foot and accidentally firing it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning · changing a working system",
+          "sentence": "By removing the old backup, we shot ourselves in the foot just before the audit.",
+          "highlight": "shot ourselves in the foot",
+          "tip": "Often used when a decision makes a later problem worse."
+        },
+        {
+          "setting": "social",
+          "where": "Arranging a party",
+          "sentence": "I shot myself in the foot by inviting everyone to arrive before the venue was ready.",
+          "highlight": "shot myself in the foot",
+          "tip": "Use it when your own choice creates an awkward problem."
+        },
+        {
+          "setting": "writing",
+          "where": "Commentary · evaluating a policy",
+          "sentence": "The company shot itself in the foot by raising prices while customers were already switching away.",
+          "highlight": "shot itself in the foot",
+          "tip": "Useful in reports and opinion pieces to describe self-inflicted damage."
+        }
+      ],
+      "origin": {
+        "summary": "The expression likely comes from the obvious danger of accidentally shooting one’s own foot. Its figurative use is well established, but the exact first recorded example is difficult to identify.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The literal image of firing a gun and injuring one’s own foot appears in explanations of the expression."
+          },
+          {
+            "when": "1900s",
+            "text": "The phrase becomes established in English for a self-inflicted mistake or loss."
+          },
+          {
+            "when": "Today",
+            "text": "Means damaging your own position, plan or opportunity."
+          }
+        ]
+      },
+      "similar": [
+        "cut oneself in the foot",
+        "sabotage oneself",
+        "undermine oneself"
+      ],
+      "opposite": "look out for oneself",
+      "pitfall": "Usually takes a subject: ‘We shot ourselves in the foot,’ not ‘We shot in the foot.’"
+    },
+    {
+      "id": "skin-in-the-game",
+      "kind": "idiom",
+      "term": "skin in the game",
+      "pos": "idiom",
+      "hint": "a personal stake in the outcome",
+      "register": "Common at work",
+      "meaning": "Having money, effort, or personal consequences at stake in a decision or result.",
+      "nuance": "It often suggests that someone is willing to accept some risk because they share the consequences. It can also be used critically when a person or organisation benefits from a decision without carrying the same risks.",
+      "literal": "Your own money or resources being exposed to the same risks as your bet.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · choosing a project",
+          "sentence": "Our director has skin in the game because she invested in the pilot program.",
+          "highlight": "skin in the game",
+          "tip": "Use it when someone has a personal financial or professional stake in the outcome."
+        },
+        {
+          "setting": "social",
+          "where": "Investing with friends",
+          "sentence": "I’m only recommending the business if the owner has skin in the game.",
+          "highlight": "skin in the game",
+          "tip": "Natural when discussing investments, business ventures, or shared risks."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial on executive pay",
+          "sentence": "Without skin in the game, senior executives may not feel the full consequences of risky decisions.",
+          "highlight": "skin in the game",
+          "tip": "Useful in argument or commentary about incentives and accountability."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from gambling and skiing, where the stakes can be money or physical risk. Its broader business meaning became especially familiar through discussions of investment and accountability.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "The expression appears in contexts involving gambling and skiing, where participants can lose money or suffer injury."
+          },
+          {
+            "when": "20th century",
+            "text": "It becomes associated with investments and situations where decision-makers share the risks of their choices."
+          },
+          {
+            "when": "Today",
+            "text": "It means having a personal stake in the outcome of a decision or activity."
+          }
+        ]
+      },
+      "similar": [
+        "share the risk",
+        "put money where your mouth is",
+        "have a personal stake"
+      ],
+      "opposite": "free ride",
+      "pitfall": "It usually means more than simply being involved: it specifically suggests personal exposure to risk or loss."
+    },
+    {
+      "id": "take-the-plunge",
+      "kind": "idiom",
+      "term": "take the plunge",
+      "pos": "idiom",
+      "hint": "finally decide to try something",
+      "register": "Common at work",
+      "meaning": "To finally start doing something important or difficult after hesitating.",
+      "nuance": "It suggests a deliberate move into uncertainty, often after careful thought. Use it when someone commits to a new job, major purchase, bold plan or unfamiliar experience.",
+      "literal": "Jumping into deep water.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Career change · accepting a new role",
+          "sentence": "After months of deliberating, she decided to take the plunge and join the startup.",
+          "highlight": "take the plunge",
+          "tip": "Often signals a bold or irreversible career decision."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans · trying something new",
+          "sentence": "We finally took the plunge and booked a beginner ceramics class.",
+          "highlight": "took the plunge",
+          "tip": "The past tense changes to ‘took the plunge’."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel feature · a major trip",
+          "sentence": "Many travellers take the plunge by spending their savings on a once-in-a-lifetime journey.",
+          "highlight": "take the plunge",
+          "tip": "Common in informal travel writing and personal essays."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the older word ‘plunge’, meaning to dive into water. Writers later extended the image to mean entering a risky or unfamiliar undertaking.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1400s",
+            "text": "‘Plunge’ is used in English for diving deeply into water."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers begin using the diving image for bold action or commitment."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase means finally committing to a challenging or uncertain course of action."
+          }
+        ]
+      },
+      "similar": [
+        "bite the bullet",
+        "jump at the chance",
+        "go for it"
+      ],
+      "opposite": "play it safe",
+      "pitfall": "Use ‘take the plunge’ for a deliberate decision; it is less suitable for an accidental action."
+    },
+    {
+      "id": "test-the-waters",
+      "kind": "idiom",
+      "term": "test the waters",
+      "pos": "idiom",
+      "hint": "try something cautiously first",
+      "register": "Common at work",
+      "meaning": "To try something cautiously to see how people react before making a bigger commitment.",
+      "nuance": "It suggests a careful trial rather than a firm decision. It is useful when you want to gauge interest, risk, or support before moving ahead.",
+      "literal": "Checking the depth and temperature of water before entering it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · testing a new idea",
+          "sentence": "We should test the waters with a small pilot before changing the whole process.",
+          "highlight": "test the waters",
+          "tip": "Often used when proposing a limited first step."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · suggesting a trip",
+          "sentence": "I might test the waters by mentioning the camping trip before booking anything.",
+          "highlight": "test the waters",
+          "tip": "Shows how others respond without pressuring them."
+        },
+        {
+          "setting": "writing",
+          "where": "Business update · introducing a proposal",
+          "sentence": "We plan to test the waters with one store before expanding the product nationally.",
+          "highlight": "test the waters",
+          "tip": "Common in reports, proposals, and business reporting."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the idea of checking water conditions before swimming or sailing. Its figurative use is well established, though the exact first recorded example is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Writers begin using the image of testing water to describe cautiously checking conditions."
+          },
+          {
+            "when": "1900s",
+            "text": "The figurative meaning becomes established in English."
+          },
+          {
+            "when": "Today",
+            "text": "It means trying an idea or action cautiously before committing fully."
+          }
+        ]
+      },
+      "similar": [
+        "feel the water",
+        "try the waters",
+        "dip your toes in"
+      ],
+      "pitfall": "It describes a cautious trial, not a complete test or final decision."
+    },
+    {
+      "id": "writing-on-the-wall",
+      "kind": "idiom",
+      "term": "the writing on the wall",
+      "pos": "idiom",
+      "hint": "an obvious sign that trouble is coming",
+      "register": "Common at work",
+      "meaning": "Warning signs that a situation is likely to fail or become worse.",
+      "nuance": "It suggests the outcome is already becoming clear, although it does not mean the result is certain. It is often used when discussing problems, decline or consequences that people have ignored.",
+      "literal": "Words mysteriously appearing on a wall as a warning.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · declining sales",
+          "sentence": "Missed targets and falling renewals are the writing on the wall for our current strategy.",
+          "highlight": "the writing on the wall",
+          "tip": "Common when signs of failure have been visible for some time."
+        },
+        {
+          "setting": "social",
+          "where": "Discussion · a struggling friendship",
+          "sentence": "He kept cancelling plans, but we all saw the writing on the wall.",
+          "highlight": "the writing on the wall",
+          "tip": "Use it when a development seems clearly headed in a negative direction."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · warning signs",
+          "sentence": "Rising costs and delayed orders are the writing on the wall for the whole industry.",
+          "highlight": "the writing on the wall",
+          "tip": "Natural in reports, presentations and concerned commentary."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from the biblical story of Belshazzar’s feast, where a disembodied hand writes on a palace wall. The modern phrase uses that frightening image for clear signs of coming trouble.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient source",
+            "text": "The Book of Daniel describes mysterious words appearing on the wall during Belshazzar’s feast."
+          },
+          {
+            "when": "1611",
+            "text": "The King James Bible presents the story, helping establish the image of writing on a wall as a warning."
+          },
+          {
+            "when": "1800s onward",
+            "text": "The expression becomes established for warning signs of failure or decline."
+          }
+        ]
+      },
+      "similar": [
+        "a red flag",
+        "clear warning signs",
+        "trouble on the horizon"
+      ],
+      "pitfall": "It usually takes “the” in the phrase: “the writing on the wall.”"
+    },
+    {
+      "id": "toy-with",
+      "kind": "idiom",
+      "term": "toy with",
+      "pos": "verb",
+      "hint": "try something without committing",
+      "register": "Common at work",
+      "meaning": "To consider or experiment with an idea casually, without fully committing to it.",
+      "nuance": "It can suggest curiosity without serious intent. It may also mean to tempt or take unnecessary risks, especially in phrases such as “toy with danger.”",
+      "literal": "Playing with an object without making a serious plan.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning · testing an idea",
+          "sentence": "We toyed with a smaller team before deciding to hire two contractors.",
+          "highlight": "toyed with",
+          "tip": "Use the past tense “toyed with” for an earlier, tentative experiment."
+        },
+        {
+          "setting": "social",
+          "where": "Friends · making plans",
+          "sentence": "We toyed with starting a supper club, but we never booked a date.",
+          "highlight": "toyed with",
+          "tip": "Natural for an idea explored casually rather than firmly arranged."
+        },
+        {
+          "setting": "writing",
+          "where": "Strategy memo · proposing changes",
+          "sentence": "The proposal toys with automation without explaining who would manage the risk.",
+          "highlight": "toys with",
+          "tip": "A singular subject takes “toys with” in the present tense."
+        }
+      ],
+      "origin": {
+        "summary": "The exact history is not fully certain. Toy comes from an old word connected with sport or amusement, and its verb originally meant to play or sport with something; the figurative sense developed later.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Toy appears in Middle English as a word connected with play, sport, or amusement."
+          },
+          {
+            "when": "1500s",
+            "text": "The verb could mean to sport with, handle, or experiment with something playfully."
+          },
+          {
+            "when": "Today",
+            "text": "It means to consider or experiment with something without making a serious commitment."
+          }
+        ]
+      },
+      "similar": [
+        "play with",
+        "dabble in",
+        "flirt with",
+        "muse over"
+      ],
+      "opposite": "take seriously",
+      "pitfall": "In “toy with danger,” it means to tempt or risk something, not to handle it casually."
+    },
+    {
+      "id": "two-steps-ahead",
+      "kind": "idiom",
+      "term": "two steps ahead",
+      "pos": "phrase",
+      "hint": "already preparing for what comes next",
+      "register": "Common at work",
+      "meaning": "To be well prepared for what may happen next.",
+      "nuance": "It suggests foresight and control rather than simply reacting successfully. It often describes anticipating problems, meeting needs early, or staying prepared.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · anticipating delays",
+          "sentence": "Good scheduling keeps us two steps ahead of delays.",
+          "highlight": "two steps ahead",
+          "tip": "Common when discussing preparation, planning, or prevention."
+        },
+        {
+          "setting": "social",
+          "where": "Preparing for a busy weekend",
+          "sentence": "She was two steps ahead of us and had already booked the restaurant.",
+          "highlight": "two steps ahead",
+          "tip": "Shows that someone anticipated a need or problem."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · supply planning",
+          "sentence": "Buying extra stock now keeps the business two steps ahead of possible shortages.",
+          "highlight": "two steps ahead",
+          "tip": "Useful in reports about planning, risk, and resource management."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from older expressions about being “steps ahead,” with the number “two” emphasizing a comfortable lead rather than a slight advantage.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English writers used “steps ahead” to describe being in a more favourable or prepared position."
+          },
+          {
+            "when": "1900s",
+            "text": "The wording “two steps ahead” became established for anticipating events and avoiding problems."
+          },
+          {
+            "when": "Today",
+            "text": "It means being sufficiently prepared to handle what comes next."
+          }
+        ]
+      },
+      "similar": [
+        "ahead of the curve",
+        "one step ahead",
+        "stay ahead of the game"
+      ],
+      "opposite": "behind the curve",
+      "pitfall": "It means being prepared or well positioned; it does not literally require knowing exactly what will happen."
+    },
+    {
+      "id": "when-the-chips-are-down",
+      "kind": "idiom",
+      "term": "when the chips are down",
+      "pos": "idiom",
+      "hint": "when things become serious",
+      "register": "Everyday",
+      "meaning": "At a moment of serious difficulty or pressure, when resources and support are limited.",
+      "nuance": "It suggests a critical moment when you must face the consequences or act under pressure. It can sound dramatic, so avoid it for minor problems.",
+      "literal": "When a gambler’s remaining chips represent everything at stake.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget review · funding cuts",
+          "sentence": "When the chips are down, teams need clear priorities rather than a long list of half-finished projects.",
+          "highlight": "When the chips are down",
+          "tip": "Often used when time, money, or staffing is under pressure."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · helping a friend",
+          "sentence": "My friend was moving house last weekend, so when the chips were down, we brought food and boxes.",
+          "highlight": "when the chips were down",
+          "tip": "Natural for describing a difficult moment and people pulling together."
+        },
+        {
+          "setting": "writing",
+          "where": "Local news · storm response",
+          "sentence": "When the chips were down, the neighbourhood came together to clear blocked drains.",
+          "highlight": "When the chips were down",
+          "tip": "Works well in reporting a serious crisis or challenge."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably grew from gambling language, where losing chips meant reduced resources and serious risk. Its exact first appearance is uncertain, so the gambling explanation is likely rather than firmly documented.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Gambling expressions connect chips with a player’s money and chances of winning."
+          },
+          {
+            "when": "Late 1800s",
+            "text": "The phrase appears in writing as a way to describe a serious or testing situation."
+          },
+          {
+            "when": "Today",
+            "text": "It means facing difficulty when there is little room to manoeuvre."
+          }
+        ]
+      },
+      "similar": [
+        "when it comes down to it",
+        "at the critical moment",
+        "in the crunch",
+        "at stake"
+      ],
+      "opposite": "when everything is going smoothly",
+      "pitfall": "It describes serious pressure, so using it for a small inconvenience can sound overdramatic."
+    }
+  ]
+}

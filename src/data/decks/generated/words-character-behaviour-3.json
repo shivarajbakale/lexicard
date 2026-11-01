@@ -1,0 +1,1789 @@
+{
+  "id": "words-character-behaviour-3",
+  "kind": "word",
+  "name": "Character & behaviour · 3",
+  "blurb": "25 words about character & behaviour",
+  "cards": [
+    {
+      "id": "garrulous",
+      "kind": "word",
+      "term": "garrulous",
+      "pos": "adjective",
+      "phonetic": "/ˈɡærələs/",
+      "sayIt": "GARE-uh-lus",
+      "register": "Everyday",
+      "meaning": "Talking a lot, especially in a way that gives more details than other people need.",
+      "nuance": "Often mildly critical: it suggests someone is noisy, eager to share information, or unable to keep a secret.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · clarifying a project",
+          "sentence": "Our garrulous client explained every possible change, so I asked him to focus on the three we could make this week.",
+          "highlight": "garrulous",
+          "tip": "Use it when talking about someone who talks too much, not simply someone who is friendly."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · catching up",
+          "sentence": "After drinks, my garrulous cousin had told everyone the story twice.",
+          "highlight": "garrulous",
+          "tip": "The word often has a humorous tone among friends or family."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · colleague feedback",
+          "sentence": "She is a strong analyst, though her garrulous style sometimes makes meetings longer than necessary.",
+          "highlight": "garrulous",
+          "tip": "A useful formal alternative to simply saying someone talks too much."
+        }
+      ],
+      "origin": {
+        "summary": "From the Latin garrulus, meaning talkative or chattering. The word was borrowed into English with the sense of being excessively talkative.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Garrulus means talkative, noisy or prone to chatter."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English as garrulous."
+          },
+          {
+            "when": "Today",
+            "text": "It describes people who talk freely and at great length."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "garrulity",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "talkative",
+        "chatty",
+        "loquacious",
+        "voluble"
+      ],
+      "opposite": "reticent",
+      "pitfall": "It is stronger and more critical than chatty, which can simply describe someone who enjoys conversation."
+    },
+    {
+      "id": "generous",
+      "kind": "word",
+      "term": "generous",
+      "pos": "adjective",
+      "phonetic": "/ˈdʒenərəs/",
+      "sayIt": "JEN-uh-rus",
+      "register": "Everyday",
+      "meaning": "Willing to give or share more than you need, especially with time, money or help.",
+      "nuance": "It often suggests a generous attitude rather than simply having plenty. It can also mean giving someone more space, credit or opportunity than they expected.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team celebration · sharing credit",
+          "sentence": "Mina was generous with her praise, giving the whole team credit for the successful launch.",
+          "highlight": "generous",
+          "tip": "Use it to describe giving more time, credit or support than others might expect."
+        },
+        {
+          "setting": "social",
+          "where": "Friend’s birthday · choosing a gift",
+          "sentence": "He was generous and bought us dinner as well as tickets to the show.",
+          "highlight": "generous",
+          "tip": "This is a natural way to describe someone who treats others to something special."
+        },
+        {
+          "setting": "writing",
+          "where": "Thank-you note · acknowledging help",
+          "sentence": "Thank you for being so generous with your time and advice; your help made a real difference.",
+          "highlight": "generous",
+          "tip": "It works well in formal thanks when you want to praise someone’s willingness to give."
+        }
+      ],
+      "origin": {
+        "summary": "From the Latin generosus, originally meaning ‘of a noble kind’ and later developing the sense of ‘giving freely or abundantly’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "Generosus meant ‘of a noble kind’, with an association with generous birth."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word entered English and began to mean ‘open-handed’ or ‘giving freely’."
+          },
+          {
+            "when": "Today",
+            "text": "It describes giving generously of money, time, help, credit or space."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "generosity",
+          "label": "noun"
+        },
+        {
+          "term": "generously",
+          "label": "adverb"
+        },
+        {
+          "term": "generousness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "charitable",
+        "generous",
+        "lavish",
+        "open-handed",
+        "giving"
+      ],
+      "opposite": "stingy",
+      "pitfall": "Don’t use generous when you mean merely generous in quantity; for example, a ‘generous portion’ can simply mean a large one."
+    },
+    {
+      "id": "genial",
+      "kind": "word",
+      "term": "genial",
+      "pos": "adjective",
+      "phonetic": "/ˈdʒiːniəl/",
+      "sayIt": "JEE-nee-ul",
+      "register": "Common at work",
+      "meaning": "Warm, cheerful and pleasant to be around.",
+      "nuance": "It suggests an easygoing, approachable person or atmosphere. It is warmer and slightly more formal than simply saying someone is nice.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · welcoming a new colleague",
+          "sentence": "Our genial sales manager always makes new clients feel comfortable.",
+          "highlight": "genial",
+          "tip": "Use it for someone whose relaxed manner puts others at ease."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · meeting the host",
+          "sentence": "We had a relaxed meal with our genial host, who kept introducing us to interesting people.",
+          "highlight": "genial",
+          "tip": "It works well when you want to praise someone’s naturally sociable manner."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing a small hotel",
+          "sentence": "The hotel had a genial atmosphere, with friendly staff and a welcoming common room.",
+          "highlight": "genial",
+          "tip": "It can describe a place as comfortably and sociable as it describes a person."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin genialis, connected with weddings and festive occasions and ultimately with genius, an ancient idea of a protective spirit. English later developed the sense of being warm and pleasant.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin genialis referred to weddings, festivals and their protective spirits."
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered English with meanings connected with marriage and celebration."
+          },
+          {
+            "when": "1800s",
+            "text": "It began to describe people as friendly, cheerful and pleasant to meet."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "geniality",
+          "label": "noun"
+        },
+        {
+          "term": "genially",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "affable",
+        "amiable",
+        "warm",
+        "easygoing"
+      ],
+      "opposite": "aloof",
+      "pitfall": "In older British English, genial could also mean suitable for a particular age group; avoid that dated sense in modern use."
+    },
+    {
+      "id": "grotesque",
+      "kind": "word",
+      "term": "grotesque",
+      "pos": "adjective",
+      "phonetic": "/ɡroʊˈtɛsk/",
+      "sayIt": "groh-TESK",
+      "register": "Formal",
+      "meaning": "Strangely ugly, shocking, or unreal in a way that makes people feel disturbed or confused.",
+      "nuance": "The word describes something unnatural or unsettling, often exaggerated to an extreme degree. It can also mean simply bizarre, but usually carries a stronger sense of shock or discomfort.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Design review · assessing feedback",
+          "sentence": "The cartoon’s exaggerated proportions made the mascot feel grotesque rather than friendly.",
+          "highlight": "grotesque",
+          "tip": "Use it for something deliberately distorted and unsettling, not merely unattractive."
+        },
+        {
+          "setting": "social",
+          "where": "At a party · reacting to a costume",
+          "sentence": "His rubber mask was so grotesque that nobody could tell whether he was joking.",
+          "highlight": "grotesque",
+          "tip": "This use suggests exaggerated features or behaviour that make someone uneasy."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing a performance",
+          "sentence": "The play turns a political scandal into a grotesque comedy, making every serious character look absurd.",
+          "highlight": "grotesque",
+          "tip": "In criticism, it often describes a deliberately exaggerated, disturbing style."
+        }
+      ],
+      "origin": {
+        "summary": "It came through French from Italian grottesco, meaning ‘of a grotto’, because the style was associated with strange murals found in underground Roman chambers.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Grotesque wall paintings appear in underground rooms, mixing human, animal and plant forms."
+          },
+          {
+            "when": "1500s",
+            "text": "Italian artists copy these designs, and grottesco becomes an artistic term for their strange, decorative style."
+          },
+          {
+            "when": "1600s",
+            "text": "The word reaches French and then English, initially referring to a style of ornament."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means bizarre, shockingly ugly or unsettling."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "grotesquely",
+          "label": "adverb"
+        },
+        {
+          "term": "grotesque",
+          "label": "noun (an ugly or bizarre figure)"
+        },
+        {
+          "term": "grotesquerie",
+          "label": "noun (grotesque decoration or style)"
+        }
+      ],
+      "similar": [
+        "bizarre",
+        "outlandish",
+        "macabre",
+        "distorted",
+        "unsettling"
+      ],
+      "opposite": "natural",
+      "pitfall": "It can describe a person’s appearance or behaviour, so avoid using it as a casual substitute for ‘ugly’."
+    },
+    {
+      "id": "hapless",
+      "kind": "word",
+      "term": "hapless",
+      "pos": "adjective",
+      "phonetic": "/ˈhæpləs/",
+      "sayIt": "HAP-luhs",
+      "register": "Everyday",
+      "meaning": "Unlucky or unlucky in a way that seems especially undeserved.",
+      "nuance": "It often suggests that someone has been caught in an unfortunate situation through bad luck or poor judgement. The tone can be sympathetic, amused or gently critical.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team update · missed deadline",
+          "sentence": "The hapless designer lost the only copy of the file just before the client call.",
+          "highlight": "hapless",
+          "tip": "Use it for an unlucky mistake or mishap, especially when the result is clearly bad luck."
+        },
+        {
+          "setting": "social",
+          "where": "At a party · spilling a drink",
+          "sentence": "My hapless friend knocked over her glass before anyone had even taken their coat off.",
+          "highlight": "hapless",
+          "tip": "It sounds lightly teasing when describing someone’s repeated social blunders."
+        },
+        {
+          "setting": "writing",
+          "where": "Humorous email · explaining a delay",
+          "sentence": "After a hapless journey involving three wrong train platforms, we finally reached the venue.",
+          "highlight": "hapless",
+          "tip": "A slightly literary or humorous option that adds colour to an account of mishaps."
+        }
+      ],
+      "origin": {
+        "summary": "Built from hap, meaning chance or luck, and the suffix -less, so the word originally suggested being without good fortune.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old Norse",
+            "text": "Hap traces to a word meaning chance, luck or fortune."
+          },
+          {
+            "when": "Middle English",
+            "text": "The noun hap is used for luck, good or bad, and for an occasion or chance event."
+          },
+          {
+            "when": "Early modern period",
+            "text": "Hapless emerges in English, combining hap with the suffix -less."
+          },
+          {
+            "when": "Today",
+            "text": "It means unlucky or unfortunate, often with a sense of comic misfortune."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "haplessly",
+          "label": "adverb"
+        },
+        {
+          "term": "haplessness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "unlucky",
+        "unfortunate",
+        "ill-fated",
+        "unfortunate"
+      ],
+      "opposite": "lucky",
+      "pitfall": "Hapless means unlucky or subject to misfortune; it does not mean unable to act, as helpless does."
+    },
+    {
+      "id": "haughty",
+      "kind": "word",
+      "term": "haughty",
+      "pos": "adjective",
+      "phonetic": "/ˈhɔː.ti/",
+      "sayIt": "HAW-tee",
+      "register": "Formal",
+      "meaning": "Behaviouring as if you are more important or superior than other people.",
+      "nuance": "It describes an exaggerated sense of status or self-importance, often shown by looking down on others. It can be mocking or disapproval, rather than simply describing someone as proud.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · dismissing an idea",
+          "sentence": "Her haughty response to the suggestion made the rest of us reluctant to speak up.",
+          "highlight": "haughty",
+          "tip": "Use it for behaviour that clearly shows superiority or disdain."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · greeting someone",
+          "sentence": "He was too haughty to acknowledge the guests who had travelled a long way.",
+          "highlight": "haughty",
+          "tip": "It often implies that someone is treating others as though they are beneath them."
+        },
+        {
+          "setting": "writing",
+          "where": "Novel review · describing a character",
+          "sentence": "The haughty aristocrat refused to speak to the servants, even when her mother called his name.",
+          "highlight": "haughty",
+          "tip": "A strong word for characterisation, especially when showing class or social distance."
+        }
+      ],
+      "origin": {
+        "summary": "It comes from French haut, meaning “high”, with an ending that was added when the word entered English.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old French",
+            "text": "The root haut meant “high” and came from the Latin word altus."
+          },
+          {
+            "when": "Middle French",
+            "text": "Haut developed into a form used to mean lofty or proud in appearance."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in the sense of proud or arrogant."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used to describe someone who acts superior to others."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "haughtily",
+          "label": "adverb"
+        },
+        {
+          "term": "haughtiness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "arrogant",
+        "aloof",
+        "disdainful",
+        "condescending"
+      ],
+      "opposite": "humble",
+      "pitfall": "Haughty suggests visible superiority or disdain; arrogant focuses more broadly on excessive pride or self-importance."
+    },
+    {
+      "id": "histrionics",
+      "kind": "word",
+      "term": "histrionics",
+      "pos": "noun",
+      "phonetic": "/hɪsˈtriːɒnɪks/",
+      "sayIt": "his-TREE-on-iks",
+      "register": "Formal",
+      "meaning": "Exaggerated theatrical behaviour used to attract attention or provoke a reaction.",
+      "nuance": "The word is usually critical, suggesting that someone is behaving dramatically rather than responding sincerely. It often implies a performance calculated to influence others.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · dismissing a concern",
+          "sentence": "She dismissed the suggestion with such histrionics that nobody could tell whether she was genuinely upset.",
+          "highlight": "histrionics",
+          "tip": "Use it for conspicuously dramatic behaviour, especially when the reaction seems designed to command attention."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · reacting to criticism",
+          "sentence": "His histrionics turned an ordinary disagreement into a scene everyone remembered.",
+          "highlight": "histrionics",
+          "tip": "This often sounds sharp or dismissive, so avoid it when describing ordinary enthusiasm."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · explaining conflict",
+          "sentence": "The report avoids personal attacks and focuses on the histrionics that made the meeting unproductive.",
+          "highlight": "histrionics",
+          "tip": "A formal alternative is dramatic behaviour; choose the stronger word when the behaviour is clearly excessive."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin histrio, meaning actor or performer, ultimately connected with a Greek word for an actor. The English form developed in the context of acting and theatrical display.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greece and Rome",
+            "text": "Greek and Latin words for actors and performers form the root of the word."
+          },
+          {
+            "when": "1600s",
+            "text": "Histrionics enters English with associations of acting and theatrical performance."
+          },
+          {
+            "when": "Today",
+            "text": "It chiefly means exaggerated behaviour displayed for effect."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "histrionic",
+          "label": "adjective"
+        },
+        {
+          "term": "histrionically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "theatrics",
+        "dramatics",
+        "antics",
+        "performance"
+      ],
+      "opposite": "sincerity",
+      "pitfall": "Use it for deliberate or excessive performance, not for an ordinary emotional reaction. In medicine, histrionic personality traits can also refer to attention-seeking behaviour."
+    },
+    {
+      "id": "humble",
+      "kind": "word",
+      "term": "humble",
+      "pos": "adjective",
+      "phonetic": "/ˈhʌmbəl/",
+      "sayIt": "HUM-buhl",
+      "register": "Everyday",
+      "meaning": "Not thinking highly of yourself and willing to learn, improve, or accept that others may have a better idea.",
+      "nuance": "It can suggest genuine modesty and openness, but it can also sound overly self-effacing or excessively deferential.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · offering a different view",
+          "sentence": "I have a humble suggestion: what if we test this with customers before we build the full feature?",
+          "highlight": "humble",
+          "tip": "Use it to introduce an idea without sounding defensive or self-important."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · receiving a compliment",
+          "sentence": "Thank you — I’m just happy to help, and I’m still humble about my cooking.",
+          "highlight": "humble",
+          "tip": "This sounds light and friendly when you are sincerely pleased by the praise."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a mentor · asking for feedback",
+          "sentence": "I’d be humble to hear where you think I could improve before the presentation next week.",
+          "highlight": "humble",
+          "tip": "It softens a request for advice and shows that you are open to criticism."
+        }
+      ],
+      "origin": {
+        "summary": "Humble comes through Old French from Latin humilis, meaning low or humble. Its roots connect it with the earth, suggesting something modest or low.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Humilis means ‘low’ or ‘humble’ and is associated with humus, the earth."
+          },
+          {
+            "when": "Old French",
+            "text": "The word appears as humble, carrying the sense of low-standing or modest."
+          },
+          {
+            "when": "Middle English",
+            "text": "It enters English and gradually develops its modern meanings of modest and unassuming."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes a person’s attitude, manner, or willingness to learn."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "humility",
+          "label": "noun"
+        },
+        {
+          "term": "humbly",
+          "label": "adverb"
+        },
+        {
+          "term": "humbleness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "modest",
+        "unassuming",
+        "meek",
+        "self-effacing"
+      ],
+      "opposite": "arrogant",
+      "pitfall": "Don’t use humble when you mean merely quiet or low-status; it focuses mainly on modesty and an absence of pride."
+    },
+    {
+      "id": "humility",
+      "kind": "word",
+      "term": "humility",
+      "pos": "noun",
+      "phonetic": "/hjuːˈmɪləti/",
+      "sayIt": "hyoo-MIL-ih-tee",
+      "register": "Everyday",
+      "meaning": "The quality of being modest about your own abilities, achievements or importance.",
+      "nuance": "Humility is often shown by listening, giving others credit and being willing to learn. It does not mean thinking you are worthless or letting others walk over you.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team presentation · reviewing a successful launch",
+          "sentence": "She accepted the praise graciously, but gave most of the credit to the team.",
+          "highlight": "credit",
+          "tip": "Humility often appears through what you do, not just through the word itself."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · receiving a compliment",
+          "sentence": "He showed real humility by asking about everyone else instead of talking about his promotion.",
+          "highlight": "humility",
+          "tip": "Use it when you want to describe someone who avoids making a big show of their success."
+        },
+        {
+          "setting": "writing",
+          "where": "Reflection · discussing a leadership lesson",
+          "sentence": "The experience taught her that effective leadership required patience, humility and a willingness to admit mistakes.",
+          "highlight": "humility",
+          "tip": "It fits naturally in thoughtful writing about leadership, learning and personal growth."
+        }
+      ],
+      "origin": {
+        "summary": "Humility comes from Latin humilitas, meaning lowliness or a low position, and originally carried a religious sense of being humble before God.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Humilitas develops from humus, meaning earth or ground."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English through Old French and Latin religious writing."
+          },
+          {
+            "when": "Today",
+            "text": "It describes modesty, openness to learning and lack of excessive pride."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "humble",
+          "label": "adjective"
+        },
+        {
+          "term": "humblely",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "modesty",
+        "meekness",
+        "unassuming",
+        "down-to-earth"
+      ],
+      "opposite": "arrogance",
+      "pitfall": "Humility is not the same as submissiveness; you can be modest without surrendering your opinions or boundaries."
+    },
+    {
+      "id": "iconoclast",
+      "kind": "word",
+      "term": "iconoclast",
+      "pos": "noun",
+      "phonetic": "/aɪˈkɒnəklæst/",
+      "sayIt": "eye-KON-uh-klast",
+      "register": "Formal",
+      "meaning": "Someone who challenges accepted beliefs, customs, or influential figures.",
+      "nuance": "The word suggests more than ordinary disagreement: an iconoclast attacks ideas or symbols that others treat as beyond question. It can be complimentary or critical, depending on the context.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product review · questioning an established process",
+          "sentence": "Our newest engineer is an iconoclast who keeps asking why we still use this approval process.",
+          "highlight": "iconoclast",
+          "tip": "Use it for someone who challenges company routines or accepted ways of working."
+        },
+        {
+          "setting": "social",
+          "where": "Gallery opening · discussing an unusual exhibition",
+          "sentence": "Her work is that of an iconoclast, turning familiar objects into strange new questions.",
+          "highlight": "iconoclast",
+          "tip": "It works well for describing artists, rebels, and outspoken thinkers."
+        },
+        {
+          "setting": "writing",
+          "where": "Culture article · introducing a controversial figure",
+          "sentence": "Rather than a conventional rebel, he was an iconoclast who questioned the institutions his supporters admired.",
+          "highlight": "iconoclast",
+          "tip": "Pair it with a clear target of the person’s criticism to avoid sounding vague."
+        }
+      ],
+      "origin": {
+        "summary": "Built from Greek roots meaning ‘image’ and ‘breaker’. It originally referred to someone who destroyed religious images and later broadened to describe challengers of established beliefs.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "The roots combine eikon, meaning ‘image’, with klastos, meaning ‘broken’."
+          },
+          {
+            "when": "Byzantine period",
+            "text": "The word becomes associated with people who attacked or destroyed religious images."
+          },
+          {
+            "when": "17th–18th centuries",
+            "text": "Its meaning expands to include people who oppose accepted beliefs, institutions, or conventions."
+          },
+          {
+            "when": "Today",
+            "text": "It usually describes a person who challenges powerful or widely accepted ideas."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "iconoclastic",
+          "label": "adjective"
+        },
+        {
+          "term": "iconoclasm",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "rebel",
+        "dissident",
+        "radical",
+        "provocateur"
+      ],
+      "opposite": "conformist",
+      "pitfall": "An iconoclast challenges established ideas or symbols; an icon is the image, object, or person being treated as important."
+    },
+    {
+      "id": "imperturbable",
+      "kind": "word",
+      "term": "imperturbable",
+      "pos": "adjective",
+      "phonetic": "/ɪmˈpɜːrtəbəl/",
+      "sayIt": "im-PER-tuh-buhl",
+      "register": "Formal",
+      "meaning": "Calm and controlled, especially when a difficult or unexpected situation might cause other people to react strongly.",
+      "nuance": "It suggests steady self-control rather than a lack of concern. It can sound slightly formal or even admiringly detached.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client presentation · handling criticism",
+          "sentence": "She remained imperturbable when the client challenged the proposal.",
+          "highlight": "imperturbable",
+          "tip": "Use it to emphasize composure under pressure."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · resolving an argument",
+          "sentence": "Uncle Miguel was imperturbable despite the argument around the table.",
+          "highlight": "imperturbable",
+          "tip": "It often describes someone who does not visibly react to conflict."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · noting resilience",
+          "sentence": "Her imperturbable handling of a last-minute technical failure impressed the leadership team.",
+          "highlight": "imperturbable",
+          "tip": "It sounds polished in reports and formal evaluations."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin imperturbabilis, meaning ‘not able to be disturbed’, built on perturbare, ‘to disturb’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Imperturbabilis means ‘not perturbable’ or ‘not to be disturbed’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with the sense of being unmoved or uncontrollable."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal English for calmness under pressure."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "imperturbability",
+          "label": "noun"
+        },
+        {
+          "term": "imperturbably",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "unflappable",
+        "composed",
+        "calm",
+        "collected"
+      ],
+      "opposite": "flustered",
+      "pitfall": "Use it for deliberate self-control; for simple relaxation, ‘calm’ is usually more natural."
+    },
+    {
+      "id": "impetuous",
+      "kind": "word",
+      "term": "impetuous",
+      "pos": "adjective",
+      "phonetic": "/ɪmˈpetʃuəs/",
+      "sayIt": "im-PETCH-oo-us",
+      "register": "Formal",
+      "meaning": "Acting quickly and without enough thought, often because of strong feelings or enthusiasm.",
+      "nuance": "It can suggest sudden, forceful action that may lead to mistakes. It is also used for people who are energetic, impulsive and eager to act.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product launch · reacting to feedback",
+          "sentence": "His impetuous decision to release the feature early created problems for the support team.",
+          "highlight": "impetuous",
+          "tip": "Use it to describe a rash decision made with little planning."
+        },
+        {
+          "setting": "social",
+          "where": "Road trip · choosing a detour",
+          "sentence": "We became impetuous and took the coastal route without checking the weather.",
+          "highlight": "impetuous",
+          "tip": "It fits spontaneous actions driven by excitement or impatience."
+        },
+        {
+          "setting": "writing",
+          "where": "Incident report · describing a sudden move",
+          "sentence": "The manager describes the change as impetuous rather than a considered response to the risks.",
+          "highlight": "impetuous",
+          "tip": "This sounds analytical and slightly critical, so it suits formal reports."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin impetus, meaning ‘force’ or ‘impulse’, through the French impétueux.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Impetus means ‘force, drive or impulse’."
+          },
+          {
+            "when": "1600s",
+            "text": "The adjective enters English through French, describing forceful or impulsive action."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means acting quickly without careful thought."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "impetuously",
+          "label": "adverb"
+        },
+        {
+          "term": "impetuosity",
+          "label": "noun"
+        },
+        {
+          "term": "impetus",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "impulsive",
+        "rash",
+        "impetuous",
+        "headlong",
+        "hasty"
+      ],
+      "opposite": "deliberate",
+      "pitfall": "Do not use it as a simple synonym for ‘energetic’; it usually carries the idea of acting without enough thought."
+    },
+    {
+      "id": "implacable",
+      "kind": "word",
+      "term": "implacable",
+      "pos": "adjective",
+      "phonetic": "/ɪmˈpleɪkəbəl/",
+      "sayIt": "im-PLAY-kuh-buhl",
+      "register": "Formal",
+      "meaning": "Unable or unwilling to be softened, calmed, or changed.",
+      "nuance": "It describes a person, attitude, or hostility that persists despite attempts to ease the situation. It is strong and often suggests a stubborn refusal to make peace.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Negotiation · resolving a dispute",
+          "sentence": "Her opposition to the proposal remained implacable despite weeks of discussion.",
+          "highlight": "implacable",
+          "tip": "Use it when someone’s position will not soften, even after repeated efforts to negotiate."
+        },
+        {
+          "setting": "social",
+          "where": "Family argument · refusing to apologise",
+          "sentence": "His resentment was implacable, and he refused to speak to either of them.",
+          "highlight": "implacable",
+          "tip": "It can describe deep personal resentment that cannot be easily calmed."
+        },
+        {
+          "setting": "writing",
+          "where": "History article · describing political conflict",
+          "sentence": "The two governments remained implacable rivals throughout the decade.",
+          "highlight": "implacable",
+          "tip": "A strong choice for formal writing about hostility or rivalry that will not soften."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin implacabilis, meaning ‘unappeasable’, formed from in-, ‘not’, and placare, ‘to calm or appease’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Implacabilis is formed from roots meaning ‘not’ and ‘to calm or appease’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with the sense of impossible to calm or soften."
+          },
+          {
+            "when": "Today",
+            "text": "It describes hostility, opposition, or resentment that cannot be appeased."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "implacably",
+          "label": "adverb"
+        },
+        {
+          "term": "implacability",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "unrelenting",
+        "inexorable",
+        "unforgiving",
+        "unyielding"
+      ],
+      "opposite": "placable",
+      "pitfall": "Implacable focuses on a person or attitude that cannot be calmed; inexorable more often describes a process or force that cannot be stopped."
+    },
+    {
+      "id": "inadvertent",
+      "kind": "word",
+      "term": "inadvertent",
+      "pos": "adjective",
+      "phonetic": "/ˌɪn.ədˈvɜː.tənt/",
+      "sayIt": "in-uhd-VUR-tuhnt",
+      "register": "Formal",
+      "meaning": "Happening without intention or careful thought.",
+      "nuance": "It describes an action, mistake or effect that was not planned. It often suggests the person involved did not mean to cause it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · correcting a report",
+          "sentence": "The missing figures were an inadvertent result of copying the wrong version of the spreadsheet.",
+          "highlight": "inadvertent",
+          "tip": "Use it to describe an unintended mistake without assigning deliberate blame."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · interrupting a guest",
+          "sentence": "My inadvertent comment about the food made everyone uncomfortable.",
+          "highlight": "inadvertent",
+          "tip": "It works when you want to admit that something awkward was unintentional."
+        },
+        {
+          "setting": "writing",
+          "where": "Apology email · clarifying an email",
+          "sentence": "Please accept my apologies for the inadvertent omission of your name in the previous message.",
+          "highlight": "inadvertent",
+          "tip": "A formal way to acknowledge an error or something said without thinking."
+        }
+      ],
+      "origin": {
+        "summary": "Built from Latin words meaning ‘not attentive’, and later came to mean ‘unintentional’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "First used for something done without attention or thought."
+          },
+          {
+            "when": "1800s",
+            "text": "The meaning shifted clearly toward ‘unintentional’ or ‘unplanned’."
+          },
+          {
+            "when": "Today",
+            "text": "Common in formal writing for an unintended action or effect."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "inadvertently",
+          "label": "adverb"
+        },
+        {
+          "term": "inadvertence",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "unintentional",
+        "unintended",
+        "accidental",
+        "unaware"
+      ],
+      "opposite": "intentional",
+      "pitfall": "Use inadvertent for something done without intention; it does not mean that nobody noticed it."
+    },
+    {
+      "id": "indolent",
+      "kind": "word",
+      "term": "indolent",
+      "pos": "adjective",
+      "phonetic": "/ˈɪndələnt/",
+      "sayIt": "IN-duh-lunt",
+      "register": "Formal",
+      "meaning": "Inclined to avoid effort, activity or action.",
+      "nuance": "Often suggests a settled habit of laziness rather than ordinary tiredness or a temporary lack of motivation. It has a literary or old-fashioned tone.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing growth",
+          "sentence": "His indolent attitude during slow periods is limiting his chances of promotion.",
+          "highlight": "indolent",
+          "tip": "Use it in formal criticism when someone consistently shows little willingness to act."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans · waiting for a friend",
+          "sentence": "On lazy Sunday mornings, we are both too indolent to make plans before noon.",
+          "highlight": "indolent",
+          "tip": "It can sound playful when describing a familiar habit between friends."
+        },
+        {
+          "setting": "writing",
+          "where": "Character description · a neglected project",
+          "sentence": "The novel paints him as indolent and unwilling to confront the problems he has created.",
+          "highlight": "indolent",
+          "tip": "Common in literary writing for portraying passivity or refusal to act."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin indolens, meaning ‘unwilling to work’ or ‘idle’, built from in-, meaning ‘not’, and dolere, meaning ‘to suffer’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Indolens forms from in-, ‘not’, and dolere, ‘to suffer’, describing someone who avoids pain or effort."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English in formal and literary contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly literary or deliberately formal, especially when describing habitual passivity."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "indolence",
+          "label": "noun"
+        },
+        {
+          "term": "indolently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "lazy",
+        "listless",
+        "sluggish",
+        "inactive",
+        "lethargic"
+      ],
+      "opposite": "diligent",
+      "pitfall": "Indolent usually describes a habit or character trait, so it can sound too severe for someone who is merely tired, busy or temporarily unmotivated."
+    },
+    {
+      "id": "inherent",
+      "kind": "word",
+      "term": "inherent",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈhɪərənt/",
+      "sayIt": "in-HER-ent",
+      "register": "Common at work",
+      "meaning": "Existing as a natural and permanent part of something.",
+      "nuance": "It often suggests that a quality or problem cannot be removed without changing the basic nature of the thing. Use it for qualities, risks and limitations that are built into a situation or design.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · assessing risk",
+          "sentence": "There is some inherent risk in combining customer data from separate systems.",
+          "highlight": "inherent",
+          "tip": "Use it to describe a risk or limitation built into a process, product or decision."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · describing a friendship",
+          "sentence": "There’s an inherent trust between us that makes it easy to talk openly.",
+          "highlight": "inherent",
+          "tip": "It sounds thoughtful when describing a quality that is central to a person or relationship."
+        },
+        {
+          "setting": "writing",
+          "where": "Business proposal · explaining a budget",
+          "sentence": "The delay is inherent in the approval process, so we have allowed extra time.",
+          "highlight": "inherent",
+          "tip": "Pair it with words such as risk, feature, weakness or characteristic for a precise tone."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin inhaerens, meaning ‘sticking to’ or ‘remaining attached to’, which developed into the idea of something being naturally connected to something else.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Inhaerere means ‘to stick to’ or ‘remain attached to’."
+          },
+          {
+            "when": "1500s",
+            "text": "Inherent enters English in the sense of firmly connected or inseparable."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used for qualities, risks and limitations that are built into something."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "inherently",
+          "label": "adverb"
+        },
+        {
+          "term": "inherence",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "intrinsic",
+        "intrinsic to",
+        "innate",
+        "built-in"
+      ],
+      "opposite": "extrinsic",
+      "pitfall": "Don’t use inherent to mean simply important; it means the quality is naturally or structurally part of something."
+    },
+    {
+      "id": "innate",
+      "kind": "word",
+      "term": "innate",
+      "pos": "adjective",
+      "phonetic": "/ɪˈneɪt/",
+      "sayIt": "ih-NAYT",
+      "register": "Common at work",
+      "meaning": "Present from birth or built into the basic nature of something.",
+      "nuance": "It describes qualities that seem natural or instinctive rather than developed through learning. It is often used for abilities, traits and patterns that are thought to be universal.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · assessing a new hire",
+          "sentence": "She has an innate ability to spot problems before they become serious.",
+          "highlight": "innate",
+          "tip": "Use it for a quality that seems to come naturally rather than from training."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation about personality",
+          "sentence": "His curiosity seems innate; even as a child, he wanted to understand how things worked.",
+          "highlight": "innate",
+          "tip": "It sounds thoughtful when describing a natural personal quality."
+        },
+        {
+          "setting": "writing",
+          "where": "Essay about human behaviour",
+          "sentence": "The study suggests that some forms of attention are innate, although experience can shape how they develop.",
+          "highlight": "innate",
+          "tip": "Use it carefully in arguments about what people are born with."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin innatus, meaning 'born into' or 'natural', based on nasci, 'to be born'.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Innatus develops from innasci, 'to be born into', with the sense of something natural or inherent."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in the sense of existing from birth."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for natural qualities, abilities and patterns in people, animals or other things."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "innately",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "inborn",
+        "inherent",
+        "intrinsic",
+        "instinctive"
+      ],
+      "opposite": "acquired",
+      "pitfall": "Don’t use innate simply to mean something you like or find natural; it usually suggests a quality present from the beginning."
+    },
+    {
+      "id": "intrepid",
+      "kind": "word",
+      "term": "intrepid",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈtrepɪd/",
+      "sayIt": "in-TREP-id",
+      "register": "Formal",
+      "meaning": "Brave and willing to face danger, difficulty or unfamiliar challenges.",
+      "nuance": "It suggests boldness with a sense of adventure, often used for people or actions that inspire admiration. It is more literary than everyday alternatives such as “brave” or “fearless.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team briefing · entering a new market",
+          "sentence": "The intrepid team took the assignment despite the tight deadline and unfamiliar requirements.",
+          "highlight": "intrepid",
+          "tip": "Use it for people or teams whose boldness deserves admiration."
+        },
+        {
+          "setting": "social",
+          "where": "Travel story · describing an expedition",
+          "sentence": "intrepid explorers crossed the mountains before the weather turned.",
+          "highlight": "intrepid",
+          "tip": "It adds a grand, adventurous tone to stories about challenging journeys."
+        },
+        {
+          "setting": "writing",
+          "where": "Speech · praising courage",
+          "sentence": "She became an intrepid advocate for workers who had long been ignored.",
+          "highlight": "intrepid",
+          "tip": "A slightly elevated word that can make a tribute sound especially strong."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin intrepidus, formed from in-, meaning ‘without’, and trepidus, meaning ‘trembling’ or ‘agitated’. The original sense was ‘undismayed’ or ‘untroubled by fear’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Intrepidus develops from in- ‘without’ and trepidus ‘trembling’, giving the sense of being free from fear."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English through French and Latin usage."
+          },
+          {
+            "when": "Today",
+            "text": "It means brave, daring and ready to face challenges."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "intrepidity",
+          "label": "noun"
+        },
+        {
+          "term": "intrepidly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "fearless",
+        "bold",
+        "daring",
+        "adventurous",
+        "valiant"
+      ],
+      "opposite": "timid",
+      "pitfall": "Do not use it as a synonym for reckless; intrepid describes courage, while reckless suggests acting without enough thought."
+    },
+    {
+      "id": "inveterate",
+      "kind": "word",
+      "term": "inveterate",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈvɛtərɪt/",
+      "sayIt": "in-VET-uh-rit",
+      "register": "Formal; common in writing",
+      "meaning": "Strongly established or firmly fixed, especially as a habit, tendency, or long-lasting problem.",
+      "nuance": "It often suggests something that has continued for a long time and is difficult to change. It can describe personal habits and preferences, but it is especially negative when describing conflict, prejudice, or problems.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · addressing a recurring delay",
+          "sentence": "Late submissions are an inveterate problem, so we need a clearer deadline and a named owner.",
+          "highlight": "inveterate",
+          "tip": "Use it for a problem that keeps returning despite previous attempts to fix it."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · weekend plans",
+          "sentence": "My inveterate habit of saying yes has left me with no free evenings this month.",
+          "highlight": "inveterate",
+          "tip": "It adds emphasis to a long-standing personal habit, sometimes with a mildly self-critical tone."
+        },
+        {
+          "setting": "writing",
+          "where": "Article · describing public attitudes",
+          "sentence": "The article examines the inveterate distrust that some communities have toward institutions.",
+          "highlight": "inveterate",
+          "tip": "It is well suited to formal discussion of entrenched attitudes, disputes, or problems."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin inveteratus, meaning ‘aged’ or ‘long established’, based on inveterescere, ‘to grow old’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Inveteratus means ‘aged’ and comes from vetus, ‘old’, with the prefix in-, suggesting becoming or being made old."
+          },
+          {
+            "when": "1600s",
+            "text": "Entered English in the sense of old, experienced, or firmly established."
+          },
+          {
+            "when": "Today",
+            "text": "Usually describes a habit, tendency, or problem that is deeply established and persistent."
+          }
+        ]
+      },
+      "similar": [
+        "habitual",
+        "chronic",
+        "entrenched",
+        "long-standing",
+        "confirmed"
+      ],
+      "opposite": "temporary",
+      "pitfall": "Don’t use it for something that is simply old; it normally implies that the thing is firmly established or difficult to change."
+    },
+    {
+      "id": "jaunty",
+      "kind": "word",
+      "term": "jaunty",
+      "pos": "adjective",
+      "phonetic": "/ˈdʒɔːnti/",
+      "sayIt": "JON-tee",
+      "register": "Casual",
+      "meaning": "Cheerful, lively, and self-confident, often with a slightly showy or swaggering manner.",
+      "nuance": "It suggests someone is enjoying themselves and carrying themselves with bold confidence. The word can sound admiring, but it may also imply that someone is being a little too pleased with themselves.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · matching the new campaign",
+          "sentence": "Her jaunty presentation gave a plain product update some extra energy.",
+          "highlight": "jaunty",
+          "tip": "Best for creative or informal settings; it can sound too playful in a serious update."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception · greeting guests",
+          "sentence": "He arrived in a jaunty suit, already ready to tell everyone the story of the day.",
+          "highlight": "jaunty",
+          "tip": "Use it for an appearance or manner that feels cheerful and slightly showy."
+        },
+        {
+          "setting": "writing",
+          "where": "Novel dialogue · describing someone’s entrance",
+          "sentence": "She walked into the quiet room with a jaunty grin and an air of triumph.",
+          "highlight": "jaunty",
+          "tip": "It adds personality to a description without directly stating the character’s confidence."
+        }
+      ],
+      "origin": {
+        "summary": "Probably borrowed from French jante, an old word connected with neatness or graceful bearing, though the exact route is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "17th century",
+            "text": "The word first appears in English with meanings connected with neatness, fashion, or a graceful manner."
+          },
+          {
+            "when": "18th–19th century",
+            "text": "Its meaning develops toward cheerful confidence and a dashing, swaggering style."
+          },
+          {
+            "when": "Today",
+            "text": "It describes a lively, self-assured manner that may be slightly exaggerated."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "jauntily",
+          "label": "adverb"
+        },
+        {
+          "term": "jauntiness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "lively",
+        "cheerful",
+        "dashing",
+        "swaggering",
+        "perky"
+      ],
+      "opposite": "subdued",
+      "pitfall": "Don’t use jaunty simply to mean cheerful; it usually includes noticeable confidence, style, or swagger."
+    },
+    {
+      "id": "lax",
+      "kind": "word",
+      "term": "lax",
+      "pos": "adjective",
+      "phonetic": "/læks/",
+      "sayIt": "LAKS",
+      "register": "Common at work",
+      "meaning": "Not strict or careful enough about rules, standards or responsibilities.",
+      "nuance": "It can describe relaxed people, loose controls or poor attention to detail. It often suggests that something needs to be tightened rather than that the situation is impossible.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · reviewing deadlines",
+          "sentence": "Our deadline checks have been lax, so we need a clearer process from this week.",
+          "highlight": "lax",
+          "tip": "Use it for rules, supervision, discipline or attention to detail."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · choosing a restaurant",
+          "sentence": "Let’s be a bit lax tonight and order whatever looks best.",
+          "highlight": "lax",
+          "tip": "In relaxed social contexts, it can mean pleasantly easygoing."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · noting missed targets",
+          "sentence": "The department was lax in its tracking of client complaints.",
+          "highlight": "lax",
+          "tip": "This sounds formal and critical; explain what was not done properly."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin laxus, meaning loose, slack or not tightly held. English later extended the idea to rules and standards that are not enforced firmly enough.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "laxus, ‘loose, slack, relaxed’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English and is used for physical looseness."
+          },
+          {
+            "when": "1700s onward",
+            "text": "It develops meanings connected with weak discipline and insufficiently strict standards."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "laxity",
+          "label": "noun"
+        },
+        {
+          "term": "laxness",
+          "label": "noun"
+        },
+        {
+          "term": "laxly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "lenient",
+        "loose",
+        "careless",
+        "easygoing"
+      ],
+      "opposite": "strict",
+      "pitfall": "Lax usually means insufficiently strict, not simply relaxed or comfortable."
+    },
+    {
+      "id": "lenient",
+      "kind": "word",
+      "term": "lenient",
+      "pos": "adjective",
+      "phonetic": "/ˈliː.ni.ənt/",
+      "sayIt": "LEE-nee-uhnt",
+      "register": "Common at work",
+      "meaning": "Lenient means not strict about rules, mistakes or required standards.",
+      "nuance": "It can describe a fair, understanding approach, but it may also suggest that someone is letting standards slip.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing feedback",
+          "sentence": "Our manager was lenient about the missed deadline because the team was dealing with an urgent client issue.",
+          "highlight": "lenient",
+          "tip": "Use it when explaining why a rule or penalty was applied gently."
+        },
+        {
+          "setting": "social",
+          "where": "Hosting dinner · a friend arrives late",
+          "sentence": "Be lenient with Sam tonight; he was delayed by the traffic and looked exhausted.",
+          "highlight": "lenient",
+          "tip": "It often sounds kind and understanding in informal conversations."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal report · explaining a decision",
+          "sentence": "The examiner took a lenient approach, allowing minor formatting errors without reducing the overall grade.",
+          "highlight": "lenient",
+          "tip": "A useful alternative to ‘not strict’ when you want a more formal tone."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin lenientia, meaning ‘tolerance’ or mildness, related to lenire, ‘to soften or make less harsh’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Lenire means ‘to soften or make less harsh’, while lenientia refers to mildness or tolerance."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with meanings connected with mild treatment and reduced strictness."
+          },
+          {
+            "when": "Today",
+            "text": "It describes people, rules or approaches that are gentle rather than strict."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "leniency",
+          "label": "noun"
+        },
+        {
+          "term": "leniently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "tolerant",
+        "understanding",
+        "easygoing",
+        "indulgent",
+        "lenient"
+      ],
+      "opposite": "strict",
+      "pitfall": "In a legal context, ‘lenient’ usually means less strict in imposing punishment, not more tolerant in general."
+    },
+    {
+      "id": "magnanimous",
+      "kind": "word",
+      "term": "magnanimous",
+      "pos": "adjective",
+      "phonetic": "/mæɡˈnænɪməs/",
+      "sayIt": "MAG-NAN-ih-mus",
+      "register": "Formal",
+      "meaning": "Generous and forgiving, especially when you could respond negatively to someone or treat them harshly.",
+      "nuance": "It suggests a big-hearted reaction that rises above a personal conflict. It sounds respectful but can be slightly formal or old-fashioned in everyday conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team debrief · resolving a dispute",
+          "sentence": "She was magnanimous after the mistake, focusing on what the team could improve together.",
+          "highlight": "magnanimous",
+          "tip": "Use it when describing a generous, gracious response to a setback."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · overlooking an awkward remark",
+          "sentence": "He was magnanimous about the misunderstanding and carried on as though it had never happened.",
+          "highlight": "magnanimous",
+          "tip": "It fits a generous reaction that avoids holding on to anger or resentment."
+        },
+        {
+          "setting": "writing",
+          "where": "Award nomination · acknowledging a competitor",
+          "sentence": "The judges were magnanimous in recognising both finalists for their excellent work.",
+          "highlight": "magnanimous",
+          "tip": "Use it in formal writing to praise fairness, generosity or a gracious attitude."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin magnanimus, meaning ‘great-souled’: magnus means ‘great’, and animus means ‘spirit’ or ‘soul’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Magnanimus combines magnus, ‘great’, with animus, ‘spirit’ or ‘soul’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English, initially carrying the sense of being noble or great-hearted."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes generosity, fairness and a willingness to overlook conflict."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "magnanimity",
+          "label": "noun"
+        },
+        {
+          "term": "magnanimously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "generous",
+        "charitable",
+        "forgiving",
+        "noble",
+        "gracious"
+      ],
+      "opposite": "petty",
+      "pitfall": "Do not confuse it with magnificent, which means impressive or splendid in appearance or achievement."
+    },
+    {
+      "id": "maladjusted",
+      "kind": "word",
+      "term": "maladjusted",
+      "pos": "adjective",
+      "phonetic": "/ˌmæləˈdʒʌstɪd/",
+      "sayIt": "mal-uh-JUST-id",
+      "register": "Formal; clinical or dated",
+      "meaning": "Unable to adapt one's behaviour, emotions, or social expectations well enough to cope with everyday demands.",
+      "nuance": "Often used in psychological or older formal contexts, but it can sound blunt or insulting when applied directly to someone.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Employee support · helping a new hire",
+          "sentence": "Because the new hire seemed maladjusted to the office routine, her manager offered mentoring rather than criticism.",
+          "highlight": "maladjusted",
+          "tip": "Use this in a formal or clinical context, not as a quick judgement about a colleague."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · discussing old-fashioned labels",
+          "sentence": "Some older relatives use maladjusted for anyone who ignores family customs.",
+          "highlight": "maladjusted",
+          "tip": "The word may sound old-fashioned or judgemental in casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Clinical assessment · describing a client's needs",
+          "sentence": "In the assessment, maladjusted was too broad, so the author described the client's social anxiety more precisely.",
+          "highlight": "maladjusted",
+          "tip": "It fits formal reports, but a specific description is usually clearer and more respectful."
+        }
+      ],
+      "origin": {
+        "summary": "Built from the English prefix mal-, meaning 'badly' or 'wrongly', and adjusted, meaning 'adapted'.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The prefix mal- was established in English for 'badly' or 'wrongly'."
+          },
+          {
+            "when": "1800s",
+            "text": "Maladjusted becomes established as a description of poor personal or social adjustment."
+          },
+          {
+            "when": "Today",
+            "text": "Its use is mainly clinical, formal, or dated, and it is often considered harsh."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "maladjustment",
+          "label": "noun"
+        },
+        {
+          "term": "adjusted",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "maladaptive",
+        "poorly adjusted",
+        "dysfunctional",
+        "neurotic"
+      ],
+      "opposite": "well-adjusted",
+      "pitfall": "Avoid using it as a casual insult; name the specific difficulty or behaviour instead."
+    },
+    {
+      "id": "malleable",
+      "kind": "word",
+      "term": "malleable",
+      "pos": "adjective",
+      "phonetic": "/mæˈliːəbəl/",
+      "sayIt": "mal-LEE-uh-buhl",
+      "register": "Formal",
+      "meaning": "Easy to shape, bend or influence without breaking.",
+      "nuance": "For materials, it describes flexibility. For people or plans, it suggests someone or something can be strongly influenced, which may be intended or viewed as a weakness.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · shaping a proposal",
+          "sentence": "The early plan is malleable, so we can adjust it after the client clarifies their priorities.",
+          "highlight": "malleable",
+          "tip": "Use it when a proposal or strategy can still be changed easily."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · discussing someone’s outlook",
+          "sentence": "She’s more malleable than she was, and she now considers views different from her own.",
+          "highlight": "malleable",
+          "tip": "This can sound mildly critical, suggesting excessive willingness to change."
+        },
+        {
+          "setting": "writing",
+          "where": "Product review · comparing materials",
+          "sentence": "The alloy is highly malleable, allowing it to be shaped into thin, precise panels.",
+          "highlight": "malleable",
+          "tip": "For physical materials, it is more precise than simply flexible."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin malleare, meaning ‘to hammer or beat into shape’, related to malleus, ‘hammer’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Malleare means ‘to hammer or shape by beating’, from malleus, ‘hammer’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "Enters English describing metal that can be hammered into shape."
+          },
+          {
+            "when": "Later",
+            "text": "The meaning broadens to describe anything easily shaped or influenced."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "malleability",
+          "label": "noun"
+        },
+        {
+          "term": "malleably",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "pliable",
+        "flexible",
+        "adaptable",
+        "mouldable"
+      ],
+      "opposite": "rigid",
+      "pitfall": "When describing people, malleable can imply that someone is easily influenced or too compliant."
+    }
+  ]
+}

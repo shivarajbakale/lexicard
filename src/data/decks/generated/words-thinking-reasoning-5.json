@@ -1,0 +1,1582 @@
+{
+  "id": "words-thinking-reasoning-5",
+  "kind": "word",
+  "name": "Thinking & reasoning · 5",
+  "blurb": "23 words about thinking & reasoning",
+  "cards": [
+    {
+      "id": "prudent",
+      "kind": "word",
+      "term": "prudent",
+      "pos": "adjective",
+      "phonetic": "/ˈpruːdənt/",
+      "sayIt": "PROO-dunt",
+      "register": "Common at work",
+      "meaning": "Making sensible choices based on careful thought and awareness of possible risks.",
+      "nuance": "It suggests good judgement rather than fear or excessive caution. It often fits decisions about money, time, safety or responsibility.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget review · choosing a supplier",
+          "sentence": "It may be prudent to ask for a second quote before we commit the full budget.",
+          "highlight": "prudent",
+          "tip": "Common when weighing cost, risk or the consequences of a decision."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a trip · checking the route",
+          "sentence": "It seemed prudent to check the route before setting off because the trains were running late.",
+          "highlight": "prudent",
+          "tip": "Use it for sensible precautions that a reasonable person would consider."
+        },
+        {
+          "setting": "writing",
+          "where": "Project proposal · explaining a delay",
+          "sentence": "It would be prudent to reset the timeline and explain the delay clearly.",
+          "highlight": "prudent",
+          "tip": "It gives a formal, thoughtful tone to advice about handling a situation."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin prudentia, meaning wisdom or careful judgement, with roots in prudens, meaning wise or discerning.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin prudens means ‘wise or discerning’, while prudentia means ‘wisdom or prudence’."
+          },
+          {
+            "when": "Medieval period",
+            "text": "The word enters Middle English in the sense of wise, sensible or cautious."
+          },
+          {
+            "when": "Today",
+            "text": "It describes decisions guided by careful thought and awareness of risk."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "prudence",
+          "label": "noun"
+        },
+        {
+          "term": "prudently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "sensible",
+        "wise",
+        "cautious",
+        "judicious"
+      ],
+      "opposite": "reckless",
+      "pitfall": "Prudent means wisely considering what is likely to happen; it does not simply mean afraid to act."
+    },
+    {
+      "id": "quandary",
+      "kind": "word",
+      "term": "quandary",
+      "pos": "noun",
+      "phonetic": "/ˈkwɒndəri/",
+      "sayIt": "KWON-duh-ree",
+      "register": "Everyday",
+      "meaning": "A situation that leaves you confused or unsure about what to do.",
+      "nuance": "It often describes a practical dilemma involving two equally difficult choices. The word sounds slightly formal but is still natural in everyday conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · choosing a deadline",
+          "sentence": "We’re in a quandary: we can meet the launch date, but only if we cut the testing.",
+          "highlight": "quandary",
+          "tip": "Use it when a problem leaves the team with no obvious choice."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner plans · deciding where to meet",
+          "sentence": "I was in a quandary about whether to suggest the new restaurant or stay somewhere familiar.",
+          "highlight": "quandary",
+          "tip": "It works well for a mild social dilemma, especially when explaining indecision."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a manager · explaining a delay",
+          "sentence": "We faced a quandary over whether to delay the report or publish it with incomplete data.",
+          "highlight": "quandary",
+          "tip": "It adds a formal, thoughtful tone to a description of a difficult decision."
+        }
+      ],
+      "origin": {
+        "summary": "The exact development is uncertain, but the word probably came through Anglo-French from Latin quaerere, meaning ‘to ask’ or ‘to seek’, before acquiring its modern sense of difficulty or confusion.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "From quaerere, ‘to ask, seek, investigate’."
+          },
+          {
+            "when": "Anglo-French",
+            "text": "Passes through forms connected with being at a loss or in difficulty."
+          },
+          {
+            "when": "1500s",
+            "text": "Appears in English with the sense of a difficult situation or mental confusion."
+          }
+        ]
+      },
+      "similar": [
+        "predicament",
+        "dilemma",
+        "bind",
+        "puzzle"
+      ],
+      "pitfall": "Use it with ‘in’ or ‘in a’, as in ‘in a quandary’, rather than ‘in quandary’."
+    },
+    {
+      "id": "quarry",
+      "kind": "word",
+      "term": "quarry",
+      "pos": "verb",
+      "phonetic": "/ˈkwɒri/",
+      "sayIt": "KWOR-ee",
+      "register": "Common in professional and formal contexts",
+      "meaning": "To search persistently for information, evidence or an explanation.",
+      "nuance": "It suggests determined searching and can sound slightly literary. As a noun, a quarry is a place where stone, sand or minerals are extracted.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "System audit · investigating a delay",
+          "sentence": "During the audit, we quarry the logs for anomalies that might explain the delay.",
+          "highlight": "quarry",
+          "tip": "Use it for an intensive search through evidence or records."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · getting a straight answer",
+          "sentence": "I decided to quarry my sister about the party, since her vague reply was no help.",
+          "highlight": "quarry",
+          "tip": "It can sound playful when someone presses another person for details."
+        },
+        {
+          "setting": "writing",
+          "where": "Research report · checking examples",
+          "sentence": "The reporter quarries public records for examples rather than relying on a single source.",
+          "highlight": "quarries",
+          "tip": "The verb takes the source being searched as its object."
+        }
+      ],
+      "origin": {
+        "summary": "The verb comes through Old French from Latin quaerere, meaning ‘to seek’. Its sense developed from hunting or searching to examining evidence for an answer.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "quaerere means ‘to seek’ or ‘to look for’."
+          },
+          {
+            "when": "Old French",
+            "text": "The word develops senses connected with hunting and pursuing."
+          },
+          {
+            "when": "Later Middle English",
+            "text": "It enters English in forms such as quarryen, meaning ‘to hunt’ or ‘to pursue’."
+          },
+          {
+            "when": "Modern English",
+            "text": "It is also used for searching information or evidence, especially in formal writing."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "quarryman",
+          "label": "noun (person)"
+        },
+        {
+          "term": "quarrier",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "pursue",
+        "investigate",
+        "probe",
+        "search"
+      ],
+      "opposite": "ignore",
+      "pitfall": "Do not confuse it with query, which can mean a question or a request for information. As a noun, a quarry is a place where useful material is extracted from the ground."
+    },
+    {
+      "id": "ramifications",
+      "kind": "word",
+      "term": "ramifications",
+      "pos": "noun",
+      "phonetic": "/ˌræmɪfɪˈkeɪʃənz/",
+      "sayIt": "RAM-ih-fih-KAY-shunz",
+      "register": "Formal",
+      "meaning": "The consequences or effects of an action, decision or change, especially ones that may be complicated or difficult.",
+      "nuance": "Often suggests indirect consequences that are easy to overlook. It sounds more serious than simply “results” or “effects,” and is especially common in professional and legal contexts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing a proposed change",
+          "sentence": "The merger had legal ramifications, so we asked counsel to review the contracts before signing.",
+          "highlight": "ramifications",
+          "tip": "Use it when an action may lead to significant or less obvious consequences."
+        },
+        {
+          "setting": "social",
+          "where": "Friends talking · an awkward group chat",
+          "sentence": "I didn't expect the late reply to have such social ramifications; our group chat is now tense.",
+          "highlight": "ramifications",
+          "tip": "It can describe consequences affecting relationships, not just practical outcomes."
+        },
+        {
+          "setting": "writing",
+          "where": "Business memo · policy proposal",
+          "sentence": "The policy change could have financial ramifications for small suppliers, so we should flag it early.",
+          "highlight": "ramifications",
+          "tip": "Pair it with legal, financial, practical or political to show what kind of effects you mean."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin ramificare, meaning “to branch out,” built from ramus, “branch,” and facere, “to make.” The idea is of one thing leading to smaller branches or connected effects.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Ramificare means “to branch out” or “extend into branches.”"
+          },
+          {
+            "when": "Early modern English",
+            "text": "The word enters English as a formal term for branching or connected consequences."
+          },
+          {
+            "when": "Today",
+            "text": "It is used especially for the wider effects of a decision, event or change."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "ramification",
+          "label": "noun (singular)"
+        },
+        {
+          "term": "ramify",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "consequences",
+        "implications",
+        "effects",
+        "drawbacks"
+      ],
+      "opposite": "root cause",
+      "pitfall": "“Ramifications” usually emphasizes consequences rather than the original cause, and is often plural."
+    },
+    {
+      "id": "rationalize",
+      "kind": "word",
+      "term": "rationalize",
+      "pos": "verb",
+      "phonetic": "/ˈræʃənəlaɪz/",
+      "sayIt": "RASH-uh-nuh-lyze",
+      "register": "Common at work; formal in writing",
+      "meaning": "To explain or justify something by giving logical reasons, sometimes after the event.",
+      "nuance": "It can describe clear, reasonable explanation, but it often suggests that someone is inventing a tidy explanation to excuse their actions.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client meeting · explaining a delay",
+          "sentence": "We can rationalize the delay by pointing to the supplier issues, but the client deserves the full timeline.",
+          "highlight": "rationalize",
+          "tip": "Use it carefully when an explanation may sound like an excuse."
+        },
+        {
+          "setting": "social",
+          "where": "Chat with a friend · explaining poor choices",
+          "sentence": "I tried to rationalize staying up all night, but honestly, I simply lost track of time.",
+          "highlight": "rationalize",
+          "tip": "It often reveals an attempt to make a questionable decision sound sensible."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · reviewing a policy",
+          "sentence": "The report rationalizes the policy change by focusing on demand, staffing pressures and long-term savings.",
+          "highlight": "rationalizes",
+          "tip": "It fits analytical writing, but check whether you are explaining or defending."
+        }
+      ],
+      "origin": {
+        "summary": "Built from rational plus the suffix -ize, with roots in Latin rationalis, meaning ‘of reason’ or ‘reasonable’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin rationalis means ‘of reason’ or ‘reasonable’ and comes from ratio, meaning ‘reason’ or ‘proportion’."
+          },
+          {
+            "when": "1600s",
+            "text": "Rationalize enters English, formed from rational and the suffix -ize."
+          },
+          {
+            "when": "1900s",
+            "text": "Its modern use expands to include explaining something logically and giving a justification that may conceal self-interest."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "rationalization",
+          "label": "noun"
+        },
+        {
+          "term": "rationally",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "justify",
+        "explain away",
+        "account for",
+        "defend"
+      ],
+      "opposite": "dismiss",
+      "pitfall": "In British English, rationalize often means explain logically; in American English, it often more strongly suggests making excuses. Context matters."
+    },
+    {
+      "id": "recondite",
+      "kind": "word",
+      "term": "recondite",
+      "pos": "adjective",
+      "phonetic": "/rɪˈkɒndaɪt/",
+      "sayIt": "re-CON-dite",
+      "register": "Formal",
+      "meaning": "Difficult to understand because it deals with obscure or complicated ideas.",
+      "nuance": "Often describes writing, theories, or explanations that seem hidden or intellectually demanding. It can sound slightly negative when used about ordinary communication that is needlessly unclear.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · reviewing a technical proposal",
+          "sentence": "The proposal contains recondite assumptions that will take time to explain to the wider team.",
+          "highlight": "recondite",
+          "tip": "Use it for ideas that are genuinely complex or obscure, not merely technical."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · discussing a specialist topic",
+          "sentence": "His passion for recondite philosophy made the conversation fascinating but hard to follow.",
+          "highlight": "recondite",
+          "tip": "It sounds elegant and intellectual, but may create distance in casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Academic introduction · presenting an argument",
+          "sentence": "The article challenges a recondite interpretation of the text and offers a simpler explanation.",
+          "highlight": "recondite",
+          "tip": "It is especially useful in formal criticism when you want to signal that an interpretation is unusually complex."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin reconditus, meaning ‘hidden’ or ‘deep’, originally from recondere, ‘to conceal’ or ‘to store away’. The word originally suggested something kept hidden before developing its sense of being hard to understand.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Reconditus means ‘hidden, concealed, deep’, related to recondere, ‘to conceal or store away’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word appears in English with meanings connected with secrecy and hidden things."
+          },
+          {
+            "when": "18th century onward",
+            "text": "It develops the modern sense of being obscure, complicated, or difficult to understand."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "reconditely",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "abstruse",
+        "esoteric",
+        "arcane",
+        "opaque"
+      ],
+      "opposite": "accessible",
+      "pitfall": "Recondite does not simply mean technical or complicated; it suggests that the ideas are unusually obscure or hard to grasp."
+    },
+    {
+      "id": "reverie",
+      "kind": "word",
+      "term": "reverie",
+      "pos": "noun",
+      "phonetic": "/ˈrɛvəri/",
+      "sayIt": "REV-uh-ree",
+      "register": "Everyday",
+      "meaning": "A pleasant thought or daydream in which the mind drifts away from what is happening around it.",
+      "nuance": "It often suggests gentle, thoughtful absorption rather than serious planning. It can sound poetic or slightly formal, especially when describing someone lost in thought.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Quiet break · between meetings",
+          "sentence": "She stared out of the window in a moment of reverie before returning to the project review.",
+          "highlight": "reverie",
+          "tip": "Use it for a brief, pleasant escape from practical tasks."
+        },
+        {
+          "setting": "social",
+          "where": "Coffee with a friend · catching up",
+          "sentence": "We spent the afternoon in reverie, talking about our childhood summers and the roads we might take.",
+          "highlight": "reverie",
+          "tip": "It works well for nostalgic or imaginative conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel journal · reflecting on a journey",
+          "sentence": "The quiet hillside filled me with reverie, and I forgot to check the time.",
+          "highlight": "reverie",
+          "tip": "Use it in descriptive writing to create a dreamy, reflective mood."
+        }
+      ],
+      "origin": {
+        "summary": "From French reverie, meaning a dream or daydream, which developed from rever, ‘to dream’. The word entered English in a literary and reflective sense.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old French",
+            "text": "The root rever meant ‘to dream’ and gave French reverie, meaning a dream or daydream."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "Reverie enters English, associated with dreaming, imagination and reflection."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used for a pleasant, dreamy state of thought."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "reveries",
+          "label": "noun (plural)"
+        }
+      ],
+      "similar": [
+        "daydream",
+        "reflection",
+        "daydreaming",
+        "contemplation",
+        "fancy"
+      ],
+      "opposite": "focus",
+      "pitfall": "Don’t use reverie for a practical plan or a wild unrealistic idea; it describes the feeling of drifting into thoughts or dreams."
+    },
+    {
+      "id": "rudimentary",
+      "kind": "word",
+      "term": "rudimentary",
+      "pos": "adjective",
+      "phonetic": "/ˌruːdɪˈmentəri/",
+      "sayIt": "roo-di-MEN-tuh-ree",
+      "register": "Formal",
+      "meaning": "Basic, simple, or not yet fully developed.",
+      "nuance": "It can describe useful first versions, but it may also suggest something incomplete or lacking refinement.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · reviewing a prototype",
+          "sentence": "We have a rudimentary version ready, so we can test the main idea before improving the design.",
+          "highlight": "rudimentary",
+          "tip": "Useful when describing an early version that shows the basic structure."
+        },
+        {
+          "setting": "social",
+          "where": "Cooking class · preparing a simple meal",
+          "sentence": "My knife skills are still rudimentary, but I can chop vegetables safely.",
+          "highlight": "rudimentary",
+          "tip": "Use it to admit that a basic skill is developing."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining progress",
+          "sentence": "The report offers only a rudimentary analysis and needs more detailed evidence.",
+          "highlight": "rudimentary",
+          "tip": "It sounds professional but can imply that the work is too limited."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin rudimentum, meaning an unlearned beginner or the first element of something being developed.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin rudimentum referred to a beginner or the first stage of learning."
+          },
+          {
+            "when": "1500s",
+            "text": "Entered English with meanings connected with beginnings and basic instruction."
+          },
+          {
+            "when": "Today",
+            "text": "Mainly describes something basic, initial or not fully developed."
+          }
+        ]
+      },
+      "similar": [
+        "basic",
+        "initial",
+        "elementary",
+        "primitive",
+        "incomplete"
+      ],
+      "opposite": "advanced",
+      "pitfall": "It does not mean useless; a rudimentary tool or system can still be effective for a simple purpose."
+    },
+    {
+      "id": "ruminate",
+      "kind": "word",
+      "term": "ruminate",
+      "pos": "verb",
+      "phonetic": "/ˈruːmɪneɪt/",
+      "sayIt": "ROO-mi-nayt",
+      "register": "Formal",
+      "meaning": "To think deeply and repeatedly about something, especially something that happened or a decision that needs to be made.",
+      "nuance": "It suggests careful, often prolonged thought and can carry a slight sense of delay or overthinking. It is common in reflective writing but may sound formal in conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · reviewing a setback",
+          "sentence": "We spent an hour ruminating over the failed launch instead of deciding what to change.",
+          "highlight": "ruminating",
+          "tip": "Use it when repeated thought is becoming less productive than action."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with a friend · an old disagreement",
+          "sentence": "I kept ruminating about what she meant, but I decided to ask her directly.",
+          "highlight": "ruminating",
+          "tip": "It fits personal worries, but “keep wondering about” is more conversational."
+        },
+        {
+          "setting": "writing",
+          "where": "Journal entry · reflecting on a choice",
+          "sentence": "I spent the evening ruminating on whether I had made the right career decision.",
+          "highlight": "ruminating",
+          "tip": "Use it to describe thoughtful reflection in memoirs, diaries and essays."
+        }
+      ],
+      "origin": {
+        "summary": "It comes from Latin ruminari, meaning “to chew cud,” which later developed into the figurative idea of turning something over in the mind.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Ruminari means “to chew cud,” from rumen, the first stomach of a grazing animal."
+          },
+          {
+            "when": "1500s",
+            "text": "The figurative sense of considering something repeatedly begins appearing in English."
+          },
+          {
+            "when": "Today",
+            "text": "It usually means to reflect deeply or at length, sometimes to the point of overthinking."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "rumination",
+          "label": "noun"
+        },
+        {
+          "term": "ruminant",
+          "label": "noun or adjective"
+        }
+      ],
+      "similar": [
+        "ponder",
+        "deliberate",
+        "reflect",
+        "mull over",
+        "brood"
+      ],
+      "opposite": "dismiss",
+      "pitfall": "Use “ruminate on” or “ruminate over,” not “ruminate about”; in casual speech, “overthink” is often clearer."
+    },
+    {
+      "id": "sagacious",
+      "kind": "word",
+      "term": "sagacious",
+      "pos": "adjective",
+      "phonetic": "/səˈɡeɪʃəs/",
+      "sayIt": "suh-GAY-shus",
+      "register": "Formal",
+      "meaning": "Showing sharp judgement and a clear understanding of a situation.",
+      "nuance": "A complimentary word that suggests someone thinks carefully and makes sensible decisions. It is more formal than “smart” or “shrewd.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Strategy meeting · choosing a direction",
+          "sentence": "Her sagacious advice helped us choose the smaller project and avoid unnecessary delays.",
+          "highlight": "sagacious",
+          "tip": "Use it to praise good judgement without sounding overly personal."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · planning an event",
+          "sentence": "It was sagacious of you to book the restaurant early, because we ate there every Friday.",
+          "highlight": "sagacious",
+          "tip": "This sounds natural when you want to praise someone’s practical wisdom."
+        },
+        {
+          "setting": "writing",
+          "where": "Recommendation letter · reflecting on judgement",
+          "sentence": "He showed a sagacious understanding of the team and made sound decisions during a difficult period.",
+          "highlight": "sagacious",
+          "tip": "Especially useful in formal writing about a person’s judgement or leadership."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin sagax, meaning “keen” or “perceptive,” related to sagire, “to perceive sharply.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Sagax means “keen of perception” and develops the sense of wise or discerning."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English and is used mainly for perceptive judgement."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal word for someone who shows practical wisdom and sound judgement."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "sagacity",
+          "label": "noun"
+        },
+        {
+          "term": "sagaciously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "shrewd",
+        "astute",
+        "prudent",
+        "discerning",
+        "perceptive"
+      ],
+      "opposite": "unwise",
+      "pitfall": "Use it for careful judgement, not general intelligence; “sagacious” usually praises how someone thinks or decides."
+    },
+    {
+      "id": "salient",
+      "kind": "word",
+      "term": "salient",
+      "pos": "adjective",
+      "phonetic": "/ˈseɪ.li.ənt/",
+      "sayIt": "SAY-lee-uhnt",
+      "register": "Formal",
+      "meaning": "Important, relevant, or likely to attract attention.",
+      "nuance": "It describes something that stands out from other information, often because it matters more or deserves closer attention. It is especially common in analytical and professional writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · identifying risks",
+          "sentence": "The most salient issue is that customer data may be exposed if we launch on Friday.",
+          "highlight": "salient",
+          "tip": "Use it to focus a discussion on the points that matter most."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · comparing two trips",
+          "sentence": "The most salient difference was price: the coastal trip was significantly more expensive.",
+          "highlight": "salient",
+          "tip": "It sounds slightly formal, so reserve it for thoughtful or analytical conversations."
+        },
+        {
+          "setting": "writing",
+          "where": "Research summary · presenting findings",
+          "sentence": "We highlight the three findings most salient to policymakers before discussing the wider evidence.",
+          "highlight": "salient",
+          "tip": "Common in reports and essays when ordering information by relevance or significance."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin saliens, meaning ‘jumping’ or ‘prominent’, based on salire, ‘to leap’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Salient comes from saliens, a form of salire, ‘to leap’."
+          },
+          {
+            "when": "1600s",
+            "text": "Entered English with the sense of projecting, standing out, or being prominent."
+          },
+          {
+            "when": "Today",
+            "text": "Usually means important, relevant, or noticeable."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "salience",
+          "label": "noun"
+        },
+        {
+          "term": "saliently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "prominent",
+        "notable",
+        "important",
+        "relevant"
+      ],
+      "opposite": "unremarkable",
+      "pitfall": "Do not confuse it with ‘salivate’, which relates to producing saliva."
+    },
+    {
+      "id": "scrupulous",
+      "kind": "word",
+      "term": "scrupulous",
+      "pos": "adjective",
+      "phonetic": "/ˈskruːpjələs/",
+      "sayIt": "SKROO-pyuh-luhs",
+      "register": "Formal",
+      "meaning": "Very careful about doing things correctly and paying close attention to every detail.",
+      "nuance": "A strong, complimentary word that suggests accuracy, honesty and thoroughness. It can sound more formal than careful, especially when describing work or someone's character.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · checking final details",
+          "sentence": "She was scrupulous about checking every figure before sending the report.",
+          "highlight": "scrupulous",
+          "tip": "Use it to praise careful attention to accuracy and detail."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · honouring an arrangement",
+          "sentence": "He is scrupulous about arriving on time, even when the evening plans are rather complicated.",
+          "highlight": "scrupulous",
+          "tip": "It can describe someone whose reliability comes from strict attention to detail."
+        },
+        {
+          "setting": "writing",
+          "where": "Reference request · explaining your process",
+          "sentence": "The researcher was scrupulous in documenting her sources and clearly separating facts from assumptions.",
+          "highlight": "scrupulous",
+          "tip": "Pairs well with about, in, regarding and attention to detail."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin scrupulus, meaning a small stone or rough piece of metal. The word originally referred to something that causes doubt or concern, and later developed the sense of careful and precise.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Scrupulus referred to a small stone or a rough fragment of metal."
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered English with meanings connected to doubt, conscience and moral concern."
+          },
+          {
+            "when": "1800s",
+            "text": "It acquired its modern sense of being careful, exact and thorough."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "scrupulously",
+          "label": "adverb"
+        },
+        {
+          "term": "scrupulosity",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "meticulous",
+        "careful",
+        "thorough",
+        "diligent",
+        "fastidious"
+      ],
+      "opposite": "careless",
+      "pitfall": "Scrupulous means careful and precise, not necessarily slow or overly demanding. Avoid using it to suggest that someone refuses to relax."
+    },
+    {
+      "id": "shrewd",
+      "kind": "word",
+      "term": "shrewd",
+      "pos": "adjective",
+      "phonetic": "/ʃruːd/",
+      "sayIt": "SHROOD",
+      "register": "Common at work",
+      "meaning": "Clever and good at understanding situations, people or opportunities.",
+      "nuance": "Often suggests practical intelligence rather than bookish knowledge. It can be complimentary, but may imply that someone is calculating or suspiciously sharp.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing a proposal",
+          "sentence": "That was a shrewd choice: it saves money without slowing down the project.",
+          "highlight": "shrewd",
+          "tip": "Use it to praise smart judgement about a practical issue."
+        },
+        {
+          "setting": "social",
+          "where": "Friend’s advice · making plans",
+          "sentence": "She was shrewd about the venue and booked before prices went up.",
+          "highlight": "shrewd",
+          "tip": "Natural for describing clever decisions about money, timing or people."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · assessing a colleague",
+          "sentence": "His shrewd reading of customer feedback helped the team target the right problem.",
+          "highlight": "shrewd",
+          "tip": "Pairs well with judgement, instinct, thinking or negotiation."
+        }
+      ],
+      "origin": {
+        "summary": "From Middle English shrewe, an adjective meaning astute or clever, developed from the word for a shrew, a small mammal.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The ancestor of shrew referred to a small animal now called a shrew."
+          },
+          {
+            "when": "Middle English",
+            "text": "Shrewe appears as an adjective meaning astute, keen or crafty."
+          },
+          {
+            "when": "Modern English",
+            "text": "The word settled into its current sense of clever and practically perceptive."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "shrewdly",
+          "label": "adverb"
+        },
+        {
+          "term": "shrewdness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "astute",
+        "canny",
+        "shrewd",
+        "clever",
+        "perceptive"
+      ],
+      "opposite": "foolish",
+      "pitfall": "Shrewd usually praises sharp judgement, but in some contexts it can sound slightly suspicious or manipulative."
+    },
+    {
+      "id": "simplistic",
+      "kind": "word",
+      "term": "simplistic",
+      "pos": "adjective",
+      "phonetic": "/sɪmˈplɪstɪk/",
+      "sayIt": "sim-PLIS-tik",
+      "register": "Common at work and in criticism",
+      "meaning": "Too simple to capture the full complexity of something.",
+      "nuance": "It is usually a criticism that suggests an explanation, design or solution has ignored important details. It can also mean deliberately simple rather than careless, but that less common use may sound defensive.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Design review · explaining a solution",
+          "sentence": "The two-button flow is too simplistic for users who need to manage several accounts at once.",
+          "highlight": "simplistic",
+          "tip": "Use it when a proposed answer overlooks real-world complexity."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · challenging a stereotype",
+          "sentence": "Calling every young employee digital native is simplistic; many still value clear processes and face-to-face guidance.",
+          "highlight": "simplistic",
+          "tip": "It can sound firm but less confrontational than saying someone is wrong."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · judging an explanation",
+          "sentence": "The article offers a simplistic account of the dispute and leaves out the economic pressures behind it.",
+          "highlight": "simplistic",
+          "tip": "Often appears before words such as account, explanation, view or approach."
+        }
+      ],
+      "origin": {
+        "summary": "It was formed in English from simplicity and the ending -istic, following the model of words such as optimistic and realistic.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "Simplistic enters English as a word meaning simple or uncomplicated."
+          },
+          {
+            "when": "1800s",
+            "text": "Its meaning expands to include something that is too simple or lacks sufficient detail."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used critically for explanations, designs and arguments that ignore complexity."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "simplify",
+          "label": "verb"
+        },
+        {
+          "term": "simplification",
+          "label": "noun"
+        },
+        {
+          "term": "simplified",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "oversimplified",
+        "uncomplicated",
+        "straightforward",
+        "black-and-white"
+      ],
+      "opposite": "nuanced",
+      "pitfall": "Do not use it simply to praise a clear design or explanation; it usually implies that something has been reduced too far."
+    },
+    {
+      "id": "surmise",
+      "kind": "word",
+      "term": "surmise",
+      "pos": "verb",
+      "phonetic": "/sərˈmaɪz/",
+      "sayIt": "sur-MIZE",
+      "register": "Formal",
+      "meaning": "To form an opinion about something from clues or indirect evidence, without being certain.",
+      "nuance": "A surmise is a carefully formed guess, not a random guess. It sounds polished and formal, so it suits professional writing better than casual conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · interpreting feedback",
+          "sentence": "From the customer notes, I surmise that the clearer instructions are the main reason for the improvement.",
+          "highlight": "surmise",
+          "tip": "Use it when your conclusion is based on evidence but not confirmed facts."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · explaining a change of plans",
+          "sentence": "I surmise the venue is quieter because fewer people booked the late session.",
+          "highlight": "surmise",
+          "tip": "It adds a thoughtful, slightly formal tone to conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · presenting an interpretation",
+          "sentence": "We can surmise that the policy was poorly understood, although further interviews are needed to confirm this.",
+          "highlight": "surmise",
+          "tip": "Useful in reports when you want to separate an evidence-based interpretation from a proven conclusion."
+        }
+      ],
+      "origin": {
+        "summary": "Surmise comes through French from words meaning to think or imagine, and its early English use referred to a guess or conjecture.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Middle English",
+            "text": "Appears in English with the sense of a guess or an opinion formed without full proof."
+          },
+          {
+            "when": "1600s–1800s",
+            "text": "Used as both a noun and a verb in legal, literary and formal writing."
+          },
+          {
+            "when": "Today",
+            "text": "Usually means to infer something cautiously from available clues."
+          }
+        ]
+      },
+      "similar": [
+        "conjecture",
+        "speculate",
+        "suspect",
+        "infer"
+      ],
+      "opposite": "know",
+      "pitfall": "Surmise does not mean simply suppose in every context; it usually suggests a conclusion drawn from evidence, and it can sound overly formal in casual speech."
+    },
+    {
+      "id": "tantamount",
+      "kind": "word",
+      "term": "tantamount",
+      "pos": "adjective",
+      "phonetic": "/ˌtæntəˈmaʊnt/",
+      "sayIt": "TAN-tuh-MOUNT",
+      "register": "Formal",
+      "meaning": "Equal to something in meaning, effect, or practical result.",
+      "nuance": "A formal, precise way of saying that two actions or situations are effectively the same. It often highlights that the practical outcome is equivalent, even if the details differ.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Compliance review · comparing two policies",
+          "sentence": "Approving the request manually is tantamount to giving every employee unrestricted access.",
+          "highlight": "tantamount",
+          "tip": "Use it to show that a different process produces the same result as the one under discussion."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · disagreeing about a proposal",
+          "sentence": "Refusing to discuss it publicly is tantamount to keeping the decision a secret.",
+          "highlight": "tantamount",
+          "tip": "It can sharpen an objection without directly accusing the other person."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · assessing the impact of a change",
+          "sentence": "The new rule is tantamount to a pay freeze for part-time staff.",
+          "highlight": "tantamount",
+          "tip": "Follow it with “to” and the thing that provides the comparison."
+        }
+      ],
+      "origin": {
+        "summary": "From French tant à montant, an old expression meaning “to such an extent,” developed in English into a word meaning “equivalent in effect.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "French",
+            "text": "The source phrase was tant à montant, originally associated with the idea of mounting to an equal amount."
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered English, initially meaning equal or equivalent in amount or value."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means equivalent in meaning, effect, or practical outcome."
+          }
+        ]
+      },
+      "similar": [
+        "equivalent",
+        "comparable",
+        "equal",
+        "much the same"
+      ],
+      "opposite": "different",
+      "pitfall": "Usually takes “to”: “tantamount to,” not “tantamount of.”"
+    },
+    {
+      "id": "tolerate",
+      "kind": "word",
+      "term": "tolerate",
+      "pos": "verb",
+      "phonetic": "/ˈtɒləreɪt/",
+      "sayIt": "TOL-uh-rate",
+      "register": "Common at work",
+      "meaning": "To accept something unpleasant, difficult, or different without opposing it strongly.",
+      "nuance": "Often implies discomfort or disapproval that you are willing to put up with. It can also mean to allow someone or something to exist.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · repeated delays",
+          "sentence": "We can tolerate a short delay, but we need a clear date before the launch.",
+          "highlight": "tolerate",
+          "tip": "Use it to set a limit on what you are willing to accept."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · differing views",
+          "sentence": "I can tolerate disagreement, but not rudeness.",
+          "highlight": "tolerate",
+          "tip": "This sounds firmer and more formal than “put up with.”"
+        },
+        {
+          "setting": "writing",
+          "where": "Workplace policy · shared spaces",
+          "sentence": "The policy does not tolerate discrimination or harassment of any kind.",
+          "highlight": "tolerate",
+          "tip": "This form makes the standard sound firm and official."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin tolerare, meaning to endure or bear patiently; it entered English in the 1500s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Tolerare meant to endure, bear, or allow patiently."
+          },
+          {
+            "when": "1500s",
+            "text": "The word entered English with the sense of enduring patiently."
+          },
+          {
+            "when": "Today",
+            "text": "It means accepting something unpleasant or allowing it to happen."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "toleration",
+          "label": "noun"
+        },
+        {
+          "term": "tolerable",
+          "label": "adjective"
+        },
+        {
+          "term": "tolerance",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "accept",
+        "endure",
+        "allow",
+        "put up with"
+      ],
+      "opposite": "reject",
+      "pitfall": "Tolerate usually suggests that you accept something you may not fully like or approve of."
+    },
+    {
+      "id": "tortuous",
+      "kind": "word",
+      "term": "tortuous",
+      "pos": "adjective",
+      "phonetic": "/ˈtɔːrtʃuəs/",
+      "sayIt": "TOR-choo-us",
+      "register": "Formal",
+      "meaning": "Twisting and complicated, especially in its shape or development.",
+      "nuance": "It can describe a winding path or an indirect, complicated process. It often suggests that something is unnecessarily difficult to follow.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · untangling responsibilities",
+          "sentence": "The approval process became so tortuous that we stopped tracking who was responsible for each step.",
+          "highlight": "tortuous",
+          "tip": "Use it for processes or negotiations that are complicated and indirect."
+        },
+        {
+          "setting": "social",
+          "where": "Walking with friends · choosing a route",
+          "sentence": "We took the tortuous path through the park because the main road was closed.",
+          "highlight": "tortuous",
+          "tip": "For physical routes, it emphasises twisting turns rather than difficulty."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · reviewing a proposal",
+          "sentence": "The committee offered a tortuous explanation for the delay, but it failed to identify the real cause.",
+          "highlight": "tortuous",
+          "tip": "It works well for deliberately vague or complicated explanations."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin tortuosus, meaning ‘twisted’ or ‘winding’, ultimately connected with torquere, ‘to twist’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Tortuosus develops the sense of bent, winding or indirect."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with meanings related to twisting and complicated paths."
+          },
+          {
+            "when": "Today",
+            "text": "It describes winding routes and indirect, hard-to-follow processes."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "tortuously",
+          "label": "adverb"
+        },
+        {
+          "term": "tortuosity",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "convoluted",
+        "winding",
+        "indirect",
+        "complicated"
+      ],
+      "opposite": "straightforward",
+      "pitfall": "Don’t confuse it with torturous, which usually means causing extreme pain or suffering."
+    },
+    {
+      "id": "ultimate",
+      "kind": "word",
+      "term": "ultimate",
+      "pos": "adjective",
+      "phonetic": "/ˈʌltɪmət/",
+      "sayIt": "UL-tih-mit",
+      "register": "Common at work",
+      "meaning": "The final, most important or best possible result, stage or outcome.",
+      "nuance": "It can mean the last point in a process, but it often adds a sense of maximum importance or excellence. In business, it can also mean the final stage before something is completed.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · setting milestones",
+          "sentence": "Our ultimate goal is to make onboarding effortless for every new customer.",
+          "highlight": "ultimate",
+          "tip": "Use it for the most important long-term aim, not just the next task."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a celebration · choosing a venue",
+          "sentence": "The rooftop bar was the ultimate choice for our anniversary dinner.",
+          "highlight": "ultimate",
+          "tip": "This use suggests the best or most desirable option, often with a touch of excitement."
+        },
+        {
+          "setting": "writing",
+          "where": "Proposal · explaining the intended outcome",
+          "sentence": "This proposal outlines the steps we will take to reach the ultimate result.",
+          "highlight": "ultimate",
+          "tip": "It works well in formal writing when describing the final objective or outcome."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin ultimatus, meaning ‘final’ or ‘last’, based on ultimus, the superlative form of ulterior, meaning ‘on the farther side’. It entered English in the 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Ultimus means ‘farthest’, ‘last’ or ‘final’, and ultimatus means ‘the last’."
+          },
+          {
+            "when": "1600s",
+            "text": "Ultimate enters English, first referring to the final point or latest stage."
+          },
+          {
+            "when": "1800s onward",
+            "text": "The word develops its modern sense of being the greatest or most important."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "ultimately",
+          "label": "adverb"
+        },
+        {
+          "term": "ultimatum",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "final",
+        "supreme",
+        "paramount",
+        "best possible"
+      ],
+      "opposite": "initial",
+      "pitfall": "Don’t use it as a synonym for ‘last’ when you mean only the final item in a list; in that context, use ‘final’ or ‘last’."
+    },
+    {
+      "id": "vacillate",
+      "kind": "word",
+      "term": "vacillate",
+      "pos": "verb",
+      "phonetic": "/ˈvæk.sə.leɪt/",
+      "sayIt": "VAK-suh-layt",
+      "register": "Common at work",
+      "meaning": "To keep changing your mind or wavering between different choices or opinions.",
+      "nuance": "It suggests indecision or lack of firm commitment. It is often used when someone appears to favour one option, then another.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · choosing a direction",
+          "sentence": "The committee kept vacillating between delaying the launch and reducing its scope.",
+          "highlight": "vacillating",
+          "tip": "Useful when describing a group that cannot settle on a clear decision."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · choosing a restaurant",
+          "sentence": "We kept vacillating between Italian food and the new Thai place.",
+          "highlight": "vacillating",
+          "tip": "It sounds natural when friends cannot agree on what to do."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · unclear priorities",
+          "sentence": "Our plans continue to vacillate as the team receives conflicting feedback.",
+          "highlight": "vacillate",
+          "tip": "Often follows subjects such as plans, opinions or priorities."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin vacillare, meaning ‘to stagger’ or ‘waver’, which later developed the sense of being unsettled or uncertain.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Vacillare means ‘to stagger, sway or waver’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with the sense of wavering between choices or opinions."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes indecision or a lack of firm commitment."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "vacillation",
+          "label": "noun"
+        },
+        {
+          "term": "vacillatory",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "waver",
+        "hesitate",
+        "dither",
+        "indecide"
+      ],
+      "opposite": "commit",
+      "pitfall": "Vacillate describes uncertainty between options; it does not simply mean that an opinion changes over time."
+    },
+    {
+      "id": "vitiate",
+      "kind": "word",
+      "term": "vitiate",
+      "pos": "verb",
+      "phonetic": "/ˈvɪʃieɪt/",
+      "sayIt": "VISH-ee-ayt",
+      "register": "Formal",
+      "meaning": "To weaken or spoil something by reducing its effectiveness, value or purity.",
+      "nuance": "This is a formal and rather literary word. It is stronger than “affect” and suggests damage caused by something that compromises the original quality.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team review · reporting a setback",
+          "sentence": "A lack of clear ownership can vitiate an otherwise well-designed launch plan.",
+          "highlight": "vitiate",
+          "tip": "Use it in formal analysis when a problem has seriously weakened a plan or process."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · a bad neighbour",
+          "sentence": "His constant interruptions vitiated the discussion and left everyone frustrated.",
+          "highlight": "vitiated",
+          "tip": "The past form can describe how someone or something damaged an event or conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · evaluating a policy",
+          "sentence": "Funding cuts may vitiate the programme without changing its stated aims.",
+          "highlight": "vitiate",
+          "tip": "It works well in formal writing about policies, arguments, plans or creative works."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin vitiare, meaning “to spoil or make faulty,” based on vitium, “a flaw or defect.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Vitiare develops from vitium, “a flaw or defect,” with the sense of spoiling something by introducing a fault."
+          },
+          {
+            "when": "1600s",
+            "text": "The verb enters English in legal and philosophical writing."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly formal and literary, meaning to weaken or spoil."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "vitiated",
+          "label": "adjective"
+        },
+        {
+          "term": "vitiation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "undermine",
+        "impair",
+        "weaken",
+        "corrupt"
+      ],
+      "opposite": "strengthen",
+      "pitfall": "This is not a common everyday verb; “weaken” or “undermine” will usually sound more natural."
+    },
+    {
+      "id": "volition",
+      "kind": "word",
+      "term": "volition",
+      "pos": "noun",
+      "phonetic": "/vəˈlɪʃ.ən/",
+      "sayIt": "vuh-LISH-uhn",
+      "register": "Formal",
+      "meaning": "The power or process of choosing to do something, especially when you act because you intend to.",
+      "nuance": "It is more than a simple intention: it suggests the conscious will that turns an intention into action. Common in academic, legal and psychological writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing initiative",
+          "sentence": "Her decision to take on the project showed real volition rather than simple compliance with the job description.",
+          "highlight": "volition",
+          "tip": "Use it when you want to emphasise someone’s deliberate choice to act."
+        },
+        {
+          "setting": "social",
+          "where": "Personal conversation · explaining a decision",
+          "sentence": "I didn’t join the trip out of volition; my sister practically pushed me into it.",
+          "highlight": "volition",
+          "tip": "It can sound formal, so it may need a little context in casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Psychology paper · discussing decision-making",
+          "sentence": "The experiment measured how much volition participants exerted when choosing whether to continue.",
+          "highlight": "volition",
+          "tip": "It works well in academic writing when describing conscious choice or self-control."
+        }
+      ],
+      "origin": {
+        "summary": "From French volition, which came from Latin voluntas, meaning ‘will’ or ‘wish’. It entered English in the late 1500s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Latin voluntas develops from velle, ‘to want’ or ‘to be willing’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "French volition enters English with the sense of ‘will’ or ‘choice’."
+          },
+          {
+            "when": "Today",
+            "text": "Used especially in formal, academic and legal contexts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "volitional",
+          "label": "adjective"
+        },
+        {
+          "term": "volitively",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "will",
+        "intention",
+        "choice",
+        "decision"
+      ],
+      "pitfall": "It is more formal than ‘will’ and does not simply mean a wish; it often points to the conscious power or act of choosing."
+    },
+    {
+      "id": "whet",
+      "kind": "word",
+      "term": "whet",
+      "pos": "verb",
+      "phonetic": "/wet/",
+      "sayIt": "WHET",
+      "register": "Formal",
+      "meaning": "To sharpen a tool or make someone more eager for something.",
+      "nuance": "Figuratively, it means to stimulate interest or desire, especially for a meal, challenge or experience. It sounds slightly literary but is useful in polished writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team briefing · discussing a difficult project",
+          "sentence": "The new client has helped whet our appetite for taking on more challenging work.",
+          "highlight": "whet",
+          "tip": "Common in the expression whet someone’s appetite or curiosity."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · trying a new restaurant",
+          "sentence": "The aromatic bread was enough to whet our appetites before the main course arrived.",
+          "highlight": "whet",
+          "tip": "Use it when food or an event makes you eager to try more."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel article · describing a destination",
+          "sentence": "A morning market can whet the appetite for exploring the town’s historic streets.",
+          "highlight": "whet",
+          "tip": "It adds a polished, evocative tone to descriptions of food, travel and new experiences."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Old English hwettan, meaning ‘to sharpen’, and later developed figurative uses connected with stimulating appetite or interest.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "Hwettan means ‘to sharpen’, especially a blade or tool."
+          },
+          {
+            "when": "Middle English",
+            "text": "The figurative meaning ‘to stimulate or sharpen the appetite’ develops."
+          },
+          {
+            "when": "Today",
+            "text": "Often appears in the expression whet the appetite."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "whetstone",
+          "label": "noun (tool)"
+        }
+      ],
+      "similar": [
+        "sharpen",
+        "hone",
+        "stimulate",
+        "awaken"
+      ],
+      "opposite": "dull",
+      "pitfall": "Whet means to sharpen or stimulate interest; it does not mean ‘to worry’ or ‘to mislead’."
+    }
+  ]
+}

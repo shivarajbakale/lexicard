@@ -1,0 +1,1478 @@
+{
+  "id": "idioms-risk-luck-1",
+  "kind": "idiom",
+  "name": "Risk & luck · 1",
+  "blurb": "25 idioms about risk & luck",
+  "cards": [
+    {
+      "id": "against-all-odds",
+      "kind": "idiom",
+      "term": "against all odds",
+      "pos": "phrase",
+      "hint": "even when success seems impossible",
+      "register": "Common at work",
+      "meaning": "In spite of serious difficulties, obstacles, or very low chances of success.",
+      "nuance": "It emphasizes how unlikely the result was, often highlighting courage, persistence, or a fortunate turn of events. Use it for a success or achievement that seemed highly doubtful.",
+      "literal": "With every possible obstacle working against the outcome.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launching a product",
+          "sentence": "Against all odds, the team delivered the new service before the deadline.",
+          "highlight": "Against all odds",
+          "tip": "Use it when the team faced major obstacles but still succeeded."
+        },
+        {
+          "setting": "social",
+          "where": "Reuniting with an old friend",
+          "sentence": "Against all odds, we found each other again after years of losing touch.",
+          "highlight": "Against all odds",
+          "tip": "Often describes a welcome or surprising development."
+        },
+        {
+          "setting": "writing",
+          "where": "Reporting a surprise victory",
+          "sentence": "The underdogs won the final against all odds.",
+          "highlight": "against all odds",
+          "tip": "Common in sports reporting and news commentary."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase grew out of the older expression ‘all odds’, meaning every possible disadvantage or difficulty. Its modern sense is well established, although the exact first use is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "The expression ‘all odds’ is used for the full range of difficulties or disadvantages."
+          },
+          {
+            "when": "1600s",
+            "text": "The phrase begins appearing in the form ‘against all odds’."
+          },
+          {
+            "when": "Today",
+            "text": "It means in spite of serious obstacles or very low chances of success."
+          }
+        ]
+      },
+      "similar": [
+        "Against the odds",
+        "In the face of adversity",
+        "Miraculously",
+        "Despite everything"
+      ],
+      "opposite": "by easy stages",
+      "pitfall": "Don’t use it for a result that was merely unexpected; it suggests serious difficulties were overcome."
+    },
+    {
+      "id": "at-stake",
+      "kind": "idiom",
+      "term": "at stake",
+      "pos": "idiom",
+      "hint": "involved and at risk",
+      "register": "Common at work",
+      "meaning": "Affecting something important that could be gained, lost, or changed.",
+      "nuance": "It emphasizes risk and consequence. Use it when the outcome matters, especially when a decision could damage reputation, security, money, or relationships.",
+      "literal": "Something valuable placed in a wager and therefore at risk.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · choosing a client",
+          "sentence": "The team’s reputation is at stake, so we need a careful plan before we respond.",
+          "highlight": "at stake",
+          "tip": "Often introduces the outcome people are worried about losing."
+        },
+        {
+          "setting": "social",
+          "where": "Friends · planning a reunion",
+          "sentence": "Her friendship with Lucy is at stake, so she finally apologized for missing the wedding.",
+          "highlight": "at stake",
+          "tip": "Common when a sensitive relationship is in danger."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · factory closure",
+          "sentence": "Hundreds of local jobs are at stake as the company considers closing its older plant.",
+          "highlight": "at stake",
+          "tip": "Frequent in reporting about jobs, safety, money, and public trust."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from gambling, where valuable stakes are placed on an uncertain result. Its modern sense developed from saying that something important is involved or at risk.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "The expression ‘set at stake’ is used for placing something valuable at risk in a wager or contest."
+          },
+          {
+            "when": "1800s",
+            "text": "The standalone phrase ‘at stake’ becomes common for saying that an important outcome is involved."
+          },
+          {
+            "when": "Today",
+            "text": "It describes anything important that may be gained, lost, or endangered."
+          }
+        ]
+      },
+      "similar": [
+        "in the balance",
+        "on the line",
+        "at risk"
+      ],
+      "opposite": "no sweat",
+      "pitfall": "It does not mean money is literally being wagered; it usually marks a serious risk or consequence."
+    },
+    {
+      "id": "bail-out",
+      "kind": "idiom",
+      "term": "bail out",
+      "pos": "idiom",
+      "hint": "get out of a difficult situation",
+      "register": "Everyday",
+      "meaning": "To withdraw from a difficult situation or provide emergency help to someone who needs it.",
+      "nuance": "The phrase can describe someone escaping responsibility, such as leaving a meeting early, or an organisation or government rescuing a failing business or institution. The context shows which sense is intended.",
+      "literal": "To jump or swim out of danger, or to rescue someone from a difficult situation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project meeting · missed deadline",
+          "sentence": "After the release fell through, he bailed out of the project and left the team to handle it.",
+          "highlight": "bailed out",
+          "tip": "Here it means withdrawing from a responsibility or situation."
+        },
+        {
+          "setting": "social",
+          "where": "Busy party · awkward conversation",
+          "sentence": "When the conversation turned to politics, she bailed out and went to get another drink.",
+          "highlight": "bailed out",
+          "tip": "Often suggests leaving quickly to avoid an unpleasant situation."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · company rescue",
+          "sentence": "The government agreed to bail out the bank after the financial crisis threatened to destabilise the economy.",
+          "highlight": "bail out",
+          "tip": "In this sense, it means providing emergency financial support."
+        }
+      ],
+      "origin": {
+        "summary": "The word bail comes from Old French baillier, meaning to hand over or deliver someone to custody. The phrase originally referred to leaving a place or situation, and later developed the sense of rescuing someone from financial difficulty.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Medieval period",
+            "text": "Bail means to hand someone over to a court or authority for release from custody."
+          },
+          {
+            "when": "1800s",
+            "text": "Bail out is used for leaving or withdrawing from a place or situation."
+          },
+          {
+            "when": "20th century",
+            "text": "The financial-rescue meaning becomes established, especially in reporting on banks, governments and major industries."
+          }
+        ]
+      },
+      "similar": [
+        "back out",
+        "bow out",
+        "rescue"
+      ],
+      "opposite": "stick it out",
+      "pitfall": "In the financial sense, the common noun is bailout, written as one word: a government bailout."
+    },
+    {
+      "id": "best-bet",
+      "kind": "idiom",
+      "term": "best bet",
+      "pos": "idiom",
+      "hint": "your strongest chance",
+      "register": "Common at work",
+      "meaning": "The option most likely to give you a good result.",
+      "nuance": "It expresses practical confidence without claiming certainty. Use it when comparing choices, especially when the situation involves money, time, or an uncertain outcome.",
+      "literal": "The wager with the strongest chance of winning.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · choosing a vendor",
+          "sentence": "Starting with a small pilot is the best bet because it limits the risk.",
+          "highlight": "best bet",
+          "tip": "Natural when comparing sensible options or proposing a cautious approach."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing a restaurant",
+          "sentence": "The place near the station is your best bet if you’re in a hurry.",
+          "highlight": "best bet",
+          "tip": "Common in informal advice about where to go or what to choose."
+        },
+        {
+          "setting": "writing",
+          "where": "Market analysis",
+          "sentence": "For growing companies, remaining profitable is usually the best bet.",
+          "highlight": "best bet",
+          "tip": "Useful in reports and articles when weighing strategies or outcomes."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the literal idea of placing the strongest bet in a wager. Its broader figurative use is well documented in the mid-1800s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The word ‘bet’ originally referred to a wager or a stake in an uncertain result."
+          },
+          {
+            "when": "Mid-1800s",
+            "text": "Writers began using ‘best bet’ figuratively for the option most likely to succeed."
+          },
+          {
+            "when": "Today",
+            "text": "It means the most promising choice, without implying a guaranteed result."
+          }
+        ]
+      },
+      "similar": [
+        "safest option",
+        "strongest choice",
+        "most likely to succeed"
+      ],
+      "opposite": "long shot",
+      "pitfall": "It describes a promising choice, not a certainty, so avoid saying something is ‘the best bet’ when you mean it will definitely work."
+    },
+    {
+      "id": "cover-ones-bases",
+      "kind": "idiom",
+      "term": "cover one’s bases",
+      "pos": "idiom",
+      "hint": "prepare for every possibility",
+      "register": "Common at work",
+      "meaning": "To take steps that protect you against several possible problems or outcomes.",
+      "nuance": "It suggests sensible preparation rather than panic. Use it when someone is checking options, gathering information or preparing for different scenarios.",
+      "literal": "Protecting every base, as a baseball team would while a play is in progress.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · handling risk",
+          "sentence": "We’re covering our bases by testing the app before the launch and keeping a rollback plan ready.",
+          "highlight": "covering our bases",
+          "tip": "The pronoun changes to match the subject: ‘I cover my bases’ or ‘they cover their bases.’"
+        },
+        {
+          "setting": "social",
+          "where": "Planning an event · changing the weather",
+          "sentence": "I’m covering my bases by bringing an umbrella and suggesting we eat inside if it rains.",
+          "highlight": "covering my bases",
+          "tip": "Often used casually when preparing for an uncertain situation."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · explaining strategy",
+          "sentence": "The proposal covers its bases by comparing several suppliers and outlining alternative timelines.",
+          "highlight": "covers its bases",
+          "tip": "Common in reports and proposals to show that risks have been considered."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably grew from baseball, where a defensive team covers its bases. Its exact first figurative use is difficult to pin down, but the wider sense of covering every possible event developed by the early 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 20th century",
+            "text": "Baseball language helped establish the idea of covering every base and protecting every position."
+          },
+          {
+            "when": "1920s",
+            "text": "Writers were using baseball-related expressions such as ‘cover all bases’ for dealing with every possible case."
+          },
+          {
+            "when": "Today",
+            "text": "It means preparing for several possible outcomes or risks."
+          }
+        ]
+      },
+      "similar": [
+        "leave no stone unturned",
+        "play it safe",
+        "prepare for the worst"
+      ],
+      "opposite": "take a gamble",
+      "pitfall": "It does not mean physically blocking someone from reaching a base; it refers to preparation."
+    },
+    {
+      "id": "cry-wolf",
+      "kind": "idiom",
+      "term": "cry wolf",
+      "pos": "idiom",
+      "hint": "a false alarm nobody believes",
+      "register": "Everyday",
+      "meaning": "To give a warning that others believe is false, especially after similar warnings have been ignored.",
+      "nuance": "It describes a loss of credibility caused by false alarms. It can also refer to a real problem that arrives after people have stopped taking the warning seriously.",
+      "literal": "A boy falsely claims that a wolf is attacking, so others stop responding when he genuinely needs help.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project updates · repeated delays",
+          "sentence": "After three missed deadlines, no one believes his warnings; he may be crying wolf.",
+          "highlight": "crying wolf",
+          "tip": "Often suggests the speaker has made too many unsupported claims."
+        },
+        {
+          "setting": "social",
+          "where": "Group chat · late arrival",
+          "sentence": "She keeps saying the restaurant is closed, but tonight she is definitely crying wolf.",
+          "highlight": "crying wolf",
+          "tip": "Works when someone exaggerates or invents a problem for attention."
+        },
+        {
+          "setting": "writing",
+          "where": "Security report · ignored alerts",
+          "sentence": "Repeated false alarms led staff to ignore the system, and investigators warned they were crying wolf.",
+          "highlight": "crying wolf",
+          "tip": "Useful when discussing warnings, trust and risk."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the ancient story of a boy whose false cries of ‘wolf’ make villagers ignore his genuine warning. The fable is traditionally attributed to Aesop, although its exact origin and early transmission are uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Ancient Greece",
+            "text": "Aesop’s fable tells of a boy who falsely reports a wolf and loses the villagers’ trust."
+          },
+          {
+            "when": "1600s",
+            "text": "English writers begin using ‘cry wolf’ for false alarms and warnings that are ignored."
+          },
+          {
+            "when": "Today",
+            "text": "It means giving a warning that has lost credibility, whether or not it later proves true."
+          }
+        ]
+      },
+      "similar": [
+        "sound the alarm",
+        "raise the alarm",
+        "the boy who cried wolf"
+      ],
+      "pitfall": "It does not require the warning to be entirely false; the key point is that people no longer believe it."
+    },
+    {
+      "id": "daylight-robbery",
+      "kind": "idiom",
+      "term": "daylight robbery",
+      "pos": "idiom",
+      "hint": "theft in broad daylight",
+      "register": "Common in British English",
+      "meaning": "A theft committed openly during the day, especially one involving violence or intimidation.",
+      "nuance": "It can also describe an outrageous price, such as a hotel charging extra for basic services. The phrase feels more dramatic than a straightforward theft because it suggests the victim was helpless or the seller showed little concern.",
+      "literal": "Robbery carried out openly while it is still light outside.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office incident · stolen equipment",
+          "sentence": "The security team called the theft of the laptops daylight robbery because it happened in the middle of the afternoon.",
+          "highlight": "daylight robbery",
+          "tip": "Often used when the theft was brazen or violent."
+        },
+        {
+          "setting": "social",
+          "where": "Restaurant bill · hidden fees",
+          "sentence": "Paying eighteen pounds for a sandwich and chips feels like daylight robbery.",
+          "highlight": "daylight robbery",
+          "tip": "Figurative use expresses indignation at an excessive charge."
+        },
+        {
+          "setting": "writing",
+          "where": "Crime report · armed shop robbery",
+          "sentence": "Police have described the attack as a brutal daylight robbery in the city centre.",
+          "highlight": "daylight robbery",
+          "tip": "Common in British news reporting for a robbery carried out in daylight."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the literal idea of stealing during daylight. Its earliest uses are not fully clear, but it was established in the 19th century; later, it gained a figurative sense for extreme overcharging.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1800s",
+            "text": "The phrase appears in writing for theft carried out openly during the day."
+          },
+          {
+            "when": "1900s",
+            "text": "Figurative uses begin to describe an excessively expensive purchase or charge."
+          },
+          {
+            "when": "Today",
+            "text": "It remains especially common in British English as both a crime label and a complaint about unfair prices."
+          }
+        ]
+      },
+      "similar": [
+        "theft in broad daylight",
+        "armed robbery",
+        "highway robbery"
+      ],
+      "pitfall": "It does not necessarily mean the crime happened in daylight; it can also mean an outrageous overcharge."
+    },
+    {
+      "id": "dead-heat",
+      "kind": "idiom",
+      "term": "dead heat",
+      "pos": "noun",
+      "hint": "a very close finish",
+      "register": "Common at work",
+      "meaning": "A situation in which two or more competitors finish at the same time or level.",
+      "nuance": "It suggests the result was extremely close, but it can also refer to a tie for first place. It is especially common in sport, racing and business.",
+      "literal": "Two runners so close together that they reach the finish line together.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Sales review · top two accounts",
+          "sentence": "The two teams ended the quarter in a dead heat for the highest sales total.",
+          "highlight": "dead heat",
+          "tip": "Use it when two competitors are essentially level."
+        },
+        {
+          "setting": "social",
+          "where": "Friends · watching a race",
+          "sentence": "The photo finish showed a dead heat, with both runners crossing the line together.",
+          "highlight": "dead heat",
+          "tip": "Common when describing a very close race."
+        },
+        {
+          "setting": "writing",
+          "where": "Sports report · final result",
+          "sentence": "Neither side could claim an advantage after the match ended in a dead heat.",
+          "highlight": "dead heat",
+          "tip": "Often used in reports to describe a tie or an extremely close contest."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from horse racing, where dead heat originally referred to horses finishing together. Its figurative use for equally matched competitors developed from that sporting context.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1700s",
+            "text": "The racing term appears in accounts of horses finishing simultaneously."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers began using it beyond racing for equally close contests."
+          },
+          {
+            "when": "Today",
+            "text": "It means a tie or a very close result in sport, work and everyday competition."
+          }
+        ]
+      },
+      "similar": [
+        "neck-and-neck",
+        "photo finish",
+        "dead heat finish"
+      ],
+      "opposite": "clear win",
+      "pitfall": "A dead heat means the competitors are level or finish together; it does not mean one has clearly won."
+    },
+    {
+      "id": "easy-mark",
+      "kind": "idiom",
+      "term": "easy mark",
+      "pos": "idiom",
+      "hint": "someone who is easy to fool",
+      "register": "Casual",
+      "meaning": "A person who is easily deceived, tricked, or taken advantage of.",
+      "nuance": "It suggests that someone is gullible or careless, often with a slightly dismissive tone.",
+      "literal": "An easy target for a swindler or scammer.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Vendor negotiation · testing a supplier",
+          "sentence": "The sales team realized the supplier was an easy mark and rejected its inflated quote.",
+          "highlight": "easy mark",
+          "tip": "Often implies that someone failed to question a suspicious offer."
+        },
+        {
+          "setting": "social",
+          "where": "Street market · buying an old watch",
+          "sentence": "I felt like an easy mark when the seller tripled the price after I admired it.",
+          "highlight": "easy mark",
+          "tip": "Natural for describing a moment when you were tricked or manipulated."
+        },
+        {
+          "setting": "writing",
+          "where": "Consumer warning · online scams",
+          "sentence": "The article explains why older customers can become an easy mark for fraudulent sellers.",
+          "highlight": "easy mark",
+          "tip": "Useful in reports and warnings about deception or exploitation."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase appears to have developed from the older sense of ‘mark’ as a person considered an easy target. Its exact origin is unclear, but it was established by the late 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "‘Mark’ was used for someone viewed as easy to deceive or take advantage of."
+          },
+          {
+            "when": "Late 1800s",
+            "text": "The expression ‘easy mark’ became established in its modern sense."
+          },
+          {
+            "when": "Today",
+            "text": "It means a gullible person who is easy for others to exploit."
+          }
+        ]
+      },
+      "similar": [
+        "easy push",
+        "soft touch",
+        "pushover"
+      ],
+      "pitfall": "It describes a person, not something that is simply cheap or good value."
+    },
+    {
+      "id": "err-on-the-side-of-caution",
+      "kind": "idiom",
+      "term": "err on the side of caution",
+      "pos": "idiom",
+      "hint": "choose the safer option",
+      "register": "Common at work",
+      "meaning": "To choose the safer or more cautious option when there is uncertainty about the consequences.",
+      "nuance": "It suggests being deliberately careful rather than reckless. It can sound sensible or slightly overcautious, depending on the situation.",
+      "literal": "To choose caution when deciding between possible courses of action.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Contract review · approving a vendor",
+          "sentence": "Before approving the vendor contract, we should err on the side of caution and have legal review it.",
+          "highlight": "err on the side of caution",
+          "tip": "Often used when a decision carries significant financial or legal risk."
+        },
+        {
+          "setting": "social",
+          "where": "Hiking · uncertain weather",
+          "sentence": "When the trail conditions look doubtful, we err on the side of caution and wait until the rain stops.",
+          "highlight": "err on the side of caution",
+          "tip": "Natural when discussing safety and uncertain conditions."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel advice · changing conditions",
+          "sentence": "The guide recommends that hikers err on the side of caution because conditions can change quickly.",
+          "highlight": "err on the side of caution",
+          "tip": "Common in advice, safety notices and professional guidance."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from older English expressions such as “err on the safe side,” meaning to choose the option least likely to cause harm. The exact origin of the familiar wording is difficult to establish.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English speakers used similar phrases about taking the safer or more prudent course."
+          },
+          {
+            "when": "19th century",
+            "text": "Expressions including “err on the safe side” became established in English."
+          },
+          {
+            "when": "Today",
+            "text": "“Err on the side of caution” means favoring the cautious choice when outcomes are uncertain."
+          }
+        ]
+      },
+      "similar": [
+        "play it safe",
+        "better safe than sorry",
+        "take the cautious approach"
+      ],
+      "opposite": "take a calculated risk",
+      "pitfall": "It does not require avoiding every risk; it means favoring caution when the possible downside is serious."
+    },
+    {
+      "id": "even-money",
+      "kind": "idiom",
+      "term": "even money",
+      "pos": "idiom",
+      "hint": "a fair bet",
+      "register": "Everyday",
+      "meaning": "With an equal chance of happening or being true.",
+      "nuance": "It can describe odds that are roughly balanced or express strong confidence that something will happen. It is especially natural after “put” or “bet.”",
+      "literal": "A wager in which both sides stake the same amount.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project meeting · judging a deadline",
+          "sentence": "I’d put even money on the client missing the deadline we promised.",
+          "highlight": "even money",
+          "tip": "Use “put even money on” to express a strong prediction."
+        },
+        {
+          "setting": "social",
+          "where": "Party chat · predicting the weather",
+          "sentence": "It’s even money whether the party stays dry or everyone gets soaked.",
+          "highlight": "even money",
+          "tip": "Shows that two outcomes are equally likely."
+        },
+        {
+          "setting": "writing",
+          "where": "Sports report · previewing a match",
+          "sentence": "The teams are close to even money, with neither side expected to dominate.",
+          "highlight": "even money",
+          "tip": "Common in betting, sports, and discussion of uncertain outcomes."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from gambling, where even money originally described a fair wager with equal stakes on each side. It later developed into a general way of saying that two outcomes are equally likely.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Gamblers use “even money” for a wager in which both sides stake the same amount."
+          },
+          {
+            "when": "Later",
+            "text": "The expression expands beyond betting to describe equally strong chances."
+          },
+          {
+            "when": "Today",
+            "text": "It means roughly equal odds or a strong prediction that something will happen."
+          }
+        ]
+      },
+      "similar": [
+        "even odds",
+        "a fair bet",
+        "fifty-fifty"
+      ],
+      "opposite": "long odds",
+      "pitfall": "It usually means roughly equal chances, not necessarily a perfect 50–50 chance."
+    },
+    {
+      "id": "false-alarm",
+      "kind": "idiom",
+      "term": "false alarm",
+      "pos": "idiom",
+      "hint": "a warning that turns out unnecessary",
+      "register": "Everyday",
+      "meaning": "A warning about danger that turns out to be unnecessary.",
+      "nuance": "It can refer to a false alarm from a system or to a person who raises a concern that proves unfounded. It often suggests that the situation was harmless.",
+      "literal": "An alarm that signals danger when there is none.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office · investigating a warning",
+          "sentence": "The evacuation warning was a false alarm, so everyone returned to their desks.",
+          "highlight": "false alarm",
+          "tip": "Often used when an urgent workplace warning proves unnecessary."
+        },
+        {
+          "setting": "social",
+          "where": "Friend group · planning a trip",
+          "sentence": "I thought the train was cancelled, but it was a false alarm.",
+          "highlight": "false alarm",
+          "tip": "Useful for reassuring someone after an unexpected problem passes."
+        },
+        {
+          "setting": "writing",
+          "where": "News update · security incident",
+          "sentence": "Police said the threat was a false alarm and gave no further details.",
+          "highlight": "false alarm",
+          "tip": "A clear, formal way to report an unfounded threat or warning."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the literal sense of an alarm bell or signal raised when no danger is present. Its figurative use for an unnecessary warning is well documented.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "The expression appears in writing for a warning or alarm that is not genuine."
+          },
+          {
+            "when": "1800s",
+            "text": "It is used for both physical alarms and warnings that prove mistaken."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly means an urgent warning that turns out to be harmless or unfounded."
+          }
+        ]
+      },
+      "similar": [
+        "cry wolf",
+        "red herring",
+        "cause for concern"
+      ],
+      "pitfall": "It describes a warning that turns out to be unnecessary; it does not mean the alarm itself failed to sound."
+    },
+    {
+      "id": "fingers-crossed",
+      "kind": "idiom",
+      "term": "fingers crossed",
+      "pos": "idiom",
+      "hint": "a hopeful sign for good luck",
+      "register": "Everyday",
+      "meaning": "To hope that an uncertain situation turns out well.",
+      "nuance": "It expresses cautious optimism, usually about a result that is not yet certain. It is informal and often used when speaking to friends, family or colleagues.",
+      "literal": "Crossing the fingers of one hand as a sign of good luck.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · waiting on a launch",
+          "sentence": "The launch is tomorrow, but we have our fingers crossed that everything goes smoothly.",
+          "highlight": "fingers crossed",
+          "tip": "Often used when the outcome depends partly on chance."
+        },
+        {
+          "setting": "social",
+          "where": "Before a friend’s interview",
+          "sentence": "Good luck with the interview—fingers crossed that they love you.",
+          "highlight": "fingers crossed",
+          "tip": "A friendly way to show encouragement before an important event."
+        },
+        {
+          "setting": "writing",
+          "where": "Planning note · market conditions",
+          "sentence": "Sales are holding up for now, so we have our fingers crossed that the trend continues.",
+          "highlight": "fingers crossed",
+          "tip": "Slightly informal; common in emails, messages and updates."
+        }
+      ],
+      "origin": {
+        "summary": "Crossing fingers as a protective gesture is older than the familiar expression, but the exact wording was first recorded in the early nineteenth century. The gesture likely helped inspire the phrase.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1700s",
+            "text": "People used crossed fingers as a gesture intended to ward off bad luck."
+          },
+          {
+            "when": "1820s",
+            "text": "The phrase begins appearing in English writing."
+          },
+          {
+            "when": "Today",
+            "text": "It is used to express hope for a good outcome."
+          }
+        ]
+      },
+      "similar": [
+        "Keep your fingers crossed",
+        "Touch wood",
+        "Break a leg"
+      ],
+      "opposite": "Break a leg",
+      "pitfall": "It does not mean you literally expect the situation to fail; the gesture signals hope, not pessimism."
+    },
+    {
+      "id": "grey-area",
+      "kind": "idiom",
+      "term": "grey area",
+      "pos": "idiom",
+      "hint": "where the rules are unclear",
+      "register": "Common at work",
+      "meaning": "A situation or issue whose boundaries or rules are not clear.",
+      "nuance": "It suggests uncertainty rather than a definite yes or no. Use it when responsibility, policy or classification is open to interpretation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Policy review · flexible working",
+          "sentence": "Whether weekend cover counts as flexible working is a grey area.",
+          "highlight": "grey area",
+          "tip": "Useful when discussing unclear rules or policies."
+        },
+        {
+          "setting": "social",
+          "where": "Friends · invitations",
+          "sentence": "Whether an uninvited plus-one is acceptable is a bit of a grey area.",
+          "highlight": "grey area",
+          "tip": "Often softened with ‘a bit of’ in casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Legal report · disputed responsibility",
+          "sentence": "The contract leaves several aspects of data ownership as a grey area.",
+          "highlight": "grey area",
+          "tip": "Clear and direct when discussing ambiguity in law or administration."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from administrative and legal language, where a grey area is a zone that is difficult to classify or regulate. Its exact starting point is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 20th century",
+            "text": "Administrative and legal writers use the image of a grey area for matters that do not fit neatly within defined categories."
+          },
+          {
+            "when": "Mid-20th century",
+            "text": "The phrase becomes common for uncertain rules, responsibilities and situations."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for any subject that lacks a clear definition or boundary."
+          }
+        ]
+      },
+      "similar": [
+        "gray zone",
+        "borderline case",
+        "shades of grey"
+      ],
+      "pitfall": "Use it for genuine ambiguity, not simply because you have not checked the rules."
+    },
+    {
+      "id": "hedge-ones-bets",
+      "kind": "idiom",
+      "term": "hedge one's bets",
+      "pos": "idiom",
+      "hint": "spread the risk",
+      "register": "Common at work",
+      "meaning": "To reduce the risk of a bad result by making more than one choice or keeping several options open.",
+      "nuance": "It suggests caution and adaptability. Use it when someone diversifies, maintains alternatives, or prepares for different possible outcomes.",
+      "literal": "Placing bets on more than one outcome so a loss on one does not cause a total loss.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product planning · choosing a vendor",
+          "sentence": "We’re hedging our bets by testing two suppliers instead of committing to one.",
+          "highlight": "hedging our bets",
+          "tip": "The verb usually changes: hedge, hedges, hedged, hedging."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans · uncertain weather",
+          "sentence": "We hedged our bets and booked an indoor activity as well as a picnic.",
+          "highlight": "hedged our bets",
+          "tip": "Useful when discussing backup plans or choices that cover different outcomes."
+        },
+        {
+          "setting": "writing",
+          "where": "Business analysis · market uncertainty",
+          "sentence": "By investing in several channels, the company is hedging its bets against changing consumer demand.",
+          "highlight": "hedging its bets",
+          "tip": "Common in business reporting when describing risk management or diversification."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from gambling, where placing bets on several possible results can limit the effect of a wrong prediction. The figurative sense developed from that idea of protecting against uncertainty.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1600s–1700s",
+            "text": "English writers use ‘hedge’ for making a cautious or balanced bet, including bets designed to limit potential losses."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression appears in the broader sense of taking several precautions so that one failure does not bring total loss."
+          },
+          {
+            "when": "Today",
+            "text": "It means reducing risk through alternatives, preparation or a diversified approach."
+          }
+        ]
+      },
+      "similar": [
+        "play it safe",
+        "cover all bases",
+        "spread the risk"
+      ],
+      "opposite": "put all your eggs in one basket",
+      "pitfall": "The idiom is about reducing risk, not necessarily refusing to make a choice; several options can still involve a clear main plan."
+    },
+    {
+      "id": "in-for-it",
+      "kind": "idiom",
+      "term": "in for it",
+      "pos": "idiom",
+      "hint": "already committed to the consequences",
+      "register": "Casual",
+      "meaning": "To be involved in something and already committed to dealing with its results.",
+      "nuance": "It often suggests there is no easy way out now. Use it when someone has started a task, made a choice, or agreed to something and must see it through.",
+      "literal": "Being in a situation, with no easy retreat.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · taking on a difficult project",
+          "sentence": "We’re in for it now, so let’s finish the migration before the deadline.",
+          "highlight": "in for it",
+          "tip": "Shows that the team has accepted the challenge or responsibility."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a long evening out",
+          "sentence": "Once we ordered for the whole table, we were in for it.",
+          "highlight": "in for it",
+          "tip": "Often means you have committed yourself to a long or costly experience."
+        },
+        {
+          "setting": "writing",
+          "where": "Commentary about a difficult decision",
+          "sentence": "After announcing the change, the company was in for it and had to manage the complaints.",
+          "highlight": "in for it",
+          "tip": "Useful when describing a situation with consequences that cannot easily be avoided."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely comes from the older saying ‘in for a penny, in for a pound,’ meaning that once you have begun something, you should finish it even if the cost grows.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1600s–1700s",
+            "text": "Similar expressions appear in British writing, linking small beginnings with much larger commitments."
+          },
+          {
+            "when": "1800s",
+            "text": "The shorter phrase ‘in for it’ becomes established in conversation and informal writing."
+          },
+          {
+            "when": "Today",
+            "text": "Means being committed to a situation and its consequences, usually with little room to withdraw."
+          }
+        ]
+      },
+      "similar": [
+        "in it for the long haul",
+        "committed to it",
+        "no turning back",
+        "in deep"
+      ],
+      "opposite": "out of it",
+      "pitfall": "It does not necessarily mean something will go badly; it mainly stresses that you are already involved."
+    },
+    {
+      "id": "keep-ones-fingers-crossed",
+      "kind": "idiom",
+      "term": "keep one's fingers crossed",
+      "pos": "idiom",
+      "hint": "hope for a good result",
+      "register": "Everyday",
+      "meaning": "To hope that something will turn out well while you wait for the result.",
+      "nuance": "Light, informal, and often playful. It shows hope mixed with uncertainty rather than confidence that the outcome will be good.",
+      "literal": "Crossing your fingers as a traditional sign of good luck.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Job interview · waiting for an offer",
+          "sentence": "I've sent my final application, so now I'm keeping my fingers crossed.",
+          "highlight": "keeping my fingers crossed",
+          "tip": "Use it when the outcome is uncertain and you are waiting for news."
+        },
+        {
+          "setting": "social",
+          "where": "Flight booking · hoping for good weather",
+          "sentence": "We're taking the early flight tomorrow—keep your fingers crossed that the fog clears.",
+          "highlight": "keep your fingers crossed",
+          "tip": "A friendly way to wish someone luck."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · awaiting test results",
+          "sentence": "The operation went smoothly, and we are keeping our fingers crossed for a full recovery.",
+          "highlight": "keeping our fingers crossed",
+          "tip": "Often used in messages about tests, applications, travel, or medical results."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the custom of crossing the fingers to bring good luck. Its figurative use was established in the early 1800s, but the earlier history of the gesture is not certain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Crossing fingers had long been used in some European traditions as a sign connected with luck or protection."
+          },
+          {
+            "when": "Early 1800s",
+            "text": "Writers began using crossing or keeping one's fingers crossed to express hope for a favourable outcome."
+          },
+          {
+            "when": "Today",
+            "text": "The expression remains a casual way to wish someone luck or show cautious optimism."
+          }
+        ]
+      },
+      "similar": [
+        "cross your fingers",
+        "touch wood",
+        "knock on wood"
+      ],
+      "pitfall": "Use it when waiting for an uncertain result; it is not a serious claim that you can control the outcome."
+    },
+    {
+      "id": "loom-large",
+      "kind": "idiom",
+      "term": "loom large",
+      "pos": "idiom",
+      "hint": "appear big or threatening",
+      "register": "Common at work",
+      "meaning": "To seem especially important, prominent, or threatening.",
+      "nuance": "Often used when a possibility dominates people’s thoughts before it actually happens. It can describe either a physical presence or an abstract concern.",
+      "literal": "An object seen in the distance appears enormous and threatening.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning · budget concerns",
+          "sentence": "Do not let the budget gap loom large in every planning meeting.",
+          "highlight": "loom large",
+          "tip": "Often describes a risk that dominates discussion."
+        },
+        {
+          "setting": "social",
+          "where": "After an awkward silence",
+          "sentence": "I tried not to let one awkward silence loom large for the rest of the evening.",
+          "highlight": "loom large",
+          "tip": "A single event can seem far more significant than it is."
+        },
+        {
+          "setting": "writing",
+          "where": "Political analysis",
+          "sentence": "The possibility of another shutdown will loom large in campaign coverage.",
+          "highlight": "loom large",
+          "tip": "Common in reporting about an issue that dominates public attention."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase develops from the older verb “loom,” meaning to appear large or indistinct. In figurative use, adding “large” emphasizes prominence or threat, and early nineteenth-century examples are documented.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Middle English",
+            "text": "The verb “loom” is used for something appearing large, unclear, or threatening."
+          },
+          {
+            "when": "Early 1800s",
+            "text": "The phrase “loom large” appears in figurative use for something prominent or intimidating."
+          },
+          {
+            "when": "Today",
+            "text": "It describes an issue, person, or possibility that commands attention."
+          }
+        ]
+      },
+      "similar": [
+        "loom on the horizon",
+        "cast a shadow",
+        "rear its head"
+      ],
+      "opposite": "fade into the background",
+      "pitfall": "Not the same as “loom over,” which usually means to hang above or threaten someone or something."
+    },
+    {
+      "id": "on-thin-ice",
+      "kind": "idiom",
+      "term": "on thin ice",
+      "pos": "idiom",
+      "hint": "very close to getting into trouble",
+      "register": "Everyday",
+      "meaning": "In a risky or unstable situation where a mistake could lead to serious trouble.",
+      "nuance": "It suggests danger, warning, and possible failure. It fits both physical risks and social or professional situations where one wrong move could cause trouble.",
+      "literal": "Walking on ice that is too thin to support your weight.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · missed deadlines",
+          "sentence": "We’re on thin ice after missing the launch deadline twice.",
+          "highlight": "on thin ice",
+          "tip": "Often follows a mistake, warning, or sign of danger."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · sensitive topic",
+          "sentence": "Mentioning her old job might put you on thin ice, so change the subject.",
+          "highlight": "on thin ice",
+          "tip": "Can describe entering a delicate conversation where the reaction may be negative."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · budget concerns",
+          "sentence": "The team is on thin ice because spending has exceeded the approved budget.",
+          "highlight": "on thin ice",
+          "tip": "Useful in reports when a situation is close to failure or disapproval."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the real danger of walking or skating on ice that may break. Writers began using it figuratively by the early 1800s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Thin ice was a familiar winter hazard in places where lakes and rivers froze."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase appears in writing with the sense of being in a dangerous position."
+          },
+          {
+            "when": "Today",
+            "text": "It means being close to trouble, failure, or an unwanted consequence."
+          }
+        ]
+      },
+      "similar": [
+        "in hot water",
+        "on the spot",
+        "in the firing line",
+        "walking on eggshells"
+      ],
+      "opposite": "out of danger",
+      "pitfall": "Don’t use it for every small problem; it usually implies a serious risk or a warning."
+    },
+    {
+      "id": "once-bitten-twice-shy",
+      "kind": "idiom",
+      "term": "once bitten, twice shy",
+      "pos": "idiom",
+      "hint": "a bad experience makes you more cautious",
+      "register": "Everyday",
+      "meaning": "After an unpleasant experience, you become more careful about doing something similar again.",
+      "nuance": "It describes caution born from a specific bad experience, often with a slightly rueful or self-aware tone.",
+      "literal": "An animal that has been bitten once runs away when it sees another creature that might bite it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · choosing a supplier",
+          "sentence": "After the last vendor missed three deadlines, we were once bitten, twice shy about signing another long contract.",
+          "highlight": "once bitten, twice shy",
+          "tip": "Often follows or introduces a past lesson learned from a mistake."
+        },
+        {
+          "setting": "social",
+          "where": "At a party · trying a new activity",
+          "sentence": "I tried public speaking once and hated it, so I’m once bitten, twice shy about joining another debate club.",
+          "highlight": "once bitten, twice shy",
+          "tip": "Natural when explaining why you would rather avoid a repeat of something unpleasant."
+        },
+        {
+          "setting": "writing",
+          "where": "Personal travel story",
+          "sentence": "Our flight was cancelled for six hours, so once bitten, twice shy, we now leave for the airport three hours early.",
+          "highlight": "once bitten, twice shy",
+          "tip": "Useful in informal writing when linking a bad experience to a cautious habit."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably developed from older proverbs and fables about animals becoming afraid after a painful encounter. The exact modern wording appears in 19th-century English.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Old proverbs and animal stories already expressed the idea that painful experience teaches caution."
+          },
+          {
+            "when": "1800s",
+            "text": "The proverb takes the form of ‘once bitten, twice shy’ in English."
+          },
+          {
+            "when": "Today",
+            "text": "It means remembering a bad experience and avoiding a similar risk."
+          }
+        ]
+      },
+      "similar": [
+        "once burned, twice shy",
+        "learn your lesson",
+        "play it safe"
+      ],
+      "pitfall": "It does not mean refusing every risk; it usually refers to becoming cautious after one specific unpleasant experience."
+    },
+    {
+      "id": "out-of-the-blue",
+      "kind": "idiom",
+      "term": "out of the blue",
+      "pos": "idiom",
+      "hint": "completely unexpectedly",
+      "register": "Common at work",
+      "meaning": "To happen or arrive suddenly, without any warning.",
+      "nuance": "The surprise is usually complete but not necessarily bad. It works for news, decisions, visits, problems and other unexpected events.",
+      "literal": "Something appearing suddenly in an open blue sky.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · unexpected decision",
+          "sentence": "The budget freeze came out of the blue, so we had to postpone the launch.",
+          "highlight": "out of the blue",
+          "tip": "Often introduces news that disrupts plans."
+        },
+        {
+          "setting": "social",
+          "where": "Birthday party · an unannounced guest",
+          "sentence": "My old college friend turned up out of the blue and stayed for dinner.",
+          "highlight": "out of the blue",
+          "tip": "Natural for a person, call or event that was not expected."
+        },
+        {
+          "setting": "writing",
+          "where": "Business update · sudden change",
+          "sentence": "The company announced a major reorganization out of the blue, without consulting employees.",
+          "highlight": "out of the blue",
+          "tip": "Common in reports about sudden announcements or reversals."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase’s exact origin is uncertain, although the words were already being used in the 1500s. Its modern sense is an unexpected arrival or development.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "Early printed examples record the expression, though the original context is unclear."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase becomes firmly established for something sudden or unexpected."
+          },
+          {
+            "when": "Today",
+            "text": "It describes news, decisions or events that arrive without warning."
+          }
+        ]
+      },
+      "similar": [
+        "out of nowhere",
+        "from nowhere",
+        "without warning",
+        "at short notice"
+      ],
+      "opposite": "as expected",
+      "pitfall": "Use it for the sudden event itself, not as a substitute for ‘unexpected’ when describing how someone reacted."
+    },
+    {
+      "id": "pandoras-box",
+      "kind": "idiom",
+      "term": "Pandora's box",
+      "pos": "idiom",
+      "hint": "a source of endless trouble",
+      "register": "Common at work",
+      "meaning": "To uncover a problem that gives rise to many more difficulties than expected.",
+      "nuance": "It suggests that the trouble cannot easily be contained once it has been exposed. Use it when an action or decision releases complications with wide-reaching consequences.",
+      "literal": "Pandora opened a container and released every kind of trouble into the world.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product meeting · regional complaints",
+          "sentence": "Once we opened Pandora's box, every regional issue became a company-wide priority.",
+          "highlight": "Pandora's box",
+          "tip": "Often follows ‘open’, ‘opened’, or ‘opening’."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · an old family secret",
+          "sentence": "I asked one innocent question, and suddenly we had opened Pandora's box.",
+          "highlight": "Pandora's box",
+          "tip": "Fits a discovery that invites complicated or unwanted revelations."
+        },
+        {
+          "setting": "writing",
+          "where": "News analysis · a proposed policy change",
+          "sentence": "The author warns that changing the policy could open Pandora's box of legal disputes.",
+          "highlight": "Pandora's box",
+          "tip": "Common in reporting when one decision may trigger many connected problems."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the Greek myth of Pandora, whose act of opening a container released troubles into humanity. Hesiod described a jar, while later European retellings made the box version standard.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Classical Greece",
+            "text": "Hesiod’s poem Works and Days tells how Pandora releases evils into the world, leaving hope behind."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "European writers retell the myth with a box and develop the expression for opening a source of trouble."
+          },
+          {
+            "when": "Today",
+            "text": "Means exposing a situation that may unleash many difficult problems."
+          }
+        ]
+      },
+      "similar": [
+        "Open a can of worms",
+        "Let the genie out of the bottle",
+        "Open the floodgates"
+      ],
+      "pitfall": "Use it for a difficult situation with wide consequences, not simply any small problem."
+    },
+    {
+      "id": "perfect-storm",
+      "kind": "idiom",
+      "term": "perfect storm",
+      "pos": "idiom",
+      "hint": "several bad things happening together",
+      "register": "Common at work",
+      "meaning": "A bad situation in which several difficult problems occur together and make each other worse.",
+      "nuance": "It describes a convergence of problems rather than one isolated setback. The phrase often feels dramatic, so it suits serious situations more than minor inconveniences.",
+      "literal": "An exceptionally severe storm created by several weather conditions combining.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · overlapping crises",
+          "sentence": "A missed deadline, two staffing gaps and a system outage created a perfect storm.",
+          "highlight": "perfect storm",
+          "tip": "Common for several workplace problems happening at the same time."
+        },
+        {
+          "setting": "social",
+          "where": "Commute · a difficult journey",
+          "sentence": "The commute was a perfect storm of traffic, rain and roadworks.",
+          "highlight": "perfect storm",
+          "tip": "Works for an unusually crowded or chaotic experience."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · industry problems",
+          "sentence": "The report described a perfect storm of rising costs, weak demand and supply shortages.",
+          "highlight": "perfect storm",
+          "tip": "Useful in reporting when separate problems combine into a serious crisis."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from weather writing, where it describes several conditions combining to produce an unusually severe storm. Writers later applied the image to situations in which multiple problems arrive together.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "The expression appears in descriptions of storms produced by several unusually strong weather conditions."
+          },
+          {
+            "when": "1990s",
+            "text": "Books and media about the severe North Atlantic storm of 1991 popularize the expression more widely."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes a crisis made worse by several problems occurring together."
+          }
+        ]
+      },
+      "similar": [
+        "worst of both worlds",
+        "trial by fire",
+        "one too many"
+      ],
+      "opposite": "smooth sailing",
+      "pitfall": "It can describe a literal exceptional storm, so check the surrounding context when the figurative meaning is unclear."
+    },
+    {
+      "id": "put-all-ones-eggs-in-one-basket",
+      "kind": "idiom",
+      "term": "put all one's eggs in one basket",
+      "pos": "idiom",
+      "hint": "risk everything on one choice",
+      "register": "Common at work",
+      "meaning": "To depend entirely on one opportunity, plan or investment, risking everything if it fails.",
+      "nuance": "It highlights a lack of backup options. Use it when discussing concentration of money, effort, time or hope in a single course of action.",
+      "literal": "Placing every egg in one basket, so one mistake could break them all.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Start-up planning · choosing a supplier",
+          "sentence": "We’d be putting all our eggs in one basket if we relied on that supplier for every component.",
+          "highlight": "putting all our eggs in one basket",
+          "tip": "The verb form usually changes with the subject: ‘we put’, ‘she puts’, or ‘they’re putting’."
+        },
+        {
+          "setting": "social",
+          "where": "Friends · betting on one football team",
+          "sentence": "I’ve put all my eggs in one basket, so I’d better hope my team wins on Sunday.",
+          "highlight": "put all my eggs in one basket",
+          "tip": "Natural when describing a risky personal bet or concentrated hope."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · investment risk",
+          "sentence": "Putting all the company’s eggs in one basket would leave no protection if the new market declined.",
+          "highlight": "Putting all the company’s eggs in one basket",
+          "tip": "Useful in reports and advice about investing, staffing or product strategy."
+        }
+      ],
+      "origin": {
+        "summary": "The wording comes from an older proverb about risking all one’s eggs in a single basket. Its exact early history is difficult to pin down, but the idea of avoiding a single point of failure is long established.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "English proverbs warn against placing all one’s eggs in one basket."
+          },
+          {
+            "when": "1800s",
+            "text": "The familiar wording becomes established in English and is used in advice about risk and money."
+          },
+          {
+            "when": "Today",
+            "text": "Means investing all resources or hope in one option."
+          }
+        ]
+      },
+      "similar": [
+        "bet the farm",
+        "gamble everything on one outcome",
+        "go all in"
+      ],
+      "opposite": "spread the risk",
+      "pitfall": "It does not mean simply working hard on one task; it specifically means depending on one option with no backup."
+    },
+    {
+      "id": "quit-while-one-is-ahead",
+      "kind": "idiom",
+      "term": "Quit while one is ahead",
+      "pos": "idiom",
+      "hint": "stop while things are still going well",
+      "register": "Common at work",
+      "meaning": "To stop doing something while you are still succeeding, rather than risk losing what you have gained.",
+      "nuance": "It often suggests practical good judgment, but it can also carry a hint of caution or an accusation of giving up too early.",
+      "literal": "Leave a contest while you are still in the lead.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · strong results",
+          "sentence": "The campaign is outperforming every target, so I’d quit while one is ahead and freeze the design.",
+          "highlight": "quit while one is ahead",
+          "tip": "Often means locking in a good result before further changes create risk."
+        },
+        {
+          "setting": "social",
+          "where": "Card game · winning streak",
+          "sentence": "You’re three games up, so quit while one is ahead before your luck changes.",
+          "highlight": "quit while one is ahead",
+          "tip": "A natural warning when someone is enjoying an unexpected run of success."
+        },
+        {
+          "setting": "writing",
+          "where": "Business analysis · market lead",
+          "sentence": "The startup dominates its niche, but analysts wonder whether it should quit while one is ahead.",
+          "highlight": "quit while one is ahead",
+          "tip": "Useful for discussing a business that could consolidate its gains or leave the market."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from gambling: a player who is ahead can protect their winnings by stopping before luck turns.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1700s",
+            "text": "Writers begin using expressions such as ‘quit while he is ahead’ in the context of gambling and competition."
+          },
+          {
+            "when": "1800s",
+            "text": "The wording becomes established in advice about business, sport and risk."
+          },
+          {
+            "when": "Today",
+            "text": "It means ending an activity or leaving a situation while success is still on your side."
+          }
+        ]
+      },
+      "similar": [
+        "leave while you’re ahead",
+        "bank your winnings",
+        "cut your losses"
+      ],
+      "opposite": "press your luck",
+      "pitfall": "This can sound approving when it means making a sensible stop, but mildly critical when it suggests abandoning a promising opportunity too soon."
+    }
+  ]
+}

@@ -1,0 +1,1716 @@
+{
+  "id": "words-feelings-attitudes-4",
+  "kind": "word",
+  "name": "Feelings & attitudes · 4",
+  "blurb": "25 words about feelings & attitudes",
+  "cards": [
+    {
+      "id": "livid",
+      "kind": "word",
+      "term": "livid",
+      "pos": "adjective",
+      "phonetic": "/ˈlɪvɪd/",
+      "sayIt": "LIV-id",
+      "register": "Common at work",
+      "meaning": "Extremely angry, or, less commonly, dark blue or purplish in color.",
+      "nuance": "In everyday use, it describes intense anger, often stronger and more emotional than simply annoyed. It can also describe skin that looks blue or purplish.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · a missed deadline",
+          "sentence": "She was livid when she discovered that her colleague had changed the client presentation without telling anyone.",
+          "highlight": "livid",
+          "tip": "Use it when the anger is severe and clearly visible."
+        },
+        {
+          "setting": "social",
+          "where": "Family dinner · a cancelled plan",
+          "sentence": "My brother was livid after we cancelled the trip at the last minute.",
+          "highlight": "livid",
+          "tip": "It sounds dramatic, so reserve it for strong anger rather than mild irritation."
+        },
+        {
+          "setting": "writing",
+          "where": "Complaint email · repeated service failures",
+          "sentence": "I was livid when the company ignored three messages and charged me for the repair anyway.",
+          "highlight": "livid",
+          "tip": "It adds emotional force, but use a more neutral word in a formal complaint."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French livide, meaning blue or blackish, which came from Latin lividus, a color word based on livor, a bluish or dark color. The sense of extreme anger developed later.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Lividus means ‘bluish, blackish’ and is related to livor, a dark or bluish color."
+          },
+          {
+            "when": "Medieval period",
+            "text": "The word appears in English through Old French livide, meaning blue or livid in color."
+          },
+          {
+            "when": "1600s",
+            "text": "The figurative sense meaning ‘furiously angry’ becomes established."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "lividly",
+          "label": "adverb"
+        },
+        {
+          "term": "lividness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "furious",
+        "irate",
+        "enraged",
+        "incensed"
+      ],
+      "opposite": "calm",
+      "pitfall": "Don’t confuse it with liquid. In modern conversation, livid usually means extremely angry rather than bluish in color."
+    },
+    {
+      "id": "loath",
+      "kind": "word",
+      "term": "loath",
+      "pos": "adjective",
+      "phonetic": "/loʊθ/",
+      "sayIt": "LOHTH",
+      "register": "Formal",
+      "meaning": "Unwilling or strongly reluctant to do something.",
+      "nuance": "It often sounds more serious than “reluctant,” suggesting discomfort or a strong unwillingness. It is nearly always used in the phrase “loath to do” something.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · requesting extra work",
+          "sentence": "I’m loath to delay the launch, but we need another day for testing.",
+          "highlight": "loath",
+          "tip": "Use it when you are reluctant but willing to consider a practical request."
+        },
+        {
+          "setting": "social",
+          "where": "Party invitation · suggesting karaoke",
+          "sentence": "I’m loath to sing in front of strangers, but I’ll cheer everyone on.",
+          "highlight": "loath",
+          "tip": "It adds a slightly old-fashioned or dramatic tone, so use it sparingly in casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · declining a proposal",
+          "sentence": "Although we are loath to withdraw our offer, we cannot meet the revised deadline.",
+          "highlight": "loath",
+          "tip": "A formal alternative to “reluctant,” especially in professional or persuasive writing."
+        }
+      ],
+      "origin": {
+        "summary": "Loath comes from Old English and originally meant hateful or disgusting. Its modern sense of unwilling developed later, under the influence of the related verb “loathe.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The ancestor of loath meant hateful, repulsive or odious."
+          },
+          {
+            "when": "1500s",
+            "text": "The word developed the meaning unwilling or reluctant."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in the formal phrase “loath to do” something."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "loathe",
+          "label": "verb"
+        },
+        {
+          "term": "loathing",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "reluctant",
+        "unwilling",
+        "averse",
+        "disinclined"
+      ],
+      "opposite": "willing",
+      "pitfall": "Do not confuse loath with loathe: loath is an adjective, while loathe is a verb meaning to hate or detest."
+    },
+    {
+      "id": "loathe",
+      "kind": "word",
+      "term": "loathe",
+      "pos": "verb",
+      "phonetic": "/loʊð/",
+      "sayIt": "LOHTH",
+      "register": "Everyday",
+      "meaning": "To hate something intensely, often because it seems unbearable or deeply unpleasant.",
+      "nuance": "This is stronger and more emotional than dislike. It can describe revulsion toward a person, an action, or an experience.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · planning a meeting",
+          "sentence": "I loathe rushed decisions, so let’s take five minutes to review the options.",
+          "highlight": "loathe",
+          "tip": "Use it when describing a strong personal reaction to a working practice."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · bad meal",
+          "sentence": "I loathe cold noodles, but I’ll try the vegetable stew instead.",
+          "highlight": "loathe",
+          "tip": "It sounds personal and emphatic, so use it with familiar company."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · criticising a film",
+          "sentence": "The characters are memorable, but I loathe the way the story rushes toward its ending.",
+          "highlight": "loathe",
+          "tip": "It adds intensity to criticism, but can sound blunt in a formal review."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Old English lāþian, meaning ‘to hate’ or ‘to abhor’, and developed into its modern spelling through Middle English.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The ancestor of loathe appears as lāþian, meaning ‘to hate’ or ‘to abhor’."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word appears in forms spelling the sound with th."
+          },
+          {
+            "when": "1500s onward",
+            "text": "The spelling loathe becomes established in English."
+          }
+        ]
+      },
+      "similar": [
+        "detest",
+        "abhor",
+        "despise",
+        "hate"
+      ],
+      "opposite": "love",
+      "pitfall": "Loathe is a verb. Loath is a related adjective meaning ‘unwilling’ or ‘reluctant’, as in ‘I’m loath to interrupt’."
+    },
+    {
+      "id": "lugubrious",
+      "kind": "word",
+      "term": "lugubrious",
+      "pos": "adjective",
+      "phonetic": "/luːˈɡuːbriəs/",
+      "sayIt": "loo-GOO-bree-us",
+      "register": "Literary",
+      "meaning": "Extremely sad or mournful, often in a way that seems exaggerated or excessively dramatic.",
+      "nuance": "The word suggests a heaviness that may strike listeners as theatrical. It is more common in formal criticism and writing than in everyday conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team retrospective · reviewing a failed project",
+          "sentence": "His lugubrious update made a recoverable setback sound like the end of the company.",
+          "highlight": "lugubrious",
+          "tip": "Use it when the mood is noticeably darker or more theatrical than the situation warrants."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · reacting to bad news",
+          "sentence": "He became lugubrious after the cancellation, reciting every detail of what might have gone wrong.",
+          "highlight": "lugubrious",
+          "tip": "It usually carries a slight hint of mockery, so choose it carefully when describing someone."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing a stage production",
+          "sentence": "The final act settled into a lugubrious mood that felt both heartfelt and deliberately excessive.",
+          "highlight": "lugubrious",
+          "tip": "It works well in literary criticism, where a precise note of exaggerated sorrow is useful."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin lugubris, meaning mournful or excessively sorrowful, probably connected with luctus, meaning grief or mourning.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "Lugubris appears in a wide sense meaning mournful or doleful."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English through Latin, initially in literary and rhetorical contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It describes sorrow that feels unusually heavy, theatrical or exaggerated."
+          }
+        ]
+      },
+      "similar": [
+        "mournful",
+        "doleful",
+        "miserable",
+        "gloomy",
+        "weepy"
+      ],
+      "opposite": "cheerful",
+      "pitfall": "The stress falls on the second syllable: loo-GOO-bree-us, not LOO-gub-rious."
+    },
+    {
+      "id": "macabre",
+      "kind": "word",
+      "term": "macabre",
+      "pos": "adjective",
+      "phonetic": "/məˈkɑːbrə/",
+      "sayIt": "muh-KAH-bruh",
+      "register": "Formal and literary",
+      "meaning": "Concerned with death, decay, or something frightening and unsettling.",
+      "nuance": "It suggests that a scene or story is grimly disturbing rather than merely sad. The word is often used for imagery, events, or humour with a death-related eerie quality.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team briefing · discussing a campaign",
+          "sentence": "The campaign’s macabre images felt too unsettling for a workplace audience.",
+          "highlight": "macabre",
+          "tip": "Use it for imagery or themes that disturb through references to death or decay."
+        },
+        {
+          "setting": "social",
+          "where": "Costume party · sharing spooky stories",
+          "sentence": "Her macabre joke about the gravestone made everyone at the table fall silent.",
+          "highlight": "macabre",
+          "tip": "It can describe dark humour, but the joke may land as insensitive rather than funny."
+        },
+        {
+          "setting": "writing",
+          "where": "Review of a horror film",
+          "sentence": "The film uses macabre set pieces to build dread without relying on graphic violence.",
+          "highlight": "macabre",
+          "tip": "Often appears before images, scenes, humour, or details in reviews and fiction."
+        }
+      ],
+      "origin": {
+        "summary": "English borrowed the word from French macabre, which became familiar through the medieval phrase danse macabre, meaning a dance representing death.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Medieval period",
+            "text": "The phrase danse macabre appears in European traditions depicting people being led toward death."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "Macabre enters French as both the dance and a label for death-related imagery."
+          },
+          {
+            "when": "1600s",
+            "text": "The word begins appearing in English, initially referring to death and the skeleton."
+          },
+          {
+            "when": "Today",
+            "text": "It describes anything grim, eerie, or unsettling because of its connection with death."
+          }
+        ]
+      },
+      "similar": [
+        "grisly",
+        "eerie",
+        "morbid",
+        "ghastly"
+      ],
+      "opposite": "cheerful",
+      "pitfall": "Use it for something unsettling or death-related, not simply for anything tragic or depressing."
+    },
+    {
+      "id": "malevolent",
+      "kind": "word",
+      "term": "malevolent",
+      "pos": "adjective",
+      "phonetic": "/məˈlevələnt/",
+      "sayIt": "muh-LEV-uh-lunt",
+      "register": "Formal",
+      "meaning": "Showing a wish to hurt, damage, or cause suffering to others.",
+      "nuance": "Strongly critical and often used in formal writing to describe deliberate hostility. It suggests bad intent more clearly than words such as “unfriendly” or “harsh.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing a colleague",
+          "sentence": "Her malevolent criticism of the new team made everyone afraid to contribute ideas.",
+          "highlight": "malevolent",
+          "tip": "Use it for clearly harmful intent rather than ordinary blunt criticism."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · recounting a prank",
+          "sentence": "His malevolent grin told us he was planning another awful joke.",
+          "highlight": "malevolent",
+          "tip": "Often describes a manner or expression that suggests nasty intentions."
+        },
+        {
+          "setting": "writing",
+          "where": "Novel description · a threatening encounter",
+          "sentence": "A malevolent stranger watched from the end of the dim corridor.",
+          "highlight": "malevolent",
+          "tip": "A strong literary word that makes hostility or sinister intent unmistakable."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin malevolentia, a word built from male, meaning badly, and volens, meaning wishing.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Malevolentia means ill will or the wish to harm others."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with the meaning of showing hostility or harmful intent."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly formal, especially in writing and literary descriptions."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "malevolence",
+          "label": "noun"
+        },
+        {
+          "term": "malevolently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "malicious",
+        "spiteful",
+        "hostile",
+        "venomous"
+      ],
+      "opposite": "benevolent",
+      "pitfall": "Don’t confuse it with malignant, which can describe harmful growth or crudeness rather than a wish to cause suffering."
+    },
+    {
+      "id": "maudlin",
+      "kind": "word",
+      "term": "maudlin",
+      "pos": "adjective",
+      "phonetic": "/ˈmɔːdlɪn/",
+      "sayIt": "MAWD-lin",
+      "register": "Formal and literary",
+      "meaning": "Showing an excessive amount of sad emotion or sentimental feeling.",
+      "nuance": "It is more than simply sad: it suggests being tearful, self-pitying or overly sentimental. It is often mildly critical rather than sympathetic.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team presentation · reflecting on a colleague",
+          "sentence": "The presentation turned maudlin when the team started praising the retired colleague instead of staying on the results.",
+          "highlight": "maudlin",
+          "tip": "Use it when emotion has become excessive or distracts from the purpose."
+        },
+        {
+          "setting": "social",
+          "where": "Gathering with friends · retelling a regret",
+          "sentence": "She became maudlin after drinks and kept retelling how everyone had neglected her.",
+          "highlight": "maudlin",
+          "tip": "It can sound blunt because it labels someone as overly emotional."
+        },
+        {
+          "setting": "writing",
+          "where": "Memoir · describing an emotional scene",
+          "sentence": "Avoid a maudlin ending; let the loss carry weight without wallowing in sentiment.",
+          "highlight": "maudlin",
+          "tip": "It is especially useful in criticism of writing, films or public speeches."
+        }
+      ],
+      "origin": {
+        "summary": "The word is linked to Maudlin, a tearful character in the popular song “The Basket of Roses.” Its sense of exaggerated emotion developed from that association.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1700s",
+            "text": "“The Basket of Roses,” a popular song by Tom Daniel, features a character named Maudlin mourning her dead lover."
+          },
+          {
+            "when": "Early 1800s",
+            "text": "Maudlin begins to mean excessively tearful or sentimental in English."
+          },
+          {
+            "when": "Today",
+            "text": "It describes displays of emotion seen as excessive or overly sentimental."
+          }
+        ]
+      },
+      "similar": [
+        "mawkish",
+        "sentimental",
+        "tearful",
+        "emotional"
+      ],
+      "opposite": "restrained",
+      "pitfall": "Use it for exaggerated emotion, not for sadness alone; someone can be genuinely sad without being maudlin."
+    },
+    {
+      "id": "melancholy",
+      "kind": "word",
+      "term": "melancholy",
+      "pos": "noun",
+      "phonetic": "/ˈmelənˌkɒli/",
+      "sayIt": "MEL-uhn-KOL-ee",
+      "register": "Literary and reflective",
+      "meaning": "A deep, thoughtful sadness that may come with reflection, loss, or an awareness of life’s passing.",
+      "nuance": "It suggests a quiet, inward mood rather than sudden distress or anger. It can sound poetic, so it is less common in everyday conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team retrospective · reflecting on a project",
+          "sentence": "There was a touch of melancholy as we remembered how different the team had felt at the start.",
+          "highlight": "melancholy",
+          "tip": "Use it when a shared project or change brings a reflective sadness."
+        },
+        {
+          "setting": "social",
+          "where": "Old photograph · remembering a friend",
+          "sentence": "We laughed about the old trip, but there was also melancholy in realizing those days were gone.",
+          "highlight": "melancholy",
+          "tip": "It fits emotional moments that combine warmth, memory, and sadness."
+        },
+        {
+          "setting": "writing",
+          "where": "Short story · describing an autumn evening",
+          "sentence": "A melancholy evening settled over the house as she packed the last of her brother’s books.",
+          "highlight": "melancholy",
+          "tip": "Pair it with a setting, season, memory, or quiet scene to create a reflective tone."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek melankholia, a compound of melas, ‘black’, and kholē, ‘bile’, referring to black bile as the ancient belief behind moods of deep sadness.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Melankholia originally described a condition believed to be caused by an imbalance of black bile."
+          },
+          {
+            "when": "Medieval and early modern period",
+            "text": "Passed through Latin and French, with its focus shifting toward states of sadness and reflective mood."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly means a deep, contemplative sadness, especially in literary writing."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "melancholic",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "wistful",
+        "gloomy",
+        "nostalgic",
+        "forlorn"
+      ],
+      "opposite": "cheerful",
+      "pitfall": "This is stronger and more reflective than plain sadness; it is not the usual word for feeling briefly unhappy."
+    },
+    {
+      "id": "mollify",
+      "kind": "word",
+      "term": "mollify",
+      "pos": "verb",
+      "phonetic": "/ˈmɒlɪfaɪ/",
+      "sayIt": "MOL-ih-fye",
+      "register": "Formal",
+      "meaning": "To make someone feel calmer, less angry, or more receptive.",
+      "nuance": "Often used when anger, tension, or strong opposition needs to be softened. It sounds measured and diplomatic rather than emotional.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · easing a dispute",
+          "sentence": "The director tried to mollify the engineers by promising that their concerns would be included in the review.",
+          "highlight": "mollify",
+          "tip": "Use it for calming a tense response, especially when a formal solution is unlikely."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · calming an argument",
+          "sentence": "He offered another slice of cake to mollify his sister after she snapped at him.",
+          "highlight": "mollify",
+          "tip": "It usually takes a person as its object, such as “mollify someone.”"
+        },
+        {
+          "setting": "writing",
+          "where": "Customer email · responding to a complaint",
+          "sentence": "We hope this refund helps mollify the frustration the delay has caused.",
+          "highlight": "mollify",
+          "tip": "A good choice in formal writing when you want to acknowledge someone’s anger without seeming defensive."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin mollificare, meaning “to soften,” built from mollis, “soft,” and facere, “to make.” English borrowed it through French.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Mollificare develops from mollis, “soft,” and facere, “to make.”"
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English through French as mollifier, meaning “to soften.”"
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used for calming anger, hostility, or strong feelings."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "mollification",
+          "label": "noun"
+        },
+        {
+          "term": "mollifiable",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "placate",
+        "appease",
+        "assuage",
+        "soothe"
+      ],
+      "opposite": "provoke",
+      "pitfall": "Usually means calming a person or their feelings, not literally making something soft."
+    },
+    {
+      "id": "mortify",
+      "kind": "word",
+      "term": "mortify",
+      "pos": "verb",
+      "phonetic": "/ˈmɔːrtɪfaɪ/",
+      "sayIt": "MORT-ih-fy",
+      "register": "Formal; somewhat old-fashioned",
+      "meaning": "To make someone feel deeply embarrassed or ashamed.",
+      "nuance": "The feeling is usually stronger and more formal than ordinary embarrassment. It can also describe how a person feels after an embarrassing mistake.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client meeting · correcting an error",
+          "sentence": "I was mortified when I realised the figures came from the wrong report.",
+          "highlight": "mortified",
+          "tip": "This form is more natural than using the verb directly when describing your own reaction."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · forgetting a guest’s name",
+          "sentence": "The host was mortified when she realised she had forgotten to invite Daniel.",
+          "highlight": "mortified",
+          "tip": "Use it for embarrassment that feels unusually intense or public."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · correcting an old document",
+          "sentence": "I was mortified to find that my name was still in the old document.",
+          "highlight": "mortified",
+          "tip": "It gives a formal tone to an apology or confession."
+        }
+      ],
+      "origin": {
+        "summary": "Mortify comes through Old French from Latin mortificare, built from mors, meaning death, and facere, meaning to make. Its meanings developed from making something die or subdue it to causing intense shame.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Mortificare originally meant to kill or make death-like."
+          },
+          {
+            "when": "Middle English",
+            "text": "Entered English with religious meanings involving self-denial and the body."
+          },
+          {
+            "when": "Today",
+            "text": "Usually means causing deep embarrassment or shame."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "mortification",
+          "label": "noun"
+        },
+        {
+          "term": "self-mortification",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "embarrass",
+        "humiliate",
+        "abash",
+        "shame"
+      ],
+      "pitfall": "Mortify means to cause intense embarrassment; it does not mean to kill, which is murder."
+    },
+    {
+      "id": "motivate",
+      "kind": "word",
+      "term": "motivate",
+      "pos": "verb",
+      "phonetic": "/ˈməʊtɪveɪt/",
+      "sayIt": "MOH-tih-vayt",
+      "register": "Common at work and everyday conversation",
+      "meaning": "To give someone a reason to act, try or continue.",
+      "nuance": "Motivation is often about energy, purpose or encouragement, while the reason itself may be practical, personal or financial. It can also mean to make someone or something more likely to happen.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team check-in · improving participation",
+          "sentence": "Clear goals and regular feedback motivated the team to take ownership of the project.",
+          "highlight": "motivated",
+          "tip": "Use the past tense when describing what changed people’s behaviour."
+        },
+        {
+          "setting": "social",
+          "where": "Friends’ chat · planning a weekend activity",
+          "sentence": "The promise of good food motivated us to finish our hike early.",
+          "highlight": "motivated",
+          "tip": "A simple reward can be a natural reason for doing something."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · explaining a new incentive",
+          "sentence": "The bonus motivated staff to suggest process improvements, although the target felt overly focused on cost cutting.",
+          "highlight": "motivated",
+          "tip": "This use links a cause to a resulting action or effort."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin motivare, ‘to move’, based on movere, ‘to move’. The idea developed from setting something in motion to giving someone a reason to act.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "motivare means ‘to move’ or ‘set in motion’, and motivus means ‘causing movement or action’."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English with meanings connected to movement and the causes of action."
+          },
+          {
+            "when": "1600s onward",
+            "text": "It develops the modern sense of encouraging someone to act or giving them a reason to do so."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely used for personal encouragement, workplace incentives and causes that influence behaviour."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "motivation",
+          "label": "noun"
+        },
+        {
+          "term": "motivated",
+          "label": "adjective"
+        },
+        {
+          "term": "motivating",
+          "label": "adjective"
+        },
+        {
+          "term": "motivator",
+          "label": "noun (person or thing)"
+        },
+        {
+          "term": "motive",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "inspire",
+        "encourage",
+        "drive",
+        "prompt"
+      ],
+      "opposite": "discourage",
+      "pitfall": "Don’t confuse motive, the reason behind an action, with motivation, the encouragement or drive that leads to it."
+    },
+    {
+      "id": "nirvana",
+      "kind": "word",
+      "term": "nirvana",
+      "pos": "noun",
+      "phonetic": "/nɪəˈvɑːnə/",
+      "sayIt": "NEER-VAH-nuh",
+      "register": "Common in casual and reflective contexts",
+      "meaning": "A state of perfect peace and happiness, or in Buddhism, freedom from craving and suffering.",
+      "nuance": "In everyday English, it often describes complete contentment and may sound slightly dreamy or ironic. In Buddhist teaching, it has a more precise spiritual meaning: release from suffering through ending attachment and craving.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team retrospective · unwinding after a launch",
+          "sentence": "After weeks of deadline pressure, a quiet weekend felt like nirvana.",
+          "highlight": "nirvana",
+          "tip": "Use it lightly for intense relief or contentment, especially in casual conversations."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation with a friend · describing a perfect day",
+          "sentence": "She called the tiny garden her nirvana after finally getting a morning without notifications.",
+          "highlight": "nirvana",
+          "tip": "It can sound warm and playful when someone describes an ideal, uncomplicated moment."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel article · describing a peaceful retreat",
+          "sentence": "The island offered a kind of nirvana: warm food, clear water and no need to hurry.",
+          "highlight": "nirvana",
+          "tip": "Pair it with concrete details so the sense of complete ease feels vivid rather than vague."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Sanskrit and originally referred to the ending of craving and suffering in Buddhist teaching. English later adopted both this religious sense and the everyday sense of perfect happiness.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Sanskrit and early Buddhist usage",
+            "text": "Nirvana described the extinguishing of craving, often understood as release from the cycle of suffering."
+          },
+          {
+            "when": "1800s",
+            "text": "The Buddhist term entered English and became familiar through translations and religious writing."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely used outside religion for perfect peace, happiness or freedom from stress."
+          }
+        ]
+      },
+      "similar": [
+        "bliss",
+        "serenity",
+        "contentment",
+        "enlightenment"
+      ],
+      "opposite": "misery",
+      "pitfall": "Don't use it for simply feeling good: it usually suggests perfect peace or the absence of ordinary worries. In Buddhist contexts, it also carries a specific religious meaning."
+    },
+    {
+      "id": "noisome",
+      "kind": "word",
+      "term": "noisome",
+      "pos": "adjective",
+      "phonetic": "/ˈnɔɪzəm/",
+      "sayIt": "NOY-zum",
+      "register": "Formal",
+      "meaning": "Unpleasantly offensive, irritating, or harmful, especially because of a bad smell.",
+      "nuance": "It is stronger and more literary than “unpleasant.” It often describes a smell, sound, or situation that makes people want to avoid it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office complaint · stale food",
+          "sentence": "The noisome smell from the fridge has made the whole kitchen unusable.",
+          "highlight": "noisome",
+          "tip": "Use it for something seriously unpleasant rather than merely mildly annoying."
+        },
+        {
+          "setting": "social",
+          "where": "At a friend’s home · noticing a bad smell",
+          "sentence": "There was a noisome odor near the washing machine, and we opened every window.",
+          "highlight": "noisome",
+          "tip": "It sounds formal and slightly dramatic, so it suits vivid description better than casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Novel description · a threatening alley",
+          "sentence": "A noisome cloud hung over the alley, hiding the broken lamps.",
+          "highlight": "noisome",
+          "tip": "Use it to add a dark, literary atmosphere to a scene or description."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through Old French from Latin roots meaning “harmful” or “injurious.” Its modern sense developed toward “offensively unpleasant.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Middle English",
+            "text": "The form noisome appears in English with meanings connected with harm or injury."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The sense broadens to include things that are objectionable or unpleasant."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly literary and especially common in descriptions of unpleasant smells."
+          }
+        ]
+      },
+      "similar": [
+        "noxious",
+        "obnoxious",
+        "offensive",
+        "revolting"
+      ],
+      "opposite": "pleasant",
+      "pitfall": "Do not confuse noisome with noisy, which simply means making a lot of sound."
+    },
+    {
+      "id": "nostalgia",
+      "kind": "word",
+      "term": "nostalgia",
+      "pos": "noun",
+      "phonetic": "/nɒˈstældʒə/",
+      "sayIt": "nos-TAL-juh",
+      "register": "Everyday",
+      "meaning": "A wistful feeling of longing for the past, often mixed with pleasure as you remember happy or meaningful times.",
+      "nuance": "It is usually warm and affectionate, but it can also include sadness about how things have changed. People often use it for personal memories, while nostalgia for an earlier era can be broader and more cultural.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · recalling an old office ritual",
+          "sentence": "There is a touch of nostalgia about the Friday afternoon games we used to play before the team moved offices.",
+          "highlight": "nostalgia",
+          "tip": "Use it for a gentle, wistful reflection on how work or workplace life used to be."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation with an old friend",
+          "sentence": "As we looked through the old photos, we laughed with nostalgia about school lunches and walking home together.",
+          "highlight": "nostalgia",
+          "tip": "This sounds natural when memories are fond but clearly belong to another time."
+        },
+        {
+          "setting": "writing",
+          "where": "Personal essay · reflecting on childhood",
+          "sentence": "The scent of cut grass brings back a powerful nostalgia for summers when I did not have to worry about the future.",
+          "highlight": "nostalgia",
+          "tip": "It works well in reflective writing when you want to balance affection for the past with awareness of change."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek roots meaning “a painful journey home,” the word originally referred to homesickness and later developed into a sense of longing for the past.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "Built from nostos, meaning “homecoming,” and algos, meaning “pain.”"
+          },
+          {
+            "when": "16th century",
+            "text": "Latin uses the word for homesickness or longing for home."
+          },
+          {
+            "when": "17th century",
+            "text": "English begins using it for homesickness."
+          },
+          {
+            "when": "18th century onward",
+            "text": "Its meaning broadens to include wistful or affectionate feelings about the past."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "nostalgic",
+          "label": "adjective"
+        },
+        {
+          "term": "nostalgically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "wistfulness",
+        "sentimentality",
+        "homesickness",
+        "longing"
+      ],
+      "pitfall": "Nostalgia is usually a feeling about the past; do not use it as a synonym for simply remembering an event."
+    },
+    {
+      "id": "obsess",
+      "kind": "word",
+      "term": "obsess",
+      "pos": "verb",
+      "phonetic": "/əbˈses/",
+      "sayIt": "uh-BSES",
+      "register": "Everyday",
+      "meaning": "To think about something constantly, usually in a way that feels difficult to control.",
+      "nuance": "It often suggests that the thought takes up more attention than it deserves. It can describe a harmless habit, but it may also imply anxiety or unhealthy fixation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · a recurring delay",
+          "sentence": "I keep obsessing over the missing data, but the release team needs a decision today.",
+          "highlight": "obsessing",
+          "tip": "Use it for repetitive worry, especially when you are stuck on a problem."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · an upcoming trip",
+          "sentence": "She obsessed over what to wear until the moment she left the house.",
+          "highlight": "obsessed",
+          "tip": "In everyday conversation, it often describes harmless overthinking."
+        },
+        {
+          "setting": "writing",
+          "where": "Personal essay · explaining a habit",
+          "sentence": "I obsess over small details because a vague plan makes me feel less in control.",
+          "highlight": "obsess",
+          "tip": "It works well when you want to explain a strong habit of thinking or worrying."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin obsidere, meaning ‘to sit at’ or ‘to besiege’, through French and English forms related to being preoccupied or surrounded.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root obsidere meant ‘to sit at’ or ‘to besiege’."
+          },
+          {
+            "when": "1600s",
+            "text": "English forms meaning to occupy the mind, haunt, or torment become established."
+          },
+          {
+            "when": "Today",
+            "text": "The word is commonly used for constant, sometimes excessive, thoughts about something."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "obsession",
+          "label": "noun"
+        },
+        {
+          "term": "obsessive",
+          "label": "adjective"
+        },
+        {
+          "term": "obsessively",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "preoccupy",
+        "fixate",
+        "brood",
+        "ruminate"
+      ],
+      "opposite": "ignore",
+      "pitfall": "“Obsess” usually emphasizes a thought that keeps returning; for a serious, persistent anxiety, clinical words such as “intrusive thoughts” may be more precise."
+    },
+    {
+      "id": "odious",
+      "kind": "word",
+      "term": "odious",
+      "pos": "adjective",
+      "phonetic": "/ˈoʊdiəs/",
+      "sayIt": "OH-dee-uhss",
+      "register": "Formal",
+      "meaning": "Extremely unpleasant, hateful, or likely to provoke strong dislike.",
+      "nuance": "Stronger and more formal than “unpleasant,” often describing behaviour that is hateful or offensive rather than merely irritating.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing misconduct",
+          "sentence": "The committee described the repeated manipulation of staff records as odious and deeply unfair.",
+          "highlight": "odious",
+          "tip": "Use it for conduct that deserves unusually strong disapproval."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · recounting an incident",
+          "sentence": "She found the speaker’s personal attacks toward diners truly odious.",
+          "highlight": "odious",
+          "tip": "It suits a clear moral judgement without adding a swear word."
+        },
+        {
+          "setting": "writing",
+          "where": "Complaint letter · reporting a neighbour",
+          "sentence": "Their odious habit of shouting late at night made the situation difficult for everyone in the building.",
+          "highlight": "odious",
+          "tip": "Pair it with a noun such as behaviour, treatment or attitude."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin odiosus, meaning “full of hatred” or “hateful,” based on odium, “hatred.” English borrowed it through French in the early 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "odiosus develops from odium, “hatred,” meaning hateful or detestable."
+          },
+          {
+            "when": "Early 1600s",
+            "text": "The word enters English through French odieux and Latin odiosus."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal word for something intensely hateful or offensive."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "odiously",
+          "label": "adverb"
+        },
+        {
+          "term": "odiousness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "hateful",
+        "detestable",
+        "loathsome",
+        "atrocious"
+      ],
+      "opposite": "admirable",
+      "pitfall": "Don’t confuse it with “odorous,” which means having a noticeable smell."
+    },
+    {
+      "id": "ominous",
+      "kind": "word",
+      "term": "ominous",
+      "pos": "adjective",
+      "phonetic": "/əˈmɪnəs/",
+      "sayIt": "uh-MI-nus",
+      "register": "Everyday",
+      "meaning": "Suggesting that something bad or unwelcome is likely to happen.",
+      "nuance": "It creates a tense feeling of foreboding, often without proof that disaster will actually occur. It can describe events, signs, silences or atmospheres.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing delays",
+          "sentence": "The sudden silence after the budget question felt ominous.",
+          "highlight": "ominous",
+          "tip": "Use it to describe a warning sign without making a definite prediction."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · awkward arrival",
+          "sentence": "His ominous warning made everyone check their phones.",
+          "highlight": "ominous",
+          "tip": "It adds suspense and often makes the situation feel darker than its facts suggest."
+        },
+        {
+          "setting": "writing",
+          "where": "Story opening · strange discovery",
+          "sentence": "An ominous hum came from the empty basement.",
+          "highlight": "ominous",
+          "tip": "Strong in fiction for atmosphere, especially when paired with silence, darkness or an unfamiliar sound."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin ominosus, meaning ‘of or like an omen’. English adopted it in the 1600s with the sense of being a bad sign.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Ominosus develops from omen, a sign that foretells an event, especially one considered threatening."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in the sense of ‘of or like an omen’."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes something that suggests danger, misfortune or an unpleasant development."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "ominously",
+          "label": "adverb"
+        },
+        {
+          "term": "omen",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "foreboding",
+        "sinister",
+        "ill-omened",
+        "threatening"
+      ],
+      "opposite": "reassuring",
+      "pitfall": "It does not prove that something bad will happen; it mainly creates the sense that it might."
+    },
+    {
+      "id": "paroxysm",
+      "kind": "word",
+      "term": "paroxysm",
+      "pos": "noun",
+      "phonetic": "/pəˈrɒksɪzəm/",
+      "sayIt": "puh-ROK-siz-um",
+      "register": "Formal",
+      "meaning": "A sudden, intense burst of emotion, movement, pain, or activity.",
+      "nuance": "The word suggests a force that rises sharply, reaches a peak, and then passes. It is more dramatic than an ordinary outburst and is often used in medical or literary contexts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · managing a crisis",
+          "sentence": "There was a paroxysm of panic when the server went down, but the team recovered quickly.",
+          "highlight": "paroxysm",
+          "tip": "Use it when describing a sudden, dramatic emotional or physical reaction."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · bad news",
+          "sentence": "She burst into a paroxysm of laughter when she realized she had mistaken salt for sugar.",
+          "highlight": "paroxysm",
+          "tip": "It can add a vivid, slightly literary quality to a story about an intense reaction."
+        },
+        {
+          "setting": "writing",
+          "where": "Medical report · describing symptoms",
+          "sentence": "The patient reported a paroxysm of chest pain that lasted several minutes.",
+          "highlight": "paroxysm",
+          "tip": "Common in medical writing for a sudden episode that comes in waves."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek paroxysmos, meaning ‘a sudden convulsion or outburst’, through Latin and French into English.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "The word referred to a sudden convulsion, eruption, or intensification."
+          },
+          {
+            "when": "17th century",
+            "text": "English uses begin appearing in medical and scientific writing."
+          },
+          {
+            "when": "Today",
+            "text": "It describes sudden, intense episodes of emotion, pain, movement, or activity."
+          }
+        ]
+      },
+      "similar": [
+        "spasm",
+        "burst",
+        "outburst",
+        "fit"
+      ],
+      "opposite": "calm",
+      "pitfall": "It usually describes a temporary episode, not a steady or lasting emotional state."
+    },
+    {
+      "id": "penance",
+      "kind": "word",
+      "term": "penance",
+      "pos": "noun",
+      "phonetic": "/ˈpenəns/",
+      "sayIt": "PEN-uhns",
+      "register": "Formal",
+      "meaning": "A punishment or act of self-denial intended to make amends for wrongdoing or express sincere regret.",
+      "nuance": "Penance often carries religious or moral weight and suggests more than simply apologising. In modern English, it can sound old-fashioned or literary.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · addressing a mistake",
+          "sentence": "He accepted penance by volunteering to lead the project that had caused the delay.",
+          "highlight": "penance",
+          "tip": "Use it for a serious act of atonement, not for a minor inconvenience."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · repairing trust",
+          "sentence": "He did penance for missing the celebration by spending the weekend helping her parents.",
+          "highlight": "penance",
+          "tip": "It sounds more solemn than a simple apology or apology."
+        },
+        {
+          "setting": "writing",
+          "where": "Historical novel · describing a confession",
+          "sentence": "The old penitent performed penance for a year before the village would speak to him again.",
+          "highlight": "penance",
+          "tip": "It works well in formal or historical writing about guilt, punishment and redemption."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French penance, borrowed from Latin paenitentia, meaning repentance or punishment for wrongdoing.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Paenitentia refers to sorrow for wrongdoing and the wish to make amends."
+          },
+          {
+            "when": "Old French",
+            "text": "Penance enters the language with religious and moral senses."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word becomes established in English, especially in religious writing."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "penitent",
+          "label": "adjective or noun"
+        },
+        {
+          "term": "penitence",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "atonement",
+        "contrition",
+        "repentance",
+        "penitence"
+      ],
+      "opposite": "impunity",
+      "pitfall": "Penance is usually an act of self-punishment or atonement; it is not simply another word for apology."
+    },
+    {
+      "id": "penitent",
+      "kind": "word",
+      "term": "penitent",
+      "pos": "adjective",
+      "phonetic": "/ˈpɛnɪtənt/",
+      "sayIt": "PEN-ih-tuhnt",
+      "register": "Formal",
+      "meaning": "Feeling sincere regret and sorrow for wrongdoing and willing to accept responsibility for it.",
+      "nuance": "It describes a serious, often moral, change of attitude. It can also be used as a noun for someone who feels this way.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · addressing an error",
+          "sentence": "The manager sounded genuinely penitent and explained what she would change.",
+          "highlight": "penitent",
+          "tip": "Stronger and more formal than simply sorry."
+        },
+        {
+          "setting": "social",
+          "where": "After a friendship quarrel",
+          "sentence": "I was penitent after lying to my friend, so I called to apologize.",
+          "highlight": "penitent",
+          "tip": "Often suggests regret about how your actions affected someone else."
+        },
+        {
+          "setting": "writing",
+          "where": "Apology · taking responsibility",
+          "sentence": "His apology was penitent in tone, but it did not explain how the mistake would be prevented.",
+          "highlight": "penitent",
+          "tip": "Useful for describing the seriousness of an apology without repeating the word sorry."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin paenitens, a person who repents, related to paenitere, ‘to feel regret or sorrow’. It reached English through Old French pénitent, especially in moral and religious language.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Classical Latin",
+            "text": "Paenitere means ‘to feel regret or sorrow’, with paenitens meaning ‘penitent’."
+          },
+          {
+            "when": "Old French",
+            "text": "Pénitent carries the Latin word into French, including its religious sense."
+          },
+          {
+            "when": "Late Middle English",
+            "text": "Penitent appears in English in moral, legal and religious writing."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "penitent",
+          "label": "noun (person)"
+        },
+        {
+          "term": "penitence",
+          "label": "noun"
+        },
+        {
+          "term": "penitential",
+          "label": "adjective"
+        },
+        {
+          "term": "penitently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "remorseful",
+        "contrite",
+        "repentant",
+        "regretful"
+      ],
+      "opposite": "impenitent",
+      "pitfall": "Penitent can sound formal or moral and may describe the person, their feelings or an apology. If you simply mean sorry about a minor mistake, remorseful or apologetic is usually more natural."
+    },
+    {
+      "id": "pensive",
+      "kind": "word",
+      "term": "pensive",
+      "pos": "adjective",
+      "phonetic": "/ˈpɛnsɪv/",
+      "sayIt": "PEN-siv",
+      "register": "Common in writing",
+      "meaning": "Lost in quiet thought, often with a touch of sadness or uncertainty.",
+      "nuance": "It suggests someone is turning something over in their mind rather than simply pausing. The mood can be reflective, melancholy or gently concerned.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "One-to-one · hearing bad news",
+          "sentence": "She looked pensive after hearing that the project had been delayed.",
+          "highlight": "pensive",
+          "tip": "Use it to describe a thoughtful reaction that is visible but not overly dramatic."
+        },
+        {
+          "setting": "social",
+          "where": "Coffee with a friend · considering a change",
+          "sentence": "He was quiet and pensive as he considered whether to accept the offer.",
+          "highlight": "pensive",
+          "tip": "It works when someone is silently reflecting on a decision or personal matter."
+        },
+        {
+          "setting": "writing",
+          "where": "Short story · describing a character’s mood",
+          "sentence": "Restless and pensive, she wandered through the empty house and waited for him to return.",
+          "highlight": "pensive",
+          "tip": "Use it in creative writing to create a quiet, inward-looking mood."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin pensivus, meaning ‘weighing’ or ‘pondering’, based on pendere, ‘to weigh’ or ‘suspend’. English began using it in the 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root pendere meant ‘to weigh’ or ‘to hang’, and gave rise to ideas of careful consideration."
+          },
+          {
+            "when": "1600s",
+            "text": "English adopted the word in the sense of thoughtful or reflective."
+          },
+          {
+            "when": "Today",
+            "text": "It usually describes a quiet, serious state of mind, often with a hint of sadness."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "pensiveness",
+          "label": "noun"
+        },
+        {
+          "term": "pensively",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "thoughtful",
+        "contemplative",
+        "wistful",
+        "melancholy"
+      ],
+      "opposite": "carefree",
+      "pitfall": "Don’t use it simply to mean tired; it focuses on inward thought, usually with some emotional weight."
+    },
+    {
+      "id": "pesky",
+      "kind": "word",
+      "term": "pesky",
+      "pos": "adjective",
+      "phonetic": "/ˈpeski/",
+      "sayIt": "PES-kee",
+      "register": "Casual",
+      "meaning": "Annoying in a persistent, mildly irritating way.",
+      "nuance": "It is more playful than “annoying” and often suggests that something keeps causing minor trouble. It is common in relaxed speech but may sound too informal for serious criticism.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · tracking a minor problem",
+          "sentence": "That pesky notification keeps popping up every time I open the report.",
+          "highlight": "pesky",
+          "tip": "Use it for small, recurring irritations rather than serious workplace problems."
+        },
+        {
+          "setting": "social",
+          "where": "Chat with friends · a minor everyday annoyance",
+          "sentence": "It’s that pesky noise from the upstairs flat again.",
+          "highlight": "pesky",
+          "tip": "A natural, friendly way to describe something mildly irritating."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal email · reporting a repeated issue",
+          "sentence": "We still have a pesky alignment problem on smaller screens.",
+          "highlight": "pesky",
+          "tip": "Keep it for informal messages; choose “persistent” or “recurring” for formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "The origin is uncertain, though it probably developed from the older word “pesty,” meaning annoying or full of vermin.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The older word “pesty” is recorded with meanings related to insects and annoying people."
+          },
+          {
+            "when": "1920s",
+            "text": "“Pesky” begins appearing in English, especially in American usage."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly an informal word for a persistent minor irritation."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "peskiness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "annoying",
+        "irritating",
+        "troublesome",
+        "nuisance"
+      ],
+      "opposite": "harmless",
+      "pitfall": "It can sound playful rather than genuinely angry, so avoid it when describing serious misconduct or distress."
+    },
+    {
+      "id": "phobia",
+      "kind": "word",
+      "term": "phobia",
+      "pos": "noun",
+      "phonetic": "/ˈfoʊbiə/",
+      "sayIt": "FOH-bee-uh",
+      "register": "Everyday",
+      "meaning": "An intense, persistent fear of something that is usually out of proportion to the actual danger.",
+      "nuance": "A phobia can seriously disrupt someone’s behaviour. Informally, people also use it humorously for an extreme dislike, such as a “phobia of public speaking.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Presentation meeting · handling feedback",
+          "sentence": "Her phobia of public speaking made it difficult to lead the quarterly review.",
+          "highlight": "phobia",
+          "tip": "Use the clinical sense when the fear is persistent and seriously affects someone’s work."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · choosing a table",
+          "sentence": "He has a phobia of crowded restaurants, so we booked a quiet place instead.",
+          "highlight": "phobia",
+          "tip": "A natural way to describe a specific, intense fear without sounding overly clinical."
+        },
+        {
+          "setting": "writing",
+          "where": "Casual email · making arrangements",
+          "sentence": "I have a bit of a phobia of early meetings, so can we start after ten?",
+          "highlight": "phobia",
+          "tip": "The phrase “a bit of a phobia of” softens the word and suggests a personal preference."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek phobos, ‘fear’, combined with -ia, a suffix forming names of conditions or disorders. The word entered English in the late 16th century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Phobos means ‘fear’; the combining form -ia is used to name a condition or disorder."
+          },
+          {
+            "when": "Late 1500s",
+            "text": "Phobia enters English as a medical term for an intense or unreasonable fear."
+          },
+          {
+            "when": "Today",
+            "text": "It is used in medicine and psychology and informally for an extreme dislike."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "phobic",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "aversion",
+        "anxiety",
+        "dread",
+        "obsession"
+      ],
+      "opposite": "fondness",
+      "pitfall": "A phobia is stronger and more persistent than an ordinary dislike or momentary fear; don’t use it as a precise medical diagnosis."
+    },
+    {
+      "id": "placate",
+      "kind": "word",
+      "term": "placate",
+      "pos": "verb",
+      "phonetic": "/pləˈkeɪt/",
+      "sayIt": "pluh-KAYT",
+      "register": "Common at work",
+      "meaning": "To make someone calmer and less angry or hostile.",
+      "nuance": "It is often used when a person, group or situation has been upset and needs reassurance, apology or compromise. It can sound strategic or slightly formal in everyday conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client meeting · managing frustration",
+          "sentence": "The team offered a refund and extra support to placate the frustrated customer.",
+          "highlight": "placate",
+          "tip": "Use it when a deliberate gesture is intended to reduce someone’s anger."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · resolving tension",
+          "sentence": "He brought flowers to placate his partner after forgetting their anniversary.",
+          "highlight": "placate",
+          "tip": "It describes an action aimed at restoring peace, not simply calming someone temporarily."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal apology · customer complaint",
+          "sentence": "We hope the compensation and explanation will placate those affected by the delay.",
+          "highlight": "placate",
+          "tip": "It fits formal writing about attempts to settle conflict or ease dissatisfaction."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin placare, meaning ‘to calm’ or ‘to appease’, through French placare.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "placare, ‘to calm, soothe or appease’."
+          },
+          {
+            "when": "1500s",
+            "text": "Enters English, initially meaning to calm or pacify."
+          },
+          {
+            "when": "Today",
+            "text": "Means to make an angry or hostile person calmer."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "placable",
+          "label": "adjective"
+        },
+        {
+          "term": "placation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "appease",
+        "pacify",
+        "calm",
+        "mollify",
+        "soothe"
+      ],
+      "opposite": "provoke",
+      "pitfall": "Placate usually suggests addressing the cause of someone’s anger, while calm down simply describes becoming less upset."
+    },
+    {
+      "id": "placatory",
+      "kind": "word",
+      "term": "placatory",
+      "pos": "adjective",
+      "phonetic": "/pləˈkeɪtəri/",
+      "sayIt": "pluh-KAY-tuh-ree",
+      "register": "Formal",
+      "meaning": "Intended to make someone calmer, less angry, or more willing to agree.",
+      "nuance": "It often suggests an attempt to ease tension through words or concessions. The tone can sound diplomatic, but it may also imply that someone is trying to avoid a direct confrontation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · calming a dispute",
+          "sentence": "She used a placatory message to acknowledge the problem without blaming the vendor.",
+          "highlight": "placatory",
+          "tip": "Use it for language designed to defuse conflict or soften criticism."
+        },
+        {
+          "setting": "social",
+          "where": "Family argument · making amends",
+          "sentence": "His placatory offer to help with the washing-up helped ease the tension.",
+          "highlight": "placatory",
+          "tip": "It describes a gesture meant to restore harmony after disagreement."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal complaint · requesting a resolution",
+          "sentence": "The email took a placatory tone, explaining the delay while avoiding anything that might sound defensive.",
+          "highlight": "placatory",
+          "tip": "Common in discussion of diplomatic, conciliatory, or carefully softened wording."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin placare, meaning ‘to appease’ or ‘to calm’, with the ending -atory forming an adjective that expresses an intended action.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Placare means ‘to appease, calm or satisfy’, and placatorius means ‘appeasing or conciliatory’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word appears in English in legal and diplomatic contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal word for words or actions intended to reduce hostility."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "placate",
+          "label": "verb"
+        },
+        {
+          "term": "placation",
+          "label": "noun"
+        },
+        {
+          "term": "placated",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "conciliatory",
+        "appeasing",
+        "soothing",
+        "diplomatic"
+      ],
+      "opposite": "provocative",
+      "pitfall": "Placatory describes an intention to calm or appease; it does not necessarily mean the effort succeeds."
+    }
+  ]
+}

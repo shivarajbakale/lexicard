@@ -1,0 +1,1695 @@
+{
+  "id": "words-power-conflict-2",
+  "kind": "word",
+  "name": "Power & conflict · 2",
+  "blurb": "25 words about power & conflict",
+  "cards": [
+    {
+      "id": "coup",
+      "kind": "word",
+      "term": "coup",
+      "pos": "noun",
+      "phonetic": "/kuː/",
+      "sayIt": "KOOP",
+      "register": "Formal; also common in informal praise",
+      "meaning": "A sudden move that gives someone power, control or a major advantage.",
+      "nuance": "In political writing, it usually means a rapid takeover of government. In everyday conversation, it can praise an impressive success, though that use sounds slightly old-fashioned.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Sales meeting · closing a major client",
+          "sentence": "Winning the national account without a formal pitch was a brilliant coup for the team.",
+          "highlight": "coup",
+          "tip": "Use it for a success that feels sudden, surprising and strategically valuable."
+        },
+        {
+          "setting": "social",
+          "where": "Community event · organising a festival",
+          "sentence": "Booking the headline performer on a tight budget was a real coup.",
+          "highlight": "coup",
+          "tip": "This informal use praises an unexpectedly successful piece of planning."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · sudden change of government",
+          "sentence": "The coup ended decades of rule and triggered calls for new elections.",
+          "highlight": "coup",
+          "tip": "Use the political sense for a sudden seizure of state power, usually with no article."
+        }
+      ],
+      "origin": {
+        "summary": "From French coup, meaning a blow or stroke, with roots in earlier Latin and Greek words for a blow. The political sense developed through the French expression coup d'état.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek and Roman periods",
+            "text": "Earlier forms of the word referred to a physical blow or strike."
+          },
+          {
+            "when": "Old French",
+            "text": "Coup means a blow, stroke or decisive move."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English, initially with meanings connected to a blow or stroke."
+          },
+          {
+            "when": "1800s",
+            "text": "Coup d’état becomes a political term, and coup develops the sense of a sudden seizure of power."
+          }
+        ]
+      },
+      "similar": [
+        "takeover",
+        "masterstroke",
+        "triumph",
+        "breakthrough"
+      ],
+      "opposite": "failure",
+      "pitfall": "A coup can mean either a seizure of power or an impressive success. For the political event, say coup d’état when you need to be completely clear."
+    },
+    {
+      "id": "decapitate",
+      "kind": "word",
+      "term": "decapitate",
+      "pos": "verb",
+      "phonetic": "/dɪˈkæpɪteɪt/",
+      "sayIt": "di-KAP-i-tayt",
+      "register": "Formal and graphic",
+      "meaning": "To cut off someone’s head, or figuratively to remove the most important part of something.",
+      "nuance": "This is a blunt and often disturbing word, so it suits precise or deliberately forceful writing rather than casual conversation. Figurative uses can suggest destroying something’s value or essential quality.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product review · choosing features",
+          "sentence": "Cutting the reporting feature would decapitate the product, so we need to keep it in the first release.",
+          "highlight": "decapitate",
+          "tip": "Use it figuratively when removing one part would destroy the whole."
+        },
+        {
+          "setting": "social",
+          "where": "Roast dinner · playful criticism",
+          "sentence": "My brother decapitated the turkey, then complained that carving it was too much work.",
+          "highlight": "decapitated",
+          "tip": "The literal use is graphic and usually humourous when told with a straight face."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · describing a violent event",
+          "sentence": "The attacker attempted to decapitate the victim before police officers intervened.",
+          "highlight": "decapitate",
+          "tip": "It is appropriate in factual reporting when the precise act matters."
+        }
+      ],
+      "origin": {
+        "summary": "From French décapiter, built on Latin decapitare, a combination of de- ‘remove’ and caput ‘head’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Decapitare means ‘to behead’, from de- ‘remove’ and caput ‘head’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English through French, initially meaning to cut off a head."
+          },
+          {
+            "when": "Today",
+            "text": "It can also describe removing the essential or most valuable part of something."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "decapitation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "behead",
+        "execute",
+        "eliminate",
+        "destroy"
+      ],
+      "pitfall": "Be careful with figurative uses in sensitive situations; they can sound as violent as the literal meaning."
+    },
+    {
+      "id": "despot",
+      "kind": "word",
+      "term": "despot",
+      "pos": "noun",
+      "phonetic": "/ˈdezpɒt/",
+      "sayIt": "DEZ-pot",
+      "register": "Formal and literary",
+      "meaning": "A ruler or leader who holds absolute power and controls a country or group without proper limits.",
+      "nuance": "The word is strongly negative and suggests unchecked authority. It is more common in political discussion and historical writing than in everyday conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Leadership discussion · limiting executive control",
+          "sentence": "Without checks and balances, even a well-intentioned leader can become a despot.",
+          "highlight": "despot",
+          "tip": "Use it for severe, unrestricted power rather than ordinary strict leadership."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · discussing a powerful relative",
+          "sentence": "My uncle runs the family business like a despot and expects everyone to follow his orders.",
+          "highlight": "despot",
+          "tip": "It can sound dramatic or exaggerated when used about someone in a close group."
+        },
+        {
+          "setting": "writing",
+          "where": "History essay · describing an authoritarian ruler",
+          "sentence": "The despot governed through fear, loyal officials and the suppression of rival power.",
+          "highlight": "despot",
+          "tip": "This formal noun works well when you want to stress both absolute rule and its threat to freedom."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek despotes, meaning ‘master’ or ‘lord’, through Latin and French. Its modern sense developed from a ruler with absolute personal power.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Despotes meant ‘master’, ‘lord’ or ‘owner’, especially in household or religious contexts."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "Entered English through French and Latin in political writing, referring to an absolute ruler."
+          },
+          {
+            "when": "Today",
+            "text": "Mainly describes a tyrannical ruler or leader with unrestricted power."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "despotism",
+          "label": "noun"
+        },
+        {
+          "term": "despotic",
+          "label": "adjective"
+        },
+        {
+          "term": "despotically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "tyrant",
+        "dictator",
+        "autocrat",
+        "strongman"
+      ],
+      "opposite": "democrat",
+      "pitfall": "A despot is defined by absolute power; an ordinary bad-tempered boss is not necessarily a despot."
+    },
+    {
+      "id": "deter",
+      "kind": "word",
+      "term": "deter",
+      "pos": "verb",
+      "phonetic": "/dɪˈtɜːr/",
+      "sayIt": "di-TER",
+      "register": "Common in formal writing",
+      "meaning": "To make someone less likely to do something by creating a reason for them not to.",
+      "nuance": "Often used when a threat, warning or difficulty is intended to change someone’s behaviour. It suggests stopping an action through fear or pressure, rather than simply advising against it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reducing workplace conflict",
+          "sentence": "Clear deadlines may deter people from delaying important tasks.",
+          "highlight": "deter",
+          "tip": "Use it for an action you want to discourage through a consequence or pressure."
+        },
+        {
+          "setting": "social",
+          "where": "Neighbourhood event · dealing with repeated noise",
+          "sentence": "A polite reminder from the building manager deterred our neighbours from playing music late at night.",
+          "highlight": "deterred",
+          "tip": "The past tense works well when the discouraging action has already had an effect."
+        },
+        {
+          "setting": "writing",
+          "where": "Security policy · discouraging trespassing",
+          "sentence": "Visible cameras can deter trespassers, although they do not prevent every incident.",
+          "highlight": "deter",
+          "tip": "Use it when discussing what may discourage behaviour, not what makes it impossible."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin deterre, meaning ‘to drive away’, formed from de- and terrere, ‘to frighten’. The English sense developed into discouraging someone from acting.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Deterre means ‘to drive away’ or ‘frighten away’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with the sense of driving someone away or making them withdraw."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used for discouraging an action through a threat, warning or obstacle."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "deterrent",
+          "label": "noun or adjective"
+        },
+        {
+          "term": "deterrence",
+          "label": "noun"
+        },
+        {
+          "term": "deterrence",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "discourage",
+        "dissuade",
+        "prevent",
+        "deteriorate"
+      ],
+      "opposite": "encourage",
+      "pitfall": "Do not confuse deter with deteriorate, which means to become progressively worse."
+    },
+    {
+      "id": "detriment",
+      "kind": "word",
+      "term": "detriment",
+      "pos": "noun",
+      "phonetic": "/dɪˈtrɪmənt/",
+      "sayIt": "DE-tri-ment",
+      "register": "Formal; common in legal and workplace writing",
+      "meaning": "Harm, damage, or disadvantage caused to a person, organisation, or thing.",
+      "nuance": "A detriment often implies a lasting or measurable negative effect, especially on health, reputation, or prospects. It is more formal than everyday words such as “harm” or “disadvantage.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing missed targets",
+          "sentence": "Sharing confidential data outside the team was a detriment to the company’s reputation.",
+          "highlight": "detriment",
+          "tip": "Use it for a negative effect that matters to the organisation, colleagues, or customers."
+        },
+        {
+          "setting": "social",
+          "where": "With friends · explaining a change of plans",
+          "sentence": "We cancelled the picnic, to the detriment of everyone who had planned around it.",
+          "highlight": "detriment",
+          "tip": "The phrase “to the detriment of” works well when the effect affects several people."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · recommending safer working practices",
+          "sentence": "Long shifts without breaks can be a detriment to employee health and productivity.",
+          "highlight": "detriment",
+          "tip": "Choose it when you want a formal, slightly emphatic alternative to “harm” or “damage.”"
+        }
+      ],
+      "origin": {
+        "summary": "From Latin detrimentum, meaning “loss” or “damage,” related to detrimere, “to wear down” or “reduce.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Roman Latin",
+            "text": "Detrimentum refers to loss, damage, or something that causes a reduction."
+          },
+          {
+            "when": "Medieval period",
+            "text": "The word enters English through Latin and French usage."
+          },
+          {
+            "when": "Today",
+            "text": "It is used mainly for harmful effects on health, reputation, interests, or performance."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "detrimental",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "harm",
+        "damage",
+        "disadvantage",
+        "drawback",
+        "impairment"
+      ],
+      "opposite": "benefit",
+      "pitfall": "Don’t confuse it with deterrent, which means something that discourages an action; a detriment is the harm or disadvantage itself."
+    },
+    {
+      "id": "dissident",
+      "kind": "word",
+      "term": "dissident",
+      "pos": "noun",
+      "phonetic": "/ˈdɪsɪdənt/",
+      "sayIt": "DIS-uh-dunt",
+      "register": "Formal",
+      "meaning": "A person who openly disagrees with an authority, organisation or accepted position.",
+      "nuance": "The word suggests principled opposition and can sound serious or confrontational. It is common in political, social and cultural contexts, but less usual for everyday disagreement.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Staff meeting · challenging leadership",
+          "sentence": "Several dissidents argued that the new policy would undermine the team’s independence.",
+          "highlight": "dissidents",
+          "tip": "Pluralise the noun when referring to more than one person."
+        },
+        {
+          "setting": "social",
+          "where": "Community debate · disputed local decision",
+          "sentence": "The dissident residents formed a group to challenge the council’s decision.",
+          "highlight": "dissident",
+          "tip": "Use it for visible opposition to authority, not ordinary personal disagreement."
+        },
+        {
+          "setting": "writing",
+          "where": "Article · political controversy",
+          "sentence": "The article portrays her as a dissident whose criticism of the regime brought repeated arrest.",
+          "highlight": "dissident",
+          "tip": "It often appears before words such as group, leader, intellectual or artist."
+        }
+      ],
+      "origin": {
+        "summary": "It comes from Latin dissidere, meaning to sit apart or disagree, and reached English through French in the 1500s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "dissidere, formed from dis- ‘apart’ and sedere ‘to sit’, developed the sense of disagreeing."
+          },
+          {
+            "when": "1500s",
+            "text": "The word entered English through French as a term for someone who separates from an accepted authority."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used for political, religious or cultural opposition."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "dissidence",
+          "label": "noun"
+        },
+        {
+          "term": "dissidently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "dissenter",
+        "rebel",
+        "protester",
+        "nonconformist"
+      ],
+      "opposite": "conformist",
+      "pitfall": "A dissident is usually part of a public conflict or movement; simply having a different opinion does not automatically make someone a dissident."
+    },
+    {
+      "id": "duress",
+      "kind": "word",
+      "term": "duress",
+      "pos": "noun",
+      "phonetic": "/dʊˈrɛs/",
+      "sayIt": "duh-RESS",
+      "register": "Formal and legal",
+      "meaning": "Pressure or a threat that forces someone to do something against their wishes.",
+      "nuance": "Duress is stronger than ordinary pressure because it suggests that consent was not freely given. It is especially common in legal and formal discussions of contracts, signatures and forced decisions.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Interview · pressured employee",
+          "sentence": "The employee said the confession was made under duress, not voluntarily.",
+          "highlight": "under duress",
+          "tip": "Use it when a person’s freedom to choose has been seriously compromised."
+        },
+        {
+          "setting": "social",
+          "where": "Family dispute · unwanted agreement",
+          "sentence": "He agreed under duress after they threatened to involve his brother.",
+          "highlight": "under duress",
+          "tip": "It sounds formal, so it suits serious situations rather than everyday disagreement."
+        },
+        {
+          "setting": "writing",
+          "where": "Contract dispute · challenging an agreement",
+          "sentence": "The witness claimed that she had entered the agreement under duress.",
+          "highlight": "under duress",
+          "tip": "Pair it with entered, made or signed to describe an action forced by pressure."
+        }
+      ],
+      "origin": {
+        "summary": "Duress comes through Old French from Latin duritia, meaning hardness, harshness or cruelty. The word developed from general hardship into the legal idea of force that prevents free consent.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root duritia meant hardness, harshness or cruelty."
+          },
+          {
+            "when": "Old French",
+            "text": "Durés meant hardship, pain or force."
+          },
+          {
+            "when": "Middle English",
+            "text": "Duress first referred to harshness or cruelty."
+          },
+          {
+            "when": "Later Middle English",
+            "text": "Its legal sense developed: pressure or threat used to compel an action."
+          }
+        ]
+      },
+      "similar": [
+        "coercion",
+        "compulsion",
+        "pressure",
+        "intimidation"
+      ],
+      "opposite": "free consent",
+      "pitfall": "Do not confuse duress with distress. Duress means pressure or force, while distress usually means anxiety, suffering or difficulty."
+    },
+    {
+      "id": "encroach",
+      "kind": "word",
+      "term": "encroach",
+      "pos": "verb",
+      "phonetic": "/ɪnˈkroʊtʃ/",
+      "sayIt": "in-KROHCH",
+      "register": "Formal",
+      "meaning": "To gradually intrude on someone’s time, space, rights, or territory.",
+      "nuance": "It often suggests a slow, unwanted advance rather than a sudden intrusion. It is especially common in legal, workplace, and boundary-related contexts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · competing priorities",
+          "sentence": "The new client work is starting to encroach on the time we set aside for product development.",
+          "highlight": "encroach",
+          "tip": "Use it when one demand gradually takes over time or resources reserved for another."
+        },
+        {
+          "setting": "social",
+          "where": "Shared home · deciding personal space",
+          "sentence": "I don’t want my work stuff to encroach on the living room, so I’ll move it upstairs.",
+          "highlight": "encroach",
+          "tip": "Use it to describe a boundary becoming slowly less clear."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal complaint · boundary concern",
+          "sentence": "The repeated parking outside the entrance appears to encroach on the property’s access route.",
+          "highlight": "encroach",
+          "tip": "A useful alternative to ‘invade’ when the intrusion is gradual and the concern is limits or rights."
+        }
+      ],
+      "origin": {
+        "summary": "From Middle English, through Anglo-French roots meaning to hook or seize, referring to gradually taking hold of something.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Middle English",
+            "text": "The word appears in the sense of hooking, seizing, or taking hold."
+          },
+          {
+            "when": "1500s–1700s",
+            "text": "Its meaning develops toward gradually intruding on someone’s rights, territory, or time."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly used with ‘on’ or ‘upon’ to describe an unwanted advance."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "encroachment",
+          "label": "noun"
+        },
+        {
+          "term": "encroaching",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "intrude",
+        "trespass",
+        "infringe",
+        "usurp"
+      ],
+      "opposite": "withdraw",
+      "pitfall": "Usually use it with ‘on’ or ‘upon’: ‘encroach on someone’s time’ or ‘encroach upon their rights.’"
+    },
+    {
+      "id": "encumbrance",
+      "kind": "word",
+      "term": "encumbrance",
+      "pos": "noun",
+      "phonetic": "/ɪnˈkʌmbrəns/",
+      "sayIt": "en-KUM-brunce",
+      "register": "Formal",
+      "meaning": "A burden, obstacle, or claim that makes an action, situation, or asset more difficult to deal with.",
+      "nuance": "In everyday use, it means an annoying complication. In legal and property contexts, it can mean a right or claim that affects the use or value of an asset.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · delayed launch",
+          "sentence": "The approval process became a major encumbrance, so we redesigned the schedule around the delay.",
+          "highlight": "encumbrance",
+          "tip": "Use it for a significant obstacle, especially when the tone is formal."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a party · juggling commitments",
+          "sentence": "Our old commitment to hosting at the weekend was a real encumbrance, but we managed it.",
+          "highlight": "encumbrance",
+          "tip": "It sounds more official than everyday alternatives such as hassle or nuisance."
+        },
+        {
+          "setting": "writing",
+          "where": "Property report · legal information",
+          "sentence": "The property report lists an encumbrance that may affect the owner's ability to sell or develop the land.",
+          "highlight": "encumbrance",
+          "tip": "In legal writing, it usually refers to a recorded claim or restriction on an asset."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Latin roots meaning 'to block or hinder' and entered English through Old French in a legal context.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Its roots combine a prefix meaning 'in' or 'upon' with a word related to blocking or enclosing."
+          },
+          {
+            "when": "Old French",
+            "text": "An Old French form meaning 'something that obstructs or burdens' develops."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English, initially associated with legal claims and obligations."
+          },
+          {
+            "when": "Today",
+            "text": "It is used formally for both legal burdens and general obstacles."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "encumber",
+          "label": "verb"
+        },
+        {
+          "term": "encumbered",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "burden",
+        "impediment",
+        "obstacle",
+        "hindrance"
+      ],
+      "opposite": "relief",
+      "pitfall": "In legal writing, an encumbrance is not merely an inconvenience; it can be a formal claim that restricts property rights."
+    },
+    {
+      "id": "escalation",
+      "kind": "word",
+      "term": "escalation",
+      "pos": "noun",
+      "phonetic": "/ˌeskəˈleɪʃən/",
+      "sayIt": "es-kuh-LAY-shun",
+      "register": "Common at work",
+      "meaning": "A situation that becomes increasingly serious, intense, or difficult to manage.",
+      "nuance": "It often suggests that a problem, conflict, or response is growing beyond what people expected. In workplaces, it can also mean formally passing an issue to a higher level of management.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · raising a delivery risk",
+          "sentence": "After two missed deadlines, the project manager called for an escalation to the operations director.",
+          "highlight": "escalation",
+          "tip": "Use this when a serious issue needs attention from someone more senior."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · a disagreement",
+          "sentence": "What started as a playful argument escalated when both of us stopped joking.",
+          "highlight": "escalated",
+          "tip": "Use the verb when feelings, conflict, or intensity quickly increase."
+        },
+        {
+          "setting": "writing",
+          "where": "Security report · describing rising threats",
+          "sentence": "The report notes an escalation in online attacks and recommends stronger protection for customer accounts.",
+          "highlight": "escalation",
+          "tip": "It gives a formal tone to a clear increase in risk, conflict, or severity."
+        }
+      ],
+      "origin": {
+        "summary": "It comes through French from Latin words meaning to climb or a ladder, originally referring to rising or climbing.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Roman Latin",
+            "text": "Escalare means ‘to climb’, and scala means ‘ladder’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English through French, with meanings connected to climbing or rising."
+          },
+          {
+            "when": "1900s",
+            "text": "Its use broadens to describe problems, conflicts, and responses becoming more serious."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "escalate",
+          "label": "verb"
+        },
+        {
+          "term": "escalatory",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "intensification",
+        "aggravation",
+        "buildup",
+        "increase"
+      ],
+      "opposite": "de-escalation",
+      "pitfall": "Escalation usually suggests a worsening that demands attention, rather than any simple increase."
+    },
+    {
+      "id": "extortion",
+      "kind": "word",
+      "term": "extortion",
+      "pos": "noun",
+      "phonetic": "/ɪkˈstɔːrʃən/",
+      "sayIt": "ex-TOR-shun",
+      "register": "Formal",
+      "meaning": "Getting money, property or another benefit by using threats, force or improper pressure.",
+      "nuance": "The word usually describes a serious abuse of power, especially when someone threatens harm, exposure or legal action unless they are paid. It can also refer to demanding an excessive payment, though that meaning is less common.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client support · responding to a threat",
+          "sentence": "We reported the extortion attempt because the scammer threatened to release our client’s files unless payment arrived.",
+          "highlight": "extortion",
+          "tip": "Use it for an organized or criminal threat, not simply for tough negotiation."
+        },
+        {
+          "setting": "social",
+          "where": "Private message · refusing a demand",
+          "sentence": "A friend who threatens to spread a private message unless you send money is committing extortion.",
+          "highlight": "extortion",
+          "tip": "This makes clear that the pressure or threat is being used to force compliance."
+        },
+        {
+          "setting": "writing",
+          "where": "Report to management · describing misconduct",
+          "sentence": "In the email, she described the demand as extortion and explained why she had contacted the police.",
+          "highlight": "extortion",
+          "tip": "It has a strong formal tone and is especially suitable for legal, news and workplace reports."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin extorquere, meaning ‘to twist out’ or ‘wrench away’, and extortio, a legal term for obtaining something forcibly.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Classical Latin",
+            "text": "Extorquere combines ex-, ‘out’, with torquere, ‘to twist or wrench’."
+          },
+          {
+            "when": "Medieval English",
+            "text": "The word appeared in legal writing for taking property by force or threats."
+          },
+          {
+            "when": "Modern English",
+            "text": "It now covers obtaining money or benefits through threats, coercion or abuse of power."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "extort",
+          "label": "verb"
+        },
+        {
+          "term": "extortionate",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "blackmail",
+        "intimidation",
+        "coercion",
+        "wransom"
+      ],
+      "pitfall": "Don’t use extortion as a synonym for any difficult negotiation; it normally requires coercion, threats or the improper use of power."
+    },
+    {
+      "id": "fatal",
+      "kind": "word",
+      "term": "fatal",
+      "pos": "adjective",
+      "phonetic": "/ˈfeɪtəl/",
+      "sayIt": "FAY-tuhl",
+      "register": "Common at work",
+      "meaning": "Causing death, or serious enough to ruin a plan, outcome, or opportunity.",
+      "nuance": "It is stronger than “serious” and often suggests consequences that cannot be repaired. It is common in phrases such as “fatal error” and “fatal flaw.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Incident review · assessing a failure",
+          "sentence": "Deleting the production database was a fatal mistake for the entire company.",
+          "highlight": "fatal",
+          "tip": "Use it for a mistake or problem with consequences so serious that recovery is unlikely."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · discussing a film",
+          "sentence": "Her decision to confront him at the party was fatal; they haven’t spoken since.",
+          "highlight": "fatal",
+          "tip": "In social contexts, it can describe an action that damages a relationship beyond repair."
+        },
+        {
+          "setting": "writing",
+          "where": "Project proposal · identifying a weakness",
+          "sentence": "A fatal flaw in the proposal is that it assumes competitors will remain inactive.",
+          "highlight": "fatal",
+          "tip": "Pair it with flaw, error, weakness or mistake to show that something is seriously damaging."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin fatalis, meaning “of fate” or “causing death,” based on fatum, the ancient idea of a fixed destiny.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin fatalis means “of fate or destiny” and comes from fatum, “fate.”"
+          },
+          {
+            "when": "1400s",
+            "text": "Fatal enters English with meanings connected to destiny, fate and death."
+          },
+          {
+            "when": "1600s",
+            "text": "It develops its modern sense of causing death or producing an irreversible disaster."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "fatality",
+          "label": "noun"
+        },
+        {
+          "term": "fatally",
+          "label": "adverb"
+        },
+        {
+          "term": "fatalism",
+          "label": "noun"
+        },
+        {
+          "term": "fatalist",
+          "label": "noun (person)"
+        },
+        {
+          "term": "fatalistic",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "deadly",
+        "disastrous",
+        "catastrophic",
+        "irreversible"
+      ],
+      "opposite": "nonfatal",
+      "pitfall": "Don’t use “fatal” as a general substitute for “very serious”; it implies extreme, often irreversible consequences."
+    },
+    {
+      "id": "felon",
+      "kind": "word",
+      "term": "felon",
+      "pos": "noun",
+      "phonetic": "/ˈfɛlən/",
+      "sayIt": "FELL-un",
+      "register": "Formal and legal",
+      "meaning": "A person who has been convicted of a felony, usually a serious crime.",
+      "nuance": "This is primarily a legal term and can sound severe or stigmatising. In general conversation, “person who committed a crime” is often more neutral.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Compliance meeting · discussing a conviction",
+          "sentence": "The felon is required to complete the rehabilitation programme before returning to work.",
+          "highlight": "felon",
+          "tip": "Use it in legal or formal contexts when referring to someone convicted of a felony."
+        },
+        {
+          "setting": "social",
+          "where": "News discussion · explaining a court case",
+          "sentence": "The report identified the suspect as a felon with two previous convictions.",
+          "highlight": "felon",
+          "tip": "It may sound blunt or prejudicial; avoid it when a less loaded description will do."
+        },
+        {
+          "setting": "writing",
+          "where": "Legal report · stating a conviction",
+          "sentence": "The document states that the felon received a suspended sentence under the court’s supervision.",
+          "highlight": "felon",
+          "tip": "Use it after the conviction has been established, not merely to describe someone suspected of a crime."
+        }
+      ],
+      "origin": {
+        "summary": "The word came through Old French from Latin felō, meaning a person who commits a crime. Its modern English meaning focuses on someone convicted of a felony.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "felō referred to a criminal or a person who committed a crime."
+          },
+          {
+            "when": "Old French",
+            "text": "The word appeared as felun, meaning an offender or criminal."
+          },
+          {
+            "when": "Late Middle English",
+            "text": "It entered English in a legal context and developed the specific sense of a person convicted of a felony."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "felony",
+          "label": "noun"
+        },
+        {
+          "term": "felonious",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "convict",
+        "criminal",
+        "offender"
+      ],
+      "opposite": "victim",
+      "pitfall": "Do not use “felon” for someone merely suspected of a crime, and avoid using it as a general synonym for “criminal”."
+    },
+    {
+      "id": "fiat",
+      "kind": "word",
+      "term": "fiat",
+      "pos": "noun",
+      "phonetic": "/ˈfiːɑːt/",
+      "sayIt": "FEE-at",
+      "register": "Formal",
+      "meaning": "A firm order or decree issued by someone with authority.",
+      "nuance": "It suggests that the order must be obeyed because it comes from a person or institution with power. It is often used in legal, political or business contexts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Board meeting · announcing a decision",
+          "sentence": "The department’s new policy was approved by fiat after a brief discussion.",
+          "highlight": "fiat",
+          "tip": "Use it when describing a decision that carries authority and needs little further approval."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a trip · final decision",
+          "sentence": "Our host chose the restaurant by fiat, so there was no point suggesting another place.",
+          "highlight": "fiat",
+          "tip": "This sounds slightly dramatic and is best used when someone has simply imposed a decision."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal report · explaining how a rule began",
+          "sentence": "The rule was introduced by fiat rather than through the usual consultation process.",
+          "highlight": "fiat",
+          "tip": "It fits formal writing when you want to emphasise authority, speed or the absence of debate."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin fiat, meaning ‘let it be done’, originally used as a formula for carrying out a decree.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Fiat is the imperative form of fieri, ‘to be done’, used in official commands."
+          },
+          {
+            "when": "Medieval and early modern Europe",
+            "text": "The phrase ‘fiat justitia’ appeared in legal and religious writing, meaning ‘let justice be done’."
+          },
+          {
+            "when": "1600s onward",
+            "text": "The word entered English as a noun for an authoritative command or decree."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means an order backed by power or authority."
+          }
+        ]
+      },
+      "similar": [
+        "decree",
+        "order",
+        "directive",
+        "command",
+        "edict"
+      ],
+      "opposite": "request",
+      "pitfall": "Fiat is a formal noun, not a verb. Do not confuse it with ‘fit’, which means suitable or in good physical condition."
+    },
+    {
+      "id": "flout",
+      "kind": "word",
+      "term": "flout",
+      "pos": "verb",
+      "phonetic": "/flaʊt/",
+      "sayIt": "FLAWT",
+      "register": "Formal",
+      "meaning": "To openly disregard a rule, law, restriction or social expectation.",
+      "nuance": "It suggests deliberate defiance rather than a simple mistake or oversight. It often carries a critical tone.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office policy · ignoring a deadline",
+          "sentence": "The department was accused of flouting the policy on remote work.",
+          "highlight": "flouting",
+          "tip": "Use it when someone knowingly ignores an established rule."
+        },
+        {
+          "setting": "social",
+          "where": "Event · breaking a dress code",
+          "sentence": "She flouted the dress code by arriving in trainers.",
+          "highlight": "flouted",
+          "tip": "It can describe a bold move against an agreed social rule."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · resisting regulation",
+          "sentence": "Several companies continue to flout local restrictions on late-night deliveries.",
+          "highlight": "flout",
+          "tip": "It is often used in reporting when rules are knowingly broken."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through Middle English from Old French and originally meant to display or flaunt something; the sense of showing open contempt developed later.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Old French",
+            "text": "An Old French ancestor meant to break apart or display ostentatiously."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English with meanings connected with display and showing off."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "It develops the sense of treating a rule or authority with open contempt."
+          },
+          {
+            "when": "Today",
+            "text": "It means to deliberately disregard a rule, restriction or expectation."
+          }
+        ]
+      },
+      "similar": [
+        "flaunt",
+        "defy",
+        "disregard",
+        "ignore",
+        "violate"
+      ],
+      "opposite": "obey",
+      "pitfall": "Do not confuse flout with flaunt: you flout a rule, but you flaunt expensive clothes, money or a possession."
+    },
+    {
+      "id": "foist",
+      "kind": "word",
+      "term": "foist",
+      "pos": "verb",
+      "phonetic": "/fɔɪst/",
+      "sayIt": "FOYST",
+      "register": "Formal and uncommon",
+      "meaning": "To impose something unwanted on another person, especially without asking their permission.",
+      "nuance": "It has a slightly old-fashioned, disapproving tone and often implies shifting responsibility or passing something off onto someone.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · assigning extra work",
+          "sentence": "Don’t foist another deadline on the team without checking what they can realistically manage.",
+          "highlight": "foist",
+          "tip": "Common with a task, responsibility or problem followed by “on” or “upon.”"
+        },
+        {
+          "setting": "social",
+          "where": "Family dinner · refusing food",
+          "sentence": "Her aunt kept trying to foist homemade casseroles on every guest at the table.",
+          "highlight": "foist",
+          "tip": "Use “foist something on someone” for something unwelcome being passed to them."
+        },
+        {
+          "setting": "writing",
+          "where": "Product review · explaining complexity",
+          "sentence": "The guide risks foisting a complicated technical explanation onto readers who only need the basics.",
+          "highlight": "foisting",
+          "tip": "The gerund works well when discussing what a document or person imposes on an audience."
+        }
+      ],
+      "origin": {
+        "summary": "Likely borrowed from Old French foister, meaning to put or pass something to another person. Its exact earlier development is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Medieval French",
+            "text": "Old French foister appears to have meant putting something into another person’s hands."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in senses involving passing or imposing something on another person."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used for imposing an unwanted task, responsibility or opinion."
+          }
+        ]
+      },
+      "similar": [
+        "impose",
+        "inflict",
+        "force",
+        "palm off"
+      ],
+      "pitfall": "Usually transitive and negative: say “foist a burden on someone,” not “foist someone a burden.”"
+    },
+    {
+      "id": "foment",
+      "kind": "word",
+      "term": "foment",
+      "pos": "verb",
+      "phonetic": "/fəˈment/",
+      "sayIt": "foh-MENT",
+      "register": "Formal",
+      "meaning": "To encourage trouble, conflict, or an active feeling among people.",
+      "nuance": "Usually negative, especially when you describe someone stirring up anger or rebellion. It can also mean actively promoting a process, but that use is much less common.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · handling a dispute",
+          "sentence": "The manager tried to foment open discussion rather than allowing the disagreement to grow quietly.",
+          "highlight": "foment",
+          "tip": "Use it carefully: it often suggests stirring up trouble, even when you mean simply encouraging something."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · raising a complaint",
+          "sentence": "I didn’t want to foment an argument, so I asked everyone to take a break.",
+          "highlight": "foment",
+          "tip": "A natural choice for describing behaviour that deliberately makes a situation worse."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · describing unrest",
+          "sentence": "Online posts helped foment anger, although the report says the immediate dispute began elsewhere.",
+          "highlight": "foment",
+          "tip": "Common in serious reporting about conflict, protests, tension or dangerous rumours."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin fomentare, meaning ‘to warm’ or ‘to kindle’, built on fomes, meaning ‘tinder’ or ‘kindling’. The figurative sense of stirring up trouble developed from this image of setting something alight.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root means warming or kindling material, with an associated sense of arousing or stirring."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "Foment enters English with both the literal sense and the figurative sense of stirring up trouble."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used for actively encouraging conflict, anger or rebellion."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "fomentation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "incite",
+        "agitate",
+        "provoke",
+        "fuel"
+      ],
+      "opposite": "calm",
+      "pitfall": "Foment usually has a negative tone. For simply encouraging a discussion or process, use ‘encourage’ or ‘promote’ instead."
+    },
+    {
+      "id": "fracas",
+      "kind": "word",
+      "term": "fracas",
+      "pos": "noun",
+      "phonetic": "/ˈfrækəs/",
+      "sayIt": "FRAK-us",
+      "register": "Formal; uncommon in everyday English",
+      "meaning": "A noisy argument, disturbance or fight involving several people.",
+      "nuance": "It suggests public disorder and raised voices rather than a quiet disagreement. The word sounds formal and often appears in reports or accounts of conflict.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office meeting · dispute over responsibilities",
+          "sentence": "The disagreement escalated into a fracas, and the meeting ended early.",
+          "highlight": "fracas",
+          "tip": "Useful in a formal report when describing a serious disturbance."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · heated disagreement",
+          "sentence": "A verbal fracas broke out when one relative brought up the wedding budget.",
+          "highlight": "fracas",
+          "tip": "It implies a brief public scene, usually involving more than two people."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · unrest outside a venue",
+          "sentence": "Police were called after a fracas developed outside the concert hall.",
+          "highlight": "fracas",
+          "tip": "The word gives a concise, slightly formal description of disorder or conflict."
+        }
+      ],
+      "origin": {
+        "summary": "Borrowed from French fracas, meaning a loud disturbance or din, probably from a word meaning to break or shatter.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "The French word develops senses connected with noise, breakage and commotion."
+          },
+          {
+            "when": "1700s",
+            "text": "Fracas enters English, initially referring to noise or a noisy disturbance."
+          },
+          {
+            "when": "Today",
+            "text": "It means a noisy argument, fight or public disturbance."
+          }
+        ]
+      },
+      "similar": [
+        "altercation",
+        "brawl",
+        "commotion",
+        "dispute"
+      ],
+      "opposite": "truce",
+      "pitfall": "The usual plural is fracas, not fracasses. It is also pronounced FRAK-us, with a short first vowel."
+    },
+    {
+      "id": "fraught",
+      "kind": "word",
+      "term": "fraught",
+      "pos": "adjective",
+      "phonetic": "/frɔːt/",
+      "sayIt": "FRAWT",
+      "register": "Formal to neutral",
+      "meaning": "Full of tension, difficulty or conflict.",
+      "nuance": "It sounds serious and often emotionally charged. It is especially common in the pattern “fraught with” before a danger, problem or complication.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · resolving a conflict",
+          "sentence": "The handover meeting became fraught as two teams disagreed over ownership.",
+          "highlight": "fraught",
+          "tip": "Use it for a situation filled with tension rather than for a mildly awkward moment."
+        },
+        {
+          "setting": "social",
+          "where": "Family dinner · discussing money",
+          "sentence": "Dinner gets fraught whenever we start talking about who should pay for the wedding.",
+          "highlight": "fraught",
+          "tip": "It works naturally after an activity or event that causes conflict."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · reporting risks",
+          "sentence": "The report describes a fraught migration with several unresolved dependencies.",
+          "highlight": "fraught",
+          "tip": "A slightly formal alternative to “tense” or “difficult” in serious writing."
+        }
+      ],
+      "origin": {
+        "summary": "The word originally meant “loaded” or “laden.” Its modern sense developed from the idea of a situation carrying the weight of danger, difficulty or tension.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "12th century",
+            "text": "The Old French form meant “loaded” or “laden.”"
+          },
+          {
+            "when": "14th century",
+            "text": "The word entered Middle English with meanings connected with being heavily burdened."
+          },
+          {
+            "when": "19th century",
+            "text": "It developed the modern sense of being full of difficulty, danger or tension."
+          }
+        ]
+      },
+      "similar": [
+        "tense",
+        "volatile",
+        "contentious",
+        "troubled"
+      ],
+      "opposite": "calm",
+      "pitfall": "Use “fraught with” for what fills a situation: “fraught with risk.” Avoid the less usual “fraught by.”"
+    },
+    {
+      "id": "fray",
+      "kind": "word",
+      "term": "fray",
+      "pos": "verb",
+      "phonetic": "/freɪ/",
+      "sayIt": "FRAY",
+      "register": "Everyday",
+      "meaning": "To wear, unravel, or become strained, especially fabric, nerves, or relationships.",
+      "nuance": "Figurative uses describe patience, nerves, or relationships wearing down under pressure. As a noun, a fray is a noisy argument or commotion.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team retrospective · rising tension",
+          "sentence": "By Friday, the team was fraying, and two people had stopped speaking to each other.",
+          "highlight": "fraying",
+          "tip": "Use it when stress is gradually damaging cooperation rather than causing one sudden failure."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · heated debate",
+          "sentence": "The debate quickly turned into a fray when everyone started talking at once.",
+          "highlight": "fray",
+          "tip": "The noun is informal and suggests a loud, chaotic argument."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · declining cooperation",
+          "sentence": "The report describes how working around the clock slowly frayed the alliance.",
+          "highlight": "frayed",
+          "tip": "The past tense fits polished reports and accounts of gradual deterioration."
+        }
+      ],
+      "origin": {
+        "summary": "The verb comes from Middle English frayen, from Old French frayer, meaning to rub or wear away, ultimately from Latin fricare, ‘to rub’. The noun meaning a noisy dispute developed separately.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "fricare means ‘to rub’."
+          },
+          {
+            "when": "Old French",
+            "text": "frayer develops the sense of rubbing or wearing something away."
+          },
+          {
+            "when": "Middle English",
+            "text": "frayen is used for wearing, rubbing, or weakening something."
+          },
+          {
+            "when": "Later Middle English",
+            "text": "The noun fray is established for a noisy conflict or argument."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "fray",
+          "label": "noun (argument or commotion)"
+        }
+      ],
+      "similar": [
+        "unravel",
+        "wear down",
+        "worsen",
+        "weaken"
+      ],
+      "opposite": "strengthen",
+      "pitfall": "Don't confuse fray with flay, which means to remove skin, or fry, which means to cook in hot oil."
+    },
+    {
+      "id": "harass",
+      "kind": "word",
+      "term": "harass",
+      "pos": "verb",
+      "phonetic": "/həˈræs/",
+      "sayIt": "huh-RASS",
+      "register": "Common at work and online",
+      "meaning": "To repeatedly bother, pressure, or threaten someone in a way that makes them feel unsafe or unwelcome.",
+      "nuance": "It usually suggests unwanted behaviour that continues after the other person has objected or asked for space. The term can cover serious situations, including workplace and online harassment.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office conflict · unwanted messages",
+          "sentence": "A manager should never harass an employee after the employee has asked for space.",
+          "highlight": "harass",
+          "tip": "Use it for persistent unwanted behaviour that crosses a workplace boundary."
+        },
+        {
+          "setting": "social",
+          "where": "Social media · hostile comments",
+          "sentence": "Some people harass strangers online by repeatedly posting insulting comments.",
+          "highlight": "harass",
+          "tip": "It fits when conduct keeps going despite a clear request to stop."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal complaint · workplace incident",
+          "sentence": "Please do not harass my colleagues, and stop contacting them outside working hours.",
+          "highlight": "harass",
+          "tip": "This direct wording is suitable for a complaint to a manager, company, or platform."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through French from harceler, meaning to harry, bother, or torment. It entered English with the sense of troubling someone repeatedly.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "French",
+            "text": "From harceler, ‘to harry, trouble, or torment’."
+          },
+          {
+            "when": "1600s",
+            "text": "Appears in English as harass, initially meaning to trouble or vex."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly describes persistent unwanted attention, pressure, or threatening conduct."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "harassment",
+          "label": "noun"
+        },
+        {
+          "term": "harasser",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "pester",
+        "badger",
+        "intimidate",
+        "bully",
+        "molest"
+      ],
+      "pitfall": "Spell it with one r and two s: harass. Don’t confuse it with hassle, which means a troublesome task."
+    },
+    {
+      "id": "hostile",
+      "kind": "word",
+      "term": "hostile",
+      "pos": "adjective",
+      "phonetic": "/ˈhɒstaɪl/",
+      "sayIt": "HOSS-tyle",
+      "register": "Common at work",
+      "meaning": "Showing strong dislike, aggression, or opposition toward someone or something.",
+      "nuance": "It describes both unfriendly feelings and openly confrontational behaviour. It is stronger than simply being cold or critical.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · handling disagreement",
+          "sentence": "The room became hostile after one manager accused another team of missing deadlines.",
+          "highlight": "hostile",
+          "tip": "Use it for a clearly negative atmosphere rather than ordinary workplace tension."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · raising a complaint",
+          "sentence": "He gave me a hostile look and walked out without answering.",
+          "highlight": "hostile",
+          "tip": "A look, tone, or reaction can be hostile even without spoken threats."
+        },
+        {
+          "setting": "writing",
+          "where": "Work email · responding to criticism",
+          "sentence": "The email was hostile, so I replied calmly and focused on the facts.",
+          "highlight": "hostile",
+          "tip": "Use this when describing confrontational wording; in your own email, a softer phrase may work better."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through French from Latin hostilis, meaning “of an enemy” or “hostile to an enemy.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin hostilis developed from hostis, meaning “enemy” or “foreigner.”"
+          },
+          {
+            "when": "1500s",
+            "text": "The word entered English in senses connected with enemies and opposition."
+          },
+          {
+            "when": "Today",
+            "text": "It describes aggressive feelings, behaviour, or attitudes."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "hostility",
+          "label": "noun"
+        },
+        {
+          "term": "hostilely",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "unfriendly",
+        "aggressive",
+        "combative",
+        "antagonistic"
+      ],
+      "opposite": "friendly",
+      "pitfall": "Don’t use hostile for every unpleasant situation; disagreeing with someone does not automatically make them hostile."
+    },
+    {
+      "id": "impede",
+      "kind": "word",
+      "term": "impede",
+      "pos": "verb",
+      "phonetic": "/ɪmˈpiːd/",
+      "sayIt": "im-PEED",
+      "register": "Common at work",
+      "meaning": "To make something slower or more difficult, usually by creating an obstacle.",
+      "nuance": "Impede suggests progress is being held up, but it does not always mean stopping it completely. It is especially common in formal and professional contexts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · delayed approval",
+          "sentence": "A missing budget approval could impede the launch, so let’s contact finance today.",
+          "highlight": "impede",
+          "tip": "Use it when an obstacle slows progress rather than bringing it to a complete halt."
+        },
+        {
+          "setting": "social",
+          "where": "Cycling trip · bad weather",
+          "sentence": "The heavy rain may impede our journey, so we should leave an hour earlier.",
+          "highlight": "impede",
+          "tip": "It can describe obstacles affecting travel, plans or conversations."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining delays",
+          "sentence": "Supply shortages impeded production, although the team maintained its original delivery target.",
+          "highlight": "impeded",
+          "tip": "The past tense is useful for explaining what caused a delay or difficulty in the past."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin impedire, meaning ‘to hobble’ or ‘bind fast’, formed from in- and ped-, related to pes or pedis, ‘foot’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Impedire originally referred to restraining someone’s feet or hobbling them."
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered English with the sense of delaying or obstructing progress."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for anything that makes movement, action or development harder."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "impediment",
+          "label": "noun"
+        },
+        {
+          "term": "impeded",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "hinder",
+        "obstruct",
+        "delay",
+        "hamper"
+      ],
+      "opposite": "facilitate",
+      "pitfall": "Impede is stronger than simply inconvenience someone and often implies a meaningful obstacle to progress."
+    },
+    {
+      "id": "impregnable",
+      "kind": "word",
+      "term": "impregnable",
+      "pos": "adjective",
+      "phonetic": "/ɪmˈpreɡnəbəl/",
+      "sayIt": "im-PREG-nuh-buhl",
+      "register": "Formal",
+      "meaning": "Impossible or extremely difficult to enter, attack, defeat, or overcome.",
+      "nuance": "This suggests a much stronger level of protection than merely being secure or well defended. It is especially common in military, legal, and business contexts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Security review · protecting company data",
+          "sentence": "The encryption makes our customer database practically impregnable, but no system is completely risk-free.",
+          "highlight": "impregnable",
+          "tip": "Use it for strong defenses that are difficult to breach."
+        },
+        {
+          "setting": "social",
+          "where": "Friendly debate · defending a position",
+          "sentence": "Her argument was so well researched that even the sceptics found it practically impregnable.",
+          "highlight": "impregnable",
+          "tip": "It can describe a position that is very difficult to challenge."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · assessing a new security system",
+          "sentence": "Once the final barriers were installed, the storage facility became virtually impregnable.",
+          "highlight": "impregnable",
+          "tip": "Pair it with virtually or practically when you want to avoid claiming absolute certainty."
+        }
+      ],
+      "origin": {
+        "summary": "From French imprenable, meaning ‘not capable of being taken’, based on Latin impregnabilis, ‘cannot be entered or seized’. The original sense was mainly military.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Impregnabilis is formed from in-, ‘not’, and praegnare, ‘to occupy or strengthen’, with the sense of being unable to be entered or overcome."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word first appears with military meanings such as impossible to capture or attack."
+          },
+          {
+            "when": "Today",
+            "text": "It is also used figuratively for defenses, arguments, positions, and institutions that cannot easily be overcome."
+          }
+        ]
+      },
+      "similar": [
+        "invulnerable",
+        "unassailable",
+        "fortified",
+        "secure"
+      ],
+      "opposite": "vulnerable",
+      "pitfall": "Do not confuse it with ‘pregnable’, which means able to be attacked or entered. Impregnable also does not mean difficult to become pregnant."
+    },
+    {
+      "id": "impunity",
+      "kind": "word",
+      "term": "impunity",
+      "pos": "noun",
+      "phonetic": "/ɪmˈpjuːnəti/",
+      "sayIt": "im-PYOO-nuh-tee",
+      "register": "Formal",
+      "meaning": "Freedom from punishment or punishment being avoided for wrongdoing.",
+      "nuance": "It often implies that someone is escaping consequences because of their status, influence or connections. The word is especially common in legal, political and investigative contexts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Compliance meeting · discussing misconduct",
+          "sentence": "Senior staff should not expect impunity when workplace rules are ignored.",
+          "highlight": "impunity",
+          "tip": "Use it to emphasize that harmful or unfair behaviour should have consequences."
+        },
+        {
+          "setting": "social",
+          "where": "Community debate · local corruption",
+          "sentence": "People have lost trust in local officials because misconduct went unpunished with impunity.",
+          "highlight": "impunity",
+          "tip": "It sounds formal and often expresses public frustration with a lack of accountability."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · political corruption",
+          "sentence": "The report warns that political impunity allows abuses of power to continue unchecked.",
+          "highlight": "impunity",
+          "tip": "Strong in editorial and legal writing when describing the absence of consequences."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin impunitas, meaning freedom from punishment, based on impune, meaning without punishment.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Impunitas develops from impune, ‘without punishment’, and refers to exemption from penalty."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English in legal writing with the sense of freedom from prosecution or punishment."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used for situations where wrongdoing is not properly punished."
+          }
+        ]
+      },
+      "similar": [
+        "immunity",
+        "exemption",
+        "escape",
+        "accountability"
+      ],
+      "opposite": "accountability",
+      "pitfall": "Do not confuse impunity with immunity. Immunity usually means formal protection from legal consequences, while impunity focuses more broadly on avoiding punishment for wrongdoing."
+    }
+  ]
+}

@@ -1,0 +1,1731 @@
+{
+  "id": "words-change-time-2",
+  "kind": "word",
+  "name": "Change & time · 2",
+  "blurb": "25 words about change & time",
+  "cards": [
+    {
+      "id": "harbinger",
+      "kind": "word",
+      "term": "harbinger",
+      "pos": "noun",
+      "phonetic": "/ˈhɑːrbɪndʒər/",
+      "sayIt": "HAR-bin-jur",
+      "register": "Formal",
+      "meaning": "A person, event, or sign that points to something important about to happen.",
+      "nuance": "Often suggests an early warning or a sign of future change. It has a slightly formal or literary tone, but can sound natural in thoughtful writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing a market shift",
+          "sentence": "The sudden rise in trial requests may be a harbinger of wider customer demand.",
+          "highlight": "harbinger",
+          "tip": "Use it for an early sign, especially when the coming change is important."
+        },
+        {
+          "setting": "social",
+          "where": "Friends’ gathering · spotting a change",
+          "sentence": "Her new enthusiasm for cycling was a harbinger of a major change in her routine.",
+          "highlight": "harbinger",
+          "tip": "It sounds more polished than clue or sign in conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Industry report · identifying a trend",
+          "sentence": "Rising vacancy rates have long been regarded as a harbinger of an economic slowdown.",
+          "highlight": "harbinger",
+          "tip": "Pairs well with phrases such as a harbinger of change, success, or disaster."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French herbergier, meaning to provide lodging, originally referring to someone who arranged accommodation for travelling troops.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Medieval period",
+            "text": "The word referred to a person sent ahead to find lodging for a military party."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "Its meaning broadened to include anyone or anything that comes before or signals a later event."
+          },
+          {
+            "when": "Today",
+            "text": "It means a sign or announcement of something still to come."
+          }
+        ]
+      },
+      "similar": [
+        "precursor",
+        "omen",
+        "herald",
+        "forerunner",
+        "indicator"
+      ],
+      "opposite": "afterthought",
+      "pitfall": "A harbinger signals what is coming; it is not simply a reminder of something that has already happened."
+    },
+    {
+      "id": "imminent",
+      "kind": "word",
+      "term": "imminent",
+      "pos": "adjective",
+      "phonetic": "/ˈɪmɪnənt/",
+      "sayIt": "IM-i-nent",
+      "register": "Common in formal and professional writing",
+      "meaning": "About to happen or become obvious very soon.",
+      "nuance": "It suggests that something is approaching quickly and often carries a sense of urgency or concern. It is usually used for events, deadlines, problems or dangers that cannot be avoided.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project meeting · raising a risk",
+          "sentence": "We need to act now because a system failure is imminent.",
+          "highlight": "imminent",
+          "tip": "Use it when a serious problem is about to affect work."
+        },
+        {
+          "setting": "social",
+          "where": "Friends · planning dinner",
+          "sentence": "There’s an imminent risk of rain, so let’s eat inside instead.",
+          "highlight": "imminent",
+          "tip": "It sounds more formal and serious than just saying something is about to happen."
+        },
+        {
+          "setting": "writing",
+          "where": "Business update · deadline warning",
+          "sentence": "The deadline is imminent, so please send your final figures by Thursday.",
+          "highlight": "imminent",
+          "tip": "It works well in formal updates when you need to stress the urgency of a deadline."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin imminere, meaning ‘to overhang’ or ‘to threaten’, originally describing something hanging over someone.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Imminere combines in- ‘on or over’ with minere ‘to project, threaten or hang over’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in the sense of threatening or impending."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means about to happen soon, especially when the event is important or unwelcome."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "imminence",
+          "label": "noun"
+        },
+        {
+          "term": "imminently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "impending",
+        "forthcoming",
+        "approaching",
+        "imminent"
+      ],
+      "opposite": "distant",
+      "pitfall": "Don’t use it for anything simply due to happen at some vague future time; it implies that the event is close at hand."
+    },
+    {
+      "id": "immutable",
+      "kind": "word",
+      "term": "immutable",
+      "pos": "adjective",
+      "phonetic": "/ɪˈmjuːtəbəl/",
+      "sayIt": "ih-MYOO-tuh-buhl",
+      "register": "Common in technical and formal English",
+      "meaning": "Unable to be changed, altered or replaced.",
+      "nuance": "Stronger and more absolute than “unchanging.” It often suggests that something is fixed by design, law or principle rather than merely staying the same for a time.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product planning · setting system rules",
+          "sentence": "The audit log is immutable, so even administrators cannot edit earlier entries.",
+          "highlight": "immutable",
+          "tip": "Useful when describing records, permissions, code or product features that must remain fixed."
+        },
+        {
+          "setting": "social",
+          "where": "Discussion · personal principles",
+          "sentence": "My position on fairness is immutable: I won’t treat one person differently from another.",
+          "highlight": "immutable",
+          "tip": "It sounds firm and uncompromising, so use it only for a position you truly intend to keep."
+        },
+        {
+          "setting": "writing",
+          "where": "Policy document · record retention",
+          "sentence": "Archived documents are stored as immutable copies to preserve their original contents.",
+          "highlight": "immutable",
+          "tip": "Pairs naturally with records, values, laws, facts and principles in formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin immutabilis, meaning “unchangeable,” formed from in- and mutare, both relating to change.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Immutabilis combines a prefix meaning “not” with a root meaning “to change.”"
+          },
+          {
+            "when": "1500s",
+            "text": "The word begins appearing in English, especially in legal, philosophical and scientific writing."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in formal English and in computing when data or system behaviour cannot be changed."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "immutability",
+          "label": "noun"
+        },
+        {
+          "term": "immutably",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "unchangeable",
+        "fixed",
+        "permanent",
+        "inviolable"
+      ],
+      "opposite": "mutable",
+      "pitfall": "Don’t use “immutable” merely to mean difficult to change; it means impossible to change."
+    },
+    {
+      "id": "impermanent",
+      "kind": "word",
+      "term": "impermanent",
+      "pos": "adjective",
+      "phonetic": "/ɪmˈpɜːrmənt/",
+      "sayIt": "im-PER-muhnt",
+      "register": "Formal",
+      "meaning": "Not lasting permanently and likely to change or come to an end.",
+      "nuance": "More forceful and philosophical than “temporary,” especially when describing life, beauty or change. It sounds too formal for everyday descriptions of objects or plans.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Strategy review · future planning",
+          "sentence": "Our current market position is impermanent, so we need to keep adapting.",
+          "highlight": "impermanent",
+          "tip": "Use it to explain why a business should avoid becoming overconfident."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · changing plans",
+          "sentence": "Nothing about our weekend plans is impermanent; we’ve changed them twice already.",
+          "highlight": "impermanent",
+          "tip": "It can sound playful when used about arrangements that keep changing."
+        },
+        {
+          "setting": "writing",
+          "where": "Essay · discussing beauty",
+          "sentence": "The essay treats beauty as a brief and impermanent quality rather than a fixed possession.",
+          "highlight": "impermanent",
+          "tip": "Often appears in reflective or academic writing about change and transience."
+        }
+      ],
+      "origin": {
+        "summary": "Built from Latin in-, meaning “not,” and permanens, meaning “lasting.” English uses it chiefly in formal and reflective contexts.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Impermanentem is formed from in-, “not,” and permanens, “lasting” or “remaining.”"
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in the sense of not lasting or remaining unchanged."
+          },
+          {
+            "when": "Today",
+            "text": "It remains formal, especially in discussions of change, life and beauty."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "impermanence",
+          "label": "noun"
+        },
+        {
+          "term": "impermanently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "temporary",
+        "fleeting",
+        "transient",
+        "non-permanent"
+      ],
+      "opposite": "permanent",
+      "pitfall": "Don’t use it for something merely being replaced or moved; “impermanent” focuses on the lack of lasting permanence."
+    },
+    {
+      "id": "impromptu",
+      "kind": "word",
+      "term": "impromptu",
+      "pos": "adjective",
+      "phonetic": "/ɪmˈprɒntjuː/",
+      "sayIt": "im-PRON-too",
+      "register": "Common at work",
+      "meaning": "Done, said or created without preparation.",
+      "nuance": "Often suggests a spontaneous response rather than a carefully planned performance. It can be approving, but it may also hint that more preparation would have been sensible.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · answering a question",
+          "sentence": "I had to give an impromptu explanation when the client asked about our timeline.",
+          "highlight": "impromptu",
+          "tip": "Useful for a comment or action that was not planned in advance."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · joining the conversation",
+          "sentence": "My impromptu toast had everyone laughing, although I had forgotten what I planned to say.",
+          "highlight": "impromptu",
+          "tip": "Often used for a speech, performance or contribution created on the spot."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · noting an unplanned event",
+          "sentence": "The director made an impromptu announcement after the presentation ended early.",
+          "highlight": "impromptu",
+          "tip": "Pairs naturally with announcement, speech, performance or appearance."
+        }
+      ],
+      "origin": {
+        "summary": "Borrowed from French impromptu, from Latin promptus, meaning ‘brought forth’ or ‘open’. It originally described music performed without preparation.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The source word promptus meant ‘brought forth’, ‘open’ or ‘evident’."
+          },
+          {
+            "when": "1600s",
+            "text": "French impromptu comes into use for music performed without preparation."
+          },
+          {
+            "when": "1800s",
+            "text": "The word enters English and develops its broader sense of anything done without planning."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "improvise",
+          "label": "verb"
+        },
+        {
+          "term": "improvisation",
+          "label": "noun"
+        },
+        {
+          "term": "improvised",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "spontaneous",
+        "unplanned",
+        "unprepared",
+        "extempore"
+      ],
+      "opposite": "planned",
+      "pitfall": "Impromptu describes something made or done without preparation; it does not mean something was accidental."
+    },
+    {
+      "id": "inchoate",
+      "kind": "word",
+      "term": "inchoate",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈkoʊət/",
+      "sayIt": "in-KOH-ayt",
+      "register": "Formal",
+      "meaning": "Just beginning or only partly developed, especially a process, plan or body of work.",
+      "nuance": "It suggests that something has started but has not yet reached a complete or settled state. The word is often slightly critical, pointing out gaps that remain to be addressed.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing a new process",
+          "sentence": "Our onboarding process is still inchoate, so new users are finding gaps.",
+          "highlight": "inchoate",
+          "tip": "Use it for an early-stage plan that still needs substantial work."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · meeting new friends",
+          "sentence": "Our little dinner group is still inchoate, but everyone brings someone new.",
+          "highlight": "inchoate",
+          "tip": "It can sound gently humorous when describing something newly formed."
+        },
+        {
+          "setting": "writing",
+          "where": "Book review · assessing the ending",
+          "sentence": "The novel’s final section feels inchoate, as though several threads were introduced too late.",
+          "highlight": "inchoate",
+          "tip": "Useful in formal criticism for work that ends before its ideas are fully developed."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin inchoatus, the past participle of incohare, meaning ‘to begin’. It entered English in the early 1600s and originally referred to something that had begun but was not complete.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin inchoatus means ‘begun’ or ‘begun but not finished’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in legal and philosophical writing."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used for processes, plans and creative works that are still developing."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "inchoation",
+          "label": "noun"
+        },
+        {
+          "term": "inchoately",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "nascent",
+        "embryonic",
+        "initial",
+        "undeveloped"
+      ],
+      "opposite": "fully developed",
+      "pitfall": "Inchoate does not simply mean chaotic or badly organised; its main idea is that something has only just begun to develop."
+    },
+    {
+      "id": "incipient",
+      "kind": "word",
+      "term": "incipient",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈsɪpiənt/",
+      "sayIt": "in-SIP-ee-uhnt",
+      "register": "Formal",
+      "meaning": "Just beginning to exist or develop.",
+      "nuance": "It often describes an early stage before something becomes clearly established or noticeable. The tone is academic or formal, especially in technical and legal writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team briefing · early risk discussion",
+          "sentence": "The team noticed an incipient delay in the data review and adjusted the schedule.",
+          "highlight": "incipient",
+          "tip": "Use it for a problem that has only just started to emerge."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · a new friendship",
+          "sentence": "There were signs of an incipient friendship, though neither person had said much yet.",
+          "highlight": "incipient",
+          "tip": "It can sound slightly detached when describing personal relationships."
+        },
+        {
+          "setting": "writing",
+          "where": "Research summary · stage of a process",
+          "sentence": "The report describes an incipient decline in customer loyalty before the wider changes began.",
+          "highlight": "incipient",
+          "tip": "Pair it with change, decline, growth, stage or process in formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin incipere, meaning “to begin,” with incipient meaning “beginning” or “just starting.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Incipere combines in- “into or beginning with” and capere “to take,” giving the sense of beginning or undertaking."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in legal, scientific and general writing."
+          },
+          {
+            "when": "Today",
+            "text": "It is used mainly in formal writing for something in its earliest stage."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "incipience",
+          "label": "noun"
+        },
+        {
+          "term": "incipiently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "nascent",
+        "emerging",
+        "developing",
+        "initial"
+      ],
+      "opposite": "fully developed",
+      "pitfall": "It means just beginning, so don’t use it for something that is already well established."
+    },
+    {
+      "id": "inevitable",
+      "kind": "word",
+      "term": "inevitable",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈɛvɪtəbəl/",
+      "sayIt": "in-EV-ih-tuh-buhl",
+      "register": "Common at work",
+      "meaning": "Certain to happen and impossible to prevent or avoid.",
+      "nuance": "Use it for outcomes that are already certain, not merely likely. It can sound matter-of-fact or fatalistic, depending on the context.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · missed deadline",
+          "sentence": "Another delay is inevitable unless we add more people to the team.",
+          "highlight": "inevitable",
+          "tip": "Use it to flag a problem clearly without exaggerating how bad it is."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · awkward silence",
+          "sentence": "Someone was going to mention the wedding photos, so the awkward pause was inevitable.",
+          "highlight": "inevitable",
+          "tip": "It often adds a touch of dry humour when you describe an obvious result."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · long-term impact",
+          "sentence": "If demand continues to grow, congestion on this route will become inevitable.",
+          "highlight": "inevitable",
+          "tip": "Pair it with a consequence or outcome to make your reasoning direct."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin inevitabilis, formed from in- ‘not’ and evitare ‘to avoid’. It entered English in the 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Inevitabilis means ‘unavoidable’, from in- ‘not’ and evitare ‘to avoid’."
+          },
+          {
+            "when": "1600s",
+            "text": "Enters English, initially describing something that cannot be avoided or escaped."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly means that an event is certain to happen."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "inevitability",
+          "label": "noun"
+        },
+        {
+          "term": "inevitably",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "unavoidable",
+        "certain",
+        "inescapable",
+        "bound"
+      ],
+      "opposite": "avoidable",
+      "pitfall": "Don’t use inevitable for something that is only possible or probable."
+    },
+    {
+      "id": "inexorable",
+      "kind": "word",
+      "term": "inexorable",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈeksərəbəl/",
+      "sayIt": "in-EX-er-uh-buhl",
+      "register": "Formal",
+      "meaning": "Impossible to stop, prevent, or avoid.",
+      "nuance": "It describes a process or outcome that continues with unstoppable force. It is often used for change, decline, progress, or consequences that cannot be halted.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Strategy meeting · changing market conditions",
+          "sentence": "The rise of automation has been inexorable, so our training plans need to keep pace.",
+          "highlight": "inexorable",
+          "tip": "Use it for a powerful trend or pressure that cannot realistically be stopped."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · ageing and time",
+          "sentence": "The inexorable passing of time eventually changes what matters to us.",
+          "highlight": "inexorable",
+          "tip": "It gives the statement a formal, reflective tone."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · describing consequences",
+          "sentence": "Once the system failed, the resulting repairs were slow and almost inexorable.",
+          "highlight": "inexorable",
+          "tip": "Useful in reports when describing a course of events that could not be prevented."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin inexorabilis, meaning unable to be persuaded or stopped, built from inexorare, ‘to entreat in vain’, and its opposite of exorare, ‘to prevail by entreaty’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root combination means incapable of being stopped or persuaded."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in a formal sense, meaning impossible to resist or prevent."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for unstoppable processes, forces, trends, and consequences."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "inexorably",
+          "label": "adverb"
+        },
+        {
+          "term": "inexorability",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "unstoppable",
+        "inevitable",
+        "relentless",
+        "inescapable"
+      ],
+      "opposite": "preventable",
+      "pitfall": "It means impossible to stop or avoid, not merely difficult to control; use it carefully because it sounds forceful and formal."
+    },
+    {
+      "id": "interminable",
+      "kind": "word",
+      "term": "interminable",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈtɜːrmɪnəbəl/",
+      "sayIt": "in-TER-mi-nuh-buhl",
+      "register": "Formal",
+      "meaning": "Continuing for such a long time that it seems as though it will never end.",
+      "nuance": "It often adds impatience, frustration or weary resignation. It may be rhetorical rather than a precise description of the duration.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · waiting for feedback",
+          "sentence": "The interminable review process is delaying the launch, and everyone is losing patience.",
+          "highlight": "interminable",
+          "tip": "Use it for a process that feels excessively long, especially when discussing delays."
+        },
+        {
+          "setting": "social",
+          "where": "Family dinner · waiting for the check",
+          "sentence": "We spent an interminable hour choosing a restaurant before ordering the same meal we always get.",
+          "highlight": "interminable",
+          "tip": "It can sound lightly humorous when you exaggerate how long something felt."
+        },
+        {
+          "setting": "writing",
+          "where": "Complaint email · missed delivery date",
+          "sentence": "After the interminable wait, the customer felt that a short apology was completely inadequate.",
+          "highlight": "interminable",
+          "tip": "It strengthens formal criticism of a delay, but avoid it when the length can be stated clearly."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin interminabilis, meaning “without end,” formed from inter- and terminus, “a boundary or limit.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Interminabilis develops from elements meaning “without” and “end” or “limit.”"
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with the sense of having no end or bound."
+          },
+          {
+            "when": "Today",
+            "text": "It describes something that continues for an extremely long time."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "interminably",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "endless",
+        "ceaseless",
+        "unending",
+        "protracted"
+      ],
+      "opposite": "brief",
+      "pitfall": "Don't use it for something that is objectively endless; in most situations, it expresses the speaker's feeling that the wait will never end."
+    },
+    {
+      "id": "jettison",
+      "kind": "word",
+      "term": "jettison",
+      "pos": "verb",
+      "phonetic": "/ˈdʒetɪsn/",
+      "sayIt": "JET-ih-sn",
+      "register": "Formal",
+      "meaning": "To throw something away, especially cargo or something no longer considered useful or worthwhile.",
+      "nuance": "The word suggests a deliberate and often urgent decision to discard something burdensome. It can sound dramatic, so it is usually more natural for substantial things than everyday clutter.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · reducing project scope",
+          "sentence": "We may need to jettison the custom reporting feature if the deadline cannot move.",
+          "highlight": "jettison",
+          "tip": "A forceful way to describe removing a costly feature from a project."
+        },
+        {
+          "setting": "social",
+          "where": "Moving apartments · clearing out possessions",
+          "sentence": "When we moved, we jettisoned everything we had not used for a year.",
+          "highlight": "jettisoned",
+          "tip": "It adds urgency and a slightly nautical tone to the idea of getting rid of possessions."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial review · tightening a report",
+          "sentence": "The editor asked us to jettison three sections that repeated the main argument.",
+          "highlight": "jettison",
+          "tip": "Useful in formal writing when material is unnecessary, excessive or no longer valuable."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from French jettison, meaning the act of throwing cargo overboard. Its original nautical sense developed into a general word for discarding something burdensome.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Develops from a French word connected with jeter, ‘to throw’, and Latin jactare, ‘to throw’."
+          },
+          {
+            "when": "1600s",
+            "text": "Appears in English as a nautical term for throwing cargo or waste overboard."
+          },
+          {
+            "when": "Today",
+            "text": "Also means deliberately discarding something costly, burdensome or no longer useful."
+          }
+        ]
+      },
+      "similar": [
+        "discard",
+        "abandon",
+        "unload",
+        "offload",
+        "ditch"
+      ],
+      "opposite": "retain",
+      "pitfall": "Do not spell it with two t’s after the first syllable: it is jettison, not jettisson."
+    },
+    {
+      "id": "metamorphosis",
+      "kind": "word",
+      "term": "metamorphosis",
+      "pos": "noun",
+      "phonetic": "/ˌmetəˈmɔːfəsɪs/",
+      "sayIt": "MET-uh-MOR-fuh-sis",
+      "register": "Formal and literary",
+      "meaning": "A complete change in the form or nature of something.",
+      "nuance": "It often implies a gradual and striking transformation. It can describe a physical change, such as a caterpillar becoming a butterfly, or a major change in a person, organisation or situation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company planning · changing direction",
+          "sentence": "The shift from a small agency to a global consultancy was a remarkable metamorphosis.",
+          "highlight": "metamorphosis",
+          "tip": "Use it for a transformation that changes the organisation’s identity, scale or way of working."
+        },
+        {
+          "setting": "social",
+          "where": "Reunion · old friends meet",
+          "sentence": "Her metamorphosis from nervous presenter to confident speaker surprised everyone.",
+          "highlight": "metamorphosis",
+          "tip": "It works well when describing a change that is obvious and more than a simple adjustment."
+        },
+        {
+          "setting": "writing",
+          "where": "Essay · personal growth",
+          "sentence": "Moving abroad was difficult, but the metamorphosis was worth it.",
+          "highlight": "metamorphosis",
+          "tip": "This slightly dramatic word can add emphasis to a story about deep personal change."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek metamorphōsis, a combining of meta, meaning ‘change’, and morphē, meaning ‘form’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Metamorphōsis referred to a change of form, especially in biology and mythology."
+          },
+          {
+            "when": "1500s",
+            "text": "Entered English in scientific and literary contexts."
+          },
+          {
+            "when": "Today",
+            "text": "Means any striking change in form, nature or identity."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "metamorphose",
+          "label": "verb"
+        },
+        {
+          "term": "metamorphic",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "transformation",
+        "transmutation",
+        "evolution"
+      ],
+      "opposite": "stasis",
+      "pitfall": "The main stress falls on the third syllable: met-a-MOR-phi-sis."
+    },
+    {
+      "id": "modify",
+      "kind": "word",
+      "term": "modify",
+      "pos": "verb",
+      "phonetic": "/ˈmɒdɪfaɪ/",
+      "sayIt": "MOD-ih-fy",
+      "register": "Common at work",
+      "meaning": "To change something slightly so that it is more suitable, effective or accurate.",
+      "nuance": "Often suggests a limited or practical change rather than replacing something completely. It is common for discussing edits, plans, documents and settings.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · adjusting a proposal",
+          "sentence": "Can we modify the proposal to fit the smaller budget?",
+          "highlight": "modify",
+          "tip": "Use it when an existing plan needs a targeted change."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · changing plans",
+          "sentence": "We modified our route because the main road was closed.",
+          "highlight": "modified",
+          "tip": "The past tense works naturally when describing an adjustment that was made."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a client · requesting an edit",
+          "sentence": "Please modify the final section so it focuses on the next quarter’s targets.",
+          "highlight": "modify",
+          "tip": "Pair it with a specific document, feature or section to make the request clear."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin modificare, meaning ‘to moderate, limit or alter’, built from modus, ‘measure, manner or limit’, and facere, ‘to do or make’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Modificare develops the sense of changing or altering something."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters Middle English in the sense of moderate or alter."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means to make a change to something existing."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "modification",
+          "label": "noun"
+        },
+        {
+          "term": "modified",
+          "label": "adjective"
+        },
+        {
+          "term": "modifier",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "change",
+        "adjust",
+        "alter",
+        "amend"
+      ],
+      "opposite": "keep unchanged",
+      "pitfall": "Modify usually means changing something while keeping its basic identity; replace means substituting it with something else."
+    },
+    {
+      "id": "moribund",
+      "kind": "word",
+      "term": "moribund",
+      "pos": "adjective",
+      "phonetic": "/ˈmɔːrɪbʌnd/",
+      "sayIt": "MOR-ih-bund",
+      "register": "Formal",
+      "meaning": "Dying, fading, or no longer active and effective.",
+      "nuance": "It often suggests that something still exists but has lost its energy, purpose, or relevance. The word sounds serious and is especially common for organisations, ideas, systems, and traditions.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · reviewing old processes",
+          "sentence": "Our quarterly planning meeting has become moribund; nobody has challenged the same priorities since March.",
+          "highlight": "moribund",
+          "tip": "Use it when a team, project, or process still exists but no longer creates meaningful progress."
+        },
+        {
+          "setting": "social",
+          "where": "Group discussion · repeating old points",
+          "sentence": "The conversation was lively at first, but it turned moribund once everyone started repeating the same points.",
+          "highlight": "moribund",
+          "tip": "It gives a formal, slightly critical description of something that has become dull or lifeless."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · describing a declining area",
+          "sentence": "The report describes the neighbourhood as moribund, with several shops empty and little street activity.",
+          "highlight": "moribund",
+          "tip": "It is effective in serious writing when you want to show that a place or institution is fading."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Latin moribundus, meaning close to death, and originally referred to a dying person. Its figurative use developed from the idea of something that appears to be fading or near the end.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Developed from mori, ‘to die’, in a form meaning ‘dying’ or ‘near death’."
+          },
+          {
+            "when": "17th century",
+            "text": "Entered English with the literal sense of being close to death."
+          },
+          {
+            "when": "19th century onward",
+            "text": "Became established for institutions, ideas, and activities that were fading or losing vitality."
+          }
+        ]
+      },
+      "similar": [
+        "stagnant",
+        "declining",
+        "fading",
+        "sluggish",
+        "obsolete"
+      ],
+      "opposite": "thriving",
+      "pitfall": "Do not use it as an exact synonym for dead; moribund suggests that something remains but has lost momentum, energy, or relevance."
+    },
+    {
+      "id": "nascent",
+      "kind": "word",
+      "term": "nascent",
+      "pos": "adjective",
+      "phonetic": "/ˈnæsənt/",
+      "sayIt": "NAS-uhnt",
+      "register": "Formal; increasingly common at work",
+      "meaning": "In the early stages of development and not yet fully established.",
+      "nuance": "It describes something beginning to emerge, often with the potential to grow or become important.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product meeting · discussing a new market",
+          "sentence": "The company is targeting a nascent market where demand is still taking shape.",
+          "highlight": "nascent",
+          "tip": "Use it for a market, industry or trend that is growing but not yet mature."
+        },
+        {
+          "setting": "social",
+          "where": "Community event · meeting a new group",
+          "sentence": "It was a nascent neighbourhood group with only a handful of active members.",
+          "highlight": "nascent",
+          "tip": "It sounds more precise than ‘new’ and suggests the group is still developing."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · describing recent developments",
+          "sentence": "The report highlights the nascent interest in electric vehicles across the region.",
+          "highlight": "nascent",
+          "tip": "It fits formal writing when you want to emphasise that something has only just begun to develop."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin nascentem, meaning ‘born’ or ‘beginning to be’, related to nasci, ‘to be born’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Nascentem means ‘born’ or ‘beginning to exist’, derived from nasci, ‘to be born’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English in formal writing, initially meaning ‘just born’."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes markets, industries, movements and ideas in their early stages."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "nascence",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "emerging",
+        "developing",
+        "early-stage",
+        "budding"
+      ],
+      "opposite": "established",
+      "pitfall": "It describes a stage of development, not simply something that is old or new."
+    },
+    {
+      "id": "obsolescence",
+      "kind": "word",
+      "term": "obsolescence",
+      "pos": "noun",
+      "phonetic": "/ˌɒbsəˈlesəns/",
+      "sayIt": "ob-suh-LES-uhns",
+      "register": "Formal; common in business and technology",
+      "meaning": "The process of becoming outdated and falling out of use or production.",
+      "nuance": "It usually describes products, technology or systems that are being replaced because newer options are available. It can also refer to people’s skills or knowledge becoming less valuable over time.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · replacing legacy technology",
+          "sentence": "The obsolescence of our legacy system is driving the migration project.",
+          "highlight": "obsolescence",
+          "tip": "Use it to describe why an old product, system or skill is being replaced."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · buying a new phone",
+          "sentence": "Rapid obsolescence means the phone you bought last year may already need replacing.",
+          "highlight": "obsolescence",
+          "tip": "It fits a businesslike discussion but may sound more technical than “getting old.”"
+        },
+        {
+          "setting": "writing",
+          "where": "Market report · analysing sales",
+          "sentence": "The report links falling sales to product obsolescence and changing customer habits.",
+          "highlight": "obsolescence",
+          "tip": "Pair it with product, technology, equipment or market when discussing business trends."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin obsolescere, meaning ‘to grow old or fall out of use’, related to obsoletus, ‘old, worn out’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "obsolescere, ‘to grow old or become obsolete’, develops from obsoletus, ‘old, worn out’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word obsolete enters English, meaning old, outdated or no longer used."
+          },
+          {
+            "when": "Late 1700s–1800s",
+            "text": "Obsolescence appears as a noun meaning the process of becoming outdated."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "obsolete",
+          "label": "adjective"
+        },
+        {
+          "term": "obsolescent",
+          "label": "adjective"
+        },
+        {
+          "term": "obsolesce",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "outdated",
+        "superseded",
+        "antiquated",
+        "dated"
+      ],
+      "opposite": "continued relevance",
+      "pitfall": "Use obsolescence for the process of becoming outdated; obsolete is the adjective describing the outdated thing itself."
+    },
+    {
+      "id": "originate",
+      "kind": "word",
+      "term": "originate",
+      "pos": "verb",
+      "phonetic": "/əˈrɪdʒɪneɪt/",
+      "sayIt": "uh-RID-jih-nayt",
+      "register": "Common at work",
+      "meaning": "To begin or come into existence.",
+      "nuance": "Often used when a person, organisation or idea creates something or when something develops from a particular source.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · discussing a new initiative",
+          "sentence": "The proposal originated with the customer support team after months of complaints.",
+          "highlight": "originated",
+          "tip": "Use this when you want to identify where an idea or plan first came from."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · explaining a tradition",
+          "sentence": "Our annual picnic originated at my grandmother’s house in the 1970s.",
+          "highlight": "originated",
+          "tip": "It gives a personal story or tradition a clear historical beginning."
+        },
+        {
+          "setting": "writing",
+          "where": "Project report · describing the background",
+          "sentence": "This approach originated in research on remote teams and was later adapted for classroom use.",
+          "highlight": "originated",
+          "tip": "Especially useful for tracing the development of an idea, practice or trend."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin originari, meaning ‘to begin’ or ‘to rise’, which comes from origo, meaning ‘beginning’ or ‘source’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Originari means ‘to begin’ and is built on origo, ‘beginning’ or ‘source’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English in the sense of beginning or taking origin."
+          },
+          {
+            "when": "Today",
+            "text": "It describes the start or creation of something, often with its source in mind."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "origin",
+          "label": "noun"
+        },
+        {
+          "term": "origination",
+          "label": "noun"
+        },
+        {
+          "term": "originator",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "begin",
+        "start",
+        "arise",
+        "emerge"
+      ],
+      "opposite": "terminate",
+      "pitfall": "Don’t confuse originate with originate from: the construction from is normally included when naming the source."
+    },
+    {
+      "id": "perpetuate",
+      "kind": "word",
+      "term": "perpetuate",
+      "pos": "verb",
+      "phonetic": "/pərˈpetʃueɪt/",
+      "sayIt": "per-PECH-oo-ayt",
+      "register": "Formal",
+      "meaning": "To make something continue, especially a situation, practice, belief or problem.",
+      "nuance": "Often used critically when describing systems that keep inequality, conflict or poor practices going. It can also be neutral, but “perpetuate” usually highlights the cause rather than the lasting result.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · reviewing a process",
+          "sentence": "Without clear ownership, this approval process may perpetuate delays across every department.",
+          "highlight": "perpetuate",
+          "tip": "Use it to identify what keeps an ongoing problem in place."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · discussing a tradition",
+          "sentence": "Our celebration perpetuates a family tradition that has brought everyone together for generations.",
+          "highlight": "perpetuates",
+          "tip": "Here it is positive and means “helps a practice continue.”"
+        },
+        {
+          "setting": "writing",
+          "where": "Report · describing a cycle of disadvantage",
+          "sentence": "Unequal access to education can perpetuate lower income across generations.",
+          "highlight": "perpetuate",
+          "tip": "A strong verb for writing about self-reinforcing problems or long-lasting patterns."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin perpetuare, “to make perpetual,” based on perpetuus, meaning “continuous” or “lasting.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Perpetuare means “to make continuous” or “keep going.”"
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with the sense of preserving or continuing something."
+          },
+          {
+            "when": "Today",
+            "text": "It often refers to keeping an undesirable situation or practice alive."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "perpetuation",
+          "label": "noun"
+        },
+        {
+          "term": "perpetuator",
+          "label": "noun (person or thing)"
+        }
+      ],
+      "similar": [
+        "maintain",
+        "sustain",
+        "preserve",
+        "continue"
+      ],
+      "opposite": "end",
+      "pitfall": "Perpetuate means to make something continue; it does not simply mean “continue” on its own."
+    },
+    {
+      "id": "precipitate",
+      "kind": "word",
+      "term": "precipitate",
+      "pos": "verb",
+      "phonetic": "/prɪˈsɪpɪteɪt/",
+      "sayIt": "pri-SIP-uh-tayt",
+      "register": "Formal",
+      "meaning": "To cause something to happen suddenly, often without much warning.",
+      "nuance": "It often suggests that a decision, event or action sets a quick chain of consequences in motion. The word can sound negative, especially when the result is unwanted.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · handling a delay",
+          "sentence": "The delayed server upgrade could precipitate a series of problems for the support team.",
+          "highlight": "precipitate",
+          "tip": "Use it for an event that may trigger further disruption."
+        },
+        {
+          "setting": "social",
+          "where": "Friend’s apology · interrupting plans",
+          "sentence": "I didn’t mean to precipitate such a dramatic reaction, but everyone was already tired.",
+          "highlight": "precipitate",
+          "tip": "It fits when your words or actions cause a sudden response."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining risks",
+          "sentence": "The sudden resignation precipitated an urgent review of responsibilities across the team.",
+          "highlight": "precipitated",
+          "tip": "Use the past form when you are describing what caused a new situation."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin praecipitare, meaning ‘to hasten’ or ‘throw headlong’, from praecipere, meaning ‘to rush or take headlong’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin praecipitare developed meanings connected with haste and falling headlong."
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered English in senses involving hastening or causing something to happen quickly."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means to bring about something suddenly, often with negative consequences."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "precipitation",
+          "label": "noun"
+        },
+        {
+          "term": "precipitated",
+          "label": "adjective"
+        },
+        {
+          "term": "precipitously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "trigger",
+        "spark",
+        "prompt",
+        "instigate"
+      ],
+      "pitfall": "Don’t confuse it with perpetrate, which means to carry out an action or crime. Precipitate focuses on causing something to happen suddenly."
+    },
+    {
+      "id": "procrastinate",
+      "kind": "word",
+      "term": "procrastinate",
+      "pos": "verb",
+      "phonetic": "/prəˈkræstɪneɪt/",
+      "sayIt": "pro-KRAS-tuh-nayt",
+      "register": "Everyday",
+      "meaning": "To delay doing something you should do, often by putting it off until later.",
+      "nuance": "It often suggests avoiding a task through repeated short-term postponement. The word can be critical of yourself or someone else.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · unfinished report",
+          "sentence": "I keep procrastinating on the report, so I’m blocking out an hour tomorrow to finish it.",
+          "highlight": "procrastinating",
+          "tip": "Use it to recognise a pattern of avoidable delay, usually with keep or tend to."
+        },
+        {
+          "setting": "social",
+          "where": "Plans with friends · booking a venue",
+          "sentence": "We’ve been procrastinating, but let’s finally book the restaurant for Friday.",
+          "highlight": "procrastinating",
+          "tip": "It works when you’re gently admitting that you’ve put something off for too long."
+        },
+        {
+          "setting": "writing",
+          "where": "Journal entry · managing a task",
+          "sentence": "I procrastinate when a task feels unclear, so I now start with one small section.",
+          "highlight": "procrastinate",
+          "tip": "Use it to describe a repeated habit and explain what triggers it."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin procrastinare, meaning to postpone until another day. The sense of delaying action has long been established in English.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Procrastinare combines pro, ‘forward’, with crastinus, ‘of tomorrow’, giving the idea of moving something to a later day."
+          },
+          {
+            "when": "1500s",
+            "text": "The word begins appearing in English with the sense of postponing or deferring."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes unnecessary delay in completing a task."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "procrastination",
+          "label": "noun"
+        },
+        {
+          "term": "procrastinator",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "dawdle",
+        "defer",
+        "postpone",
+        "stall"
+      ],
+      "pitfall": "Procrastinate means to delay something you intend to do; postpone can also describe a legitimate decision to move a task to a later date."
+    },
+    {
+      "id": "propagate",
+      "kind": "word",
+      "term": "propagate",
+      "pos": "verb",
+      "phonetic": "/ˈprɒp.ə.ɡeɪt/",
+      "sayIt": "PRO-puh-gayt",
+      "register": "Formal",
+      "meaning": "To spread an idea, message, error or practice from one person or place to others.",
+      "nuance": "The word is neutral and often suggests that something spreads gradually. It is especially common in technical, academic and official contexts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team briefing · sharing successful practices",
+          "sentence": "Once the pilot is stable, we can propagate those practices to other teams.",
+          "highlight": "propagate",
+          "tip": "Use it when actively sharing an approved idea, method or policy across a group."
+        },
+        {
+          "setting": "social",
+          "where": "Group chat · handling a rumour",
+          "sentence": "The rumour propagated through the group before anyone could check it.",
+          "highlight": "propagated",
+          "tip": "This often describes information spreading quickly and beyond its original source."
+        },
+        {
+          "setting": "writing",
+          "where": "Online guide · explaining misinformation",
+          "sentence": "The guide explains how false claims propagate through closed messaging groups.",
+          "highlight": "propagate",
+          "tip": "It is useful in writing about the spread of information, behaviours or errors."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin propagare, meaning ‘to extend, multiply or spread’, formed from pro- (‘forward’) and a root associated with fastening or planting.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Propagare means ‘to extend, multiply or spread’."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English, including the sense of extending or multiplying."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for spreading ideas, practices, messages and errors, as well as growing plants from cuttings."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "propagation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "spread",
+        "disseminate",
+        "circulate",
+        "diffuse"
+      ],
+      "opposite": "eradicate",
+      "pitfall": "Do not confuse it with propaganda: a message can be propagated without anyone deliberately persuading people to accept it."
+    },
+    {
+      "id": "propitious",
+      "kind": "word",
+      "term": "propitious",
+      "pos": "adjective",
+      "phonetic": "/prəˈpɪʃəs/",
+      "sayIt": "pruh-PISH-us",
+      "register": "Formal",
+      "meaning": "Favorable or suitable, especially because the timing or circumstances are especially good.",
+      "nuance": "It suggests that conditions are unusually helpful for success or for a particular event. It is more literary and formal than common alternatives such as “good” or “favorable.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product launch · choosing a date",
+          "sentence": "The team identified a propitious moment to launch the campaign before the industry event.",
+          "highlight": "propitious",
+          "tip": "Use it for timing or conditions that are especially likely to support success."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding conversation · plans for the day",
+          "sentence": "With clear skies and the venue nearly empty, the conditions looked propitious for the ceremony.",
+          "highlight": "propitious",
+          "tip": "It can sound gracious and appreciative when describing ideal circumstances."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal report · assessing an opportunity",
+          "sentence": "The agreement reached at a propitious time for both governments, creating room for further cooperation.",
+          "highlight": "propitious",
+          "tip": "Often appears in formal writing about timing, opportunities and favorable circumstances."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin propitius, meaning “favorable” or “auspicious,” especially in relation to timing or circumstances.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "The Latin word propitius described something favorable, helpful or auspicious."
+          },
+          {
+            "when": "17th century",
+            "text": "The word enters English in formal contexts, especially for favorable timing and circumstances."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal word for an especially favorable opportunity or situation."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "propitiously",
+          "label": "adverb"
+        },
+        {
+          "term": "propitiousness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "auspicious",
+        "favorable",
+        "timely",
+        "fortunate"
+      ],
+      "opposite": "inauspicious",
+      "pitfall": "Do not confuse it with “precious,” “proprietary” or “precipice.” Propitious is connected with favorable timing or circumstances."
+    },
+    {
+      "id": "respite",
+      "kind": "word",
+      "term": "respite",
+      "pos": "noun",
+      "phonetic": "/ˈrɛspaɪt/",
+      "sayIt": "RES-pyte",
+      "register": "Formal",
+      "meaning": "A short period of rest or relief from something difficult or demanding.",
+      "nuance": "A respite gives you time to recover, but it is usually temporary rather than a complete end to the problem.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · easing a deadline",
+          "sentence": "The extra week gives us a brief respite, but we still need to prioritize the final review.",
+          "highlight": "respite",
+          "tip": "Useful for relief that buys time without resolving the underlying pressure."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · after a busy week",
+          "sentence": "We spent the afternoon in the garden, enjoying a welcome respite from our usual routine.",
+          "highlight": "respite",
+          "tip": "It adds a slightly literary tone when describing a welcome break."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · describing a temporary improvement",
+          "sentence": "The agreement brought a short respite, although customer demand continued to rise.",
+          "highlight": "respite",
+          "tip": "Often appears in serious writing about illness, conflict, debt or pressure."
+        }
+      ],
+      "origin": {
+        "summary": "Respite came into Middle English from Old French, ultimately connected to Latin respirare, meaning to pause or breathe again.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "The source language contains a word meaning to pause or breathe again."
+          },
+          {
+            "when": "Medieval English",
+            "text": "Respite enters Middle English, initially meaning a delay or postponement."
+          },
+          {
+            "when": "Later",
+            "text": "The meaning develops into a period of rest or relief from difficulty."
+          }
+        ]
+      },
+      "similar": [
+        "reprieve",
+        "pause",
+        "break",
+        "lull",
+        "interval"
+      ],
+      "opposite": "continuation",
+      "pitfall": "A reprieve is often a release from a difficult situation, such as a suspended sentence, while a respite is mainly a temporary period of rest or relief."
+    },
+    {
+      "id": "retrospect",
+      "kind": "word",
+      "term": "retrospect",
+      "pos": "noun",
+      "phonetic": "/ˈretrəspekt/",
+      "sayIt": "RET-ruh-spekt",
+      "register": "Formal",
+      "meaning": "A look back at something that has happened, especially to understand earlier choices or events.",
+      "nuance": "Most often used in the fixed phrase “in retrospect.” It suggests reviewing the past with the advantage of hindsight.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · assessing a decision",
+          "sentence": "In retrospect, we should have tested the workflow before rolling it out to every team.",
+          "highlight": "retrospect",
+          "tip": "Use this when a later result helps you judge an earlier decision."
+        },
+        {
+          "setting": "social",
+          "where": "Reunion · reflecting on school years",
+          "sentence": "In retrospect, those awkward group trips were probably the best part of the year.",
+          "highlight": "retrospect",
+          "tip": "It sounds more reflective and thoughtful than “looking back.”"
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · reviewing performance",
+          "sentence": "In retrospect, the second quarter showed steady progress despite several delays.",
+          "highlight": "retrospect",
+          "tip": "The phrase works well at the start of a sentence for a measured assessment of the past."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin retrospectum, meaning “a looking back,” built from retro-, “backward,” and specere, “to look.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Retrorspicere forms from retro-, “backward,” and specere, “to look.”"
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English through Latin as a legal and historical term for looking back."
+          },
+          {
+            "when": "Today",
+            "text": "It survives mainly in the expression “in retrospect.”"
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "retrospective",
+          "label": "adjective"
+        },
+        {
+          "term": "retrospective",
+          "label": "noun"
+        },
+        {
+          "term": "retrospectively",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "reflection",
+        "reassessment",
+        "review",
+        "hindsight"
+      ],
+      "opposite": "prospect",
+      "pitfall": "Avoid using “retrospect” alone; “in retrospect” is the standard expression."
+    },
+    {
+      "id": "revert",
+      "kind": "word",
+      "term": "revert",
+      "pos": "verb",
+      "phonetic": "/rɪˈvɜːrt/",
+      "sayIt": "ri-VURT",
+      "register": "Common at work",
+      "meaning": "To go back to an earlier state, decision, version, or course of action.",
+      "nuance": "Often used when a change is reversed or a previous arrangement is restored. It can sound technical when discussing files or systems, but it is also natural in everyday conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product meeting · undoing a workflow change",
+          "sentence": "We’ll revert the approval process to last week’s version until the new rules are tested.",
+          "highlight": "revert",
+          "tip": "Use it with “to” when naming the earlier state or action you are returning to."
+        },
+        {
+          "setting": "social",
+          "where": "Plans with friends · changing arrangements",
+          "sentence": "If the restaurant is fully booked, we can revert to our original plan and cook at home.",
+          "highlight": "revert",
+          "tip": "It sounds slightly formal, but works when discussing a changed plan."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · documenting a rollback",
+          "sentence": "The team reverted the deployment after users reported an error with the payment form.",
+          "highlight": "reverted",
+          "tip": "The past tense is useful for reporting that something was returned to an earlier state."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin revertere, meaning ‘turn back’, from re-, ‘back’, and vertere, ‘turn’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "revertere, ‘to turn back’, formed from re- and vertere, ‘to turn’."
+          },
+          {
+            "when": "1400s",
+            "text": "The word enters English with the sense of turning or returning."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for returning to an earlier state, decision, version, or course of action."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "reversion",
+          "label": "noun"
+        },
+        {
+          "term": "revertible",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "reverse",
+        "return",
+        "roll back",
+        "regress"
+      ],
+      "opposite": "continue",
+      "pitfall": "In computing, “revert” means return to an earlier version; it does not necessarily mean undo the most recent change in every case."
+    }
+  ]
+}

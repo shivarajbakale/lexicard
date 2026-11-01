@@ -1,0 +1,1730 @@
+{
+  "id": "words-speech-persuasion-1",
+  "kind": "word",
+  "name": "Speech & persuasion · 1",
+  "blurb": "25 words about speech & persuasion",
+  "cards": [
+    {
+      "id": "abjure",
+      "kind": "word",
+      "term": "abjure",
+      "pos": "verb",
+      "phonetic": "/æbˈdʒʊə/",
+      "sayIt": "ab-JOOR",
+      "register": "Formal",
+      "meaning": "To formally promise that you will give up or stop doing something.",
+      "nuance": "This has a serious, often ceremonial tone, so it suits declarations, oaths and formal writing more than everyday conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company statement · ending a practice",
+          "sentence": "The executive abjured any involvement in the misleading financial reports.",
+          "highlight": "abjured",
+          "tip": "Use it for a solemn or officially recorded denial."
+        },
+        {
+          "setting": "social",
+          "where": "Family dispute · making a promise",
+          "sentence": "He refused to abjure the habit of criticizing her in front of friends.",
+          "highlight": "abjure",
+          "tip": "The word can sound old-fashioned in casual speech, but it adds gravity."
+        },
+        {
+          "setting": "writing",
+          "where": "Legal letter · withdrawing a claim",
+          "sentence": "The claimant agreed to abjure all future claims concerning the disputed property.",
+          "highlight": "abjure",
+          "tip": "It fits formal language about promises, allegations or allegiance."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin abjurare: ab- meant ‘away from’ and jurare meant ‘to swear’, giving the sense of swearing something away.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Abjurare combines ‘away from’ with ‘to swear’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in legal and religious contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly formal, especially in writing and sworn statements."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "abjuration",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "forswear",
+        "renounce",
+        "recant",
+        " repudiate"
+      ],
+      "pitfall": "Don’t confuse it with adjure, which means to urge or command someone to do something."
+    },
+    {
+      "id": "acerbic",
+      "kind": "word",
+      "term": "acerbic",
+      "pos": "adjective",
+      "phonetic": "/əˈsɜːr.bɪk/",
+      "sayIt": "uh-SER-bik",
+      "register": "Common at work",
+      "meaning": "Harsh, sharp, and often cleverly critical in tone.",
+      "nuance": "It can describe witty criticism that lands with precision, but it usually feels more cutting than playful.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team review · discussing a weak proposal",
+          "sentence": "Her acerbically honest feedback made us reconsider every part of the plan.",
+          "highlight": "acerbically",
+          "tip": "Use the adverb when the sharpness comes from the way feedback is delivered."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · joking about bad service",
+          "sentence": "His acerbically funny review of the restaurant was mean, but somehow hard to forget.",
+          "highlight": "acerbically",
+          "tip": "This form often signals that the criticism is being treated as humorous."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · evaluating a frustrating film",
+          "sentence": "The film is stylish but acerbic, with a script full of sharp attacks on Hollywood.",
+          "highlight": "acerbic",
+          "tip": "Often describes humour, dialogue, criticism, or a tone of biting wit."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin acerbus, meaning ‘sour’ or ‘harsh’, including figurative uses for unpleasant or severe speech.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "Acerbus originally described a sour taste and came to mean harsh or severe in manner."
+          },
+          {
+            "when": "1700s",
+            "text": "The word enters English and is used for harsh language or criticism."
+          },
+          {
+            "when": "Today",
+            "text": "It often describes sharp, witty remarks that also carry a degree of cruelty."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "acerbity",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "caustic",
+        "biting",
+        "sardonic",
+        "tart"
+      ],
+      "opposite": "gentle",
+      "pitfall": "Acerbic usually means verbally sharp; use acrid for a strong, unpleasant smell or taste."
+    },
+    {
+      "id": "acknowledge",
+      "kind": "word",
+      "term": "acknowledge",
+      "pos": "verb",
+      "phonetic": "/əkˈnɒlɪdʒ/",
+      "sayIt": "uh-KNOL-ijd",
+      "register": "Common at work",
+      "meaning": "To accept that something is true, recognize someone’s contribution, or confirm that you have received something.",
+      "nuance": "It can sound neutral and professional in meetings and formal messages. When used personally, it often suggests that you are giving something fair consideration rather than simply agreeing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing feedback",
+          "sentence": "I acknowledge that the earlier estimate was too optimistic, so we have adjusted the plan.",
+          "highlight": "acknowledge",
+          "tip": "Use this before explaining a change; it shows that you have considered the concern."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · hearing a personal concern",
+          "sentence": "She acknowledged my concern and promised to call me after she had checked.",
+          "highlight": "acknowledged",
+          "tip": "Useful when you want to show that someone’s point was heard without immediately agreeing."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · confirming receipt",
+          "sentence": "Please acknowledge receipt of the updated contract once you have reviewed it.",
+          "highlight": "acknowledge",
+          "tip": "Common in formal emails when you need confirmation that a document or request has arrived."
+        }
+      ],
+      "origin": {
+        "summary": "The word developed from an older blend of the prefix ad-, meaning ‘to’ or ‘toward,’ and knowledge, with a later change in the middle consonant.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Late Middle English",
+            "text": "The word appears in the sense of admitting that something is known or true."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "Its uses expand to include recognizing a person, statement or contribution."
+          },
+          {
+            "when": "Today",
+            "text": "It is common for admitting facts, recognizing contributions and confirming receipt."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "acknowledgement",
+          "label": "noun"
+        },
+        {
+          "term": "acknowledgment",
+          "label": "noun"
+        },
+        {
+          "term": "acknowledged",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "recognize",
+        "admit",
+        "confirm",
+        "accept"
+      ],
+      "opposite": "deny",
+      "pitfall": "Acknowledging a problem means recognizing it; it does not necessarily mean apologizing for it."
+    },
+    {
+      "id": "advocate",
+      "kind": "word",
+      "term": "advocate",
+      "pos": "verb",
+      "phonetic": "/ˈædvəkeɪt/",
+      "sayIt": "AD-vuh-kayt",
+      "register": "Common at work and in formal writing",
+      "meaning": "To publicly support or argue for a particular cause, policy, or course of action.",
+      "nuance": "Often more formal than “support” because it suggests presenting reasons as well as expressing agreement. As a noun, an advocate is a person who campaigns for a cause.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product planning · debating priorities",
+          "sentence": "Several engineers advocated a smaller release so the team could fix security flaws before launch.",
+          "highlight": "advocated",
+          "tip": "Use it when you are putting forward a position and giving reasons for it."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner plans · changing arrangements",
+          "sentence": "She advocated moving the dinner indoors because the weather had turned cold.",
+          "highlight": "advocated",
+          "tip": "It can sound formal, so it suits a clear recommendation better than a casual preference."
+        },
+        {
+          "setting": "writing",
+          "where": "Policy report · recommending change",
+          "sentence": "The report advocates clearer consent forms before users share personal data.",
+          "highlight": "advocates",
+          "tip": "Pairs naturally with policies, reforms, principles, safety and environmental protection."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Latin advocare, meaning “call to,” through Old French advocate. Its earliest English uses were legal before it broadened to describe support for any cause.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old Latin",
+            "text": "Advocare means “call to” or “summon,” formed from ad, “to,” and vocare, “call.”"
+          },
+          {
+            "when": "Medieval English",
+            "text": "Enters English through Old French advocate and Latin advocatus, initially referring to someone who defended another in court."
+          },
+          {
+            "when": "1600s onward",
+            "text": "The meaning broadens beyond law to include anyone who argues for a cause or supports a position."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "advocate",
+          "label": "noun"
+        },
+        {
+          "term": "advocacy",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "support",
+        "champion",
+        "endorse",
+        "promote",
+        "recommend"
+      ],
+      "opposite": "oppose",
+      "pitfall": "The verb is often pronounced /ˈædvəkeɪt/, while the noun is commonly /ˈædvəkət/ in American English. “Advocate a policy” is usually more concise than “advocate for a policy.”"
+    },
+    {
+      "id": "aphoristic",
+      "kind": "word",
+      "term": "aphoristic",
+      "pos": "adjective",
+      "phonetic": "/ˌæfəˈrɪstɪk/",
+      "sayIt": "AF-uh-RIS-tik",
+      "register": "Formal",
+      "meaning": "Expressed as a short, memorable statement that offers a useful idea or general truth.",
+      "nuance": "Aphoristic writing is concise and often sharply insightful, but it can sound more definite or philosophical than a detailed explanation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · choosing priorities",
+          "sentence": "Her aphoristic advice cut through the debate: focus on the customer problem, not the feature list.",
+          "highlight": "aphoristic",
+          "tip": "Use it for writing or speech that compresses a lesson into a memorable line."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · discussing ambition",
+          "sentence": "His aphoristic comment—“Do the work that makes the work easier”—made everyone laugh and think.",
+          "highlight": "aphoristic",
+          "tip": "It often fits a clever, self-contained remark rather than a long opinion."
+        },
+        {
+          "setting": "writing",
+          "where": "Essay introduction · exploring good judgement",
+          "sentence": "The essay opens with an aphoristic claim: “Experience is not what happens to you, but what you do with it.”",
+          "highlight": "aphoristic",
+          "tip": "Pair it with a concise statement, especially when introducing a broader argument."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek aphoristikos, “expressed in aphorisms,” related to aphorismos, a statement or proverb.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Aphorismos referred to a concise statement, often a proverb or memorable saying."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "Aphoristic entered English as a word for writing in the style of brief, pointed sayings."
+          },
+          {
+            "when": "Today",
+            "text": "It describes language that is compact, memorable and shaped around a striking general truth."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "aphorism",
+          "label": "noun"
+        },
+        {
+          "term": "aphoristically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "pithy",
+        "epigrammatic",
+        "proverbial",
+        "concise"
+      ],
+      "opposite": "discursive",
+      "pitfall": "An aphoristic statement is brief and pointed; it is not the same as an aphorism, which is the statement itself."
+    },
+    {
+      "id": "blatant",
+      "kind": "word",
+      "term": "blatant",
+      "pos": "adjective",
+      "phonetic": "/ˈbleɪtənt/",
+      "sayIt": "BLAY-tuhnt",
+      "register": "Common at work",
+      "meaning": "So obvious or noticeable that it cannot easily be ignored.",
+      "nuance": "It often suggests that something is being displayed openly without shame. It can describe an obvious fact, but it may also imply that the behaviour is deliberate and brazen.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · addressing repeated delays",
+          "sentence": "There’s a blatant disregard for the deadline in this release plan.",
+          "highlight": "blatant",
+          "tip": "Use it when the problem is extremely visible and difficult to excuse."
+        },
+        {
+          "setting": "social",
+          "where": "Group chat · correcting a false claim",
+          "sentence": "His blatant lie left everyone feeling betrayed.",
+          "highlight": "blatant",
+          "tip": "It emphasizes deception or misconduct that is obvious to everyone."
+        },
+        {
+          "setting": "writing",
+          "where": "Complaint email · reporting unfair treatment",
+          "sentence": "The company’s blatant discrimination cannot be justified by its policies.",
+          "highlight": "blatant",
+          "tip": "It gives a strong, direct tone, so reserve it for clearly serious conduct."
+        }
+      ],
+      "origin": {
+        "summary": "The word developed from a Scots word meaning “bleating,” then came to mean loud and conspicuous before gaining its modern sense of obvious.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Appears in Scots-derived English, initially associated with loud or noisy speech."
+          },
+          {
+            "when": "1800s",
+            "text": "Develops the meaning “conspicuous, obvious, or glaringly evident.”"
+          },
+          {
+            "when": "Today",
+            "text": "Commonly describes something openly noticeable, especially misconduct or disregard."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "blatantly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "obvious",
+        "flagrant",
+        "egregious",
+        "outright"
+      ],
+      "opposite": "subtle",
+      "pitfall": "Blatant is stronger than obvious and can suggest deliberate, shameless behaviour, so avoid using it for merely noticeable things."
+    },
+    {
+      "id": "brash",
+      "kind": "word",
+      "term": "brash",
+      "pos": "adjective",
+      "phonetic": "/bræʃ/",
+      "sayIt": "BRASH",
+      "register": "Informal; often critical",
+      "meaning": "Bold, loud, and confident in a way that can seem overconfident or disrespectful.",
+      "nuance": "Brash usually suggests a lack of tact or restraint. It can describe confident behaviour, a flashy style, or speech that sounds bold and forceful.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · challenging a senior colleague",
+          "sentence": "His brash reply made the discussion more tense than it needed to be.",
+          "highlight": "brash",
+          "tip": "Use it for behaviour or speech that sounds confident but poorly judged."
+        },
+        {
+          "setting": "social",
+          "where": "Party · introducing yourself",
+          "sentence": "He was brash and loud, but people still wanted to talk to him.",
+          "highlight": "brash",
+          "tip": "This highlights an energetic or showy manner that may attract attention."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · describing a colleague",
+          "sentence": "Her brash confidence impressed clients, though some teammates found it abrasive.",
+          "highlight": "brash",
+          "tip": "Pair it with a positive or negative detail to show what the confidence achieved."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin of brash is uncertain. It is often linked to an older word associated with a sudden noise or a crack, which may explain its sense of loudness and abruptness.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "May be related to an old word meaning a sudden noise or crack, though the connection is uncertain."
+          },
+          {
+            "when": "Early modern period",
+            "text": "Brash appears in English with senses connected with loudness, sharpness, and boldness."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly means bold, loud, and sometimes impudent or overly forceful."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "brashly",
+          "label": "adverb"
+        },
+        {
+          "term": "brashness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "bold",
+        "impudent",
+        "loud",
+        "flashy",
+        "abrasive"
+      ],
+      "opposite": "reserved",
+      "pitfall": "Brash is more critical than bold; bold can be positive, while brash usually suggests excess or poor judgement."
+    },
+    {
+      "id": "cacophony",
+      "kind": "word",
+      "term": "cacophony",
+      "pos": "noun",
+      "phonetic": "/kəˈkɒfəni/",
+      "sayIt": "KAK-uh-fuh-nee",
+      "register": "Everyday",
+      "meaning": "A harsh, unpleasant mixture of sounds.",
+      "nuance": "It is a strong word for noise that feels discordant, overwhelming, or hard to tolerate. It can describe a place, a group of people, or a collection of sounds.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Open-plan office · busy afternoon",
+          "sentence": "The office cacophony made it impossible to hear the client’s question.",
+          "highlight": "cacophony",
+          "tip": "Use it when several sounds combine into an especially noisy environment."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · crowded room",
+          "sentence": "We stepped outside to escape the dinner party cacophony.",
+          "highlight": "cacophony",
+          "tip": "This adds a slightly literary or dramatic tone to a description of noisy social situations."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel review · describing an airport",
+          "sentence": "The report describes the airport as a cacophony of announcements, engines, and footsteps.",
+          "highlight": "cacophony",
+          "tip": "It works well before a list of sounds when you want to emphasise disorder and noise."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek kakophōnia, meaning ‘bad sound’, built from kakos, ‘bad’, and phōnē, ‘sound or voice’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Kakophōnia is formed from kakos, ‘bad’, and phōnē, ‘sound or voice’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English and is used for a harsh mixture of sounds."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal or literary word for especially unpleasant noise."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "cacophonous",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "din",
+        "discord",
+        "racket",
+        "hubbub"
+      ],
+      "opposite": "harmony",
+      "pitfall": "Use it for a particularly unpleasant mixture of sounds, not for one isolated loud noise."
+    },
+    {
+      "id": "cajole",
+      "kind": "word",
+      "term": "cajole",
+      "pos": "verb",
+      "phonetic": "/kəˈdʒoʊl/",
+      "sayIt": "kuh-JOHL",
+      "register": "Common at work and socially",
+      "meaning": "To persuade someone gently by using flattering talk or promises.",
+      "nuance": "It often suggests that the persuasion is excessive or not entirely sincere. The word can sound charming in friendly contexts but manipulative when someone is trying to get a favour.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · asking for extra help",
+          "sentence": "She cajoled her colleague into taking on the presentation, then shared the credit.",
+          "highlight": "cajoled",
+          "tip": "Use it when sweet-talking may hide a pressure to agree."
+        },
+        {
+          "setting": "social",
+          "where": "Party · persuading a friend to stay longer",
+          "sentence": "We cajoled Sam into staying for one more drink with promises of an excellent story.",
+          "highlight": "cajoled",
+          "tip": "It works well for playful persuasion, especially when the other person is initially reluctant."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · requesting a deadline extension",
+          "sentence": "The update was cajoled out of the client, although she still expected the work on Monday.",
+          "highlight": "cajoled",
+          "tip": "This slightly critical word is useful when describing how someone obtained something through flattery."
+        }
+      ],
+      "origin": {
+        "summary": "Probably comes from French cajoler, meaning to chatter or flatter. Its earlier history is uncertain, and some proposed links to Old French words are disputed.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "French",
+            "text": "Cajoler appears in French with senses connected with chatting, coaxing and flattering."
+          },
+          {
+            "when": "1600s",
+            "text": "The word begins appearing in English with the sense of flattering or persuading by pleasant words."
+          },
+          {
+            "when": "Today",
+            "text": "It usually carries a mildly critical suggestion that the persuasion is calculated."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "cajolery",
+          "label": "noun"
+        },
+        {
+          "term": "cajoler",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "coax",
+        "sweet-talk",
+        "wheedle",
+        "flatter",
+        "entice"
+      ],
+      "opposite": "bluntly request",
+      "pitfall": "Cajole usually implies flattery or calculated persuasion, so it is less suitable for straightforward, honest requests."
+    },
+    {
+      "id": "cant",
+      "kind": "word",
+      "term": "cant",
+      "pos": "noun",
+      "phonetic": "/kænt/",
+      "sayIt": "KANT",
+      "register": "Uncommon; literary or formal",
+      "meaning": "Speech or behaviour that expresses false feelings or opinions in an exaggerated, insincere way.",
+      "nuance": "The word is critical and old-fashioned. It suggests empty or hypocritical talk rather than a simple mistake or awkward phrase.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · questioning praise",
+          "sentence": "His effusive praise sounded like cant rather than a genuine assessment of the work.",
+          "highlight": "cant",
+          "tip": "Use this when describing language that appears sincere but clearly is not."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · someone claims to care",
+          "sentence": "She kept praising the food, but her constant complaints made it clear it was cant.",
+          "highlight": "cant",
+          "tip": "It is blunt and literary, so reserve it for clear cases of insincerity."
+        },
+        {
+          "setting": "writing",
+          "where": "Essay · criticising a public statement",
+          "sentence": "The speech offered familiar virtues, but its cant concealed a narrow and self-serving message.",
+          "highlight": "cant",
+          "tip": "A useful, formal word for discussing manipulative or hypocritical language."
+        }
+      ],
+      "origin": {
+        "summary": "The word probably developed from older English and continental sources connected with talking, quacking or making a show of speech, but its exact origin is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Middle English",
+            "text": "Early forms appear in connection with speech, chatter and mannerisms."
+          },
+          {
+            "when": "1600s",
+            "text": "The sense of affected or insincere talk becomes established."
+          },
+          {
+            "when": "Today",
+            "text": "The word survives mainly in literary, philosophical and critical contexts."
+          }
+        ]
+      },
+      "similar": [
+        "hypocrisy",
+        "pretense",
+        "affected manner",
+        "empty rhetoric"
+      ],
+      "opposite": "candor",
+      "pitfall": "This noun is now uncommon and sounds deliberately formal. Do not confuse it with “can’t,” the contraction of “cannot.”"
+    },
+    {
+      "id": "cogent",
+      "kind": "word",
+      "term": "cogent",
+      "pos": "adjective",
+      "phonetic": "/ˈkoʊdʒənt/",
+      "sayIt": "KOH-jent",
+      "register": "Common at work",
+      "meaning": "Clear, logical, and convincing, especially when expressing an idea or argument.",
+      "nuance": "It suggests that something is powerful because its reasoning is easy to follow. It is usually more approving than merely relevant or sensible.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team presentation · proposing a strategy",
+          "sentence": "She made a cogent case for simplifying the approval process before adding more tools.",
+          "highlight": "cogent",
+          "tip": "Use it when praise is focused on the strength and clarity of an argument."
+        },
+        {
+          "setting": "social",
+          "where": "Group discussion · settling a disagreement",
+          "sentence": "His cogent explanation finally helped everyone understand why the plan had changed.",
+          "highlight": "cogent",
+          "tip": "It sounds slightly formal, so it suits a serious discussion more than casual chat."
+        },
+        {
+          "setting": "writing",
+          "where": "Recommendation email · supporting a proposal",
+          "sentence": "The report offers a cogent argument for moving the deadline and reducing the initial scope.",
+          "highlight": "cogent",
+          "tip": "Pairs naturally with argument, case, explanation, reason and analysis."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin cogentem, meaning ‘drawn together’ or ‘compelling’, based on agere, ‘to drive’ or ‘to do’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Cogent- combines com-, an intensive prefix, with agere, ‘to drive’, giving the idea of being driven or compelled."
+          },
+          {
+            "when": "1600s",
+            "text": "Enters English with meanings connected to conviction, force, and compelling reasoning."
+          },
+          {
+            "when": "Today",
+            "text": "Mainly describes an argument or explanation that is clear and convincing."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "cogently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "convincing",
+        "persuasive",
+        "forceful",
+        "coherent",
+        "compelling"
+      ],
+      "opposite": "unconvincing",
+      "pitfall": "Do not use cogent simply to mean relevant; a cogent argument is not only on-topic but also logically strong and convincing."
+    },
+    {
+      "id": "compelling",
+      "kind": "word",
+      "term": "compelling",
+      "pos": "adjective",
+      "phonetic": "/kəmˈpɛlɪŋ/",
+      "sayIt": "kuhm-PEL-ing",
+      "register": "Common at work",
+      "meaning": "Strongly convincing or interesting enough to hold someone’s attention.",
+      "nuance": "It describes an argument, story, performance or idea that makes people believe it or want to keep listening. It can also suggest that something is so interesting or attractive that it demands attention.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Pitch meeting · justifying a proposal",
+          "sentence": "She made a compelling case for simplifying the approval process.",
+          "highlight": "compelling",
+          "tip": "Use it before evidence, case, reason or argument when the point is especially persuasive."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · recommending a film",
+          "sentence": "The documentary was so compelling that we stayed up discussing it for hours.",
+          "highlight": "compelling",
+          "tip": "It can describe something that grips attention, not just something that proves a point."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · presenting a recommendation",
+          "sentence": "The novel offers a compelling portrait of family expectations and quiet resistance.",
+          "highlight": "compelling",
+          "tip": "A useful all-purpose adjective for writing that holds attention or creates a strong impression."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin compellere, meaning ‘to force’ or ‘drive’, including the sense of compelling someone to act. Its modern sense developed through the idea of powerlessly attracting or convincing.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Compellere meant ‘to force’ or ‘drive’, and was also used for compelling a person to do something."
+          },
+          {
+            "when": "1400s–1600s",
+            "text": "Entered English with meanings connected to force, authority and irresistible influence."
+          },
+          {
+            "when": "1700s onward",
+            "text": "Expanded to describe evidence, arguments and works that strongly attract attention."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "compellingly",
+          "label": "adverb"
+        },
+        {
+          "term": "compellingness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "convincing",
+        "persuasive",
+        "gripping",
+        "riveting",
+        "compulsory"
+      ],
+      "opposite": "unconvincing",
+      "pitfall": "Don’t confuse compelling with compulsory, which means required by rules or authority."
+    },
+    {
+      "id": "declaim",
+      "kind": "word",
+      "term": "declaim",
+      "pos": "verb",
+      "phonetic": "/dɪˈkleɪm/",
+      "sayIt": "di-KLAYM",
+      "register": "Formal",
+      "meaning": "To speak loudly and emphatically, especially in a dramatic or public way.",
+      "nuance": "It often suggests a forceful, theatrical delivery rather than calm explanation. It can also mean to assert something loudly, whether or not it is true.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company presentation · defending a proposal",
+          "sentence": "She declaimed the key results from the stage while the team watched the slides.",
+          "highlight": "declaimed",
+          "tip": "Use it for emphatic public speaking, not for a routine explanation."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · announcing the menu",
+          "sentence": "He declaimed that the homemade pizza was far better than anything from the store.",
+          "highlight": "declaimed",
+          "tip": "It adds a humorous, exaggerated sense of importance to the announcement."
+        },
+        {
+          "setting": "writing",
+          "where": "Opinion column · criticising a policy",
+          "sentence": "The minister declaimed that the new rules would help everyone, but few details were given.",
+          "highlight": "declaimed",
+          "tip": "It can suggest a forceful assertion, often with a hint of scepticism."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin declamare, meaning ‘to speak aloud’ or ‘to shout’, formed from de- and clamare, ‘to call or cry out’. It originally referred to formal practice in public speaking.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "declamare, ‘to speak aloud’, from de- and clamare, ‘to call or cry out’."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "Enters English in the sense of speaking loudly or making a formal speech."
+          },
+          {
+            "when": "Today",
+            "text": "Often means to speak theatrically or assert something emphatically."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "declamation",
+          "label": "noun"
+        },
+        {
+          "term": "declaimer",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "proclaim",
+        "announce",
+        "intone",
+        "denounce"
+      ],
+      "opposite": "murmur",
+      "pitfall": "Declaim focuses on the loud or theatrical way of speaking; it does not mean to explain clearly or quietly."
+    },
+    {
+      "id": "demur",
+      "kind": "word",
+      "term": "demur",
+      "pos": "verb & noun",
+      "phonetic": "/dɪˈmɜːr/",
+      "sayIt": "dih-MUR",
+      "register": "Formal",
+      "meaning": "To raise an objection or hesitate, especially in a formal setting; as a noun, a hesitation or objection.",
+      "nuance": "It suggests a cautious, restrained objection rather than a forceful refusal. The word can sound formal or old-fashioned in casual conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Board discussion · funding timeline",
+          "sentence": "There was some demur from the board about committing to the project so early.",
+          "highlight": "demur",
+          "tip": "As a noun, this often appears in phrases such as 'some demur from'."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · singing request",
+          "sentence": "She demurred when asked to sing, then joined the chorus after one verse.",
+          "highlight": "demurred",
+          "tip": "This is a formal alternative to saying that someone hesitated or declined."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · committee wording",
+          "sentence": "The committee demurred at the wording, but approved the proposal after a small revision.",
+          "highlight": "demurred",
+          "tip": "Use 'demur at' when the person or group objects to a proposal, plan or phrase."
+        }
+      ],
+      "origin": {
+        "summary": "Borrowed from French demur, meaning 'to stay or delay', from Old French demeurer and ultimately Latin demorari. Its English meaning developed from delaying to raising an objection.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "Entered English from French with the sense of staying, lingering or delaying."
+          },
+          {
+            "when": "1600s",
+            "text": "Developed the related meaning of objecting or expressing doubt."
+          },
+          {
+            "when": "Today",
+            "text": "Remains mainly formal, especially in legal, academic and committee discussions."
+          }
+        ]
+      },
+      "similar": [
+        "object",
+        "hesitate",
+        "protest",
+        "raise doubts"
+      ],
+      "opposite": "agree",
+      "pitfall": "Usually use it with 'at', as in 'demur at the proposal'. Do not confuse it with demure, which means reserved or modest."
+    },
+    {
+      "id": "denote",
+      "kind": "word",
+      "term": "denote",
+      "pos": "verb",
+      "phonetic": "/dɪˈnəʊt/",
+      "sayIt": "di-NOHT",
+      "register": "Formal",
+      "meaning": "To be a sign or label that shows something has a particular meaning.",
+      "nuance": "Common in academic, technical and analytical writing. It describes what a word, symbol or sign signifies, rather than what it suggests.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · interpreting customer data",
+          "sentence": "The abbreviation “PTO” may denote paid time off, but check your company’s policy before using it.",
+          "highlight": "denote",
+          "tip": "Use it when explaining what a label or symbol stands for."
+        },
+        {
+          "setting": "social",
+          "where": "Group chat · clarifying a symbol",
+          "sentence": "In this app, the red dot denotes an unread message, while the green dot shows that someone is online.",
+          "highlight": "denotes",
+          "tip": "It works naturally when a visible sign communicates a specific status."
+        },
+        {
+          "setting": "writing",
+          "where": "Academic paragraph · defining terminology",
+          "sentence": "In this study, the term “early leaver” denotes any participant who left the programme before its final stage.",
+          "highlight": "denotes",
+          "tip": "Use it to introduce a precise definition without repeating the definition itself."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin denotare, formed from de- ‘to mark’ and notare ‘to mark or name’, meaning ‘to mark out’ or ‘to designate’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Denotare originally meant ‘to mark out’ or ‘to designate clearly’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in senses connected with naming, marking and indicating."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used to explain the precise meaning of a word, symbol or sign."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "denotation",
+          "label": "noun"
+        },
+        {
+          "term": "denotative",
+          "label": "adjective"
+        },
+        {
+          "term": "denotatively",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "signify",
+        "indicate",
+        "represent",
+        "stand for"
+      ],
+      "opposite": "connote",
+      "pitfall": "Don’t confuse it with connote. To denote is to indicate a direct meaning; to connote is to suggest an additional association."
+    },
+    {
+      "id": "depict",
+      "kind": "word",
+      "term": "depict",
+      "pos": "verb",
+      "phonetic": "/dɪˈpɪkt/",
+      "sayIt": "di-PIKT",
+      "register": "Formal",
+      "meaning": "To show or describe someone or something in a picture, diagram or piece of writing.",
+      "nuance": "Common in formal writing when an image, chart or detailed description represents a person, place or idea. It is more neutral and polished than “draw” or “show.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client presentation · explaining a process",
+          "sentence": "The second chart depicts how customer requests move through the support team.",
+          "highlight": "depicts",
+          "tip": "Use it to introduce what a chart, diagram or image represents."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · describing an event",
+          "sentence": "My sketch depicts the market on a busy Saturday morning.",
+          "highlight": "depicts",
+          "tip": "It works when you are pointing out what an artwork or visual scene represents."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel review · describing a place",
+          "sentence": "The novel depicts village life with warmth and careful detail.",
+          "highlight": "depicts",
+          "tip": "Often followed by a person, place, scene or situation shown in a work of art."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin de- and picere, a form of pingere, meaning “to paint.” The word originally referred to painting or representing something in a picture.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Depingere combines de- with picere, from pingere, “to paint.”"
+          },
+          {
+            "when": "1600s",
+            "text": "Enters English with meanings connected with painting and representing in images."
+          },
+          {
+            "when": "Today",
+            "text": "Used for images, diagrams and written descriptions that represent people, places or ideas."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "depiction",
+          "label": "noun"
+        },
+        {
+          "term": "depicted",
+          "label": "past tense"
+        },
+        {
+          "term": "depicting",
+          "label": "present participle"
+        }
+      ],
+      "similar": [
+        "portray",
+        "illustrate",
+        "represent",
+        "describe"
+      ],
+      "opposite": "conceal",
+      "pitfall": "Don't use it for an object simply being present in a scene; use “feature” or “include” instead."
+    },
+    {
+      "id": "diatribe",
+      "kind": "word",
+      "term": "diatribe",
+      "pos": "noun",
+      "phonetic": "/ˈdaɪətraɪb/",
+      "sayIt": "DYE-uh-tribe",
+      "register": "Formal",
+      "meaning": "A long, forceful complaint or criticism that attacks people or ideas.",
+      "nuance": "It is a strong word, usually suggesting an angry, exaggerated tirade rather than a measured objection. It can sound harsh or dismissive in professional settings.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Meeting · responding to a proposal",
+          "sentence": "Her diatribe against the new process left the team unsure how to respond.",
+          "highlight": "diatribe",
+          "tip": "Use it for an extended, angry criticism, not a brief complaint."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · defending a choice",
+          "sentence": "What began as a disagreement became a diatribe about everyone else’s tastes.",
+          "highlight": "diatribe",
+          "tip": "It often carries a negative judgement about the speaker’s tone or restraint."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · reviewing a controversial book",
+          "sentence": "The essay avoids a diatribe and instead gives a careful account of the author’s main arguments.",
+          "highlight": "diatribe",
+          "tip": "Useful when you want to criticise an excessive or hostile attack."
+        }
+      ],
+      "origin": {
+        "summary": "From French diatribe, borrowed from Greek diatribē, meaning ‘dissertation’ or ‘discourse’, originally a neutral term.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Diatribē referred to a speech, dissertation or philosophical discussion."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word entered French and then English with scholarly meanings connected with discussion and criticism."
+          },
+          {
+            "when": "Today",
+            "text": "It usually means a long, angry and often unfair verbal attack."
+          }
+        ]
+      },
+      "similar": [
+        "tirade",
+        "rant",
+        "polemic",
+        "harangue",
+        "outburst"
+      ],
+      "opposite": "measured criticism",
+      "pitfall": "A diatribe is usually longer and more openly hostile than a complaint; don’t use it for ordinary, constructive criticism."
+    },
+    {
+      "id": "didactic",
+      "kind": "word",
+      "term": "didactic",
+      "pos": "adjective",
+      "phonetic": "/daɪˈdæktɪk/",
+      "sayIt": "dih-DAK-tik",
+      "register": "Formal",
+      "meaning": "Intended to teach a lesson, especially through clear explanations or strong moral guidance.",
+      "nuance": "It can describe helpful teaching, but it often implies that something feels too serious, preachy or lesson-focused.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team training · explaining a new process",
+          "sentence": "Her presentation was didactic, making sure everyone understood the safety steps before we continued.",
+          "highlight": "didactic",
+          "tip": "Use it when someone teaches directly and deliberately, especially in training."
+        },
+        {
+          "setting": "social",
+          "where": "Family dinner · correcting a habit",
+          "sentence": "His comments about screen time became didactic, so everyone quickly changed the subject.",
+          "highlight": "didactic",
+          "tip": "This often carries a negative tone when advice sounds repetitive or moralising."
+        },
+        {
+          "setting": "writing",
+          "where": "Essay review · discussing tone",
+          "sentence": "The article explains the policy clearly, but its didactic tone makes the conclusion feel too forceful.",
+          "highlight": "didactic",
+          "tip": "Common in reviews and criticism when teaching becomes heavy-handed."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek didaktikos, meaning ‘related to teaching’, which comes from didaskein, ‘to teach’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Didaktikos means ‘related to teaching’ and is linked to didaskein, ‘to teach’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English through Latin and French in the sense of relating to teaching."
+          },
+          {
+            "when": "Today",
+            "text": "It can mean instructive, but often suggests an overly lesson-focused or preachy manner."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "didactically",
+          "label": "adverb"
+        },
+        {
+          "term": "didacticism",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "educational",
+        "instructional",
+        "preachy",
+        "moralising",
+        "pedantic"
+      ],
+      "opposite": "informal",
+      "pitfall": "Didactic does not simply mean educational; it often suggests that the speaker is determined to teach a lesson."
+    },
+    {
+      "id": "diplomatic",
+      "kind": "word",
+      "term": "diplomatic",
+      "pos": "adjective",
+      "phonetic": "/ˌdɪpləˈmætɪk/",
+      "sayIt": "dih-PLOH-mat-ik",
+      "register": "Common at work",
+      "meaning": "Careful and tactful when dealing with people, especially in a situation that could easily cause tension.",
+      "nuance": "It suggests choosing words or actions that protect relationships without avoiding the issue. It can also describe the official relations between countries.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client meeting · discussing a delay",
+          "sentence": "She was diplomatic about the delay and explained the next step without making the supplier feel blamed.",
+          "highlight": "diplomatic",
+          "tip": "Use it when you need to address a problem without creating unnecessary tension."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · declining an invitation",
+          "sentence": "He was diplomatic when he declined, saying he was honoured but already had plans.",
+          "highlight": "diplomatic",
+          "tip": "It works well when rejecting a suggestion without offending or embarrassing anyone."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · responding to a complaint",
+          "sentence": "A diplomatic email acknowledged the complaint, apologised briefly and offered a clear next step.",
+          "highlight": "diplomatic",
+          "tip": "Pair the tone with specifics so the message does not sound vague or evasive."
+        }
+      ],
+      "origin": {
+        "summary": "It comes through French from Greek diploma, meaning a folded document. The word first referred to official diplomacy and later developed its sense of tactful handling.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Diploma referred to a folded or double document, often an official letter."
+          },
+          {
+            "when": "1500s",
+            "text": "Diplomacy enters English through French, referring to the management of official relations between states."
+          },
+          {
+            "when": "1600s",
+            "text": "Diplomatic begins describing official relations and later the tactful way of handling people."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly means tactful and sensitive, especially when disagreement or tension is possible."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "diplomacy",
+          "label": "noun"
+        },
+        {
+          "term": "diplomat",
+          "label": "noun (person)"
+        },
+        {
+          "term": "diplomatically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "tactful",
+        "sensitive",
+        "considerate",
+        "discreet"
+      ],
+      "opposite": "undiplomatic",
+      "pitfall": "A diplomatic response can sound evasive if it offers no clear answer or next step."
+    },
+    {
+      "id": "disseminate",
+      "kind": "word",
+      "term": "disseminate",
+      "pos": "verb",
+      "phonetic": "/dɪˈsemɪneɪt/",
+      "sayIt": "di-SEM-i-nayt",
+      "register": "Formal",
+      "meaning": "To spread information widely to many people.",
+      "nuance": "Often used in professional or official contexts, especially for sharing guidance, research or policy. It can also describe spreading unwanted ideas, such as false claims.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company announcement · policy update",
+          "sentence": "We disseminated the updated safety policy across all offices by Friday.",
+          "highlight": "disseminated",
+          "tip": "Common in formal workplace communication about sharing official information widely."
+        },
+        {
+          "setting": "social",
+          "where": "Event planning · guest list",
+          "sentence": "Could you disseminate the final guest list before the event starts?",
+          "highlight": "disseminate",
+          "tip": "Use it when information needs to reach several people, though “send” is more casual."
+        },
+        {
+          "setting": "writing",
+          "where": "Research summary · public announcement",
+          "sentence": "The newsletter disseminates the study’s main findings to a wider audience.",
+          "highlight": "disseminates",
+          "tip": "Pairs naturally with findings, information, knowledge, research and news."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin disseminare, meaning ‘to scatter seed’, built from dis- and seminare, ‘to sow’, with the idea of spreading widely.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Disseminare originally means ‘to scatter seed’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English and begins to be used for spreading information."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means distributing information broadly to an audience."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "dissemination",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "circulate",
+        "distribute",
+        "publicize",
+        "broadcast"
+      ],
+      "opposite": "conceal",
+      "pitfall": "Use “distribute” for physical objects or materials; “disseminate” is mainly used for information, ideas and findings."
+    },
+    {
+      "id": "divulge",
+      "kind": "word",
+      "term": "divulge",
+      "pos": "verb",
+      "phonetic": "/dɪˈvʌldʒ/",
+      "sayIt": "dih-VULJ",
+      "register": "Formal",
+      "meaning": "To reveal information that was intended to remain private.",
+      "nuance": "It often suggests giving out sensitive or previously unknown information. It sounds more formal than “share” and can imply that the information should not have been released.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Internal meeting · discussing confidential figures",
+          "sentence": "The analyst was careful not to divulge the unpublished figures before the announcement.",
+          "highlight": "divulge",
+          "tip": "Use it for confidential information, especially when discussing company or client data."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · asking about a secret",
+          "sentence": "After months of speculation, she finally divulged where the surprise party was being held.",
+          "highlight": "divulged",
+          "tip": "It adds a slightly dramatic tone when someone reveals a closely guarded secret."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · describing a leaked document",
+          "sentence": "The email records show that a contractor divulged customer details without authorization.",
+          "highlight": "divulged",
+          "tip": "It fits formal reporting when a person or organization released restricted information."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin divulgare: “to spread widely,” built from divulgere, “to publish or disclose.” The word originally referred to making something widely known.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Divulgare meant “to spread widely” or “publish,” from the roots for “people” and “spread.”"
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered English with meanings connected with publishing and revealing information."
+          },
+          {
+            "when": "Today",
+            "text": "It means to reveal information, often information meant to remain private."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "divulgence",
+          "label": "noun"
+        },
+        {
+          "term": "divulger",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "reveal",
+        "disclose",
+        "leak",
+        "confess"
+      ],
+      "opposite": "conceal",
+      "pitfall": "This is more formal than “tell” or “share,” and it often suggests that the information was confidential or improperly revealed."
+    },
+    {
+      "id": "elicit",
+      "kind": "word",
+      "term": "elicit",
+      "pos": "verb",
+      "phonetic": "/ɪˈlɪsɪt/",
+      "sayIt": "ih-LIS-it",
+      "register": "Formal and professional",
+      "meaning": "To draw out a response, piece of information, or reaction, especially by asking a careful question.",
+      "nuance": "Often suggests getting something that was not openly offered. It is especially common in research, business, and academic writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client interview · gathering requirements",
+          "sentence": "Her open-ended questions helped elicit details about the client’s priorities.",
+          "highlight": "elicit",
+          "tip": "Use it when a question brings out information the speaker may not have offered directly."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · asking for an honest view",
+          "sentence": "I didn’t want to pressure him, so I tried to elicit his opinion indirectly.",
+          "highlight": "elicit",
+          "tip": "It can sound formal, so it is more natural in thoughtful conversations than quick chat."
+        },
+        {
+          "setting": "writing",
+          "where": "Research proposal · describing a survey",
+          "sentence": "The interviews were intended to elicit honest feedback without influencing participants’ answers.",
+          "highlight": "elicit",
+          "tip": "It often appears with information, details, responses, comments, and feedback."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin ēlicere, meaning ‘to draw out’ or ‘entice forth’. It entered English in the 1600s and originally referred to drawing something out or enticing someone to act.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Ēlicere developed from elements meaning ‘out’ and ‘to entice’ or ‘draw forth’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with senses connected with drawing out or enticing."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means drawing out information, responses, or reactions."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "elicitation",
+          "label": "noun"
+        },
+        {
+          "term": "elicited",
+          "label": "verb (past participle)"
+        }
+      ],
+      "similar": [
+        "evoke",
+        "extract",
+        "draw out",
+        "prompt"
+      ],
+      "opposite": "suppress",
+      "pitfall": "Do not use it to mean ‘select’ or ‘choose’, as in a multiple-choice question."
+    },
+    {
+      "id": "eloquent",
+      "kind": "word",
+      "term": "eloquent",
+      "pos": "adjective",
+      "phonetic": "/ˈɛləkwənt/",
+      "sayIt": "eh-LOH-kwuhnt",
+      "register": "Formal",
+      "meaning": "Able to express ideas clearly and in a way that is moving or persuasive.",
+      "nuance": "It suggests fluency and effectiveness, not just correct grammar. It is often used to praise a speech, argument or piece of writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client presentation · explaining a proposal",
+          "sentence": "Her eloquent explanation made a complicated proposal easy for everyone to understand.",
+          "highlight": "eloquent",
+          "tip": "Use it to praise speaking or writing that is clear, polished and persuasive."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding toast · praising the couple",
+          "sentence": "He gave an eloquent toast that had everyone laughing and applauding.",
+          "highlight": "eloquent",
+          "tip": "It is especially fitting for speeches that sound polished and emotionally powerful."
+        },
+        {
+          "setting": "writing",
+          "where": "Essay introduction · making a case",
+          "sentence": "The essay opens with an eloquent account of why the issue matters.",
+          "highlight": "eloquent",
+          "tip": "Use it for language that is graceful and persuasive rather than merely informative."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin eloquentia, ‘the art of speaking well’, based on eloqui, ‘to speak out’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Eloquentia is formed from ex, ‘out’, and loqui, ‘to speak’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English through French, referring to fluent and persuasive speech."
+          },
+          {
+            "when": "Today",
+            "text": "It describes speech or writing that expresses ideas clearly and effectively."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "eloquence",
+          "label": "noun"
+        },
+        {
+          "term": "eloquently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "articulate",
+        "expressive",
+        "persuasive",
+        "fluent"
+      ],
+      "opposite": "ineloquent",
+      "pitfall": "Eloquent describes how well someone expresses ideas; it does not necessarily mean what they say is true."
+    },
+    {
+      "id": "elucidate",
+      "kind": "word",
+      "term": "elucidate",
+      "pos": "verb",
+      "phonetic": "/ɪˈluːsɪdeɪt/",
+      "sayIt": "ih-LOO-sih-date",
+      "register": "Formal",
+      "meaning": "To make something easier to understand by explaining it clearly.",
+      "nuance": "This sounds polished and intellectual, especially in academic or professional writing. It is more formal than simply saying “explain” or “clarify.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Presentation · explaining a complex proposal",
+          "sentence": "Let me elucidate how the two approval processes differ before we discuss the implementation plan.",
+          "highlight": "elucidate",
+          "tip": "Useful when you want to introduce a clear explanation without sounding blunt."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · discussing a confusing topic",
+          "sentence": "Could you elucidate what you mean by a “personal pivot”? I have heard the phrase but never understood it.",
+          "highlight": "elucidate",
+          "tip": "A slightly formal, playful way to ask someone to explain their thinking."
+        },
+        {
+          "setting": "writing",
+          "where": "Research summary · clarifying a finding",
+          "sentence": "The final section elucidates why customers abandoned the trial, although it offers limited evidence for the explanation.",
+          "highlight": "elucidates",
+          "tip": "Often used before a subject that names the thing being explained."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin elucidare, meaning “to make clear,” built from ex-, “out,” and lucidus, “clear” or “bright.” It entered English in the 17th century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "elucidare, ‘to make clear or brighten,’ from ex-, ‘out,’ and lucidus, ‘clear.’"
+          },
+          {
+            "when": "17th century",
+            "text": "Enters English in the sense of making something clear or explaining it."
+          },
+          {
+            "when": "Today",
+            "text": "Common in formal speech and writing, especially in academic and professional contexts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "elucidation",
+          "label": "noun"
+        },
+        {
+          "term": "elucidator",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "clarify",
+        "explain",
+        "illuminate",
+        "demystify"
+      ],
+      "opposite": "obscure",
+      "pitfall": "It usually means to explain something clearly, not simply to reveal a secret."
+    },
+    {
+      "id": "emanating",
+      "kind": "word",
+      "term": "emanating",
+      "pos": "adjective",
+      "phonetic": "/ɪˈmæneɪtɪŋ/",
+      "sayIt": "EE-MAN-ay-ting",
+      "register": "Formal",
+      "meaning": "Coming from or spreading outward from a particular source.",
+      "nuance": "It often suggests that a sound, smell, feeling or influence is naturally produced by someone or something. It can sound slightly literary or technical in everyday speech.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · identifying a workplace issue",
+          "sentence": "The growing frustration was clearly emanating from repeated delays in the approval process.",
+          "highlight": "emanating",
+          "tip": "Use it to identify the source of a noticeable mood, problem or influence."
+        },
+        {
+          "setting": "social",
+          "where": "At a restaurant · noticing a smell",
+          "sentence": "A delicious aroma was emanating from the kitchen, so we decided to order the special.",
+          "highlight": "emanating",
+          "tip": "This use is slightly more literary than saying the smell was coming from somewhere."
+        },
+        {
+          "setting": "writing",
+          "where": "Short story · describing a character’s presence",
+          "sentence": "She entered quietly, but an air of confidence was emanating from every movement.",
+          "highlight": "emanating",
+          "tip": "It works well in descriptive writing for qualities or atmospheres that seem to come from a person."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin emanare, meaning ‘to flow out’, formed from elements meaning ‘out’ and ‘to flow’. The word entered English in the 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "Emanare is formed from e-, meaning ‘out’, and manare, meaning ‘to flow’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in the sense of flowing or issuing from a source."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for qualities, sounds, smells and influences that come from a source."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "emanate",
+          "label": "verb"
+        },
+        {
+          "term": "emanation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "radiating",
+        "issuing",
+        "spreading",
+        "exuding"
+      ],
+      "opposite": "converging",
+      "pitfall": "Emanating usually follows a source: ‘a smell emanating from the kitchen.’ It is less suitable for physically sending something out, such as light or heat."
+    }
+  ]
+}

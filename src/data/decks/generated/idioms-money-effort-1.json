@@ -1,0 +1,1484 @@
+{
+  "id": "idioms-money-effort-1",
+  "kind": "idiom",
+  "name": "Money & effort · 1",
+  "blurb": "25 idioms about money & effort",
+  "cards": [
+    {
+      "id": "at-the-expense-of",
+      "kind": "idiom",
+      "term": "at the expense of",
+      "pos": "phrase",
+      "hint": "while another thing suffers",
+      "register": "Common at work",
+      "meaning": "By sacrificing one benefit, quality or person so that another aim can be achieved.",
+      "nuance": "It highlights the trade-off involved. The wording often suggests that the cost may be too high, even when the sacrifice was intentional.",
+      "literal": "With the cost paid by someone or something else.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · balancing workloads",
+          "sentence": "We increased output at the expense of employee wellbeing.",
+          "highlight": "at the expense of",
+          "tip": "Useful when explaining the hidden cost of a decision."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing a holiday plan",
+          "sentence": "We booked the cheaper hotel at the expense of being farther from the beach.",
+          "highlight": "at the expense of",
+          "tip": "Works when comparing two choices and naming what was given up."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual company report",
+          "sentence": "Growth came at the expense of higher support costs.",
+          "highlight": "at the expense of",
+          "tip": "Common in reports, essays and critical writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from an older expression meaning ‘at the cost of’ and uses ‘expense’ to refer to what is spent or sacrificed.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Writers begin using ‘at the expense of’ for costs paid in one form to gain something in another."
+          },
+          {
+            "when": "Later",
+            "text": "The phrase expands beyond money to include lost quality, opportunities and benefits."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly marks a trade-off between an outcome and what is sacrificed to achieve it."
+          }
+        ]
+      },
+      "similar": [
+        "at the cost of",
+        "to the detriment of",
+        "at the sacrifice of"
+      ],
+      "opposite": "in favor of",
+      "pitfall": "It does not mean that someone has been paid; the ‘expense’ may be money, time, quality, opportunity or wellbeing."
+    },
+    {
+      "id": "ballpark-estimate",
+      "kind": "idiom",
+      "term": "ballpark estimate",
+      "pos": "phrase",
+      "hint": "a rough number, not an exact figure",
+      "register": "Common at work",
+      "meaning": "An approximate calculation used when an exact figure is unnecessary or not yet available.",
+      "nuance": "Practical and informal, but common in business conversations. It signals that the number is a useful starting point rather than a final answer.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · early budget",
+          "sentence": "Can you give me a ballpark estimate for the project before Friday?",
+          "highlight": "ballpark estimate",
+          "tip": "Common when asking for a quick approximate cost or figure."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner plans · splitting costs",
+          "sentence": "A ballpark estimate is fine for the restaurant bill, but we’ll settle up later.",
+          "highlight": "ballpark estimate",
+          "tip": "Fits casual conversations where precision does not matter."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · timeline",
+          "sentence": "The ballpark estimate is three weeks, although the technical review may change it.",
+          "highlight": "ballpark estimate",
+          "tip": "Useful in reports when presenting an early or preliminary figure."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely grew from the American use of “ballpark” for a broad range or rough equivalent, itself associated with baseball stadiums and later sports figures. “Ballpark estimate” extends that idea to an approximate calculation.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The word “ballpark” becomes established for a baseball playing field or its surrounding area."
+          },
+          {
+            "when": "1900s",
+            "text": "“Ballpark” begins to mean a broad range, as in a rough figure or approximate equivalent."
+          },
+          {
+            "when": "Later",
+            "text": "“Ballpark estimate” becomes a natural phrase for a preliminary calculation."
+          }
+        ]
+      },
+      "similar": [
+        "rough estimate",
+        "ballpark figure",
+        "approximate cost"
+      ],
+      "opposite": "exact estimate",
+      "pitfall": "A ballpark estimate may be useful, but it is not an exact figure or a guaranteed quote."
+    },
+    {
+      "id": "bang-for-the-buck",
+      "kind": "idiom",
+      "term": "bang for the buck",
+      "pos": "phrase",
+      "hint": "strong value for the money spent",
+      "register": "Common at work",
+      "meaning": "A good result or useful value in return for the money, time or effort spent.",
+      "nuance": "It often means something is better value than the alternatives, not merely that it is cheap. The phrase has a practical, slightly informal tone.",
+      "literal": "Getting a loud bang in exchange for one buck, or dollar.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Choosing software tools",
+          "sentence": "This shared workspace gives us more bang for the buck than paying for three separate tools.",
+          "highlight": "bang for the buck",
+          "tip": "Common when comparing what a purchase can do with its cost."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing a lunch deal",
+          "sentence": "The set menu is definitely more bang for the buck than ordering two dishes separately.",
+          "highlight": "bang for the buck",
+          "tip": "Natural in an informal recommendation about value."
+        },
+        {
+          "setting": "writing",
+          "where": "A business review",
+          "sentence": "For small teams, the flexible plan offers more bang for the buck than individual subscriptions.",
+          "highlight": "bang for the buck",
+          "tip": "Useful in reports and reviews comparing cost with usefulness."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely combines two older American meanings: “bang” for a powerful or explosive effect, and “buck” for a dollar. Its exact development is uncertain, but it was in use by the early 1900s to describe value received for money spent.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "“Buck” was common American slang for a dollar, while “bang” could describe a forceful or explosive effect."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "The combined phrase appears in writing as a way of describing strong results for the money spent."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common expression for worthwhile value or useful results."
+          }
+        ]
+      },
+      "similar": [
+        "value for money",
+        "get your money’s worth",
+        "worth every penny"
+      ],
+      "opposite": "poor value for money",
+      "pitfall": "It does not mean earning money directly; it emphasizes the usefulness or results you receive in return for what you spend."
+    },
+    {
+      "id": "bite-off-more-than-one-can-chew",
+      "kind": "idiom",
+      "term": "bite off more than one can chew",
+      "pos": "idiom",
+      "hint": "take on more than you can manage",
+      "register": "Everyday",
+      "meaning": "To try to handle more work, responsibility, or detail than you realistically can manage.",
+      "nuance": "It suggests becoming overloaded because your scope grew too large. It is often used when someone has accepted too many commitments or underestimated the effort involved.",
+      "literal": "Biting off more food than you can comfortably chew.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · assigning tasks",
+          "sentence": "We bit off more than we can chew by launching three products in the same quarter.",
+          "highlight": "bit off more than we can chew",
+          "tip": "Use it when a team’s workload has become unrealistic."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans · helping a friend",
+          "sentence": "I bit off more than I can chew by offering to cater, clean, and organize the entire party.",
+          "highlight": "bit off more than I can chew",
+          "tip": "Often follows a poor decision or an overconfident promise."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining delays",
+          "sentence": "Our design team bit off more than it can chew, so the deadline has been pushed back.",
+          "highlight": "bit off more than it can chew",
+          "tip": "A natural way to explain overload without sounding too dramatic."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the older warning “don’t bite off more than you can chew,” which compares taking on a difficult task with trying to eat more than your mouth can handle.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Similar proverbs warn people not to attempt more than they can manage."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression “bite off more than you can chew” appears in English writing."
+          },
+          {
+            "when": "Today",
+            "text": "It describes taking on more work or responsibility than one can realistically handle."
+          }
+        ]
+      },
+      "similar": [
+        "take on more than you can handle",
+        "overextend yourself",
+        "spread yourself too thin"
+      ],
+      "opposite": "keep within your limits",
+      "pitfall": "Use it for genuine overload or an unrealistic commitment, not simply for a task that feels challenging."
+    },
+    {
+      "id": "bottom-line",
+      "kind": "idiom",
+      "term": "bottom line",
+      "pos": "idiom",
+      "hint": "the final result that matters",
+      "register": "Common at work",
+      "meaning": "The final result, main point, or financial outcome of something.",
+      "nuance": "It can refer to the essential conclusion or, in business, a company’s profit or loss. It often brings a discussion back to what really matters.",
+      "literal": "The final line of a financial statement, where profit or loss is shown.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget review · deciding priorities",
+          "sentence": "The bottom line is that we cannot deliver the full project without adding another week.",
+          "highlight": "bottom line",
+          "tip": "Use it to state the main result or business impact."
+        },
+        {
+          "setting": "social",
+          "where": "Friends arranging a holiday",
+          "sentence": "The bottom line is simple: we need to book the cheaper apartment before prices rise.",
+          "highlight": "bottom line",
+          "tip": "Often sounds direct and slightly businesslike in casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual company update",
+          "sentence": "Rising costs put pressure on the bottom line, even though customer demand remained strong.",
+          "highlight": "bottom line",
+          "tip": "In financial writing, it usually means a company’s overall profit or loss."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from bookkeeping, where the bottom line showed the final profit or loss after all figures had been entered.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The expression becomes established in business language for the final financial result."
+          },
+          {
+            "when": "1900s",
+            "text": "Its use broadens from finance to mean the main point or decisive outcome."
+          },
+          {
+            "when": "Today",
+            "tip": "Common in workplaces, negotiations, reporting and everyday discussion.",
+            "text": "It can mean a financial outcome, a key fact or the most important conclusion."
+          }
+        ]
+      },
+      "similar": [
+        "main takeaway",
+        "final result",
+        "net result"
+      ],
+      "opposite": "top line",
+      "pitfall": "In business contexts, it may mean profit or loss rather than a discussion’s main conclusion, so consider whether the financial meaning is intended."
+    },
+    {
+      "id": "bread-and-butter",
+      "kind": "idiom",
+      "term": "bread and butter",
+      "pos": "idiom",
+      "hint": "someone’s main source of income",
+      "register": "Common at work",
+      "meaning": "The thing that provides someone with their main income or regular work.",
+      "nuance": "It often refers to a dependable, practical source of income rather than an occasional windfall. It can also mean the basic product or service a business relies on most.",
+      "literal": "Bread and butter as everyday food.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Small business · income",
+          "sentence": "Repeat maintenance contracts are the bread and butter of our business.",
+          "highlight": "bread and butter",
+          "tip": "Common when discussing a company’s most reliable revenue source."
+        },
+        {
+          "setting": "social",
+          "where": "Career change · starting over",
+          "sentence": "Freelance photography paid the bills, but teaching was my bread and butter.",
+          "highlight": "bread and butter",
+          "tip": "Use it for the work that consistently supports someone."
+        },
+        {
+          "setting": "writing",
+          "where": "Business profile · core service",
+          "sentence": "Their bread and butter is selling practical software to independent retailers.",
+          "highlight": "bread and butter",
+          "tip": "Often appears in reports about a business’s main product or market."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase began as a plain reference to an everyday meal. By the early 1800s, it was being used figuratively for a person’s basic means of support.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1700s",
+            "text": "“Bread and butter” is recorded as an ordinary expression for basic food."
+          },
+          {
+            "when": "Early 1800s",
+            "text": "The expression gains the figurative sense of someone’s main income or regular work."
+          },
+          {
+            "when": "Today",
+            "text": "It describes a dependable source of income or a business’s core product."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "bread-and-butter",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "main source of income",
+        "core business",
+        "daily bread"
+      ],
+      "pitfall": "It usually describes something dependable and central, not a lucky or temporary gain."
+    },
+    {
+      "id": "break-even",
+      "kind": "idiom",
+      "term": "break even",
+      "pos": "phrase",
+      "hint": "finish without a profit or loss",
+      "register": "Common at work",
+      "meaning": "To have income exactly equal your costs, so you neither make a profit nor lose money.",
+      "nuance": "It describes reaching the point where a project, business, or activity pays for itself. It can also mean that two amounts or results are exactly equal.",
+      "literal": "Split a total into two equal sides.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch review · event budget",
+          "sentence": "The workshop will break even if we sell forty tickets.",
+          "highlight": "break even",
+          "tip": "Common when discussing whether sales will cover costs."
+        },
+        {
+          "setting": "social",
+          "where": "Holiday plans · shared costs",
+          "sentence": "If four friends split the cabin evenly, everyone will break even.",
+          "highlight": "break even",
+          "tip": "Here it means each person pays an equal share."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · forecast",
+          "sentence": "The pilot programme is expected to break even by the end of next year.",
+          "highlight": "break even",
+          "tip": "Frequent in financial and business reporting."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is associated with 19th-century commerce, when breaking even meant making income match expenses. Its exact first recorded use is difficult to establish.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The word ‘even’ meant equal, especially in calculations and deals."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase appears in business language for balancing money received against money spent."
+          },
+          {
+            "when": "Today",
+            "text": "Means achieving neither a profit nor a loss."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "break-even",
+          "label": "adjective"
+        },
+        {
+          "term": "break-even point",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "cover costs",
+        "come out even",
+        "turn a profit"
+      ],
+      "opposite": "make a loss",
+      "pitfall": "Use ‘break even’ as a verb and ‘break-even’ as an adjective, as in ‘a break-even plan’."
+    },
+    {
+      "id": "cut-a-deal",
+      "kind": "idiom",
+      "term": "cut a deal",
+      "pos": "idiom",
+      "hint": "negotiate an agreement",
+      "register": "Common at work",
+      "meaning": "To negotiate and agree on a deal, often involving money, work or responsibilities.",
+      "nuance": "It suggests two sides discuss terms and reach an agreement. Use it for business arrangements, compromises and negotiated benefits.",
+      "literal": "Making an agreement through negotiation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Contract discussion · supplier terms",
+          "sentence": "We cut a deal with the supplier that reduced the price and gave us a longer contract.",
+          "highlight": "cut a deal",
+          "tip": "Common when business terms are negotiated rather than simply accepted."
+        },
+        {
+          "setting": "social",
+          "where": "Splitting costs · dinner plans",
+          "sentence": "Let’s cut a deal: you choose the restaurant, and I’ll pay for dessert.",
+          "highlight": "cut a deal",
+          "tip": "Works casually when two people make an exchange or compromise."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · new partnership",
+          "sentence": "The two companies cut a deal to share distribution responsibilities in Europe.",
+          "highlight": "cut a deal",
+          "tip": "Often used in reporting to describe an agreement reached through negotiation."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is uncertain, but the phrase developed from business and legal language about making a bargain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used various expressions such as ‘make a deal’ and ‘strike a bargain’ for negotiated agreements."
+          },
+          {
+            "when": "20th century",
+            "text": "‘Cut a deal’ became established in informal business English for arranging an agreement."
+          },
+          {
+            "when": "Today",
+            "text": "It means to negotiate terms and reach an agreement."
+          }
+        ]
+      },
+      "similar": [
+        "strike a deal",
+        "make a deal",
+        "come to terms",
+        "do a deal"
+      ],
+      "opposite": "walk away from a deal",
+      "pitfall": "It implies discussion or negotiation; use ‘accept a deal’ when the agreement is already offered and needs no bargaining."
+    },
+    {
+      "id": "dig-deep",
+      "kind": "idiom",
+      "term": "dig deep",
+      "pos": "idiom",
+      "hint": "make a serious effort",
+      "register": "Common at work",
+      "meaning": "To make a greater effort or use more resources to achieve something difficult.",
+      "nuance": "It suggests going beyond what is comfortable or expected. The phrase can refer to effort, money, time, skills, or personal reserves.",
+      "literal": "Digging far into the ground to find something.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · facing a deadline",
+          "sentence": "We may need to dig deep and bring in extra support if this release slips.",
+          "highlight": "dig deep",
+          "tip": "Often implies making an exceptional effort to meet a challenge."
+        },
+        {
+          "setting": "social",
+          "where": "Preparing for a celebration",
+          "sentence": "We dug deep and stayed up late cooking enough food for everyone.",
+          "highlight": "dug deep",
+          "tip": "A natural way to describe unusually hard work or effort."
+        },
+        {
+          "setting": "writing",
+          "where": "Budget proposal · cut funding",
+          "sentence": "Small laboratories must dig deep to keep expensive research projects running.",
+          "highlight": "dig deep",
+          "tip": "Useful in reporting when resources are limited but the work must continue."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the literal act of digging deeply, particularly when searching for buried resources. Its figurative sense for making a strenuous effort appears in 19th-century writing.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Digging deeply is a familiar way to search for minerals, water, or other buried resources."
+          },
+          {
+            "when": "19th century",
+            "text": "Writers begin using the expression for searching thoroughly and making a serious effort."
+          },
+          {
+            "when": "Today",
+            "text": "It means investing unusual effort, time, money, or energy in a difficult task."
+          }
+        ]
+      },
+      "similar": [
+        "go to great lengths",
+        "pull out all the stops",
+        "go the extra mile",
+        "spare no effort"
+      ],
+      "pitfall": "Use “dig deeper” when someone is already making an effort and needs to investigate or try harder."
+    },
+    {
+      "id": "diminishing-returns",
+      "kind": "idiom",
+      "term": "diminishing returns",
+      "pos": "phrase",
+      "hint": "when extra effort brings less benefit",
+      "register": "Common at work",
+      "meaning": "The point where putting in more time, money, or effort produces a smaller gain than before.",
+      "nuance": "It suggests that continued investment is yielding less value and may not be worth the extra cost. It often supports a decision to stop, change direction, or improve the approach.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product planning · adding features",
+          "sentence": "We’re seeing diminishing returns from adding features, so it’s time to focus on the core experience.",
+          "highlight": "diminishing returns",
+          "tip": "Common when discussing investments, workload, or new features."
+        },
+        {
+          "setting": "social",
+          "where": "Event planning · extra decorations",
+          "sentence": "More decorations are giving us diminishing returns, and the room already looks great.",
+          "highlight": "diminishing returns",
+          "tip": "Useful when extra effort no longer noticeably improves the result."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · marketing budget",
+          "sentence": "The report warns that further advertising may produce diminishing returns.",
+          "highlight": "diminishing returns",
+          "tip": "Frequent in reports about budgets, growth, training, and marketing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the economic idea that adding more inputs to production eventually adds less output. Classical economists developed this principle in the 1700s and 1800s, and the expression later became common in business language.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1700s",
+            "text": "Economists began systematically describing how the benefit of extra inputs changes as those inputs increase."
+          },
+          {
+            "when": "1800s",
+            "text": "The idea became a standard part of economics and was discussed as diminishing returns."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase describes any extra effort that produces a smaller benefit than it once did."
+          }
+        ]
+      },
+      "similar": [
+        "diminishing marginal returns",
+        "declining returns",
+        "law of diminishing returns"
+      ],
+      "opposite": "increasing returns",
+      "pitfall": "It does not mean returns have disappeared; it means each additional unit of effort is producing less extra benefit."
+    },
+    {
+      "id": "down-the-drain",
+      "kind": "idiom",
+      "term": "down the drain",
+      "pos": "idiom",
+      "hint": "lost for good",
+      "register": "Common at work",
+      "meaning": "To be wasted, lost, or wasted away completely.",
+      "nuance": "It suggests that an opportunity, effort, or resource has been irretrievably lost. It is often used when money, time, or a chance has produced no lasting benefit.",
+      "literal": "Water flowing away down a drain.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · missed deadline",
+          "sentence": "Three weeks of work went down the drain because the client changed the brief.",
+          "highlight": "went down the drain",
+          "tip": "Common for time, money, or effort that produced no lasting result."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up · missed holiday",
+          "sentence": "Our chance to travel together went down the drain when she postponed the trip.",
+          "highlight": "went down the drain",
+          "tip": "Shows regret or frustration about an opportunity disappearing."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · wasted budget",
+          "sentence": "Thousands in unnecessary expenses went down the drain during the pilot.",
+          "highlight": "went down the drain",
+          "tip": "Often used in reports about wasted money, resources, or opportunities."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the literal image of water disappearing down a drain. Its figurative use is recorded in the 19th century for money and other resources being wasted.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The figurative phrase appears in writing for money or resources being wasted."
+          },
+          {
+            "when": "Today",
+            "text": "Means that time, money, effort, or an opportunity has been lost."
+          }
+        ]
+      },
+      "similar": [
+        "down the tubes",
+        "to no avail",
+        "for nothing"
+      ],
+      "opposite": "well spent",
+      "pitfall": "It is stronger than simply being lost: it suggests waste, failure, or an irreversible loss of value."
+    },
+    {
+      "id": "drive-a-hard-bargain",
+      "kind": "idiom",
+      "term": "drive a hard bargain",
+      "pos": "idiom",
+      "hint": "negotiate firmly for the best deal",
+      "register": "Common at work",
+      "meaning": "To negotiate firmly and try to get the most favourable terms possible.",
+      "nuance": "It suggests persistent pressure rather than a reasonable compromise. It is often used when someone expects tough negotiations over price, pay or conditions.",
+      "literal": "Negotiate a bargain firmly and refuse easy concessions.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Contract review · supplier terms",
+          "sentence": "We drive a hard bargain before agreeing to a new price with our supplier.",
+          "highlight": "drive a hard bargain",
+          "tip": "Common when discussing contracts, pay or commercial deals."
+        },
+        {
+          "setting": "social",
+          "where": "Market stall · buying a car",
+          "sentence": "She drove a hard bargain and brought the price down by several hundred pounds.",
+          "highlight": "drove a hard bargain",
+          "tip": "Natural for describing determined negotiation."
+        },
+        {
+          "setting": "writing",
+          "where": "Business advice · negotiating a contract",
+          "sentence": "Buyers should drive a hard bargain, but they must also build a lasting relationship with suppliers.",
+          "highlight": "drive a hard bargain",
+          "tip": "Useful in articles about negotiation, contracts and workplace pay."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably combines “drive,” meaning to press firmly for a result, with “bargain,” meaning an agreement reached by negotiation. It appears in commercial and political contexts from the early 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The phrase begins appearing in writing about firm negotiations and commercial bargains."
+          },
+          {
+            "when": "Later 1800s",
+            "text": "Its use broadens to describe persistent bargaining in everyday, political and business settings."
+          },
+          {
+            "when": "Today",
+            "text": "It means negotiating firmly to obtain better terms, often without suggesting dishonest conduct."
+          }
+        ]
+      },
+      "similar": [
+        "hold firm",
+        "push for a better deal",
+        "shop around"
+      ],
+      "opposite": "accept the first offer",
+      "pitfall": "It means being tough in negotiations, not refusing every compromise."
+    },
+    {
+      "id": "earn-ones-keep",
+      "kind": "idiom",
+      "term": "earn one's keep",
+      "pos": "idiom",
+      "hint": "justify what you cost",
+      "register": "Everyday",
+      "meaning": "To produce enough value to cover the cost of supporting or employing someone.",
+      "nuance": "It suggests that a person is useful or valuable enough to justify their cost. It can sound practical, mildly critical or humorous depending on context.",
+      "literal": "Earn enough to pay for one’s food, housing and other needs.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Staff review · discussing workload",
+          "sentence": "The new assistant will earn their keep by taking over the weekly reporting.",
+          "highlight": "earn their keep",
+          "tip": "Often describes proving that a role, person or investment is worthwhile."
+        },
+        {
+          "setting": "social",
+          "where": "Group dinner · dividing the bill",
+          "sentence": "Bob cooked for everyone all evening, so he certainly earned his keep.",
+          "highlight": "earned his keep",
+          "tip": "Common when joking about someone who has contributed more than their share."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · reviewing costs",
+          "sentence": "The training programme must earn its keep by reducing staff turnover.",
+          "highlight": "earn its keep",
+          "tip": "Useful for evaluating whether an expense, project or benefit produces enough value."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the literal idea of earning enough money to pay for one’s basic needs and upkeep. Its figurative use is documented from the 19th century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The word ‘keep’ could mean the cost of maintaining someone, including food, housing and care."
+          },
+          {
+            "when": "19th century",
+            "text": "The phrase appears in writing for earning a living or covering one’s basic costs."
+          },
+          {
+            "when": "Today",
+            "text": "It means contributing enough value to justify the time, money or resources received."
+          }
+        ]
+      },
+      "similar": [
+        "pull one's weight",
+        "justify one's salt",
+        "pay one's way",
+        "worth the cost"
+      ],
+      "opposite": "earn one's salt",
+      "pitfall": "It does not simply mean being paid; the focus is on contributing enough value to cover the cost involved."
+    },
+    {
+      "id": "easy-money",
+      "kind": "idiom",
+      "term": "easy money",
+      "pos": "noun phrase",
+      "hint": "money that comes quickly",
+      "register": "Everyday",
+      "meaning": "Money earned with little effort, time, difficulty, or risk.",
+      "nuance": "It often suggests that the income is quick but may not last or be entirely legitimate. It can describe legitimate low-effort earnings, but is also used critically when a business or opportunity seems too rewarding.",
+      "literal": "Money that is easy to obtain.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · extra income",
+          "sentence": "Selling unused equipment was easy money, but it took longer than we expected.",
+          "highlight": "easy money",
+          "tip": "Common for income that arrives quickly with little effort."
+        },
+        {
+          "setting": "social",
+          "where": "Chat · weekend opportunity",
+          "sentence": "Refurbishing old chairs turned out to be easy money for my neighbour.",
+          "highlight": "easy money",
+          "tip": "Often implies the work is simpler or more profitable than expected."
+        },
+        {
+          "setting": "writing",
+          "where": "Business article · risky scheme",
+          "sentence": "The guide promised easy money, but the hidden fees made the scheme far less attractive.",
+          "highlight": "easy money",
+          "tip": "Useful when writing about dubious or misleading opportunities."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase became established during the 1800s, when rapidly earned money was increasingly associated with speculation, quick profits, and schemes.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Writers began using the expression for money obtained without much effort or investment."
+          },
+          {
+            "when": "Today",
+            "text": "It can describe straightforward extra income or a suspiciously attractive financial opportunity."
+          }
+        ]
+      },
+      "similar": [
+        "quick money",
+        "a fast buck",
+        "money for nothing"
+      ],
+      "opposite": "hard-earned money",
+      "pitfall": "It does not mean money that is safe, reliable, or honestly earned; those points may depend on the context."
+    },
+    {
+      "id": "face-value",
+      "kind": "idiom",
+      "term": "face value",
+      "pos": "noun",
+      "register": "Common at work and in finance",
+      "meaning": "The amount printed on a financial document, or the worth something is assumed to have without further examination.",
+      "nuance": "In finance, it is the stated value of a bond, share, or note rather than its current market price. Figuratively, “at face value” means accepting a statement or appearance without questioning it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Investment meeting · comparing bonds",
+          "sentence": "The bond was bought at face value, although its market price has since fallen.",
+          "highlight": "face value",
+          "tip": "Common when discussing bonds, shares, notes, and insurance policies."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · responding to an apology",
+          "sentence": "I took her apology at face value because the explanation sounded convincing.",
+          "highlight": "face value",
+          "tip": "Often appears in the expression ‘take something at face value’."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · describing debt",
+          "sentence": "The report compares each bond’s face value with the interest it pays.",
+          "highlight": "face value",
+          "tip": "A useful distinction in business and financial reporting."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase began as a literal description of the nominal amount printed on the front of a financial document. Its figurative use for accepting something as it appears developed during the nineteenth century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1800s",
+            "text": "The expression appears for the stated or printed value of financial documents."
+          },
+          {
+            "when": "Later 1800s",
+            "text": "The meaning expands to include accepting a statement or appearance without further scrutiny."
+          },
+          {
+            "when": "Today",
+            "text": "It remains standard in finance and is also common in the phrase ‘at face value’."
+          }
+        ]
+      },
+      "similar": [
+        "market value",
+        "nominal value",
+        "book value",
+        "take at face value"
+      ],
+      "pitfall": "Do not confuse face value with market value; a financial instrument can be bought above or below the amount printed on it."
+    },
+    {
+      "id": "fair-share",
+      "kind": "idiom",
+      "term": "fair share",
+      "pos": "phrase",
+      "hint": "a reasonable portion, not more",
+      "register": "Common at work",
+      "meaning": "A reasonable and equal portion of something, especially work, responsibility, resources, or blame.",
+      "nuance": "It often implies that a person has done no more than their proper share, sometimes with a hint that others have done less.",
+      "literal": "A portion considered equal to what each person should receive.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team deadline · dividing tasks",
+          "sentence": "I’ve done my fair share of the reporting, so someone else can handle the final edits.",
+          "highlight": "fair share",
+          "tip": "Common when discussing workload or responsibility."
+        },
+        {
+          "setting": "social",
+          "where": "Shared meal · ordering food",
+          "sentence": "Paying for my fair share of dinner is enough; I don’t need to cover everyone.",
+          "highlight": "fair share",
+          "tip": "Can gently set a limit on what you will pay or contribute."
+        },
+        {
+          "setting": "writing",
+          "where": "Community proposal · public spending",
+          "sentence": "Residents want a fair share of the new funding for their neighbourhood.",
+          "highlight": "fair share",
+          "tip": "Useful in arguments about equality, resources, and representation."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin of the phrase is uncertain. It combines the older words ‘fair’ and ‘share’, both of which long meant an equal or reasonable portion, and became common in modern English.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "‘Fair’ develops the sense of equal or just, while ‘share’ refers to a divided portion."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "The expression ‘a fair share’ becomes established for a proper portion of work, costs, or benefits."
+          },
+          {
+            "when": "Today",
+            "text": "Often implies that someone has contributed an equal or reasonable amount."
+          }
+        ]
+      },
+      "similar": [
+        "your share",
+        "equal share",
+        "fair portion"
+      ],
+      "pitfall": "‘Fair share’ does not necessarily mean exactly one equal part; it means what is considered reasonable or equitable."
+    },
+    {
+      "id": "free-lunch",
+      "kind": "idiom",
+      "term": "free lunch",
+      "pos": "idiom",
+      "hint": "a benefit with no apparent cost",
+      "register": "Everyday",
+      "meaning": "A benefit or opportunity that seems to cost nothing.",
+      "nuance": "It often implies that there is a hidden cost, trade-off or benefit for someone else. It can also be used playfully when referring to actual free food.",
+      "literal": "A meal provided without payment.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Vendor negotiation · renewal terms",
+          "sentence": "The offer looked like a free lunch, but the contract renewal would have cost us far more.",
+          "highlight": "free lunch",
+          "tip": "Use it when something appears generous but carries a hidden expense."
+        },
+        {
+          "setting": "social",
+          "where": "Party · bringing snacks",
+          "sentence": "She brought samples to the party and joked that they were a free lunch.",
+          "highlight": "free lunch",
+          "tip": "This use can be literal and playful rather than suspicious."
+        },
+        {
+          "setting": "writing",
+          "where": "Economics article · tax policy",
+          "sentence": "The article warns that lower taxes are rarely a free lunch because demand may rise.",
+          "highlight": "free lunch",
+          "tip": "Common in business, economics and political discussion."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is uncertain. The phrase developed from the literal idea of receiving food without paying, then came to describe any benefit that appears to have no cost.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The expression begins appearing for food served without payment."
+          },
+          {
+            "when": "Late 1800s",
+            "text": "Its figurative use becomes established for benefits offered at no apparent expense."
+          },
+          {
+            "when": "1900s onward",
+            "text": "It is widely used to suggest hidden costs, trade-offs or benefits for other people."
+          }
+        ]
+      },
+      "similar": [
+        "no such thing as a free lunch",
+        "something for nothing",
+        "a bargain"
+      ],
+      "opposite": "a costly purchase",
+      "pitfall": "When used figuratively, it usually means that someone bears the cost, even if the person receiving the benefit does not pay directly."
+    },
+    {
+      "id": "go-to-great-lengths",
+      "kind": "idiom",
+      "term": "go to great lengths",
+      "pos": "idiom",
+      "hint": "make an unusually big effort",
+      "register": "Common at work",
+      "meaning": "To make an exceptional effort to achieve something or to deal with a situation.",
+      "nuance": "This suggests more effort, planning or sacrifice than the task normally requires. It can express admiration when someone succeeds, or concern when their efforts become excessive.",
+      "literal": "Traveling an unusually great distance to reach a goal.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · resolving a delay",
+          "sentence": "The team went to great lengths to keep the launch on schedule.",
+          "highlight": "went to great lengths",
+          "tip": "Often implies extra effort, expense or sacrifice."
+        },
+        {
+          "setting": "social",
+          "where": "Celebration · thanking a host",
+          "sentence": "Our friends went to great lengths to make the dinner party special.",
+          "highlight": "went to great lengths",
+          "tip": "A natural way to praise someone’s unusual effort."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · public investigation",
+          "sentence": "The charity went to great lengths to reach families affected by the flood.",
+          "highlight": "went to great lengths",
+          "tip": "Useful in reporting when an organisation makes an exceptional effort."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from older uses of length meaning extent or degree. Doing something to a great length meant making an unusually serious effort, which eventually became go to great lengths.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Older English used length in the sense of extent or degree."
+          },
+          {
+            "when": "1600s",
+            "text": "Expressions such as ‘to a great length’ were used for exceptional effort or thoroughness."
+          },
+          {
+            "when": "Today",
+            "text": "The idiom means making a notably big effort to achieve something or overcome difficulty."
+          }
+        ]
+      },
+      "similar": [
+        "go to extreme lengths",
+        "leave no stone unturned",
+        "pull out all the stops"
+      ],
+      "opposite": "go to minimal lengths",
+      "pitfall": "Use it for effort that stands out; for ordinary hard work, ‘try hard’ is usually more natural."
+    },
+    {
+      "id": "have-ones-cake-and-eat-it-too",
+      "kind": "idiom",
+      "term": "have one’s cake and eat it too",
+      "pos": "idiom",
+      "hint": "enjoy both benefits without paying the usual cost",
+      "register": "Everyday",
+      "meaning": "To enjoy the benefits of two options without having to make the usual trade-off between them.",
+      "nuance": "Often mildly critical, suggesting that someone is expecting to avoid a genuine disadvantage. It can also be used approvingly when a situation genuinely offers both advantages.",
+      "literal": "Eating an entire cake while still keeping it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Benefits discussion · flexible hours",
+          "sentence": "Employees expect to have their cake and eat it too: strong benefits and a lighter workload.",
+          "highlight": "have their cake and eat it too",
+          "tip": "The pronoun changes to match the subject."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans · choosing a venue",
+          "sentence": "She wants the lively restaurant and the quiet patio, so she really does have her cake and eat it too.",
+          "highlight": "have her cake and eat it too",
+          "tip": "Natural when discussing an unusually convenient option."
+        },
+        {
+          "setting": "writing",
+          "where": "Housing market · buyer expectations",
+          "sentence": "Some buyers seem to think they can have their cake and eat it too by paying yesterday’s prices for today’s homes.",
+          "highlight": "have their cake and eat it too",
+          "tip": "Common in commentary about unrealistic expectations."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from an older proverb that you cannot enjoy a cake and also consume it. The exact development of the positive wording is not fully documented.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1700s",
+            "text": "English proverb collections include versions warning that a person cannot have and eat the same cake."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "The expression expands into familiar forms such as ‘have your cake and eat it’ and the modern wording."
+          },
+          {
+            "when": "Today",
+            "text": "It means enjoying benefits that should normally require a trade-off."
+          }
+        ]
+      },
+      "similar": [
+        "best of both worlds",
+        "get the best of both worlds",
+        "have it both ways"
+      ],
+      "opposite": "choose between two things",
+      "pitfall": "The possessive changes with the subject: ‘have his cake and eat it too,’ ‘have their cake and eat it too.’"
+    },
+    {
+      "id": "keep-ones-head-above-water",
+      "kind": "idiom",
+      "term": "keep one’s head above water",
+      "pos": "idiom",
+      "hint": "stay afloat despite difficulties",
+      "register": "Common at work",
+      "meaning": "To maintain enough stability, money, or energy to cope with difficult circumstances.",
+      "nuance": "It suggests continuing to manage, often with limited resources. It can describe personal resilience or a business surviving a challenging period.",
+      "literal": "Keeping your head above the surface while swimming.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · tight budget",
+          "sentence": "With three major clients delayed, we’re just trying to keep our heads above water.",
+          "highlight": "keep our heads above water",
+          "tip": "The verb changes to match the subject: ‘keep your head,’ ‘keeps their heads,’ and so on."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with a friend",
+          "sentence": "She managed her hours and kept her head above water while caring for her mother.",
+          "highlight": "kept her head above water",
+          "tip": "Often describes coping through a demanding or costly period."
+        },
+        {
+          "setting": "writing",
+          "where": "Local business report",
+          "sentence": "Independent shops are keeping their heads above water despite weaker customer spending.",
+          "highlight": "keeping their heads above water",
+          "tip": "Common in reporting on finances, workloads, or survival pressures."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from the literal act of swimming and was later used figuratively for people or organizations struggling to remain stable. The figurative wording is well documented from the nineteenth century onward.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal image is a swimmer keeping their head above the surface of the water."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression appears in writing for maintaining oneself while under pressure or in financial difficulty."
+          },
+          {
+            "when": "Today",
+            "text": "It means coping with difficulties and avoiding collapse, even if the situation remains difficult."
+          }
+        ]
+      },
+      "similar": [
+        "stay afloat",
+        "keep afloat",
+        "scrape by",
+        "make ends meet"
+      ],
+      "opposite": "go under",
+      "pitfall": "This describes coping rather than having plenty of spare capacity, so it often implies that the situation is strained."
+    },
+    {
+      "id": "lions-share",
+      "kind": "idiom",
+      "term": "lion's share",
+      "pos": "idiom",
+      "hint": "the biggest part of the prize",
+      "register": "Common at work",
+      "meaning": "The largest or most important part of something shared.",
+      "nuance": "It often suggests that someone has received a disproportionately large portion. It can be neutral when describing a result, or mildly critical when suggesting one person benefited too much.",
+      "literal": "The portion of a prey that a lion would take first and claim for itself.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team bonus discussion",
+          "sentence": "The project was successful, but the finance team received the lion's share of the praise.",
+          "highlight": "lion's share",
+          "tip": "Use it to comment on an unequal distribution of credit, rewards, or responsibility."
+        },
+        {
+          "setting": "social",
+          "where": "Splitting a restaurant bill",
+          "sentence": "We ordered two pizzas, and my brother somehow got the lion's share of the food.",
+          "highlight": "lion's share",
+          "tip": "Often used playfully when someone takes or receives most of something."
+        },
+        {
+          "setting": "writing",
+          "where": "Company results report",
+          "sentence": "Mobile products accounted for the lion's share of revenue this quarter.",
+          "highlight": "lion's share",
+          "tip": "Common in business writing when one item makes up most of a total."
+        }
+      ],
+      "origin": {
+        "summary": "The expression likely developed in the 1800s from the idea of a lion claiming the best or largest part of a meal. Its wording is well established in English, but the exact first use is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Stories and fables commonly portrayed a lion as the strongest animal, taking the choicest part of the food."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase appears in English as a metaphor for the largest part of a shared benefit."
+          },
+          {
+            "when": "Today",
+            "text": "Means the biggest share of profit, credit, resources, attention, or food."
+          }
+        ]
+      },
+      "similar": [
+        "the bulk",
+        "the majority",
+        "the biggest slice"
+      ],
+      "pitfall": "It usually means the largest portion, not simply any share."
+    },
+    {
+      "id": "make-ends-meet",
+      "kind": "idiom",
+      "term": "make ends meet",
+      "pos": "idiom",
+      "hint": "have just enough money",
+      "register": "Everyday",
+      "meaning": "To earn just enough money to pay your bills and basic expenses.",
+      "nuance": "It often suggests a tight budget with little room for extras. It can also cover the practical effort of balancing income, work and household costs.",
+      "literal": "Stretching or joining two ends so they come together.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Staff meeting · discussing pay",
+          "sentence": "With rent rising, we’re barely making ends meet on my current salary.",
+          "highlight": "making ends meet",
+          "tip": "The verb form changes with the sentence."
+        },
+        {
+          "setting": "social",
+          "where": "Chatting about household finances",
+          "sentence": "We’ve started cooking at home because we’re trying to make ends meet this year.",
+          "highlight": "make ends meet",
+          "tip": "Common when discussing budgets, wages and living costs."
+        },
+        {
+          "setting": "writing",
+          "where": "Local news · cost-of-living report",
+          "sentence": "Many families are struggling to make ends meet as food and housing prices continue to rise.",
+          "highlight": "make ends meet",
+          "tip": "Useful in reports on wages, debt and household finances."
+        }
+      ],
+      "origin": {
+        "summary": "The expression was documented by the early 1700s in the sense of managing within one’s income. Its wording comes from the idea of making two separate ends come together.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1700s",
+            "text": "The phrase appears in English in the sense of living within one’s means."
+          },
+          {
+            "when": "Today",
+            "text": "It means having enough income to cover expenses, usually with little money left over."
+          }
+        ]
+      },
+      "similar": [
+        "live within your means",
+        "make do",
+        "get by",
+        "stretch the budget"
+      ],
+      "opposite": "be comfortably well off",
+      "pitfall": "It describes covering the basics, not necessarily saving money or having financial comfort."
+    },
+    {
+      "id": "save-for-a-rainy-day",
+      "kind": "idiom",
+      "term": "save for a rainy day",
+      "pos": "idiom",
+      "hint": "keep something for a difficult time",
+      "register": "Everyday",
+      "meaning": "To set aside money or resources for a future time when you may need them.",
+      "nuance": "It suggests sensible preparation for an unexpected difficulty or expense. It is often used when someone has deliberately put money aside.",
+      "literal": "Keeping money safe for a day when the weather is bad.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget planning · unexpected costs",
+          "sentence": "We saved for a rainy day when the supplier increased its prices.",
+          "highlight": "saved for a rainy day",
+          "tip": "Often refers to building a financial cushion for unexpected problems."
+        },
+        {
+          "setting": "social",
+          "where": "Planning · car trouble",
+          "sentence": "I’m saving for a rainy day in case my car needs an expensive repair.",
+          "highlight": "saving for a rainy day",
+          "tip": "Common in everyday conversation about personal finances."
+        },
+        {
+          "setting": "writing",
+          "where": "Financial advice · household planning",
+          "sentence": "An emergency fund can help families save for a rainy day.",
+          "highlight": "save for a rainy day",
+          "tip": "Useful in articles about saving, budgeting and financial security."
+        }
+      ],
+      "origin": {
+        "summary": "The expression probably developed from the older idea of keeping money for bad weather or future hardship. Its modern figurative sense became established in the 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1500s–1600s",
+            "text": "The phrase “rainy day” was used for a time of need or hardship, especially when work or income was uncertain."
+          },
+          {
+            "when": "1700s",
+            "text": "Writers began using “rainy day” figuratively for difficult future circumstances."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression “save for a rainy day” became established for setting money aside for future needs."
+          }
+        ]
+      },
+      "similar": [
+        "set aside for a rainy day",
+        "put something away for later",
+        "build an emergency fund"
+      ],
+      "pitfall": "This means preparing for future hardship, not saving money specifically because the weather is bad."
+    },
+    {
+      "id": "save-something-for-a-rainy-day",
+      "kind": "idiom",
+      "term": "save something for a rainy day",
+      "pos": "phrase",
+      "hint": "put money aside for hard times",
+      "register": "Everyday",
+      "meaning": "To keep money or resources in reserve for future problems or unexpected costs.",
+      "nuance": "It suggests sensible planning rather than thriftiness for its own sake. Use it when discussing savings, backups or preparing for uncertainty.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget planning · unexpected costs",
+          "sentence": "Save something for a rainy day in case an urgent repair pushes the project over budget.",
+          "highlight": "Save something for a rainy day",
+          "tip": "Often used when discussing emergency budgets or contingency funds."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a costly repair",
+          "sentence": "I always save something for a rainy day in case my car needs an expensive repair.",
+          "highlight": "save something for a rainy day",
+          "tip": "Common in everyday conversations about personal finances."
+        },
+        {
+          "setting": "writing",
+          "where": "Financial advice",
+          "sentence": "Save something for a rainy day rather than spend every spare penny on unnecessary purchases.",
+          "highlight": "Save something for a rainy day",
+          "tip": "Friendly and practical, but still suitable for a financial article."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the old idea of preparing for bad weather and difficult times. Its roots are clear, although the first recorded use of the exact modern wording is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Traditional advice urged people to prepare for lean or difficult periods."
+          },
+          {
+            "when": "1800s",
+            "text": "The familiar image of keeping money for a ‘rainy day’ becomes established in English."
+          },
+          {
+            "when": "Today",
+            "text": "It means putting money or resources aside for future problems."
+          }
+        ]
+      },
+      "similar": [
+        "put something aside",
+        "prepare for the unexpected",
+        "build a buffer"
+      ],
+      "opposite": "spend it while you have it",
+      "pitfall": "The word after ‘save’ names what is being kept, so use ‘save money for a rainy day’ or ‘save something for a rainy day’, not ‘save for a rainy day something’."
+    },
+    {
+      "id": "take-its-toll",
+      "kind": "idiom",
+      "term": "take its toll",
+      "pos": "idiom",
+      "hint": "cause harm over time",
+      "register": "Common at work",
+      "meaning": "To have a gradually harmful or costly effect on someone or something.",
+      "nuance": "The effect builds up over time and may affect health, relationships, finances, or results. It is often serious but not necessarily fatal.",
+      "literal": "A toll is a charge for passing somewhere, so the picture is something collecting a cost as people continue through it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team debrief · repeated deadlines",
+          "sentence": "The constant deadlines have taken their toll on the team’s morale.",
+          "highlight": "taken their toll",
+          "tip": "Use the number of the subject: ‘her stress has taken its toll.’"
+        },
+        {
+          "setting": "social",
+          "where": "Catching up · missed calls",
+          "sentence": "Not returning my calls has really taken its toll on our friendship.",
+          "highlight": "taken its toll",
+          "tip": "Works well when describing gradual damage to a relationship."
+        },
+        {
+          "setting": "writing",
+          "where": "Public health report · burnout",
+          "sentence": "Long working hours can take their toll on mental and physical health.",
+          "highlight": "take their toll",
+          "tip": "A useful phrase in reports about health, costs, or negative effects."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from the literal idea of paying a toll. Its figurative sense—charging a cost or causing damage—was in use by the 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "A ‘toll’ was an established charge paid to cross a bridge, enter a region, or use a road."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers began using ‘take a toll’ figuratively to mean impose a cost or consequence."
+          },
+          {
+            "when": "Today",
+            "text": "‘Take its toll’ describes a harmful effect that accumulates over time."
+          }
+        ]
+      },
+      "similar": [
+        "exact a toll",
+        "wear and tear",
+        "take a heavy toll",
+        "exact a heavy toll"
+      ],
+      "opposite": "pay dividends",
+      "pitfall": "‘Take its toll’ describes causing harm or loss; ‘pay a toll’ usually means paying a literal charge."
+    }
+  ]
+}

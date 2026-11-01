@@ -1,0 +1,1192 @@
+{
+  "id": "idioms-conflict-disagreement-2",
+  "kind": "idiom",
+  "name": "Conflict & disagreement · 2",
+  "blurb": "20 idioms about conflict & disagreement",
+  "cards": [
+    {
+      "id": "low-blow",
+      "kind": "idiom",
+      "term": "low blow",
+      "pos": "idiom",
+      "hint": "an unfair hit",
+      "register": "Common at work",
+      "meaning": "An action or comment that is deliberately cruel, unfair, or disloyal.",
+      "nuance": "It suggests an attack on someone’s dignity, efforts, or reputation rather than an ordinary criticism. Often used when the attack feels personal or underhanded.",
+      "literal": "A punch aimed below the waist in boxing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · criticism of a colleague",
+          "sentence": "Calling me incompetent was a low blow, especially when I had stayed late to finish the report.",
+          "highlight": "low blow",
+          "tip": "Use it for comments that seem needlessly personal or disloyal."
+        },
+        {
+          "setting": "social",
+          "where": "Friendship · an unexpected insult",
+          "sentence": "Making fun of her accent after she introduced me was a real low blow.",
+          "highlight": "low blow",
+          "tip": "Often intensified with ‘real’ or ‘pretty’."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · dismissing someone’s work",
+          "sentence": "The review was a low blow, belittling the artist’s background instead of discussing the exhibition.",
+          "highlight": "low blow",
+          "tip": "Useful in opinion writing when describing a deliberately derogatory attack."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from boxing, where a low blow is a punch below the waist. It was later used figuratively for a cruel or disloyal action.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Late 1800s",
+            "text": "Boxing and newspapers use the literal expression for a punch or blow aimed below the waist."
+          },
+          {
+            "when": "Late 1800s",
+            "text": "Writers begin applying it to unfair remarks and harmful actions."
+          },
+          {
+            "when": "Today",
+            "text": "It describes a personal attack delivered in a mean or underhanded way."
+          }
+        ]
+      },
+      "similar": [
+        "underhanded blow",
+        "dirty trick",
+        "sneak attack"
+      ],
+      "opposite": "fair play",
+      "pitfall": "Usually used as a noun, often in the form ‘a low blow’; it is not normally a verb."
+    },
+    {
+      "id": "mean-business",
+      "kind": "idiom",
+      "term": "mean business",
+      "pos": "idiom",
+      "hint": "seriously determined",
+      "register": "Common at work",
+      "meaning": "To show that you are serious and ready to take firm action.",
+      "nuance": "It signals determination, often with an implied warning or threat. Use it when someone wants others to know they will not tolerate delays, excuses, or poor performance.",
+      "literal": "Treating something as a serious purpose rather than a casual matter.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · missed targets",
+          "sentence": "The director means business about improving the team’s delivery rate.",
+          "highlight": "means business",
+          "tip": "Often used to signal that a warning is serious."
+        },
+        {
+          "setting": "social",
+          "where": "Friends · boundary crossed",
+          "sentence": "If he keeps insulting people, I’m going to mean business.",
+          "highlight": "mean business",
+          "tip": "Works when someone is about to set a firm boundary."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · compliance",
+          "sentence": "The new policy makes clear that the company means business about data protection.",
+          "highlight": "means business",
+          "tip": "Common in formal reports, statements, and workplace messages."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably grew from older expressions about getting down to serious business. It was in use by the 19th century, when it could mean acting with purpose, and later developed the stronger sense of being ready to enforce rules.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The phrase appears in writing, initially suggesting serious purpose or determined action."
+          },
+          {
+            "when": "Later",
+            "text": "It becomes associated with firmness, warnings, and enforcing discipline."
+          },
+          {
+            "when": "Today",
+            "text": "It is used to show that someone is serious about a situation."
+          }
+        ]
+      },
+      "similar": [
+        "get down to business",
+        "not play around",
+        "no funny business",
+        "get serious"
+      ],
+      "opposite": "not be serious",
+      "pitfall": "Use it when describing determination, not as a synonym for being busy. “I have a lot of work to do” does not necessarily mean business."
+    },
+    {
+      "id": "on-the-receiving-end",
+      "kind": "idiom",
+      "term": "on the receiving end",
+      "pos": "idiom",
+      "hint": "getting the criticism",
+      "register": "Common at work",
+      "meaning": "To be the person experiencing criticism, blame, or an unwanted consequence.",
+      "nuance": "It often suggests that the other person is actively delivering criticism, blame, or bad news. It can sound formal in workplace writing but is natural in conversation.",
+      "literal": "Being at the end of a line where blows, messages, or other unwanted things arrive.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · hearing criticism",
+          "sentence": "After missing two deadlines, she was on the receiving end of some tough feedback.",
+          "highlight": "on the receiving end",
+          "tip": "Common when describing criticism or blame directed at someone."
+        },
+        {
+          "setting": "social",
+          "where": "Argument · defending a choice",
+          "sentence": "I suggested cancelling the trip, so I was on the receiving end of my friends’ complaints.",
+          "highlight": "on the receiving end",
+          "tip": "Often follows an action that affects other people."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · reaction to a policy",
+          "sentence": "Small businesses were on the receiving end of complaints about the new fees.",
+          "highlight": "on the receiving end",
+          "tip": "Useful for reporting who is experiencing criticism or harm."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably developed from the idea of being positioned to receive blows or messages. Its figurative use for experiencing criticism was established by the early 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The expression appears in contexts involving someone being at the end of a line and receiving blows or communications."
+          },
+          {
+            "when": "1900s",
+            "text": "Its use broadened to mean experiencing blame, criticism, or other unwelcome effects."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly identifies the person facing negative feedback or consequences."
+          }
+        ]
+      },
+      "similar": [
+        "be the target of",
+        "come under fire",
+        "bear the brunt"
+      ],
+      "opposite": "be on the giving end",
+      "pitfall": "It describes the person receiving criticism or an unwanted effect, not the person delivering it."
+    },
+    {
+      "id": "rip-into",
+      "kind": "idiom",
+      "term": "rip into",
+      "pos": "verb",
+      "hint": "attack sharply—or eat eagerly",
+      "register": "Common at work",
+      "meaning": "To criticize or attack someone forcefully, or to eat something quickly and eagerly.",
+      "nuance": "The meaning depends on context: use it for fierce criticism or vigorous action, including starting to eat with great enthusiasm.",
+      "literal": "Tearing something apart with force, especially food or an opponent.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team review · weak proposal",
+          "sentence": "The director rip into the proposal and challenged every major assumption.",
+          "highlight": "rip into",
+          "tip": "Often describes forceful criticism of a person, plan, or performance."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner table · hungry guests",
+          "sentence": "The children rip into the pizza before anyone had finished serving the drinks.",
+          "highlight": "rip into",
+          "tip": "With food, it means eating quickly and eagerly."
+        },
+        {
+          "setting": "writing",
+          "where": "Op-ed · criticizing a policy",
+          "sentence": "The columnist rips into the policy in a sharp, well-argued article.",
+          "highlight": "rips into",
+          "tip": "Common in forceful editorial writing about people, organizations, or decisions."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is unclear. The phrase probably grew from older senses of “rip,” meaning to tear apart or attack forcefully, combined with “into” to emphasize vigorous action.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Rip” was used for pulling something apart and for attacking with force."
+          },
+          {
+            "when": "19th century",
+            "text": "Writers began using “rip into” for fierce criticism or vigorous physical action."
+          },
+          {
+            "when": "Today",
+            "text": "It can describe forceful criticism or eating food eagerly."
+          }
+        ]
+      },
+      "similar": [
+        "tear into",
+        "lay into",
+        "jump on"
+      ],
+      "opposite": "back off",
+      "pitfall": "Don’t confuse it with “rip off,” which means to steal from or unfairly overcharge someone."
+    },
+    {
+      "id": "shoot-the-messenger",
+      "kind": "idiom",
+      "term": "shoot the messenger",
+      "pos": "idiom",
+      "hint": "blame the person bringing bad news",
+      "register": "Common at work",
+      "meaning": "To blame or punish someone for delivering unwelcome news instead of dealing with the problem itself.",
+      "nuance": "It criticizes an unfair reaction to bad news. Use it when someone focuses on blaming the reporter rather than fixing the issue.",
+      "literal": "Attacking the person who brings a message.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project update · missed deadline",
+          "sentence": "The client wanted to shoot the messenger, but the team needed to discuss why the deadline was missed.",
+          "highlight": "shoot the messenger",
+          "tip": "Often follows ‘tried to’ or ‘wanted to’ when describing an unreasonable response."
+        },
+        {
+          "setting": "social",
+          "where": "Group chat · cancelled plans",
+          "sentence": "My friend changed the plan, and I joked that I was about to shoot the messenger.",
+          "highlight": "shoot the messenger",
+          "tip": "Usually humorous or lightly accusing, rather than a serious threat."
+        },
+        {
+          "setting": "writing",
+          "where": "Leadership email · bad survey results",
+          "sentence": "Managers should support teams receiving criticism, not shoot the messenger who reports it.",
+          "highlight": "shoot the messenger",
+          "tip": "Useful in writing about accountability, feedback, and transparent communication."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the idea that a person bringing bad news may be blamed or harmed for the message rather than for causing the problem. Its exact earliest origin is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Stories and sayings warned that people might punish or attack those who brought unwelcome news."
+          },
+          {
+            "when": "1600s",
+            "text": "The idea appears in English writing, including a reference to killing or attacking a messenger who delivers bad news."
+          },
+          {
+            "when": "Today",
+            "text": "Means blaming the person who reports a problem instead of addressing the problem itself."
+          }
+        ]
+      },
+      "similar": [
+        "Blame the messenger",
+        "Shoot the breeze",
+        "Pass the buck"
+      ],
+      "opposite": "Face the music",
+      "pitfall": "It means blaming the news-bearer; it does not mean to reject the news itself."
+    },
+    {
+      "id": "sit-on-the-fence",
+      "kind": "idiom",
+      "term": "sit on the fence",
+      "pos": "idiom",
+      "hint": "avoid choosing a side",
+      "register": "Common at work",
+      "meaning": "To avoid taking a clear position in an argument or decision.",
+      "nuance": "It often suggests deliberate caution or indecision. It can describe someone waiting for more information, but it can also criticise them for refusing to commit.",
+      "literal": "Someone sitting on top of a fence without stepping down to either side.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · choosing a direction",
+          "sentence": "We need a decision by Friday; sitting on the fence will delay the project.",
+          "highlight": "sitting on the fence",
+          "tip": "Useful when someone is deliberately avoiding responsibility for a choice."
+        },
+        {
+          "setting": "social",
+          "where": "Family argument · choosing a restaurant",
+          "sentence": "You’re sitting on the fence about dinner, so just choose the Italian place.",
+          "highlight": "sitting on the fence",
+          "tip": "Often used teasingly when someone cannot make even a minor decision."
+        },
+        {
+          "setting": "writing",
+          "where": "Political analysis · a divided vote",
+          "sentence": "Several members continued to sit on the fence when the committee voted on the proposal.",
+          "highlight": "sit on the fence",
+          "tip": "Common in reporting about politics, negotiations and divided groups."
+        }
+      ],
+      "origin": {
+        "summary": "The image comes from choosing between two sides, especially political ones. The phrase was in use by the early 1800s and later became a general expression for refusing to commit.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The phrase appears in writing as a metaphor for maintaining a neutral position between opposing sides."
+          },
+          {
+            "when": "Later",
+            "text": "Its use expands beyond politics to describe neutrality in arguments, decisions and negotiations."
+          },
+          {
+            "when": "Today",
+            "text": "It can be neutral, describing caution, or critical, implying wishy-washiness."
+          }
+        ]
+      },
+      "similar": [
+        "straddle the fence",
+        "remain neutral",
+        "avoid taking sides"
+      ],
+      "opposite": "take a side",
+      "pitfall": "Sitting on the fence is not simply waiting; it usually implies avoiding a clear position even when a choice is expected."
+    },
+    {
+      "id": "smoking-gun",
+      "kind": "idiom",
+      "term": "smoking gun",
+      "pos": "noun",
+      "hint": "evidence that cannot be ignored",
+      "register": "Common at work",
+      "meaning": "Clear, convincing evidence that proves something happened.",
+      "nuance": "It suggests the evidence is so direct that the explanation is hard to dispute. It is common in investigations, workplaces and everyday arguments.",
+      "literal": "A gun that has just been fired, leaving obvious smoke behind.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Internal investigation · disputed expenses",
+          "sentence": "The duplicate receipts were the smoking gun that proved he had claimed the same costs twice.",
+          "highlight": "smoking gun",
+          "tip": "Use it for evidence that settles a question rather than merely supporting a suspicion."
+        },
+        {
+          "setting": "social",
+          "where": "Friends arguing · broken vase",
+          "sentence": "Her handprint on the vase was the smoking gun, so nobody else needed to guess who dropped it.",
+          "highlight": "smoking gun",
+          "tip": "Often used when someone is caught out and the proof is obvious."
+        },
+        {
+          "setting": "writing",
+          "where": "Crime report · leaked documents",
+          "sentence": "The timestamped recording became the smoking gun in the case against the fraudster.",
+          "highlight": "smoking gun",
+          "tip": "Effective in reporting when evidence provides a decisive link."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase appeared in 19th-century writing, but its exact origin is unclear. It likely refers literally to a recently fired gun and figuratively to evidence that leaves no room for doubt.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Early English uses connect a smoking gun with something obvious or unmistakable."
+          },
+          {
+            "when": "1900s",
+            "text": "The expression becomes established for clear proof in investigations and arguments."
+          },
+          {
+            "when": "Today",
+            "text": "Means decisive evidence that directly supports a conclusion."
+          }
+        ]
+      },
+      "similar": [
+        "hard evidence",
+        "proof positive",
+        "smoking pistol"
+      ],
+      "pitfall": "It does not mean merely a strong clue; the evidence should be compelling and hard to dispute."
+    },
+    {
+      "id": "take-for-a-ride",
+      "kind": "idiom",
+      "term": "take for a ride",
+      "pos": "idiom",
+      "hint": "not just a car trip",
+      "register": "Common at work",
+      "meaning": "To deceive someone or treat them badly, often for your own advantage.",
+      "nuance": "It suggests a false promise, betrayal, or exploitation. The phrase often appears in accusations and is especially common in American English.",
+      "literal": "Giving someone a ride in a vehicle.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Vendor review · disputed invoice",
+          "sentence": "I think the supplier took us for a ride with those exaggerated delivery estimates.",
+          "highlight": "took us for a ride",
+          "tip": "Use it when someone has knowingly misled you."
+        },
+        {
+          "setting": "social",
+          "where": "Approach from a friend",
+          "sentence": "He claimed he could fix my laptop for free, but I think he was just taking me for a ride.",
+          "highlight": "taking me for a ride",
+          "tip": "Often sounds like a warning that a deal is dishonest."
+        },
+        {
+          "setting": "writing",
+          "where": "Consumer warning",
+          "sentence": "Several customers said the online shop took them for a ride with fake discount claims.",
+          "highlight": "took them for a ride",
+          "tip": "A blunt option for reporting deliberate deception in informal writing."
+        }
+      ],
+      "origin": {
+        "summary": "The idiom probably grew from the literal idea of taking someone along for a ride, then extended to carrying them away under false pretenses. Its exact development is not clearly documented.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used the literal expression of giving someone a ride in a vehicle."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "The expression began appearing in senses connected with deception and mistreatment."
+          },
+          {
+            "when": "Today",
+            "text": "It usually means deceiving or exploiting someone."
+          }
+        ]
+      },
+      "similar": [
+        "take advantage of",
+        "pull the wool over someone’s eyes",
+        "con someone",
+        "choke someone"
+      ],
+      "opposite": "treat someone fairly",
+      "pitfall": "When no deception is involved, say ‘take someone for a ride’ only if you mean a literal outing."
+    },
+    {
+      "id": "take-matters-into-ones-own-hands",
+      "kind": "idiom",
+      "term": "take matters into one's own hands",
+      "pos": "idiom",
+      "hint": "stop waiting and take control",
+      "register": "Common at work",
+      "meaning": "To deal with a problem yourself instead of relying on someone else to handle it.",
+      "nuance": "It suggests direct action and personal responsibility. It can sound determined, but it may also imply that someone has stopped waiting for an official process.",
+      "literal": "Taking a problem into your own hands so that you can control what happens.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · fixing a delayed launch",
+          "sentence": "After waiting weeks for approval, we took matters into our own hands and fixed the release process.",
+          "highlight": "took matters into our own hands",
+          "tip": "Common when a team decides it cannot depend on another group."
+        },
+        {
+          "setting": "social",
+          "where": "Neighbours · repairing a broken gate",
+          "sentence": "The residents took matters into their own hands and repaired the gate themselves.",
+          "highlight": "took matters into their own hands",
+          "tip": "Often implies bypassing delay, rules or outside help."
+        },
+        {
+          "setting": "writing",
+          "where": "Community news · local service failure",
+          "sentence": "Volunteers took matters into their own hands after months of unanswered complaints.",
+          "highlight": "took matters into their own hands",
+          "tip": "Useful in reporting when a group acts without waiting for authorities."
+        }
+      ],
+      "origin": {
+        "summary": "The wording dates back to the early modern period, when taking something physically into one's hand meant handling it personally. The modern figurative sense developed from that literal idea of direct control.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1500s–1600s",
+            "text": "Early uses refer to handling or managing something personally."
+          },
+          {
+            "when": "Later",
+            "text": "The phrase comes to mean dealing with a problem directly rather than leaving it to others."
+          },
+          {
+            "when": "Today",
+            "text": "It describes taking personal control of a situation, often after delay or frustration."
+          }
+        ]
+      },
+      "similar": [
+        "take charge",
+        "take the reins",
+        "take things into your own hands",
+        "take direct action"
+      ],
+      "opposite": "leave it to someone else",
+      "pitfall": "Usually the phrase is plural: “take matters into your own hands,” “take matters into their own hands.”"
+    },
+    {
+      "id": "take-no-for-an-answer",
+      "kind": "idiom",
+      "term": "take no for an answer",
+      "pos": "idiom",
+      "hint": "refuse to accept a refusal",
+      "register": "Everyday",
+      "meaning": "To keep asking or trying after someone has already said no.",
+      "nuance": "It often suggests stubborn persistence and can feel frustrated, persuasive or even pushy, depending on the context.",
+      "literal": "Treat someone’s “no” as if it were something other than an answer.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Negotiating · requesting a deadline extension",
+          "sentence": "The team wouldn’t take no for an answer, so they offered to split the work.",
+          "highlight": "wouldn’t take no for an answer",
+          "tip": "Shows persistence, but avoid making the request sound demanding."
+        },
+        {
+          "setting": "social",
+          "where": "Asking · borrowing a car",
+          "sentence": "He wouldn’t take no for an answer and kept asking me to borrow my car.",
+          "highlight": "wouldn’t take no for an answer",
+          "tip": "Common when describing someone who keeps pursuing a request."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · customer negotiation",
+          "sentence": "Determined to improve the offer, the sales team refused to take no for an answer.",
+          "highlight": "refused to take no for an answer",
+          "tip": "Useful in reporting how someone pursued negotiations."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is recorded from the early 1800s and uses the idea that a person treats “no” as an answer they can continue to challenge.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Early 1800s",
+            "text": "The expression first appears in English writing in the form “take no for an answer.”"
+          },
+          {
+            "when": "Later 1800s–1900s",
+            "text": "Its use becomes established for persistent or repeated attempts to get a different response."
+          },
+          {
+            "when": "Today",
+            "text": "It describes refusing to give up after being rejected."
+          }
+        ]
+      },
+      "similar": [
+        "not take no for an answer",
+        "keep pushing",
+        "press the issue"
+      ],
+      "opposite": "accept no for an answer",
+      "pitfall": "The expression normally takes a form such as “she wouldn’t take no for an answer”; don’t use it when someone is simply ignoring a refusal."
+    },
+    {
+      "id": "take-the-wind-out-of-someones-sails",
+      "kind": "idiom",
+      "term": "take the wind out of someone's sails",
+      "pos": "idiom",
+      "hint": "weaken someone’s confidence or enthusiasm",
+      "register": "Common at work",
+      "meaning": "To make someone lose confidence, enthusiasm, or momentum.",
+      "nuance": "It describes reducing someone’s strength or willingness to act, often through bad news or criticism. It can sound blunt, so use it carefully when the person may be sensitive.",
+      "literal": "Removing the wind from a ship’s sails so the ship cannot move forward.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · disappointing update",
+          "sentence": "The sudden budget cuts took the wind out of our sails.",
+          "highlight": "took the wind out of our sails",
+          "tip": "Often describes a setback that weakens motivation or momentum."
+        },
+        {
+          "setting": "social",
+          "where": "Plans for the weekend",
+          "sentence": "Her unexpected cancellation took the wind out of my sails.",
+          "highlight": "took the wind out of my sails",
+          "tip": "Natural when one event spoils your excitement or plans."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update",
+          "sentence": "The delay took the wind out of the team’s sails, and productivity fell sharply.",
+          "highlight": "took the wind out of the team’s sails",
+          "tip": "Useful in reporting when explaining a loss of confidence or momentum."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from sailing. If the wind is removed from a ship’s sails, the ship loses its power to move, just as a person may lose confidence or enthusiasm.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Sailors used the movement of the wind and sails as a familiar image for controlling a ship’s speed and direction."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers began using the idea of taking the wind from sails figuratively."
+          },
+          {
+            "when": "Today",
+            "text": "It means weakening someone’s confidence, enthusiasm, or ability to make progress."
+          }
+        ]
+      },
+      "similar": [
+        "deflate someone’s enthusiasm",
+        "dampen someone’s spirits",
+        "put a damper on something",
+        "undermine someone’s confidence"
+      ],
+      "opposite": "give someone a boost",
+      "pitfall": "Do not confuse it with ‘steal someone’s thunder’, which means taking attention or credit from someone else."
+    },
+    {
+      "id": "lesser-of-two-evils",
+      "kind": "idiom",
+      "term": "the lesser of two evils",
+      "pos": "idiom",
+      "hint": "the less harmful choice",
+      "register": "Everyday",
+      "meaning": "The less harmful option when neither choice is good.",
+      "nuance": "It acknowledges an unwelcome choice but emphasizes that one option has fewer drawbacks. Use it when comparing bad alternatives, often to justify a practical decision.",
+      "literal": "One of two harmful things is smaller or less serious than the other.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · choosing a strategy",
+          "sentence": "Delaying the launch is the lesser of two evils compared with releasing a broken product.",
+          "highlight": "lesser of two evils",
+          "tip": "Useful for weighing two imperfect business options."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a noisy event",
+          "sentence": "Hiring a small band was the lesser of two evils because a DJ was too expensive.",
+          "highlight": "lesser of two evils",
+          "tip": "Often sounds practical, slightly resigned, and informal."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · discussing a difficult decision",
+          "sentence": "Some criticism may be the lesser of two evils if it prevents a more serious problem.",
+          "highlight": "lesser of two evils",
+          "tip": "Common in measured arguments and professional writing."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from the old philosophical idea that, when faced with two evils, people should choose the less harmful one. Its earliest exact wording is difficult to trace, but the concept appears in ancient Greek and Roman thought.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Philosophers discussed choosing the lesser evil when both available choices were harmful."
+          },
+          {
+            "when": "1400s",
+            "text": "Early English uses of ‘lesser evil’ reflect that older philosophical comparison."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase names the less harmful option between two undesirable choices."
+          }
+        ]
+      },
+      "similar": [
+        "the lesser evil",
+        "choose the lesser evil",
+        "a necessary evil",
+        "damned if we do, damned if we don’t"
+      ],
+      "pitfall": "It does not mean the choice is good—only that it is less bad than the alternative."
+    },
+    {
+      "id": "throw-in-the-towel",
+      "kind": "idiom",
+      "term": "throw in the towel",
+      "pos": "idiom",
+      "hint": "accept that you have lost",
+      "register": "Common at work",
+      "meaning": "To admit defeat and stop trying to win or succeed.",
+      "nuance": "It means giving up after effort has failed, often with resignation rather than a strategic retreat. It can describe one person, a team, or an organization.",
+      "literal": "In boxing, a defeated fighter’s seconds signal surrender by throwing a towel into the ring.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · after repeated setbacks",
+          "sentence": "We may have to throw in the towel and postpone the product launch until next quarter.",
+          "highlight": "throw in the towel",
+          "tip": "Often followed by a practical alternative or next step."
+        },
+        {
+          "setting": "social",
+          "where": "Friendly competition · losing a game",
+          "sentence": "I’m throwing in the towel before the rest of you realize how good you are.",
+          "highlight": "throwing in the towel",
+          "tip": "Can sound playful when the defeat is harmless."
+        },
+        {
+          "setting": "writing",
+          "where": "Sports report · a title challenge",
+          "sentence": "The champion threw in the towel after the third round, ending a determined but unsuccessful defence.",
+          "highlight": "threw in the towel",
+          "tip": "Common in reports about matches, races, and other contests."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from boxing, where a fighter’s seconds could signal surrender by throwing a towel into the ring. An earlier expression used a sponge instead of a towel.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1700s",
+            "text": "Boxing reports describe the expression “throw up the sponge,” referring to ending a fight."
+          },
+          {
+            "when": "1800s",
+            "text": "The form with “towel” appears in English writing and becomes the familiar expression."
+          },
+          {
+            "when": "Today",
+            "text": "It means admitting defeat and abandoning a contest or effort."
+          }
+        ]
+      },
+      "similar": [
+        "give up",
+        "concede defeat",
+        "throw in the sponge",
+        "cede the match"
+      ],
+      "opposite": "fight on",
+      "pitfall": "It means accepting defeat, not simply taking a short break or changing strategy."
+    },
+    {
+      "id": "throw-to-the-wolves",
+      "kind": "idiom",
+      "term": "throw to the wolves",
+      "pos": "idiom",
+      "hint": "sacrifice someone to danger",
+      "register": "Common at work",
+      "meaning": "To expose someone to blame, danger, or harsh consequences in order to protect yourself or others.",
+      "nuance": "It suggests abandoning someone or making them take the full force of a problem. It can sound deliberately cold or accusatory, so use it carefully in professional settings.",
+      "literal": "Giving a person to wolves to be attacked.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · explaining a failed project",
+          "sentence": "The director threw the contractor to the wolves when the budget was questioned.",
+          "highlight": "threw the contractor to the wolves",
+          "tip": "The object of the phrase can be a person, group, or project."
+        },
+        {
+          "setting": "social",
+          "where": "Family argument · shifting responsibility",
+          "sentence": "Don’t throw your brother to the wolves just because you disagree with him.",
+          "highlight": "throw your brother to the wolves",
+          "tip": "Use it when someone is being blamed or left to face trouble alone."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · assigning responsibility",
+          "sentence": "The company threw the junior team to the wolves while senior leaders avoided scrutiny.",
+          "highlight": "threw the junior team to the wolves",
+          "tip": "It is forceful and often implies unfair or strategic blame-shifting."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely comes from the older image of throwing prey to wolves. Its figurative use, meaning to sacrifice or expose someone to attack, appears in English by the nineteenth century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The image of a person or animal being thrown to wolves represents being abandoned to danger or attack."
+          },
+          {
+            "when": "1800s",
+            "text": "The figurative expression is recorded in English for sacrificing someone or something to harsh treatment."
+          },
+          {
+            "when": "Today",
+            "text": "It means exposing or abandoning someone so that they bear the blame or consequences."
+          }
+        ]
+      },
+      "similar": [
+        "throw under the bus",
+        "sacrifice",
+        "scapegoat"
+      ],
+      "pitfall": "Unlike ‘scapegoat’, which can describe a person blamed for wrongdoing, this phrase often emphasizes the act of exposing or abandoning them."
+    },
+    {
+      "id": "tough-call",
+      "kind": "idiom",
+      "term": "tough call",
+      "pos": "idiom",
+      "hint": "a difficult decision",
+      "register": "Common at work",
+      "meaning": "A difficult decision between two or more options that each have significant drawbacks.",
+      "nuance": "It sounds informal but confident, suggesting that the choice is genuinely hard rather than simply inconvenient.",
+      "literal": "A call that is difficult to make, as when someone must choose between equally demanding options.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · choosing priorities",
+          "sentence": "Choosing between delaying the launch and shipping a weaker product was a tough call.",
+          "highlight": "tough call",
+          "tip": "Common when discussing deadlines, trade-offs and business priorities."
+        },
+        {
+          "setting": "social",
+          "where": "Planning dinner · choosing a restaurant",
+          "sentence": "It was a tough call between the quiet Italian place and the lively pub.",
+          "highlight": "tough call",
+          "tip": "Works in relaxed conversation when two options are close in value."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining a decision",
+          "sentence": "The team made a tough call to postpone the feature until the underlying issues were fixed.",
+          "highlight": "tough call",
+          "tip": "Often followed by ‘to’ plus the action that was chosen."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is uncertain, but the phrase appears to have developed from the idea of making a difficult choice or judgment.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1900s",
+            "text": "Phrases using ‘call’ for a choice or decision become established in English."
+          },
+          {
+            "when": "Later 1900s",
+            "text": "‘Tough call’ gains everyday use for a decision involving competing drawbacks."
+          },
+          {
+            "when": "Today",
+            "text": "Common in work, social conversation and informal writing."
+          }
+        ]
+      },
+      "similar": [
+        "difficult choice",
+        "hard decision",
+        "tricky decision",
+        "close call"
+      ],
+      "opposite": "easy call",
+      "pitfall": "Do not use it for an easy decision; ‘tough’ is the key distinction."
+    },
+    {
+      "id": "turf-war",
+      "kind": "idiom",
+      "term": "turf war",
+      "pos": "idiom",
+      "hint": "a fight over territory or control",
+      "register": "Common at work",
+      "meaning": "A bitter struggle between rivals competing for control of the same area, market, or area of influence.",
+      "nuance": "It suggests an ongoing contest in which each side protects its own territory and tries to weaken the other. It is usually more hostile than a simple disagreement.",
+      "literal": "Rival groups fighting to control the same patch of ground.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Marketing review · competing brands",
+          "sentence": "The sales teams are engaged in a turf war over the biggest clients.",
+          "highlight": "turf war",
+          "tip": "Suggests competition for control of customers, accounts, or responsibility."
+        },
+        {
+          "setting": "social",
+          "where": "Neighbourhood event · overlapping plans",
+          "sentence": "Two local groups started a turf war over who could use the community hall.",
+          "highlight": "turf war",
+          "tip": "Often implies an unnecessarily competitive dispute over shared space."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · market rivalry",
+          "sentence": "The article describes a turf war between the two streaming companies.",
+          "highlight": "turf war",
+          "tip": "Useful for describing fierce competition over customers, territory, or influence."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from the literal idea of rival groups claiming the same ground. Its early use was often political, before businesses adopted it for commercial competition.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "“Turf” was commonly used for a territory or area of control, especially in American political language."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "The phrase began appearing in descriptions of fights for local political influence."
+          },
+          {
+            "when": "Today",
+            "text": "It describes any fierce dispute over territory, customers, market share, or authority."
+          }
+        ]
+      },
+      "similar": [
+        "battle for market share",
+        "power struggle",
+        "territorial dispute"
+      ],
+      "opposite": "cooperation",
+      "pitfall": "Do not use it for every disagreement; it implies a competitive struggle over control."
+    },
+    {
+      "id": "turn-a-blind-eye",
+      "kind": "idiom",
+      "term": "turn a blind eye",
+      "pos": "idiom",
+      "hint": "deliberately ignore something",
+      "register": "Common at work",
+      "meaning": "To deliberately ignore something bad, inconvenient or wrong that you have noticed.",
+      "nuance": "It implies awareness and a conscious choice not to act. It is usually critical when describing a person, organisation or government.",
+      "literal": "Turning one’s eyes away so that something cannot be seen.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Compliance review · unsafe practice",
+          "sentence": "Managers cannot turn a blind eye when employees repeatedly ignore safety rules.",
+          "highlight": "turn a blind eye",
+          "tip": "Often used when someone ignores a problem they clearly know about."
+        },
+        {
+          "setting": "social",
+          "where": "Family discussion · repeated excuses",
+          "sentence": "We’ve discussed his drinking for months, but everyone keeps turning a blind eye.",
+          "highlight": "turning a blind eye",
+          "tip": "The phrase can refer to a whole group choosing not to acknowledge a problem."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · environmental damage",
+          "sentence": "The regulator has been accused of turning a blind eye to pollution from local factories.",
+          "highlight": "turning a blind eye",
+          "tip": "Frequent in reporting and campaigns about official failures to act."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from the idea of deliberately looking away from something visible. Its wording is recorded in the early 1800s and may echo older religious language about turning away one’s eyes.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Religious writing already used the idea of turning away one’s eyes to describe refusing to notice or understand."
+          },
+          {
+            "when": "Early 1800s",
+            "text": "The exact expression appears in published writing, including a description of turning a blind eye to something."
+          },
+          {
+            "when": "Today",
+            "text": "Means knowingly ignoring a problem or wrongdoing."
+          }
+        ]
+      },
+      "similar": [
+        "look the other way",
+        "sweep it under the carpet",
+        "ignore",
+        "overlook"
+      ],
+      "opposite": "take notice",
+      "pitfall": "It describes deliberate ignorance, not simply failing to notice something."
+    },
+    {
+      "id": "turn-down",
+      "kind": "idiom",
+      "term": "turn down",
+      "pos": "phrasal verb",
+      "hint": "say no to",
+      "register": "Everyday",
+      "meaning": "To reject, refuse, or decline an offer, request, proposal, or opportunity.",
+      "nuance": "Use it for a clear negative response, especially when an offer, invitation, or job is involved. It can sound polite, but firmer than a simple “no.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Job offer · negotiation",
+          "sentence": "She turned down the offer because the salary didn’t match her experience.",
+          "highlight": "turned down",
+          "tip": "Common when declining a job, proposal, or business offer."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner invitation · plans",
+          "sentence": "We turned down the invitation and stayed in for the evening.",
+          "highlight": "turned down",
+          "tip": "A natural way to decline an invitation or suggestion."
+        },
+        {
+          "setting": "writing",
+          "where": "Business email · request",
+          "sentence": "The committee turned down our request for an earlier deadline.",
+          "highlight": "turned down",
+          "tip": "Often used in formal reports and correspondence."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the older verb “turn,” which could mean to direct or move something, combined with “down” in the sense of lowering or reversing its direction. Its figurative use for rejection became established during the nineteenth century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The word “turn” could mean to direct, move, or change the direction of something."
+          },
+          {
+            "when": "1600s–1700s",
+            "text": "People used “turn down” for lowering, directing, or rejecting something."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase was firmly established in the figurative sense of refusing or declining."
+          }
+        ]
+      },
+      "similar": [
+        "decline",
+        "refuse",
+        "reject"
+      ],
+      "opposite": "accept",
+      "pitfall": "When talking about volume or heat, “turn it down” means reduce it, not reject it."
+    },
+    {
+      "id": "when-push-comes-to-shove",
+      "kind": "idiom",
+      "term": "when push comes to shove",
+      "pos": "idiom",
+      "hint": "if gentle methods fail",
+      "register": "Common at work",
+      "meaning": "When more forceful action is needed to deal with a difficult situation.",
+      "nuance": "It suggests escalating from discussion or gentle pressure to decisive action. Use it when circumstances force you to act rather than continue waiting or avoiding the issue.",
+      "literal": "A situation in which people begin physically pushing and shoving because ordinary methods have failed.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · missed deadlines",
+          "sentence": "When push comes to shove, we’ll postpone the new features and fix the payment bug first.",
+          "highlight": "When push comes to shove",
+          "tip": "Use it when discussing how priorities may change under pressure."
+        },
+        {
+          "setting": "social",
+          "where": "Group planning · disputed venue",
+          "sentence": "When push comes to shove, we’ll split the bill and book the smaller restaurant.",
+          "highlight": "When push comes to shove",
+          "tip": "Often signals a practical fallback after people disagree."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · delayed launch",
+          "sentence": "When push comes to shove, the team can reduce the scope rather than delay the launch.",
+          "highlight": "When push comes to shove",
+          "tip": "Common in informal business writing and contingency plans."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the literal idea of pushing and shoving when stronger physical force is needed. Its figurative use became established during the 1800s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The words push and shove were commonly used for applying physical force in a crowd or dispute."
+          },
+          {
+            "when": "1800s",
+            "text": "The combined phrase appeared in writing for forceful action and later developed its modern figurative meaning."
+          },
+          {
+            "when": "Today",
+            "text": "It means taking firmer action when a situation cannot be resolved by discussion or delay."
+          }
+        ]
+      },
+      "similar": [
+        "if all else fails",
+        "at the last resort",
+        "when the chips are down"
+      ],
+      "pitfall": "It describes taking stronger action under pressure; it does not mean someone is physically pushing another person."
+    },
+    {
+      "id": "worst-of-both-worlds",
+      "kind": "idiom",
+      "term": "worst of both worlds",
+      "pos": "idiom",
+      "hint": "two choices, two bad outcomes",
+      "register": "Everyday",
+      "meaning": "To be stuck with the most undesirable result from each of two alternatives.",
+      "nuance": "It describes a situation in which every option has serious drawbacks, so choosing one still leaves a problem.",
+      "literal": "The worst possible outcome from each of two choices.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Job offer · deciding whether to relocate",
+          "sentence": "Taking the promotion means losing weekends, while staying means missing the raise.",
+          "highlight": "Taking the promotion means losing weekends",
+          "tip": "Use it when both available choices have clear drawbacks."
+        },
+        {
+          "setting": "social",
+          "where": "Planning · choosing a restaurant",
+          "sentence": "The cheap place has terrible reviews, and the expensive one is fully booked—the worst of both worlds.",
+          "highlight": "the worst of both worlds",
+          "tip": "Natural when describing two disappointing alternatives."
+        },
+        {
+          "setting": "writing",
+          "where": "Housing market · reporting on a new rule",
+          "sentence": "Smaller landlords may face the worst of both worlds as costs rise while demand falls.",
+          "highlight": "the worst of both worlds",
+          "tip": "Common in reports about difficult conditions or competing pressures."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is unclear. The expression appears to have developed from the older idea of having the “best of both worlds,” but its negative form is not tied to a documented first use.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression “best of both worlds” is used for combining advantages from two different situations."
+          },
+          {
+            "when": "20th century",
+            "text": "The negative form “worst of both worlds” becomes established for situations combining two disadvantages."
+          },
+          {
+            "when": "Today",
+            "text": "It refers broadly to the least favorable result from each of two alternatives."
+          }
+        ]
+      },
+      "similar": [
+        "best of both worlds",
+        "caught between a rock and a hard place",
+        "lose-lose situation",
+        "no-win situation"
+      ],
+      "opposite": "best of both worlds",
+      "pitfall": "It describes unfavorable alternatives, not simply something that is very bad."
+    }
+  ]
+}

@@ -1,0 +1,1760 @@
+{
+  "id": "words-speech-persuasion-2",
+  "kind": "word",
+  "name": "Speech & persuasion · 2",
+  "blurb": "25 words about speech & persuasion",
+  "cards": [
+    {
+      "id": "entreaty",
+      "kind": "word",
+      "term": "entreaty",
+      "pos": "noun",
+      "phonetic": "/ɪnˈtriːti/",
+      "sayIt": "in-TREE-tee",
+      "register": "Formal",
+      "meaning": "An earnest request or plea made to someone with the hope that they will help or agree.",
+      "nuance": "It sounds more emotional and deferential than a simple request, often suggesting that the speaker is facing difficulty.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Meeting · asking for an extension",
+          "sentence": "She made an entreaty for more time, explaining that the report depended on information from another team.",
+          "highlight": "entreaty",
+          "tip": "Use it in formal writing or speech when you want to make a serious, respectful appeal."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · asking a friend for help",
+          "sentence": "With a quiet entreaty, she asked her neighbour to keep an eye on the dog.",
+          "highlight": "entreaty",
+          "tip": "The word adds a note of earnestness and vulnerability to the request."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal letter · requesting mercy",
+          "sentence": "The letter closed with an entreaty that the committee reconsider the decision.",
+          "highlight": "entreaty",
+          "tip": "It works well in literary or ceremonial language, but may sound overly dramatic in an everyday message."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French entreatier, meaning 'to ask urgently or earnestly', ultimately related to Latin roots concerning treatment or handling.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old French",
+            "text": "Entretier means 'to ask earnestly, beg, or petition'."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English in the sense of an earnest request or appeal."
+          },
+          {
+            "when": "Modern English",
+            "text": "It is now mainly used in formal, literary, or deliberately heightened language."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "entreat",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "plea",
+        "appeal",
+        "petition",
+        "supplication"
+      ],
+      "opposite": "demand",
+      "pitfall": "An entreaty is a sincere appeal, not merely a request; it often implies some urgency or difficulty."
+    },
+    {
+      "id": "enunciate",
+      "kind": "word",
+      "term": "enunciate",
+      "pos": "verb",
+      "phonetic": "/ɪˈnʌn.si.eɪt/",
+      "sayIt": "ee-NUN-see-AYT",
+      "register": "Formal",
+      "meaning": "To pronounce words clearly and distinctly, especially by giving each syllable its full sound.",
+      "nuance": "It suggests careful, deliberate speech. The word can also mean to state a principle or idea clearly, but it often sounds formal or technical in everyday conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Voice note · recording instructions",
+          "sentence": "Please enunciate each step clearly so listeners can follow the procedure without replaying it.",
+          "highlight": "enunciate",
+          "tip": "Useful when giving spoken instructions, especially for a recorded message or presentation."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · ordering for a guest",
+          "sentence": "I’m sorry, I didn’t enunciate the dish name properly—it has a French spelling.",
+          "highlight": "enunciate",
+          "tip": "It works when discussing pronunciation, but a simpler word such as “pronounce” may sound more natural."
+        },
+        {
+          "setting": "writing",
+          "where": "Public statement · explaining a principle",
+          "sentence": "The report enunciates three priorities for the coming year.",
+          "highlight": "enunciates",
+          "tip": "Here it means to state clearly and formally, rather than simply to pronounce."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin enuntiare, meaning ‘to state or announce clearly’, related to nuntius, ‘messenger’. English later developed both the pronunciation and formal declaration senses.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Enuntiare means ‘to state, declare or announce’, from nuntius, ‘messenger’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with meanings connected with formal statement and expression."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used for speaking words distinctly and distinctly."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "enunciation",
+          "label": "noun"
+        },
+        {
+          "term": "enunciatory",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "pronounce",
+        "articulate",
+        "state",
+        "voice"
+      ],
+      "opposite": "mumble",
+      "pitfall": "Don’t confuse it with announce, which means to make information known rather than to pronounce words clearly."
+    },
+    {
+      "id": "euphemism",
+      "kind": "word",
+      "term": "euphemism",
+      "pos": "noun",
+      "phonetic": "/ˈjuːfəmɪzəm/",
+      "sayIt": "YOO-fuh-miz-um",
+      "register": "Everyday",
+      "meaning": "A mild or indirect word used in place of something more blunt, unpleasant or private.",
+      "nuance": "Euphemisms can make difficult subjects sound gentler, but they may also sound evasive or overly formal. The tone depends on whether you are softening bad news or hiding what is really being said.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing a failed project",
+          "sentence": "The release did not meet expectations, which is the polite way of saying that it failed.",
+          "highlight": "the polite way of saying",
+          "tip": "Useful when you need to soften criticism without losing its point."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · talking about losing a job",
+          "sentence": "He described leaving the company as a career transition rather than a redundancy.",
+          "highlight": "career transition",
+          "tip": "Shows how people replace an uncomfortable truth with a more respectable phrase."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · announcing an unpleasant change",
+          "sentence": "We are making some adjustments to the staffing plan as part of the company's evolution.",
+          "highlight": "making some adjustments",
+          "tip": "Use a euphemism carefully when clarity matters more than protecting people’s feelings."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek euphēmos, meaning ‘good-sounding’, and phēmizein, ‘to speak’, with the idea of using words that sound better.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "The roots combine the ideas of ‘good-sounding’ and ‘speaking’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with the meaning of a pleasant substitute for a harsh expression."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for both careful softening and indirect or evasive wording."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "euphemistic",
+          "label": "adjective"
+        },
+        {
+          "term": "euphemistically",
+          "label": "adverb"
+        },
+        {
+          "term": "euphemize",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "gentler phrase",
+        "indirect wording",
+        "softening",
+        "circ locution"
+      ],
+      "opposite": "blunt language",
+      "pitfall": "A euphemism can sound tactful or evasive, so make sure it does not hide important information."
+    },
+    {
+      "id": "exhort",
+      "kind": "word",
+      "term": "exhort",
+      "pos": "verb",
+      "phonetic": "/ɪɡˈzɔːrt/",
+      "sayIt": "ig-ZORT",
+      "register": "Formal",
+      "meaning": "To urge someone strongly to do something or to stop doing something.",
+      "nuance": "Often used when giving serious advice or warning someone about a risk. It can sound stern, direct and a little old-fashioned.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Safety briefing · correcting a risky shortcut",
+          "sentence": "The compliance team exhorts staff to report errors immediately rather than hide them.",
+          "highlight": "exhorts",
+          "tip": "Use it for a serious, forceful recommendation, especially in formal writing."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · worrying about someone’s health",
+          "sentence": "I exhorted my brother to see a doctor instead of ignoring the pain.",
+          "highlight": "exhorted",
+          "tip": "It can sound intense or preachy, so use it only when the urgency is genuine."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial warning · reckless behaviour",
+          "sentence": "The article exhorts readers to question sensational claims before sharing them.",
+          "highlight": "exhorts",
+          "tip": "Works well in formal editorial, advisory and persuasive writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin exhortari, meaning ‘urge strongly’ or ‘exhort’. It entered English in the 15th century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Exhortari comes from ex-, ‘out’, and hortari, ‘urge’."
+          },
+          {
+            "when": "15th century",
+            "text": "The word enters English with the sense of urging or strongly advising."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal writing and serious speeches."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "exhortation",
+          "label": "noun"
+        },
+        {
+          "term": "exhortative",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "urge",
+        "admonish",
+        "encourage",
+        "warn"
+      ],
+      "opposite": "discourage",
+      "pitfall": "Don’t use it as a synonym for praise or encouragement; exhorting someone means pressing them to act, often after warning them."
+    },
+    {
+      "id": "expurgate",
+      "kind": "word",
+      "term": "expurgate",
+      "pos": "verb",
+      "phonetic": "/ɪkˈspɜːrɡeɪt/",
+      "sayIt": "ik-SPUR-gate",
+      "register": "Formal",
+      "meaning": "To remove objectionable, private or otherwise unsuitable material from a text.",
+      "nuance": "This is a formal word often used for deliberate edits made before publication or distribution. It suggests removing sensitive passages while preserving the rest of the work.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Legal review · preparing a transcript",
+          "sentence": "Before circulating the transcript, the compliance team expurgated the witness’s address and phone number.",
+          "highlight": "expurgated",
+          "tip": "The past tense is common when describing material removed for legal or privacy reasons."
+        },
+        {
+          "setting": "social",
+          "where": "Family message · sharing old letters",
+          "sentence": "We expurgated the old letters before posting photos, removing relatives’ full names and private remarks.",
+          "highlight": "expurgated",
+          "tip": "Use it when a text remains available but certain details have been carefully removed."
+        },
+        {
+          "setting": "writing",
+          "where": "Book review · discussing an edited memoir",
+          "sentence": "The publisher expurgated the memoir, and the review makes clear which passages had been removed.",
+          "highlight": "expurgated",
+          "tip": "It fits analytical writing about censorship, privacy and editorial changes."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin expurgare, meaning ‘to purge’ or ‘cleanse’, formed from ex-, meaning ‘out’, and purgare, meaning ‘to purge’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "expurgare meant ‘to cleanse’ or ‘remove what is impure’."
+          },
+          {
+            "when": "Early 1600s",
+            "text": "The word enters English in legal and editorial contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It remains formal and usually refers to removing sensitive or objectionable material from a text."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "expurgation",
+          "label": "noun"
+        },
+        {
+          "term": "expurgator",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "redact",
+        "censor",
+        "sanitize",
+        "bowdlerize"
+      ],
+      "opposite": "retain",
+      "pitfall": "Don’t confuse it with expunge, which means to remove something completely. Expurgate normally means removing specific parts while keeping the rest."
+    },
+    {
+      "id": "facetious",
+      "kind": "word",
+      "term": "facetious",
+      "pos": "adjective",
+      "phonetic": "/fəˈsiːtəs/",
+      "sayIt": "fuh-SEE-tuhs",
+      "register": "Everyday, often playful",
+      "meaning": "Humorous and playful, often in a way that teases or lightly pokes fun.",
+      "nuance": "It suits relaxed conversations and creative work, but can sound flippant when the subject is serious or someone is upset.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · easing tension",
+          "sentence": "Her facetious comment broke the tension, but the client still needed a clear answer.",
+          "highlight": "facetious",
+          "tip": "Use it for gentle workplace humour, not when discussing serious risks or mistakes."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · joking together",
+          "sentence": "He was facetious all evening, pretending our empty wine rack was an art installation.",
+          "highlight": "facetious",
+          "tip": "It naturally describes humour that teases people or treats something lightly."
+        },
+        {
+          "setting": "writing",
+          "where": "Speech · welcoming an audience",
+          "sentence": "Keep the opening facetious, but make sure the apology in the next paragraph sounds sincere.",
+          "highlight": "facetious",
+          "tip": "A playful opening can build rapport, provided the main message remains respectful."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through French from Latin, where it was linked with witty sayings and joking.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Related to facetia, meaning a witty remark or joke."
+          },
+          {
+            "when": "1500s",
+            "text": "The French form facétieux enters English, initially meaning witty or humorous."
+          },
+          {
+            "when": "Today",
+            "text": "It describes playful humour, sometimes with a teasing edge."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "facetiously",
+          "label": "adverb"
+        },
+        {
+          "term": "facetiousness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "witty",
+        "playful",
+        "jocular",
+        "humorous",
+        "flippant"
+      ],
+      "opposite": "serious",
+      "pitfall": "Don’t confuse it with fictitious, which means invented or not real."
+    },
+    {
+      "id": "galvanize",
+      "kind": "word",
+      "term": "galvanize",
+      "pos": "verb",
+      "phonetic": "/ˈɡælvənaɪz/",
+      "sayIt": "GAL-vuh-nize",
+      "register": "Common at work",
+      "meaning": "To motivate people to take immediate or energetic action.",
+      "nuance": "It often suggests that a person, event, or message has stirred people into action. It can also mean to coat metal with zinc to protect it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch meeting · turning plans into action",
+          "sentence": "The client’s questions galvanized the team, and we finished the proposal ahead of schedule.",
+          "highlight": "galvanized",
+          "tip": "Use it when something turns a group’s thinking into decisive action."
+        },
+        {
+          "setting": "social",
+          "where": "Neighbourhood meeting · organising a clean-up",
+          "sentence": "Her speech galvanized the volunteers, who arrived with gloves, bags, and a clear plan.",
+          "highlight": "galvanized",
+          "tip": "This use carries a strong sense of energy and collective purpose."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · community response",
+          "sentence": "The footage galvanized donations, with the local fund receiving more than three times its usual total.",
+          "highlight": "galvanized",
+          "tip": "A vivid alternative to ‘prompted’ when the response was powerful and immediate."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from galvanism, a form of electricity studied by Italian scientist Luigi Galvani. It first referred to electricity and later developed both the figurative sense of arousing action and the technical sense of coating metal with zinc.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1780s",
+            "text": "Luigi Galvani’s experiments establish galvanism, an electrical effect associated with animal tissue and metals."
+          },
+          {
+            "when": "1830s",
+            "text": "Galvanism enters English as the name for this electrical phenomenon."
+          },
+          {
+            "when": "1840s",
+            "text": "Galvanize begins to be used for coating metal with zinc through electricity."
+          },
+          {
+            "when": "Today",
+            "text": "Its main figurative use is to describe stirring people into energetic action."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "galvanization",
+          "label": "noun"
+        },
+        {
+          "term": "galvanic",
+          "label": "adjective"
+        },
+        {
+          "term": "galvaniser",
+          "label": "noun (person or device)"
+        }
+      ],
+      "similar": [
+        "energize",
+        "motivate",
+        "spur",
+        "rouse",
+        "electrify"
+      ],
+      "opposite": "discourage",
+      "pitfall": "In British English, the verb is usually written ‘galvanise’; in American English, ‘galvanize’. The verb is also easy to confuse with the adjective ‘galvanic’."
+    },
+    {
+      "id": "garbled",
+      "kind": "word",
+      "term": "garbled",
+      "pos": "adjective",
+      "phonetic": "/ˈɡɑːrbəld/",
+      "sayIt": "GAR-buld",
+      "register": "Everyday",
+      "meaning": "So confused, distorted, or mixed up that the original meaning is difficult to understand.",
+      "nuance": "It describes speech, writing, signals, or actions that have become jumbled or corrupted. It can sound technical when describing communication systems, but is also natural in casual conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · clarifying a report",
+          "sentence": "The instructions were garbled, so we asked the client to repeat the request.",
+          "highlight": "garbled",
+          "tip": "Use it when the meaning of a message or set of instructions has become unclear."
+        },
+        {
+          "setting": "social",
+          "where": "Phone call · bad reception",
+          "sentence": "I could barely understand you; the line made your voice sound garbled.",
+          "highlight": "garbled",
+          "tip": "This is a natural way to describe speech distorted by noise or a poor connection."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · correcting a document",
+          "sentence": "The names in the spreadsheet are garbled, so I’ve asked for a clean copy.",
+          "highlight": "garbled",
+          "tip": "Use it for text, data, or details that have been mixed up or corrupted."
+        }
+      ],
+      "origin": {
+        "summary": "The word developed from garble, an older English term for mixing up or confusing things. Its deeper origin is uncertain, though some sources connect it to Old French words involving sieving or sorting.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "The older form garble appears in English, meaning to mix up or confuse."
+          },
+          {
+            "when": "1600s–1700s",
+            "text": "The past participle garbled becomes established for confused or distorted communication."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used for muddled speech, writing, signals, or data."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "garble",
+          "label": "verb"
+        },
+        {
+          "term": "garbled",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "jumbled",
+        "muddled",
+        "confused",
+        "distorted",
+        "incoherent"
+      ],
+      "opposite": "clear",
+      "pitfall": "Garbled usually means the content has been mixed up or distorted; confused more often describes a person who cannot think clearly."
+    },
+    {
+      "id": "gesticulate",
+      "kind": "word",
+      "term": "gesticulate",
+      "pos": "verb",
+      "phonetic": "/dʒɛsˈtɪkjəleɪt/",
+      "sayIt": "jes-TIK-yoo-layt",
+      "register": "Everyday",
+      "meaning": "To move your hands or arms expressively while speaking.",
+      "nuance": "The word often suggests energetic or noticeable movements, especially when a speaker is excited, anxious or emphatic. It can also sound slightly critical when describing someone who moves around a lot.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team presentation · explaining a proposal",
+          "sentence": "As she explained the proposal, she began to gesticulate with increasing enthusiasm.",
+          "highlight": "gesticulate",
+          "tip": "Use it for expressive movements that add energy to what someone is saying."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · telling an funny story",
+          "sentence": "He gesticulated wildly while describing how he missed the last train.",
+          "highlight": "gesticulated",
+          "tip": "Past tense takes -d: gesticulated."
+        },
+        {
+          "setting": "writing",
+          "where": "Event report · describing a speaker",
+          "sentence": "The speaker gesticulated frequently, using broad arm movements to reinforce her main points.",
+          "highlight": "gesticulated",
+          "tip": "It adds a vivid detail but can suggest that the movement was distracting."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin gesticulari, ‘to make gestures’, based on gestus, ‘gesture’ and a diminutive ending suggesting a small movement.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin writers used gesticulari for expressive movement or gesture."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in the sense of making gestures."
+          },
+          {
+            "when": "Today",
+            "text": "It describes expressive hand and arm movements during speech."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "gesticulation",
+          "label": "noun"
+        },
+        {
+          "term": "gesticulator",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "gesture",
+        "signal",
+        "motion",
+        "wave"
+      ],
+      "opposite": "remain still",
+      "pitfall": "Don’t use it for every deliberate hand movement; a planned signal is better described as a gesture."
+    },
+    {
+      "id": "glib",
+      "kind": "word",
+      "term": "glib",
+      "pos": "adjective",
+      "phonetic": "/ɡlɪb/",
+      "sayIt": "GLIB",
+      "register": "Common at work",
+      "meaning": "Speaking or writing smoothly and confidently without showing enough thought, care or genuine feeling.",
+      "nuance": "It is usually a criticism of a quick, polished answer that sounds convincing but avoids important questions. It can also describe promises, claims or explanations that seem too easy.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · answering a difficult question",
+          "sentence": "His glib answer sounded confident, but it ignored the risks we had been discussing.",
+          "highlight": "glib",
+          "tip": "Use it when smooth delivery lacks substance, honesty or careful thought."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · explaining plans",
+          "sentence": "She was glib about the delay, so I asked who was actually responsible for the launch.",
+          "highlight": "glib",
+          "tip": "It often suggests that someone is being too breezy about a serious matter."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · describing a weak explanation",
+          "sentence": "The report dismissed our concerns with glib claims that no further action was needed.",
+          "highlight": "glib",
+          "tip": "Common before claims, answers, explanations and promises that sound polished but vague."
+        }
+      ],
+      "origin": {
+        "summary": "The word probably developed from an older word meaning smooth or slippery. Its modern sense of being fluent but careless with the truth became established in the early 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "An older form of glib appears with meanings related to smoothness and slipperiness."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "The word begins to describe speech that is fluent and easy but lacks depth or seriousness."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly negative, marking confident talk that avoids thought or responsibility."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "glibly",
+          "label": "adverb"
+        },
+        {
+          "term": "glibness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "superficial",
+        "cocksure",
+        "glossy",
+        "pat"
+      ],
+      "opposite": "thoughtful",
+      "pitfall": "Don’t use glib as a compliment for fluent or polished speaking; its usual implication is that the substance is missing."
+    },
+    {
+      "id": "hackneyed",
+      "kind": "word",
+      "term": "hackneyed",
+      "pos": "adjective",
+      "phonetic": "/ˈhæknɪd/",
+      "sayIt": "HAK-need",
+      "register": "Common at work",
+      "meaning": "Overused, familiar, and no longer fresh or original.",
+      "nuance": "It often criticises a phrase, idea, or performance because it feels predictable. It can be blunt, so use it when the repetition genuinely weakens your point.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Marketing meeting · reviewing a campaign",
+          "sentence": "The headline is clear, but the phrase ‘think outside the box’ feels hackneyed.",
+          "highlight": "hackneyed",
+          "tip": "Use it to explain why a familiar idea will not sound fresh to your audience."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · discussing a popular joke",
+          "sentence": "I loved the film, although the ending was completely predictable and hackneyed.",
+          "highlight": "hackneyed",
+          "tip": "It can describe predictable plots, repeated jokes, or well-worn expressions."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · evaluating a novel",
+          "sentence": "Her prose is elegant, but several images seem familiar and rather hackneyed.",
+          "highlight": "hackneyed",
+          "tip": "Place it before a phrase, image, or idea to make your criticism direct but polished."
+        }
+      ],
+      "origin": {
+        "summary": "Probably comes from Hackney, a place name once associated with common or unrefined speech, and originally meant common or vulgar. Its modern sense developed from the idea of something worn out through repeated use.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "First recorded in the sense of common, vulgar, or suited to ordinary people."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "The meaning developed into familiar through frequent use and therefore no longer effective."
+          },
+          {
+            "when": "Today",
+            "text": "Used for phrases, ideas, and creative work that feel overused or unoriginal."
+          }
+        ]
+      },
+      "similar": [
+        "overused",
+        "stale",
+        "clichéd",
+        "tired",
+        "unoriginal"
+      ],
+      "opposite": "fresh",
+      "pitfall": "It is stronger than simply familiar and should not imply that something is bad simply because people know it well."
+    },
+    {
+      "id": "hyperbole",
+      "kind": "word",
+      "term": "hyperbole",
+      "pos": "noun",
+      "phonetic": "/haɪˈpɜːrbəli/",
+      "sayIt": "HY-per-BOH-luh",
+      "register": "Everyday",
+      "meaning": "A statement made much larger or more extreme than the situation really is, usually for emphasis or effect.",
+      "nuance": "It is not necessarily a lie; the point is often to make people feel the strength of a feeling or make a point memorable. It can sound playful, dramatic or careless depending on the context.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Presentation · describing customer demand",
+          "sentence": "The sales team has been overwhelmed with requests, but claiming that everyone is calling feels like hyperbole.",
+          "highlight": "hyperbole",
+          "tip": "Use it when discussing exaggerated claims without automatically accusing someone of lying."
+        },
+        {
+          "setting": "social",
+          "where": "Chat with friends · recounting a busy week",
+          "sentence": "I told my friends I had a million things to do, but that was pure hyperbole.",
+          "highlight": "hyperbole",
+          "tip": "It works well for playful exaggerations that both speakers understand are not literally true."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · praising a performance",
+          "sentence": "Saying that the lead actor carried the entire show may be hyperbole, but she certainly held the room.",
+          "highlight": "hyperbole",
+          "tip": "It can strengthen a review, though a specific detail often makes the praise more convincing."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek hyperbolē, meaning a throwing or carrying beyond, and hyperballein, ‘to throw beyond’. In rhetoric, it describes deliberate exaggeration.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Hyperbolē refers to throwing something beyond a limit and is used in discussions of rhetorical figures."
+          },
+          {
+            "when": "1600s",
+            "text": "The term enters English in writing about rhetoric and forceful expression."
+          },
+          {
+            "when": "Today",
+            "text": "It names exaggeration used for emphasis, drama or persuasive effect."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "hyperbolical",
+          "label": "adjective"
+        },
+        {
+          "term": "hyperbolically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "exaggeration",
+        "overstatement",
+        "embellishment",
+        "dramatic emphasis"
+      ],
+      "opposite": "understatement",
+      "pitfall": "Hyperbole is an intentional exaggeration, but not every imprecise or overstated statement is necessarily hyperbole."
+    },
+    {
+      "id": "imperative",
+      "kind": "word",
+      "term": "imperative",
+      "pos": "adjective",
+      "phonetic": "/ɪmˈpɛrətɪv/",
+      "sayIt": "im-PER-uh-tiv",
+      "register": "Common at work",
+      "meaning": "Necessary or urgent enough that it should be dealt with right away.",
+      "nuance": "It carries a strong, slightly forceful tone, especially when describing an action, need or priority. In grammar, it is also the mood used to give commands and make requests.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project meeting · choosing priorities",
+          "sentence": "It’s imperative that we fix the login issue before the customer pilot begins.",
+          "highlight": "imperative",
+          "tip": "Use it to stress that something must happen soon or cannot be ignored."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a trip · preparing for travel",
+          "sentence": "It’s imperative to check the passports before we book the flights.",
+          "highlight": "imperative",
+          "tip": "A natural way to make an important reminder sound serious but not rude."
+        },
+        {
+          "setting": "writing",
+          "where": "Work email · urgent request",
+          "sentence": "Please send the revised figures by Friday; it is imperative that we close the budget on time.",
+          "highlight": "imperative",
+          "tip": "Pair it with a clear action and deadline to explain why speed matters."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin imperativus, meaning ‘commanding’ or ‘enjoining’, from imperare, ‘to command’. The grammatical sense developed from the idea of giving an order or command.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Imperativus develops from imperare, ‘to command’, and means ‘commanding’ or ‘enjoining’."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English in legal, religious and grammatical contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It means vital or urgent, and also names a grammatical mood used for commands and requests."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "imperatively",
+          "label": "adverb"
+        },
+        {
+          "term": "imperative",
+          "label": "noun (grammar)"
+        }
+      ],
+      "similar": [
+        "essential",
+        "urgent",
+        "vital",
+        "pressing"
+      ],
+      "opposite": "unnecessary",
+      "pitfall": "Don’t confuse it with imperial, which relates to an empire or its ruler. The grammatical noun is also called the imperative."
+    },
+    {
+      "id": "implore",
+      "kind": "word",
+      "term": "implore",
+      "pos": "verb",
+      "phonetic": "/ɪmˈplɔːr/",
+      "sayIt": "im-PLOR",
+      "register": "Formal",
+      "meaning": "To ask someone urgently and emotionally to do something or stop doing something.",
+      "nuance": "It is stronger and more heartfelt than “ask,” suggesting desperation, fear or deep feeling. It is common in formal writing and dramatic speech but can sound overly emotional in casual conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · requesting urgent support",
+          "sentence": "The operations lead implored the engineering team to restore service before the morning rush.",
+          "highlight": "implored",
+          "tip": "Use it when an urgent request needs more emotional weight than “asked.”"
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · asking for help",
+          "sentence": "She implored her brother to come home after he heard how unwell their father was.",
+          "highlight": "implored",
+          "tip": "This sounds heartfelt and serious rather than like an ordinary request."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal appeal · requesting mercy",
+          "sentence": "The defendant implored the court to consider the circumstances before passing sentence.",
+          "highlight": "implored",
+          "tip": "It fits formal pleas and dramatic accounts, but may sound theatrical if overused."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin implorare, meaning “call upon” or “appeal to,” formed from in, meaning “into” or “against,” and plorare, meaning “to cry or lament.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Implorare originally meant to call upon someone or appeal with a cry."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with the sense of making an urgent or emotional appeal."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal and dramatic contexts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "imploration",
+          "label": "noun"
+        },
+        {
+          "term": "imploring",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "entreat",
+        "beseech",
+        "plead",
+        "beg"
+      ],
+      "opposite": "ignore",
+      "pitfall": "Use “implore” with a person or an authority: “implored the manager to listen.” For help, say “implore assistance” rather than implying that help itself is begging."
+    },
+    {
+      "id": "importune",
+      "kind": "word",
+      "term": "importune",
+      "pos": "verb",
+      "phonetic": "/ɪmˈpɔːrtuːn/",
+      "sayIt": "im-POR-toon",
+      "register": "Formal",
+      "meaning": "To insistently request or pressure someone, especially by asking again and again.",
+      "nuance": "This sounds formal and can imply that the requests are persistent or unwelcome. It fits situations where patient reminders have not produced a response.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · awaiting approval",
+          "sentence": "If the deadline is critical, we may need to importune the client for a clear decision.",
+          "highlight": "importune",
+          "tip": "Use it when ordinary requests have failed and repeated pressure is necessary."
+        },
+        {
+          "setting": "social",
+          "where": "Plans with a friend · borrowing money",
+          "sentence": "He continued to importune me for a loan, even after I politely declined.",
+          "highlight": "importune",
+          "tip": "It often suggests that the person’s persistence has crossed a social boundary."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal complaint · overdue payment",
+          "sentence": "We had to importune the supplier several times before the overdue invoice was paid.",
+          "highlight": "importune",
+          "tip": "It adds a strong note of frustration without directly accusing the other person."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin importunus, meaning “inopportune” or “burdensome.” Its older English use developed into the idea of pressing someone persistently.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Importunus develops from roots connected with not being opportune or convenient."
+          },
+          {
+            "when": "1500s",
+            "text": "Importune appears in English with meanings related to pressing demands and unfortunate circumstances."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used to mean requesting or pressuring someone insistently."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "importunate",
+          "label": "adjective"
+        },
+        {
+          "term": "importunity",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "pester",
+        "press",
+        "petition",
+        "urge"
+      ],
+      "pitfall": "Don’t confuse importune with import, which means to bring in goods or ideas from another place."
+    },
+    {
+      "id": "incisive",
+      "kind": "word",
+      "term": "incisive",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈsaɪzɪv/",
+      "sayIt": "in-SAY-siv",
+      "register": "Formal",
+      "meaning": "Clear, sharp, and able to identify the most important point or problem.",
+      "nuance": "It often suggests an observation or question that gets straight to the core of something. It can be complimentary when describing analysis, but mildly critical when describing a remark.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Strategy review · questioning an assumption",
+          "sentence": "Her incisive question helped the team find the flaw in our forecast.",
+          "highlight": "incisive",
+          "tip": "Use it for analysis or feedback that cuts through the details to the central issue."
+        },
+        {
+          "setting": "social",
+          "where": "Discussion · challenging a vague claim",
+          "sentence": "He gave an incisive response that made the whole argument much clearer.",
+          "highlight": "incisive",
+          "tip": "It sounds analytical rather than hostile when the remark is fair and well judged."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · assessing a proposal",
+          "sentence": "The report offers an incisive explanation of why customers abandoned the trial.",
+          "highlight": "incisive",
+          "tip": "Use it to strengthen a positive assessment of clear, perceptive analysis."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin incisivus, meaning ‘sharp or cutting’, based on incidere, ‘to cut into’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Incidere means ‘to cut into’ and describes an action or remark that penetrates."
+          },
+          {
+            "when": "1600s",
+            "text": "Incisive enters English in medical writing with the sense of ‘sharp or penetrating’."
+          },
+          {
+            "when": "1800s",
+            "text": "The word develops its modern sense for sharp, perceptive remarks and analysis."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "incisively",
+          "label": "adverb"
+        },
+        {
+          "term": "incision",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "penetrating",
+        "sharp",
+        "astute",
+        "perceptive",
+        "apt"
+      ],
+      "opposite": "vague",
+      "pitfall": "Incisive describes precision and perceptiveness, not simply an aggressive or blunt remark."
+    },
+    {
+      "id": "interject",
+      "kind": "word",
+      "term": "interject",
+      "pos": "verb",
+      "phonetic": "/ˌɪntəˈdʒɛkt/",
+      "sayIt": "IN-ter-JEKT",
+      "register": "Neutral",
+      "meaning": "To make a short comment or remark suddenly, often interrupting a conversation.",
+      "nuance": "The word sounds more deliberate than simply speaking up, and it can suggest that your comment briefly breaks the speaker’s flow.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · clarifying a proposal",
+          "sentence": "May I interject for a second? The deadline may affect another team.",
+          "highlight": "interject",
+          "tip": "Use it to enter a discussion politely but clearly."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · changing the subject",
+          "sentence": "Before we move on, let me interject and mention that the restaurant has moved.",
+          "highlight": "interject",
+          "tip": "It fits when your remark comes between other speakers’ turns."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · adding an important point",
+          "sentence": "To interject one concern: the figures do not include delivery costs.",
+          "highlight": "interject",
+          "tip": "Often appears at the start of a sentence or clause to frame an added point."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin intericere, ‘to throw or place between’, built from inter- and jacere, ‘to throw, cast’. English originally used it for inserting words or objects.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Intericere develops from inter-, ‘between’, and jacere, ‘to throw or cast’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English, initially meaning to insert or place between."
+          },
+          {
+            "when": "1800s",
+            "text": "It takes on the modern sense of making a sudden remark in conversation."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "interjection",
+          "label": "noun"
+        },
+        {
+          "term": "interjectively",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "interrupt",
+        "inject",
+        "interpose",
+        "butt in"
+      ],
+      "opposite": "keep quiet",
+      "pitfall": "Interject means to insert a remark; inject more often means to introduce a substance, opinion or piece of information into something."
+    },
+    {
+      "id": "interrogate",
+      "kind": "word",
+      "term": "interrogate",
+      "pos": "verb",
+      "phonetic": "/ɪnˈterəɡeɪt/",
+      "sayIt": "in-TER-uh-gate",
+      "register": "Formal",
+      "meaning": "To question someone closely and thoroughly, especially to get accurate or detailed information.",
+      "nuance": "This is stronger than simply asking questions and often suggests formal questioning, careful examination or repeated pressure. It can sound forceful or suspicious in casual conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Internal investigation · questioning a witness",
+          "sentence": "The compliance team spent two hours interrogating the supplier about the missing documents.",
+          "highlight": "interrogating",
+          "tip": "Often describes systematic questioning designed to uncover facts."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · checking a surprising story",
+          "sentence": "She wouldn’t stop interrogating me about why I’d arrived so late.",
+          "highlight": "interrogating",
+          "tip": "Use it playfully when someone is asking many persistent questions."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · challenging an official statement",
+          "sentence": "The reporter interrogated the minister’s account of the decision in detail.",
+          "highlight": "interrogated",
+          "tip": "Common in formal reporting when a journalist or lawyer tests claims closely."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin interrogare, formed from inter, ‘between or among’, and rogare, ‘to ask or question’. English later adopted a separate legal meaning involving formal questioning under oath.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Interrogare develops from inter, ‘among’, and rogare, ‘to ask’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in legal and official contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It means to question someone closely, and can also refer to formal questioning by police."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "interrogation",
+          "label": "noun"
+        },
+        {
+          "term": "interrogator",
+          "label": "noun (person)"
+        },
+        {
+          "term": "interrogative",
+          "label": "adjective or noun"
+        }
+      ],
+      "similar": [
+        "question",
+        "quiz",
+        "examine",
+        "cross-examine"
+      ],
+      "opposite": "answer",
+      "pitfall": "Interrogate is more intense than ask or question; using it for an ordinary conversation may sound aggressive."
+    },
+    {
+      "id": "invective",
+      "kind": "word",
+      "term": "invective",
+      "pos": "noun",
+      "phonetic": "/ɪnˈvektɪv/",
+      "sayIt": "in-VEK-tiv",
+      "register": "Formal",
+      "meaning": "Harsh, angry speech or writing that attacks people or ideas.",
+      "nuance": "It suggests criticism delivered with abuse or contempt. The word is serious and formal, often describing rhetoric that has become personal or extreme.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · heated criticism",
+          "sentence": "The chair's opening statement turned into invective, so the discussion lost sight of the proposal.",
+          "highlight": "invective",
+          "tip": "Use it when forceful criticism becomes abusive or insulting."
+        },
+        {
+          "setting": "social",
+          "where": "Argument at a party",
+          "sentence": "His invective after the argument made everyone uncomfortable and changed the mood.",
+          "highlight": "invective",
+          "tip": "It is more formal than an everyday insult and sounds quite severe."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial review · dismissing an attack",
+          "sentence": "The columnist dismissed the article as political invective rather than serious criticism.",
+          "highlight": "invective",
+          "tip": "Pairs naturally with political, personal, religious or vitriolic."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin invectivus, meaning 'of attack or accusation', related to invehere, 'to throw against' or 'to speak against'.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin roots connect the word with throwing something or making an accusation against someone."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English through French in legal and rhetorical contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It means harsh, abusive speech or writing."
+          }
+        ]
+      },
+      "similar": [
+        "diatribe",
+        "tirade",
+        "vitriol",
+        "abuse",
+        "denunciation"
+      ],
+      "opposite": "commendation",
+      "pitfall": "Invective is more than forceful criticism: it implies abusive, hostile or contemptuous language."
+    },
+    {
+      "id": "inveigh",
+      "kind": "word",
+      "term": "inveigh",
+      "pos": "verb",
+      "phonetic": "/ɪnˈveɪ/",
+      "sayIt": "in-VAY",
+      "register": "Formal and literary",
+      "meaning": "To criticise or complain angrily and at length about something.",
+      "nuance": "It suggests forceful, often moralising criticism rather than a calm disagreement. The phrase “inveigh against” is the usual pattern.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · responding to poor planning",
+          "sentence": "Several managers inveighed against the sudden schedule changes without offering a workable alternative.",
+          "highlight": "inveighed",
+          "tip": "Use it for strong public criticism, but consider whether a direct complaint would sound less confrontational."
+        },
+        {
+          "setting": "social",
+          "where": "Book group · discussing a controversial novel",
+          "sentence": "One reader inveighed against the ending for nearly ten minutes, while the others listened politely.",
+          "highlight": "inveighed",
+          "tip": "A slightly literary choice that adds colour to a description of heated criticism."
+        },
+        {
+          "setting": "writing",
+          "where": "Opinion column · criticising government policy",
+          "sentence": "The columnist inveighed against the proposal, portraying it as a costly failure of planning.",
+          "highlight": "inveighed",
+          "tip": "It works well in formal commentary when you want to show forceful disapproval."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French inveighier and Latin invehere, originally meaning “to attack” or “carry against”. Its English sense developed into speaking harshly against someone or something.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "From invehere, meaning “to carry against” or “attack”."
+          },
+          {
+            "when": "Earlier",
+            "text": "Reaches English through Old French inveighier, initially in the sense of attacking."
+          },
+          {
+            "when": "Today",
+            "text": "Usually means to criticise or complain forcefully and at length."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "inveigher",
+          "label": "noun (person)"
+        },
+        {
+          "term": "invective",
+          "label": "noun"
+        },
+        {
+          "term": "invective",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "denounce",
+        "protest",
+        "rant",
+        "fulminate"
+      ],
+      "opposite": "praise",
+      "pitfall": "Do not confuse it with inveigle, which means to persuade someone to do something by deception or clever wording."
+    },
+    {
+      "id": "laconic",
+      "kind": "word",
+      "term": "laconic",
+      "pos": "adjective",
+      "phonetic": "/ləˈkɒnɪk/",
+      "sayIt": "luh-KON-ik",
+      "register": "Common at work and in writing",
+      "meaning": "Using very few words to communicate something clearly.",
+      "nuance": "It suggests deliberate brevity rather than a lack of detail. It can describe a reply, message or style, but it does not necessarily mean rude.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client call · confirming next steps",
+          "sentence": "The client was laconic: “Send the revised quote by Friday.”",
+          "highlight": "laconic",
+          "tip": "Useful when you want to praise someone’s brief, direct communication."
+        },
+        {
+          "setting": "social",
+          "where": "Café conversation · making plans",
+          "sentence": "His laconic answer was “Sure,” which left us both guessing what he meant.",
+          "highlight": "laconic",
+          "tip": "Often sounds slightly dry or reserved in casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Email apology · explaining a delay",
+          "sentence": "Keep the apology laconic: name the issue, say what you’ll do, and stop.",
+          "highlight": "laconic",
+          "tip": "It fits professional writing that values clarity without extra commentary."
+        }
+      ],
+      "origin": {
+        "summary": "It comes from the Greek region of Laconia, where people were known for brief, disciplined speech.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greece",
+            "text": "The Greeks formed laconicus from Lakōnikos, meaning “of Laconia,” the region associated with Sparta."
+          },
+          {
+            "when": "1500s",
+            "text": "The word entered English through Latin, initially referring to the people of Laconia and their style of speech."
+          },
+          {
+            "when": "Today",
+            "text": "It means using few words, usually with a sense of restraint or bluntness."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "laconicism",
+          "label": "noun"
+        },
+        {
+          "term": "laconically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "terse",
+        "succinct",
+        "brief",
+        "economical"
+      ],
+      "opposite": "expansive",
+      "pitfall": "Don’t use it as a synonym for rude; a laconic speaker may simply prefer to say less."
+    },
+    {
+      "id": "parable",
+      "kind": "word",
+      "term": "parable",
+      "pos": "noun",
+      "phonetic": "/ˈpærəbəl/",
+      "sayIt": "PAR-uh-bul",
+      "register": "Formal and literary",
+      "meaning": "A short story used to teach a moral, spiritual or practical lesson.",
+      "nuance": "A parable often makes an abstract idea memorable through a simple narrative. Depending on the context, it can sound thoughtful and timeless, or old-fashioned and moralising.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · explaining a delay",
+          "sentence": "Her parable about a broken clock made the need for clearer deadlines obvious to everyone.",
+          "highlight": "parable",
+          "tip": "Use it when a short story will communicate a lesson more vividly than a direct explanation."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · disagreeing politely",
+          "sentence": "He used a parable about two hikers sharing one map to make his point without sounding preachy.",
+          "highlight": "parable",
+          "tip": "It can soften a strong message, though the religious associations may suit some settings better than others."
+        },
+        {
+          "setting": "writing",
+          "where": "Leadership article · introducing a lesson",
+          "sentence": "I opened the article with a parable about planting seeds to explain why patient growth matters.",
+          "highlight": "parable",
+          "tip": "Introduce the story first and explain its connection to the main argument afterwards."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Greek parabolē, meaning a comparison or analogy, and passed into English through Latin and Old French. Its modern sense grew from the teaching stories, especially parables, found in the Gospels.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Parabolē means ‘comparison’ or ‘analogy’, literally a placing side by side."
+          },
+          {
+            "when": "1st century CE",
+            "text": "The Gospel accounts use parables to present teachings through short, memorable stories."
+          },
+          {
+            "when": "Medieval period",
+            "text": "English borrowed the word through Latin and Old French for stories intended to convey a lesson."
+          }
+        ]
+      },
+      "similar": [
+        "allegory",
+        "anecdote",
+        "fable",
+        "analogy"
+      ],
+      "pitfall": "Unlike a fable, a parable does not always feature animals or end with an explicit moral."
+    },
+    {
+      "id": "persuasive",
+      "kind": "word",
+      "term": "persuasive",
+      "pos": "adjective",
+      "phonetic": "/pərˈsweɪsɪv/",
+      "sayIt": "puhr-SWAY-siv",
+      "register": "Common at work",
+      "meaning": "Able to make someone believe or do something by presenting a clear and convincing case.",
+      "nuance": "Often used for arguments, presentations and communication that influence other people. It can also describe someone whose manner makes others willing to listen.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Sales meeting · explaining a proposal",
+          "sentence": "Her persuasive pitch convinced the client to approve the new plan.",
+          "highlight": "persuasive",
+          "tip": "Use it for an argument, pitch or case that strongly encourages a decision."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · suggesting a restaurant",
+          "sentence": "Maya was persuasive enough to get the whole group to try the new place.",
+          "highlight": "persuasive",
+          "tip": "It describes communication that changes other people’s choices or opinions."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · requesting an extension",
+          "sentence": "She wrote a persuasive explanation for why the work needed more time.",
+          "highlight": "persuasive",
+          "tip": "Common before arguments, pitches, presentations and cases."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin persuadere, meaning ‘to persuade’, which later developed into the English adjective.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Persuadere combines per-, meaning ‘thoroughly’, with suadere, meaning ‘to advise or urge’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word persuasive enters English in the sense of able to persuade."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes convincing arguments, speakers and writing."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "persuasion",
+          "label": "noun"
+        },
+        {
+          "term": "persuader",
+          "label": "noun (person)"
+        },
+        {
+          "term": "persuasively",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "convincing",
+        "influential",
+        "eloquent",
+        "compelling"
+      ],
+      "opposite": "unconvincing",
+      "pitfall": "Persuasive means strong at influencing people; it does not automatically mean that the argument is correct or honest."
+    },
+    {
+      "id": "platitude",
+      "kind": "word",
+      "term": "platitude",
+      "pos": "noun",
+      "phonetic": "/ˈplætɪtjuːd/",
+      "sayIt": "PLAT-i-tood",
+      "register": "Everyday",
+      "meaning": "A familiar general truth that is repeated without being thought about carefully.",
+      "nuance": "It is often critical: calling something a platitude suggests that it sounds wise but adds little substance. The word can also refer to an overused saying.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · challenging a proposal",
+          "sentence": "Being transparent is important, but saying it again does not make it a platitude rather than a plan.",
+          "highlight": "platitude",
+          "tip": "Use it when a slogan sounds persuasive but lacks specific action or evidence."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · a friendly debate",
+          "sentence": "He turned the discussion into a series of platitudes instead of answering my question.",
+          "highlight": "platitudes",
+          "tip": "The plural often suggests several obvious or overused statements."
+        },
+        {
+          "setting": "writing",
+          "where": "Article introduction · developing an argument",
+          "sentence": "The opening was full of platitudes, so the writer reached the main point only in the fourth paragraph.",
+          "highlight": "platitudes",
+          "tip": "It suits critical commentary on shallow, predictable writing."
+        }
+      ],
+      "origin": {
+        "summary": "The word began with the sense of flatness or lack of depth and later developed into its modern meaning of a dull, familiar truth.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "The roots include platys, meaning broad, flat, or lacking depth."
+          },
+          {
+            "when": "1500s",
+            "text": "The French word platitude enters English with the sense of flatness."
+          },
+          {
+            "when": "1800s",
+            "text": "The meaning develops to include a commonplace truth stated without originality."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly labels an obvious saying that feels empty or overused."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "platitudinous",
+          "label": "adjective"
+        },
+        {
+          "term": "platitudinously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "truism",
+        "cliché",
+        "commonplace",
+        "banality"
+      ],
+      "opposite": "original insight",
+      "pitfall": "A platitude is usually a thoughtless or overused statement; not every familiar truth is automatically a platitude."
+    },
+    {
+      "id": "polemic",
+      "kind": "word",
+      "term": "polemic",
+      "pos": "noun",
+      "phonetic": "/pəˈlemɪk/",
+      "sayIt": "puh-LEM-ik",
+      "register": "Formal",
+      "meaning": "A forceful argument or criticism that attacks opposing views.",
+      "nuance": "A polemic is more intense and combative than an ordinary debate. It often appears in essays, speeches and professional disputes, and can make the writer sound sharp or hostile.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · challenging a proposal",
+          "sentence": "Her response to the proposal turned into a polemic against the entire planning process.",
+          "highlight": "polemic",
+          "tip": "Use it for an unusually forceful disagreement, especially in a formal setting."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · defending a position",
+          "sentence": "I tried to keep the dinner discussion friendly, but his review of the film became a polemic.",
+          "highlight": "polemic",
+          "tip": "The word suggests criticism that feels like an attack rather than a balanced exchange."
+        },
+        {
+          "setting": "writing",
+          "where": "Op-ed · criticising a policy",
+          "sentence": "The essay is a polemic against the idea that economic growth should come before environmental protection.",
+          "highlight": "polemic",
+          "tip": "It fits essays written to provoke debate or condemn a position in strong terms."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek polemikos, meaning “warlike” or “combative,” related to polemos, “war.” It entered English through French and Latin in the early modern period.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Polemikos meant warlike or hostile, and polemos meant war or strife."
+          },
+          {
+            "when": "1600s–1700s",
+            "text": "The word entered English through French and Latin in discussions of religious and political controversy."
+          },
+          {
+            "when": "Today",
+            "text": "It means a forceful argument, criticism or piece of writing."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "polemical",
+          "label": "adjective"
+        },
+        {
+          "term": "polemicist",
+          "label": "noun (person)"
+        },
+        {
+          "term": "polemics",
+          "label": "plural noun"
+        }
+      ],
+      "similar": [
+        "critique",
+        "dispute",
+        "tirade",
+        "controversy"
+      ],
+      "opposite": "reconciliation",
+      "pitfall": "A polemic is usually stronger and more hostile than a debate or critique; do not use it for neutral disagreement."
+    }
+  ]
+}

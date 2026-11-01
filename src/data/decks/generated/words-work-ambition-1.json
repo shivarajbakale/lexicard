@@ -1,0 +1,1710 @@
+{
+  "id": "words-work-ambition-1",
+  "kind": "word",
+  "name": "Work & ambition · 1",
+  "blurb": "25 words about work & ambition",
+  "cards": [
+    {
+      "id": "accommodate",
+      "kind": "word",
+      "term": "accommodate",
+      "pos": "verb",
+      "phonetic": "/əˈkɒmədeɪt/",
+      "sayIt": "uh-KOM-uh-date",
+      "register": "Common at work",
+      "meaning": "To provide enough space or time for something, or to make an arrangement possible for someone.",
+      "nuance": "Use it for fitting people into a space or schedule and for adapting a plan to their needs. It is formal but common in workplaces and everyday arrangements.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Workshop planning · choosing a room",
+          "sentence": "Could we move the workshop to the larger room to accommodate more attendees?",
+          "highlight": "accommodate",
+          "tip": "Often follows a room, space, schedule or number of people."
+        },
+        {
+          "setting": "social",
+          "where": "Café booking · arranging a study group",
+          "sentence": "The café can accommodate our study group if we book ahead.",
+          "highlight": "accommodate",
+          "tip": "A polite way to ask whether a place or venue can handle a group."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · requesting a schedule change",
+          "sentence": "Please let me know if the schedule can accommodate a short remote review.",
+          "highlight": "accommodate",
+          "tip": "Use it when explaining what an arrangement needs to include or allow."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin accommodare, meaning ‘to fit to’ or ‘suit’, based on commodus, meaning ‘suitable’ or ‘convenient’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Accommodare means ‘fit to’ or ‘suit’, especially fitting something to a purpose or need."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in formal legal and official contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for providing space, time or flexibility, as well as adapting to someone’s needs."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "accommodation",
+          "label": "noun"
+        },
+        {
+          "term": "accommodating",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "adapt",
+        "house",
+        "cater to",
+        "provide for"
+      ],
+      "opposite": "obstruct",
+      "pitfall": "Remember the double c and double m: accommodate. It is often confused with accomodate, which is a common misspelling."
+    },
+    {
+      "id": "accountable",
+      "kind": "word",
+      "term": "accountable",
+      "pos": "adjective",
+      "phonetic": "/əˈkaʊntəbəl/",
+      "sayIt": "uh-KOWN-tuh-buhl",
+      "register": "Common at work",
+      "meaning": "Required to explain your actions, decisions or results and to accept responsibility when something goes wrong.",
+      "nuance": "Often suggests that someone must answer to another person or organisation. It is stronger than merely being involved and is commonly used for authority, performance and responsibility.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · discussing delays",
+          "sentence": "The project manager is accountable for explaining why the launch date changed.",
+          "highlight": "accountable",
+          "tip": "Use it when someone has clear responsibility and must answer for results."
+        },
+        {
+          "setting": "social",
+          "where": "Borrowing a friend’s car",
+          "sentence": "If I borrow your car, I’m accountable for returning it safely and on time.",
+          "highlight": "accountable",
+          "tip": "It can sound slightly formal, so it suits a serious promise better than casual banter."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · documenting ownership",
+          "sentence": "Each team lead is accountable for keeping the review schedule on track.",
+          "highlight": "accountable",
+          "tip": "Pair it with for followed by an action, result or responsibility."
+        }
+      ],
+      "origin": {
+        "summary": "Formed in late Middle English from account and the suffix -able. Its original sense was being liable to be called to account; it later developed into the modern idea of being answerable for one’s actions or decisions.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Late Middle English",
+            "text": "Accountable appears with the meaning liable to be called to account."
+          },
+          {
+            "when": "1800s",
+            "text": "Its use broadens to mean answerable for duties, actions and results."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in workplaces, organisations and formal discussion."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "accountability",
+          "label": "noun"
+        },
+        {
+          "term": "accountably",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "responsible",
+        "answerable",
+        "liable",
+        "answerable for"
+      ],
+      "opposite": "unaccountable",
+      "pitfall": "Accountable usually focuses on having to answer for outcomes, while responsible can also mean taking care of a task. Choose whichever matches the point you are making."
+    },
+    {
+      "id": "aspirant",
+      "kind": "word",
+      "term": "aspirant",
+      "pos": "noun",
+      "phonetic": "/ˈæspɪrənt/",
+      "sayIt": "AS-pur-unt",
+      "register": "Formal",
+      "meaning": "A person who hopes to reach a particular position, level or goal.",
+      "nuance": "Often used in formal contexts such as job advertisements, applications and profiles. It focuses on someone’s ambition and may suggest that they have not yet reached the desired position.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Job application · promotion ambition",
+          "sentence": "She is an aspirant team leader with strong customer experience and a clear record of leading projects.",
+          "highlight": "aspirant",
+          "tip": "Common in formal applications, performance reviews and recruitment materials."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · discussing ambitions",
+          "sentence": "He mentioned that he was an aspirant writer before admitting that he had never finished a chapter.",
+          "highlight": "aspirant",
+          "tip": "Use it when you want to describe someone’s goal in a slightly formal or humorous way."
+        },
+        {
+          "setting": "writing",
+          "where": "Professional biography · introducing a colleague",
+          "sentence": "The programme supports aspirant managers who are ready to take on greater responsibility.",
+          "highlight": "aspirant",
+          "tip": "It often appears before a role or status, but can also stand alone when the goal is already clear."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin aspirare, meaning ‘to breathe towards’ or ‘to long for’, which developed into the idea of aiming for a higher position.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Aspirare originally meant ‘to breathe towards’ and came to mean ‘to long for or strive towards’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word entered English in the sense of someone aiming for a position, rank or goal."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly formal, especially when describing someone seeking advancement."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "aspire",
+          "label": "verb"
+        },
+        {
+          "term": "aspiration",
+          "label": "noun"
+        },
+        {
+          "term": "aspirational",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "candidate",
+        "hopeful",
+        "ambitious",
+        "protégé"
+      ],
+      "opposite": "incumbent",
+      "pitfall": "An aspirant is usually seeking advancement. A candidate is specifically someone being considered for a role, whether or not they are highly ambitious."
+    },
+    {
+      "id": "aspire",
+      "kind": "word",
+      "term": "aspire",
+      "pos": "verb",
+      "phonetic": "/əˈspaɪə(r)/",
+      "sayIt": "uh-SPY-UR",
+      "register": "Common at work",
+      "meaning": "To want strongly to achieve or become something in the future.",
+      "nuance": "Usually suggests a serious, long-term ambition rather than a passing wish. It often feels positive and forward-looking, especially when discussing goals or careers.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Career review · discussing next steps",
+          "sentence": "I aspire to lead a team that helps new employees succeed.",
+          "highlight": "aspire",
+          "tip": "Use it with “to” followed by an infinitive to describe a professional ambition."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · talking about personal goals",
+          "sentence": "She aspires to run her own restaurant and open a location abroad.",
+          "highlight": "aspires",
+          "tip": "It suits personal plans and ambitions you are genuinely committed to pursuing."
+        },
+        {
+          "setting": "writing",
+          "where": "Scholarship application · personal statement",
+          "sentence": "Aspire to contribute to your field while developing the skills your community needs.",
+          "highlight": "Aspire",
+          "tip": "Beginning a sentence with the imperative form gives the statement an encouraging tone."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin aspirare, meaning “to breathe upon,” originally referring to drawing breath or reaching toward something. The idea of pursuing a higher goal developed over time.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Aspirare meant “to breathe upon” or “to reach toward,” and could express striving or aiming."
+          },
+          {
+            "when": "Late Middle English",
+            "text": "Entered English through Old French, initially carrying the sense of striving toward a goal."
+          },
+          {
+            "when": "Today",
+            "text": "Means to seek or hope strongly for something important in the future."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "aspiration",
+          "label": "noun"
+        },
+        {
+          "term": "aspirant",
+          "label": "noun (person)"
+        },
+        {
+          "term": "aspirational",
+          "label": "adjective"
+        },
+        {
+          "term": "aspirationally",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "aim",
+        "seek",
+        "strive",
+        "dream"
+      ],
+      "opposite": "settle for",
+      "pitfall": "Aspire usually takes “to” plus an infinitive: “I aspire to work abroad.” “Aspire for” is not standard usage."
+    },
+    {
+      "id": "asset",
+      "kind": "word",
+      "term": "asset",
+      "pos": "noun",
+      "phonetic": "/ˈæsət/",
+      "sayIt": "AS-ut",
+      "register": "Common at work",
+      "meaning": "A person, quality, object or resource that is valuable or useful to someone or something.",
+      "nuance": "It can refer to financial property, but it is also widely used for strengths and useful qualities. It usually sounds positive and practical.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team briefing · identifying strengths",
+          "sentence": "Her ability to explain complex ideas clearly is a real asset to the team.",
+          "highlight": "asset",
+          "tip": "Use “an asset to” for a person or quality that benefits a person or group."
+        },
+        {
+          "setting": "social",
+          "where": "Introducing a friend · new job",
+          "sentence": "Knowing how to cook is a genuine asset when you regularly host dinner parties.",
+          "highlight": "asset",
+          "tip": "A light, positive way to describe a useful skill, connection or personal strength."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · company finances",
+          "sentence": "The business owns several assets, including property, equipment and valuable contracts.",
+          "highlight": "assets",
+          "tip": "The plural “assets” commonly refers to money, property or other resources owned by an organization."
+        }
+      ],
+      "origin": {
+        "summary": "The word entered English through Old French from a Medieval Latin term associated with property or possessions; its deeper Latin connection is commonly traced to a word meaning “enough.”",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1400s",
+            "text": "Middle English uses the word in legal and accounting contexts for property or possessions."
+          },
+          {
+            "when": "1600s–1700s",
+            "text": "The plural “assets” becomes established for money, property and other resources."
+          },
+          {
+            "when": "1800s onward",
+            "text": "Figurative uses develop for people, abilities and qualities that benefit a group."
+          }
+        ]
+      },
+      "similar": [
+        "resource",
+        "strength",
+        "advantage",
+        "possession"
+      ],
+      "opposite": "liability",
+      "pitfall": "An “asset” is something valuable or useful; it does not mean a burden or drawback."
+    },
+    {
+      "id": "assiduous",
+      "kind": "word",
+      "term": "assiduous",
+      "pos": "adjective",
+      "phonetic": "/əˈsɪdjuəs/",
+      "sayIt": "uh-SID-yoo-us",
+      "register": "Formal",
+      "meaning": "Showing steady, careful attention to a task or duty.",
+      "nuance": "It suggests patient and sustained effort rather than a quick burst of energy. It sounds especially appropriate in formal praise, reports and professional writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · praising someone's work",
+          "sentence": "Her assiduous preparation made the presentation clear, accurate and well ahead of schedule.",
+          "highlight": "assiduous",
+          "tip": "Use it to praise consistent effort and careful preparation."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · thanking a host",
+          "sentence": "We were grateful for your assiduous efforts in making everyone feel at home.",
+          "highlight": "assiduous",
+          "tip": "A little formal, but fitting when you want to express thorough and devoted hospitality."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · describing research",
+          "sentence": "The team maintained an assiduous focus on improving the service throughout the year.",
+          "highlight": "assiduous",
+          "tip": "It adds a formal tone to reports, recommendations and professional recognition."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin assiduus, meaning diligent or devoted, related to the idea of remaining steadily at a task.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Assiduus developed from assidere, meaning to sit at or remain beside, and came to suggest steady attention."
+          },
+          {
+            "when": "1500s",
+            "text": "The word entered English in the sense of diligent or devoted to a task."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal contexts to describe persistent, careful effort."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "assiduity",
+          "label": "noun"
+        },
+        {
+          "term": "assiduously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "diligent",
+        "devoted",
+        "attentive",
+        "hard-working"
+      ],
+      "opposite": "negligent",
+      "pitfall": "This is a formal word for carefully sustained effort; in ordinary conversation, “dedicated” or “hard-working” often sounds more natural."
+    },
+    {
+      "id": "cache",
+      "kind": "word",
+      "term": "cache",
+      "pos": "noun",
+      "phonetic": "/kæʃ/",
+      "sayIt": "KASH",
+      "register": "Everyday; common in computing",
+      "meaning": "A collection of items stored somewhere for later use, especially data kept by a device or software.",
+      "nuance": "In everyday use, it can suggest a secret stash. In computing, it means temporarily saved information that helps a system work faster.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "IT support · slow website",
+          "sentence": "Clearing the cache fixed the problem, but the page may load slowly again later.",
+          "highlight": "cache",
+          "tip": "This is the standard technical meaning in workplace IT discussions."
+        },
+        {
+          "setting": "social",
+          "where": "Birthday party · hiding gifts",
+          "sentence": "I found a cache of party snacks behind the garden shed.",
+          "highlight": "cache",
+          "tip": "Use it playfully for a secret or hidden supply of something."
+        },
+        {
+          "setting": "writing",
+          "where": "Mystery story · describing hidden evidence",
+          "sentence": "The detective discovered a cache of old letters beneath the floorboards.",
+          "highlight": "cache",
+          "tip": "It gives a vivid sense of several valuable items hidden together."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through French from a verb meaning ‘to hide’, so its original sense was a hiding place or stored goods.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old French",
+            "text": "Cache develops from cacher, meaning ‘to hide’."
+          },
+          {
+            "when": "1700s–1800s",
+            "text": "English uses cache for a hiding place or a secure store of goods."
+          },
+          {
+            "when": "1900s",
+            "text": "Computing adopts cache for data stored temporarily for faster access."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "cached",
+          "label": "adjective"
+        },
+        {
+          "term": "caching",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "stash",
+        "store",
+        "repository"
+      ],
+      "pitfall": "In computing, cache usually means saved data rather than the physical device that holds it."
+    },
+    {
+      "id": "compensatory",
+      "kind": "word",
+      "term": "compensatory",
+      "pos": "adjective",
+      "phonetic": "/kəmˈpensətəri/",
+      "sayIt": "kum-PEN-suh-tor-ee",
+      "register": "Formal",
+      "meaning": "Done to make up for something, especially a loss, disadvantage or effect.",
+      "nuance": "It sounds technical or official and often describes an action, payment or measure that balances a disadvantage. It is more precise than simply saying something is a replacement.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Benefits review · approving a payment",
+          "sentence": "The company offered a compensatory payment to reduce the impact of the delayed project.",
+          "highlight": "compensatory",
+          "tip": "Use it for money, support or another action that offsets a specific loss."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a trip · one person misses an activity",
+          "sentence": "We gave the person who missed the concert a compensatory dinner ticket for the next show.",
+          "highlight": "compensatory",
+          "tip": "It fits when making up for a missed experience or unfair advantage."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · explaining a change",
+          "sentence": "The extra staff were a compensatory measure to handle the higher volume during the merger.",
+          "highlight": "compensatory",
+          "tip": "Pairs naturally with measures, payment, leave, time or arrangements."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin compensatorius, meaning ‘that compensates or makes amends’, from compensare, ‘to weigh together and offset’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Compensare develops from roots meaning ‘weigh together’ and ‘bring into balance’."
+          },
+          {
+            "when": "1600s",
+            "text": "The related English word compensation appears in the sense of making amends or providing an equivalent."
+          },
+          {
+            "when": "Today",
+            "text": "Compensatory is used for measures or payments that offset a loss or imbalance."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "compensate",
+          "label": "verb"
+        },
+        {
+          "term": "compensation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "remedial",
+        "corrective",
+        "offsetting",
+        "balancing"
+      ],
+      "opposite": "uncompensated",
+      "pitfall": "It does not mean apologetic; it describes something that makes up for a disadvantage."
+    },
+    {
+      "id": "component",
+      "kind": "word",
+      "term": "component",
+      "pos": "noun",
+      "phonetic": "/kəmˈpəʊ.nənt/",
+      "sayIt": "kuhm-POH-nuhnt",
+      "register": "Common at work",
+      "meaning": "One of the parts that make up a larger system, object or process.",
+      "nuance": "Often used in technical and workplace contexts. It suggests that each part has a distinct role, even if the parts work closely together.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product meeting · reviewing a system",
+          "sentence": "The search feature is a key component of the new customer portal.",
+          "highlight": "component",
+          "tip": "Use it for a part that contributes to the function of a larger product or system."
+        },
+        {
+          "setting": "social",
+          "where": "Flat viewing · discussing the décor",
+          "sentence": "We bought the sofa separately because it was the most expensive component.",
+          "highlight": "component",
+          "tip": "It sounds more technical than simply saying part, but remains easy to understand."
+        },
+        {
+          "setting": "writing",
+          "where": "Project proposal · outlining a plan",
+          "sentence": "Training is a critical component of our rollout and should begin before launch.",
+          "highlight": "component",
+          "tip": "It works well before of, in and part of to identify an important part of a plan."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin componens, a form of componere, meaning ‘to put together’. It originally referred to a part that helps form a whole.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Componere combines com-, meaning ‘together’, with ponere, meaning ‘to put’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in the sense of a constituent part."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in technical, academic and workplace language."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "componential",
+          "label": "adjective"
+        },
+        {
+          "term": "componentize",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "part",
+        "element",
+        "module",
+        "constituent"
+      ],
+      "opposite": "whole",
+      "pitfall": "A component is normally a functional or clearly defined part; use part when you simply mean one piece of something."
+    },
+    {
+      "id": "debacle",
+      "kind": "word",
+      "term": "debacle",
+      "pos": "noun",
+      "phonetic": "/dɪˈbɑːkəl/",
+      "sayIt": "dih-BAH-kuhl",
+      "register": "Formal",
+      "meaning": "A sudden and complete failure involving confusion, disorder, or disaster.",
+      "nuance": "Stronger and more dramatic than “failure” or “problem”; it suggests everything has gone badly wrong.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · launch in crisis",
+          "sentence": "The launch became a debacle after the system failed and nobody could agree on a solution.",
+          "highlight": "debacle",
+          "tip": "Use it for a public or serious failure, not a minor setback."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · planning a party",
+          "sentence": "The reunion was a debacle: the food was late, the music stopped, and half the guests left early.",
+          "highlight": "debacle",
+          "tip": "This word adds a note of criticism or rueful amusement."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · political crisis",
+          "sentence": "Negotiations ended in a debacle, leaving the government under immediate pressure.",
+          "highlight": "debacle",
+          "tip": "It suits formal reporting, especially when a serious event has clearly collapsed."
+        }
+      ],
+      "origin": {
+        "summary": "From French désastre, meaning a complete calamity, which came from Italian disastro and Latin elements meaning “ill-fated” or “unlucky under the stars.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "The roots combine dis-, meaning “badly,” and astrum, meaning “star.”"
+          },
+          {
+            "when": "1600s",
+            "text": "Italian forms disastro, meaning “ill-starred” or “disastrous.”"
+          },
+          {
+            "when": "Early 1800s",
+            "text": "English borrows French désastre and develops the sense of a complete, chaotic failure."
+          }
+        ]
+      },
+      "similar": [
+        "fiasco",
+        "disaster",
+        "collapse",
+        "catastrophe",
+        "shambles"
+      ],
+      "opposite": "success",
+      "pitfall": "This is a strong, formal word; don’t use it for an ordinary setback or minor mistake."
+    },
+    {
+      "id": "deploy",
+      "kind": "word",
+      "term": "deploy",
+      "pos": "verb",
+      "phonetic": "/dɪˈplɔɪ/",
+      "sayIt": "di-PLOY",
+      "register": "Common at work; formal in military contexts",
+      "meaning": "To put people, resources, or technology into effective use in a particular place or situation.",
+      "nuance": "Often suggests carefully positioning something where it can achieve a goal. It can sound military in tone, while business and technology usage usually sounds practical and efficient.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product launch · preparing support",
+          "sentence": "We’ll deploy two support engineers across Europe before the launch begins.",
+          "highlight": "deploy",
+          "tip": "Use it when resources are being put into action for a specific outcome."
+        },
+        {
+          "setting": "social",
+          "where": "Community event · managing a queue",
+          "sentence": "Let’s deploy volunteers at both entrances so nobody has to wait outside.",
+          "highlight": "deploy",
+          "tip": "In social plans, it adds a light sense of organized action."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · announcing changes",
+          "sentence": "The team will deploy the new scheduling tool to all departments by Friday.",
+          "highlight": "deploy",
+          "tip": "Common in updates about software, staff, funds, or other resources."
+        }
+      ],
+      "origin": {
+        "summary": "From French deployer, meaning to unfold or position, from Latin dis- and aperire, ‘to open’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Built from dis-, ‘apart’, and aperire, ‘to open’."
+          },
+          {
+            "when": "French",
+            "text": "Appears as deployer, meaning to unfold or arrange for use."
+          },
+          {
+            "when": "1800s",
+            "text": "Enters English in military contexts, especially positioning troops and equipment."
+          },
+          {
+            "when": "Today",
+            "text": "Widely means putting staff, technology, funds, or other resources into action."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "deployment",
+          "label": "noun"
+        },
+        {
+          "term": "deployable",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "position",
+        "launch",
+        "distribute",
+        "mobilize"
+      ],
+      "opposite": "withdraw",
+      "pitfall": "Deploy means putting something into effective use; it does not merely mean to announce or plan it."
+    },
+    {
+      "id": "dilatory",
+      "kind": "word",
+      "term": "dilatory",
+      "pos": "adjective",
+      "phonetic": "/ˈdɪlətəri/",
+      "sayIt": "DIL-uh-tor-ee",
+      "register": "Formal",
+      "meaning": "Slow or reluctant to do something, especially when prompt action is needed.",
+      "nuance": "It often criticises unnecessary delay and suggests that someone is wasting time. It is especially common in legal, business and official contexts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project meeting · chasing a delayed deliverable",
+          "sentence": "The vendor has been dilatory, so we may need to escalate the request.",
+          "highlight": "dilatory",
+          "tip": "Use it for serious delays, but avoid making a routine follow-up sound like an accusation."
+        },
+        {
+          "setting": "social",
+          "where": "Friends · arranging a meeting",
+          "sentence": "Sorry I was dilatory with my reply; I wanted to check the details first.",
+          "highlight": "dilatory",
+          "tip": "This sounds formal and slightly stern, so apologise directly if you use it socially."
+        },
+        {
+          "setting": "writing",
+          "where": "Business email · requesting action",
+          "sentence": "We would appreciate a prompt response and cannot accept a dilatory delay.",
+          "highlight": "dilatory",
+          "tip": "In formal writing, it adds pressure without directly accusing the reader."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin dilatorius, meaning ‘causing delay’, based on dilatare, ‘to postpone’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Dilatare means ‘to postpone’ or ‘to defer’, giving rise to dilatorius."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English in legal and official contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It describes behaviour that is slow, delayed or unreasonably hesitant."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "dilatorily",
+          "label": "adverb"
+        },
+        {
+          "term": "dilator",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "tardy",
+        "slow",
+        "procrastinating",
+        "sluggish"
+      ],
+      "opposite": "prompt",
+      "pitfall": "Dilatory focuses on delay; it does not necessarily mean someone is naturally slow in everything they do."
+    },
+    {
+      "id": "diligent",
+      "kind": "word",
+      "term": "diligent",
+      "pos": "adjective",
+      "phonetic": "/ˈdɪlɪdʒənt/",
+      "sayIt": "DIL-i-juhnt",
+      "register": "Common at work",
+      "meaning": "Showing steady care and hard work in what you do.",
+      "nuance": "It suggests that someone makes a consistent, serious effort, especially with responsibilities or tasks. It is a positive word about work ethic, not necessarily about natural talent.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · reviewing deadlines",
+          "sentence": "Mina was diligent about the deadline, checking each stage and raising risks early.",
+          "highlight": "diligent",
+          "tip": "Use it to praise careful, steady effort rather than a single clever result."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a trip · sharing responsibilities",
+          "sentence": "Diligently, we compared the prices before booking, and we found a much better option.",
+          "highlight": "Diligently",
+          "tip": "The adverb works well when you want to emphasise the effort someone made."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · praising an employee",
+          "sentence": "She remained diligent during a busy quarter and completed every project on schedule.",
+          "highlight": "diligent",
+          "tip": "Pair it with a task, duty or period of work for a specific compliment."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through Latin from diligere, meaning to value something carefully, and reflects the idea of giving close attention.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Diligere means to value or esteem carefully; its relatives convey care and attention."
+          },
+          {
+            "when": "Late Middle English",
+            "text": "The word enters English through Old French with the sense of being careful and attentive."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes steady, conscientious effort."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "diligence",
+          "label": "noun"
+        },
+        {
+          "term": "diligently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "conscientious",
+        "painstaking",
+        "meticulous",
+        "attentive"
+      ],
+      "opposite": "negligent",
+      "pitfall": "Diligent focuses on effort and dependability; meticulous focuses more closely on precise, detailed work."
+    },
+    {
+      "id": "drudgery",
+      "kind": "word",
+      "term": "drudgery",
+      "pos": "noun",
+      "phonetic": "/ˈdrʌdʒəri/",
+      "sayIt": "DRUJ-er-ee",
+      "register": "Common at work",
+      "meaning": "Dull, repetitive work that takes effort but feels unpleasant and offers little interest.",
+      "nuance": "It is often used to describe jobs, chores or tasks that feel tedious rather than difficult. The word can also mean the tiring effort involved in doing something.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office · preparing monthly reports",
+          "sentence": "Copying figures into the same spreadsheet every month is pure drudgery.",
+          "highlight": "drudgery",
+          "tip": "Use it for repetitive tasks that drain enthusiasm without adding much value."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend · household chores",
+          "sentence": "I avoided the drudgery of washing windows until the afternoon.",
+          "highlight": "drudgery",
+          "tip": "It sounds natural when discussing chores you know will take time but no real enjoyment."
+        },
+        {
+          "setting": "writing",
+          "where": "Work email · requesting help",
+          "sentence": "Rechecking hundreds of entries was drudgery, so I automated the most repetitive part.",
+          "highlight": "drudgery",
+          "tip": "It can make a complaint sound vivid, especially when paired with a task that must be repeated."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Middle English drudgery, formed from drudge, a word for a hard or tiresome worker or task, with the suffix -ery.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Middle English",
+            "text": "Drudgery appears in English, referring to hard, tiresome work."
+          },
+          {
+            "when": "1500s",
+            "text": "The word is recorded in a form close to modern drudgery."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means dull, repetitive work or effort."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "drudge",
+          "label": "noun"
+        },
+        {
+          "term": "drudge",
+          "label": "verb"
+        },
+        {
+          "term": "drudging",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "grind",
+        "toil",
+        "slog",
+        "tedium",
+        "monotony"
+      ],
+      "opposite": "leisure",
+      "pitfall": "Use drudgery for dull, repetitive effort, not simply for any difficult task. A challenging project may be demanding without being drudgery."
+    },
+    {
+      "id": "efficacy",
+      "kind": "word",
+      "term": "efficacy",
+      "pos": "noun",
+      "phonetic": "/ˈɛfəkəsi/",
+      "sayIt": "EF-uh-kuh-see",
+      "register": "Formal",
+      "meaning": "The power of a method, treatment or idea to produce the intended result.",
+      "nuance": "It is a formal way of saying how effective something is, especially in medicine, research and professional settings.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team review · evaluating a new process",
+          "sentence": "Early tests showed the new workflow has real efficacy, cutting processing time without reducing accuracy.",
+          "highlight": "efficacy",
+          "tip": "Use it when you want a formal, evidence-focused word for effectiveness."
+        },
+        {
+          "setting": "social",
+          "where": "Discussion · comparing exercise routines",
+          "sentence": "I prefer this routine because its efficacy is clear, even during busy weeks.",
+          "highlight": "efficacy",
+          "tip": "It sounds more technical than effectiveness, so use it in a serious discussion."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · recommending a treatment",
+          "sentence": "The report found strong efficacy across the trial group, although longer research is still needed.",
+          "highlight": "efficacy",
+          "tip": "Common in reports about medicines, interventions and proposed solutions."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin efficacia, meaning effectiveness or power to produce results, derived from efficax, ‘effective’. It entered English through Latin usage in medical and scholarly writing.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Efficacia develops from efficax, meaning effective or capable of producing results."
+          },
+          {
+            "when": "1500s",
+            "text": "The word appears in English, initially in medical writing."
+          },
+          {
+            "when": "Today",
+            "text": "It describes the effectiveness of treatments, methods, policies and other proposed solutions."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "efficacious",
+          "label": "adjective"
+        },
+        {
+          "term": "efficaciously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "effectiveness",
+        "potency",
+        "efficiency"
+      ],
+      "opposite": "ineffectiveness",
+      "pitfall": "Efficacy means the ability to achieve the intended result; efficiency means completing work with little waste or unnecessary effort."
+    },
+    {
+      "id": "enhance",
+      "kind": "word",
+      "term": "enhance",
+      "pos": "verb",
+      "phonetic": "/ɪnˈhɑːns/",
+      "sayIt": "en-HANS",
+      "register": "Common at work",
+      "meaning": "To make something better in quality, value, appearance or effectiveness.",
+      "nuance": "A positive, confident word that suggests meaningful improvement. It is often used for presentation, features, performance or reputation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product review · improving a feature",
+          "sentence": "Adding clearer reports would enhance the dashboard and help teams make decisions faster.",
+          "highlight": "enhance",
+          "tip": "Use it when an improvement adds usefulness, not just decoration."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · complimenting the meal",
+          "sentence": "That herb really enhances the flavour of the roasted vegetables.",
+          "highlight": "enhances",
+          "tip": "It works naturally for food, music, design and other things you genuinely like."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · proposing an upgrade",
+          "sentence": "We can enhance the proposal by adding examples from last quarter’s successful campaign.",
+          "highlight": "enhance",
+          "tip": "A useful alternative to improve, especially in formal emails and presentations."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French enhancer, meaning ‘to raise’ or ‘increase’, which came from Latin enhanceare, a word built on ‘raise’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Enhanceare develops the sense of raising something and making it stronger or better."
+          },
+          {
+            "when": "Middle English",
+            "text": "Enters English through Old French, initially meaning to raise or increase."
+          },
+          {
+            "when": "Today",
+            "text": "Widely means to improve quality, value, appearance or effectiveness."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "enhancement",
+          "label": "noun"
+        },
+        {
+          "term": "enhancer",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "improve",
+        "strengthen",
+        "upgrade",
+        "enrich"
+      ],
+      "opposite": "diminish",
+      "pitfall": "Avoid suggesting that the original work was poor; enhance usually presents the improvement as an added benefit."
+    },
+    {
+      "id": "expedite",
+      "kind": "word",
+      "term": "expedite",
+      "pos": "verb",
+      "phonetic": "/ɪkˈspeɪdaɪt/",
+      "sayIt": "ik-SPEH-dyte",
+      "register": "Formal",
+      "meaning": "To make a process or task happen more quickly.",
+      "nuance": "Common in formal workplace communication, especially when asking someone to move a request, approval or delivery forward. It suggests urgency without demanding rudeness.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project meeting · requesting approval",
+          "sentence": "Could you expedite the approval so we can release the new supplier today?",
+          "highlight": "expedite",
+          "tip": "Use it when a delay would affect the schedule and you want a polite but clear request."
+        },
+        {
+          "setting": "social",
+          "where": "Event planning · coordinating guests",
+          "sentence": "Let me call the caterer and expedite the headcount before Friday.",
+          "highlight": "expedite",
+          "tip": "It sounds professional but can feel slightly formal in casual conversations."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · urgent invoice request",
+          "sentence": "I would appreciate it if you could expedite payment of the attached invoice.",
+          "highlight": "expedite",
+          "tip": "Pair it with payment, approval, processing, delivery or paperwork."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin expedire, meaning ‘to prepare, dispatch or hasten’, ultimately connected with preparing to move.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Expedire develops meanings connected with preparing, dispatching and hurrying."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in the sense of to hasten or make happen sooner."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal requests to speed up a business process."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "expedition",
+          "label": "noun"
+        },
+        {
+          "term": "expeditious",
+          "label": "adjective"
+        },
+        {
+          "term": "expediter",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "accelerate",
+        "hasten",
+        "facilitate",
+        "speed up"
+      ],
+      "opposite": "delay",
+      "pitfall": "Usually takes a process or task as its object, as in ‘expedite approval’; it is less natural with a person."
+    },
+    {
+      "id": "fruitless",
+      "kind": "word",
+      "term": "fruitless",
+      "pos": "adjective",
+      "phonetic": "/ˈfruːtləs/",
+      "sayIt": "FROOT-lus",
+      "register": "Common at work",
+      "meaning": "Producing no useful result, benefit or outcome.",
+      "nuance": "It can sound mildly critical, suggesting that effort or time was wasted. It may also mean that something produces no fruit, depending on the context.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · repeating a failed approach",
+          "sentence": "Another round of manual checks would be fruitless, so we should automate the process.",
+          "highlight": "fruitless",
+          "tip": "Use it to explain why an action is unlikely to produce a useful result."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · trying to settle an argument",
+          "sentence": "We’ve argued about this for hours, and the discussion is becoming fruitless.",
+          "highlight": "fruitless",
+          "tip": "It describes an effort that is not achieving anything, not necessarily one with no enjoyable moments."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · proposing a change of direction",
+          "sentence": "The survey was fruitless because nobody had agreed to take part.",
+          "highlight": "fruitless",
+          "tip": "Pairs naturally with efforts, discussions, searches and attempts."
+        }
+      ],
+      "origin": {
+        "summary": "Formed in Middle English from fruit and the suffix -less, originally referring to trees or plants that do not bear fruit.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Before 1500",
+            "text": "The word develops from Middle English fruit, meaning the part of a plant containing a seed."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The -less suffix is added, giving the original sense of producing no fruit."
+          },
+          {
+            "when": "Today",
+            "text": "Its main meaning is producing no useful result or outcome."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "fruitlessly",
+          "label": "adverb"
+        },
+        {
+          "term": "fruitlessness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "unproductive",
+        "ineffective",
+        "pointless",
+        "futile"
+      ],
+      "opposite": "fruitful",
+      "pitfall": "Fruitless is close to futile, but it focuses more directly on an effort that yields no result."
+    },
+    {
+      "id": "gratuity",
+      "kind": "word",
+      "term": "gratuity",
+      "pos": "noun",
+      "phonetic": "/ɡrəˈtjuːəti/",
+      "sayIt": "grah-TYOO-uh-tee",
+      "register": "Common at work",
+      "meaning": "A payment given to someone for their service, especially a waiter, driver, or other service worker.",
+      "nuance": "It is usually optional and depends on the quality of the service or the customer’s wish to show appreciation. In some contexts, it can also mean a payment given on leaving a job.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Restaurant shift · serving a table",
+          "sentence": "The customer left a gratuity for the waiter who handled the large party.",
+          "highlight": "gratuity",
+          "tip": "Use it when referring formally to a tip, especially in workplace policies or job descriptions."
+        },
+        {
+          "setting": "social",
+          "where": "Taxi ride · paying the driver",
+          "sentence": "I added a small gratuity to the fare because the driver had helped with our luggage.",
+          "highlight": "gratuity",
+          "tip": "It sounds more formal than tip and is common in service-industry contexts."
+        },
+        {
+          "setting": "writing",
+          "where": "Employment contract · leaving a job",
+          "sentence": "Under the contract, she received a gratuity in addition to her final salary.",
+          "highlight": "gratuity",
+          "tip": "In employment writing, check whether it means a farewell payment or a voluntary tip."
+        }
+      ],
+      "origin": {
+        "summary": "From French gratuité, meaning favour or gift, which comes from Latin gratia, meaning favour, pleasure, or gratitude.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "gratia, meaning favour, pleasure, or thankfulness."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "Enters English through French, initially meaning a gift or something given freely."
+          },
+          {
+            "when": "Today",
+            "text": "Most often means a payment for personal service, such as a tip."
+          }
+        ]
+      },
+      "similar": [
+        "tip",
+        "bonus",
+        "bounty",
+        "reward"
+      ],
+      "opposite": "required payment",
+      "pitfall": "A gratuity is not always a generous tip; it may be a small or entirely voluntary payment. In some jobs, it can also mean money given when someone leaves."
+    },
+    {
+      "id": "impresario",
+      "kind": "word",
+      "term": "impresario",
+      "pos": "noun",
+      "phonetic": "/ˌɪmprəˈsɑːrioʊ/",
+      "sayIt": "im-pruh-SAR-ee-oh",
+      "register": "Professional and cultural",
+      "meaning": "A person who organizes, manages, or produces artistic performances, entertainment, or public events.",
+      "nuance": "Often suggests someone with business sense and creative flair who makes ambitious projects happen. It can also be used playfully for an energetic organizer or host.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Theatre planning · managing a production",
+          "sentence": "Our impresario booked the venue, hired the ensemble, and kept the tour on schedule.",
+          "highlight": "impresario",
+          "tip": "Use it for someone who brings together the creative and business sides of an event."
+        },
+        {
+          "setting": "social",
+          "where": "Festival reception · introducing the performers",
+          "sentence": "At the festival, the impresario introduced the musicians and explained the evening’s unusual program.",
+          "highlight": "impresario",
+          "tip": "It sounds more colorful than organizer and may suggest a showmanship."
+        },
+        {
+          "setting": "writing",
+          "where": "Arts feature · tracing an institution’s history",
+          "sentence": "The article describes how the young impresario turned a risky festival into a lasting institution.",
+          "highlight": "impresario",
+          "tip": "Useful when presenting someone as the driving force behind an arts organization or event."
+        }
+      ],
+      "origin": {
+        "summary": "From Italian impresario, meaning a person who undertakes and manages an enterprise. Its English history is closely connected with opera, theatre, and public entertainment.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Italian",
+            "text": "Developed from impresa, an undertaking, enterprise, or project."
+          },
+          {
+            "when": "1700s",
+            "text": "Entered English with the broader sense of a business contractor or organizer."
+          },
+          {
+            "when": "1800s",
+            "text": "Became strongly associated with managers and producers of opera and theatre."
+          }
+        ]
+      },
+      "similar": [
+        "impresario",
+        "producer",
+        "promoter",
+        "manager",
+        "organizer"
+      ],
+      "pitfall": "Don’t use it as a general synonym for performer; it describes the person who organizes or produces the show."
+    },
+    {
+      "id": "industrious",
+      "kind": "word",
+      "term": "industrious",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈdʌstriəs/",
+      "sayIt": "in-DUS-tree-us",
+      "register": "Everyday",
+      "meaning": "Hardworking, energetic, and willing to keep busy with tasks or responsibilities.",
+      "nuance": "It is usually a positive description of someone’s work ethic. It can also suggest being constantly occupied, depending on the context.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing progress",
+          "sentence": "She is an industrious employee who finishes tasks early and rarely needs reminders.",
+          "highlight": "industrious",
+          "tip": "Use it to praise someone’s consistent effort and productivity."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans · helping a friend move",
+          "sentence": "Our industrious friends arrived before breakfast and had every box packed by noon.",
+          "highlight": "industrious",
+          "tip": "It can describe people who are visibly busy and active."
+        },
+        {
+          "setting": "writing",
+          "where": "Recommendation letter · praising a colleague",
+          "sentence": "The industrious apprentice learned quickly and became a dependable member of the team.",
+          "highlight": "industrious",
+          "tip": "A warm, professional way to describe someone’s strong work ethic."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin industrius, meaning diligent or industrious, related to industry and purposeful activity.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Industrius referred to diligent, busy, or purposeful people."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word began appearing in English with the sense of diligent or hardworking."
+          },
+          {
+            "when": "Today",
+            "text": "It describes someone who works hard and stays active."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "industriousness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "hardworking",
+        "diligent",
+        "busy",
+        "productive"
+      ],
+      "opposite": "idle",
+      "pitfall": "It describes a person’s work ethic, not the amount of work available; someone can be industrious in a small role."
+    },
+    {
+      "id": "liquidation",
+      "kind": "word",
+      "term": "liquidation",
+      "pos": "noun",
+      "phonetic": "/ˌlɪkɪˈdeɪʃən/",
+      "sayIt": "lik-ih-DAY-shun",
+      "register": "Formal",
+      "meaning": "The formal process of closing a business or settling debts by selling assets and paying what is owed.",
+      "nuance": "It can sound harsh or final because it usually suggests that a company or financial arrangement is ending. In legal contexts, it can also mean the orderly settlement of an estate’s debts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Finance meeting · closing a company",
+          "sentence": "The board approved the liquidation of the subsidiary and will repay investors before the end of the quarter.",
+          "highlight": "liquidation",
+          "tip": "Common in finance, legal and business reporting when a company is being closed."
+        },
+        {
+          "setting": "social",
+          "where": "Friends discussing local news · a failed business",
+          "sentence": "The workers were relieved when the old factory’s liquidation brought final payments after months of uncertainty.",
+          "highlight": "liquidation",
+          "tip": "Natural in serious conversation about a business closure, especially when debts are settled."
+        },
+        {
+          "setting": "writing",
+          "where": "Legal report · company status",
+          "sentence": "The report recommends voluntary liquidation because the company can no longer meet its financial obligations.",
+          "highlight": "liquidation",
+          "tip": "Often paired with voluntary, involuntary, proceedings or assets."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin liquidatio, meaning a making liquid or settling of debts, based on liquidare ‘to make liquid’. English later extended the word to the formal closing of businesses.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Liquidatio develops from liquidare, ‘to make liquid’, and liquidus, ‘liquid’."
+          },
+          {
+            "when": "1600s",
+            "text": "English uses the word for turning assets into money and settling debts."
+          },
+          {
+            "when": "1800s",
+            "text": "The business sense expands to the formal process of closing a company."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "liquidate",
+          "label": "verb"
+        },
+        {
+          "term": "liquidator",
+          "label": "noun (person)"
+        },
+        {
+          "term": "liquid",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "wind-down",
+        "closure",
+        "dissolution",
+        "insolvency"
+      ],
+      "pitfall": "Don’t use it as a gentler synonym for closure; liquidation specifically involves settling financial obligations, often through the sale of assets."
+    },
+    {
+      "id": "lucrative",
+      "kind": "word",
+      "term": "lucrative",
+      "pos": "adjective",
+      "phonetic": "/ˈluːkrətɪv/",
+      "sayIt": "LOO-kruh-tiv",
+      "register": "Common at work",
+      "meaning": "Producing or likely to produce a lot of money.",
+      "nuance": "Often used for work, businesses or opportunities that are especially profitable. It can sound more attractive than simply saying “successful,” especially when discussing income.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing projects",
+          "sentence": "The consulting contract is more lucrative, but it would take twice as much of your time.",
+          "highlight": "lucrative",
+          "tip": "Use it to compare the financial benefits of different opportunities."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · comparing side projects",
+          "sentence": "Selling vintage clothes has turned out to be more lucrative than I expected.",
+          "highlight": "lucrative",
+          "tip": "It works naturally when describing a business or income source that earns well."
+        },
+        {
+          "setting": "writing",
+          "where": "Business proposal · new service",
+          "sentence": "The proposal presents a lucrative opportunity to expand into a largely underserved market.",
+          "highlight": "lucrative",
+          "tip": "It adds a clear financial focus to an otherwise general claim about potential."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin lucrativus, meaning “of profit,” based on lucrum, “gain or money.” It entered English in the 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "lucrativus, “of or producing profit,” comes from lucrum, “gain” or “money.”"
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in the sense of “profitable.”"
+          },
+          {
+            "when": "Today",
+            "text": "It describes work, businesses or opportunities that produce substantial financial gain."
+          }
+        ]
+      },
+      "similar": [
+        "profitable",
+        "well-paid",
+        "rewarding",
+        "money-making"
+      ],
+      "opposite": "unprofitable",
+      "pitfall": "Lucrative describes financial gain, not simply whether something is successful, useful or enjoyable."
+    },
+    {
+      "id": "menial",
+      "kind": "word",
+      "term": "menial",
+      "pos": "adjective",
+      "phonetic": "/ˈmiːniəl/",
+      "sayIt": "MEEN-ee-ul",
+      "register": "Often negative at work",
+      "meaning": "Describing work that is low in status and involves simple, repetitive tasks.",
+      "nuance": "The word can sound dismissive or insulting, especially when used to describe a person. It is most effective when the distinction in status or responsibility is genuinely relevant.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · assigning tasks",
+          "sentence": "We automated the repetitive work instead of assigning it as a menial task.",
+          "highlight": "menial",
+          "tip": "Use it for low-status work, but consider whether a neutral phrase would sound less insulting."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · describing a job",
+          "sentence": "She left a well-paid office job rather than continue with menial work.",
+          "highlight": "menial",
+          "tip": "It can express frustration or criticism, but may offend if directed at a person."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · reviewing responsibilities",
+          "sentence": "The report separates senior decision-making from menial administrative duties.",
+          "highlight": "menial",
+          "tip": "It is stronger and more judgemental than simply saying routine or low-skilled."
+        }
+      ],
+      "origin": {
+        "summary": "English borrowed the word through late Latin from Latin manus, meaning ‘hand’, reflecting an older sense connected with household servants.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Menialis refers to household servants or service connected with the hand."
+          },
+          {
+            "when": "Late Middle English",
+            "text": "The word enters English with senses connected with household service and manual work."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes low-status work involving simple or repetitive tasks."
+          }
+        ]
+      },
+      "similar": [
+        "low-status",
+        "routine",
+        "low-skilled",
+        "servile"
+      ],
+      "opposite": "prestigious",
+      "pitfall": "Avoid calling a person ‘menial’; describe the task or role instead, as calling someone low-status can be insulting."
+    },
+    {
+      "id": "neophyte",
+      "kind": "word",
+      "term": "neophyte",
+      "pos": "noun",
+      "phonetic": "/ˈniːəʊfaɪt/",
+      "sayIt": "NEE-uh-fyte",
+      "register": "Formal",
+      "meaning": "A person who is new to a field, activity or group and still has little experience.",
+      "nuance": "Often used when someone is beginning to learn something unfamiliar. It can sound formal or mildly patronising, especially if used to label an experienced person as inexperienced.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · starting a new role",
+          "sentence": "As a neophyte in data analysis, I began with the simplest weekly report.",
+          "highlight": "neophyte",
+          "tip": "Use it to introduce yourself while admitting that you are still learning."
+        },
+        {
+          "setting": "social",
+          "where": "Dance class · joining for the first time",
+          "sentence": "I was a complete neophyte at salsa, but everyone was patient with me.",
+          "highlight": "neophyte",
+          "tip": "It adds a slightly humorous or self-deprecating tone to a first attempt."
+        },
+        {
+          "setting": "writing",
+          "where": "Newsletter · welcoming a new contributor",
+          "sentence": "Our guest writer joins us as a neophyte to environmental journalism and promises to ask basic questions.",
+          "highlight": "neophyte",
+          "tip": "It fits formal profiles, introductions and commentary about newcomers."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek neophytos, meaning ‘newly planted’, originally describing a newly planted shoot that still needed care and training.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Neophytos combines neos, ‘new’, and phuton, ‘a plant or sprout’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English through Latin and French, initially referring to a new Christian convert."
+          },
+          {
+            "when": "Today",
+            "text": "It means a beginner or newcomer, usually in an unfamiliar field."
+          }
+        ]
+      },
+      "similar": [
+        "novice",
+        "beginner",
+        "newcomer",
+        "rookie"
+      ],
+      "opposite": "veteran",
+      "pitfall": "It usually implies genuine inexperience, so avoid using it sarcastically about someone who is actually highly skilled."
+    }
+  ]
+}

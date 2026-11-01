@@ -1,0 +1,891 @@
+{
+  "id": "phrases-agreeing-disagreeing-3",
+  "kind": "phrase",
+  "name": "Agreeing & disagreeing · 3",
+  "blurb": "15 phrases about agreeing & disagreeing",
+  "cards": [
+    {
+      "id": "say-less",
+      "kind": "phrase",
+      "term": "say less",
+      "pos": "idiom",
+      "hint": "you already understand",
+      "register": "Common at work and in casual conversation",
+      "meaning": "You understand, so there is no need to say anything more.",
+      "nuance": "It can show approval, relief, or amused agreement, depending on the situation. It may also sound a little dismissive if someone is still asking for an explanation.",
+      "literal": "A person has understood the point, so speaking more words is unnecessary.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · clear instructions",
+          "sentence": "The brief is clear, so say less — just confirm that everyone has what they need.",
+          "highlight": "say less",
+          "tip": "Use it when you are genuinely satisfied with the explanation."
+        },
+        {
+          "setting": "social",
+          "where": "Friend’s message · perfectly understood joke",
+          "sentence": "You understood my plan? Say less, that saves me from explaining it twice.",
+          "highlight": "Say less",
+          "tip": "It works well as a playful response when the meaning is obvious."
+        },
+        {
+          "setting": "writing",
+          "where": "Chat reply · agreeing with a clear update",
+          "sentence": "Got it, say less — I’ll make the changes and send the revised version this afternoon.",
+          "highlight": "say less",
+          "tip": "Keep it light and conversational; it can sound abrupt in a formal email."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from the older expression “the less said, the better,” meaning that silence can prevent disagreement or trouble. The shorter form became common in conversational English.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The related expression “the less said, the better” was already in use."
+          },
+          {
+            "when": "20th century",
+            "text": "The shorter idiomatic form “say less” spread in casual conversation."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in spoken English and informal messages worldwide."
+          }
+        ]
+      },
+      "similar": [
+        "the point is clear",
+        "understood",
+        "you get it"
+      ],
+      "opposite": "let me explain",
+      "pitfall": "It can sound dismissive if the other person still needs clarification or is asking for reassurance."
+    },
+    {
+      "id": "says-who",
+      "kind": "phrase",
+      "term": "says who",
+      "pos": "phrase",
+      "hint": "who claims that?",
+      "register": "Casual",
+      "meaning": "A brief challenge asking who made a particular claim or supports it.",
+      "nuance": "It sounds skeptical and slightly confrontational, often adding disbelief or asking for evidence. It fits informal debates better than formal criticism.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · questioning a claim",
+          "sentence": "The report says the deadline is realistic, but says who? We’ve already missed it twice.",
+          "highlight": "says who",
+          "tip": "Use it when you want a quick challenge, not a long argument."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · rejecting a boast",
+          "sentence": "He says he can run a marathon in under three hours—says who?",
+          "highlight": "says who",
+          "tip": "It can be playful among friends but dismissive with someone you don’t know well."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message · pressing for clarification",
+          "sentence": "Your message says the file is complete, but says who? Two items are still missing.",
+          "highlight": "says who",
+          "tip": "In email, a specific question is usually clearer and less abrasive."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from the rhetorical question “Who says?” or the longer “Who says so?”, both used to question whether a claim is true.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Who says?” was used as a demand for the identity or authority behind a statement."
+          },
+          {
+            "when": "1900s",
+            "text": "The shortened challenge “Says who?” became established in everyday speech."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a casual, slightly confrontational way to question a claim."
+          }
+        ]
+      },
+      "similar": [
+        "who says so?",
+        "says who?",
+        "on what evidence?"
+      ],
+      "opposite": "take it at face value",
+      "pitfall": "It can sound mocking or aggressive, especially in formal settings or when directed at a colleague."
+    },
+    {
+      "id": "sounds-like-a-plan",
+      "kind": "phrase",
+      "term": "sounds like a plan",
+      "pos": "idiom",
+      "hint": "agreement with a proposed idea",
+      "register": "Casual",
+      "meaning": "Used to show that you accept or approve a proposed plan.",
+      "nuance": "Friendly and positive, but usually less formal than saying “I agree.” It often signals that you are happy to go ahead, even if you have not discussed every detail.",
+      "literal": "Something you have just suggested sounds like a workable plan.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team chat · agreeing on next steps",
+          "sentence": "Let’s test it with two customers next week; sounds like a plan.",
+          "highlight": "sounds like a plan",
+          "tip": "Use it to confirm informal next steps while keeping the tone light."
+        },
+        {
+          "setting": "social",
+          "where": "Planning dinner with friends",
+          "sentence": "We could cook at mine and bring our own drinks—sounds like a plan.",
+          "highlight": "sounds like a plan",
+          "tip": "It works well when you are genuinely happy with the suggestion."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a colleague",
+          "sentence": "I’ll send the revised figures today, then we can review them together—sounds like a plan.",
+          "highlight": "sounds like a plan",
+          "tip": "It suits informal messages; use a more direct confirmation in formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from the literal idea that someone’s words sounded like a sensible plan. Its exact first appearance is uncertain, but it became established in informal English during the 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used “sounds like” to describe something that seemed sensible or workable."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression developed into a casual way of accepting a proposed plan."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in speech and informal messages among friends and colleagues."
+          }
+        ]
+      },
+      "similar": [
+        "that works for me",
+        "agreed",
+        "let’s do that"
+      ],
+      "opposite": "that does not work for me",
+      "pitfall": "In a formal meeting or important agreement, name the agreed action instead of relying on this casual confirmation."
+    },
+    {
+      "id": "stars-are-aligned",
+      "kind": "phrase",
+      "term": "stars are aligned",
+      "pos": "phrase",
+      "hint": "conditions are favorable",
+      "register": "Common at work",
+      "meaning": "The people, circumstances, and decisions involved are working together in your favor.",
+      "nuance": "It suggests that success is possible because several factors are moving in the same direction. It can sound optimistic or formal, and it does not guarantee a good outcome.",
+      "literal": "The planets and stars appear to be in a favorable arrangement, as understood in astrology.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning a launch",
+          "sentence": "With the budget approved and two strong candidates hired, the stars are aligned for the spring launch.",
+          "highlight": "stars are aligned",
+          "tip": "Use it to describe several favorable factors coming together, not just one promising sign."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a reunion",
+          "sentence": "Everyone’s free that weekend and the venue has a cancellation, so the stars are aligned for a get-together.",
+          "highlight": "stars are aligned",
+          "tip": "It works casually when several practical details happen to fit together."
+        },
+        {
+          "setting": "writing",
+          "where": "Business proposal",
+          "sentence": "The stars are aligned: demand is rising, the team has the right skills, and our launch window is open.",
+          "highlight": "stars are aligned",
+          "tip": "Follow it with the concrete reasons you believe the opportunity is favorable."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the idea, especially in astrology, that the positions of stars and planets can influence events. The figurative sense developed as a way to describe a favorable combination of circumstances.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Astrology traditionally treated the arrangement of celestial bodies as a sign of favorable conditions."
+          },
+          {
+            "when": "19th century",
+            "text": "Writers began using images of a favorable star arrangement to mean that events were going well."
+          },
+          {
+            "when": "Today",
+            "text": "The expression describes several circumstances or people coming together favorably."
+          }
+        ]
+      },
+      "similar": [
+        "the timing is right",
+        "everything is falling into place",
+        "fate is on your side"
+      ],
+      "opposite": "the odds are against us",
+      "pitfall": "It can sound overly dramatic or as if success is guaranteed, so name the practical reasons for your confidence."
+    },
+    {
+      "id": "that-said",
+      "kind": "phrase",
+      "term": "that said",
+      "pos": "phrase",
+      "hint": "even so, but",
+      "register": "Common at work",
+      "meaning": "Used to introduce a contrasting point while acknowledging what was just said.",
+      "nuance": "It sounds measured and thoughtful rather than abruptly negative. It often softens disagreement or adds an important qualification.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · reviewing an idea",
+          "sentence": "The launch plan is ambitious; that said, it may be worth testing it with a smaller group first.",
+          "highlight": "that said",
+          "tip": "Use it to show you have understood the main point before adding a caveat."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation about weekend plans",
+          "sentence": "The café is usually quiet; that said, it gets busy after lunch, so we should arrive early.",
+          "highlight": "that said",
+          "tip": "It works well when you want to balance a positive point with a practical warning."
+        },
+        {
+          "setting": "writing",
+          "where": "Email giving feedback on a draft",
+          "sentence": "The report covers the main issues clearly; that said, I would add one sentence explaining the deadline.",
+          "highlight": "that said",
+          "tip": "Place it before the contrasting point, not after it."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the older expression “that is to say” and came to mean “even so” or “nevertheless.” Its use as a sentence-opening connector became established in modern English.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Related wording such as “that is to say” was used to introduce an explanation or restatement."
+          },
+          {
+            "when": "20th century",
+            "text": "“That said” became established as a formal connector for introducing a contrasting point."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in professional discussion and writing for adding qualification or disagreement."
+          }
+        ]
+      },
+      "similar": [
+        "nevertheless",
+        "even so",
+        "that being said"
+      ],
+      "opposite": "for that reason",
+      "pitfall": "“That said” still introduces a contrast, so it does not mean “therefore” or “for that reason.”"
+    },
+    {
+      "id": "the-ball-is-in-someones-court",
+      "kind": "phrase",
+      "term": "the ball is in someone's court",
+      "pos": "idiom",
+      "hint": "the next move is theirs",
+      "register": "Common at work",
+      "meaning": "Someone else has the responsibility to act, decide or respond.",
+      "nuance": "It often signals that you have done your part and can no longer move things forward without another person's input. It can feel slightly firm or challenging, depending on the tone.",
+      "literal": "In a game, a ball is positioned in one player's court, so that player must make the next move.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project handover · awaiting approval",
+          "sentence": "I’ve submitted the final proposal, so the ball is in the client’s court now.",
+          "highlight": "the ball is in the client’s court now",
+          "tip": "The highlighted wording varies with the person or team responsible; the basic phrase is “the ball is in someone’s court.”"
+        },
+        {
+          "setting": "social",
+          "where": "Planning a party · choosing a date",
+          "sentence": "I’ve suggested three dates, but the ball is in their court until they confirm one.",
+          "highlight": "the ball is in their court",
+          "tip": "Use it when you have clearly done your part and are waiting for someone else."
+        },
+        {
+          "setting": "writing",
+          "where": "Follow-up email · checking an application",
+          "sentence": "We’ve provided all the requested details, so the ball is in the hiring team’s court.",
+          "highlight": "the ball is in the hiring team’s court",
+          "tip": "It works well in a professional follow-up when you need a response but do not want to sound pushy."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from sports, where the position of the ball determines who must act next. Its figurative use for responsibility and decision-making was documented by the 19th century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal expression described a game in which the ball was in a particular player’s court."
+          },
+          {
+            "when": "19th century",
+            "text": "Writers began using it figuratively to mean that a person or group had to take the next action."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in work, negotiations and everyday conversations when responsibility needs to be clear."
+          }
+        ]
+      },
+      "similar": [
+        "the next move is yours",
+        "it's up to you",
+        "the responsibility lies with them",
+        "your move"
+      ],
+      "opposite": "the ball is in my court",
+      "pitfall": "State clearly what action is needed; the idiom transfers responsibility but does not explain the deadline or next step."
+    },
+    {
+      "id": "the-die-is-cast",
+      "kind": "phrase",
+      "term": "the die is cast",
+      "pos": "idiom",
+      "hint": "a decision has been made",
+      "register": "Formal and literary",
+      "meaning": "A final decision has been made and the outcome can no longer be changed.",
+      "nuance": "It emphasizes commitment and the point after which there is no going back. It can sound dramatic, so it is best used for a genuinely major decision.",
+      "literal": "A die has been thrown onto a table, so its result cannot be changed.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team decision · starting a major project",
+          "sentence": "We’ve chosen the new supplier, so the die is cast and the team can begin planning.",
+          "highlight": "the die is cast",
+          "tip": "Use it when everyone has committed and the next step is execution."
+        },
+        {
+          "setting": "social",
+          "where": "Moving together · making a shared plan",
+          "sentence": "We’re taking the train because driving would be stressful; the die is cast.",
+          "highlight": "the die is cast",
+          "tip": "It adds a playful sense of finality to an agreed plan."
+        },
+        {
+          "setting": "writing",
+          "where": "Op-ed · announcing a difficult decision",
+          "sentence": "After years of debate, the organization has chosen a direction; the die is cast.",
+          "highlight": "the die is cast",
+          "tip": "Reserve it for consequential decisions rather than ordinary choices."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the Latin expression associated with Julius Caesar’s decision to cross the Rubicon in 49 BCE. It entered English later as a way of describing a decisive, irreversible choice.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "49 BCE",
+            "text": "Julius Caesar crossed the Rubicon, committing Roman forces to civil war; ancient accounts associate him with the Latin wording."
+          },
+          {
+            "when": "1600s",
+            "text": "The English expression appeared in the form “the die is cast.”"
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal, dramatic way to announce that a decision has been made."
+          }
+        ]
+      },
+      "similar": [
+        "point of no return",
+        "the decision has been made",
+        "there’s no going back"
+      ],
+      "opposite": "the decision is still open",
+      "pitfall": "This is more forceful than simply saying a choice has been made, so it can sound overdramatic in everyday situations."
+    },
+    {
+      "id": "jury-is-out",
+      "kind": "phrase",
+      "term": "the jury is out",
+      "pos": "idiom",
+      "hint": "a decision has not been reached",
+      "register": "Common at work and in conversation",
+      "meaning": "A decision has not yet been made, or there is not enough information to judge the outcome.",
+      "nuance": "It suggests that the outcome remains genuinely uncertain. People may also use it when they are not convinced by an argument or proposal.",
+      "literal": "Jurors have left the courtroom to discuss a case without reaching a verdict.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · comparing proposals",
+          "sentence": "We like both designs, but the jury is out on which one will work best for customers.",
+          "highlight": "jury is out",
+          "tip": "Use it when more discussion or testing is needed before deciding."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · choosing a restaurant",
+          "sentence": "I’m torn between the Thai place and the pizza place, so the jury is out.",
+          "highlight": "jury is out",
+          "tip": "It works well for a lighthearted admission that you cannot decide."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining a delay",
+          "sentence": "The jury is out on the supplier, so we are comparing delivery times and costs.",
+          "highlight": "jury is out",
+          "tip": "Follow it with the next step so the uncertainty does not sound like inaction."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from courtrooms, where a jury leaves the courtroom to deliberate before reaching a verdict. Writers later extended it to mean that a decision is still pending.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The legal expression referred to a jury deliberating away from the courtroom."
+          },
+          {
+            "when": "20th century",
+            "text": "The phrase spread into general speech as a way to describe an undecided question."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used to mean that a decision or judgment is still pending."
+          }
+        ]
+      },
+      "similar": [
+        "still undecided",
+        "too early to tell",
+        "remains to be seen"
+      ],
+      "opposite": "the decision is in",
+      "pitfall": "It means the decision is unresolved, not that one option is unlikely to win."
+    },
+    {
+      "id": "the-jury-is-still-out",
+      "kind": "phrase",
+      "term": "the jury is still out",
+      "pos": "phrase",
+      "hint": "no decision has been reached",
+      "register": "Common at work",
+      "meaning": "A decision has not yet been made, or people are still considering an issue.",
+      "nuance": "It suggests that the outcome remains genuinely uncertain, often because evidence, debate or careful thought is still needed. It can also mean that someone is still forming an opinion.",
+      "literal": "A jury has not yet returned its verdict.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · deciding priorities",
+          "sentence": "We’ll postpone the launch until the jury is still out on whether the extra features are worth the delay.",
+          "highlight": "the jury is still out",
+          "tip": "Use it when a group has not made a final decision yet."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · choosing a restaurant",
+          "sentence": "The jury is still out on that place, so we might try somewhere else if the queue is too long.",
+          "highlight": "The jury is still out",
+          "tip": "It sounds informal and suits conversations about an undecided choice."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · unresolved risk",
+          "sentence": "The jury is still out on the supplier’s delivery date, so we have prepared a backup plan.",
+          "highlight": "The jury is still out",
+          "tip": "Pair it with a clear update and, where possible, a deadline for deciding."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the image of a jury remaining in deliberation and not yet reaching a verdict. Its broader use for an undecided question is well established in modern English.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal expression refers to a jury that has not yet returned a verdict."
+          },
+          {
+            "when": "20th century",
+            "text": "It developed the broader figurative meaning of a decision being undecided."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used when a decision, choice or opinion remains unresolved."
+          }
+        ]
+      },
+      "similar": [
+        "it remains to be seen",
+        "the decision is still pending",
+        "we haven’t decided yet",
+        "it’s too early to tell"
+      ],
+      "pitfall": "The phrase implies that a decision is still possible; use “already decided” if the outcome is final."
+    },
+    {
+      "id": "the-last-i-heard",
+      "kind": "phrase",
+      "term": "the last I heard",
+      "pos": "phrase",
+      "hint": "the most recent information available",
+      "register": "Everyday",
+      "meaning": "Based on the most recent information I have received about something.",
+      "nuance": "It signals that your information may be incomplete or out of date, so the other person can clarify or update you.",
+      "literal": "The final thing you heard or were told.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project update · checking another team",
+          "sentence": "The last I heard, the budget is still being approved, but I’ll ask Mia for an update.",
+          "highlight": "The last I heard",
+          "tip": "Use it when you have partial information and want to avoid stating it as fact."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · checking on a friend",
+          "sentence": "The last I heard, she was looking for a new place to rent.",
+          "highlight": "The last I heard",
+          "tip": "It gently invites the other person to share newer information."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · following up on a colleague",
+          "sentence": "The last I heard, the supplier was reviewing the revised quote, but please send me the latest details.",
+          "highlight": "The last I heard",
+          "tip": "Follow it with what you know and what you need confirmed."
+        }
+      ],
+      "origin": {
+        "summary": "This is a natural English expression built around hearing the most recent news. Its exact first use is uncertain, but the wording reflects the ordinary idea of hearing something last.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression developed from the plain sense of something being the final information you heard."
+          },
+          {
+            "when": "20th century onward",
+            "text": "It became common in everyday conversation as a way to qualify information that might have changed."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely understood in spoken and written English, especially when requesting an update."
+          }
+        ]
+      },
+      "similar": [
+        "as far as I know",
+        "from what I heard",
+        "the latest I heard"
+      ],
+      "opposite": "I heard the opposite",
+      "pitfall": "It can sound slightly distant if you are speaking to someone who should know the current situation, so consider asking directly for an update."
+    },
+    {
+      "id": "the-plural-of-anecdote-is-not-data",
+      "kind": "phrase",
+      "term": "the plural of anecdote is not data",
+      "pos": "phrase",
+      "hint": "many stories do not prove a pattern",
+      "register": "Common at work",
+      "meaning": "A collection of personal stories is not enough to establish a reliable general pattern.",
+      "nuance": "Use it when someone is treating memorable examples as proof of a broader trend. It is usually firm but not hostile, especially when backed by evidence.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product review · challenging feedback",
+          "sentence": "Three complaints are useful, but the plural of anecdote is not data; let’s check the support trends.",
+          "highlight": "the plural of anecdote is not data",
+          "tip": "Follow it with the stronger evidence you would need to make a decision."
+        },
+        {
+          "setting": "social",
+          "where": "Discussion about a trend",
+          "sentence": "Your friends’ bad commutes are memorable, but the plural of anecdote is not data.",
+          "highlight": "the plural of anecdote is not data",
+          "tip": "It can sound dismissive if you do not acknowledge the stories behind it."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · weighing customer feedback",
+          "sentence": "While these examples illustrate the problem, the plural of anecdote is not data, so we should include the wider results.",
+          "highlight": "the plural of anecdote is not data",
+          "tip": "Use it to separate vivid illustrations from representative evidence."
+        }
+      ],
+      "origin": {
+        "summary": "The exact wording is uncertain, but the idea comes from statistics: individual examples cannot establish how common something is without systematic evidence.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Statistics developed methods for distinguishing systematic observations from isolated examples."
+          },
+          {
+            "when": "20th century",
+            "text": "The maxim developed as a warning against generalising from memorable personal stories."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in business, research and analytical discussions."
+          }
+        ]
+      },
+      "similar": [
+        "anecdotal evidence",
+        "representative evidence",
+        "a sample size of one"
+      ],
+      "opposite": "the numbers tell a different story",
+      "pitfall": "Do not use it to dismiss people’s experiences; it distinguishes evidence types, not the importance of what someone has experienced."
+    },
+    {
+      "id": "whats-in-it-for-me",
+      "kind": "phrase",
+      "term": "what's in it for me",
+      "pos": "idiom",
+      "hint": "asking about the personal benefit",
+      "register": "Common at work and in casual conversation",
+      "meaning": "Asking what personal benefit you will receive from a proposal, decision or arrangement.",
+      "nuance": "It can sound directly pragmatic or slightly cynical, especially when used during negotiations. A warmer version is “How does this benefit me?”",
+      "literal": "What personal advantage does this offer me?",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing a proposal",
+          "sentence": "Before I support this change, what's in it for me and the rest of the team?",
+          "highlight": "what's in it for me",
+          "tip": "Frame it as a practical question about value rather than personal gain."
+        },
+        {
+          "setting": "social",
+          "where": "Group plans · agreeing to help",
+          "sentence": "I'll bring the snacks, but what's in it for me when everyone else takes the best seats?",
+          "highlight": "what's in it for me",
+          "tip": "This playful use works among friends but may sound needier than you intend."
+        },
+        {
+          "setting": "writing",
+          "where": "Work email · considering a new role",
+          "sentence": "The role sounds interesting, but what's in it for me beyond the flexible hours?",
+          "highlight": "what's in it for me",
+          "tip": "In formal writing, ask about responsibilities, growth or compensation more directly."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the ordinary question “What is there in it for me?” It later became strongly associated with political and workplace discussions of personal benefit.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "A literal question about what benefit a person might gain."
+          },
+          {
+            "when": "Early 20th century",
+            "text": "The wording appears in discussions of incentives, cooperation and personal interest."
+          },
+          {
+            "when": "Late 20th century",
+            "text": "It became widely used in political and business language, sometimes with a skeptical tone."
+          }
+        ]
+      },
+      "similar": [
+        "What's the catch?",
+        "How do I benefit from this?",
+        "What's my gain?",
+        "What's in it for you?"
+      ],
+      "opposite": "What can I do for you?",
+      "pitfall": "In a negotiation or workplace email, it can sound focused on personal advantage at the expense of the shared goal."
+    },
+    {
+      "id": "yes-and-amen",
+      "kind": "phrase",
+      "term": "yes and amen",
+      "pos": "phrase",
+      "hint": "wholehearted agreement, with final approval",
+      "register": "Casual",
+      "meaning": "A way of saying that you strongly agree and give your complete approval to something.",
+      "nuance": "It adds emphasis and warmth, so it works best among people who already know each other. In a formal workplace discussion, direct agreement may sound more suitable.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · approving a proposal",
+          "sentence": "If everyone is happy with the plan, then yes and amen, let’s move forward.",
+          "highlight": "yes and amen",
+          "tip": "Use it casually to show enthusiastic approval, not as a formal decision."
+        },
+        {
+          "setting": "social",
+          "where": "Friends discussing dinner plans",
+          "sentence": "Pizza, then dancing, and yes and amen to both ideas.",
+          "highlight": "yes and amen",
+          "tip": "It gives a playful sense of complete agreement."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message to a friend",
+          "sentence": "I’ll bring the snacks, and yes and amen to your movie choice.",
+          "highlight": "yes and amen",
+          "tip": "Keep it in a friendly message; it can seem overly casual in official writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines “yes” with “amen,” a word meaning “so be it,” to emphasize firm agreement. Its exact first appearance is uncertain, but it became established in English long before modern digital communication.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Amen” entered English through religious and ceremonial usage, where it expressed acceptance or finality."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression “yes and amen” appears in English writing as an emphatic way of saying “yes indeed.”"
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar phrase for enthusiastic, unqualified approval."
+          }
+        ]
+      },
+      "similar": [
+        "absolutely",
+        "agreed",
+        "you bet"
+      ],
+      "opposite": "absolutely not",
+      "pitfall": "It can sound too casual or theatrical in a formal meeting, so state the decision plainly when accuracy matters."
+    },
+    {
+      "id": "you-and-whose-army",
+      "kind": "phrase",
+      "term": "you and whose army",
+      "pos": "idiom",
+      "hint": "a mocking challenge to back down",
+      "register": "Informal",
+      "meaning": "A sarcastic challenge meaning “Who do you think you are?” or “Why should I take you seriously?”",
+      "nuance": "It is dismissive and confrontational, often used when someone boasts, oversteps their role or refuses to accept another person’s point.",
+      "literal": "A picture of one small challenger facing an opponent with a whole army behind them.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · dismissing a demand",
+          "sentence": "You want approval by Friday? You and whose army? The deadline is still Friday.",
+          "highlight": "You and whose army",
+          "tip": "Best used among colleagues who know each other well; it can sound hostile to outsiders."
+        },
+        {
+          "setting": "social",
+          "where": "Friendly banter · teasing a boast",
+          "sentence": "He promised to solve the puzzle before dinner. You and whose army?",
+          "highlight": "You and whose army",
+          "tip": "Light teasing works when the relationship is relaxed and everyone understands the joke."
+        },
+        {
+          "setting": "writing",
+          "where": "Playful message · rejecting a bold claim",
+          "sentence": "You’ll have the whole report ready tonight? You and whose army?",
+          "highlight": "You and whose army",
+          "tip": "Keep it playful; in a formal email, ask directly about feasibility instead."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is uncertain. It likely grew from older military expressions about bringing troops to a dispute, then became a broad rhetorical challenge to someone’s power or confidence.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Military language supplied the image of an opponent arriving with an army."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression developed into a dismissive challenge meaning “Who do you think you are?”"
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly informal, especially as banter between familiar people."
+          }
+        ]
+      },
+      "similar": [
+        "Who do you think you are?",
+        "What makes you so important?",
+        "You must be joking",
+        "Think again"
+      ],
+      "pitfall": "The phrase can end a conversation rather than start a productive one, so avoid it in formal or sensitive exchanges."
+    },
+    {
+      "id": "you-can-lead-a-horse-to-water",
+      "kind": "phrase",
+      "term": "you can lead a horse to water",
+      "pos": "idiom",
+      "hint": "offering an opportunity, but not forcing the result",
+      "register": "Everyday",
+      "meaning": "You can give someone the chance to do something, but you cannot make them choose to do it.",
+      "nuance": "Often used to describe motivation, persuasion or learning: providing the right conditions is helpful, but personal willingness still matters.",
+      "literal": "A person may guide a horse to a watering place, but the horse must choose whether to drink.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · explaining why a project stalled",
+          "sentence": "We offered training and support, but you can lead a horse to water if the team has no interest in changing.",
+          "highlight": "you can lead a horse to water",
+          "tip": "Use it to stress the limit of managerial influence, not to blame people."
+        },
+        {
+          "setting": "social",
+          "where": "Trying to persuade a friend",
+          "sentence": "I can tell her where the concert tickets are, but you can lead a horse to water if she does not want to go.",
+          "highlight": "you can lead a horse to water",
+          "tip": "Keep the tone light when you are encouraging someone to make their own decision."
+        },
+        {
+          "setting": "writing",
+          "where": "Email about staff development",
+          "sentence": "You can lead a horse to water by providing useful training, but lasting improvement depends on each employee’s willingness to practise.",
+          "highlight": "You can lead a horse to water",
+          "tip": "Pair it with a specific next step so the message does not feel defeatist."
+        }
+      ],
+      "origin": {
+        "summary": "This comes from an English proverb about the limits of persuasion. The familiar version adds the idea that even when a horse reaches the water, nobody can make it drink.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "Early English proverbs already used the image of leading a horse to water."
+          },
+          {
+            "when": "1600s",
+            "text": "The proverb developed into its familiar form, contrasting taking someone to water with making the horse drink."
+          },
+          {
+            "when": "Today",
+            "text": "The shorter opening is often used on its own when discussing motivation or personal choice."
+          }
+        ]
+      },
+      "similar": [
+        "you can’t force someone",
+        "motivation is up to the individual",
+        "you can lead someone to water"
+      ],
+      "opposite": "you can motivate someone to act",
+      "pitfall": "The full proverb usually says that even a horse may refuse to drink; avoid suggesting that the person is stubborn or lacking in discipline."
+    }
+  ]
+}

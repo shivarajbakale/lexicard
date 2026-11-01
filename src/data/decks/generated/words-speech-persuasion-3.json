@@ -1,0 +1,1591 @@
+{
+  "id": "words-speech-persuasion-3",
+  "kind": "word",
+  "name": "Speech & persuasion · 3",
+  "blurb": "23 words about speech & persuasion",
+  "cards": [
+    {
+      "id": "polemical",
+      "kind": "word",
+      "term": "polemical",
+      "pos": "adjective",
+      "phonetic": "/pəˈlemɪkəl/",
+      "sayIt": "puh-LEM-ih-kuhl",
+      "register": "Formal",
+      "meaning": "Characterised by strong, often combative arguments about controversial subjects.",
+      "nuance": "It suggests language or writing that is intended to provoke debate or attack opposing views. It can also mean sharply critical, even when no direct argument is present.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing a proposal",
+          "sentence": "The proposal became too polemical, so we returned to the evidence and the budget.",
+          "highlight": "polemical",
+          "tip": "Useful when describing a discussion that has become unnecessarily confrontational."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · disputed film",
+          "sentence": "He turned polemical whenever someone praised the film, which made the conversation tiring.",
+          "highlight": "polemical",
+          "tip": "Use it for an argumentative tone that goes beyond making a reasonable point."
+        },
+        {
+          "setting": "writing",
+          "where": "Book review · assessing the argument",
+          "sentence": "Although the essay is thought-provoking, its polemical style distracts from the evidence.",
+          "highlight": "polemical",
+          "tip": "It is often used to criticise writing that sounds combative rather than balanced."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek polemikos, meaning ‘of war’ or ‘given to dispute’, which developed from polemos, ‘war’. It entered English in the sense of arguing or controversy.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Polemikos means ‘of war’ or ‘given to dispute’, from polemos, ‘war’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word appears in English in connection with dispute, argument and controversy."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes forceful, combative arguments or criticism."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "polemic",
+          "label": "noun"
+        },
+        {
+          "term": "polemically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "contentious",
+        "argumentative",
+        "combative",
+        "provocative"
+      ],
+      "opposite": "conciliatory",
+      "pitfall": "Polemical describes an argumentative style or approach; a polemic is the argument or written dispute itself."
+    },
+    {
+      "id": "prelude",
+      "kind": "word",
+      "term": "prelude",
+      "pos": "noun",
+      "phonetic": "/ˈprɛljuːd/",
+      "sayIt": "PRE-lyood",
+      "register": "Formal",
+      "meaning": "An introductory section or performance that comes before the main event.",
+      "nuance": "The word can sound elegant or literary rather than casual. It may refer to music, a speech, or the opening phase of a larger activity.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · opening a strategy session",
+          "sentence": "The product demo was only a prelude to the broader discussion about our launch plan.",
+          "highlight": "prelude",
+          "tip": "Use it for an opening that leads into a more important event or conversation."
+        },
+        {
+          "setting": "social",
+          "where": "Concert · waiting for the main act",
+          "sentence": "The acoustic set was a relaxed prelude before the band came on stage.",
+          "highlight": "prelude",
+          "tip": "This is a natural word for the short performance before a headline act."
+        },
+        {
+          "setting": "writing",
+          "where": "Article · introducing a detailed argument",
+          "sentence": "This brief history is a prelude to the book’s central question.",
+          "highlight": "prelude",
+          "tip": "It gives a polished introduction, especially in essays, books and formal speeches."
+        }
+      ],
+      "origin": {
+        "summary": "From the Latin praeludere, meaning ‘to play beforehand’, originally referring to music played before a main piece.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Praeludere combines prae, ‘before’, with ludere, ‘to play’."
+          },
+          {
+            "when": "1400s",
+            "text": "The word enters English as a musical term for an introductory piece."
+          },
+          {
+            "when": "1600s onward",
+            "text": "Its use broadens to describe any introduction or preliminary event."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "preludial",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "introduction",
+        "opening",
+        "overture",
+        "preliminary"
+      ],
+      "pitfall": "In the phrase ‘a prelude to’, the word usually means a lead-up, not necessarily a musical introduction."
+    },
+    {
+      "id": "proffer",
+      "kind": "word",
+      "term": "proffer",
+      "pos": "verb",
+      "phonetic": "/prəˈfɒfə(r)/",
+      "sayIt": "pruh-FOFF-er",
+      "register": "Formal",
+      "meaning": "To formally offer or present something to someone for their consideration.",
+      "nuance": "It has a formal, slightly old-fashioned tone and often suggests presenting a document, proposal or explanation. It means to offer something, not necessarily to give it permanently.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Meeting · presenting a proposal",
+          "sentence": "She proffered the revised budget for approval before moving on to the next item.",
+          "highlight": "proffered",
+          "tip": "Use it when formally putting a proposal, document or piece of information forward."
+        },
+        {
+          "setting": "social",
+          "where": "Gathering · offering an apology",
+          "sentence": "He proffered a sincere apology after missing the celebration.",
+          "highlight": "proffered",
+          "tip": "The word adds ceremony and may sound more formal than a simple offer."
+        },
+        {
+          "setting": "writing",
+          "where": "Letter · requesting consideration",
+          "sentence": "We proffer this proposal as a practical way to reduce costs without affecting service.",
+          "highlight": "proffer",
+          "tip": "It works well in formal writing when you want to present something for discussion or acceptance."
+        }
+      ],
+      "origin": {
+        "summary": "From Medieval Latin profferre, meaning ‘to bring forward’ or ‘offer’, formed from pro- and offerre.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Medieval Latin",
+            "text": "Profferre develops the sense of bringing something forward or offering it."
+          },
+          {
+            "when": "Late Middle English",
+            "text": "The word enters English in the sense of presenting or offering."
+          },
+          {
+            "when": "1600s onward",
+            "text": "It becomes especially associated with formal speech, writing and ceremonial language."
+          }
+        ]
+      },
+      "similar": [
+        "offer",
+        "present",
+        "tender",
+        "submit"
+      ],
+      "opposite": "withhold",
+      "pitfall": "Do not confuse proffer with prefer, which means to choose one thing over another."
+    },
+    {
+      "id": "promulgate",
+      "kind": "word",
+      "term": "promulgate",
+      "pos": "verb",
+      "phonetic": "/prəˈmʌlɡeɪt/",
+      "sayIt": "pruh-MUL-gayt",
+      "register": "Formal",
+      "meaning": "To make information officially known to the public.",
+      "nuance": "A formal word often used for laws, regulations and official notices. It can sound authoritative or, when unnecessary, overly grand.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company meeting · announcing a policy",
+          "sentence": "The department will promulgate the new safety policy on Monday.",
+          "highlight": "promulgate",
+          "tip": "Use it when an organisation is formally announcing a rule or notice."
+        },
+        {
+          "setting": "social",
+          "where": "Community event · sharing details",
+          "sentence": "Organisers will promulgate the final schedule before the festival begins.",
+          "highlight": "promulgate",
+          "tip": "It suits formal public notices, but “announce” is more natural in most social settings."
+        },
+        {
+          "setting": "writing",
+          "where": "Legal report · explaining a regulation",
+          "sentence": "The government promulgated the revised rule through an official public notice.",
+          "highlight": "promulgated",
+          "tip": "It often appears in legal and administrative writing alongside “issue” or “publish”."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin promulgare, meaning ‘to make public’, built from pro- and vulgus, meaning ‘crowd’ or ‘the public’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Promulgare means ‘to make public’ or ‘announce publicly’."
+          },
+          {
+            "when": "Late medieval period",
+            "text": "The word enters English through Latin, associated with making laws and notices known."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly formal, especially in legal and official contexts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "promulgation",
+          "label": "noun"
+        },
+        {
+          "term": "promulgated",
+          "label": "verb (past tense)"
+        },
+        {
+          "term": "promulgator",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "proclaim",
+        "disseminate",
+        "publish",
+        "announce"
+      ],
+      "opposite": "conceal",
+      "pitfall": "Promulgate means to make something publicly known; it does not mean to enforce or implement it."
+    },
+    {
+      "id": "raconteur",
+      "kind": "word",
+      "term": "raconteur",
+      "pos": "noun",
+      "phonetic": "/ˌrækənˈtɜːr/",
+      "sayIt": "RAK-uhn-TUR",
+      "register": "Common in professional and literary contexts",
+      "meaning": "A person who tells stories in an engaging, memorable way.",
+      "nuance": "Often suggests someone with skill, charm and a good sense of timing. The word can also be used more broadly for an effective conversational storyteller.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · introducing a colleague",
+          "sentence": "Her warm introduction made everyone feel welcome, and she has always been a natural raconteur.",
+          "highlight": "raconteur",
+          "tip": "Use it when praising someone’s ability to hold attention with a story."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · sharing a travel story",
+          "sentence": "He described the lost suitcase with such drama that the whole table burst out laughing.",
+          "highlight": "He",
+          "tip": "Although the word is not in the sentence, it is useful for calling someone an entertaining storyteller."
+        },
+        {
+          "setting": "writing",
+          "where": "Event invitation · introducing a speaker",
+          "sentence": "Journalist and raconteur Sam Patel will guide us through the hidden history of the neighbourhood.",
+          "highlight": "raconteur",
+          "tip": "It sounds polished in introductions, profiles and event descriptions."
+        }
+      ],
+      "origin": {
+        "summary": "From French raconteur, meaning a person who recounts stories. It comes from raconter, “to tell a story,” which ultimately draws on Latin roots connected with capturing or retelling.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root recaptare develops in French as the idea of taking or retelling something."
+          },
+          {
+            "when": "French",
+            "text": "Raconteur develops as a noun meaning someone who tells stories well."
+          },
+          {
+            "when": "1800s",
+            "text": "The French word enters English, first referring to a person skilled in telling anecdotes."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used for a charming and engaging storyteller."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "raconteuse",
+          "label": "noun (feminine, uncommon)"
+        }
+      ],
+      "similar": [
+        "storyteller",
+        "narrator",
+        "anecdote-teller",
+        " raconteur"
+      ],
+      "pitfall": "A raconteur is the person telling the story, not the story itself; for the story, use anecdote."
+    },
+    {
+      "id": "rhetoric",
+      "kind": "word",
+      "term": "rhetoric",
+      "pos": "noun",
+      "phonetic": "/ˈretərɪk/",
+      "sayIt": "RET-uh-rik",
+      "register": "Common in academic, political and professional settings",
+      "meaning": "The use of language to persuade or influence people, especially through speeches and arguments.",
+      "nuance": "It can mean effective persuasive language, but it can also suggest words that sound impressive without adding real substance.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · questioning a proposal",
+          "sentence": "The proposal uses a lot of rhetoric about innovation, but we still need to know what it will cost.",
+          "highlight": "rhetoric",
+          "tip": "Use it when you want to separate persuasive language from practical results."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · debating a controversial issue",
+          "sentence": "His closing speech had strong rhetoric, though it changed few minds.",
+          "highlight": "rhetoric",
+          "tip": "It often describes the persuasive force or style of an argument."
+        },
+        {
+          "setting": "writing",
+          "where": "Essay · analysing a political speech",
+          "sentence": "The essay examines how the campaign’s rhetoric shaped public opinion.",
+          "highlight": "rhetoric",
+          "tip": "Useful for discussing how speakers frame ideas and influence audiences."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek rhētor, ‘rhetor’, originally a speaker or teacher of persuasive speaking. The word came to English through Latin and French.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Rhētorikē, the art of persuasive speaking, appears in the work of Aristotle."
+          },
+          {
+            "when": "Latin and Old French",
+            "text": "The word develops in the tradition of rhetoric and public speaking."
+          },
+          {
+            "when": "Today",
+            "text": "It refers both to persuasive language and to language that may be impressive but empty of substance."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "rhetorical",
+          "label": "adjective"
+        },
+        {
+          "term": "rhetorician",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "persuasion",
+        "oratory",
+        "eloquence",
+        "argumentation",
+        "propaganda"
+      ],
+      "opposite": "plain speaking",
+      "pitfall": "Don’t use it as a neutral synonym for every kind of speech; it usually highlights persuasion, style or the possibility of impressive-sounding language."
+    },
+    {
+      "id": "scoff",
+      "kind": "word",
+      "term": "scoff",
+      "pos": "verb",
+      "phonetic": "/skɒf/",
+      "sayIt": "SKOFF",
+      "register": "Everyday; often dismissive or mocking",
+      "meaning": "To mock or express contempt for someone or something.",
+      "nuance": "A scoff is usually a dismissive reaction that shows disrespect, whether expressed with a laugh, a remark, or a sarcastic tone. It can be playful among friends but insulting in formal settings.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Meeting · a colleague’s repeated mistake",
+          "sentence": "Don’t scoff at the suggestion; it may solve the problem we’ve been discussing all morning.",
+          "highlight": "scoff",
+          "tip": "Use it when you want to criticize someone’s mocking attitude toward a reasonable idea."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · joking about a bad haircut",
+          "sentence": "My friends scoffed at my new hairstyle, but I wore it with confidence anyway.",
+          "highlight": "scoffed",
+          "tip": "It describes mocking with laughter or ridicule, not simply laughing at something funny."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · dismissing a competing product",
+          "sentence": "The article scoffs at the idea that a small team can produce professional software.",
+          "highlight": "scoffs",
+          "tip": "It has a sharp, slightly formal tone and often appears in critical or argumentative writing."
+        }
+      ],
+      "origin": {
+        "summary": "The word probably developed from an Old English word meaning mockery or scorn, then became established in English as both a noun and a verb.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "An Old English root related to scorn and mockery appears in the word’s history."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word was used for ridicule or contempt."
+          },
+          {
+            "when": "1500s onward",
+            "text": "It developed into a verb meaning to mock or treat something with contempt."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "scoffing",
+          "label": "noun (mocking behavior)"
+        },
+        {
+          "term": "scoffer",
+          "label": "noun (person who mocks)"
+        }
+      ],
+      "similar": [
+        "mock",
+        "deride",
+        "ridicule",
+        "jeer"
+      ],
+      "opposite": "respect",
+      "pitfall": "Don’t confuse it with scold, which means to criticize someone sharply, usually for doing something wrong."
+    },
+    {
+      "id": "scurrilous",
+      "kind": "word",
+      "term": "scurrilous",
+      "pos": "adjective",
+      "phonetic": "/ˈskʌrɪləs/",
+      "sayIt": "SKUR-ih-lus",
+      "register": "Formal",
+      "meaning": "Vulgar, insulting, and deliberately malicious, especially when attacking someone’s character.",
+      "nuance": "The word is stronger and more mocking than simply rude. It fits formal criticism of a vicious, indecent, or degrading remark.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · challenging a colleague",
+          "sentence": "His scurrilous comment about the contractor’s accent embarrassed everyone in the meeting.",
+          "highlight": "scurrilous",
+          "tip": "Use it for comments that are deliberately vulgar or degrading, not for ordinary criticism."
+        },
+        {
+          "setting": "social",
+          "where": "Group chat · responding to mockery",
+          "sentence": "Her scurrilous message about my cooking was funny for about five seconds.",
+          "highlight": "scurrilous",
+          "tip": "It sounds formal and cutting, so use it when describing especially nasty mockery."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial review · condemning an article",
+          "sentence": "The review described the article’s scurrilous attack on the mayor as unethical and deeply offensive.",
+          "highlight": "scurrilous",
+          "tip": "It works well in serious commentary about abusive language or contemptuous attacks."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin scurrilis, associated with jokers and coarse joking, and linked to scurra, meaning “jester.” English later developed its modern sense of abusive and indecent mockery.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Scurrilis develops meanings connected with jokers, coarse behaviour, and vulgar jesting."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English through French in senses related to bawdy or jocular behaviour."
+          },
+          {
+            "when": "19th century onward",
+            "text": "It becomes common in the sense of abusively insulting or maliciously indecent."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "scurrility",
+          "label": "noun"
+        },
+        {
+          "term": "scurrilously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "vulgar",
+        "abusive",
+        "offensive",
+        "libellous"
+      ],
+      "pitfall": "Do not confuse it with frivolous, which means lacking seriousness; scurrilous describes language or behaviour that is vulgar, insulting, and malicious."
+    },
+    {
+      "id": "solicit",
+      "kind": "word",
+      "term": "solicit",
+      "pos": "verb",
+      "phonetic": "/səˈlɪsɪt/",
+      "sayIt": "so-LIS-it",
+      "register": "Formal",
+      "meaning": "To formally ask for information, opinions, business, or a response.",
+      "nuance": "Often used when a request is official, organized, or intended to gather responses. It can also mean actively seeking customers or business.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · gathering feedback",
+          "sentence": "We solicited comments from both departments before approving the proposal.",
+          "highlight": "solicited",
+          "tip": "Often used when actively collecting opinions, applications, or information from several people."
+        },
+        {
+          "setting": "social",
+          "where": "Community event · signing up attendees",
+          "sentence": "The organizers solicited RSVPs by text so they could plan the seating.",
+          "highlight": "solicited",
+          "tip": "Sounds more formal than asked for and suits a planned request rather than a casual question."
+        },
+        {
+          "setting": "writing",
+          "where": "Business email · requesting proposals",
+          "sentence": "We are soliciting proposals from experienced consultants for the new project.",
+          "highlight": "soliciting",
+          "tip": "Common in formal notices, tenders, research requests, and requests for business."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin sōlicitāre, meaning ‘to attract, disturb, or urge’, originally connected with attracting someone’s attention.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Sōlicitāre developed from sōlicere, ‘to attract or draw attention’, related to sollus, ‘whole’."
+          },
+          {
+            "when": "1500s",
+            "text": "Entered English with meanings involving appealing to someone or requesting urgently."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly means making a formal request or actively seeking information, support, or business."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "solicitation",
+          "label": "noun"
+        },
+        {
+          "term": "solicitor",
+          "label": "noun (person)"
+        },
+        {
+          "term": "solicitous",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "request",
+        "seek",
+        "canvass",
+        "invite",
+        "gather"
+      ],
+      "opposite": "ignore",
+      "pitfall": "Do not confuse solicit with solicitous, which means attentive, careful, or concerned."
+    },
+    {
+      "id": "stentorian",
+      "kind": "word",
+      "term": "stentorian",
+      "pos": "adjective",
+      "phonetic": "/stɛnˈtɔːriən/",
+      "sayIt": "sten-TOR-ee-un",
+      "register": "Formal",
+      "meaning": "Extremely loud, powerful, and resonant, especially when describing a voice.",
+      "nuance": "This is a literary or grand-sounding word, often used for thunderous speeches, commands, or singing. It is stronger than simply loud and may sound playful when exaggerated.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Conference keynote · announcing results",
+          "sentence": "Her stentorian voice carried the announcement to every corner of the auditorium.",
+          "highlight": "stentorian",
+          "tip": "Use it when you want to emphasize the extraordinary power of a voice."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · calling for dinner",
+          "sentence": "From the kitchen, Uncle Ray answered in a stentorian voice that silenced the conversation.",
+          "highlight": "stentorian",
+          "tip": "It can add humour when a familiar voice is comically loud."
+        },
+        {
+          "setting": "writing",
+          "where": "Concert review · describing the singer",
+          "sentence": "The audience fell silent as she finished the aria with a stentorian final note.",
+          "highlight": "stentorian",
+          "tip": "It sounds vivid in reviews and stories, but may be too dramatic for routine descriptions."
+        }
+      ],
+      "origin": {
+        "summary": "It comes from Latin stentorius, meaning like Stentor. Stentor was a legendary herald in Greek poetry whose enormous voice could be heard across the battlefield.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek tradition",
+            "text": "Homer’s Iliad describes Stentor, a herald with a voice as powerful as a thousand men."
+          },
+          {
+            "when": "Latin",
+            "text": "Stentorius develops as an adjective meaning extremely loud or powerful."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English and is associated with powerful voices."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "stentoriously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "thunderous",
+        "booming",
+        "resonant",
+        "ear-splitting"
+      ],
+      "opposite": "faint",
+      "pitfall": "The stress falls on the second syllable: stentORian. Avoid the uncommon variant stentorian voice, which can sound repetitive."
+    },
+    {
+      "id": "strident",
+      "kind": "word",
+      "term": "strident",
+      "pos": "adjective",
+      "phonetic": "/ˈstraɪdənt/",
+      "sayIt": "STRY-dunt",
+      "register": "Formal",
+      "meaning": "Harsh, forceful and demanding attention, especially when speaking or expressing an opinion.",
+      "nuance": "It can sound assertive and determined, but also harsh or confrontational. It is often used for voices, demands or criticism that feel hard to ignore.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · challenging a delay",
+          "sentence": "Her strident criticism of the proposal made it clear that she expected a much faster decision.",
+          "highlight": "strident",
+          "tip": "Use it when the force of someone’s voice or criticism is important to describe."
+        },
+        {
+          "setting": "social",
+          "where": "Group discussion · disagreeing loudly",
+          "sentence": "He became strident when they dismissed his concerns about the noise.",
+          "highlight": "strident",
+          "tip": "This word suggests that the person’s tone was harsh and insistent, not merely that they disagreed."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · reporting a public protest",
+          "sentence": "Protesters responded with strident demands for a full investigation into the incident.",
+          "highlight": "strident",
+          "tip": "It is especially useful in reporting when describing a forceful, attention-grabbing voice or demand."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin stridens, meaning ‘harsh or noisy’, related to stridere, ‘to make a harsh sound’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Stridens develops from stridere, ‘to make a harsh sound’, and describes a noisy or grating quality."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with meanings connected with harsh sound and insistent speech."
+          },
+          {
+            "when": "19th–20th centuries",
+            "text": "Its use broadens to describe forceful opinions, criticism and demands."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes a voice, tone or argument that is harsh and difficult to ignore."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "stridently",
+          "label": "adverb"
+        },
+        {
+          "term": "stridence",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "forceful",
+        "harsh",
+        "insistent",
+        "vocal",
+        "shrill"
+      ],
+      "opposite": "subdued",
+      "pitfall": "Strident does not always mean angry; it focuses mainly on how forceful or harsh something sounds. For a person’s persistent demands, use ‘insistent’ or ‘vociferous’ instead."
+    },
+    {
+      "id": "succinct",
+      "kind": "word",
+      "term": "succinct",
+      "pos": "adjective",
+      "phonetic": "/səkˈsɪŋkt/",
+      "sayIt": "suh-SINKT",
+      "register": "Common at work",
+      "meaning": "Expressing something clearly and in few words.",
+      "nuance": "Often used as a compliment about writing or speech that gives useful information without unnecessary detail.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Status update · explaining a delay",
+          "sentence": "Here’s the succinct version: testing took longer than expected, so the launch is moving to Friday.",
+          "highlight": "succinct",
+          "tip": "Useful when asking for a clear summary without sounding demanding."
+        },
+        {
+          "setting": "social",
+          "where": "Text message · making plans",
+          "sentence": "Be succinct: tell her the time, the place, and whether you’re bringing dessert.",
+          "highlight": "succinct",
+          "tip": "It sounds practical, though it can feel blunt if the relationship is casual."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · proposing a change",
+          "sentence": "To keep the proposal succinct, I’ve included only the main costs, risks, and benefits.",
+          "highlight": "succinct",
+          "tip": "A natural choice for introductions, summaries and instructions."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin succinctus, meaning ‘drawn together’ or ‘compressed’, originally describing something tightened or made compact.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Succinctus develops from sub-, ‘under’, and cingere, ‘to gird’, describing something tightly bound."
+          },
+          {
+            "when": "1500s",
+            "text": "Enters English in medical writing, referring to a muscle that is tightly contracted."
+          },
+          {
+            "when": "1600s onward",
+            "text": "Broadens to mean concise, especially in speech and writing."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "succinctly",
+          "label": "adverb"
+        },
+        {
+          "term": "succinctness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "concise",
+        "brief",
+        "terse",
+        "pithy"
+      ],
+      "opposite": "verbose",
+      "pitfall": "Succinct means short and clear, not merely short; an incomplete explanation is not succinct."
+    },
+    {
+      "id": "supplication",
+      "kind": "word",
+      "term": "supplication",
+      "pos": "noun",
+      "phonetic": "/ˌsʌplɪˈkeɪʃən/",
+      "sayIt": "suh-plih-KAY-shun",
+      "register": "Formal",
+      "meaning": "A serious and heartfelt request for help, favour or mercy.",
+      "nuance": "Stronger and more emotional than a routine request, but usually less forceful than a demand. It often suggests vulnerability, prayer or earnest pleading.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget review · requesting funds",
+          "sentence": "Her supplication for additional staff was met with approval after the committee reviewed the workload.",
+          "highlight": "supplication",
+          "tip": "Use it for a formal, earnest request, especially one made from a position of need."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · asking for leniency",
+          "sentence": "Her tearful supplication persuaded her brother to let the argument rest for the evening.",
+          "highlight": "supplication",
+          "tip": "It carries emotional weight, so it suits sincere personal pleas rather than casual asks."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal letter · seeking mercy",
+          "sentence": "The prisoner ended his statement with a solemn supplication for mercy.",
+          "highlight": "supplication",
+          "tip": "A strong choice in legal, religious or ceremonial writing where the appeal should sound deeply earnest."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin supplicatio, a formal pleading or request. The related verb supplicate also means to ask or appeal humbly.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Supplicatio develops from supplicare, meaning to plead or ask solemnly."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English for a solemn request or prayer."
+          },
+          {
+            "when": "Today",
+            "text": "It is used mainly in formal, legal and religious contexts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "supplicate",
+          "label": "verb"
+        },
+        {
+          "term": "supplicant",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "petition",
+        "plea",
+        "entreaty",
+        "prayer",
+        "appeal"
+      ],
+      "opposite": "demand",
+      "pitfall": "Supplication implies an earnest request made from a weaker or vulnerable position; it is not simply another word for a question."
+    },
+    {
+      "id": "tacit",
+      "kind": "word",
+      "term": "tacit",
+      "pos": "adjective",
+      "phonetic": "/ˈtæsɪt/",
+      "sayIt": "TAS-it",
+      "register": "Formal",
+      "meaning": "Understood or agreed without being stated directly.",
+      "nuance": "It often describes knowledge, rules or assumptions that people recognise without discussing them. It is common in professional, legal and academic writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team handover · sharing expectations",
+          "sentence": "There was a tacit understanding that urgent requests should be labelled before they reached the team.",
+          "highlight": "tacit",
+          "tip": "Use it for an unwritten agreement that everyone seems to understand."
+        },
+        {
+          "setting": "social",
+          "where": "Among close friends · making plans",
+          "sentence": "There was a tacit agreement that we would help each other move apartments without making it a big event.",
+          "highlight": "tacit",
+          "tip": "It sounds slightly formal, so it works best when describing a shared understanding."
+        },
+        {
+          "setting": "writing",
+          "where": "Project proposal · explaining a convention",
+          "sentence": "The report follows the tacit convention that confidential data will not be included in public summaries.",
+          "highlight": "tacit",
+          "tip": "Pairs naturally with agreement, understanding, knowledge and assumption."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin tacitus, meaning ‘silent’ or ‘not said openly’. It reached English in a legal sense before becoming widely used for implied understanding.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Tacitus means ‘silent’ and comes from tacere, ‘to be silent’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word appears in English, initially referring to something unspoken or done without words."
+          },
+          {
+            "when": "1800s",
+            "text": "It develops the modern sense of understood or agreed without being expressed."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "tacitly",
+          "label": "adverb"
+        },
+        {
+          "term": "tacitness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "implicit",
+        "unspoken",
+        "understood",
+        "unwritten"
+      ],
+      "opposite": "explicit",
+      "pitfall": "Don’t use tacit for something that is deliberately secret or hidden; it means understood or agreed without being stated."
+    },
+    {
+      "id": "tactful",
+      "kind": "word",
+      "term": "tactful",
+      "pos": "adjective",
+      "phonetic": "/ˈtæktfəl/",
+      "sayIt": "TAKT-fuhl",
+      "register": "Common at work",
+      "meaning": "Careful not to say or do anything that could hurt someone’s feelings or cause offence.",
+      "nuance": "It suggests choosing words and actions thoughtfully rather than avoiding difficult topics altogether. It often works well in feedback, apologies and sensitive conversations.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · giving difficult feedback",
+          "sentence": "She was tactful when she explained that the proposal needed clearer goals and a realistic timeline.",
+          "highlight": "tactful",
+          "tip": "Use it when you want to praise someone’s sensitive handling of a difficult situation."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · correcting a friend",
+          "sentence": "He found a tactful way to mention that the host had invited someone else to sit beside him.",
+          "highlight": "tactful",
+          "tip": "It suits polite social situations where directness could cause embarrassment."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · declining an invitation",
+          "sentence": "A tactful message thanked her for the invitation and explained that she could not attend.",
+          "highlight": "tactful",
+          "tip": "It is especially useful when you need to disappoint someone without sounding blunt."
+        }
+      ],
+      "origin": {
+        "summary": "Formed in English by adding the suffix -ful to tact, which had developed from the sense of physical touch into careful judgement and sensitivity.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "Tact enters English, first referring to the sense of touch."
+          },
+          {
+            "when": "1600s–1700s",
+            "text": "Its meaning develops to include sensitivity, judgement and an ability to handle delicate matters."
+          },
+          {
+            "when": "1700s",
+            "text": "Tactful appears as an adjective meaning delicate and considerate in behaviour or expression."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "tact",
+          "label": "noun"
+        },
+        {
+          "term": "tactfully",
+          "label": "adverb"
+        },
+        {
+          "term": "tactlessness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "diplomatic",
+        "considerate",
+        "sensitive",
+        "discreet"
+      ],
+      "opposite": "blunt",
+      "pitfall": "Tactful describes how someone handles a situation; it does not mean the message is weak or dishonest."
+    },
+    {
+      "id": "terse",
+      "kind": "word",
+      "term": "terse",
+      "pos": "adjective",
+      "phonetic": "/tɜːrs/",
+      "sayIt": "TERS",
+      "register": "Formal; common at work",
+      "meaning": "Brief and direct, using only the words needed to communicate something.",
+      "nuance": "Terseness can make communication feel efficient and focused, but it may also seem abrupt or leave out useful context.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · clarifying a deadline",
+          "sentence": "My reply was terse, but it gave the client exactly what they needed.",
+          "highlight": "terse",
+          "tip": "Useful when you want to describe clear, economical communication without sounding friendly."
+        },
+        {
+          "setting": "social",
+          "where": "Message from a friend · arranging plans",
+          "sentence": "His text was so terse that I still wasn’t sure whether he was coming.",
+          "highlight": "terse",
+          "tip": "A useful warning when brevity comes across as cold or difficult to interpret."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining a delay",
+          "sentence": "The update was terse: testing continues, and the revised launch date is Friday.",
+          "highlight": "terse",
+          "tip": "Works well for summaries and formal notices; add context if the reader may need more detail."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin tersus, meaning ‘polished, refined’ and later ‘compressed, concise’, through French terse.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "Tersus develops from the idea of being carefully finished or compressed."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English through French in the sense ‘brief and concise’."
+          },
+          {
+            "when": "Today",
+            "text": "It describes communication that is compact and direct."
+          }
+        ]
+      },
+      "similar": [
+        "concise",
+        "succinct",
+        "curt",
+        "laconic"
+      ],
+      "opposite": "verbose",
+      "pitfall": "Terse means brief, not necessarily rude; tone and context determine how it sounds."
+    },
+    {
+      "id": "trenchant",
+      "kind": "word",
+      "term": "trenchant",
+      "pos": "adjective",
+      "phonetic": "/ˈtrentʃənt/",
+      "sayIt": "TREN-chuhnt",
+      "register": "Formal",
+      "meaning": "Expressing a clear, forceful opinion that cuts deeply to the heart of a matter.",
+      "nuance": "Often used for criticism, analysis or jokes that are sharp and hard to soften. It can sound witty and perceptive, but may also feel cutting or hostile.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · assessing a proposal",
+          "sentence": "Her trenchant analysis identified the weak assumptions in our launch plan.",
+          "highlight": "trenchant",
+          "tip": "Use it to describe criticism or analysis that is especially sharp, perceptive and well aimed."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · teasing a friend",
+          "sentence": "He made one trenchant remark about my terrible singing and immediately changed the subject.",
+          "highlight": "trenchant",
+          "tip": "It can add dry humour, but use it lightly when the relationship is not very close."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · evaluating a new novel",
+          "sentence": "The novel offers trenchant observations about ambition and social status.",
+          "highlight": "trenchant",
+          "tip": "A strong choice for describing memorable comments, criticism and insights in formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "From French tranchant, meaning ‘sharp’ or ‘cutting’, related to trancher, ‘to cut’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old French",
+            "text": "Tranchant meant ‘cutting’, ‘sharp’ and ‘decisive’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word entered English in senses connected with sharp expressions and keen insight."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used for forceful criticism, analysis or humour."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "trenchantly",
+          "label": "adverb"
+        },
+        {
+          "term": "trenchancy",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "incisive",
+        "cutting",
+        "sharp",
+        "acerbic",
+        "astute"
+      ],
+      "opposite": "gentle",
+      "pitfall": "It describes the force and precision of a remark or analysis, not necessarily whether the comment is fair."
+    },
+    {
+      "id": "vehemently",
+      "kind": "word",
+      "term": "vehemently",
+      "pos": "adverb",
+      "phonetic": "/vɪˈhɛməntli/",
+      "sayIt": "vuh-MENT-lee",
+      "register": "Formal",
+      "meaning": "With strong, intense feeling or force.",
+      "nuance": "This sounds forceful and often angry, though it can also describe intense enthusiasm or urgency. It is more formal than “very strongly” and may feel out of place in relaxed conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team debate · challenging a proposal",
+          "sentence": "She objected vehemently to the plan, arguing that it would undermine the whole project.",
+          "highlight": "vehemently",
+          "tip": "Use it for a strong objection, especially in formal reporting."
+        },
+        {
+          "setting": "social",
+          "where": "Argument with a friend · expressing frustration",
+          "sentence": "He vehemently defended his decision to cancel the trip, despite everyone else’s objections.",
+          "highlight": "vehemently",
+          "tip": "It emphasizes emotional force, so use it when the reaction is unusually strong."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · describing a public reaction",
+          "sentence": "Residents vehemently opposed the proposal and demanded a public consultation.",
+          "highlight": "vehemently",
+          "tip": "Pair it with verbs such as opposed, objected, protested and condemned."
+        }
+      ],
+      "origin": {
+        "summary": "From French véhément, which came from Latin vehementem, meaning forceful, vigorous or impassioned.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Vehemens means forceful, vigorous or driven by strong feeling."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English through French as a word for forceful or intense."
+          },
+          {
+            "when": "Today",
+            "text": "Vehemently describes strong emotion, opposition or forcefulness."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "vehement",
+          "label": "adjective"
+        },
+        {
+          "term": "vehement opposition",
+          "label": "common phrase"
+        }
+      ],
+      "similar": [
+        "forcefully",
+        "intensely",
+        "passionately",
+        "heatedly"
+      ],
+      "opposite": "mildly",
+      "pitfall": "Vehemently does not necessarily mean physically forceful; it usually describes an intense emotional reaction."
+    },
+    {
+      "id": "verbatim",
+      "kind": "word",
+      "term": "verbatim",
+      "pos": "adjective and adverb",
+      "phonetic": "/vɜːrˈbeɪtɪm/",
+      "sayIt": "vur-BAY-tim",
+      "register": "Formal",
+      "meaning": "Reproducing a person’s exact words without changing their wording or order.",
+      "nuance": "Use it when the precise wording matters, such as in legal work, reporting, or quoting someone directly.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Interview notes · recording a statement",
+          "sentence": "Please read the statement verbatim from the recording rather than summarizing it.",
+          "highlight": "verbatim",
+          "tip": "This signals that every word and its original order must be preserved."
+        },
+        {
+          "setting": "social",
+          "where": "Sharing a message · correcting a quote",
+          "sentence": "I repeated her message verbatim, including the typo at the end.",
+          "highlight": "verbatim",
+          "tip": "Useful when the exact wording has significance."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · quoting an interview",
+          "sentence": "The witness described the conversation verbatim in a note submitted to the committee.",
+          "highlight": "verbatim",
+          "tip": "Common in reports, transcripts, legal writing, and careful quotations."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin verbatim, meaning ‘word for word’, built from verbum, ‘word’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Verbatim combines verbum, ‘word’, with the ending -atim, which suggests ‘by’ or ‘according to’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with the sense ‘word for word’."
+          },
+          {
+            "when": "Today",
+            "text": "It describes exact wording that has not been changed, shortened, or rephrased."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "verbatim",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "word for word",
+        "exactly",
+        "literally",
+        "in full"
+      ],
+      "opposite": "paraphrased",
+      "pitfall": "Verbatim means reproducing the words exactly; it does not mean merely conveying the same general idea."
+    },
+    {
+      "id": "verbose",
+      "kind": "word",
+      "term": "verbose",
+      "pos": "adjective",
+      "phonetic": "/vɜːˈbəʊs/",
+      "sayIt": "vur-BOHS",
+      "register": "Common at work",
+      "meaning": "Using more words than are needed to explain something.",
+      "nuance": "It can sound informative and thorough, but often suggests that a message is difficult to follow. Use it when discussing writing, speech or communication.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Status update · clarifying ownership",
+          "sentence": "The update is too verbose; lead with the decision, deadline and owner.",
+          "highlight": "verbose",
+          "tip": "Use it to encourage a colleague to make the important point first."
+        },
+        {
+          "setting": "social",
+          "where": "Texting a friend · explaining a delay",
+          "sentence": "Sorry for the verbose reply—I wanted to explain why we’ll arrive late.",
+          "highlight": "verbose",
+          "tip": "It can gently acknowledge that you have said more than necessary."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a client · explaining a delay",
+          "sentence": "Here is a verbose version of the apology, but the shorter version sounds more confident.",
+          "highlight": "verbose",
+          "tip": "Use it to describe writing that contains unnecessary detail or repetition."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin verbosus, meaning ‘full of words’, which was based on verbum, ‘word’. English borrowed it through French.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "Verbosus develops from verbum, ‘word’, with the sense of having many words."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English through French in the sense of using more words than needed."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes writing or speech that is lengthy and often overly detailed."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "verbosity",
+          "label": "noun"
+        },
+        {
+          "term": "verbosely",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "wordy",
+        "long-winded",
+        "overly detailed",
+        "explanatory"
+      ],
+      "opposite": "concise",
+      "pitfall": "Verbose does not automatically mean incorrect or unclear; a long explanation may still be useful when the subject is complex."
+    },
+    {
+      "id": "vilify",
+      "kind": "word",
+      "term": "vilify",
+      "pos": "verb",
+      "phonetic": "/ˈvɪlɪfaɪ/",
+      "sayIt": "VIL-ih-fy",
+      "register": "Formal",
+      "meaning": "To attack someone publicly by portraying them as worthless, harmful or deserving of contempt.",
+      "nuance": "This is stronger and more hostile than ordinary criticism, often involving deliberate damage to someone’s reputation. It is common in formal arguments and reports about public figures.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · handling a complaint",
+          "sentence": "We should address the mistake directly, not vilify the colleague who reported it.",
+          "highlight": "vilify",
+          "tip": "Use it when describing speech that unfairly attacks someone’s character or standing."
+        },
+        {
+          "setting": "social",
+          "where": "Argument with friends · defending a decision",
+          "sentence": "It is unfair to vilify people simply because they chose a different career.",
+          "highlight": "vilify",
+          "tip": "It carries a strong, critical tone and is more common in serious or public arguments."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · responding to false claims",
+          "sentence": "The article criticized the policy but did not vilify the officials responsible for it.",
+          "highlight": "vilify",
+          "tip": "Use it to describe language that attacks a person’s character rather than explaining the issue."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin vilificare, meaning ‘to make worthless’, built from vilis, ‘worthless, base’, and facere, ‘to make’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Vilificare forms from vilis, ‘worthless or base’, and facere, ‘to make’."
+          },
+          {
+            "when": "1600s",
+            "text": "Enters English in the sense of making someone or something seem base or contemptible."
+          },
+          {
+            "when": "Today",
+            "text": "Mainly means to attack someone’s reputation through harsh, hostile portrayal."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "vilification",
+          "label": "noun"
+        },
+        {
+          "term": "vilifier",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "defame",
+        "malign",
+        "slander",
+        "smear"
+      ],
+      "opposite": "praise",
+      "pitfall": "Vilify describes hostile attacks on someone’s character or reputation; criticize can be much milder and focus on ideas or actions."
+    },
+    {
+      "id": "vitriolic",
+      "kind": "word",
+      "term": "vitriolic",
+      "pos": "adjective",
+      "phonetic": "/vɪˈtrɪɒlɪk/",
+      "sayIt": "vih-TREE-ol-ik",
+      "register": "Formal",
+      "meaning": "Harsh, bitter and strongly critical, especially in the way someone expresses an opinion.",
+      "nuance": "It can describe language that feels sharp, hostile or contemptuous. It is stronger than simply negative and is usually reserved for especially cutting remarks.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · challenging a proposal",
+          "sentence": "Her vitriolic criticism of the proposal embarrassed the whole team.",
+          "highlight": "vitriolic",
+          "tip": "Use it for language that is not merely blunt but deliberately vicious."
+        },
+        {
+          "setting": "social",
+          "where": "Argument with a friend",
+          "sentence": "He became vitriolic after she questioned his decision to cancel the trip.",
+          "highlight": "vitriolic",
+          "tip": "It often signals that a disagreement has become personal and abusive."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · attacking a policy",
+          "sentence": "The article delivered a vitriolic attack on the company’s handling of the complaint.",
+          "highlight": "vitriolic",
+          "tip": "It is effective in forceful writing, but it can make the tone feel excessively hostile."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin vitriolum, meaning sulfuric acid or other mineral salts, with an early English word for the substance.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Vitriolum referred to sulfuric acid and related mineral substances."
+          },
+          {
+            "when": "Late Middle English",
+            "text": "The word vitriol entered English for the substance itself."
+          },
+          {
+            "when": "1600s",
+            "text": "The adjective began to describe harsh or biting speech and writing."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "vitriol",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "caustic",
+        "acerbic",
+        "scathing",
+        "vituperative"
+      ],
+      "opposite": "gentle",
+      "pitfall": "Use it for harsh verbal attacks; it does not mean that someone is simply being critical."
+    },
+    {
+      "id": "wheedle",
+      "kind": "word",
+      "term": "wheedle",
+      "pos": "verb",
+      "phonetic": "/ˈwiːdəl/",
+      "sayIt": "WEE-duhl",
+      "register": "Less common; formal or literary",
+      "meaning": "To persuade someone to agree by using flattering, charming or persistent talk.",
+      "nuance": "It often has a mildly negative tone because it can suggest exaggerated or insincere persuasion. It is stronger than simply asking nicely.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Supplier meeting · requesting a deadline",
+          "sentence": "Can you wheedle the vendor into giving us a little more time?",
+          "highlight": "wheedle",
+          "tip": "Use it when the speaker is applying charm or pressure rather than making a straightforward request."
+        },
+        {
+          "setting": "social",
+          "where": "Party invitation · gaining entry",
+          "sentence": "She knows how to wheedle her way onto the guest list.",
+          "highlight": "wheedle",
+          "tip": "The phrase ‘wheedle your way into something’ suggests persistent social persuasion."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · seeking approval",
+          "sentence": "His email tried to wheedle approval, but the underlying request was weak.",
+          "highlight": "wheedle",
+          "tip": "It is useful when you want to criticise manipulative or excessively ingratiating language."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from an Old English word connected with whining or complaining. By the 1600s, it was being used for obtaining something through persuasive talk.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "A related verb referred to whining or complaining, though the precise connection is not certain."
+          },
+          {
+            "when": "1600s",
+            "text": "The word appears in English for using soothing or flattering talk to persuade someone."
+          },
+          {
+            "when": "1800s onward",
+            "text": "Its modern sense of coaxing or ingratiating someone becomes established."
+          }
+        ]
+      },
+      "similar": [
+        "cajole",
+        "coax",
+        "sweet-talk",
+        "butter up",
+        "ingratiate"
+      ],
+      "opposite": "bluntness",
+      "pitfall": "Do not use it for an ordinary polite request; wheedling suggests more persistent, flattering or manipulative persuasion."
+    }
+  ]
+}

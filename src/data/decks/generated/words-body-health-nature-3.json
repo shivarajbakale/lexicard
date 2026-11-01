@@ -1,0 +1,623 @@
+{
+  "id": "words-body-health-nature-3",
+  "kind": "word",
+  "name": "Body, health & nature · 3",
+  "blurb": "9 words about body, health & nature",
+  "cards": [
+    {
+      "id": "supine",
+      "kind": "word",
+      "term": "supine",
+      "pos": "adjective",
+      "phonetic": "/ˈsuːpaɪn/",
+      "sayIt": "soo-PAYN",
+      "register": "Formal",
+      "meaning": "Lying on your back with your face pointing upward.",
+      "nuance": "Formal and more often used in writing. It can also describe someone as passive or overly accepting.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "First-aid training · examining a patient",
+          "sentence": "The patient remained supine while the nurse checked his breathing.",
+          "highlight": "supine",
+          "tip": "Common in medical and first-aid descriptions."
+        },
+        {
+          "setting": "social",
+          "where": "Rooftop party · relaxing on a lounger",
+          "sentence": "She lay supine on the lounger, enjoying the warm evening breeze.",
+          "highlight": "supine",
+          "tip": "Use it for a deliberately elegant or humorous description of lying face-up."
+        },
+        {
+          "setting": "writing",
+          "where": "Essay · discussing passive behaviour",
+          "sentence": "The essay criticises the supine acceptance of rules that no longer serve the public.",
+          "highlight": "supine",
+          "tip": "This figurative use is formal and sounds slightly critical."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin supinus, meaning ‘lying on the back’. Its deeper pre-Latin origin is uncertain.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Supinus means ‘lying on the back’, with the face turned upward."
+          },
+          {
+            "when": "1600s",
+            "text": "The word begins appearing in English in medical and descriptive writing."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used formally for a face-up position or passive behaviour."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "supinely",
+          "label": "adverb"
+        },
+        {
+          "term": "supinity",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "prone",
+        "recumbent",
+        "passive",
+        "receptive"
+      ],
+      "opposite": "prone",
+      "pitfall": "Do not confuse it with ‘subline’ or ‘sub-line’, which can mean a smaller line of text."
+    },
+    {
+      "id": "susceptible",
+      "kind": "word",
+      "term": "susceptible",
+      "pos": "adjective",
+      "phonetic": "/səˈseptəbəl/",
+      "sayIt": "su-SEP-tuh-bul",
+      "register": "Common at work",
+      "meaning": "Easily influenced, harmed, or affected by something.",
+      "nuance": "Often describes someone or something that is vulnerable to a particular influence, danger, or condition. It can sound more formal than “vulnerable” or “prone to.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Security review · evaluating a new tool",
+          "sentence": "The system is susceptible to attack if the old login method remains enabled.",
+          "highlight": "susceptible",
+          "tip": "Use it to describe a specific weakness or risk."
+        },
+        {
+          "setting": "social",
+          "where": "Discussion · changing someone’s mind",
+          "sentence": "She was susceptible to the idea once she saw how much fun the group was having.",
+          "highlight": "susceptible",
+          "tip": "Use it for someone who is easily swayed by an appealing idea."
+        },
+        {
+          "setting": "writing",
+          "where": "Health report · explaining risk",
+          "sentence": "People with weakened immune systems are more susceptible to certain infections.",
+          "highlight": "susceptible",
+          "tip": "In formal writing, it often takes the preposition “to.”"
+        }
+      ],
+      "origin": {
+        "summary": "From Latin susceptibilis, meaning “able to receive or be affected,” based on suscipere, “to take upon oneself, receive, or feel.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Suscipere means “to take upon oneself, receive, or feel,” and gives us susceptible."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with meanings connected with receiving, being affected, or being exposed."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means easily influenced, harmed, or affected by something."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "susceptibility",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "vulnerable",
+        "prone",
+        "receptive",
+        "sensitive"
+      ],
+      "opposite": "resistant",
+      "pitfall": "Use “susceptible to” for a risk or influence; don’t confuse it with “susceptive,” which means suspicious."
+    },
+    {
+      "id": "symptomatic",
+      "kind": "word",
+      "term": "symptomatic",
+      "pos": "adjective",
+      "phonetic": "/ˌsɪmpˈtɒmətɪk/",
+      "sayIt": "simp-TOM-uh-tik",
+      "register": "Common in medicine, work and formal writing",
+      "meaning": "Showing that a problem or condition exists, especially as a sign of a larger issue.",
+      "nuance": "In medicine, it means showing signs of a disease or condition. More broadly, “symptomatic of” suggests that something is a typical sign of a deeper problem.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team review · diagnosing delays",
+          "sentence": "The missed handoffs are symptomatic of a wider problem with unclear ownership.",
+          "highlight": "symptomatic",
+          "tip": "Use “symptomatic of” when connecting an immediate issue to its underlying cause."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · discussing recurring tension",
+          "sentence": "His constant checking of his phone is symptomatic of how anxious he feels when we go out.",
+          "highlight": "symptomatic",
+          "tip": "It can describe a personal sign that points to a broader emotional situation."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · noting warning signs",
+          "sentence": "Falling sales are symptomatic of weak demand rather than a problem with the product itself.",
+          "highlight": "symptomatic",
+          "tip": "It sounds more analytical than “a sign of” and suits reports, reviews and diagnosis."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek symptomatikos, meaning “showing symptoms,” which comes from symptōma, “a sign or indication” of illness.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Symptōma develops as a medical term for a sign or indication of illness."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in medical writing as a noun meaning a sign of disease."
+          },
+          {
+            "when": "Later",
+            "text": "The adjective comes to mean showing symptoms, then extends to revealing a larger problem."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "symptom",
+          "label": "noun"
+        },
+        {
+          "term": "symptomatically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "indicative",
+        "characteristic",
+        "diagnostic",
+        "indicative of"
+      ],
+      "opposite": "asymptomatic",
+      "pitfall": "Someone or something can be “symptomatic” in the medical sense without being the cause of the condition. Also, use “symptomatic of” when naming what the symptom indicates."
+    },
+    {
+      "id": "therapy",
+      "kind": "word",
+      "term": "therapy",
+      "pos": "noun",
+      "phonetic": "/ˈθɛrəpi/",
+      "sayIt": "THAIR-uh-pee",
+      "register": "Common in personal, health and workplace contexts",
+      "meaning": "Treatment intended to help someone improve their physical or mental health.",
+      "nuance": "It can refer to a formal medical or psychological treatment, or, informally, to a conversation or activity that helps someone feel better.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team check-in · supporting a colleague",
+          "sentence": "Regular therapy sessions have helped her manage stress while working through a busy project.",
+          "highlight": "therapy",
+          "tip": "Use it for structured support from a mental health professional, especially when workplace stress is affecting someone."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation with a friend · offering support",
+          "sentence": "Talking to my friend was a form of therapy, even though neither of us called it that.",
+          "highlight": "therapy",
+          "tip": "In social conversation, it can sound light or informal when you mean an emotional release rather than medical treatment."
+        },
+        {
+          "setting": "writing",
+          "where": "Workplace wellbeing email · sharing resources",
+          "sentence": "The company offers therapy referrals and confidential appointments for employees who need extra support.",
+          "highlight": "therapy",
+          "tip": "It sounds professional and clear when describing a service, programme or range of treatment options."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek therapeia, meaning attendance or service, associated with caring for someone and helping them recover. The medical sense became established in English during the 18th century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "therapeia meant attendance, service or care, especially the care given to the sick."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word appears in English with medical and healing-related meanings."
+          },
+          {
+            "when": "1700s",
+            "text": "Its modern medical and psychological meanings become established."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for medical care, psychological treatment and, informally, emotional support."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "therapist",
+          "label": "noun (person)"
+        },
+        {
+          "term": "therapeutic",
+          "label": "adjective"
+        },
+        {
+          "term": "therapeutically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "treatment",
+        "counselling",
+        "healing",
+        "rehabilitation"
+      ],
+      "opposite": "neglect",
+      "pitfall": "Therapy usually describes a process or field of treatment; a therapist is the person who provides it."
+    },
+    {
+      "id": "toxic",
+      "kind": "word",
+      "term": "toxic",
+      "pos": "adjective",
+      "phonetic": "/ˈtɒksɪk/",
+      "sayIt": "TOK-sik",
+      "register": "Common at work and socially",
+      "meaning": "Poisonous or extremely harmful, including when describing relationships, behaviours or environments.",
+      "nuance": "For substances, it means capable of causing illness or death. For people, workplaces or online exchanges, it suggests persistent damage to wellbeing or morale.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · raising a concern",
+          "sentence": "Constant criticism created a toxic environment, so we need to change how feedback is handled.",
+          "highlight": "toxic",
+          "tip": "Use it to describe serious, ongoing harm rather than ordinary disagreement."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · discussing a friendship",
+          "sentence": "The relationship became toxic, and leaving felt healthier than trying to fix it.",
+          "highlight": "toxic",
+          "tip": "This figurative use is common when a friendship or interaction regularly damages your confidence or peace of mind."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a colleague · setting boundaries",
+          "sentence": "I’m willing to continue the project, but I won’t accept a toxic communication style.",
+          "highlight": "toxic",
+          "tip": "Pair it with environment, behaviour, culture or waste to make your point clear."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek toxikon, meaning poison or poison-related, which comes from toxikos, meaning poisonous.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Toxikon meant poison and was linked to toxos, the bow used to shoot poisoned arrows."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in medical contexts."
+          },
+          {
+            "when": "1900s onward",
+            "text": "Figurative uses develop for harmful relationships, cultures and communication."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "toxicity",
+          "label": "noun"
+        },
+        {
+          "term": "toxically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "poisonous",
+        "harmful",
+        "destructive",
+        "hazardous"
+      ],
+      "opposite": "harmless",
+      "pitfall": "Don’t use toxic for every unpleasant person or difficult situation; it suggests serious or persistent harm."
+    },
+    {
+      "id": "vertigo",
+      "kind": "word",
+      "term": "vertigo",
+      "pos": "noun",
+      "phonetic": "/ˈvɜːrtɪɡoʊ/",
+      "sayIt": "VUR-tih-go",
+      "register": "Everyday",
+      "meaning": "A strong feeling that you or the world around you is spinning, often causing you to lose balance.",
+      "nuance": "Vertigo is more intense than ordinary dizziness and is often used for a spinning sensation caused by balance problems. In less formal writing, it can describe confusion or disorientation caused by a sudden change.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office · reacting to bad news",
+          "sentence": "When the budget was cut, I felt a moment of vertigo as the team tried to decide what to keep.",
+          "highlight": "vertigo",
+          "tip": "Use it metaphorically when a situation suddenly leaves you feeling unsure which way to go."
+        },
+        {
+          "setting": "social",
+          "where": "Rooftop dinner · sudden height",
+          "sentence": "I nearly dropped my drink when I looked over the edge; that rooftop gave me serious vertigo.",
+          "highlight": "vertigo",
+          "tip": "It often works well as an adjective before a noun such as vertigo, dizziness or episodes."
+        },
+        {
+          "setting": "writing",
+          "where": "Medical note · describing symptoms",
+          "sentence": "The patient reported brief episodes of vertigo when turning her head.",
+          "highlight": "vertigo",
+          "tip": "Choose vertigo when the spinning sensation is the main symptom, rather than general light-headedness."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin vertigo, meaning a turn or spinning motion, based on vertere, “to turn.” The medical sense developed through later descriptions of dizziness and loss of balance.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "Vertigo refers to a turning or spinning motion and comes from vertere, “to turn.”"
+          },
+          {
+            "when": "Medieval Latin",
+            "text": "The word appears in medical writing for dizziness and the spinning sensation."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly names a specific spinning sensation and can also suggest emotional or situational disorientation."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "vertiginous",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "dizziness",
+        "light-headedness",
+        "disorientation"
+      ],
+      "pitfall": "Don’t use vertigo as a general synonym for every dizzy feeling; it usually suggests a pronounced spinning sensation or loss of balance."
+    },
+    {
+      "id": "virulent",
+      "kind": "word",
+      "term": "virulent",
+      "pos": "adjective",
+      "phonetic": "/ˈvɪr(j)ələnt/",
+      "sayIt": "VIH-rul-ent",
+      "register": "Formal and technical",
+      "meaning": "Extremely harmful, severe, or capable of spreading quickly, especially when describing a disease, substance, or hostile attack.",
+      "nuance": "In medicine and biology, it describes something intensely dangerous or rapidly spreading. Figuratively, it can describe vicious language or attacks.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Security meeting · investigating malware",
+          "sentence": "The security team called the script virulent because it spread rapidly through shared drives.",
+          "highlight": "virulent",
+          "tip": "Common in technical discussions about diseases, toxins, viruses, and malicious software."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · contentious topic",
+          "sentence": "One guest’s comment was so virulent that everyone else went quiet.",
+          "highlight": "virulent",
+          "tip": "Use it figuratively for hostile or vicious speech that has a strong effect."
+        },
+        {
+          "setting": "writing",
+          "where": "Public-health report · outbreak analysis",
+          "sentence": "The report describes the strain as highly virulent, with cases developing within days.",
+          "highlight": "virulent",
+          "tip": "Pairs naturally with words such as disease, strain, strain, pathogen, and virus."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin virulentus, meaning ‘poisonous’ or ‘full of poison’, which developed from virus, an old word for poison or harmful material.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Virulentus means ‘poisonous’ and is related to virus, ‘poison’ or ‘harmful material’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with meanings connected with poison and disease."
+          },
+          {
+            "when": "Today",
+            "text": "It is used mainly for severe disease or harmful material, and figuratively for vicious attacks."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "virulence",
+          "label": "noun"
+        },
+        {
+          "term": "virulently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "vicious",
+        "toxic",
+        "malignant",
+        "noxious"
+      ],
+      "opposite": "harmless",
+      "pitfall": "Don’t use it merely as a stronger form of harmful; it suggests great severity, rapid spread, or an especially intense effect."
+    },
+    {
+      "id": "wan",
+      "kind": "word",
+      "term": "wan",
+      "pos": "adjective",
+      "phonetic": "/wɒn/",
+      "sayIt": "WON",
+      "register": "Literary",
+      "meaning": "Pale and weak, especially because of illness, exhaustion or worry.",
+      "nuance": "It creates a sombre, often old-fashioned atmosphere. It is stronger and more emotional than simply saying someone looks pale.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · a difficult update",
+          "sentence": "By late afternoon, even the most energetic employees had turned wan after another round of changes.",
+          "highlight": "wan",
+          "tip": "Useful in serious, literary writing about exhaustion or emotional strain."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · noticing a relative",
+          "sentence": "Her wan face showed that the weekend had not been restful.",
+          "highlight": "wan",
+          "tip": "It sounds caring but slightly dramatic, so use it mainly when the mood is serious."
+        },
+        {
+          "setting": "writing",
+          "where": "Historical story · describing a winter journey",
+          "sentence": "A wan light fell across the fields as the weary travellers continued home.",
+          "highlight": "wan",
+          "tip": "It can describe a pale face, a faded look or a faint quality of light."
+        }
+      ],
+      "origin": {
+        "summary": "Old English wann meant pale or sallow. Its present sense developed through the idea of a person looking pale from illness or weakness.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "Recorded as wann, meaning pale, sallow or lacking colour."
+          },
+          {
+            "when": "1500s",
+            "text": "Widened to include weakness, exhaustion and a generally feeble appearance."
+          },
+          {
+            "when": "Today",
+            "text": "Mainly survives in literary descriptions of a pale or weak appearance."
+          }
+        ]
+      },
+      "similar": [
+        "pale",
+        "gaunt",
+        "feeble",
+        "sallow",
+        "sickly"
+      ],
+      "opposite": "ruddy",
+      "pitfall": "This is a literary word, not a neutral everyday description; say pale or unwell when the tone is casual."
+    },
+    {
+      "id": "wince",
+      "kind": "word",
+      "term": "wince",
+      "pos": "verb",
+      "phonetic": "/wɪns/",
+      "sayIt": "WINS",
+      "register": "Everyday",
+      "meaning": "To make a brief, involuntary face that shows pain, disgust, embarrassment, or sudden discomfort.",
+      "nuance": "A wince is usually a small reaction rather than a full-body movement. It can describe either a physical response or a figurative reaction to something unpleasant.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · hearing a risky proposal",
+          "sentence": "I winced when the budget estimate was mentioned.",
+          "highlight": "winced",
+          "tip": "Use the past tense when describing someone’s reaction to a person, idea, or event."
+        },
+        {
+          "setting": "social",
+          "where": "Restaurant · tasting a hot dish",
+          "sentence": "She winced after accidentally swallowing a mouthful of chili sauce.",
+          "highlight": "winced",
+          "tip": "It fits brief reactions that show discomfort without adding much drama."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing an unpleasant scene",
+          "sentence": "He winced at the sight of the damaged equipment.",
+          "highlight": "winced",
+          "tip": "Use it to make a written reaction immediate and vivid."
+        }
+      ],
+      "origin": {
+        "summary": "From Old English wincian, meaning to turn, twist, or writhe. The modern sense developed into a brief movement or facial reaction caused by discomfort.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "Wincian meant to turn, twist, or writhe."
+          },
+          {
+            "when": "1600s",
+            "text": "Recorded in English for a twisting movement or expression of discomfort."
+          },
+          {
+            "when": "Today",
+            "text": "Usually describes a brief, involuntary grimace."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "wince",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "flinch",
+        "grimace",
+        "cringe",
+        "recoil"
+      ],
+      "opposite": "smile",
+      "pitfall": "A wince is usually brief and involuntary; use flinch if the person moves away from something or recoil for a stronger backward movement."
+    }
+  ]
+}

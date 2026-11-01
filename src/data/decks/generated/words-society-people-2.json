@@ -1,0 +1,1697 @@
+{
+  "id": "words-society-people-2",
+  "kind": "word",
+  "name": "Society & people · 2",
+  "blurb": "25 words about society & people",
+  "cards": [
+    {
+      "id": "ethics",
+      "kind": "word",
+      "term": "ethics",
+      "pos": "noun",
+      "phonetic": "/ˈeθɪks/",
+      "sayIt": "ETH-iks",
+      "register": "Common at work and in formal writing",
+      "meaning": "The principles people use to decide what is right, wrong, or fair.",
+      "nuance": "Ethics can refer to personal standards or to a field concerned with moral choices. It often appears in professional contexts when principles, fairness, or responsibility are being discussed.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · raising a concern",
+          "sentence": "We need to consider the ethics of collecting data that customers may not expect us to use.",
+          "highlight": "ethics",
+          "tip": "Use it when asking whether an action is morally or professionally acceptable."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · disagreeing about a choice",
+          "sentence": "Their decision felt questionable, but their personal ethics are not my business.",
+          "highlight": "ethics",
+          "tip": "This use refers to someone’s guiding principles rather than a formal area of study."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · describing research standards",
+          "sentence": "The report explains the ethics of the study and how participants’ consent was obtained.",
+          "highlight": "ethics",
+          "tip": "Common in academic, medical, business, and research writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek ethos, meaning character or custom. The plural form entered English with the sense of a system of moral principles.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Ethos referred to a person’s character, habits, or customs."
+          },
+          {
+            "when": "Late Middle English",
+            "text": "Ethics entered English through Latin, initially referring to a treatise or system of morals."
+          },
+          {
+            "when": "Today",
+            "text": "The word covers both moral principles and the academic study of moral decisions."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "ethical",
+          "label": "adjective"
+        },
+        {
+          "term": "ethically",
+          "label": "adverb"
+        },
+        {
+          "term": "ethic",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "morality",
+        "moral principles",
+        "values",
+        "integrity"
+      ],
+      "opposite": "immorality",
+      "pitfall": "Use ethics for principles or the broader field of moral reasoning. Use ethic in the singular for one guiding principle, as in professional ethics."
+    },
+    {
+      "id": "expatriate",
+      "kind": "word",
+      "term": "expatriate",
+      "pos": "noun",
+      "phonetic": "/ˌeksˈpeɪtriət/",
+      "sayIt": "eks-PAY-tree-uht",
+      "register": "Formal; common at work",
+      "meaning": "A person who lives outside their home country, often because they have moved there for work.",
+      "nuance": "Today it usually suggests a voluntary move, sometimes with the added sense of living somewhere unfamiliar. It is more formal than the everyday word “expat.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "International team · introducing a colleague",
+          "sentence": "An expatriate on our Singapore team led yesterday’s meeting with the Tokyo office.",
+          "highlight": "expatriate",
+          "tip": "Use it when you want a formal or slightly distant description rather than the casual “expat.”"
+        },
+        {
+          "setting": "social",
+          "where": "Networking dinner · discussing career moves",
+          "sentence": "At the dinner, an expatriate shared how moving abroad had changed her approach to work.",
+          "highlight": "expatriate",
+          "tip": "It fits conversations about international experience, although “expat” may sound friendlier."
+        },
+        {
+          "setting": "writing",
+          "where": "Company policy · relocation support",
+          "sentence": "The policy covers travel costs and temporary housing for each expatriate starting an assignment abroad.",
+          "highlight": "expatriate",
+          "tip": "It is especially natural in formal documents about international assignments and relocation."
+        }
+      ],
+      "origin": {
+        "summary": "It comes from Latin expatriatus, meaning “exiled,” and originally referred to someone forced to leave their homeland.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Expatriatus means “exiled,” from ex, “out of,” and patria, “fatherland.”"
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English, initially referring to an exile or someone living away from home."
+          },
+          {
+            "when": "1800s onward",
+            "text": "Its meaning expands to include people living abroad for work or other personal reasons."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "expatriation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "expat",
+        "émigré",
+        "migrant",
+        "overseas worker"
+      ],
+      "opposite": "repatriate",
+      "pitfall": "Although the word historically meant “exile,” its usual modern sense does not require the move to have been forced."
+    },
+    {
+      "id": "genocide",
+      "kind": "word",
+      "term": "genocide",
+      "pos": "noun",
+      "phonetic": "/ˈdʒenəsaɪd/",
+      "sayIt": "JEN-uh-syde",
+      "register": "Formal and serious",
+      "meaning": "The deliberate and systematic destruction of a national, ethnic, racial or religious group.",
+      "nuance": "This is a serious term with a specific meaning, not a general label for every mass killing. Its use depends on evidence of systematic violence and the intent to destroy a protected group.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Legal meeting · assessing evidence",
+          "sentence": "The legal team rejected the phrase because the evidence did not show the systematic intent required for genocide.",
+          "highlight": "genocide",
+          "tip": "Use this precise term only when the evidence supports its full definition."
+        },
+        {
+          "setting": "social",
+          "where": "News discussion · violence abroad",
+          "sentence": "A friend asked whether the violence against civilians in the news should be called genocide.",
+          "highlight": "genocide",
+          "tip": "It can arise in serious news discussions, but avoid making the accusation casually."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · describing a conflict",
+          "sentence": "In the report, we explain why the campaign may constitute genocide and acknowledge the evidence still under review.",
+          "highlight": "genocide",
+          "tip": "Explain the evidence and any uncertainty rather than presenting the accusation as self-evident."
+        }
+      ],
+      "origin": {
+        "summary": "Coined by Polish-Jewish jurist Raphael Lemkin in 1944. He combined the Greek genos, meaning ‘race, kind or origin’, with the Latin caedere, meaning ‘to kill’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "The root genos referred to a race, kind, origin or class of people."
+          },
+          {
+            "when": "Latin",
+            "text": "Caedere meant ‘to cut down’ or ‘to kill’, providing the element -cide."
+          },
+          {
+            "when": "1944",
+            "text": "Raphael Lemkin coined ‘genocide’ while developing the idea of international protection against the mass destruction of groups."
+          },
+          {
+            "when": "1948",
+            "text": "The United Nations adopted the Genocide Convention, establishing an international legal framework for preventing and punishing the crime."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "genocidal",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "mass murder"
+      ],
+      "pitfall": "Do not use genocide as a broad synonym for mass killing; it refers to the systematic destruction of a protected group, and it is distinct from ethnic cleansing."
+    },
+    {
+      "id": "genre",
+      "kind": "word",
+      "term": "genre",
+      "pos": "noun",
+      "phonetic": "/ˈʒɑːnrə/",
+      "sayIt": "ZHON-ruh",
+      "register": "Common at work and in cultural discussion",
+      "meaning": "A category of creative work defined by a shared style, subject, format, or convention.",
+      "nuance": "Most often used for books, films, music, games, and other art forms. It suggests a recognised category rather than a broad, general type.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Content planning · comparing campaigns",
+          "sentence": "Our documentary campaign belongs to the branded-content genre, but it feels more personal than promotional.",
+          "highlight": "genre",
+          "tip": "Use it when discussing a recognised category of creative work."
+        },
+        {
+          "setting": "social",
+          "where": "With friends · recommending a series",
+          "sentence": "If you enjoy slow-burn mysteries, that Nordic crime series is exactly your genre.",
+          "highlight": "genre",
+          "tip": "It often works naturally before a noun, as in crime genre or literary genre."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing a novel",
+          "sentence": "The novel blends family drama with speculative fiction, creating a hybrid genre of its own.",
+          "highlight": "genre",
+          "tip": "A useful alternative to type when you want to sound more specific and culturally aware."
+        }
+      ],
+      "origin": {
+        "summary": "Borrowed from French genre, which came from the Latin genus, meaning kind or class. English began using it for categories of artistic work in the early 1800s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The source word genus meant kind, class, or category."
+          },
+          {
+            "when": "French",
+            "text": "Genre developed as the French word for a kind or category of artistic work."
+          },
+          {
+            "when": "Early 1800s",
+            "text": "English borrowed genre, initially referring broadly to kinds of composition and later to artistic categories."
+          }
+        ]
+      },
+      "forms": [],
+      "similar": [
+        "category",
+        "type",
+        "form",
+        "style"
+      ],
+      "pitfall": "Genre is not simply the genre of something’s content; it usually names an established artistic category, such as comedy, documentary, or fantasy."
+    },
+    {
+      "id": "haven",
+      "kind": "word",
+      "term": "haven",
+      "pos": "noun",
+      "phonetic": "/ˈheɪvən/",
+      "sayIt": "HAY-vuhn",
+      "register": "Everyday; formal in some contexts",
+      "meaning": "A place where someone feels safe, protected, or free from disturbance.",
+      "nuance": "A haven can be a real location, such as a harbour, or a figurative place of peace and security. It often suggests more than simple comfort by implying protection from something unpleasant.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · sharing a concern",
+          "sentence": "The mentoring group became a haven for new managers who wanted honest advice.",
+          "highlight": "haven",
+          "tip": "Use it for a person, group, or space that offers support and safety."
+        },
+        {
+          "setting": "social",
+          "where": "Friend’s home · unwinding",
+          "sentence": "Her tiny flat is a haven where we can forget our phones and talk properly.",
+          "highlight": "haven",
+          "tip": "A natural word for a peaceful place away from everyday pressures."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel article · describing a quiet place",
+          "sentence": "The island remains a haven for visitors seeking clear air and unhurried days.",
+          "highlight": "haven",
+          "tip": "Often appears in phrases such as “a haven for” and “a haven of peace.”"
+        }
+      ],
+      "origin": {
+        "summary": "From Old English hæfen, meaning a harbour or secure place. The word later extended beyond physical harbours to mean any place of safety or refuge.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The word hæfen referred to a harbour or secure place."
+          },
+          {
+            "when": "14th century",
+            "text": "The sense expanded to include a place of safety, shelter, or refuge."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used for peaceful or protective places, both real and figurative."
+          }
+        ]
+      },
+      "similar": [
+        "refuge",
+        "sanctuary",
+        "retreat",
+        "safe haven"
+      ],
+      "opposite": "danger zone",
+      "pitfall": "A haven implies safety or protection, not simply somewhere that is convenient or pleasant."
+    },
+    {
+      "id": "heresy",
+      "kind": "word",
+      "term": "heresy",
+      "pos": "noun",
+      "phonetic": "/ˈhɛrəsi/",
+      "sayIt": "HEH-ruh-see",
+      "register": "Formal",
+      "meaning": "A belief that strongly disagrees with the accepted religious teachings or an organisation’s official position.",
+      "nuance": "The word is usually critical and can sound severe. Outside religion, it may describe an opinion treated as dangerously wrong by those in authority.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Strategy meeting · challenging a policy",
+          "sentence": "The new director called the proposal heresy, which made everyone defensive.",
+          "highlight": "heresy",
+          "tip": "Strong language for an idea that challenges an organisation’s established authority."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · playful disagreement",
+          "sentence": "Joking that tea before noon was heresy kept the conversation lively.",
+          "highlight": "heresy",
+          "tip": "Use it playfully when exaggerating how strongly someone rejects a group norm."
+        },
+        {
+          "setting": "writing",
+          "where": "History essay · shifting beliefs",
+          "sentence": "The essay explains how the once-radical idea became orthodoxy and was later dismissed as heresy.",
+          "highlight": "heresy",
+          "tip": "Useful when contrasting accepted teaching with ideas an authority rejects."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Greek hairesis, meaning ‘choice’, and originally referred to choosing one religious group over another. It later developed its modern sense of a belief rejected by religious or other authorities.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Hairesis means ‘choice’ and comes from a word meaning ‘to choose’."
+          },
+          {
+            "when": "Early Christianity",
+            "text": "The term is applied to teachings or religious groups that diverge from accepted belief."
+          },
+          {
+            "when": "1300s",
+            "text": "The word enters English through Latin and Old French in a religious context."
+          },
+          {
+            "when": "Today",
+            "text": "It can refer to religious dissent or, more broadly, to ideas condemned by an authority."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "heretic",
+          "label": "noun (person)"
+        },
+        {
+          "term": "heretical",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "orthodoxy",
+        "heterodoxy",
+        "dissent",
+        "blasphemy"
+      ],
+      "opposite": "orthodoxy",
+      "pitfall": "Heresy describes a belief judged unacceptable by an authority, not merely an unusual opinion. In everyday writing, avoid it when you simply mean ‘controversial’."
+    },
+    {
+      "id": "homogeneous",
+      "kind": "word",
+      "term": "homogeneous",
+      "pos": "adjective",
+      "phonetic": "/hɒməˈdʒiːniəs/",
+      "sayIt": "hom-oh-JEE-nee-uhs",
+      "register": "Common in academic and technical writing",
+      "meaning": "Made up of parts that are alike or of the same kind.",
+      "nuance": "It suggests consistency throughout, whether describing materials, groups or data. It can sound clinical, so everyday speech often prefers words such as “uniform” or “consistent.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing customer data",
+          "sentence": "The feedback forms a homogeneous group, so we should check whether it represents our wider customer base.",
+          "highlight": "homogeneous",
+          "tip": "Use it when every part of a group or dataset has similar characteristics."
+        },
+        {
+          "setting": "social",
+          "where": "Community event · introducing a new club",
+          "sentence": "Although the members have different jobs, they formed a surprisingly homogeneous group because they all joined for the same reason.",
+          "highlight": "homogeneous",
+          "tip": "It works best when you want to stress similarity rather than individuality."
+        },
+        {
+          "setting": "writing",
+          "where": "Research summary · describing a sample",
+          "sentence": "The researchers excluded the smallest firms to create a more homogeneous sample.",
+          "highlight": "homogeneous",
+          "tip": "This is a precise choice for academic writing about similar people, objects or observations."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek homos, meaning “same,” and genos, meaning “kind” or “origin.” The word combines the sense of “like” with “kind.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "Built from homos, “same,” and genos, “kind” or “origin.”"
+          },
+          {
+            "when": "1800s",
+            "text": "Enters English with the meaning “of the same kind or nature.”"
+          },
+          {
+            "when": "Today",
+            "text": "Widely used in academic, scientific and technical contexts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "homogeneity",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "uniform",
+        "consistent",
+        "similar",
+        "unvarying"
+      ],
+      "opposite": "heterogeneous",
+      "pitfall": "Don’t confuse it with “homogenous,” which is sometimes used informally but is not the standard spelling."
+    },
+    {
+      "id": "ilk",
+      "kind": "word",
+      "term": "ilk",
+      "pos": "noun",
+      "phonetic": "/ɪlk/",
+      "sayIt": "ILK",
+      "register": "Common in writing",
+      "meaning": "A particular kind or sort of person or thing, especially one being disapproved of.",
+      "nuance": "It is nearly always used in the phrase “of that ilk.” The tone is often dismissive, and the expression can sound slightly old-fashioned.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Hiring review · assessing candidates",
+          "sentence": "Our last two hires were exactly that ilk, so we changed the interview process.",
+          "highlight": "ilk",
+          "tip": "Use it to describe a recurring type of person, usually with disapproval."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · avoiding certain guests",
+          "sentence": "I’d rather avoid that ilk than spend another evening hearing about their boats.",
+          "highlight": "ilk",
+          "tip": "It can sound sharp or snobbish, so choose it carefully in conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · criticising public figures",
+          "sentence": "The editorial condemns media figures of that ilk without naming any of them.",
+          "highlight": "ilk",
+          "tip": "The fixed phrase “of that ilk” fits formal commentary and opinion writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Old English ilca, meaning “of the same kind.” The modern sense developed through the expression “of that ilk.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "Ilca meant “same” or “of the same kind.”"
+          },
+          {
+            "when": "Middle English",
+            "text": "The word became established in expressions identifying a kind or class."
+          },
+          {
+            "when": "Today",
+            "text": "It survives mainly in the phrase “of that ilk.”"
+          }
+        ]
+      },
+      "similar": [
+        "kind",
+        "sort",
+        "type"
+      ],
+      "pitfall": "“Ilk” is not simply a polite synonym for “type”; it often carries criticism or dislike."
+    },
+    {
+      "id": "indigenous",
+      "kind": "word",
+      "term": "indigenous",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈdɪdʒənəs/",
+      "sayIt": "in-DID-juh-nus",
+      "register": "Common in academic, legal and public contexts",
+      "meaning": "Originating naturally or traditionally in a particular place or community.",
+      "nuance": "It describes people, languages, plants or practices whose origins are connected to a place. It is often used in discussion of colonial history, cultural rights and environmental knowledge.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Community project · planning a workshop",
+          "sentence": "We worked with local artists to include indigenous knowledge in the design.",
+          "highlight": "indigenous",
+          "tip": "Use it when discussing knowledge or practices that come from a place’s original communities."
+        },
+        {
+          "setting": "social",
+          "where": "Community event · introducing a speaker",
+          "sentence": "The event celebrates the traditions and contributions of indigenous peoples across the region.",
+          "highlight": "indigenous",
+          "tip": "Capitalize Indigenous when referring to peoples as distinct political and cultural communities."
+        },
+        {
+          "setting": "writing",
+          "where": "History essay · discussing language loss",
+          "sentence": "The museum is helping preserve indigenous languages through community-led recording projects.",
+          "highlight": "indigenous",
+          "tip": "It often appears before languages, communities, lands, knowledge or peoples."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin indigenus, meaning ‘born within’ or ‘native to a place’, and originally referring to someone born within a particular country rather than an outsider.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Indigenus develops from elements meaning ‘within’ and ‘born’, giving the sense of being native to a place."
+          },
+          {
+            "when": "Middle English",
+            "text": "Forms related to indigene appear in English with meanings connected to native origin."
+          },
+          {
+            "when": "Today",
+            "text": "Widely describes peoples, cultures, languages and knowledge originating in a particular place."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "indigene",
+          "label": "noun (person)"
+        },
+        {
+          "term": "indigenity",
+          "label": "noun"
+        },
+        {
+          "term": "indigenize",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "native",
+        "local",
+        "original",
+        "traditional"
+      ],
+      "opposite": "introduced",
+      "pitfall": "Indigenous does not automatically mean unchanged, ancient or opposed to new ideas; it identifies a place of origin."
+    },
+    {
+      "id": "indigent",
+      "kind": "word",
+      "term": "indigent",
+      "pos": "adjective",
+      "phonetic": "/ˈɪndɪdʒənt/",
+      "sayIt": "IN-di-jent",
+      "register": "Formal",
+      "meaning": "Lacking the money or resources needed for basic needs.",
+      "nuance": "A formal and often legal way to describe someone who is poor or in serious financial need. In everyday conversation, “needy” or “low-income” may sound more natural.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Nonprofit clinic · referring patients",
+          "sentence": "The clinic refers indigent patients to local charities for food, housing and utility support.",
+          "highlight": "indigent",
+          "tip": "Common in legal, medical and charitable contexts where financial need is being assessed."
+        },
+        {
+          "setting": "social",
+          "where": "Community fundraiser · offering help",
+          "sentence": "The fundraiser raised enough to help several indigent families stay in their homes.",
+          "highlight": "indigent",
+          "tip": "Use it when describing people unable to meet essential needs; “needy” is more conversational."
+        },
+        {
+          "setting": "writing",
+          "where": "Legal aid application · explaining eligibility",
+          "sentence": "Applicants who are indigent may qualify for free representation and court fees.",
+          "highlight": "indigent",
+          "tip": "It sounds especially suitable for formal documents and legal guidance."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin indigens, meaning “needy” or “lacking resources,” based on indigere, “to lack or be in need of.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Indigens develops from indigere, combining a prefix meaning “not” with a word meaning “drive out or need.”"
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in formal legal and religious writing."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly formal, especially in law, medicine and charitable work."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "indigence",
+          "label": "noun"
+        },
+        {
+          "term": "indigently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "needy",
+        "destitute",
+        "impecunious",
+        "underprivileged",
+        "low-income"
+      ],
+      "opposite": "affluent",
+      "pitfall": "Because it is formal and can sound blunt, use “indigent” mainly when financial need is relevant or when discussing legal eligibility."
+    },
+    {
+      "id": "knell",
+      "kind": "word",
+      "term": "knell",
+      "pos": "noun",
+      "phonetic": "/nɛl/",
+      "sayIt": "NEL",
+      "register": "Formal and literary",
+      "meaning": "A deep, solemn sound, especially the ringing of a bell for mourning, a death, or an important event.",
+      "nuance": "A knell carries a heavy, sombre feeling and is often used figuratively for a warning or the end of something. It sounds more dramatic and traditional than the everyday word bell.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company announcement · closing a difficult project",
+          "sentence": "The final knell of the project sounded as the team completed its last handover and moved on.",
+          "highlight": "knell",
+          "tip": "Use it when describing a solemn ending or the final sign that something is finishing."
+        },
+        {
+          "setting": "social",
+          "where": "Memorial gathering · remembering someone",
+          "sentence": "A single bell sent a knell across the quiet square as everyone lowered their heads.",
+          "highlight": "knell",
+          "tip": "It adds a formal, mournful atmosphere to a scene involving death or remembrance."
+        },
+        {
+          "setting": "writing",
+          "where": "Reflection · a major change ending",
+          "sentence": "With the closing of the old factory, a faint knell seemed to signal the end of an era in the town.",
+          "highlight": "knell",
+          "tip": "Use it figuratively for an ominous development or the end of an important period."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Old English cnel, meaning a bell or the sound of a bell. It developed into a solemn sound associated with funerals and important announcements.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The ancestor of the word appears as cnel, referring to a bell or its sound."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word developed the spelling knell and became associated especially with the solemn ringing of funeral bells."
+          },
+          {
+            "when": "Today",
+            "text": "It is used mainly in formal or literary contexts, often for mourning or a sense of ending."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "knell",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "toll",
+        "chime",
+        "peal",
+        "funeral bell"
+      ],
+      "opposite": "silence",
+      "pitfall": "Remember the double l: knell. It is usually a solemn literary word, not the ordinary word for any sound a bell makes."
+    },
+    {
+      "id": "largess",
+      "kind": "word",
+      "term": "largess",
+      "pos": "noun",
+      "phonetic": "/ˈlɑːrdʒəs/",
+      "sayIt": "LAR-juss",
+      "register": "Formal",
+      "meaning": "Generosity shown by giving money, gifts or other valuable things to others.",
+      "nuance": "It suggests generosity that is especially noticeable because it is generous, sometimes implying that the giver expects thanks or recognition.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team announcement · thanking a departing colleague",
+          "sentence": "Her largess in sharing her expertise helped the whole team succeed.",
+          "highlight": "largess",
+          "tip": "Use it for unusually generous or valuable support, not ordinary politeness."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception · toasting the newlyweds",
+          "sentence": "The couple toasted their guests, whose largess had made the celebration possible.",
+          "highlight": "largess",
+          "tip": "It sounds especially appropriate when describing a gift or contribution that benefits many people."
+        },
+        {
+          "setting": "writing",
+          "where": "Charity report · recognizing major donors",
+          "sentence": "The report praised the largess of donors who provided funding for the recovery program.",
+          "highlight": "largess",
+          "tip": "This is a formal alternative to generosity in ceremonial or appreciative writing."
+        }
+      ],
+      "origin": {
+        "summary": "From French largesse, originally meaning bounty or generosity, which came from Latin largitia, a sense linked to largus, ‘broad’ or ‘generous’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "largitia develops as a word for bounty, abundance or generosity."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English through Old French largesse."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal word for generous giving and can carry a slightly admiring or deferential tone."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "largesse",
+          "label": "noun (variant spelling)"
+        }
+      ],
+      "similar": [
+        "generosity",
+        "bounty",
+        "munificence",
+        "liberality"
+      ],
+      "opposite": "stinginess",
+      "pitfall": "Because it has a formal, almost old-fashioned tone, largess may sound exaggerated when used for everyday kindness or a small gift."
+    },
+    {
+      "id": "materialism",
+      "kind": "word",
+      "term": "materialism",
+      "pos": "noun",
+      "phonetic": "/məˈtɪəriəlɪzəm/",
+      "sayIt": "muh-TEER-ee-uh-liz-um",
+      "register": "Common in debate and criticism",
+      "meaning": "Materialism is the habit of valuing possessions, wealth, and physical comfort more highly than other priorities.",
+      "nuance": "In everyday criticism, it suggests that money and things have become too important. In philosophy, it means the view that only physical matter exists.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget review · setting priorities",
+          "sentence": "The new bonus structure reflects a form of materialism, rewarding status purchases rather than long-term teamwork.",
+          "highlight": "materialism",
+          "tip": "This use is critical, so explain what the organisation treats as more valuable."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · discussing values",
+          "sentence": "When every conversation turns to property and salaries, the dinner starts to feel like an exercise in materialism.",
+          "highlight": "materialism",
+          "tip": "Use it when describing a strong focus on wealth and possessions."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · wealth and wellbeing",
+          "sentence": "The article criticises consumerism and materialism, arguing that constant upgrades leave people feeling less satisfied.",
+          "highlight": "materialism",
+          "tip": "It works well in serious criticism of money, status and consumption."
+        }
+      ],
+      "origin": {
+        "summary": "The English word comes through French matérialisme from Latin materialis, meaning ‘consisting of matter’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin materia means ‘matter or material’, while materialis means ‘of or consisting of matter’."
+          },
+          {
+            "when": "1600s",
+            "text": "English begins using materialism in philosophical writing through French matérialisme and Latin materialis."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly means devotion to possessions and wealth, while philosophy retains the doctrine that only matter exists."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "materialist",
+          "label": "noun (person)"
+        },
+        {
+          "term": "materialistic",
+          "label": "adjective"
+        },
+        {
+          "term": "materially",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "consumerism",
+        "commercialism",
+        "hedonism",
+        "greed"
+      ],
+      "opposite": "idealism",
+      "pitfall": "Materialism does not necessarily mean owning a lot; it means placing material wealth or physical existence above other values."
+    },
+    {
+      "id": "milieu",
+      "kind": "word",
+      "term": "milieu",
+      "pos": "noun",
+      "phonetic": "/miːˈjjuː/",
+      "sayIt": "mee-JOO",
+      "register": "Formal",
+      "meaning": "The particular social, cultural or professional environment in which something exists or happens.",
+      "nuance": "It focuses on the surrounding conditions that shape people, work or creative work. It is common in cultural criticism and formal discussion.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · shaping company culture",
+          "sentence": "The creative team thrives in a milieu where experimentation is welcomed and feedback stays constructive.",
+          "highlight": "milieu",
+          "tip": "Use it for a broader environment rather than a single physical place."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · discussing shared interests",
+          "sentence": "She grew up in a multilingual milieu, surrounded by different traditions and ways of thinking.",
+          "highlight": "milieu",
+          "tip": "It works well when describing the cultural atmosphere around a person or group."
+        },
+        {
+          "setting": "writing",
+          "where": "Film review · placing a story in context",
+          "sentence": "The film captures the restless urban milieu of young adults in the early 1990s.",
+          "highlight": "milieu",
+          "tip": "A useful choice in reviews, history and cultural writing."
+        }
+      ],
+      "origin": {
+        "summary": "Borrowed from French milieu, meaning ‘middle’ or ‘surrounding environment’. Its roots go back to Latin medius, ‘middle’, but its modern sense developed through French usage.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Medius, meaning ‘middle’, provides the central idea."
+          },
+          {
+            "when": "French",
+            "text": "Milieu develops the sense of an environment or surrounding conditions."
+          },
+          {
+            "when": "19th century",
+            "text": "The word enters English, especially in cultural and social contexts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "milieus",
+          "label": "plural noun"
+        }
+      ],
+      "similar": [
+        "setting",
+        "context",
+        "environment",
+        "surroundings",
+        "backdrop"
+      ],
+      "pitfall": "It usually means a wider social or cultural environment, not simply the place where something physically sits."
+    },
+    {
+      "id": "miscreant",
+      "kind": "word",
+      "term": "miscreant",
+      "pos": "noun",
+      "phonetic": "/ˈmɪskriənt/",
+      "sayIt": "MIS-kree-uhnt",
+      "register": "Formal and literary; often insulting",
+      "meaning": "A person who is wicked, dishonest or thoroughly contemptible.",
+      "nuance": "The word carries strong disapproval and can sound old-fashioned or theatrical. It is more often found in formal writing, crime stories and heated arguments than in everyday conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Internal investigation · suspected fraud",
+          "sentence": "The investigator described the accountant as a miscreant who had falsified several invoices.",
+          "highlight": "miscreant",
+          "tip": "Use it for deliberate, serious wrongdoing rather than an ordinary disagreement."
+        },
+        {
+          "setting": "social",
+          "where": "Argument with a neighbour · repeated harassment",
+          "sentence": "That miscreant has made our lives miserable since he moved in next door.",
+          "highlight": "miscreant",
+          "tip": "It is emphatic and insulting, so choose it only when you want to show strong contempt."
+        },
+        {
+          "setting": "writing",
+          "where": "Crime novel · describing the antagonist",
+          "sentence": "From the first chapter, the corrupt broker is presented as a miscreant with no loyalty except to money.",
+          "highlight": "miscreant",
+          "tip": "The slightly old-fashioned tone suits period settings and dramatic prose."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French mescreant, originally meaning ‘unbelieving’ or ‘wicked’, with elements meaning ‘wrong’ and ‘believing’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old French",
+            "text": "Mescreant develops from elements meaning ‘wrong’ and ‘believing’, initially describing someone who did not believe rightly."
+          },
+          {
+            "when": "Late Middle English",
+            "text": "The word enters English with religious meanings such as ‘infidel’ or ‘unbeliever’."
+          },
+          {
+            "when": "1500s onward",
+            "text": "Its main sense shifts toward a wicked, dishonest or contemptible person."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly formal, literary and deliberately derogatory."
+          }
+        ]
+      },
+      "similar": [
+        "scoundrel",
+        "rogue",
+        "villain",
+        "blackguard",
+        "reprobate"
+      ],
+      "opposite": "respectable person",
+      "pitfall": "Don’t use it as a mild word for someone merely difficult or annoying; it implies serious moral condemnation."
+    },
+    {
+      "id": "nepotism",
+      "kind": "word",
+      "term": "nepotism",
+      "pos": "noun",
+      "phonetic": "/nɪˈpɑːtɪzəm/",
+      "sayIt": "ne-POT-iz-um",
+      "register": "Common in work and society",
+      "meaning": "The practice of giving jobs, benefits, or advantages to relatives, especially because of family connections.",
+      "nuance": "It is usually criticism, suggesting that someone is rewarded for being related rather than for their ability or experience. The word can also refer neutrally to the practice of employing relatives.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Hiring discussion · choosing a candidate",
+          "sentence": "There were accusations of nepotism after the director hired his brother for a senior role.",
+          "highlight": "nepotism",
+          "tip": "Use it when family connections unfairly influence a hiring or promotion decision."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · discussing a business",
+          "sentence": "Their success led some relatives to accuse the family business of nepotism.",
+          "highlight": "nepotism",
+          "tip": "It is natural in conversations about powerful families and unfair advantages."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · describing a government appointment",
+          "sentence": "The article criticised the appointment as an example of nepotism within the political party.",
+          "highlight": "nepotism",
+          "tip": "A strong word for written criticism of preferential treatment given to relatives."
+        }
+      ],
+      "origin": {
+        "summary": "From Italian nipotismo, meaning nepotism, from Latin nepos, ‘nephew’ or ‘descendant’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Nepos meant ‘nephew’ or ‘descendant’, referring to a family relationship."
+          },
+          {
+            "when": "Italian",
+            "text": "Nipotismo developed to mean the granting of favours to relatives."
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered English, initially referring to the employment of relatives in church or government positions."
+          },
+          {
+            "when": "Today",
+            "text": "It broadly means favouring relatives in jobs, appointments, contracts, or other advantages."
+          }
+        ]
+      },
+      "similar": [
+        "favouritism",
+        "cronyism",
+        "patronage",
+        "family privilege"
+      ],
+      "opposite": "meritocracy",
+      "pitfall": "Nepotism specifically involves relatives, while favouritism can involve friends, allies, or other favoured people too."
+    },
+    {
+      "id": "nomadic",
+      "kind": "word",
+      "term": "nomadic",
+      "pos": "adjective",
+      "phonetic": "/noʊˈmædɪk/",
+      "sayIt": "no-MAD-ik",
+      "register": "Common at work",
+      "meaning": "Relating to people who move from place to place rather than settling permanently in one location.",
+      "nuance": "It can describe a way of life, a community, or a temporary working pattern. It may sound romantic, practical, or slightly unstable depending on the context.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · flexible working",
+          "sentence": "Our nomadic team works from different cities and meets online whenever time zones make that difficult.",
+          "highlight": "nomadic",
+          "tip": "Useful for teams that operate remotely without having one permanent base."
+        },
+        {
+          "setting": "social",
+          "where": "Festival conversation · travel plans",
+          "sentence": "They travel every few months, so their nomadic life suits them better than staying in one city.",
+          "highlight": "nomadic",
+          "tip": "It sounds more positive than unstable when someone freely chooses to move."
+        },
+        {
+          "setting": "writing",
+          "where": "Profile introduction · community history",
+          "sentence": "The article explores the region’s nomadic communities and the traditions passed between generations.",
+          "highlight": "nomadic",
+          "tip": "Often describes a traditional way of life rather than ordinary travel."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through French from Greek nomas, meaning a person who moves from place to place while tending animals.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Nomas referred to a wandering pastoralist, from a word connected with assigning or distributing places for grazing."
+          },
+          {
+            "when": "Late 1500s",
+            "text": "The English word nomad appears, borrowed from French nomade."
+          },
+          {
+            "when": "Early 1600s",
+            "text": "The adjective nomadic begins to be used in English."
+          },
+          {
+            "when": "Today",
+            "text": "It describes both traditional travelling communities and modern remote or mobile lifestyles."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "nomad",
+          "label": "noun (person)"
+        },
+        {
+          "term": "nomadism",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "itinerant",
+        "wandering",
+        "migratory",
+        "roving"
+      ],
+      "opposite": "sedentary",
+      "pitfall": "Nomadic usually describes a lifestyle or way of life; it is not simply a polite word for someone who likes holidays."
+    },
+    {
+      "id": "nonentity",
+      "kind": "word",
+      "term": "nonentity",
+      "pos": "noun",
+      "phonetic": "/ˌnɒnˈɛntəti/",
+      "sayIt": "non-EN-tuh-tee",
+      "register": "Formal",
+      "meaning": "A person or thing with little importance, influence, or power.",
+      "nuance": "It can sound dismissive, especially when used about someone who is being ignored or treated as unimportant.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · challenging a decision",
+          "sentence": "The proposal was dismissed as a nonentity, even though it addressed a real problem.",
+          "highlight": "nonentity",
+          "tip": "Use it in formal criticism when an idea is treated as irrelevant."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · introducing someone",
+          "sentence": "He tried to join the conversation, but the host treated him like a nonentity.",
+          "highlight": "nonentity",
+          "tip": "This use can be insulting because it reduces someone to insignificance."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · assessing a performer",
+          "sentence": "Despite the praise, she was still treated as a nonentity within the industry.",
+          "highlight": "nonentity",
+          "tip": "It gives formal weight to the idea that someone is being overlooked or undervalued."
+        }
+      ],
+      "origin": {
+        "summary": "Formed in English from the prefix non-, meaning ‘not’, and entity, meaning ‘something that exists’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "The word nonentity appears in English, combining non- with entity."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "Its use broadens to describe people or things regarded as insignificant."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal and often dismissive word."
+          }
+        ]
+      },
+      "similar": [
+        "nobody",
+        "insignificance",
+        "triviality",
+        "nonstarter"
+      ],
+      "opposite": "notable figure",
+      "pitfall": "Do not confuse it with nonexistent, which means something that does not exist."
+    },
+    {
+      "id": "nurture",
+      "kind": "word",
+      "term": "nurture",
+      "pos": "verb",
+      "phonetic": "/ˈnɜːrtʃər/",
+      "sayIt": "NUR-cher",
+      "register": "Common at work and in everyday life",
+      "meaning": "To help someone or something grow by providing care, support and encouragement over time.",
+      "nuance": "It suggests active, patient support rather than simply supplying what someone needs. It can be used for people, skills, ideas, plants and relationships.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · developing new staff",
+          "sentence": "Experienced colleagues nurture new employees by sharing knowledge and giving them room to make mistakes.",
+          "highlight": "nurture",
+          "tip": "Use it when you want to emphasize long-term support and development."
+        },
+        {
+          "setting": "social",
+          "where": "Family dinner · encouraging a child",
+          "sentence": "We nurture children best when we listen with patience and help them feel safe enough to try new things.",
+          "highlight": "nurture",
+          "tip": "It sounds warm and caring, but it can also describe a wider approach to raising or supporting someone."
+        },
+        {
+          "setting": "writing",
+          "where": "Newsletter · discussing a community program",
+          "sentence": "The program aims to nurture local talent by providing mentoring, equipment and space for creative work.",
+          "highlight": "nurture",
+          "tip": "It works well before ideas, talent, relationships or communities when the focus is helping them develop."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through Old French from Latin nutritura, connected with nutrir, meaning to feed or nourish. Its sense has broadened from feeding to caring for and encouraging growth.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root means to feed, nourish or bring up."
+          },
+          {
+            "when": "Old French",
+            "text": "Nurture appears in the sense of upbringing or care given to a child."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English with meanings connected with nourishment, upbringing and care."
+          },
+          {
+            "when": "Today",
+            "text": "It is used broadly for encouraging the growth of people, ideas, skills and relationships."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "nurture",
+          "label": "noun"
+        },
+        {
+          "term": "nurturing",
+          "label": "adjective"
+        },
+        {
+          "term": "nurturer",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "foster",
+        "support",
+        "encourage",
+        "cultivate",
+        "develop"
+      ],
+      "opposite": "neglect",
+      "pitfall": "Use it for growth that takes time; it does not simply mean providing a quick fix."
+    },
+    {
+      "id": "pandemonium",
+      "kind": "word",
+      "term": "pandemonium",
+      "pos": "noun",
+      "phonetic": "/pæn.dəˈməʊ.ni.əm/",
+      "sayIt": "pan-duh-MOH-nee-um",
+      "register": "Dramatic; common in writing",
+      "meaning": "Wild, noisy, and chaotic activity involving confusion or excitement.",
+      "nuance": "It makes a scene sound intense, disorderly, and hard to control. It is especially effective in reports and storytelling, but can feel exaggerated in casual conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch event · a major system failure",
+          "sentence": "The payment error caused pandemonium in support as customers struggled to complete their orders.",
+          "highlight": "pandemonium",
+          "tip": "Use it for loud, disorderly situations with many people reacting at once."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · a surprise announcement",
+          "sentence": "Pandemonium broke out when the twins announced they had bought the old pub.",
+          "highlight": "Pandemonium",
+          "tip": "Capitalise it at the start of a sentence; elsewhere, lowercase is normal."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · city-centre disruption",
+          "sentence": "Heavy rain brought parts of the city to a standstill, with pandemonium around the main transport stations.",
+          "highlight": "pandemonium",
+          "tip": "It adds drama, but clear details about the chaos will make the description stronger."
+        }
+      ],
+      "origin": {
+        "summary": "The word was created by John Milton from Greek words meaning “all demons.” He used it to describe the realm of Hell in Paradise Lost, and it later developed its modern sense of wild chaos.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "Built from pan-, meaning “all,” and daimon, meaning “spirit” or “demon.”"
+          },
+          {
+            "when": "1667",
+            "text": "John Milton coins pandemonium as the name of Hell’s capital in Paradise Lost."
+          },
+          {
+            "when": "1700s onward",
+            "text": "The meaning broadens to describe any scene of violent or chaotic uproar."
+          }
+        ]
+      },
+      "similar": [
+        "uproar",
+        "chaos",
+        "turmoil",
+        "mayhem"
+      ],
+      "opposite": "calm",
+      "pitfall": "It describes noisy, chaotic disorder, not merely an ordinary difficult situation."
+    },
+    {
+      "id": "patriarch",
+      "kind": "word",
+      "term": "patriarch",
+      "pos": "noun",
+      "phonetic": "/ˈpeɪtriɑːrk/",
+      "sayIt": "PAY-tree-ARK",
+      "register": "Formal",
+      "meaning": "A man regarded as the founder, head, or highest authority of a family, organisation, or tradition.",
+      "nuance": "The word can sound respectful when describing a founding figure, but it may also imply an old-fashioned view of male authority.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company anniversary · recalling the founder",
+          "sentence": "As the company's first CEO, he became the patriarch of the business.",
+          "highlight": "patriarch",
+          "tip": "Use it for a founding or long-standing male leader rather than simply any senior employee."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · introducing an elder",
+          "sentence": "At Sunday lunch, my grandfather was the patriarch of the whole family.",
+          "highlight": "patriarch",
+          "tip": "It is more formal than saying family head and often suggests a traditional family structure."
+        },
+        {
+          "setting": "writing",
+          "where": "Historical analysis · describing family authority",
+          "sentence": "The novel presents him as the patriarch of a traditional household.",
+          "highlight": "patriarch",
+          "tip": "Useful in historical or literary writing when discussing male family authority."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek, combining a word for father with one for ruler; it entered English through Latin and Old French.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "Built from patriā, ‘father’, and arkhos, ‘ruler’, describing a father who holds authority."
+          },
+          {
+            "when": "Ancient Roman period",
+            "text": "Latin patriarchus was used for senior family members and important religious leaders."
+          },
+          {
+            "when": "Medieval period",
+            "text": "The word entered English through Old French as patriarche."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "patriarchy",
+          "label": "noun"
+        },
+        {
+          "term": "patriarchal",
+          "label": "adjective"
+        },
+        {
+          "term": "patriarchate",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "founding father",
+        "family head",
+        "matriarch"
+      ],
+      "opposite": "matriarch",
+      "pitfall": "Do not confuse it with patriot, which means someone loyal to their country. Patriarch also usually refers specifically to a man."
+    },
+    {
+      "id": "pedagogue",
+      "kind": "word",
+      "term": "pedagogue",
+      "pos": "noun",
+      "phonetic": "/ˈpedəɡɔːɡ/",
+      "sayIt": "PED-uh-gog",
+      "register": "Formal",
+      "meaning": "A teacher or educator, especially someone known for a careful, principled approach to learning.",
+      "nuance": "It sounds more formal than teacher and may suggest someone who specializes in teaching methods. Depending on context, it can also refer to a strict or theory-focused educator.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Staff development · improving training",
+          "sentence": "Our lead pedagogue designed a workshop that helps new managers give clearer feedback.",
+          "highlight": "pedagogue",
+          "tip": "Use it for an educator whose role involves teaching methods or guiding professional learning."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · discussing a teacher",
+          "sentence": "My old tutor was a brilliant pedagogue who never let anyone feel foolish for asking a question.",
+          "highlight": "pedagogue",
+          "tip": "It adds a formal, slightly old-fashioned tone to a description of a teacher."
+        },
+        {
+          "setting": "writing",
+          "where": "School report · reviewing a teaching approach",
+          "sentence": "The programme’s author is a respected pedagogue with extensive experience in adult education.",
+          "highlight": "pedagogue",
+          "tip": "It suits formal writing about education, teaching methods or educational leadership."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek paidagogos, made from pais, meaning child or youth, and agogos, meaning leader or guide. The word originally described someone who guided children’s learning.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Paidagogos combines pais, meaning child, with agogos, meaning leader or guide."
+          },
+          {
+            "when": "Late medieval period",
+            "text": "The word reaches English through Latin and French in the sense of a teacher or guide."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means an educator, often with an emphasis on teaching method or educational theory."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "pedagogy",
+          "label": "noun"
+        },
+        {
+          "term": "pedagogical",
+          "label": "adjective"
+        },
+        {
+          "term": "pedagogically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "educator",
+        "teacher",
+        "tutor",
+        "instructor"
+      ],
+      "opposite": "",
+      "pitfall": "It can sound formal, old-fashioned or overly academic; use teacher or educator in most everyday situations."
+    },
+    {
+      "id": "permeate",
+      "kind": "word",
+      "term": "permeate",
+      "pos": "verb",
+      "phonetic": "/ˈpɜːrmieɪt/",
+      "sayIt": "PUR-mee-AYT",
+      "register": "Common at work and in writing",
+      "meaning": "To spread throughout a material, place, group or set of ideas.",
+      "nuance": "The word suggests a gradual, often complete spread. It can describe physical movement, but it is also commonly used for attitudes, cultures and influences.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · company culture",
+          "sentence": "A culture of helpfulness should permeate every team, not just the one that started it.",
+          "highlight": "permeate",
+          "tip": "Use it when an influence or principle should be present everywhere."
+        },
+        {
+          "setting": "social",
+          "where": "Community event · introducing a tradition",
+          "sentence": "The joy of volunteering has permeated our neighbourhood since the first food drive.",
+          "highlight": "permeated",
+          "tip": "This form often describes an attitude or feeling that has spread through a community."
+        },
+        {
+          "setting": "writing",
+          "where": "Article introduction · describing social influence",
+          "sentence": "Concern about screen time now permeates conversations at school and around the dinner table.",
+          "highlight": "permeates",
+          "tip": "It adds weight to the idea that an issue affects society broadly."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin permeare, meaning ‘to pass through’, formed from per, ‘through’, and meare, ‘to go’. The literal idea of passing through became the modern sense of spreading throughout.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Permeare combines the elements for ‘through’ and ‘go’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with the sense of passing through or spreading throughout."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for physical substances as well as ideas, attitudes and cultural influences."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "permeation",
+          "label": "noun"
+        },
+        {
+          "term": "permeable",
+          "label": "adjective"
+        },
+        {
+          "term": "impermeable",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "pervade",
+        "diffuse",
+        "spread",
+        "saturate"
+      ],
+      "opposite": "exclude",
+      "pitfall": "Permeate describes something spreading through a material or environment; penetrate usually means to pass into or pierce a specific surface."
+    },
+    {
+      "id": "placard",
+      "kind": "word",
+      "term": "placard",
+      "pos": "noun",
+      "phonetic": "/ˈplækɑːrd/",
+      "sayIt": "PLAK-ard",
+      "register": "Everyday",
+      "meaning": "A piece of paper, card, or board with information or a message written on it for people to notice.",
+      "nuance": "Often used for signs posted in public places, such as warnings, event notices, or messages held during demonstrations.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office entrance · posting a notice",
+          "sentence": "The placard beside the reception desk explains where the afternoon session is taking place.",
+          "highlight": "placard",
+          "tip": "Use it for a notice that is physically displayed, especially in a public area."
+        },
+        {
+          "setting": "social",
+          "where": "Community protest · holding a message",
+          "sentence": "She made a bright placard that said, “We want safer streets for everyone.”",
+          "highlight": "placard",
+          "tip": "This is especially useful for a large sign carried at a public event or demonstration."
+        },
+        {
+          "setting": "writing",
+          "where": "Event email · directing guests",
+          "sentence": "We have placed a placard near the entrance directing guests to the main hall.",
+          "highlight": "placard",
+          "tip": "It sounds slightly more formal than poster or sign and suits official information."
+        }
+      ],
+      "origin": {
+        "summary": "Borrowed from French placard, a public notice or sign, which developed from the idea of attaching or displaying something.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Medieval French",
+            "text": "Placard referred to a public notice or a sign attached to a wall."
+          },
+          {
+            "when": "1500s",
+            "text": "The word began appearing in English as a notice posted for public attention."
+          },
+          {
+            "when": "Today",
+            "text": "It means a sign or board carrying information, instructions, or a message."
+          }
+        ]
+      },
+      "similar": [
+        "poster",
+        "sign",
+        "bill",
+        "notice"
+      ],
+      "pitfall": "A placard is usually portable or attached to a surface; a plaque is often a permanent metal plate or decorative inscription."
+    },
+    {
+      "id": "plight",
+      "kind": "word",
+      "term": "plight",
+      "pos": "noun",
+      "phonetic": "/plaɪt/",
+      "sayIt": "PLAYT",
+      "register": "Formal",
+      "meaning": "A difficult or unfortunate situation that causes someone serious trouble.",
+      "nuance": "It often suggests hardship that has continued for some time. The word sounds serious and concerned rather than mildly negative.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reporting a setback",
+          "sentence": "Several small suppliers are in a serious plight because of delayed payments.",
+          "highlight": "plight",
+          "tip": "Use it for a troubling situation, especially one affecting people or organisations."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · explaining a difficult situation",
+          "sentence": "My car is in quite a plight, and the nearest garage is miles away.",
+          "highlight": "plight",
+          "tip": "Often appears after phrases such as “in a sorry plight” or “in a dire plight”."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · describing hardship",
+          "sentence": "The report outlines the plight of families affected by the sudden closure of the factory.",
+          "highlight": "plight",
+          "tip": "A useful formal word in reports, essays and news writing about hardship."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Old English and originally referred to care, anxiety or trouble; its sense of an unfortunate condition developed later.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The ancestor of plight appears in early English with meanings including care, sorrow and difficulty."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word develops toward its modern sense of a bad or distressing situation."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal writing to describe serious hardship."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "plight",
+          "label": "verb (rare, archaic)"
+        }
+      ],
+      "similar": [
+        "predicament",
+        "dilemma",
+        "distress",
+        "hardship"
+      ],
+      "opposite": "prosperity",
+      "pitfall": "Do not confuse it with “plait,” which means a braided arrangement of hair or material."
+    }
+  ]
+}

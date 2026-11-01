@@ -1,0 +1,1184 @@
+{
+  "id": "phrases-asking-offering",
+  "kind": "phrase",
+  "name": "Asking & offering",
+  "blurb": "20 phrases about asking & offering",
+  "cards": [
+    {
+      "id": "beg-borrow-or-steal",
+      "kind": "phrase",
+      "term": "beg, borrow, or steal",
+      "pos": "idiom",
+      "hint": "get it however you can",
+      "register": "Informal",
+      "meaning": "To obtain something by any means, including unconventional or desperate ones.",
+      "nuance": "This is usually humorous and suggests you are willing to do whatever it takes to get what you need. It does not literally mean theft, though it may imply that you are considering a questionable option.",
+      "literal": "Asking someone for something, borrowing it, or taking it without permission.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office crisis · missing supplies",
+          "sentence": "If the printer is out of toner, I’ll beg, borrow, or steal a spare cartridge.",
+          "highlight": "beg, borrow, or steal",
+          "tip": "Use it lightly when you are genuinely willing to improvise."
+        },
+        {
+          "setting": "social",
+          "where": "Party planning · no chairs",
+          "sentence": "We can beg, borrow, or steal some folding chairs, but let’s check the hall first.",
+          "highlight": "beg, borrow, or steal",
+          "tip": "It adds humor while presenting three increasingly unconventional options."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal project update",
+          "sentence": "We can beg, borrow, or steal a last-minute sponsor, but let’s exhaust the normal options first.",
+          "highlight": "beg, borrow, or steal",
+          "tip": "Keep it in an informal message; it is too playful for formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "The exact source is unclear, but the wording is older than its current humorous use. It presents three increasingly desperate ways of getting something.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The idea developed from a traditional proverb about obtaining something by any available means."
+          },
+          {
+            "when": "19th century",
+            "text": "The familiar three-part expression appeared in print, combining asking, borrowing and taking."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a humorous warning or admission that you will improvise to get what you need."
+          }
+        ]
+      },
+      "similar": [
+        "make do",
+        "scrounge",
+        "do whatever it takes"
+      ],
+      "opposite": "wait patiently",
+      "pitfall": "Do not use it in a formal or sensitive context; people may hear the reference to stealing literally."
+    },
+    {
+      "id": "can-i-buy-you-a-drink",
+      "kind": "phrase",
+      "term": "can I buy you a drink",
+      "pos": "phrase",
+      "hint": "a friendly offer to pay for someone’s drink",
+      "register": "Casual",
+      "meaning": "A friendly offer to buy another person a drink.",
+      "nuance": "It is a warm, informal way to show hospitality, especially when meeting someone or spending time together. The wording implies that the speaker will pay, but it may also open the conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Informal chat after a team event",
+          "sentence": "Thanks for joining us tonight—can I buy you a drink before we head back?",
+          "highlight": "can I buy you a drink",
+          "tip": "Use it in relaxed settings rather than during a formal work meeting."
+        },
+        {
+          "setting": "social",
+          "where": "Meeting a friend at a pub",
+          "sentence": "Welcome! Can I buy you a drink while you choose something from the menu?",
+          "highlight": "Can I buy you a drink",
+          "tip": "Keep it casual and wait for the other person to accept."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to arrange a catch-up",
+          "sentence": "It’s been ages—can I buy you a drink on Thursday evening?",
+          "highlight": "can I buy you a drink",
+          "tip": "Include a day and time so the invitation is easy to answer."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the long social custom of offering to buy a drink for someone as a sign of welcome and hospitality.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Buying drinks for other people became a common social gesture in pubs and similar gathering places."
+          },
+          {
+            "when": "1900s",
+            "text": "The wording “buy you a drink” was established in everyday English as a friendly invitation."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a casual way to welcome someone, make conversation or offer hospitality."
+          }
+        ]
+      },
+      "similar": [
+        "let me get you a drink",
+        "would you like a drink?",
+        "it’s my treat"
+      ],
+      "opposite": "I’ll get my own",
+      "pitfall": "Do not use it as a substitute for checking whether someone drinks alcohol; offer other options too."
+    },
+    {
+      "id": "do-me-a-favour",
+      "kind": "phrase",
+      "term": "do me a favour",
+      "pos": "phrase",
+      "hint": "ask someone to help you",
+      "register": "Everyday",
+      "meaning": "Ask someone politely to do something for you.",
+      "nuance": "Friendly and direct, but it may imply that you will return the help later. In a formal workplace, “could you help me?” often sounds more neutral.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague request · covering a task",
+          "sentence": "Would you do me a favour and cover the client call while I’m at the other meeting?",
+          "highlight": "do me a favour",
+          "tip": "Keep it light when you already know the person well."
+        },
+        {
+          "setting": "social",
+          "where": "Asking a friend · picking up a parcel",
+          "sentence": "Could you do me a favour and collect my parcel from the post office?",
+          "highlight": "do me a favour",
+          "tip": "Use it for a reasonable request between people who know each other."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a friend · arranging a favour",
+          "sentence": "Would you do me a favour and let me borrow your car this weekend?",
+          "highlight": "do me a favour",
+          "tip": "A question mark makes the request sound polite rather than demanding."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines the long-established word “favour,” meaning help or kindness, with “do” in the sense of providing something. Its exact first appearance is uncertain, so its development is best treated as likely rather than fully documented.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Favour” developed from words for kindness and support through Old French and Latin."
+          },
+          {
+            "when": "1500s–1700s",
+            "text": "English speakers used “favour” for a helpful act or a request for help."
+          },
+          {
+            "when": "1800s onward",
+            "text": "The wording “do someone a favour” became established in everyday speech."
+          }
+        ]
+      },
+      "similar": [
+        "could you do me a favour?",
+        "lend me a hand",
+        "give me a hand",
+        "could you help me?"
+      ],
+      "opposite": "do me no favours",
+      "pitfall": "With a stranger or manager, the phrase can feel familiar or as though you expect something in return; use “could you help me?” instead."
+    },
+    {
+      "id": "down-on-ones-knees",
+      "kind": "phrase",
+      "term": "down on one's knees",
+      "pos": "idiom",
+      "hint": "an extremely desperate plea",
+      "register": "Dramatic; common in informal speech and writing",
+      "meaning": "Begging someone very earnestly, as if you would kneel to convince them.",
+      "nuance": "This is strongly emotional and suggests desperation, deep gratitude, or a major personal crisis. It is often playful or exaggerated, but can be sincere when the stakes are serious.",
+      "literal": "Kneeling on the ground in a pleading or worshipful posture.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Urgent request for help",
+          "sentence": "I was down on my knees begging the finance team to release the budget before Friday.",
+          "highlight": "down on my knees",
+          "tip": "Use it to emphasize desperation, usually when the request is unusually important."
+        },
+        {
+          "setting": "social",
+          "where": "Playful apology to a friend",
+          "sentence": "She was down on my knees begging me to forgive her for forgetting my birthday.",
+          "highlight": "down on my knees",
+          "tip": "It adds humor and drama to an apology, but may feel too light for a serious offense."
+        },
+        {
+          "setting": "writing",
+          "where": "Personal email seeking support",
+          "sentence": "I went down on my knees and asked for an extension, explaining that a family emergency had disrupted my work.",
+          "highlight": "down on my knees",
+          "tip": "Save it for genuinely emotional situations; in routine emails, “begged” may sound more natural."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from the physical image of kneeling before someone in submission, prayer, devotion or pleading. Writers began using kneeling as a metaphor for desperate requests well before modern English.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Kneeling developed as a conventional image of prayer, submission, reverence and supplication."
+          },
+          {
+            "when": "1600s",
+            "text": "English writers began describing people figuratively as being on their knees when pleading or overwhelmed."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase remains a dramatic way to describe an intense plea or appeal."
+          }
+        ]
+      },
+      "similar": [
+        "begging",
+        "pleading",
+        "imploring",
+        "on your knees"
+      ],
+      "opposite": "remaining unmoved",
+      "pitfall": "It can sound melodramatic or sarcastic, so use it when the desperation is real or clearly playful."
+    },
+    {
+      "id": "have-it-your-way",
+      "kind": "phrase",
+      "term": "have it your way",
+      "pos": "phrase",
+      "hint": "do it your preferred way",
+      "register": "Casual",
+      "meaning": "To arrange or do something in the way you prefer.",
+      "nuance": "Playful and self-directed, often echoing Burger King’s advertising slogan. It can sound smug or dismissive when used during a disagreement, so make sure you are genuinely willing to accommodate the preference.",
+      "literal": "Doing or arranging something according to your own preference.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team communication · choosing a format",
+          "sentence": "If the team prefers a written recap to a meeting, have it your way.",
+          "highlight": "have it your way",
+          "tip": "Use it lightly when you are offering genuine flexibility, not to end a discussion."
+        },
+        {
+          "setting": "social",
+          "where": "Café order · choosing a size",
+          "sentence": "The café says you can choose the size, so have it your way.",
+          "highlight": "have it your way",
+          "tip": "Its advertising-style tone works best in relaxed situations."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · offering delivery options",
+          "sentence": "I can attach the document or paste it into the email—have it your way.",
+          "highlight": "have it your way",
+          "tip": "Keep the tone friendly so it does not sound impatient or dismissive."
+        }
+      ],
+      "origin": {
+        "summary": "The wording predates its famous advertising use. Burger King introduced “Have it your way” as a slogan in 1974, making it a widely recognised expression of personal choice.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Similar wording was already in use before the advertising campaign."
+          },
+          {
+            "when": "1974",
+            "text": "Burger King introduced “Have it your way” as a slogan."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar phrase for making or accepting a personal choice."
+          }
+        ]
+      },
+      "similar": [
+        "your call",
+        "whatever you prefer",
+        "the choice is yours"
+      ],
+      "opposite": "leave it to me",
+      "pitfall": "Saying “have it your way” does not mean that other people’s needs or preferences no longer matter."
+    },
+    {
+      "id": "here-you-go",
+      "kind": "phrase",
+      "term": "here you go",
+      "pos": "phrase",
+      "hint": "something is being handed or passed to you",
+      "register": "Everyday",
+      "meaning": "Something offered to someone, often while handing it over.",
+      "nuance": "Friendly, direct and service-oriented; common in shops, offices and casual conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office · passing a document",
+          "sentence": "Here you go, the signed copy you asked for.",
+          "highlight": "Here you go",
+          "tip": "Use it when you’re giving someone something they’ve been waiting for."
+        },
+        {
+          "setting": "social",
+          "where": "Café · receiving a drink",
+          "sentence": "Here you go, your latte with an extra shot.",
+          "highlight": "Here you go",
+          "tip": "It sounds more natural and personal than simply saying “Your latte.”"
+        },
+        {
+          "setting": "writing",
+          "where": "Email · sending an attachment",
+          "sentence": "Here you go — I’ve attached the latest version of the report.",
+          "highlight": "Here you go",
+          "tip": "In email, pair it with the attachment or a brief explanation of what you’re sending."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is uncertain, but the phrase developed from older expressions used when presenting or handing something to another person.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Similar wording appeared in speech when people offered or handed over an item."
+          },
+          {
+            "when": "1900s",
+            "text": "The expression became established in everyday English."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common way to offer something while passing it to someone."
+          }
+        ]
+      },
+      "similar": [
+        "here it is",
+        "here you are",
+        "here’s yours"
+      ],
+      "pitfall": "In formal writing, “Please find the report attached” is clearer; “here you go” is more conversational."
+    },
+    {
+      "id": "i-tell-you-what",
+      "kind": "phrase",
+      "term": "I tell you what",
+      "pos": "phrase",
+      "hint": "let me suggest something",
+      "register": "Casual",
+      "meaning": "An informal way to introduce a thought, opinion or suggestion, often with a sense of conviction.",
+      "nuance": "It sounds direct, friendly and slightly emphatic. It works best in relaxed conversation and may seem old-fashioned or overly familiar in formal writing.",
+      "literal": "A speaker tells the listener what they think or suggest.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Informal team chat · proposing a shortcut",
+          "sentence": "I tell you what, we could combine these two tasks and finish an hour earlier.",
+          "highlight": "I tell you what",
+          "tip": "It introduces a proposal; follow it with a clear suggestion."
+        },
+        {
+          "setting": "social",
+          "where": "Plans with friends · changing the plan",
+          "sentence": "I tell you what, let’s meet at the café instead of staying in all evening.",
+          "highlight": "I tell you what",
+          "tip": "Use it when you want to sound confident without sounding forceful."
+        },
+        {
+          "setting": "writing",
+          "where": "Casual email · making a suggestion",
+          "sentence": "I tell you what, sending the draft now would give us more time to revise it.",
+          "highlight": "I tell you what",
+          "tip": "In email, “Here’s what I suggest” is usually clearer and more professional."
+        }
+      ],
+      "origin": {
+        "summary": "It grew out of the older emphatic expression “I tell you,” meaning “listen carefully” or “believe me.” Over time, “what” turned it into a conversational lead-in to an opinion or proposal.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“I tell you” is used to stress that the listener should pay attention or believe the speaker."
+          },
+          {
+            "when": "19th century",
+            "text": "The expanded form “I tell you what” develops as an informal way to introduce what the speaker thinks or proposes."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in relaxed British and Irish English, though many speakers consider it informal or old-fashioned."
+          }
+        ]
+      },
+      "similar": [
+        "let me tell you",
+        "here’s what I think",
+        "mark my words"
+      ],
+      "pitfall": "Avoid using it in a formal presentation or a first email to someone you do not know; it can sound overly familiar."
+    },
+    {
+      "id": "if-i-were-you",
+      "kind": "phrase",
+      "term": "if I were you",
+      "pos": "phrase",
+      "hint": "advice based on my judgment",
+      "register": "Everyday",
+      "meaning": "Used to give advice by imagining yourself in someone else’s position.",
+      "nuance": "It can sound direct, thoughtful or slightly presumptuous, depending on your relationship and how you say it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Career advice · guiding a colleague",
+          "sentence": "If I were you, I’d ask your manager for feedback before changing the project plan.",
+          "highlight": "If I were you",
+          "tip": "Pair it with a reason so the advice feels supportive rather than controlling."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing a restaurant · advising a friend",
+          "sentence": "If I were you, I’d order the vegetable dish because the menu says it’s the house specialty.",
+          "highlight": "If I were you",
+          "tip": "Use a warmer tone with close friends to avoid sounding overbearing."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal email · sharing advice",
+          "sentence": "If I were you, I’d keep both options open until you hear back from the client.",
+          "highlight": "If I were you",
+          "tip": "It works best in an informal email; formal messages may need a gentler opening."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from an English conditional construction that imagines the listener in another person’s situation. Its exact first appearance is difficult to pin down, but the grammatical pattern is established.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Older English",
+            "text": "English develops conditional forms such as “were” for making hypothetical statements."
+          },
+          {
+            "when": "Early Modern English",
+            "text": "Writers begin using the second-person pattern “if I were you” to frame personal advice."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase remains a common way to offer advice, though it can sound blunt in some contexts."
+          }
+        ]
+      },
+      "similar": [
+        "in your place",
+        "if it were up to me",
+        "you might want to"
+      ],
+      "pitfall": "Avoid using it when the person has not asked for advice or when a more respectful phrasing would fit the situation."
+    },
+    {
+      "id": "no-cure-no-pay",
+      "kind": "phrase",
+      "term": "no cure, no pay",
+      "pos": "phrase",
+      "hint": "payment only if treatment works",
+      "register": "Common at work",
+      "meaning": "An arrangement in which someone is not required to pay unless the treatment or service produces the promised result.",
+      "nuance": "It is most often used in healthcare and service agreements, where “cure” means the intended outcome. The exact conditions matter, so it should not be treated as a blanket guarantee of results.",
+      "literal": "The patient pays the practitioner only if the patient is cured.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Healthcare policy · discussing payment terms",
+          "sentence": "The clinic follows a no cure, no pay policy for the treatment, but patients should check the eligibility rules.",
+          "highlight": "no cure, no pay",
+          "tip": "Use it when explaining a service-based payment arrangement, not as a casual promise."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · comparing clinic policies",
+          "sentence": "My neighbour said her clinic offered no cure, no pay, although she still checked the small print first.",
+          "highlight": "no cure, no pay",
+          "tip": "It works naturally when discussing healthcare choices with friends or family."
+        },
+        {
+          "setting": "writing",
+          "where": "Service email · stating payment terms",
+          "sentence": "Our policy is no cure, no pay for eligible treatments, with the terms and limits explained in the agreement.",
+          "highlight": "no cure, no pay",
+          "tip": "Follow it with clear conditions so readers know when payment is due."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely developed from medical payment promises in which treatment was linked to a successful outcome. Its exact first use is uncertain, but it was especially prominent in American healthcare advertising by the early 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Probably grew from the idea that payment for treatment should depend on whether the treatment worked."
+          },
+          {
+            "when": "Early 20th century",
+            "text": "Became widely associated with medical and chiropractic services in the United States."
+          },
+          {
+            "when": "Today",
+            "text": "Still appears in healthcare policies, promotional claims and contracts for result-based services."
+          }
+        ]
+      },
+      "similar": [
+        "no win, no fee",
+        "pay for results",
+        "money-back guarantee"
+      ],
+      "opposite": "payment required regardless of the outcome",
+      "pitfall": "Do not assume it means a full refund of every expense; the agreement may define “cure,” exclude certain treatments or require proof of success."
+    },
+    {
+      "id": "no-need",
+      "kind": "phrase",
+      "term": "no need",
+      "pos": "phrase",
+      "hint": "you do not have to do something",
+      "register": "Everyday",
+      "meaning": "There is no need to do something because it is unnecessary or not required.",
+      "nuance": "It can be a polite way of declining an offer or telling someone that they do not have to do something. Depending on the tone, it may also suggest that an action is pointless.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague offers extra help",
+          "sentence": "There’s no need to stay late; the report is already finished.",
+          "highlight": "no need",
+          "tip": "Use it to release someone from an obligation without making the exchange awkward."
+        },
+        {
+          "setting": "social",
+          "where": "Friend offers another drink",
+          "sentence": "No need, thanks—I’m trying to keep things simple tonight.",
+          "highlight": "No need",
+          "tip": "A simple “No need, thanks” is a relaxed way to decline."
+        },
+        {
+          "setting": "writing",
+          "where": "Declining a meeting request",
+          "sentence": "There’s no need for us to arrange a separate call; I’ll send my comments by email.",
+          "highlight": "no need",
+          "tip": "Pair it with a practical alternative so the reader knows what will happen next."
+        }
+      ],
+      "origin": {
+        "summary": "A simple English phrase built from “no” and “need.” Its modern use developed from older expressions such as “there is no need,” with the broader sense of “not necessary” emerging over time.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The phrase appeared in English in forms such as “there is no need,” meaning that something is not required."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression became established in ordinary speech as a concise way to say “it is unnecessary.”"
+          },
+          {
+            "when": "Today",
+            "text": "It is common in everyday conversation, informal messages and workplace communication."
+          }
+        ]
+      },
+      "similar": [
+        "not necessary",
+        "unnecessary",
+        "you don't have to"
+      ],
+      "opposite": "essential",
+      "pitfall": "“No need” can sound blunt in formal or sensitive contexts; soften it with “you don’t really have to” when you want to be tactful."
+    },
+    {
+      "id": "no-pressure",
+      "kind": "phrase",
+      "term": "no pressure",
+      "pos": "phrase",
+      "hint": "reassurance that there’s no expectation",
+      "register": "Common at work and in everyday conversation",
+      "meaning": "Used to reassure someone that they do not have to do something or meet an expectation.",
+      "nuance": "It can sound friendly and relaxed, especially when offering someone time to decide. In some contexts, it may also mean “I’m not forcing you, but I expect you to act.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Offering a colleague extra help",
+          "sentence": "There’s no pressure to finish this today; I can take it on tomorrow.",
+          "highlight": "no pressure",
+          "tip": "Use it to give someone breathing room, but make your support clear."
+        },
+        {
+          "setting": "social",
+          "where": "Inviting a friend to join an activity",
+          "sentence": "There’s no pressure to come along, but we’d love to have you there.",
+          "highlight": "no pressure",
+          "tip": "It sounds welcoming without making the invitation feel demanding."
+        },
+        {
+          "setting": "writing",
+          "where": "Email about an unfinished task",
+          "sentence": "No pressure if you can’t review it today; let me know when you have time.",
+          "highlight": "No pressure",
+          "tip": "Follow it with a clear deadline or next step if one applies."
+        }
+      ],
+      "origin": {
+        "summary": "Likely grew from the ordinary idea that pressure is force or obligation, then became a casual way of saying that no one is being pushed to act.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The words “no pressure” literally referred to a lack of applied force."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression developed a social meaning: offering someone freedom from expectation."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in friendly workplace, social, and digital communication."
+          }
+        ]
+      },
+      "similar": [
+        "take your time",
+        "no rush",
+        "whenever you can",
+        "at your convenience"
+      ],
+      "opposite": "under pressure",
+      "pitfall": "Sometimes “no pressure” can sound passive or imply that you expect the other person to act anyway; state the deadline if it matters."
+    },
+    {
+      "id": "no-string-attached",
+      "kind": "phrase",
+      "term": "no strings attached",
+      "pos": "idiom",
+      "hint": "free of hidden conditions or obligations",
+      "register": "Common at work and in everyday conversation",
+      "meaning": "Without conditions, obligations or other complications attached.",
+      "nuance": "It sounds friendly and direct, often presenting an offer as simple and risk-free. In contracts or negotiations, spell out what “no strings attached” means because informal language may leave important details unclear.",
+      "literal": "A marionette has strings attached to its limbs; removing them leaves the puppet free to move independently.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Internal referral · discussing a role",
+          "sentence": "The finance team is happy to recommend you for the role, no strings attached.",
+          "highlight": "no strings attached",
+          "tip": "Use it when an offer or recommendation carries no obligation."
+        },
+        {
+          "setting": "social",
+          "where": "Friends offering help · weekend plans",
+          "sentence": "We can borrow your car on Saturday, no strings attached.",
+          "highlight": "no strings attached",
+          "tip": "It can sound warm, though a specific return date is still worth mentioning."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal email · making an offer",
+          "sentence": "I’m happy to share the template with you, no strings attached.",
+          "highlight": "no strings attached",
+          "tip": "Keep it informal; legal or commercial offers need precise terms."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the strings used to control puppets or marionettes. Its figurative use in the early 20th century described an offer or arrangement that did not tie the recipient to another person or condition.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Literal image: strings attach a puppet to the hand or control mechanism that moves it."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "The figurative expression appears in writing for an offer or arrangement without conditions."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely used to emphasize that there are no hidden obligations or expectations."
+          }
+        ]
+      },
+      "similar": [
+        "without conditions",
+        "with no obligations",
+        "free of charge",
+        "nothing expected in return"
+      ],
+      "opposite": "with conditions attached",
+      "pitfall": "Do not assume the other person accepts every term; state clearly what is free of conditions and what, if anything, is expected in return."
+    },
+    {
+      "id": "no-strings-attached",
+      "kind": "phrase",
+      "term": "no strings attached",
+      "pos": "phrase",
+      "hint": "free of hidden conditions",
+      "register": "Common at work",
+      "meaning": "Without extra conditions, obligations, or complications.",
+      "nuance": "It suggests a clear offer that requires nothing beyond what is stated. It can sound enthusiastic, but informal and promotional wording may need the full terms spelled out.",
+      "literal": "A gift or deal tied with no string that would hold it back.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Approving a freelance proposal",
+          "sentence": "We can offer the contract with no strings attached, as long as the final work meets our agreed brief.",
+          "highlight": "no strings attached",
+          "tip": "Use it for a genuinely uncomplicated offer, not to hide important conditions."
+        },
+        {
+          "setting": "social",
+          "where": "Inviting a friend to dinner",
+          "sentence": "Come over tonight—no strings attached, and there’s no need to bring anything.",
+          "highlight": "no strings attached",
+          "tip": "It works well for a warm invitation because it removes pressure to reciprocate."
+        },
+        {
+          "setting": "writing",
+          "where": "Promotional email",
+          "sentence": "Try the new service for 30 days with no strings attached.",
+          "highlight": "no strings attached",
+          "tip": "Follow it with any eligibility, renewal, or cancellation details."
+        }
+      ],
+      "origin": {
+        "summary": "The expression likely grew from the idea that a gift or agreement might have strings or conditions attached to it. Its modern meaning became established in the 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The word “strings” was used for conditions, limits, or obligations attached to an offer."
+          },
+          {
+            "when": "20th century",
+            "text": "“No strings attached” became a familiar way to describe an offer without extra requirements."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in work, advertising, and casual invitations."
+          }
+        ]
+      },
+      "similar": [
+        "unconditionally",
+        "without obligation",
+        "free of complications"
+      ],
+      "opposite": "with conditions attached",
+      "pitfall": "Make sure there truly are no hidden obligations; otherwise, the phrase may sound misleading."
+    },
+    {
+      "id": "now-what",
+      "kind": "phrase",
+      "term": "now what",
+      "pos": "phrase",
+      "hint": "asking what happens next",
+      "register": "Everyday",
+      "meaning": "A question asked when a situation is unclear, unfinished, or has reached a decision point.",
+      "nuance": "It often shows uncertainty, frustration, or a need for direction. In a relaxed conversation, it can simply invite someone to suggest the next step.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project meeting · after a delay",
+          "sentence": "The client postponed the review again, so now what are we supposed to do?",
+          "highlight": "now what",
+          "tip": "Use it to prompt discussion, but offer a specific option if you can."
+        },
+        {
+          "setting": "social",
+          "where": "Plans fall through · deciding next steps",
+          "sentence": "The restaurant is closed and it’s getting late, so now what?",
+          "highlight": "now what",
+          "tip": "It works well with friends when you want a quick, informal decision."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · flagging a blocker",
+          "sentence": "I’ve attached the revised proposal, but now what happens if the budget is not approved?",
+          "highlight": "now what",
+          "tip": "Pair it with a clear question so the reader knows what you need."
+        }
+      ],
+      "origin": {
+        "summary": "This combines the time marker “now” with the question word “what” to ask about what comes next. Its conversational use is well established, but the precise moment it first appeared is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used “now” and “what” together in questions about the present moment and next steps."
+          },
+          {
+            "when": "20th century",
+            "text": "The shortened form became established in informal spoken English."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common phrase for checking direction or asking how to proceed."
+          }
+        ]
+      },
+      "similar": [
+        "what next",
+        "what happens now",
+        "where do we go from here"
+      ],
+      "opposite": "all set",
+      "pitfall": "In formal writing, “now what” may sound abrupt; name the unresolved issue and ask a more specific question."
+    },
+    {
+      "id": "opportunity-knocks",
+      "kind": "phrase",
+      "term": "opportunity knocks",
+      "pos": "phrase",
+      "hint": "a chance appears",
+      "register": "Common",
+      "meaning": "A chance to do something useful or beneficial becomes available.",
+      "nuance": "It suggests that a useful opening has arrived and may need to be noticed and acted on. It is often used when a job offer, invitation or new contact creates a possible path forward.",
+      "literal": "A knock at the door is a sign that someone may have an opportunity for you.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Internal role listing · spotting an opening",
+          "sentence": "The product team just posted an opening, so opportunity knocks if you want to switch.",
+          "highlight": "opportunity knocks",
+          "tip": "Use it when discussing a chance with someone; it may sound slightly playful."
+        },
+        {
+          "setting": "social",
+          "where": "Event invitation · accepting a chance",
+          "sentence": "Your cousin’s party is on Saturday, and opportunity knocks—it could be a good way to meet new people.",
+          "highlight": "opportunity knocks",
+          "tip": "It works well for an invitation that might be worth accepting."
+        },
+        {
+          "setting": "writing",
+          "where": "Mentorship email · encouraging action",
+          "sentence": "I’m offering my time because opportunity knocks rarely when we wait for perfect timing.",
+          "highlight": "opportunity knocks",
+          "tip": "Use it to encourage someone to seize a chance, especially when acting quickly matters."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from the older idea that opportunity is like a visitor who knocks at the door. The wording became familiar through the proverb “Opportunity knocks but once.”",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The image of opportunity arriving at a door appeared in old English sayings and proverbs."
+          },
+          {
+            "when": "1600s",
+            "text": "The saying “Opportunity knocks but once” helped establish the knocking metaphor."
+          },
+          {
+            "when": "Today",
+            "text": "The shortened phrase remains common when a promising chance appears."
+          }
+        ]
+      },
+      "similar": [
+        "a window of opportunity",
+        "a chance arises",
+        "the door opens"
+      ],
+      "opposite": "the chance has passed",
+      "pitfall": "“Opportunity knocks” does not mean every offer is good; consider whether the chance actually suits your goals."
+    },
+    {
+      "id": "say-again",
+      "kind": "phrase",
+      "term": "say again",
+      "pos": "phrase",
+      "hint": "ask someone to repeat what they said",
+      "register": "Everyday",
+      "meaning": "To ask someone to repeat what they have just said.",
+      "nuance": "It is a direct request and can sound abrupt, especially without a clear tone. In conversation, “Can you say again?” usually sounds friendlier.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Phone call · clarifying an instruction",
+          "sentence": "Sorry, the line went fuzzy—could you say again?",
+          "highlight": "say again",
+          "tip": "Add “sorry” or name the problem when you need clarification."
+        },
+        {
+          "setting": "social",
+          "where": "Busy café · missing an answer",
+          "sentence": "Your answer got buried in the noise; please say again.",
+          "highlight": "say again",
+          "tip": "A brief explanation makes the request sound less demanding."
+        },
+        {
+          "setting": "writing",
+          "where": "Message · requesting clarification",
+          "sentence": "I may have misread your last comment—could you say again?",
+          "highlight": "say again",
+          "tip": "Use it when you genuinely need more detail, but consider suggesting a clearer reply."
+        }
+      ],
+      "origin": {
+        "summary": "This is a plain combination of “say” and “again,” so its development as a fixed phrase is probably gradual rather than traceable to one event.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The separate words would naturally form a request to repeat something."
+          },
+          {
+            "when": "1800s",
+            "text": "Print and everyday dialogue use similar wording for asking someone to speak again."
+          },
+          {
+            "when": "Today",
+            "text": "The short form remains common, though fuller questions often sound more polite."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "repeat",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "come again",
+        "say what?",
+        "could you repeat that?"
+      ],
+      "pitfall": "A bare “Say again?” can sound impatient; soften it with “Could you,” “Would you mind,” or a brief apology."
+    },
+    {
+      "id": "whats-the-deal",
+      "kind": "phrase",
+      "term": "what's the deal",
+      "pos": "phrase",
+      "hint": "asking what is happening",
+      "register": "Casual",
+      "meaning": "Used to ask for an explanation of what is happening or what someone has arranged.",
+      "nuance": "Informal and direct, often with a slightly impatient or questioning tone. It works best with people you know well; in formal settings, ask for an update or clarification instead.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team check-in · unclear changes",
+          "sentence": "The deadline moved, so what's the deal with the new delivery schedule?",
+          "highlight": "what's the deal",
+          "tip": "Keep it light unless the change has caused a serious problem."
+        },
+        {
+          "setting": "social",
+          "where": "Meeting a friend · missing the plan",
+          "sentence": "You said six o'clock, but nobody's here—so what's the deal?",
+          "highlight": "what's the deal",
+          "tip": "It suits familiar conversations where a blunt question will not cause offence."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a colleague · seeking details",
+          "sentence": "Hi Alex, what's the deal with the invoice? I don't see it in our system.",
+          "highlight": "what's the deal",
+          "tip": "Use it in informal messages; “Could you clarify the status of the invoice?” is more professional."
+        }
+      ],
+      "origin": {
+        "summary": "The expression grew from the older sense of “deal” as an agreement or arrangement, then extended to asking about the general situation.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Deal” commonly meant an agreement, bargain or arrangement."
+          },
+          {
+            "when": "20th century",
+            "text": "The phrase developed into a casual way to ask what arrangement or situation exists."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in informal speech for asking what is happening."
+          }
+        ]
+      },
+      "similar": [
+        "what's going on",
+        "what happened",
+        "what's the story"
+      ],
+      "opposite": "no news",
+      "pitfall": "It can sound impatient or confrontational, so soften it with “I'm curious” or use a more formal question at work."
+    },
+    {
+      "id": "with-an-eye-to",
+      "kind": "phrase",
+      "term": "with an eye to",
+      "pos": "idiom",
+      "hint": "with a purpose in mind",
+      "register": "Formal",
+      "meaning": "With a particular goal or intended result in mind.",
+      "nuance": "It sounds thoughtful and strategic, suggesting that you are considering the likely benefit or purpose of an action. It is common in professional writing and polished conversation.",
+      "literal": "Keeping one eye directed toward a particular target or outcome.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · choosing priorities",
+          "sentence": "We’re hiring a contractor with an eye to reducing delays next year.",
+          "highlight": "with an eye to",
+          "tip": "Pair it with a specific benefit so the purpose is clear."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing a restaurant · planning ahead",
+          "sentence": "Let’s try the new place with an eye to finding somewhere quiet for our next visit.",
+          "highlight": "with an eye to",
+          "tip": "Use it when discussing a possible future advantage."
+        },
+        {
+          "setting": "writing",
+          "where": "Proposal · recommending a next step",
+          "sentence": "The survey includes regional questions with an eye to improving future product planning.",
+          "highlight": "with an eye to",
+          "tip": "It works well in formal reports when explaining why something was included or done."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the literal idea of keeping an eye directed toward something, then developed into a way of expressing purposeful intention.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal sense refers to watching or directing attention toward a particular target."
+          },
+          {
+            "when": "1800s",
+            "text": "Uses expressing a purpose or intended benefit become established in formal English."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in professional and editorial writing, especially when discussing intended results."
+          }
+        ]
+      },
+      "similar": [
+        "with a view to",
+        "with the aim of",
+        "in order to",
+        "for the purpose of"
+      ],
+      "opposite": "without any intention of",
+      "pitfall": "It implies deliberate purpose, so avoid it for actions that happen accidentally or without a clear goal."
+    },
+    {
+      "id": "you-get-that",
+      "kind": "phrase",
+      "term": "You get that",
+      "pos": "phrase",
+      "hint": "do you understand what I mean?",
+      "register": "Casual",
+      "meaning": "A casual way of asking whether someone understands or accepts what you are saying.",
+      "nuance": "Friendly and informal, but sometimes used to check that people are following your reasoning. It can sound impatient or dismissive if the listener has already said they do not understand.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · explaining a decision",
+          "sentence": "You get that the smaller clients need more support during the launch?",
+          "highlight": "You get that",
+          "tip": "Use it after explaining the reason, not as a substitute for explaining it."
+        },
+        {
+          "setting": "social",
+          "where": "Chat with friends · clarifying a plan",
+          "sentence": "You get that we’re meeting earlier because the venue changed?",
+          "highlight": "You get that",
+          "tip": "It works best with a relaxed tone and eye contact."
+        },
+        {
+          "setting": "writing",
+          "where": "Chat message · following up with a colleague",
+          "sentence": "You get that the report needs to be approved before we publish it?",
+          "highlight": "You get that",
+          "tip": "Keep it for casual messages; use clearer wording in formal emails."
+        }
+      ],
+      "origin": {
+        "summary": "This is likely a late-20th-century informal expression built on the idea of “getting” someone’s meaning or point of view.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The verb “get” had long been used informally to mean “understand.”"
+          },
+          {
+            "when": "Late 20th century",
+            "text": "The phrase became common in spoken American English as a quick check of understanding."
+          },
+          {
+            "when": "Today",
+            "text": "It remains widely used in casual workplace, social and digital conversations."
+          }
+        ]
+      },
+      "similar": [
+        "you know what I mean",
+        "catch my drift",
+        "make sure you understand",
+        "if that makes sense"
+      ],
+      "pitfall": "It can sound patronizing when used with someone you know well or after they have already asked for clarification."
+    },
+    {
+      "id": "you-know-what-i-mean",
+      "kind": "phrase",
+      "term": "you know what I mean",
+      "pos": "phrase",
+      "hint": "checking that someone understands",
+      "register": "Casual",
+      "meaning": "Used to check whether your explanation or point has been understood.",
+      "nuance": "It is informal and conversational, so it suits relaxed talks with people you know. In formal settings, ask a direct question instead.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team chat · clarifying a request",
+          "sentence": "I’d like the client to approve the design first, you know what I mean?",
+          "highlight": "you know what I mean",
+          "tip": "Keep this for a relaxed conversation; confirm specific details in a work email."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up · describing a familiar situation",
+          "sentence": "He missed every important meeting, you know what I mean?",
+          "highlight": "you know what I mean",
+          "tip": "It assumes shared context, so explain the situation if it is not obvious."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message · checking understanding",
+          "sentence": "We’ll send the notes to everyone involved, you know what I mean?",
+          "highlight": "you know what I mean",
+          "tip": "It sounds casual and may be unclear in email; name the action you want instead."
+        }
+      ],
+      "origin": {
+        "summary": "This is a modern conversational phrase built from everyday words. Its exact first use is not clearly documented.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used “Do you know what I mean?” to ask whether an idea was understood."
+          },
+          {
+            "when": "Later",
+            "text": "The phrase became more informal when speakers dropped the opening “do.”"
+          },
+          {
+            "when": "Today",
+            "text": "It is common in relaxed speech among people who already share some context."
+          }
+        ]
+      },
+      "similar": [
+        "if you know what I mean",
+        "do you follow",
+        "make sense"
+      ],
+      "opposite": "I don’t follow",
+      "pitfall": "It can sound impatient or assume too much shared understanding, especially with someone you do not know well."
+    }
+  ]
+}

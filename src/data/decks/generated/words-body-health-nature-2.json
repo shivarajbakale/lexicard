@@ -1,0 +1,1718 @@
+{
+  "id": "words-body-health-nature-2",
+  "kind": "word",
+  "name": "Body, health & nature · 2",
+  "blurb": "25 words about body, health & nature",
+  "cards": [
+    {
+      "id": "lush",
+      "kind": "word",
+      "term": "lush",
+      "pos": "adjective",
+      "phonetic": "/lʌʃ/",
+      "sayIt": "LUSH",
+      "register": "Common in descriptive writing",
+      "meaning": "Growing thickly and healthily, or looking rich, soft and visually attractive.",
+      "nuance": "It can describe vivid greenery, luxurious surroundings or appealing sensory detail. It may also carry a slightly critical note when something seems excessively extravagant.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Hotel review · describing the lobby",
+          "sentence": "The lobby is lush with plants, polished wood and soft lighting.",
+          "highlight": "lush",
+          "tip": "Use it to make a place feel rich and visually inviting."
+        },
+        {
+          "setting": "social",
+          "where": "Garden visit · admiring the plants",
+          "sentence": "That corner of the garden has become wonderfully lush this summer.",
+          "highlight": "lush",
+          "tip": "It often suggests vegetation that is thick, green and thriving."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel feature · describing a landscape",
+          "sentence": "Lush forests rise behind the village, while wildflowers cover the hillsides.",
+          "highlight": "Lush",
+          "tip": "A vivid opening word can establish a landscape’s rich, abundant character."
+        }
+      ],
+      "origin": {
+        "summary": "The word probably developed from an Old English term for luxuriant growth, but its exact history is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Old English period",
+            "text": "An ancestor form appears, associated with dense or abundant growth."
+          },
+          {
+            "when": "Late Middle English",
+            "text": "The word begins appearing in English, initially referring chiefly to vegetation."
+          },
+          {
+            "when": "1600s onward",
+            "text": "Its use broadens to describe anything rich, abundant or visually attractive."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "lushly",
+          "label": "adverb"
+        },
+        {
+          "term": "lushness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "verdant",
+        "luxuriant",
+        "rich",
+        "opulent"
+      ],
+      "opposite": "barren",
+      "pitfall": "Don’t use lush only for plants; it can also describe colours, scenery, sound or marketing that feels extravagantly attractive."
+    },
+    {
+      "id": "maim",
+      "kind": "word",
+      "term": "maim",
+      "pos": "verb",
+      "phonetic": "/meɪm/",
+      "sayIt": "MAYM",
+      "register": "Formal and serious",
+      "meaning": "To injure someone so badly that they suffer serious, lasting harm, especially to a limb.",
+      "nuance": "Maim is stronger than “injure” and usually suggests permanent damage or disability. It can also be used figuratively for severe damage to something.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Factory inspection · reviewing safety guards",
+          "sentence": "A jammed press can maim an operator, so the safety guard must never be removed.",
+          "highlight": "maim",
+          "tip": "Use it when describing serious physical harm that a workplace risk could cause."
+        },
+        {
+          "setting": "social",
+          "where": "Cycling campaign · calling for safer roads",
+          "sentence": "The collision could maim the cyclist, which is why the group campaigned for safer lanes.",
+          "highlight": "maim",
+          "tip": "It sounds forceful and solemn, so avoid it when describing a minor accident."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · describing an explosion",
+          "sentence": "The article describes how the blast maimed three residents without naming the officials responsible.",
+          "highlight": "maimed",
+          "tip": "The past participle fits reports of severe injury, but use the specific injuries when they are known."
+        }
+      ],
+      "origin": {
+        "summary": "From Old English maimian, meaning “to injure, disable or mutilate.” Its deeper Germanic origin is uncertain.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The verb maimian referred to serious injury, disability or mutilation."
+          },
+          {
+            "when": "Middle English",
+            "text": "It continued in legal, literary and medical contexts, often describing grievous bodily harm."
+          },
+          {
+            "when": "Today",
+            "text": "It chiefly means to cause serious, lasting harm, especially to a person or body part."
+          }
+        ]
+      },
+      "similar": [
+        "injure",
+        "cripple",
+        "disable",
+        "impair"
+      ],
+      "opposite": "heal",
+      "pitfall": "Don’t use “maim” for an ordinary injury; it is more severe and usually suggests lasting damage."
+    },
+    {
+      "id": "malady",
+      "kind": "word",
+      "term": "malady",
+      "pos": "noun",
+      "phonetic": "/ˈmælədi/",
+      "sayIt": "MAL-uh-dee",
+      "register": "Formal or literary",
+      "meaning": "A disease or illness that disrupts normal health or activity.",
+      "nuance": "This word sounds serious and old-fashioned, so it fits formal or literary writing more than everyday conversation. It can also refer figuratively to a social problem, though that use may sound overly dramatic.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · reporting an outage",
+          "sentence": "The malady affecting our reporting system continued through the morning, delaying several updates.",
+          "highlight": "malady",
+          "tip": "Use it for a persistent or disruptive problem in formal reports, not for a minor illness."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · explaining absence",
+          "sentence": "She sent her apologies, as a lingering malady had kept her away from work.",
+          "highlight": "malady",
+          "tip": "Choose this formal word when a slightly elevated tone suits the conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Newsletter · public-health update",
+          "sentence": "Officials described the malady as widespread but said that most patients were recovering well.",
+          "highlight": "malady",
+          "tip": "It works in serious public-health writing, where disease or illness is usually clearer and more direct."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through Old French from Latin, combining roots associated with illness and doing or suffering.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Develops from roots meaning ‘ill’ and ‘to do’, forming a word for illness or suffering."
+          },
+          {
+            "when": "Old French",
+            "text": "Appears as maladie, an older French term for illness."
+          },
+          {
+            "when": "Middle English",
+            "text": "Enters English in the form malady."
+          },
+          {
+            "when": "Today",
+            "text": "Remains mainly formal or literary, with occasional figurative uses for social problems."
+          }
+        ]
+      },
+      "similar": [
+        "illness",
+        "ailment",
+        "disease",
+        "sickness"
+      ],
+      "opposite": "health",
+      "pitfall": "In everyday conversation, say illness or ailment instead; malady can make a situation sound more dramatic or old-fashioned than intended."
+    },
+    {
+      "id": "malignant",
+      "kind": "word",
+      "term": "malignant",
+      "pos": "adjective",
+      "phonetic": "/məˈlɪɡ.nənt/",
+      "sayIt": "muh-LIG-nuhnt",
+      "register": "Formal; common in medicine",
+      "meaning": "Describing a tumour that can spread or cause serious harm, or something deliberately damaging and hostile.",
+      "nuance": "In medicine, malignant usually means cancerous rather than harmless. Figuratively, it suggests hostility or harmful intent that goes beyond ordinary criticism.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Hospital meeting · reviewing test results",
+          "sentence": "The biopsy confirmed that the growth was malignant, so the oncology team discussed treatment options.",
+          "highlight": "malignant",
+          "tip": "Common in formal medical language when describing a cancerous tumour."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · an argument",
+          "sentence": "Her criticism became malignant when she started attacking everyone rather than addressing the problem.",
+          "highlight": "malignant",
+          "tip": "Use it for severe, deliberately harmful hostility, not ordinary disagreement."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · describing online rumours",
+          "sentence": "The report described the rumours as a malignant influence that weakened trust in local institutions.",
+          "highlight": "malignant",
+          "tip": "The figurative use is formal and often suggests a serious threat to people or society."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin malignus, meaning ‘bad, harmful’, ultimately associated with malus, ‘bad’, and genus, ‘kind’ or ‘origin’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Malignus means ‘bad’ or ‘harmful’ and later comes to describe dangerous disease."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English through French in medical and figurative senses."
+          },
+          {
+            "when": "Today",
+            "text": "It remains standard medical language and is also used formally for seriously harmful hostility."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "malignancy",
+          "label": "noun"
+        },
+        {
+          "term": "malignantly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "harmful",
+        "cancerous",
+        "hostile",
+        "virulent"
+      ],
+      "opposite": "benign",
+      "pitfall": "Do not confuse malignant with malicious: malignant often describes a harmful condition or influence, while malicious more directly means intended to cause harm."
+    },
+    {
+      "id": "malnutrition",
+      "kind": "word",
+      "term": "malnutrition",
+      "pos": "noun",
+      "phonetic": "/ˌmælnjuˈtrɪʃən/",
+      "sayIt": "mal-NOO-TRISH-un",
+      "register": "Common in health and development contexts",
+      "meaning": "A condition caused by not getting enough of the nutrients the body needs to stay healthy and function properly.",
+      "nuance": "It is mainly a health and social concern rather than an everyday complaint about skipping meals or dieting.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Community clinic · reviewing a screening program",
+          "sentence": "The clinic’s screening program identified signs of malnutrition among several older residents.",
+          "highlight": "malnutrition",
+          "tip": "Use it in reports about public health, food access or workplace wellbeing programs."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · discussing a hospital visit",
+          "sentence": "The doctor said months of poor nutrition had left him with severe malnutrition.",
+          "highlight": "malnutrition",
+          "tip": "It sounds clinical and serious, so avoid using it loosely for someone who simply dislikes vegetables."
+        },
+        {
+          "setting": "writing",
+          "where": "Charity report · describing food shortages",
+          "sentence": "The report explains how food shortages have led to childhood malnutrition in remote communities.",
+          "highlight": "malnutrition",
+          "tip": "It fits factual reporting on health, poverty, famine and food supply."
+        }
+      ],
+      "origin": {
+        "summary": "Built from the prefix mal-, meaning bad or deficient, and nutrition, meaning the process of nourishing the body.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Nutrition develops from nutritio, a word meaning ‘nourishment’ or ‘feeding’."
+          },
+          {
+            "when": "Early 1800s",
+            "text": "Malnutrition appears in English as a medical term for inadequate nourishment."
+          },
+          {
+            "when": "Today",
+            "text": "It is used in medicine, public health and reports about food insecurity."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "malnourished",
+          "label": "adjective"
+        },
+        {
+          "term": "malnourishment",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "undernutrition",
+        "starvation",
+        "nutritional deficiency"
+      ],
+      "pitfall": "Do not use it as a polite description of an unbalanced diet; it normally refers to a serious physical condition."
+    },
+    {
+      "id": "masticate",
+      "kind": "word",
+      "term": "masticate",
+      "pos": "verb",
+      "phonetic": "/ˈmæstɪkeɪt/",
+      "sayIt": "MAS-ti-kayt",
+      "register": "Formal",
+      "meaning": "To chew food thoroughly before swallowing it.",
+      "nuance": "The word sounds clinical or technical, but it can also be used humorously when describing someone eating slowly or carefully. In everyday conversation, “chew” is more natural.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Dental guidance · after a procedure",
+          "sentence": "Try to masticate the soft food on the affected side until your dentist says it is safe to chew normally.",
+          "highlight": "masticate",
+          "tip": "Use it in medical or professional guidance when the exact chewing process matters."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner table · joking about slow eating",
+          "sentence": "He took forever to masticate each mouthful, so we ordered the next course before he finished the first.",
+          "highlight": "masticate",
+          "tip": "A playful way to sound more precise than the everyday word “chew.”"
+        },
+        {
+          "setting": "writing",
+          "where": "Nutrition article · explaining mindful eating",
+          "sentence": "Eating slowly gives you time to masticate each bite and notice when you feel full.",
+          "highlight": "masticate",
+          "tip": "It works well in health and nutrition writing, where a formal tone fits."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin masticare, “to chew,” which probably came from Greek mastichein, “to chew.” The word entered English in the early 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "The root mastichein meant “to chew” and referred especially to chewing food."
+          },
+          {
+            "when": "Ancient Rome",
+            "text": "Latin masticare developed the sense “to chew” and was also used in medical writing."
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered English and became common in medical and dental contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It remains formal and is mainly used in health, nutrition and technical writing."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "mastication",
+          "label": "noun"
+        },
+        {
+          "term": "masticator",
+          "label": "noun (device or person)"
+        }
+      ],
+      "similar": [
+        "chew",
+        "gnaw",
+        "crunch",
+        "chomp"
+      ],
+      "opposite": "swallow",
+      "pitfall": "In normal conversation, “masticate” can sound needlessly formal or medical; use “chew” unless the technical tone suits the situation."
+    },
+    {
+      "id": "mastiff",
+      "kind": "word",
+      "term": "mastiff",
+      "pos": "noun",
+      "phonetic": "/ˈmæstɪf/",
+      "sayIt": "MAS-tiff",
+      "register": "Everyday",
+      "meaning": "A large, powerful dog breed known for its strength and calm temperament.",
+      "nuance": "A mastiff is often described as imposing because of its size, but many breeds are gentle and affectionate with their families. The word can also refer more broadly to a large dog.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office discussion · talking about pets",
+          "sentence": "Our neighbor’s mastiff is enormous, but it calmly stays beside him during walks.",
+          "highlight": "mastiff",
+          "tip": "Use it when you want to name a specific large dog breed rather than just say “dog.”"
+        },
+        {
+          "setting": "social",
+          "where": "At the park · seeing a large dog",
+          "sentence": "That mastiff looks intimidating, but it came over to sniff my hand.",
+          "highlight": "mastiff",
+          "tip": "This word can emphasize a dog’s impressive size or build."
+        },
+        {
+          "setting": "writing",
+          "where": "Description of a dog",
+          "sentence": "The mastiff guarded the doorway without showing any aggression.",
+          "highlight": "mastiff",
+          "tip": "Pair it with details such as size, strength, gentleness or protectiveness."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through Old French mastin, meaning a large or powerful dog, ultimately connected with Latin roots referring to a tame or gentle dog.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The word’s roots refer to dogs that were considered tame or manageable."
+          },
+          {
+            "when": "Old French",
+            "text": "Mastin referred to a large, powerful dog."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English in the general sense of a large dog."
+          },
+          {
+            "when": "Today",
+            "text": "Usually identifies a large dog breed, especially the English Mastiff."
+          }
+        ]
+      },
+      "similar": [
+        "bulldog",
+        "mastodon",
+        "large dog"
+      ],
+      "opposite": "small dog",
+      "pitfall": "Don’t confuse mastiff with mastodon, which was an enormous prehistoric elephant-like animal."
+    },
+    {
+      "id": "mortality",
+      "kind": "word",
+      "term": "mortality",
+      "pos": "noun",
+      "phonetic": "/mɔːrˈtæləti/",
+      "sayIt": "mor-TAL-uh-tee",
+      "register": "Formal",
+      "meaning": "The fact that all living things eventually die, or the number of deaths in a particular group or period.",
+      "nuance": "It can refer to death as a universal human condition, as in a discussion of mortality, or to a death rate used in medicine and public health. The tone is often serious, reflective or clinical.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Public-health briefing · reviewing outcomes",
+          "sentence": "The report tracks mortality rates across different age groups and regions.",
+          "highlight": "mortality",
+          "tip": "Use mortality rate when referring specifically to the frequency of deaths."
+        },
+        {
+          "setting": "social",
+          "where": "Late-night conversation · reflecting on life",
+          "sentence": "A conversation about mortality can be unsettling, but it may also make us appreciate our time more.",
+          "highlight": "mortality",
+          "tip": "This use sounds thoughtful and philosophical rather than clinical."
+        },
+        {
+          "setting": "writing",
+          "where": "Essay about ageing · discussing human limits",
+          "sentence": "The novel explores mortality through the gradual decline of an ageing father.",
+          "highlight": "mortality",
+          "tip": "A useful word for thoughtful essays about death, ageing and the limits of human life."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin mors, meaning ‘death’, with roots in the same word that gave English mortal and immortal.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Mors means ‘death’, while mortalis means ‘subject to death’ or ‘mortal’."
+          },
+          {
+            "when": "Later Middle English",
+            "text": "Mortality enters English, initially meaning the condition of being subject to death."
+          },
+          {
+            "when": "1600s onward",
+            "text": "The meaning broadens to include the frequency or rate of deaths, especially in medical and statistical contexts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "mortal",
+          "label": "adjective"
+        },
+        {
+          "term": "mortally",
+          "label": "adverb"
+        },
+        {
+          "term": "immortal",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "death",
+        "fatality",
+        "morbidity",
+        "mortality rate"
+      ],
+      "opposite": "immortality",
+      "pitfall": "Mortality can mean either the fact of eventual death or a death rate; use mortality rate when you mean the number of deaths in a population."
+    },
+    {
+      "id": "nutritive",
+      "kind": "word",
+      "term": "nutritive",
+      "pos": "adjective",
+      "phonetic": "/ˈnjuːtrətɪv/",
+      "sayIt": "NOO-truh-tiv",
+      "register": "Formal",
+      "meaning": "Providing nourishment or essential nutrients to the body.",
+      "nuance": "More formal and technical than “nourishing,” especially in food science, health and agriculture. It describes food’s nutritional value without necessarily claiming that it is healthy in every respect.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product review · assessing a snack",
+          "sentence": "The new bar has high nutritive value, but its label should also make the sugar content clear.",
+          "highlight": "nutritive",
+          "tip": "Use it in product analysis when discussing what a food provides to the body."
+        },
+        {
+          "setting": "social",
+          "where": "Lunch with friends · discussing a meal",
+          "sentence": "That bean stew is inexpensive, filling and nutritive, so it is a good choice for a busy afternoon.",
+          "highlight": "nutritive",
+          "tip": "It sounds more technical than “healthy” in a casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Nutrition guide · describing a food",
+          "sentence": "The guide explains the nutritive value of whole grains and describes how each grain supports the body.",
+          "highlight": "nutritive",
+          "tip": "The phrase “nutritive value” is especially common in formal or educational writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin nutritivus, meaning “nourishing” or “providing nourishment,” which was based on nutrire, “to feed or sustain.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "Nutritivus develops from nutrire, meaning “to feed, nourish or sustain.”"
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in medical and food-related contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal discussions of nutrition, food and agriculture."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "nutrition",
+          "label": "noun"
+        },
+        {
+          "term": "nutritious",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "nourishing",
+        "nutritious",
+        "sustaining"
+      ],
+      "opposite": "non-nutritive",
+      "pitfall": "“Nutritive” does not automatically mean healthy or balanced; it simply describes a food as providing nourishment."
+    },
+    {
+      "id": "omnivorous",
+      "kind": "word",
+      "term": "omnivorous",
+      "pos": "adjective",
+      "phonetic": "/ɒmˈnɪvərəs/",
+      "sayIt": "om-NIV-uh-rus",
+      "register": "Formal",
+      "meaning": "Eating both plants and animals, or eating a wide variety of foods.",
+      "nuance": "It can also describe someone who is interested in many different subjects or activities. It sounds more technical than “eats everything,” but is often used playfully in modern English.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team lunch · choosing a venue",
+          "sentence": "The new restaurant is omnivorous, so it has options for vegetarians, meat eaters and people who want to try something different.",
+          "highlight": "omnivorous",
+          "tip": "Use it to show that a place or event offers a broad choice of food."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · hobbies",
+          "sentence": "She is famously omnivorous in her interests, moving from history to cooking to urban planning.",
+          "highlight": "omnivorous",
+          "tip": "In social conversation, it can suggest someone enjoys a wide range of interests."
+        },
+        {
+          "setting": "writing",
+          "where": "Article · describing a species",
+          "sentence": "The raccoon is an omnivorous mammal, so its diet can include fruit, insects, fish and small animals.",
+          "highlight": "omnivorous",
+          "tip": "This is the standard term for describing an animal that eats both plants and animals."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin omnivorus, meaning ‘all-eating’, built from omnis, ‘all’, and vorare, ‘to devour’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Omnivorus combines ‘all’ with ‘to devour’ and originally described eating everything."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in scientific writing about diet."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for animals and people, and figuratively for broad interests."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "omnivore",
+          "label": "noun"
+        },
+        {
+          "term": "omnivorously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "herbivorous",
+        "carnivorous",
+        "eclectic",
+        "versatile"
+      ],
+      "opposite": "obligate carnivore",
+      "pitfall": "Don’t use it for someone who eats only meat or only plants; those animals are carnivorous or herbivorous."
+    },
+    {
+      "id": "palliate",
+      "kind": "word",
+      "term": "palliate",
+      "pos": "verb",
+      "phonetic": "/ˈpælieɪt/",
+      "sayIt": "PAL-ee-ayt",
+      "register": "Formal",
+      "meaning": "To make suffering or a serious problem less severe, usually without removing its underlying cause.",
+      "nuance": "Often used in medicine, public policy and discussion of difficult situations. It suggests reducing harm or discomfort rather than solving the problem completely.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · managing workload",
+          "sentence": "Extra support may palliate the pressure, but it will not fix the unrealistic deadlines.",
+          "highlight": "palliate",
+          "tip": "Useful when describing a measure that reduces harm but does not resolve the root cause."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · supporting a friend",
+          "sentence": "A quiet weekend together might palliate her anxiety, although it may not solve what is troubling her.",
+          "highlight": "palliate",
+          "tip": "Shows that you understand the difference between reducing discomfort and curing a problem."
+        },
+        {
+          "setting": "writing",
+          "where": "Medical note · symptom management",
+          "sentence": "The medication helps palliate the pain while further tests investigate its cause.",
+          "highlight": "palliate",
+          "tip": "Common in formal medical writing; the object is typically pain, symptoms or suffering."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin palliare, meaning ‘to cloak or cover’, which developed into the idea of concealing something unpleasant or easing its effects.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "Palliare means ‘to cloak’ or ‘cover’, from palla, a cloak or mantle."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in the sense of covering or concealing something unpleasant."
+          },
+          {
+            "when": "1600s onward",
+            "text": "It develops the meaning of easing suffering or making a difficult condition less severe."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "palliation",
+          "label": "noun"
+        },
+        {
+          "term": "palliative",
+          "label": "adjective"
+        },
+        {
+          "term": "palliative",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "alleviate",
+        "mitigate",
+        "ease",
+        "assuage"
+      ],
+      "opposite": "aggravate",
+      "pitfall": "Palliate does not mean cure or fully solve; it means reduce the severity or impact of a problem."
+    },
+    {
+      "id": "pathological",
+      "kind": "word",
+      "term": "pathological",
+      "pos": "adjective",
+      "phonetic": "/ˌpæθəˈlɒdʒɪkəl/",
+      "sayIt": "path-uh-LOJ-ih-kul",
+      "register": "Formal, especially medical",
+      "meaning": "Relating to disease or abnormal bodily conditions, or so extreme and persistent that it appears unhealthy.",
+      "nuance": "In medicine, it describes a condition caused by or associated with disease. In everyday use, it can suggest behaviour that is obsessive, excessive or badly out of proportion.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch review · investigating errors",
+          "sentence": "The growth in errors was pathological, so we paused the launch and traced the change.",
+          "highlight": "pathological",
+          "tip": "Use it when a pattern is seriously abnormal rather than merely inconvenient."
+        },
+        {
+          "setting": "social",
+          "where": "At a party · waiting for a friend",
+          "sentence": "Stop being pathological about the delay; the train is only twenty minutes late.",
+          "highlight": "pathological",
+          "tip": "This informal use can sound exaggerated, so avoid it for ordinary annoyances."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · reviewing spending",
+          "sentence": "The report describes a pathological pattern of spending that leaves the business with no cash reserves.",
+          "highlight": "pathological",
+          "tip": "It gives a serious tone when describing a damaging or unsustainable pattern."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek pathologia, meaning ‘study of disease’, built from pathos, ‘suffering or disease’, and logos, ‘study or account’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Pathologistes, ‘one who studies disease’, develops from pathos, ‘suffering or disease’, and logos, ‘study’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in medical writing and is used for the study of disease."
+          },
+          {
+            "when": "1800s",
+            "text": "The adjective develops broader meanings involving abnormal or excessive conditions."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "pathology",
+          "label": "noun"
+        },
+        {
+          "term": "pathologically",
+          "label": "adverb"
+        },
+        {
+          "term": "pathologist",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "abnormal",
+        "obsessive",
+        "excessive",
+        "morbid"
+      ],
+      "opposite": "normal",
+      "pitfall": "Don’t use it as a clinical diagnosis unless a medical professional has established one; in casual speech, it often just means extreme."
+    },
+    {
+      "id": "peregrination",
+      "kind": "word",
+      "term": "peregrination",
+      "pos": "noun",
+      "phonetic": "/ˌper.ɪ.ɡrɪˈneɪ.ʃən/",
+      "sayIt": "per-ig-ri-NAY-shun",
+      "register": "Formal",
+      "meaning": "A journey taken from one place to another, especially a long or wandering journey.",
+      "nuance": "It often suggests travel with a sense of exploration, uncertainty or repeated stops. The word can also be used humorously for an ordinary journey across town.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Conference trip · comparing offices",
+          "sentence": "After months of peregrination between regional offices, the team finally settled on one shared workspace.",
+          "highlight": "peregrination",
+          "tip": "Use it for work travel that feels prolonged, unsettled or full of moves."
+        },
+        {
+          "setting": "social",
+          "where": "Road trip · leaving the main route",
+          "sentence": "Their evening peregrination ended at a roadside pub just before midnight.",
+          "highlight": "peregrination",
+          "tip": "It adds a playful, slightly old-fashioned flavour to the story of a journey."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel essay · describing a long journey",
+          "sentence": "The novel follows the travellers’ peregrination across the coast, marked by missed buses and unexpected friendships.",
+          "highlight": "peregrination",
+          "tip": "It works well in literary prose when you want to emphasise wandering or discovery."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin peregrinatio, meaning a journey or wandering, based on peregrinari, ‘to travel about’, and peregrinus, ‘foreign’ or ‘travelling from place to place’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Peregrinatio develops from roots referring to travel abroad and moving from place to place."
+          },
+          {
+            "when": "1400s",
+            "text": "The word enters Middle English in the sense of a journey or wandering."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly formal and may suggest a long, meandering or adventurous journey."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "peregrinate",
+          "label": "verb"
+        },
+        {
+          "term": "peregrinator",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "journey",
+        "voyage",
+        "wandering",
+        "odyssey"
+      ],
+      "pitfall": "Do not confuse it with peregrine, which can mean ‘foreign’ or refer to the peregrine falcon."
+    },
+    {
+      "id": "pungent",
+      "kind": "word",
+      "term": "pungent",
+      "pos": "adjective",
+      "phonetic": "/ˈpʌndʒənt/",
+      "sayIt": "PUN-juhnt",
+      "register": "Formal; common in writing",
+      "meaning": "Having a strong, sharp smell or taste, or a biting, forceful style.",
+      "nuance": "It can describe a sensory experience that hits the nose or tongue, or language that feels sharp and provocative. For people’s remarks, it may sound harsh, so use it with care.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · giving difficult feedback",
+          "sentence": "Her feedback was pungent but fair, and it clearly identified what needed to change.",
+          "highlight": "pungent",
+          "tip": "Use it when strong criticism is precise rather than vague or exaggerated."
+        },
+        {
+          "setting": "social",
+          "where": "Cheese tasting · comparing flavours",
+          "sentence": "The blue cheese had a pungent smell, but the flavour was surprisingly smooth.",
+          "highlight": "pungent",
+          "tip": "It often suggests a powerful smell or taste that is noticeable immediately."
+        },
+        {
+          "setting": "writing",
+          "where": "Restaurant review · describing a dish",
+          "sentence": "A pungent aroma filled the room before the richly spiced stew arrived.",
+          "highlight": "pungent",
+          "tip": "It adds vivid sensory detail, especially when describing smell, taste or biting criticism."
+        }
+      ],
+      "origin": {
+        "summary": "Pungent comes from Latin pungens, the present participle of pungere, meaning ‘to prick’. The word originally suggested a sharp or piercing quality before developing its modern meanings.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin pungere meant ‘to prick’ or ‘stab’, giving rise to pungens."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English through French and Latin sources with the sense of sharp or piercing."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for strong smells and tastes and for sharp, forceful language."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "pungency",
+          "label": "noun"
+        },
+        {
+          "term": "pungently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "acrid",
+        "sharp",
+        "piercing",
+        "spicy",
+        "harsh"
+      ],
+      "opposite": "mild",
+      "pitfall": "Don’t use it merely to mean strong or unpleasant; pungent specifically suggests sharpness that stings or cuts."
+    },
+    {
+      "id": "redolent",
+      "kind": "word",
+      "term": "redolent",
+      "pos": "adjective",
+      "phonetic": "/ˈrɛdələnt/",
+      "sayIt": "RED-uh-lunt",
+      "register": "Formal and literary",
+      "meaning": "Having a strong smell or atmosphere that reminds you of something else.",
+      "nuance": "Often used about places, periods, and experiences that evoke powerful memories or impressions. It sounds more colourful and literary than “reminds me of.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Market visit · describing a venue",
+          "sentence": "The market was redolent with coffee, cinnamon, and roasting chestnuts.",
+          "highlight": "redolent",
+          "tip": "Use “redolent with” for something filling a space with a strong scent."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · recalling childhood",
+          "sentence": "Even years later, the kitchen was redolent of her grandmother’s Sunday roasts.",
+          "highlight": "redolent",
+          "tip": "Use “redolent of” when a place or memory carries the atmosphere of something past."
+        },
+        {
+          "setting": "writing",
+          "where": "Book review · describing a novel’s mood",
+          "sentence": "His novel is redolent of rainy streets, old jazz clubs, and long summer evenings.",
+          "highlight": "redolent",
+          "tip": "The figurative use suits atmosphere, character, and descriptions rich in sensory detail."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin redolens, meaning “giving off a scent,” related to redolere, “to smell or give off an odour.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Redolens develops from redolere, meaning “to smell” or “to give off an odour.”"
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with meanings connected with strong or pleasant smells."
+          },
+          {
+            "when": "Today",
+            "text": "It is also commonly used figuratively for places and experiences filled with reminders of something else."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "redolence",
+          "label": "noun"
+        },
+        {
+          "term": "redolently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "evocative",
+        "fragrant",
+        "reminiscent",
+        "scented"
+      ],
+      "pitfall": "Don’t use it for any faint smell: “redolent” suggests a strong, memorable presence."
+    },
+    {
+      "id": "regimen",
+      "kind": "word",
+      "term": "regimen",
+      "pos": "noun",
+      "phonetic": "/ˈrɛdʒɪmən/",
+      "sayIt": "REJ-uh-min",
+      "register": "Formal",
+      "meaning": "A planned routine of diet, exercise, treatment, or rules intended to improve or control something.",
+      "nuance": "A regimen sounds more disciplined and structured than an ordinary routine. It is common in health, fitness, and formal writing, but can sound overly strict in casual conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Employee wellness · setting a routine",
+          "sentence": "The company introduced a daily exercise regimen for staff who spend most of the day seated.",
+          "highlight": "exercise regimen",
+          "tip": "Use it when a routine is carefully planned and followed regularly."
+        },
+        {
+          "setting": "social",
+          "where": "Fitness conversation · discussing habits",
+          "sentence": "My sleep regimen is simple: no screens for an hour and the same bedtime every night.",
+          "highlight": "sleep regimen",
+          "tip": "It can sound slightly formal, so use routine in most everyday situations."
+        },
+        {
+          "setting": "writing",
+          "where": "Health article · treatment advice",
+          "sentence": "The treatment regimen combines medication, regular check-ups, and a reduced exercise schedule.",
+          "highlight": "treatment regimen",
+          "tip": "This is especially useful for describing a programme designed to manage a health condition."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin regimen, meaning ‘rule’ or ‘direction’, related to regere, ‘to rule or direct’. English has used it for both schedules and systems of rule.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Regimen meant a rule, direction, or prescribed way of living."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "Entered English in the sense of a rule or governing system."
+          },
+          {
+            "when": "1600s",
+            "text": "The medical sense developed, referring to a prescribed routine for health."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly describes a structured health, fitness, or treatment programme."
+          }
+        ]
+      },
+      "similar": [
+        "routine",
+        "schedule",
+        "protocol",
+        "programme"
+      ],
+      "opposite": "improvisation",
+      "pitfall": "Don’t use regimen for any casual habit; it suggests a deliberate, rule-governed routine."
+    },
+    {
+      "id": "reverberating",
+      "kind": "word",
+      "term": "reverberating",
+      "pos": "adjective",
+      "phonetic": "/rɪˈvɜːbəreɪtɪŋ/",
+      "sayIt": "ree-VUR-buh-RAY-ting",
+      "register": "Everyday",
+      "meaning": "Filled with a deep echoing sound, or causing sound to echo and gradually fade.",
+      "nuance": "It suggests a strong resonance that continues after the original sound. It can describe voices, music, footsteps or large rooms.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office presentation · testing a new speaker system",
+          "sentence": "The reverberating feedback made the sound system unusable in the large conference room.",
+          "highlight": "reverberating",
+          "tip": "Use it when echoing or lingering sound is more noticeable than ordinary volume."
+        },
+        {
+          "setting": "social",
+          "where": "Live music venue · hearing the opening act",
+          "sentence": "The singer’s reverberating voice filled the old church as everyone began tapping their feet.",
+          "highlight": "reverberating",
+          "tip": "It adds atmosphere and often implies that the sound has a deep, lasting resonance."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing a concert hall",
+          "sentence": "The final song was accompanied by reverberating strings that seemed to fill the entire hall.",
+          "highlight": "reverberating",
+          "tip": "Place it directly before a sound source, such as music, voices or echoes."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin reverberare, meaning ‘to echo again’, formed from re-, ‘again’, and verberare, ‘to strike or beat’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Reverberare develops the sense of sounding again or producing an echo."
+          },
+          {
+            "when": "Early 1600s",
+            "text": "The word enters English in contexts connected with reflected sound and echoes."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes a deep echo that seems to linger in a room or space."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "reverberate",
+          "label": "verb"
+        },
+        {
+          "term": "reverberation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "echoing",
+        "resonant",
+        "ringing",
+        "sonorous"
+      ],
+      "opposite": "muffled",
+      "pitfall": "Don’t use it simply to mean loud; the key idea is that the sound echoes or continues resonating."
+    },
+    {
+      "id": "salubrious",
+      "kind": "word",
+      "term": "salubrious",
+      "pos": "adjective",
+      "phonetic": "/səˈluːbriəs/",
+      "sayIt": "sah-LOO-bree-us",
+      "register": "Formal",
+      "meaning": "Healthy, wholesome, or good for physical wellbeing.",
+      "nuance": "Usually describes air, water, a climate or a place, and sounds more formal than “healthy” or “beneficial.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office relocation · assessing a site",
+          "sentence": "The new office is salubrious, with green space nearby and plenty of fresh air.",
+          "highlight": "salubrious",
+          "tip": "Use it in formal reports or presentations about places that support wellbeing."
+        },
+        {
+          "setting": "social",
+          "where": "Flat viewing · discussing the neighbourhood",
+          "sentence": "The flat is lovely, and the neighbourhood is genuinely salubrious.",
+          "highlight": "salubrious",
+          "tip": "It can sound slightly old-fashioned, so use it with a touch of humour or irony."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel brochure · promoting a destination",
+          "sentence": "Visitors come for the salubrious climate, excellent food and mineral springs.",
+          "highlight": "salubrious",
+          "tip": "A confident choice for polished travel writing and promotional material."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin salubris, meaning healthy or wholesome, with the English form appearing in the early 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Salubris meant healthy, sound or beneficial."
+          },
+          {
+            "when": "1600s",
+            "text": "The English word salubrious began to be used."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly formal and describes things connected with health."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "salubrity",
+          "label": "noun"
+        },
+        {
+          "term": "salubriously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "healthy",
+        "wholesome",
+        "beneficial",
+        "health-giving"
+      ],
+      "opposite": "unhealthy",
+      "pitfall": "Do not confuse it with “salutary,” although both can mean beneficial; salutary is broader and often describes advice or effects."
+    },
+    {
+      "id": "satiety",
+      "kind": "word",
+      "term": "satiety",
+      "pos": "noun",
+      "phonetic": "/səˈtaɪəti/",
+      "sayIt": "suh-TY-uh-tee",
+      "register": "Formal",
+      "meaning": "The state of being completely satisfied, especially after eating enough food.",
+      "nuance": "It describes the absence of hunger and the sense of having had enough. It is more technical than the everyday word “fullness.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product meeting · discussing a meal service",
+          "sentence": "The research shows that customers reported greater satiety after the smaller, higher-protein breakfast.",
+          "highlight": "satiety",
+          "tip": "Common in research, nutrition and product-development language."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · deciding on dessert",
+          "sentence": "After the generous main course, everyone seemed to have reached satiety.",
+          "highlight": "satiety",
+          "tip": "Use it when speaking carefully about hunger and fullness."
+        },
+        {
+          "setting": "writing",
+          "where": "Health article · explaining portion sizes",
+          "sentence": "Protein and fibre can help extend satiety and reduce the urge to snack between meals.",
+          "highlight": "satiety",
+          "tip": "It often appears alongside nutrition, appetite and meal size."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin satietas, meaning fullness or a satisfied state, connected with satius, meaning satisfied or having had enough.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Satietas develops from roots connected with being satisfied and having had enough."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English and is used mainly for fullness after eating."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in nutrition, health and scientific writing."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "satiate",
+          "label": "verb"
+        },
+        {
+          "term": "satiated",
+          "label": "adjective"
+        },
+        {
+          "term": "satieting",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "fullness",
+        "satisfaction",
+        "repletion",
+        "satiation"
+      ],
+      "opposite": "hunger",
+      "pitfall": "Satiety refers specifically to being satisfied after eating, not general contentment or the feeling that a goal has been achieved."
+    },
+    {
+      "id": "sedentary",
+      "kind": "word",
+      "term": "sedentary",
+      "pos": "adjective",
+      "phonetic": "/ˈsɛd.ən.tər.i/",
+      "sayIt": "SED-uhn-ter-ee",
+      "register": "Common in health and workplace discussions",
+      "meaning": "Involving a lot of sitting and too little physical movement.",
+      "nuance": "Often used to describe work, travel or lifestyle habits linked to health risks. It can describe a routine or activity, not simply someone who is sitting at that moment.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office day · planning a healthier routine",
+          "sentence": "A sedentary morning at my desk left me stiff, so I walked before lunch.",
+          "highlight": "sedentary",
+          "tip": "Use it for work patterns that keep you sitting for long periods."
+        },
+        {
+          "setting": "social",
+          "where": "Road trip · comparing travel routines",
+          "sentence": "Our weekend involved several hours of sedentary travel, but we still enjoyed the scenery.",
+          "highlight": "sedentary",
+          "tip": "It can describe travel or leisure that requires little movement."
+        },
+        {
+          "setting": "writing",
+          "where": "Health report · recommending workplace changes",
+          "sentence": "The report warns that a sedentary routine can increase health risks for office workers.",
+          "highlight": "sedentary",
+          "tip": "Pairs naturally with lifestyle, routine, work and habits."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin sedentarius, meaning ‘sitting’ or ‘staying in one place’, which was based on sedere, ‘to sit’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Sedentarius is formed from sedere, ‘to sit’, with a suffix meaning ‘doing or staying in a certain way’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in medical and legal writing."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes activities or lifestyles involving prolonged sitting."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "sedentarily",
+          "label": "adverb"
+        },
+        {
+          "term": "sedentariness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "inactive",
+        "desk-bound",
+        "sitting",
+        "stationary"
+      ],
+      "opposite": "active",
+      "pitfall": "Sedentary does not mean that someone never exercises; someone can have an active sport but a sedentary job and daily routine."
+    },
+    {
+      "id": "senile",
+      "kind": "word",
+      "term": "senile",
+      "pos": "adjective",
+      "phonetic": "/ˈsiːnaɪl/",
+      "sayIt": "SEE-nyle",
+      "register": "Formal and clinical",
+      "meaning": "Showing severe mental confusion or impaired thinking associated with old age.",
+      "nuance": "This is an old clinical term that can sound insulting or stigmatising today. It is usually better to describe the specific condition or use respectful wording such as “living with dementia.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Care-team meeting · discussing a patient",
+          "sentence": "The doctor described the severe confusion as senile and recommended a full memory assessment.",
+          "highlight": "senile",
+          "tip": "In professional settings, identify the condition more precisely where possible."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · explaining a diagnosis",
+          "sentence": "Rather than calling him senile, we said he was living with advanced dementia and needed support.",
+          "highlight": "senile",
+          "tip": "Avoid using it as an insult or a casual label for someone forgetful."
+        },
+        {
+          "setting": "writing",
+          "where": "Medical record · noting cognitive changes",
+          "sentence": "The notes mention senile confusion and recommend checking for medication side effects and other causes.",
+          "highlight": "senile",
+          "tip": "Modern clinical writing usually names the diagnosed condition instead."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin senilis, meaning “of or relating to old age” and implying mental decline, from senex, “old man.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Senilis is formed from senex, “an old person,” with the sense of old age and declining faculties."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English and is used in medical and legal writing."
+          },
+          {
+            "when": "Today",
+            "text": "Its clinical sense remains, but respectful terms such as dementia are preferred in ordinary use."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "senility",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "demented",
+        "confused",
+        "frail",
+        "aged"
+      ],
+      "pitfall": "Do not use “senile” to mean merely forgetful or slow-thinking; it can trivialize dementia and offend the person being discussed."
+    },
+    {
+      "id": "spew",
+      "kind": "word",
+      "term": "spew",
+      "pos": "verb",
+      "phonetic": "/spjuː/",
+      "sayIt": "SPYOO",
+      "register": "Informal",
+      "meaning": "To forcefully expel saliva, vomit or another liquid from the mouth.",
+      "nuance": "Figuratively, it can describe someone or something forcefully throwing out words, ideas or criticism. The figurative use is usually negative and more common in informal speech than in careful writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · venting frustration",
+          "sentence": "Instead of spewing accusations, list the two changes you want before the deadline.",
+          "highlight": "spewing",
+          "tip": "Use it for angry, uncontrolled criticism, not for a focused complaint."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · bad restaurant food",
+          "sentence": "The sauce made me spew into the napkin, which was not my finest moment.",
+          "highlight": "spew",
+          "tip": "It is blunt and slightly crude, so use it only when the disgust is genuinely extreme."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · criticising a poorly written book",
+          "sentence": "The novel’s first chapter spews jargon before giving the reader any reason to care.",
+          "highlight": "spews",
+          "tip": "This vivid figurative use can work in a review, but choose a gentler word in formal criticism."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Old English spēwan, meaning ‘to spit’ or ‘vomit’, and is related to Old Norse spýta. Both belong to a family of Germanic words connected with spitting.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "Spēwan appears in early English with meanings including ‘to spit’ and ‘vomit’."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word continues in both literal and figurative uses."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a blunt word for forceful expulsion and for angrily pouring out words or criticism."
+          }
+        ]
+      },
+      "similar": [
+        "vomit",
+        "spit",
+        "eject",
+        "disgorge"
+      ],
+      "opposite": "swallow",
+      "pitfall": "Spew is unpleasant and derogatory. Do not use it as a neutral description of someone speaking excitedly or enthusiastically."
+    },
+    {
+      "id": "stupor",
+      "kind": "word",
+      "term": "stupor",
+      "pos": "noun",
+      "phonetic": "/ˈstuːpər/",
+      "sayIt": "STOO-pur",
+      "register": "Common in serious or literary contexts",
+      "meaning": "A state in which you are so shocked, confused, or overcome that you cannot think or respond normally.",
+      "nuance": "A stupor is stronger than ordinary surprise and often leaves someone unable to act. It can describe medical shock, emotional shock, or being stunned by an unexpected event.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · announcing sudden layoffs",
+          "sentence": "Several employees remained in a stupor after hearing that twenty positions were being cut.",
+          "highlight": "stupor",
+          "tip": "Use it for a profound, visible reaction to disturbing news."
+        },
+        {
+          "setting": "social",
+          "where": "After a surprise party · friends react",
+          "sentence": "She was in such a stupor after the surprise that she forgot to thank everyone.",
+          "highlight": "stupor",
+          "tip": "This adds a sense of shock and temporary mental numbness."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · describing an accident",
+          "sentence": "The driver was treated for shock after briefly regaining consciousness from a stupor.",
+          "highlight": "stupor",
+          "tip": "Common in medical reporting and accounts of severe emotional shock."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin stupor, meaning numbness or a state of being stunned, connected with stupefiere, 'to make senseless'.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Stupor referred to numbness, insensibility, or being stunned."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English and is used for states of shock or mental numbness."
+          },
+          {
+            "when": "Today",
+            "text": "It describes being so shocked, confused, or unwell that normal thought and response are suspended."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "stuporous",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "shock",
+        "trance",
+        "stun",
+        "numbness",
+        "semiconsciousness"
+      ],
+      "opposite": "alertness",
+      "pitfall": "A stupor is not simply feeling tired; it implies a strong shock, numbness, or inability to respond normally."
+    },
+    {
+      "id": "subterranean",
+      "kind": "word",
+      "term": "subterranean",
+      "pos": "adjective",
+      "phonetic": "/ˌsʌbtəˈreɪniən/",
+      "sayIt": "sub-ter-RAY-nee-uhn",
+      "register": "Formal and descriptive",
+      "meaning": "Existing below the surface of the earth, or hidden beneath something less obvious.",
+      "nuance": "It can describe caves, roots and underground animals literally, as well as hidden aspects of society such as costs, networks or problems.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · discussing hidden costs",
+          "sentence": "The team uncovered a subterranean layer of maintenance work that had never appeared in the original estimates.",
+          "highlight": "subterranean",
+          "tip": "Use it figuratively for costs, risks or problems hidden beneath the surface."
+        },
+        {
+          "setting": "social",
+          "where": "Cave tour · exploring a network of tunnels",
+          "sentence": "We followed a narrow passage into a subterranean chamber filled with echoes and cool air.",
+          "highlight": "subterranean",
+          "tip": "In everyday descriptions of caves, it gives a more vivid and technical tone than “underground.”"
+        },
+        {
+          "setting": "writing",
+          "where": "Research summary · describing buried habitats",
+          "sentence": "Subterranean insects avoid surface heat by living in cool, damp spaces beneath the soil.",
+          "highlight": "Subterranean",
+          "tip": "Capitalise it at the start of a sentence; it pairs naturally with habitats, species, chambers and roots."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin subterraneus, formed from sub, ‘under’, and terra, ‘earth’. It entered English with a literal sense before becoming common in figurative descriptions of hidden things.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Subterraneus means ‘underground’, from sub, ‘under’, and terra, ‘earth’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word begins appearing in English in descriptions of places beneath the earth."
+          },
+          {
+            "when": "Today",
+            "text": "It is used both literally and figuratively for anything hidden beneath a surface."
+          }
+        ]
+      },
+      "similar": [
+        "underground",
+        "belowground",
+        "buried",
+        "subterraneous"
+      ],
+      "opposite": "aboveground",
+      "pitfall": "For literal underground locations, “subterranean” is more formal than “underground”; for hidden social or financial matters, use it metaphorically."
+    },
+    {
+      "id": "sultry",
+      "kind": "word",
+      "term": "sultry",
+      "pos": "adjective",
+      "phonetic": "/ˈsʌltri/",
+      "sayIt": "SUL-tree",
+      "register": "Literary and evocative",
+      "meaning": "Extremely hot and humid, or intensely sensual and attractive.",
+      "nuance": "For weather, it suggests an oppressive kind of heat. For people, voices, or writing, it creates a deliberately seductive impression.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client meeting · a crowded afternoon",
+          "sentence": "The room was sultry by three, so we opened the windows and started early.",
+          "highlight": "sultry",
+          "tip": "Use the literal sense when the heat feels heavy, damp, and hard to bear."
+        },
+        {
+          "setting": "social",
+          "where": "Party · meeting someone attractive",
+          "sentence": "He lowered his voice and gave her a sultry smile across the bar.",
+          "highlight": "sultry",
+          "tip": "This figurative sense is playful but deliberately sensuous."
+        },
+        {
+          "setting": "writing",
+          "where": "Book review · describing a scene",
+          "sentence": "The sultry descriptions of the dance made the scene feel charged and dreamlike.",
+          "highlight": "sultry",
+          "tip": "Use it for atmosphere when you want a sensuous effect rather than plain heat."
+        }
+      ],
+      "origin": {
+        "summary": "The word first described oppressive heat. Its sensual sense developed much later; the connection to its exact older source is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "First used in English for hot, heavy weather."
+          },
+          {
+            "when": "1800s",
+            "text": "The figurative sense of being sensually attractive becomes established."
+          },
+          {
+            "when": "Today",
+            "text": "Used for both oppressive heat and evocative sensuality."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "sultriness",
+          "label": "noun"
+        },
+        {
+          "term": "sultrily",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "sweltering",
+        "humid",
+        "oppressive",
+        "sensual",
+        "seductive"
+      ],
+      "opposite": "cool",
+      "pitfall": "The two senses are distinct: sultry weather is unpleasantly hot, while a sultry look or voice is intentionally sensual."
+    }
+  ]
+}

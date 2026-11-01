@@ -1,0 +1,568 @@
+{
+  "id": "words-praise-criticism-3",
+  "kind": "word",
+  "name": "Praise & criticism · 3",
+  "blurb": "8 words about praise & criticism",
+  "cards": [
+    {
+      "id": "reviled",
+      "kind": "word",
+      "term": "reviled",
+      "pos": "verb",
+      "phonetic": "/rɪˈvaɪld/",
+      "sayIt": "ri-VILED",
+      "register": "Formal",
+      "meaning": "Spoke harshly about someone or expressed strong contempt for them.",
+      "nuance": "This is a strong, often literary verb for condemning or attacking someone’s character, work or actions. It sounds more forceful and old-fashioned than ordinary words such as “criticised” or “attacked.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · criticizing a colleague",
+          "sentence": "The team leader reviled the proposal before the director could respond.",
+          "highlight": "reviled",
+          "tip": "Usually implies fierce public condemnation rather than measured criticism."
+        },
+        {
+          "setting": "social",
+          "where": "Family argument · defending a relative",
+          "sentence": "He reviled his brother for abandoning the family during the crisis.",
+          "highlight": "reviled",
+          "tip": "Use it when the speaker’s contempt is unusually harsh and intense."
+        },
+        {
+          "setting": "writing",
+          "where": "Historical commentary · describing public hostility",
+          "sentence": "The editor was reviled by readers who disagreed with his argument.",
+          "highlight": "reviled",
+          "tip": "It works well in formal or historical prose for dramatic emphasis."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French reviler, meaning to insult or defame, which came from Latin revilere, “to speak abusively of” or “to condemn.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Revilere combines re-, an intensive prefix, with a root associated with shame or disgrace."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word appears in the sense of abusing, attacking or speaking contemptuously of someone."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal, literary or historical contexts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "revile",
+          "label": "verb"
+        },
+        {
+          "term": "reviler",
+          "label": "noun (person)"
+        },
+        {
+          "term": "reviling",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "vilified",
+        "denounced",
+        "condemned",
+        "berated",
+        "decried"
+      ],
+      "opposite": "praised",
+      "pitfall": "“Reviled” is stronger than “criticised” and can imply contempt or personal hostility, so avoid it for mild disagreement."
+    },
+    {
+      "id": "risible",
+      "kind": "word",
+      "term": "risible",
+      "pos": "adjective",
+      "phonetic": "/ˈrɪzəbəl/",
+      "sayIt": "RIZ-uh-buhl",
+      "register": "Formal",
+      "meaning": "So silly or absurd that it makes people laugh.",
+      "nuance": "Often sounds mocking or dismissive rather than warmly humorous. It is especially useful when calling an idea, plan or performance laughably bad.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing a proposal",
+          "sentence": "The idea of bringing our own office printer was too risible to consider.",
+          "highlight": "risible",
+          "tip": "Use it when dismissing a proposal as obviously silly."
+        },
+        {
+          "setting": "social",
+          "where": "Costume party · reacting to an outfit",
+          "sentence": "My friend’s superhero outfit was so risible that nobody could take it seriously.",
+          "highlight": "risible",
+          "tip": "It can describe something visibly silly, but it may sound more mocking than playful."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · assessing a performance",
+          "sentence": "The production was ambitious in theory, but risible in practice.",
+          "highlight": "risible",
+          "tip": "This slightly formal word works well in criticism, essays and reviews."
+        }
+      ],
+      "origin": {
+        "summary": "It comes from Latin risibilis, meaning able to be laughed at, and is based on ridere, “to laugh.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "The root ridere, meaning “to laugh,” appears in Latin."
+          },
+          {
+            "when": "1600s",
+            "text": "The Latin-derived word enters English."
+          },
+          {
+            "when": "Today",
+            "text": "It means laughable, usually with a mocking or dismissive tone."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "risibility",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "ridiculous",
+        "ludicrous",
+        "comical",
+        "absurd"
+      ],
+      "opposite": "serious",
+      "pitfall": "Risible is stronger than funny and often implies that something deserves ridicule."
+    },
+    {
+      "id": "scathing",
+      "kind": "word",
+      "term": "scathing",
+      "pos": "adjective",
+      "phonetic": "/ˈskeɪðɪŋ/",
+      "sayIt": "SKAY-thing",
+      "register": "Common in serious criticism",
+      "meaning": "Harsh, severe, and sharply critical, especially of something considered wrong or ineffective.",
+      "nuance": "It suggests criticism powerful enough to hurt or discomfort the person receiving it. It works well for reviews, arguments, and evaluations, but can feel overly aggressive in casual conversations.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team review · assessing a proposal",
+          "sentence": "Her scathing review of the proposal exposed three major risks the team had ignored.",
+          "highlight": "scathing",
+          "tip": "Use it when criticism is both forceful and focused on serious problems."
+        },
+        {
+          "setting": "social",
+          "where": "Complaining to a friend · poor service",
+          "sentence": "He was scathing about the restaurant, although his complaints were completely justified.",
+          "highlight": "scathing",
+          "tip": "It conveys a harsh tone, not simply a negative opinion."
+        },
+        {
+          "setting": "writing",
+          "where": "Article · evaluating a government policy",
+          "sentence": "The article offers a scathing criticism of the policy, but it never explains the evidence behind its claims.",
+          "highlight": "scathing",
+          "tip": "Pair it with criticism, attack, verdict or critique in formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "Formed from the older word scathe, meaning to hurt or damage, plus an ending that developed the sense of causing harm.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The root word meant harm, injury or damage."
+          },
+          {
+            "when": "Middle English",
+            "text": "Scathing appeared in the sense of causing harm or damage."
+          },
+          {
+            "when": "Modern English",
+            "text": "Its use expanded to describe harsh criticism and attack."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "scathingly",
+          "label": "adverb"
+        },
+        {
+          "term": "scathe",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "vitriolic",
+        "savage",
+        "blistering",
+        "harsh"
+      ],
+      "opposite": "gentle",
+      "pitfall": "Don’t use it for ordinary negative feedback; it implies unusually harsh and damaging criticism."
+    },
+    {
+      "id": "showy",
+      "kind": "word",
+      "term": "showy",
+      "pos": "adjective",
+      "phonetic": "/ˈʃoʊi/",
+      "sayIt": "SHOH-ee",
+      "register": "Common at work",
+      "meaning": "Too noticeable because someone is deliberately displaying something to attract attention.",
+      "nuance": "Often critical: it suggests that something is flashy, ostentatious or more dramatic than necessary.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Design review · evaluating slides",
+          "sentence": "The cover is too showy; use one strong image and a clear title instead.",
+          "highlight": "showy",
+          "tip": "Use it when presentation style attracts attention more than the message itself."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding guest · choosing an outfit",
+          "sentence": "That dress is stunning, but it might be a little too showy for a daytime ceremony.",
+          "highlight": "showy",
+          "tip": "A natural way to comment on an outfit that feels flashy or overly bold."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · describing behaviour",
+          "sentence": "Her presentation was confident rather than showy, keeping attention on the results.",
+          "highlight": "showy",
+          "tip": "Pairs well with contrasts such as confident rather than showy or polished, not flashy."
+        }
+      ],
+      "origin": {
+        "summary": "Formed in English from show and the suffix -y, originally meaning inclined to display or attract attention.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Early 1600s",
+            "text": "The adjective appears as showy, meaning given to display."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes clothing, writing, behaviour or design that is flashy or overly attention-seeking."
+          }
+        ]
+      },
+      "similar": [
+        "flashy",
+        "ostentatious",
+        "flamboyant",
+        "show-off"
+      ],
+      "opposite": "understated",
+      "pitfall": "Showy does not simply mean colourful or noticeable; it usually implies that the display is excessive or deliberate."
+    },
+    {
+      "id": "superficial",
+      "kind": "word",
+      "term": "superficial",
+      "pos": "adjective",
+      "phonetic": "/ˌsuːpəˈfɪʃəl/",
+      "sayIt": "soo-per-FISH-ul",
+      "register": "Common at work",
+      "meaning": "Concerned only with the surface or obvious features, without deeper thought, meaning or substance.",
+      "nuance": "Usually critical: it suggests that something looks impressive but lacks depth. It can also describe minor surface features, such as a superficial scratch.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · evaluating an idea",
+          "sentence": "The proposal fixes the visible problem, but its thinking about long-term consequences is superficial.",
+          "highlight": "superficial",
+          "tip": "Use it when an idea addresses appearances but misses underlying causes."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · dismissing small talk",
+          "sentence": "I’d rather have a deep conversation than spend another evening making superficial chat.",
+          "highlight": "superficial",
+          "tip": "It can describe conversation that sounds friendly but does not create real understanding."
+        },
+        {
+          "setting": "writing",
+          "where": "Event review · judging the guests",
+          "sentence": "The event felt superficial: impressive décor, but little attention to the people attending.",
+          "highlight": "superficial",
+          "tip": "Strong in reviews and criticism when style gets more attention than substance."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin superficies, meaning “surface,” with the adjective superficialis meaning “of or relating to the surface.” English borrowed it through French.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Classical Latin",
+            "text": "Surficies, “surface or upper side,” gives rise to the adjective superficialis."
+          },
+          {
+            "when": "1500s",
+            "text": "Related French forms appear in European scholarly and religious writing."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English, initially referring to things on or near a surface."
+          },
+          {
+            "when": "Modern period",
+            "text": "Its meaning expands to include ideas and behaviour that lack depth."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "superficially",
+          "label": "adverb"
+        },
+        {
+          "term": "superficiality",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "shallow",
+        "cursory",
+        "surface-level",
+        "hasty"
+      ],
+      "opposite": "profound",
+      "pitfall": "Do not confuse it with surface, which is neutral and can simply describe an object’s exterior."
+    },
+    {
+      "id": "vapid",
+      "kind": "word",
+      "term": "vapid",
+      "pos": "adjective",
+      "phonetic": "/ˈvæpɪd/",
+      "sayIt": "VAP-id",
+      "register": "Common in formal criticism",
+      "meaning": "Lacking interesting ideas, emotion, or energy; dull and unstimulating.",
+      "nuance": "It often suggests that something is empty of substance, not merely boring. It can be a sharp criticism of a conversation, performance or piece of writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · reviewing a proposal",
+          "sentence": "The presentation was polished, but its argument felt vapid because it offered no real solutions.",
+          "highlight": "vapid",
+          "tip": "Use it to criticise ideas that sound impressive but have little depth or value."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · small talk",
+          "sentence": "We left after an hour of vapid conversation about everyone’s new car.",
+          "highlight": "vapid",
+          "tip": "It gives a slightly formal, dismissive tone, so use it when something is truly lifeless rather than merely dull."
+        },
+        {
+          "setting": "writing",
+          "where": "Film review · judging a sequel",
+          "sentence": "The sequel repeats the original’s jokes but replaces its heart with vapid spectacle.",
+          "highlight": "vapid",
+          "tip": "Useful in reviews and essays when you want to show that superficial entertainment lacks substance."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin vapidus, meaning ‘flat’, ‘flavourless’ or ‘without life’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Vapidus described liquid, especially wine, as flat or lacking flavour."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with the sense of having little flavour or substance."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes writing, speech, performances or ideas that feel dull and empty."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "vapidity",
+          "label": "noun"
+        },
+        {
+          "term": "vapidly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "bland",
+        "insipid",
+        "lifeless",
+        "tedious"
+      ],
+      "opposite": "engaging",
+      "pitfall": "Vapid is stronger than bland: it usually implies a lack of substance or intellectual energy, not just a mild lack of flavour."
+    },
+    {
+      "id": "virtuosity",
+      "kind": "word",
+      "term": "virtuosity",
+      "pos": "noun",
+      "phonetic": "/ˌvɜːrtʃuˈɑːsəti/",
+      "sayIt": "vir-choo-OS-uh-tee",
+      "register": "Formal",
+      "meaning": "Exceptional skill in performing or creating something, especially music or another technical art.",
+      "nuance": "The word suggests more than competence: the performer displays impressive command, precision and flair. It is often used in criticism and formal praise.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · presenting results",
+          "sentence": "Her virtuosity in handling a complex project impressed even colleagues who knew the technical work well.",
+          "highlight": "virtuosity",
+          "tip": "Use it for praise that goes beyond simply being skilled."
+        },
+        {
+          "setting": "social",
+          "where": "Concert · discussing a guitarist",
+          "sentence": "The audience applauded the guitarist’s virtuosity, especially during the fast final solo.",
+          "highlight": "virtuosity",
+          "tip": "It fits naturally when praising technical mastery in a live performance."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · evaluating an artist",
+          "sentence": "The performance was technically flawless, but its virtuosity sometimes felt more impressive than emotionally engaging.",
+          "highlight": "virtuosity",
+          "tip": "Pair it with another adjective when you want to balance praise with criticism."
+        }
+      ],
+      "origin": {
+        "summary": "From Italian virtuosità, related to virtuoso and virtù, meaning virtue or excellence. The word entered English in the 17th century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Virtuositas develops from virtus, meaning virtue, worth or excellence."
+          },
+          {
+            "when": "Italian",
+            "text": "The forms virtuosità and virtuoso appear, referring to skill or excellence in performance."
+          },
+          {
+            "when": "1600s",
+            "text": "Virtuosity enters English, initially associated with musical skill and technical brilliance."
+          },
+          {
+            "when": "Today",
+            "text": "It is used more broadly for exceptional skill in creative or technical work."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "virtuoso",
+          "label": "noun (person)"
+        },
+        {
+          "term": "virtuosic",
+          "label": "adjective"
+        },
+        {
+          "term": "virtuously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "mastery",
+        "brilliance",
+        "expertise",
+        " virtuosity",
+        "technical excellence"
+      ],
+      "opposite": "mediocrity",
+      "pitfall": "Don’t use it as a general synonym for expertise; it specifically emphasizes exceptional technical skill and flair."
+    },
+    {
+      "id": "vituperation",
+      "kind": "word",
+      "term": "vituperation",
+      "pos": "noun",
+      "phonetic": "/vɪˌtuːpəˈreɪʃən/",
+      "sayIt": "vih-TOO-puh-RAY-shun",
+      "register": "Formal",
+      "meaning": "Harsh and insulting verbal abuse directed at someone or something.",
+      "nuance": "This is a strong, formal word that suggests angry denunciation rather than ordinary criticism. It is uncommon in everyday conversation but can add force to formal writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team review · responding to criticism",
+          "sentence": "The review avoided vituperation and focused on the changes needed next quarter.",
+          "highlight": "vituperation",
+          "tip": "Use it when the criticism is especially harsh, severe, and personal."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · reacting to a delay",
+          "sentence": "Her vituperation over a delayed reply embarrassed everyone at dinner.",
+          "highlight": "vituperation",
+          "tip": "It sounds formal and literary, so it usually fits written accounts better than casual speech."
+        },
+        {
+          "setting": "writing",
+          "where": "Opinion article · attacking a policy",
+          "sentence": "The article’s vituperation of the policy was forceful but unfair.",
+          "highlight": "vituperation",
+          "tip": "Pair it with criticism or an attack when describing forceful verbal condemnation."
+        }
+      ],
+      "origin": {
+        "summary": "From the Latin vituperatio, meaning abuse or harsh reproach, based on vituperare, ‘to blame or abuse verbally’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin writers used vituperatio for strong verbal blame or reproach."
+          },
+          {
+            "when": "Late Middle English",
+            "text": "The word enters English in formal legal and literary contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a rare, formal word for harsh and insulting speech."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "vituperate",
+          "label": "verb"
+        },
+        {
+          "term": "vituperative",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "denunciation",
+        "reproach",
+        "abuse",
+        "scolding"
+      ],
+      "opposite": "commendation",
+      "pitfall": "Don’t use it as a general word for criticism; it implies severe, insulting verbal condemnation."
+    }
+  ]
+}

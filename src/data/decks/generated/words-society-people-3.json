@@ -1,0 +1,1675 @@
+{
+  "id": "words-society-people-3",
+  "kind": "word",
+  "name": "Society & people · 3",
+  "blurb": "25 words about society & people",
+  "cards": [
+    {
+      "id": "potpourri",
+      "kind": "word",
+      "term": "potpourri",
+      "pos": "noun",
+      "phonetic": "/poʊˈpʊri/",
+      "sayIt": "poh-POO-ree",
+      "register": "Common at work and in writing",
+      "meaning": "A varied mixture of things gathered together for their combined effect or interest.",
+      "nuance": "The items can be related or completely unrelated. The word often suggests an eclectic collection, and it can also refer to a fragrant blend of dried flowers and spices.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · combining customer ideas",
+          "sentence": "The final presentation was a potpourri of market trends, customer quotes and competitor examples.",
+          "highlight": "potpourri",
+          "tip": "Use it when a collection is deliberately varied rather than focused on one theme."
+        },
+        {
+          "setting": "social",
+          "where": "House party · sharing an eclectic playlist",
+          "sentence": "Her evening playlist was a cheerful potpourri of jazz, folk songs and old film scores.",
+          "highlight": "potpourri",
+          "tip": "It adds a slightly literary or sophisticated tone to a description of mixed items."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel article · describing a market stall",
+          "sentence": "The stall displayed a potpourri of locally made jewelry, tea and recycled paper goods.",
+          "highlight": "potpourri",
+          "tip": "Choose it for a colorful collection; “assortment” is more neutral and businesslike."
+        }
+      ],
+      "origin": {
+        "summary": "Borrowed from French pot-pourri, literally a “rotten pot,” originally referring to a stew made by cooking different ingredients together.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "The French term enters English as the name for a mixed meat or vegetable stew."
+          },
+          {
+            "when": "1600s",
+            "text": "Its meaning broadens to any mixture or collection of unrelated things."
+          },
+          {
+            "when": "1700s",
+            "text": "The word becomes associated with fragrant mixtures of dried flowers, spices and other materials."
+          }
+        ]
+      },
+      "similar": [
+        "mixture",
+        "melange",
+        "medley",
+        "collection",
+        "assortment"
+      ],
+      "opposite": "uniform collection",
+      "pitfall": "The stress is normally on the second syllable: pot-POO-ree. The plural is potpourris, and the word can sound overly literary in a brief business message."
+    },
+    {
+      "id": "precedent",
+      "kind": "word",
+      "term": "precedent",
+      "pos": "noun",
+      "phonetic": "/ˈprɛsɪdənt/",
+      "sayIt": "PRES-uh-dunt",
+      "register": "Common at work",
+      "meaning": "An earlier case, decision or action that can be followed as an example in similar situations.",
+      "nuance": "Often used when discussing law, business or official decisions. It can mean the example itself or the authority it provides for doing something in the same way.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Policy discussion · approving an exception",
+          "sentence": "The director approved the flexible schedule, which set a precedent for other departments.",
+          "highlight": "set a precedent",
+          "tip": "Common in the phrase ‘set a precedent’, meaning to create an example others may follow."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding speech · family tradition",
+          "sentence": "My aunt wore a green dress, so by family precedent, I’m wearing green too.",
+          "highlight": "by family precedent",
+          "tip": "Here it means an established custom that shapes what people do."
+        },
+        {
+          "setting": "writing",
+          "where": "Legal article · court decision",
+          "sentence": "The ruling could become a precedent for how similar cases are handled.",
+          "highlight": "precedent",
+          "tip": "In legal writing, it usually means a previous decision that influences a later case."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin praecedens, meaning ‘going before’, from praecedere: prae- ‘before’ and cedere ‘to go’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Praecedere literally means ‘to go before’, and praecedens means ‘going before’."
+          },
+          {
+            "when": "1400s",
+            "text": "The word enters English and is used for an example that comes before another case or action."
+          },
+          {
+            "when": "Today",
+            "text": "It refers especially to legal decisions, policies or actions that provide a model for later situations."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "precede",
+          "label": "verb"
+        },
+        {
+          "term": "preceding",
+          "label": "adjective"
+        },
+        {
+          "term": "precedent-setting",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "example",
+        "model",
+        "tradition",
+        "benchmark"
+      ],
+      "opposite": "exception",
+      "pitfall": "In legal contexts, ‘precedent’ often has legal force and may constrain later decisions; it is not simply any past event."
+    },
+    {
+      "id": "prevalent",
+      "kind": "word",
+      "term": "prevalent",
+      "pos": "adjective",
+      "phonetic": "/ˈprevələnt/",
+      "sayIt": "PREV-uh-lunt",
+      "register": "Common at work",
+      "meaning": "Common or widely found in a particular place, group, or time.",
+      "nuance": "It describes something that exists broadly rather than being limited to a few cases. Use it when the frequency or reach of a condition, view, or feature is important.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · reviewing customer feedback",
+          "sentence": "Delayed deliveries are prevalent across several departments, so we need a shared tracking process.",
+          "highlight": "prevalent",
+          "tip": "Use it to describe a problem that affects more than one team or area."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · discussing health habits",
+          "sentence": "Cycling to work has become increasingly prevalent in the city.",
+          "highlight": "prevalent",
+          "tip": "It sounds informative and neutral, so it works well in everyday conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Research report · describing survey results",
+          "sentence": "The report found that flexible working was prevalent among employees under thirty-five.",
+          "highlight": "prevalent",
+          "tip": "Use it when evidence shows that a quality or behaviour is widespread."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin praevalens, meaning ‘prevailing’ or ‘having wider influence’, based on praevalere, ‘to prevail or be widespread’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Praevalens means ‘prevailing’, ‘predominant’, or ‘in general use’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word began appearing in English in medical and general contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means widespread or common in a particular place or period."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "prevalence",
+          "label": "noun"
+        },
+        {
+          "term": "prevail",
+          "label": "verb"
+        },
+        {
+          "term": "prevalently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "widespread",
+        "common",
+        "ubiquitous",
+        "rampant"
+      ],
+      "opposite": "rare",
+      "pitfall": "Prevalent means widespread, not necessarily dominant; a less common practice can still be prevalent."
+    },
+    {
+      "id": "privation",
+      "kind": "word",
+      "term": "privation",
+      "pos": "noun",
+      "phonetic": "/praɪˈveɪʃən/",
+      "sayIt": "pry-VAY-shun",
+      "register": "Formal",
+      "meaning": "A lack of something essential, especially food, shelter, money or other basic necessities.",
+      "nuance": "The word is serious and usually describes hardship caused by deprivation. It can also mean simply being without something, but that sense is less common.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · supporting a colleague",
+          "sentence": "The company’s flexible hours help reduce the privation faced by employees working irregular shifts.",
+          "highlight": "privation",
+          "tip": "Use it in formal contexts when describing severe lack of basic needs."
+        },
+        {
+          "setting": "social",
+          "where": "Community appeal · helping families",
+          "sentence": "Volunteers are collecting food because winter privation continues to affect many local households.",
+          "highlight": "privation",
+          "tip": "It sounds more formal and serious than “lack” or “shortage.”"
+        },
+        {
+          "setting": "writing",
+          "where": "Report · describing poverty",
+          "sentence": "The report links housing privation to poor health, interrupted education and difficulty finding work.",
+          "highlight": "privation",
+          "tip": "Often appears in reports and essays about poverty, inequality or social support."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin privatio, meaning “a taking away” or “depriving,” related to privare, “to deprive.” It entered English in the sense of taking away or loss.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Privatio develops from privare, meaning “to deprive” or “take away.”"
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English in formal legal and philosophical writing."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used for the lack of basic necessities and for severe hardship."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "deprivation",
+          "label": "noun"
+        },
+        {
+          "term": "privative",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "hardship",
+        "destitution",
+        "penury",
+        "scarcity"
+      ],
+      "opposite": "abundance",
+      "pitfall": "Don’t use it merely for any inconvenience or minor shortage; it usually suggests a serious lack of necessities."
+    },
+    {
+      "id": "progeny",
+      "kind": "word",
+      "term": "progeny",
+      "pos": "noun",
+      "phonetic": "/ˈprɒdʒəni/",
+      "sayIt": "PROJ-uh-nee",
+      "register": "Formal",
+      "meaning": "The children, grandchildren, and later descendants of a person, family, group, or organism.",
+      "nuance": "It is a collective noun and can sound formal or literary. It may refer to human descendants or to offspring produced by plants or animals.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company history · discussing founders",
+          "sentence": "The progeny of the founding family now run several departments across the organisation.",
+          "highlight": "progeny",
+          "tip": "Often used in historical or formal writing about a family’s later generations."
+        },
+        {
+          "setting": "social",
+          "where": "Family reunion · introducing cousins",
+          "sentence": "The progeny of my grandparents ranged in age from nineteen to seventy-two.",
+          "highlight": "progeny",
+          "tip": "A slightly formal alternative to descendants, especially when describing several generations."
+        },
+        {
+          "setting": "writing",
+          "where": "Biology report · recording reproduction",
+          "sentence": "The female produces up to twenty offspring, but few of the progeny survive their first winter.",
+          "highlight": "progeny",
+          "tip": "Common in technical and scientific writing when referring to young organisms collectively."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin progenies, meaning “offspring” or “descendants,” formed from roots meaning “forth” and “to beget.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Progenies referred to offspring or descendants."
+          },
+          {
+            "when": "1500s",
+            "text": "The word began appearing in English in formal and scholarly writing."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly formal and is also used in biology."
+          }
+        ]
+      },
+      "similar": [
+        "descendants",
+        "offspring",
+        "issue"
+      ],
+      "opposite": "ancestors",
+      "pitfall": "It is usually collective, so avoid saying “one of the progenys”; use “descendant” or “offspring” instead."
+    },
+    {
+      "id": "prohibition",
+      "kind": "word",
+      "term": "prohibition",
+      "pos": "noun",
+      "phonetic": "/ˌproʊhɪˈbɪʃən/",
+      "sayIt": "proh-uh-BISH-uhn",
+      "register": "Formal",
+      "meaning": "A law or official rule that makes a particular activity or action illegal or forbidden.",
+      "nuance": "This is a formal word for an enforced ban, often imposed by a government or other authority. It can also refer more broadly to a strong social or moral restriction.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Compliance meeting · reviewing workplace rules",
+          "sentence": "The new prohibition on sharing customer data applies to every member of the support team.",
+          "highlight": "prohibition",
+          "tip": "Use it when describing a strict rule enforced by an organisation or government."
+        },
+        {
+          "setting": "social",
+          "where": "Discussion · local drinking restrictions",
+          "sentence": "The prohibition on selling alcohol after ten applies throughout the county.",
+          "highlight": "prohibition",
+          "tip": "It sounds more official and specific than simply saying a ban."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · explaining a new law",
+          "sentence": "The regulation introduces a clear prohibition on disposable plastic bags in large stores.",
+          "highlight": "prohibition",
+          "tip": "Common in legal, political and policy writing when you need a formal term for a ban."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin prohibitio, meaning “a forbidding,” based on prohibere, “to forbid, hold away from, or prevent.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Prohibere forms from pro-, meaning “before” or “in front of,” and habere, meaning “to hold.”"
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The Latin-derived word prohibition begins appearing in English legal and religious writing."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for official bans on actions, especially laws or regulations enforced by authorities."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "prohibit",
+          "label": "verb"
+        },
+        {
+          "term": "prohibitive",
+          "label": "adjective"
+        },
+        {
+          "term": "prohibitionist",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "ban",
+        "restriction",
+        "embargo",
+        "proscription"
+      ],
+      "opposite": "permission",
+      "pitfall": "Don’t confuse prohibition, which is a ban or rule, with prohibitionism, which means support for strict bans, especially on alcohol."
+    },
+    {
+      "id": "propinquity",
+      "kind": "word",
+      "term": "propinquity",
+      "pos": "noun",
+      "phonetic": "/prəˈpɪŋkwəti/",
+      "sayIt": "pruh-PING-kwuh-tee",
+      "register": "Formal",
+      "meaning": "The state of being close or near to someone or something in space, time or relationship.",
+      "nuance": "Often suggests that closeness brings opportunities, obligations or preferences. It can also refer to the tendency of events or people to come together.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Hiring discussion · comparing candidates",
+          "sentence": "The law of propinquity often gives preference to relatives who live close to the role.",
+          "highlight": "propinquity",
+          "tip": "Usually appears in the phrase “the law of propinquity,” meaning preference for nearby relatives."
+        },
+        {
+          "setting": "social",
+          "where": "Neighbourhood event · introducing neighbours",
+          "sentence": "Through daily propinquity, what began as a passing acquaintance developed into a close friendship.",
+          "highlight": "propinquity",
+          "tip": "Useful when describing how frequent contact creates closeness."
+        },
+        {
+          "setting": "writing",
+          "where": "Urban-planning report · neighbourhood design",
+          "sentence": "The report criticises the design for encouraging propinquity while providing little public space.",
+          "highlight": "propinquity",
+          "tip": "A formal alternative to “closeness” or “proximity.”"
+        }
+      ],
+      "origin": {
+        "summary": "From Latin propinquitas, meaning nearness or closeness, based on propinquus, meaning near.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Propinquitas means nearness in space, relationship or kinship."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English, initially with a focus on closeness or proximity."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly formal, especially in the phrase “the law of propinquity.”"
+          }
+        ]
+      },
+      "similar": [
+        "proximity",
+        "closeness",
+        "nearness",
+        "adjacency"
+      ],
+      "opposite": "remoteness",
+      "pitfall": "Do not confuse it with propensity, which means a tendency toward a particular behaviour."
+    },
+    {
+      "id": "propriety",
+      "kind": "word",
+      "term": "propriety",
+      "pos": "noun",
+      "phonetic": "/prəˈpraɪəti/",
+      "sayIt": "pruh-PRY-uh-tee",
+      "register": "Formal",
+      "meaning": "The quality of being suitable, proper or acceptable in a particular situation.",
+      "nuance": "Often describes behaviour, speech or choices that respect social expectations. It can sound old-fashioned, but it remains common in formal writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Business dinner · discussing a client",
+          "sentence": "There is little propriety in raising a disputed fee before the meal has even begun.",
+          "highlight": "propriety",
+          "tip": "Use it when judging whether an action is appropriate, especially in a professional setting."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception · small talk",
+          "sentence": "He had the propriety to wait until the speeches ended before mentioning the seating plan.",
+          "highlight": "propriety",
+          "tip": "It can politely suggest that someone crossed a boundary, though it may sound formal."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal letter · requesting an adjustment",
+          "sentence": "I would be grateful if you could consider the propriety of extending the deadline.",
+          "highlight": "propriety",
+          "tip": "A formal alternative to appropriateness when discussing conduct or timing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin proprietas, meaning ownership or a property, through Old French. Its sense developed from what belongs to someone or is proper for them into what is suitable or socially acceptable.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Proprietas means ownership, a possession or what is proper."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English through Old French and first refers to ownership or rightful possession."
+          },
+          {
+            "when": "1500s onward",
+            "text": "It develops the sense of suitable or socially acceptable conduct."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly appears in formal discussion of behaviour and social expectations."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "proprietary",
+          "label": "adjective"
+        },
+        {
+          "term": "proprietor",
+          "label": "noun (owner)"
+        },
+        {
+          "term": "proprietorship",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "decorum",
+        "etiquette",
+        "appropriateness",
+        "respectability"
+      ],
+      "opposite": "impropriety",
+      "pitfall": "Do not confuse it with proprietary, which usually means privately owned or based on intellectual property."
+    },
+    {
+      "id": "protocol",
+      "kind": "word",
+      "term": "protocol",
+      "pos": "noun",
+      "phonetic": "/ˈprəʊtəkɒl/",
+      "sayIt": "PRO-to-kol",
+      "register": "Formal; common at work and in institutions",
+      "meaning": "A set of official rules for how something should be done or how people should behave in a particular setting.",
+      "nuance": "The word suggests an agreed, orderly process. It is especially common for procedures in organisations, government, diplomacy, research and computing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · handling customer data",
+          "sentence": "We need a clear protocol for storing passwords and sharing sensitive information.",
+          "highlight": "protocol",
+          "tip": "Use it for a formal procedure that everyone should follow."
+        },
+        {
+          "setting": "social",
+          "where": "Formal dinner · receiving guests",
+          "sentence": "The protocol was to greet each guest before taking our seats at the table.",
+          "highlight": "protocol",
+          "tip": "Here it means the expected rules of polite or ceremonial behaviour."
+        },
+        {
+          "setting": "writing",
+          "where": "Research instructions · lab safety",
+          "sentence": "The protocol explains how to dispose of the samples safely and record each step.",
+          "highlight": "protocol",
+          "tip": "It fits naturally in documents that lay out a standard method or sequence."
+        }
+      ],
+      "origin": {
+        "summary": "From the ancient Greek protokollon, meaning the first sheet of a document. The word later developed the sense of an official set of rules.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Protokollon referred to the first leaf or cover of a rolled document, from proto, ‘first’, and kollon, ‘leaf’."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "Entered English through French and Latin, initially referring to official documents and their formal structure."
+          },
+          {
+            "when": "1600s onward",
+            "text": "Expanded to mean the formal rules observed in diplomacy and ceremonial settings."
+          },
+          {
+            "when": "Today",
+            "text": "Also widely refers to standard procedures in computing, research, healthcare and organisations."
+          }
+        ]
+      },
+      "similar": [
+        "procedure",
+        "code of conduct",
+        "rules",
+        "etiquette"
+      ],
+      "pitfall": "In computing, a protocol is a defined method for communication; it is not simply any procedure."
+    },
+    {
+      "id": "raiment",
+      "kind": "word",
+      "term": "raiment",
+      "pos": "noun",
+      "phonetic": "/ˈreɪmənt/",
+      "sayIt": "RAY-ment",
+      "register": "Literary and formal",
+      "meaning": "Clothing or dress, especially formal or ceremonial garments.",
+      "nuance": "An old-fashioned, literary word with an elevated tone. It usually refers to clothing collectively rather than to one individual garment.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Museum presentation · historical clothing",
+          "sentence": "The curator explained how the embroidered raiment identified the wearer’s rank.",
+          "highlight": "raiment",
+          "tip": "Use it for distinctive or ceremonial clothing in formal historical writing."
+        },
+        {
+          "setting": "social",
+          "where": "Costume gathering · describing an outfit",
+          "sentence": "Her flowing raiment transformed an ordinary gown into something from another era.",
+          "highlight": "raiment",
+          "tip": "It sounds poetic or theatrical, so avoid it in casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Historical novel · describing a ceremony",
+          "sentence": "Despite his fine raiment, the young prince looked nervous before the crowd.",
+          "highlight": "raiment",
+          "tip": "It works well in historical fiction, especially for court dress, robes or ceremonial clothing."
+        }
+      ],
+      "origin": {
+        "summary": "Raiment comes from Middle English raiment, borrowed from Old French raiment, meaning clothing or dress.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old French",
+            "text": "Raiment meant clothing, dress or garments."
+          },
+          {
+            "when": "Medieval English",
+            "text": "The word entered Middle English in religious, literary and courtly contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It survives mainly as a formal or literary word, sometimes with a ceremonial tone."
+          }
+        ]
+      },
+      "similar": [
+        "apparel",
+        "clothing",
+        "attire",
+        "garb"
+      ],
+      "pitfall": "Raiment usually means clothing as a whole, so do not use it for one hat, robe or pair of shoes."
+    },
+    {
+      "id": "roster",
+      "kind": "word",
+      "term": "roster",
+      "pos": "noun",
+      "phonetic": "/ˈrɒstər/",
+      "sayIt": "ROSS-ter",
+      "register": "Common at work",
+      "meaning": "A list of people, often showing who is working, participating or responsible for something.",
+      "nuance": "A roster often includes duties, dates or contact details. In British English, it can also mean a work schedule.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · assigning shifts",
+          "sentence": "The on-call roster is posted every Monday, so check it before your shift.",
+          "highlight": "roster",
+          "tip": "Common for staff lists, shift schedules and emergency teams."
+        },
+        {
+          "setting": "social",
+          "where": "House party · organising food",
+          "sentence": "I put the barbecue roster on the fridge, but nobody has claimed a dish yet.",
+          "highlight": "roster",
+          "tip": "In informal English, it can humorously mean a list of guests or jobs."
+        },
+        {
+          "setting": "writing",
+          "where": "Event email · confirming speakers",
+          "sentence": "Please send the speaker roster by Friday, including each person’s title and email address.",
+          "highlight": "roster",
+          "tip": "Use it when you need a formal list of people rather than a general description."
+        }
+      ],
+      "origin": {
+        "summary": "The word probably comes through medieval Latin from a term for a list or table, although its exact development is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "A medieval form of the word was used for a list, roll or table of names."
+          },
+          {
+            "when": "Later",
+            "text": "English adopted it for official lists of soldiers, officials and other participants."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly refers to staff lists, schedules or groups taking part in an event."
+          }
+        ]
+      },
+      "similar": [
+        "schedule",
+        "rota",
+        "staff list",
+        "lineup"
+      ],
+      "pitfall": "A roster usually identifies people and may show their roles, but it is not always the same as a rota, which focuses on when duties are performed."
+    },
+    {
+      "id": "rustic",
+      "kind": "word",
+      "term": "rustic",
+      "pos": "adjective",
+      "phonetic": "/ˈrʌstɪk/",
+      "sayIt": "RUS-tik",
+      "register": "Common at work",
+      "meaning": "Connected with the countryside or country life, especially in a simple, natural style.",
+      "nuance": "It can suggest warm, traditional simplicity, but it may sound mildly disparaging if it implies someone is unsophisticated or awkward.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Venue review · describing a restaurant",
+          "sentence": "The venue has a rustic look, with wooden tables and soft lighting.",
+          "highlight": "rustic",
+          "tip": "Use it for a deliberately simple, countryside-inspired style."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend chat · recommending a guesthouse",
+          "sentence": "The guesthouse is rustic, but the beds are comfortable and the breakfast is excellent.",
+          "highlight": "rustic",
+          "tip": "It works when you mean simple and informal rather than luxurious."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel review · describing a village",
+          "sentence": "We spent the afternoon walking through a rustic village of stone cottages and narrow lanes.",
+          "highlight": "rustic",
+          "tip": "It paints an atmospheric picture, especially in travel writing."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through Latin from a root meaning “countryside,” and its early English sense referred to rural life.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "Rusticus referred to country life and was formed from rus, meaning “countryside” or “country estate.”"
+          },
+          {
+            "when": "1500s",
+            "text": "The word entered English with meanings connected to rural places and country customs."
+          },
+          {
+            "when": "Today",
+            "text": "It most often describes a simple, natural or countryside style."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "rusticity",
+          "label": "noun"
+        },
+        {
+          "term": "rustically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "rural",
+        "pastoral",
+        "countryside",
+        "plain",
+        "rough-hewn"
+      ],
+      "opposite": "urban",
+      "pitfall": "Rustic can sound negative when used about people, because it may imply lack of polish or sophistication."
+    },
+    {
+      "id": "saga",
+      "kind": "word",
+      "term": "saga",
+      "pos": "noun",
+      "phonetic": "/ˈsɑːɡə/",
+      "sayIt": "SAH-guh",
+      "register": "Formal in literature; casual at work",
+      "meaning": "A long, involved story about a family, conflict, or a series of complicated events.",
+      "nuance": "Today it is often used lightly for an unexpectedly messy or drawn-out process. It can sound dramatic, weary, or humorous rather than strictly literary.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project debrief · explaining delays",
+          "sentence": "The software migration became a six-month saga, with three failed launches and endless troubleshooting.",
+          "highlight": "saga",
+          "tip": "Use it when describing a complicated experience, often with a touch of irony."
+        },
+        {
+          "setting": "social",
+          "where": "Family dinner · sharing old stories",
+          "sentence": "My grandfather’s saga began when he left the village and eventually settled across the coast.",
+          "highlight": "saga",
+          "tip": "It suggests a sweeping personal story with many episodes and turning points."
+        },
+        {
+          "setting": "writing",
+          "where": "Novel review · describing a family epic",
+          "sentence": "Across three generations, the novel becomes a gripping saga of ambition, betrayal, and unexpected love.",
+          "highlight": "saga",
+          "tip": "Use it for a broad narrative that develops across a long period or many lives."
+        }
+      ],
+      "origin": {
+        "summary": "Saga comes from Old Norse, where it meant a narrative or history. It entered English through Old Norse literature before gaining a modern, broader meaning.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old Norse",
+            "text": "Saga means “a telling, narrative, or history,” especially a story from the past."
+          },
+          {
+            "when": "1200s",
+            "text": "The word appears in English through translations and retellings of Icelandic sagas."
+          },
+          {
+            "when": "Today",
+            "text": "It can describe any long, complicated story or ordeal, not only an epic from the past."
+          }
+        ]
+      },
+      "similar": [
+        "epic",
+        "tale",
+        "story",
+        "chronicle"
+      ],
+      "pitfall": "A saga is usually broad and event-filled; use “story” or “anecdote” for something short and focused."
+    },
+    {
+      "id": "salvation",
+      "kind": "word",
+      "term": "salvation",
+      "pos": "noun",
+      "phonetic": "/sælˈveɪʃən/",
+      "sayIt": "sal-VAY-shun",
+      "register": "Common in religious contexts; occasional figurative use",
+      "meaning": "Deliverance from danger, difficulty, or, in religious belief, sin and its consequences.",
+      "nuance": "It often carries a strong religious meaning, especially when it refers to eternal life. In everyday use, it can dramatically describe a solution that saves someone from a serious problem.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · recovering a lost file",
+          "sentence": "The automatic backup was their salvation when the shared document disappeared.",
+          "highlight": "salvation",
+          "tip": "Use this figuratively for a solution that prevents a serious loss."
+        },
+        {
+          "setting": "social",
+          "where": "Family dinner · fixing a travel problem",
+          "sentence": "Her spare key was the salvation that evening when the others locked themselves out.",
+          "highlight": "salvation",
+          "tip": "The word adds drama or relief, so it suits memorable mishaps."
+        },
+        {
+          "setting": "writing",
+          "where": "History essay · discussing a religious movement",
+          "sentence": "The movement promised salvation through faith, forgiveness and a change of life.",
+          "highlight": "salvation",
+          "tip": "In religious writing, check which beliefs the writer is discussing."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through Old French from Latin, where it was associated with saving someone and being made safe. It developed a major religious meaning through Christian teaching.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Salvationem develops from salvare, ‘to save’, and salus, ‘safety, well-being’."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English through Old French as salvacion, meaning the act of saving or being saved."
+          },
+          {
+            "when": "Christian era",
+            "text": "It becomes established for religious deliverance from sin and the promise of eternal life."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "save",
+          "label": "verb"
+        },
+        {
+          "term": "savior",
+          "label": "noun (person)"
+        },
+        {
+          "term": "salvage",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "deliverance",
+        "redemption",
+        "rescue",
+        "salvage"
+      ],
+      "opposite": "damnation",
+      "pitfall": "Don’t use salvation as a simple synonym for saving money or rescuing possessions; the word is more serious and often suggests danger, spiritual need or dramatic relief."
+    },
+    {
+      "id": "sanctuary",
+      "kind": "word",
+      "term": "sanctuary",
+      "pos": "noun",
+      "phonetic": "/ˈsæŋktʃuˌɛri/",
+      "sayIt": "SANGK-choo-uh-ree",
+      "register": "Formal; common in legal and public affairs",
+      "meaning": "A place where someone or something is protected from danger, harm, or disturbance.",
+      "nuance": "It can mean a physical shelter, legal protection, or a figurative place of peace. It often suggests a stronger sense of safety than refuge.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Employee wellbeing · setting digital boundaries",
+          "sentence": "The company built a digital sanctuary where employees can disconnect from notifications.",
+          "highlight": "sanctuary",
+          "tip": "Use it for a protected space where people can focus, recover, or feel safe."
+        },
+        {
+          "setting": "social",
+          "where": "Helping a friend · temporary housing crisis",
+          "sentence": "My friend found temporary sanctuary at our place while she sorted out her housing crisis.",
+          "highlight": "sanctuary",
+          "tip": "It sounds formal and supportive when describing shelter from danger or serious difficulty."
+        },
+        {
+          "setting": "writing",
+          "where": "Community report · describing a public space",
+          "sentence": "The report calls the community garden a sanctuary for residents seeking a quiet break.",
+          "highlight": "sanctuary",
+          "tip": "Use it in formal writing when a place offers genuine protection, comfort, or relief."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin sanctuarium, meaning a holy place or place of refuge. The Latin word was based on sanctus, meaning holy or protected.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Sanctuarium referred to a sacred place offering protection under Roman law."
+          },
+          {
+            "when": "Old French",
+            "text": "The word entered French as sanctuaire, meaning a holy place or refuge."
+          },
+          {
+            "when": "Medieval English",
+            "text": "It entered English for both religious sanctuaries and places of legal protection."
+          },
+          {
+            "when": "Today",
+            "text": "It can describe physical, legal, or figurative protection."
+          }
+        ]
+      },
+      "similar": [
+        "refuge",
+        "haven",
+        "asylum",
+        "shelter"
+      ],
+      "pitfall": "Sanctuary suggests real protection or relief, so it may sound excessive for an ordinary favourite chair or quiet corner."
+    },
+    {
+      "id": "schism",
+      "kind": "word",
+      "term": "schism",
+      "pos": "noun",
+      "phonetic": "/sɪzəm/",
+      "sayIt": "SIZ-uhm",
+      "register": "Formal",
+      "meaning": "A serious disagreement that separates a group into different parts.",
+      "nuance": "It suggests a lasting or organised division, especially within a religion, political party, or organisation. The word often sounds serious and may imply conflict over beliefs or authority.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Board meeting · disagreement over strategy",
+          "sentence": "The disagreement over the merger created a schism within the leadership team.",
+          "highlight": "schism",
+          "tip": "Use it when the split affects how a group is organised or managed."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · an old disagreement",
+          "sentence": "A schism had formed between the two brothers, and they no longer spoke.",
+          "highlight": "schism",
+          "tip": "It is stronger than a simple argument and often suggests a lasting separation."
+        },
+        {
+          "setting": "writing",
+          "where": "History essay · religious division",
+          "sentence": "The schism divided the church for decades and changed how it governed itself.",
+          "highlight": "schism",
+          "tip": "Common in historical, political, and religious writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek skhisma, ‘a separation or split’, which comes from a word meaning ‘to split or tear’. It entered English through Latin in the Middle Ages.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "skhisma, ‘separation’ or ‘split’, from skhizein, ‘to split or tear’."
+          },
+          {
+            "when": "Medieval Latin",
+            "text": "schisma, used for divisions within the early Christian church."
+          },
+          {
+            "when": "14th century",
+            "text": "The word appears in English, originally meaning a division in the church."
+          },
+          {
+            "when": "Today",
+            "text": "It describes serious splits within groups, organisations, and political or religious communities."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "schismatic",
+          "label": "adjective or noun"
+        }
+      ],
+      "similar": [
+        "split",
+        "division",
+        "rupture",
+        "faction"
+      ],
+      "opposite": "unity",
+      "pitfall": "Don’t confuse it with a minor disagreement: a schism normally indicates a significant division within one group."
+    },
+    {
+      "id": "scion",
+      "kind": "word",
+      "term": "scion",
+      "pos": "noun",
+      "phonetic": "/ˈsaɪən/",
+      "sayIt": "SY-on",
+      "register": "Formal",
+      "meaning": "A descendant of a particular family, especially one from a wealthy, aristocratic or influential family.",
+      "nuance": "The word can sound admiring when it emphasises a distinguished family line, but it may sound snooty when used about an apparent sense of entitlement.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company introduction · senior guest",
+          "sentence": "She is the scion of a family that has built businesses for three generations.",
+          "highlight": "scion",
+          "tip": "Use it for a direct descendant, especially when family background is relevant."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · old family name",
+          "sentence": "He mentioned that he was a scion of the family whose townhouse now serves as a museum.",
+          "highlight": "scion",
+          "tip": "It can add a slightly formal or old-fashioned flavour to family talk."
+        },
+        {
+          "setting": "writing",
+          "where": "Biography · describing a childhood",
+          "sentence": "The scion of an old political family, she entered public life after university.",
+          "highlight": "scion",
+          "tip": "Often appears at the start of a sentence or after a comma for a formal effect."
+        }
+      ],
+      "origin": {
+        "summary": "The word probably comes through Old French from a Latin word for a descendant or offspring; the exact Latin derivation is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The source word meant a descendant or offspring."
+          },
+          {
+            "when": "Old French",
+            "text": "The word enters medieval usage in the sense of a descendant."
+          },
+          {
+            "when": "1300s",
+            "text": "The word appears in English, initially referring to a descendant."
+          },
+          {
+            "when": "Today",
+            "text": "It usually refers to a descendant of a wealthy, aristocratic or influential family."
+          }
+        ]
+      },
+      "similar": [
+        "descendant",
+        "heir",
+        "offspring"
+      ],
+      "opposite": "ancestor",
+      "pitfall": "It means a descendant, not the eldest child, and it is more specific than “heir” unless inheritance is involved."
+    },
+    {
+      "id": "shibboleth",
+      "kind": "word",
+      "term": "shibboleth",
+      "pos": "noun",
+      "phonetic": "/ˈʃɪbələθ/",
+      "sayIt": "SHIB-bo-leth",
+      "register": "Formal",
+      "meaning": "A word, phrase, or custom that reveals whether someone belongs to a particular group or shares its loyalties.",
+      "nuance": "This is a formal, often literary word for a test of belonging or allegiance. It can also refer more broadly to a password, catchphrase, or shared saying.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · judging a proposal",
+          "sentence": "Customer trust should be our shibboleth for deciding whether the proposal is genuinely good.",
+          "highlight": "shibboleth",
+          "tip": "Use it when a shared principle reveals whether someone truly belongs to the team."
+        },
+        {
+          "setting": "social",
+          "where": "Reunion · recognising fellow supporters",
+          "sentence": "Mentioning an obscure football song was his shibboleth, and everyone knew he supported the club.",
+          "highlight": "shibboleth",
+          "tip": "It fits when a word or habit marks membership of a close-knit group."
+        },
+        {
+          "setting": "writing",
+          "where": "Essay · discussing group identity",
+          "sentence": "The phrase became a shibboleth that separated longtime members from newcomers.",
+          "highlight": "shibboleth",
+          "tip": "It adds a formal tone when describing a phrase that tests allegiance or belonging."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from the Book of Judges, where opposing people used the pronunciation of a word to identify members of their own group.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Book of Judges",
+            "text": "People seeking to identify Ephraimites asked them to pronounce a word; those who pronounced it differently were identified as enemies."
+          },
+          {
+            "when": "Medieval period",
+            "text": "The word enters English for a phrase or custom used to test group membership."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal word for a test of allegiance, identity, or belonging."
+          }
+        ]
+      },
+      "similar": [
+        "password",
+        "watchword",
+        "catchphrase",
+        "test of allegiance"
+      ],
+      "pitfall": "Do not use it as a general word for any slogan or motto; it suggests that the words reveal membership or loyalty."
+    },
+    {
+      "id": "site",
+      "kind": "word",
+      "term": "site",
+      "pos": "noun",
+      "phonetic": "/saɪt/",
+      "sayIt": "SITE",
+      "register": "Common at work",
+      "meaning": "A particular place where something happens, is built, or can be found, including a place online.",
+      "nuance": "The word is broad and often points to an official or clearly defined location, such as a construction site, archaeological site, or website.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · safety briefing",
+          "sentence": "All visitors must check in at the site before entering the construction area.",
+          "highlight": "site",
+          "tip": "Use it for a place associated with a particular activity or project."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend trip · choosing a picnic spot",
+          "sentence": "We found a quiet site near the river with plenty of shade and room for everyone.",
+          "highlight": "site",
+          "tip": "It can sound more formal than “spot” or “place,” especially for a planned or notable location."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · sharing an online resource",
+          "sentence": "The full report and registration details are available on the event site.",
+          "highlight": "site",
+          "tip": "In digital contexts, “site” often means a website or a specific page within one."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through Old French from Latin situs, meaning “position” or “situation.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The source word situs referred to a position, place, or situation."
+          },
+          {
+            "when": "Earlier",
+            "text": "The word entered English through Old French in senses connected with position and location."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for physical locations and, by extension, websites and online destinations."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "siting",
+          "label": "noun (placing)"
+        },
+        {
+          "term": "site",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "location",
+        "place",
+        "venue",
+        "website"
+      ],
+      "pitfall": "Don't use “site” when you mean a general idea of location; use “place” or “area” instead."
+    },
+    {
+      "id": "stigmatize",
+      "kind": "word",
+      "term": "stigmatize",
+      "pos": "verb",
+      "phonetic": "/ˈstɪɡmətaɪz/",
+      "sayIt": "STIG-muh-tyze",
+      "register": "Common in serious or professional contexts",
+      "meaning": "To treat someone or something negatively because of a quality, identity or experience associated with them.",
+      "nuance": "This word suggests attaching a social label that can damage a person's reputation or sense of belonging. It is stronger and more formal than simply describing someone negatively.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · addressing workplace prejudice",
+          "sentence": "We should not stigmatize people for taking time off for mental health.",
+          "highlight": "stigmatize",
+          "tip": "Use it when describing harmful assumptions or discrimination in a workplace."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · challenging a stereotype",
+          "sentence": "Calling teenagers lazy can stigmatize a whole group without recognizing the pressures they face.",
+          "highlight": "stigmatize",
+          "tip": "It works well when you want to question a label that puts people in a negative category."
+        },
+        {
+          "setting": "writing",
+          "where": "Public-health article · explaining social attitudes",
+          "sentence": "Public campaigns can reduce the stigma surrounding treatment and help people seek support earlier.",
+          "highlight": "stigma",
+          "tip": "Use the noun stigma with surrounding, reduce, tackle or combat to discuss the negative label itself."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek stigma, meaning a mark or stain, especially one associated with disgrace. The word originally referred to a visible mark on someone, then developed into the idea of a social label.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "Stigma referred to a mark or stain placed on a person, often as a sign of disgrace."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "Reaches English through Latin and French, initially in medical and moral contexts."
+          },
+          {
+            "when": "Today",
+            "text": "Developed into a verb meaning to negatively label or shame someone."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "stigma",
+          "label": "noun"
+        },
+        {
+          "term": "stigmatization",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "label",
+        "brand",
+        "stereotype",
+        "discriminate against"
+      ],
+      "opposite": "destigmatize",
+      "pitfall": "Stigmatize means to mark someone negatively; it does not merely mean to describe or identify a characteristic."
+    },
+    {
+      "id": "stringent",
+      "kind": "word",
+      "term": "stringent",
+      "pos": "adjective",
+      "phonetic": "/ˈstrɪŋjənt/",
+      "sayIt": "STRIN-junt",
+      "register": "Formal",
+      "meaning": "Extremely strict, precise, and demanding, especially about rules or conditions.",
+      "nuance": "It often suggests that there is very little room for flexibility. It can describe regulations, requirements or demanding tests.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Compliance review · tightening a policy",
+          "sentence": "The security team introduced stringent checks for every request to access customer data.",
+          "highlight": "stringent",
+          "tip": "Use it when rules or controls are unusually strict and exact."
+        },
+        {
+          "setting": "social",
+          "where": "Planning an event · discussing entry rules",
+          "sentence": "There were stringent restrictions on photographs, so we left our phones with the attendant.",
+          "highlight": "stringent",
+          "tip": "It suits formal situations where a rule is being presented as firm and inflexible."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · evaluating performance",
+          "sentence": "The report criticizes the project’s stringent deadlines, which left the team with little time for testing.",
+          "highlight": "stringent",
+          "tip": "Often pairs with deadlines, conditions, rules, restrictions or testing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin stringens, meaning ‘drawn tight’ or ‘strict’, related to stringere, ‘to draw or bind tightly’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Stringens means ‘drawn tight, strict, or exacting’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with the sense of being tight or strict."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes rules, requirements, tests and conditions that allow little freedom."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "stringency",
+          "label": "noun"
+        },
+        {
+          "term": "stringently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "strict",
+        "rigorous",
+        "severe",
+        "restrictive",
+        "exacting"
+      ],
+      "opposite": "lenient",
+      "pitfall": "Don’t confuse it with stringant, which means conspicuous or obvious in American English."
+    },
+    {
+      "id": "suffrage",
+      "kind": "word",
+      "term": "suffrage",
+      "pos": "noun",
+      "phonetic": "/ˈsʌfrɪdʒ/",
+      "sayIt": "SUH-frij",
+      "register": "Formal",
+      "meaning": "The right to vote in political elections.",
+      "nuance": "Most often used in political, historical and legal contexts. It can also refer more broadly to voting or the act of casting a vote.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Civic meeting · discussing elections",
+          "sentence": "The campaign wants to protect voting access and make suffrage easier for rural communities.",
+          "highlight": "suffrage",
+          "tip": "Use it when discussing voting rights or access to elections."
+        },
+        {
+          "setting": "social",
+          "where": "Museum visit · women’s rights exhibition",
+          "sentence": "The exhibition shows how women organised for suffrage before receiving the vote in Britain.",
+          "highlight": "suffrage",
+          "tip": "In this context, it usually refers to the campaign for women’s voting rights."
+        },
+        {
+          "setting": "writing",
+          "where": "History essay · democratic reform",
+          "sentence": "The reform expanded suffrage by removing property restrictions from the electoral system.",
+          "highlight": "suffrage",
+          "tip": "Pairs naturally with universal, limited, equal and parliamentary."
+        }
+      ],
+      "origin": {
+        "summary": "From Anglo-French suffrage, meaning ‘a vote’, which came from Latin suffragium, a word associated with voting and support.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Classical Latin",
+            "text": "Suffragium referred to a vote, decision or expression of support."
+          },
+          {
+            "when": "Medieval period",
+            "text": "The word entered English through Anglo-French in the sense of a vote."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "It became closely associated with campaigns for women’s right to vote."
+          }
+        ]
+      },
+      "similar": [
+        "the vote",
+        "voting rights",
+        "the franchise",
+        "electoral rights"
+      ],
+      "opposite": "disenfranchisement",
+      "pitfall": "Don’t confuse suffrage with suffragette or suffragist: those describe women or activists involved in the British campaign for women’s voting rights."
+    },
+    {
+      "id": "superstition",
+      "kind": "word",
+      "term": "superstition",
+      "pos": "noun",
+      "phonetic": "/ˌsuːpəˈstɪʃən/",
+      "sayIt": "soo-per-STISH-un",
+      "register": "Everyday",
+      "meaning": "A belief or practice based on luck, fear, or ideas that cannot be supported by evidence or reasoning.",
+      "nuance": "Often describes an old ritual, sign, or saying that people follow even though it has no proven connection to the result they expect.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · questioning a process",
+          "sentence": "The team treats the old rule about opening presentations on Friday as a superstition.",
+          "highlight": "superstition",
+          "tip": "Useful when gently separating a team tradition from evidence-based practice."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · explaining a ritual",
+          "sentence": "My grandmother refuses to walk under a ladder, although she knows it is only a superstition.",
+          "highlight": "superstition",
+          "tip": "Often appears in conversations about luck, customs, and family beliefs."
+        },
+        {
+          "setting": "writing",
+          "where": "History report · evaluating a belief",
+          "sentence": "The report describes the ceremony as a superstition rather than evidence that the ritual prevents misfortune.",
+          "highlight": "superstition",
+          "tip": "Pairs well with words such as belief, ritual, fear, and folklore."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin superstitio, meaning excessive fear or awe, and later an unreasonable belief. English borrowed it through medieval Latin and French.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Superstitio originally referred to excessive fear, awe, or anxiety about religious signs."
+          },
+          {
+            "when": "Medieval period",
+            "text": "The word entered English with meanings connected to unreasoned fear and religious practice."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means a belief or ritual based on luck rather than evidence."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "superstitious",
+          "label": "adjective"
+        },
+        {
+          "term": "superstitiously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "folk belief",
+        "myth",
+        "irrational belief",
+        "ritual"
+      ],
+      "opposite": "rational belief",
+      "pitfall": "Don’t use it for every old belief or custom; it implies that the belief lacks a rational or evidential basis."
+    },
+    {
+      "id": "technology",
+      "kind": "word",
+      "term": "technology",
+      "pos": "noun",
+      "phonetic": "/tekˈnɒlədʒi/",
+      "sayIt": "tek-NOL-uh-jee",
+      "register": "Common at work",
+      "meaning": "The practical application of scientific knowledge, tools and methods to solve problems or make tasks easier.",
+      "nuance": "The word can refer to a particular invention or tool, or to a wider field of innovation. It often sounds positive when discussing progress, but can also prompt concern about jobs, privacy or unequal access.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · improving a workflow",
+          "sentence": "New technology has reduced the time we spend preparing monthly reports.",
+          "highlight": "technology",
+          "tip": "Common when discussing tools, systems and ways of working."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · changing daily habits",
+          "sentence": "I’m trying to use technology less at bedtime so I can sleep better.",
+          "highlight": "technology",
+          "tip": "Useful when talking about technology’s impact on everyday life."
+        },
+        {
+          "setting": "writing",
+          "where": "Company report · future plans",
+          "sentence": "Investment in technology will support remote work and improve customer service.",
+          "highlight": "technology",
+          "tip": "Pairs naturally with investment, development, advances and innovation."
+        }
+      ],
+      "origin": {
+        "summary": "Built from Greek roots meaning ‘craft’ or ‘skill’ and ‘study’, originally referring to the systematic study of the practical arts.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "The roots techne, meaning ‘craft or skill’, and logia, meaning ‘study’, form the basis."
+          },
+          {
+            "when": "1600s",
+            "text": "Technology enters English with the sense of the systematic study or description of the practical arts."
+          },
+          {
+            "when": "1800s",
+            "text": "The meaning expands to include the tools and methods used to apply scientific knowledge."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly refers both to technology as a field and to specific devices, systems and techniques."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "technological",
+          "label": "adjective"
+        },
+        {
+          "term": "technologically",
+          "label": "adverb"
+        },
+        {
+          "term": "technologist",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "innovation",
+        "technical know-how",
+        "engineering",
+        "digital tools"
+      ],
+      "pitfall": "Technology is not exactly the same as technique: technology often implies tools or applied science, while technique can be any method or skill."
+    },
+    {
+      "id": "thespian",
+      "kind": "word",
+      "term": "thespian",
+      "pos": "adjective or noun",
+      "phonetic": "/ˈθɛspiən/",
+      "sayIt": "THES-pee-un",
+      "register": "Everyday; literary or dramatic",
+      "meaning": "Thespian means theatrical or exaggeratedly dramatic, and as a noun it means an actor, especially one associated with classical or Shakespearean theatre.",
+      "nuance": "When used as an adjective, it can suggest that someone is performing rather than speaking naturally. As a noun, it has a slightly old-fashioned or literary tone.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · responding to criticism",
+          "sentence": "His thespian outburst made everyone uncomfortable, so we moved on to the actual problem.",
+          "highlight": "thespian",
+          "tip": "Use it when behaviour is noticeably theatrical, melodramatic or performed for attention."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · telling a story",
+          "sentence": "Her thespian retelling of the traffic accident had us all in stitches.",
+          "highlight": "thespian",
+          "tip": "It can describe an exaggerated performance without being completely hostile."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing a performance",
+          "sentence": "The play delivered its thespian energy through bold staging and oversized performances.",
+          "highlight": "thespian",
+          "tip": "The word is useful in reviews when you want to praise or describe overt theatricality."
+        }
+      ],
+      "origin": {
+        "summary": "From the name Thespis, an ancient Greek poet traditionally regarded as the founder of theatre. The word came to mean an actor and later broadened to describe theatrical behaviour.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greece",
+            "text": "Thespis, a poet from the sixth century BCE, is traditionally linked with the beginning of theatre."
+          },
+          {
+            "when": "1600s",
+            "text": "The spelling thespian appears in English in connection with actors and theatre."
+          },
+          {
+            "when": "Today",
+            "text": "It means an actor or, as an adjective, theatrical and sometimes exaggerated."
+          }
+        ]
+      },
+      "similar": [
+        "theatrical",
+        "dramatic",
+        "exaggerated",
+        "actor",
+        "performer"
+      ],
+      "pitfall": "In modern use, thespian often implies exaggerated or affected behaviour, not simply any actor."
+    }
+  ]
+}

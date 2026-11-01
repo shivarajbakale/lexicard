@@ -37,6 +37,8 @@ const CACHE = 'content/cache';
 const DECKS_DIR = 'src/data/decks';
 const GEN_DIR = 'src/data/decks/generated';
 const DECK_SIZE = 25;
+// Never generate or ship these, whatever a source list or the ranking says (political slogans and the like).
+const EXCLUDE = new Set(['all-lives-matter']);
 
 const TOPICS = {
   word: [
@@ -218,7 +220,9 @@ async function rank(kind = flag('kind'), top = Number(flag('top', 500))) {
   if (kind !== 'idiom' && kind !== 'phrase') throw new Error('--kind idiom|phrase');
   const lists = [readJson(join(SRC, `wiktionary-${kind}s.json`), { terms: [] }).terms];
   if (kind === 'idiom') lists.unshift(readJson(join(SRC, 'book-idioms.json'), { terms: [] }).terms);
-  const taken = existingIds();
+  const taken = new Set([...existingIds(), ...EXCLUDE]);
+  // Phrases never repeat an expression already picked as an idiom.
+  if (kind === 'phrase') for (const t of readJson(join(SRC, 'picked-idioms.json'), { terms: [] }).terms) taken.add(slugify(t));
   const terms = [...new Set(lists.flat())].filter((t) => !taken.has(slugify(t)));
   if (!terms.length) throw new Error(`no ${kind} candidates; run scripts/content/fetch-idioms.mjs first`);
 
@@ -338,7 +342,15 @@ async function makeCard(kind, term, system) {
     card.topic = matchTopic(kind, card.topic);
     repair(card);
     last = validateCard(card);
-    if (typeof raw.topic !== 'string' || !raw.topic.trim()) last.push(`topic missing: pick one of ${TOPICS[kind].join(' / ')}`);
+    if (!last.length && (typeof raw.topic !== 'string' || !raw.topic.trim())) {
+      // A good card without a topic: ask for the topic on its own rather than rewriting the card.
+      const pick = await askJson(
+        'Reply with JSON only.',
+        `Which topic fits the ${kind} "${term}" (meaning: ${card.meaning}) best? Choose exactly one of ${JSON.stringify(TOPICS[kind])}. Reply as {"topic": "..."}.`,
+        { maxTokens: 600 },
+      ).catch(() => ({}));
+      card.topic = matchTopic(kind, pick.topic);
+    }
     if (!last.length) return card;
     feedback = `\n\nYour previous attempt had these problems; fix all of them:\n- ${last.join('\n- ')}`;
   }
@@ -381,7 +393,8 @@ async function cards(kind = flag('kind'), limitArg = flag('limit')) {
 
 // ---------- decks ----------
 function decks() {
-  const taken = existingIds();
+  // Hand-written cards win, then idioms win over phrases (some expressions are listed as both).
+  const taken = new Set([...existingIds(), ...EXCLUDE]);
   rmSync(GEN_DIR, { recursive: true, force: true });
   mkdirSync(GEN_DIR, { recursive: true });
   const files = [];
@@ -392,6 +405,7 @@ function decks() {
       .filter((f) => f.endsWith('.json'))
       .map((f) => readJson(join(dir, f)))
       .filter((c) => !taken.has(c.id) && !validateCard(c).length);
+    for (const c of all) taken.add(c.id);
     for (const topic of TOPICS[kind]) {
       const group = all.filter((c) => c.topic === topic).sort((a, b) => a.term.localeCompare(b.term));
       for (let i = 0; i < group.length; i += DECK_SIZE) {

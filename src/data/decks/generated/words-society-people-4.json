@@ -1,0 +1,554 @@
+{
+  "id": "words-society-people-4",
+  "kind": "word",
+  "name": "Society & people · 4",
+  "blurb": "8 words about society & people",
+  "cards": [
+    {
+      "id": "throng",
+      "kind": "word",
+      "term": "throng",
+      "pos": "noun",
+      "phonetic": "/θrɒŋ/",
+      "sayIt": "THRONG",
+      "register": "Common in writing; slightly literary in speech",
+      "meaning": "A large group of people gathered closely together or moving as a crowd.",
+      "nuance": "A throng suggests people are packed together, not merely numerous. It often has a formal or literary tone, while “crowd” is more conversational.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Station platform · disrupted commute",
+          "sentence": "A throng of commuters filled the platform after the signal failure, so staff opened the secondary entrance.",
+          "highlight": "throng",
+          "tip": "Use “a throng of” when the focus is on the dense, moving crowd."
+        },
+        {
+          "setting": "social",
+          "where": "Street festival · joining the crowd",
+          "sentence": "We joined the throng outside the venue and followed the music toward the main stage.",
+          "highlight": "throng",
+          "tip": "This sounds slightly literary; “crowd” may feel more natural in casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · describing a public gathering",
+          "sentence": "A throng of demonstrators gathered in the square, blocking traffic for several hours.",
+          "highlight": "throng",
+          "tip": "The phrase “a throng of people” is especially natural in formal reporting and narrative writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Old English þrung, meaning “crowd” or “press of people,” related to Old English þringan, “to press or crowd.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The ancestor þrung referred to a crowd or a press of people."
+          },
+          {
+            "when": "Middle English",
+            "text": "The noun continued in English, and related uses as a verb meaning to crowd around became established."
+          },
+          {
+            "when": "Modern English",
+            "text": "It is now mainly a formal or literary word for a densely packed crowd."
+          }
+        ]
+      },
+      "similar": [
+        "crowd",
+        "mob",
+        "mass",
+        "press"
+      ],
+      "opposite": "deserted",
+      "pitfall": "It is pronounced like “strong,” with the initial th sound, and should not be confused with that word."
+    },
+    {
+      "id": "tradition",
+      "kind": "word",
+      "term": "tradition",
+      "pos": "noun",
+      "phonetic": "/trəˈdɪʃən/",
+      "sayIt": "truh-DISH-un",
+      "register": "Everyday",
+      "meaning": "A belief, custom, or way of doing something that is passed down through generations.",
+      "nuance": "Traditions often carry a sense of history, identity, and continuity. The word can describe something valued and preserved, or simply something that continues because it has always been done.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · welcoming a new colleague",
+          "sentence": "We have a tradition of taking the new hire out for lunch on their first day.",
+          "highlight": "tradition",
+          "tip": "Use it for a regular practice that has become part of the workplace culture."
+        },
+        {
+          "setting": "social",
+          "where": "Family celebration · sharing an old story",
+          "sentence": "It’s a family tradition to stay up until midnight and tell stories about the year.",
+          "highlight": "tradition",
+          "tip": "This sounds warm and familiar, especially when describing a repeated family or community practice."
+        },
+        {
+          "setting": "writing",
+          "where": "Event invitation · explaining a ceremony",
+          "sentence": "By following local tradition, the couple welcomed each guest with a small gift.",
+          "highlight": "tradition",
+          "tip": "Use it to connect a present-day action with a practice inherited from earlier generations."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French tradicion, derived from Latin traditio, meaning “delivery” or “handing down,” which came from tradere, “to hand over.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Traditio means “delivery” or “handing down,” and comes from tradere, “to hand over.”"
+          },
+          {
+            "when": "Old French",
+            "text": "The word enters French as tradicion, referring to a belief, custom, or practice passed down."
+          },
+          {
+            "when": "Middle English",
+            "text": "Tradition appears in English in religious, legal, and social contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It broadly means any inherited belief, custom, or practice continued across generations."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "traditional",
+          "label": "adjective"
+        },
+        {
+          "term": "traditionally",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "custom",
+        "convention",
+        "heritage",
+        "practice"
+      ],
+      "opposite": "innovation",
+      "pitfall": "A tradition is often valued or treated as authoritative, while a custom may simply be a common practice. The difference is about social meaning, not whether the practice is old."
+    },
+    {
+      "id": "turpitude",
+      "kind": "word",
+      "term": "turpitude",
+      "pos": "noun",
+      "phonetic": "/ˈtɜːrpɪtuːd/",
+      "sayIt": "TUR-pih-TOOD",
+      "register": "Formal",
+      "meaning": "Shameful or immoral behaviour that shows a serious lack of moral character.",
+      "nuance": "This is a strong, dignified word often used in formal criticism or legal contexts. It refers to corrupt or degrading conduct rather than a single harmless mistake.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Board meeting · condemning misconduct",
+          "sentence": "The report described the executive’s conduct as a display of turpitude that damaged the entire organisation.",
+          "highlight": "turpitude",
+          "tip": "Use it for especially serious unethical conduct, especially in formal criticism."
+        },
+        {
+          "setting": "social",
+          "where": "Political discussion · condemning corruption",
+          "sentence": "His attempt to hide the payments only deepened our sense of his turpitude.",
+          "highlight": "turpitude",
+          "tip": "It sounds literary and severe, so reserve it for genuine moral condemnation."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · attacking public dishonesty",
+          "sentence": "The editor condemned the alliance with rhetoric that mixed political criticism with personal turpitude.",
+          "highlight": "turpitude",
+          "tip": "Use it in essays and formal reports when you want a more elevated word for moral degradation."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin turpitudo, meaning shame or baseness, which was built on turpis, meaning ugly or disgraceful.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Turpitudo meant shameful or disgraceful conduct."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English in formal moral and legal writing."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal word for extreme moral degradation or corrupt conduct."
+          }
+        ]
+      },
+      "similar": [
+        "depravity",
+        "vice",
+        "wickedness",
+        "corruption",
+        "degradation"
+      ],
+      "opposite": "virtue",
+      "pitfall": "Turpitude describes shameful conduct or moral character; it does not mean only rudeness or merely something ugly."
+    },
+    {
+      "id": "utopia",
+      "kind": "word",
+      "term": "utopia",
+      "pos": "noun",
+      "phonetic": "/juːˈtəʊpiə/",
+      "sayIt": "yoo-TOH-pee-uh",
+      "register": "Formal and literary",
+      "meaning": "An imaginary place or society with perfect conditions and no serious problems.",
+      "nuance": "The word can be serious or slightly playful. It often suggests an ideal that may be impossible to achieve.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing a proposal",
+          "sentence": "A four-day week with no deadlines sounded like utopia, but the team agreed to test it.",
+          "highlight": "utopia",
+          "tip": "Use it when a proposal seems appealing but difficult to put into practice."
+        },
+        {
+          "setting": "social",
+          "where": "Friend gathering · planning a picnic",
+          "sentence": "By noon, the picnic had reached utopia: warm food, cold drinks and nobody checking their phones.",
+          "highlight": "utopia",
+          "tip": "A light, humorous use can describe a moment that feels absolutely ideal."
+        },
+        {
+          "setting": "writing",
+          "where": "Opinion column · debating workplace policy",
+          "sentence": "The policy sounds like utopia, yet its costs and limits deserve a closer look.",
+          "highlight": "utopia",
+          "tip": "A slightly cautious use signals that an idea may be too perfect to be realistic."
+        }
+      ],
+      "origin": {
+        "summary": "From the Greek name Outopia, meaning ‘no place’, coined by Thomas More for an imaginary ideal society.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "The roots combine ou, ‘no’, and topos, ‘place’."
+          },
+          {
+            "when": "1516",
+            "text": "Thomas More introduces the name Outopia in his book Utopia."
+          },
+          {
+            "when": "Today",
+            "text": "It means an imaginary perfect society, often with a sceptical edge."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "utopian",
+          "label": "adjective"
+        },
+        {
+          "term": "utopianism",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "ideal society",
+        "paradise",
+        "shangri-la",
+        "idyll"
+      ],
+      "opposite": "dystopia",
+      "pitfall": "Don't use utopia simply to mean an ideal goal; it usually suggests a whole imagined place, society or set of conditions."
+    },
+    {
+      "id": "venerable",
+      "kind": "word",
+      "term": "venerable",
+      "pos": "adjective",
+      "phonetic": "/ˈvɛnərəbəl/",
+      "sayIt": "VEN-uh-ruh-buhl",
+      "register": "Formal or respectful",
+      "meaning": "Old and respected because of long experience, history or established importance.",
+      "nuance": "It suggests dignity and authority earned over time. It can sound affectionate or slightly humorous when describing a very old person or well-known tradition.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company anniversary · acknowledging a founder",
+          "sentence": "The venerable nonprofit has supported new graduates for more than fifty years.",
+          "highlight": "venerable",
+          "tip": "Use it for an established organisation when you want to emphasise respected longevity."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · teasing an elder",
+          "sentence": "My venerable aunt remembers every holiday story from the 1970s.",
+          "highlight": "venerable",
+          "tip": "Here it sounds warm and lightly humorous rather than overly formal."
+        },
+        {
+          "setting": "writing",
+          "where": "Property description · noting a historic building",
+          "sentence": "We stayed in a venerable townhouse filled with carved woodwork and family portraits.",
+          "highlight": "venerable",
+          "tip": "It fits descriptive writing when age brings a sense of character and dignity."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin venerabilis, meaning worthy of respect, which came from venerari, ‘to respect or revere’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Classical Latin",
+            "text": "Venerabilis is formed from venerari, ‘to respect or revere’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English through French and is used especially for respected religious figures."
+          },
+          {
+            "when": "Today",
+            "text": "It describes people, buildings, traditions and institutions that are old and dignified."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "venerate",
+          "label": "verb"
+        },
+        {
+          "term": "venerability",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "respected",
+        "esteemed",
+        "august",
+        "time-honoured"
+      ],
+      "opposite": "short-lived",
+      "pitfall": "Do not confuse it with valuable: venerable focuses on respect connected with age or long history, not simply worth or usefulness."
+    },
+    {
+      "id": "venerate",
+      "kind": "word",
+      "term": "venerate",
+      "pos": "verb",
+      "phonetic": "/ˈvɛnəreɪt/",
+      "sayIt": "VEN-uh-rate",
+      "register": "Formal",
+      "meaning": "To regard someone or something with deep respect, often because of their age, achievements, or importance.",
+      "nuance": "This is stronger and more solemn than simply liking or respecting something. It is especially common for religious figures, important historical people, and valued traditions.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team presentation · discussing a respected colleague",
+          "sentence": "Many researchers venerate the scientist whose careful work established the field.",
+          "highlight": "venerate",
+          "tip": "Use it when the respect is deep, established, and carried by many people."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · reflecting on a beloved elder",
+          "sentence": "My grandmother venerated the old house where our family had lived for generations.",
+          "highlight": "venerated",
+          "tip": "The past tense is natural when describing a person’s lasting attitude."
+        },
+        {
+          "setting": "writing",
+          "where": "Museum guide · introducing an ancient tradition",
+          "sentence": "Visitors may venerate the ceremonial objects even when they do not understand their original purpose.",
+          "highlight": "venerate",
+          "tip": "It gives a formal, respectful tone, so it suits history, religion and heritage."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin venerari, meaning ‘to treat with reverence’, related to venerus, meaning ‘lovely’ or ‘worthy of love’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "venerari develops from venerus, ‘lovely’ or ‘worthy of honour’."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English with meanings connected with reverence and respect."
+          },
+          {
+            "when": "Today",
+            "text": "It is used mainly for deep respect toward people, sacred figures, traditions or valued objects."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "veneration",
+          "label": "noun"
+        },
+        {
+          "term": "venerable",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "revere",
+        "honour",
+        "esteem",
+        "worship"
+      ],
+      "opposite": "despise",
+      "pitfall": "Venerate is more solemn and reverent than admire. In religious contexts, it can also imply worship, so consider the audience."
+    },
+    {
+      "id": "vigil",
+      "kind": "word",
+      "term": "vigil",
+      "pos": "noun",
+      "phonetic": "/ˈvɪdʒ.əl/",
+      "sayIt": "VIG-uhl",
+      "register": "Common in formal and public contexts",
+      "meaning": "A period of staying awake to keep watch, protect something, or honour a solemn occasion.",
+      "nuance": "A vigil can be a quiet watch or a public gathering held to mark loss, protest or commitment. It suggests steady attention and personal effort rather than ordinary tiredness.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Overnight deployment · monitoring a system",
+          "sentence": "The team kept a vigil at the operations desk until the critical update had been processed.",
+          "highlight": "vigil",
+          "tip": "Use it for an extended period of watchful attention, especially through the night."
+        },
+        {
+          "setting": "social",
+          "where": "Candlelight gathering · remembering someone",
+          "sentence": "Hundreds of people held a vigil outside the church, carrying candles and singing quietly.",
+          "highlight": "vigil",
+          "tip": "A public vigil often expresses grief, solidarity or a peaceful protest."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · overnight demonstration",
+          "sentence": "Organisers said the vigil would continue until the missing records were released.",
+          "highlight": "vigil",
+          "tip": "Common in reporting on protests, memorials and campaigns lasting through the night."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin vigilia, meaning a watch or the keeping of watch at night, based on vigil, meaning awake or watchful.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Vigilia referred to a period of staying awake, especially for a watch at night."
+          },
+          {
+            "when": "Middle English",
+            "text": "Entered English with religious meanings connected with keeping watch and prayer."
+          },
+          {
+            "when": "19th century onward",
+            "text": "Expanded to include public gatherings held in memory of or in support of a cause."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "vigilant",
+          "label": "adjective"
+        },
+        {
+          "term": "vigilance",
+          "label": "noun"
+        },
+        {
+          "term": "vigilantly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "watch",
+        "wakefulness",
+        "memorial",
+        "protest"
+      ],
+      "opposite": "neglect",
+      "pitfall": "A vigil is an actual period of watching or a gathering of people; it is not simply a synonym for vigilance."
+    },
+    {
+      "id": "vogue",
+      "kind": "word",
+      "term": "vogue",
+      "pos": "adjective",
+      "phonetic": "/voʊɡ/",
+      "sayIt": "VOHG",
+      "register": "Common in social and professional settings",
+      "meaning": "Currently popular and fashionable, especially among a particular group at a particular time.",
+      "nuance": "It can describe a style, product or idea that people are actively favouring. It often suggests strong current popularity rather than lasting popularity.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · choosing a reporting format",
+          "sentence": "Short, no-slides video updates are in vogue with senior leaders this quarter.",
+          "highlight": "vogue",
+          "tip": "Use it for a trend that is popular now, not necessarily important or long-lasting."
+        },
+        {
+          "setting": "social",
+          "where": "At a party · discussing popular activities",
+          "sentence": "Sunday markets are very much in vogue in this neighbourhood.",
+          "highlight": "vogue",
+          "tip": "The phrase ‘in vogue’ sounds natural when naming something currently fashionable."
+        },
+        {
+          "setting": "writing",
+          "where": "Trend report · summarising current preferences",
+          "sentence": "Plain, direct prose is in vogue among younger professional audiences.",
+          "highlight": "vogue",
+          "tip": "Use it to show that a trend has current cultural or professional momentum."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French vogue, meaning ‘fashion’ or ‘custom’, originally associated with going or inclining in a particular direction. English later adopted it for prevailing fashions and popular tastes.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old French",
+            "text": "Vogue means ‘fashion, custom’ and is connected with moving or inclining in a direction."
+          },
+          {
+            "when": "Late Middle English",
+            "text": "The word enters English with meanings connected with fashion, custom and direction."
+          },
+          {
+            "when": "Today",
+            "text": "Most often means fashionable or currently popular, especially in the phrase ‘in vogue’."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "voguish",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "fashionable",
+        "trendy",
+        "popular",
+        "current",
+        "stylish"
+      ],
+      "opposite": "outdated",
+      "pitfall": "‘Vogue’ usually implies that something is popular now; it does not necessarily mean it is high quality or will remain popular."
+    }
+  ]
+}

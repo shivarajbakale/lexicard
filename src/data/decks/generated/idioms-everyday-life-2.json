@@ -1,0 +1,1478 @@
+{
+  "id": "idioms-everyday-life-2",
+  "kind": "idiom",
+  "name": "Everyday life · 2",
+  "blurb": "25 idioms about everyday life",
+  "cards": [
+    {
+      "id": "far-cry",
+      "kind": "idiom",
+      "term": "far cry",
+      "pos": "idiom",
+      "hint": "not at all the same",
+      "register": "Common at work",
+      "meaning": "Very different from something else, especially when compared with an earlier or expected version.",
+      "nuance": "It often describes a noticeable gap between reality and an ideal, original, or remembered situation.",
+      "literal": "A cry that comes from a very long way away.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Reviewing a redesigned website",
+          "sentence": "The final design is a far cry from the simple homepage we planned.",
+          "highlight": "far cry",
+          "tip": "Use it to emphasize a major difference between two things."
+        },
+        {
+          "setting": "social",
+          "where": "Comparing life now and at school",
+          "sentence": "My routine today is a far cry from the carefree summer I remember.",
+          "highlight": "far cry",
+          "tip": "Common in conversations about how life has changed."
+        },
+        {
+          "setting": "writing",
+          "where": "Reviewing a proposal",
+          "sentence": "The budget is a far cry from what the project will realistically require.",
+          "highlight": "far cry",
+          "tip": "Useful in reports when comparing a proposal with the practical situation."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase began as a literal description of a sound heard from a long distance. It later developed into a comparison meaning that something is very different from something else.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1700s",
+            "text": "The expression was used for something heard from a long way away."
+          },
+          {
+            "when": "1800s",
+            "text": "It began to describe a great difference between things."
+          },
+          {
+            "when": "Today",
+            "text": "It means that one thing is very different from another."
+          }
+        ]
+      },
+      "similar": [
+        "a world apart",
+        "a long way from",
+        "nowhere near"
+      ],
+      "pitfall": "Usually takes ‘a’ before it: ‘a far cry from something.’"
+    },
+    {
+      "id": "feel-free",
+      "kind": "idiom",
+      "term": "feel free",
+      "pos": "phrase",
+      "hint": "no need to ask",
+      "register": "Common at work",
+      "meaning": "To give someone permission to do something or to act as they wish.",
+      "nuance": "It is a polite way to offer help, encourage action, or give someone flexibility. It often sounds friendly rather than formal or commanding.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · offering help",
+          "sentence": "Feel free to send me the updated figures when you have them.",
+          "highlight": "Feel free",
+          "tip": "A natural way to reassure a colleague that you are available to help."
+        },
+        {
+          "setting": "social",
+          "where": "Chatting · sharing food",
+          "sentence": "There’s plenty in the fridge, so feel free to help yourself.",
+          "highlight": "feel free",
+          "tip": "Use it when you want someone to take what they want without asking."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · inviting questions",
+          "sentence": "Please feel free to contact me if you need any further details.",
+          "highlight": "feel free",
+          "tip": "Common in professional emails, especially when inviting questions."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from the older sense of being free to act, with ‘feel’ adding a polite invitation rather than a command.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The word ‘free’ was used to mean permitted or unconstrained."
+          },
+          {
+            "when": "19th century",
+            "text": "Phrases such as ‘feel free to’ appear in polite correspondence."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely used to grant permission and offer assistance."
+          }
+        ]
+      },
+      "similar": [
+        "go ahead",
+        "you’re welcome to",
+        "don’t hesitate to"
+      ],
+      "opposite": "I’m afraid you can’t.",
+      "pitfall": "It usually needs an infinitive after it: ‘feel free to ask’, not usually ‘feel free asking’."
+    },
+    {
+      "id": "fine-print",
+      "kind": "idiom",
+      "term": "fine print",
+      "pos": "idiom",
+      "hint": "details in small type",
+      "register": "Common at work",
+      "meaning": "The small-print details in a contract, agreement, or other document that may contain important conditions or restrictions.",
+      "nuance": "Often implies that something significant was tucked away for readers to miss. It is common in legal, financial, and workplace contexts.",
+      "literal": "Text printed in small letters, usually at the bottom of a document.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Reviewing a vendor contract",
+          "sentence": "Read the fine print before signing; the renewal clause is stricter than it first appears.",
+          "highlight": "fine print",
+          "tip": "Often signals a condition that deserves careful attention."
+        },
+        {
+          "setting": "social",
+          "where": "Discussing an event ticket",
+          "sentence": "The fine print says the ticket is non-refundable if the event is postponed.",
+          "highlight": "fine print",
+          "tip": "Useful when pointing out a condition hidden in ticket terms."
+        },
+        {
+          "setting": "writing",
+          "where": "Consumer advice article",
+          "sentence": "Consumers should check the fine print because advertised prices may exclude extra charges.",
+          "highlight": "fine print",
+          "tip": "Frequent in legal and financial reporting."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the literal practice of setting less important text in smaller type, especially in contracts and printed notices. Its figurative use grew with modern consumer and legal documents.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Printed contracts and notices often placed conditions in smaller type."
+          },
+          {
+            "when": "20th century",
+            "text": "‘Fine print’ became a common name for those small but potentially important details."
+          },
+          {
+            "when": "Today",
+            "text": "Means the details a reader may overlook, especially in contracts or advertising."
+          }
+        ]
+      },
+      "similar": [
+        "small print",
+        "terms and conditions",
+        "the small print"
+      ],
+      "opposite": "the main point",
+      "pitfall": "Use it for details in a document, not simply any information that is difficult to understand."
+    },
+    {
+      "id": "fly-by-the-seat-of-ones-pants",
+      "kind": "idiom",
+      "term": "fly by the seat of one's pants",
+      "pos": "idiom",
+      "hint": "improvise without a plan",
+      "register": "Everyday",
+      "meaning": "To act or make decisions using instinct and experience rather than a clear plan, rules or instructions.",
+      "nuance": "It suggests doing something confidently without enough preparation. It can be mildly admiring when experience helps, but often implies that proper safeguards or planning were ignored.",
+      "literal": "Flying an aircraft while steering with the body instead of relying on instruments.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · covering a gap",
+          "sentence": "With the director away, we had to fly by the seat of our pants until the briefing arrived.",
+          "highlight": "fly by the seat of our pants",
+          "tip": "The words can change to match the subject: ‘my,’ ‘your,’ ‘our’ or ‘their.’"
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans · missing a train",
+          "sentence": "We missed the last train and flew by the seat of our pants until we found a café.",
+          "highlight": "flew by the seat of our pants",
+          "tip": "Use the past tense when describing something that has already happened."
+        },
+        {
+          "setting": "writing",
+          "where": "Business commentary · launching quickly",
+          "sentence": "The startup flew by the seat of its pants for months before establishing a reliable routine.",
+          "highlight": "flew by the seat of its pants",
+          "tip": "Useful in informal reporting or commentary about improvisation."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from early aviation, when a pilot might steer an aircraft with the body while focusing on the controls rather than watching instruments. Its figurative use was documented by the late 19th century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Late 1800s",
+            "text": "The expression appears in the era of early experimental aviation."
+          },
+          {
+            "when": "Late 19th century",
+            "text": "Dictionary records show it was already used figuratively for acting without a plan."
+          },
+          {
+            "when": "Today",
+            "text": "It means improvising from instinct, experience or whatever is available."
+          }
+        ]
+      },
+      "similar": [
+        "wing it",
+        "go with the flow",
+        "play it by ear"
+      ],
+      "opposite": "follow the plan",
+      "pitfall": "The idiom takes a possessive form: ‘fly by the seat of one’s pants,’ not ‘fly by the seat of your pants’ when used generally."
+    },
+    {
+      "id": "fly-under-the-radar",
+      "kind": "idiom",
+      "term": "fly under the radar",
+      "pos": "idiom",
+      "hint": "stay unnoticed",
+      "register": "Common at work",
+      "meaning": "To avoid attracting attention or being noticed.",
+      "nuance": "It often suggests doing something quietly so others do not notice or intervene. It can describe a deliberate strategy or simply something that goes unnoticed.",
+      "literal": "An aircraft flying beneath the range of a radar detector.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · raising a concern",
+          "sentence": "I mentioned the delay, but it really flew under the radar during the busy launch.",
+          "highlight": "flew under the radar",
+          "tip": "Common for a problem or comment that people seem not to have noticed."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a surprise party",
+          "sentence": "We had to fly under the radar while arranging the party, or he would have guessed.",
+          "highlight": "fly under the radar",
+          "tip": "Often means keeping a plan secret from someone who might interfere."
+        },
+        {
+          "setting": "writing",
+          "where": "Business update · discussing small changes",
+          "sentence": "The minor pricing changes flew under the radar, although several customers noticed them.",
+          "highlight": "flew under the radar",
+          "tip": "Useful in reports when something had little immediate attention."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the idea of an aircraft staying below the detection range of radar. Its figurative use developed with modern radar and military aviation, but the exact first use is not firmly documented.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "World War II era",
+            "text": "Radar is used to detect approaching aircraft, creating the image of flying below its detection range."
+          },
+          {
+            "when": "Mid-20th century",
+            "text": "The phrase begins to be used figuratively for avoiding attention."
+          },
+          {
+            "when": "Today",
+            "text": "Means staying unnoticed, especially about a problem, plan or action."
+          }
+        ]
+      },
+      "similar": [
+        "go unnoticed",
+        "slip through the cracks",
+        "stealthily",
+        "under the radar"
+      ],
+      "opposite": "attract attention",
+      "pitfall": "Use “fly under the radar” for something staying unnoticed; use “under the radar” when you do not need to focus on the action of flying."
+    },
+    {
+      "id": "hack-it",
+      "kind": "idiom",
+      "term": "hack it",
+      "pos": "idiom",
+      "hint": "manage with rough or improvised methods",
+      "register": "Everyday",
+      "meaning": "To manage or complete something using improvised methods, limited resources, or less-than-ideal techniques.",
+      "nuance": "It often suggests getting by rather than doing something properly. It can describe a temporary workaround, but it does not always mean the result is poor.",
+      "literal": "Completing a task in a rough, makeshift way.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · launching a release",
+          "sentence": "We can hack it for another release, but we should fix the process soon.",
+          "highlight": "hack it",
+          "tip": "Common for a temporary solution that gets the job done."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner plans · the shops are closed",
+          "sentence": "I can hack it tonight with boxed pasta if we don’t want to go out.",
+          "highlight": "hack it",
+          "tip": "Natural in relaxed conversation about making do."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · limited resources",
+          "sentence": "The team can hack it without extra funding, although progress may be slower.",
+          "highlight": "hack it",
+          "tip": "Informal, but useful in an update about making do with what is available."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably combines the informal word “hack,” meaning to do a task badly, crudely, or as a makeshift job, with “it,” meaning the task. Its exact first appearance is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "“Hack” was already used informally for doing work badly, crudely, or as a makeshift job."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "The phrase appears in the developing informal sense of managing or coping with a task."
+          },
+          {
+            "when": "Today",
+            "text": "It means managing or completing something with imperfect methods or limited resources."
+          }
+        ]
+      },
+      "similar": [
+        "make do",
+        "get by",
+        "scrape by",
+        "muddle through"
+      ],
+      "opposite": "do it properly",
+      "pitfall": "Don’t assume it means someone has hacked a computer; here, it usually means coping or making do."
+    },
+    {
+      "id": "hang-out",
+      "kind": "idiom",
+      "term": "hang out",
+      "pos": "verb",
+      "hint": "spend time together casually",
+      "register": "Everyday",
+      "meaning": "To spend time with someone in a relaxed, informal way.",
+      "nuance": "It sounds casual and friendly rather than formal or planned. You can use it for spending time with friends, family or coworkers.",
+      "literal": "To keep something suspended outdoors, such as washing on a line.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Lunch break · catching up with a colleague",
+          "sentence": "I’m going to hang out with Priya for lunch and hear how her project is going.",
+          "highlight": "hang out",
+          "tip": "Work for an informal chat rather than a formal meeting."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans · seeing a friend",
+          "sentence": "We’re going to hang out at the park until sunset.",
+          "highlight": "hang out",
+          "tip": "Common when spending unhurried time with friends."
+        },
+        {
+          "setting": "writing",
+          "where": "Casual email · arranging a catch-up",
+          "sentence": "Let’s hang out sometime next week and compare notes over coffee.",
+          "highlight": "hang out",
+          "tip": "Use it when the tone is relaxed and specific arrangements are not yet fixed."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the older sense of hanging something outside, then came to mean staying somewhere casually and later spending time with other people.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "‘Hang out’ could mean to suspend or display something outdoors."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase began to describe spending time idly or staying in a place."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly means spending relaxed, informal time with another person."
+          }
+        ]
+      },
+      "similar": [
+        "chill out",
+        "hang around",
+        "spend time"
+      ],
+      "opposite": "attend a formal meeting",
+      "pitfall": "For spending time together, use the phrase rather than the single word ‘hang’, which usually means to suspend something."
+    },
+    {
+      "id": "have-a-handle-on",
+      "kind": "idiom",
+      "term": "have a handle on",
+      "pos": "idiom",
+      "hint": "understand or control",
+      "register": "Common at work",
+      "meaning": "To understand a situation or be able to manage something effectively.",
+      "nuance": "It suggests more than basic awareness: you grasp what is happening and can often influence the outcome.",
+      "literal": "Holding something firmly enough to control or work with it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project update · changing deadline",
+          "sentence": "By Thursday, we finally had a handle on the delays and could give the client a clear date.",
+          "highlight": "had a handle on",
+          "tip": "Often follows ‘finally’ when confusion gives way to clarity."
+        },
+        {
+          "setting": "social",
+          "where": "Friend’s update · moving house",
+          "sentence": "She says she has a handle on the move, although the boxes are still everywhere.",
+          "highlight": "has a handle on",
+          "tip": "Natural when talking about coping with a demanding situation."
+        },
+        {
+          "setting": "writing",
+          "where": "Project report · risk assessment",
+          "sentence": "The team did not have a handle on the main risks until the final review.",
+          "highlight": "have a handle on",
+          "tip": "Common in professional reports for discussing control or understanding."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably grew from the everyday sense of physically holding or controlling an object, then broadened to mean understanding or managing something.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "‘Handle’ comes from an Old English word meaning to grasp or feel with the hand."
+          },
+          {
+            "when": "1800s",
+            "text": "Figurative uses of ‘handle’ began to suggest grasping a subject or situation."
+          },
+          {
+            "when": "Today",
+            "text": "‘Have a handle on’ means to understand or manage something successfully."
+          }
+        ]
+      },
+      "similar": [
+        "get the hang of",
+        "be on top of",
+        "come to grips with"
+      ],
+      "opposite": "be out of your depth",
+      "pitfall": "Do not use it to mean you have literally grasped an object; the phrase is figurative."
+    },
+    {
+      "id": "in-a-rut",
+      "kind": "idiom",
+      "term": "in a rut",
+      "pos": "idiom",
+      "hint": "stuck in the same old routine",
+      "register": "Everyday",
+      "meaning": "Stuck in a dull routine that makes progress or change difficult.",
+      "nuance": "It often suggests a lack of energy or fresh thinking. It can describe work, habits, relationships, or personal goals.",
+      "literal": "A deep track made by repeatedly following the same path.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · repeating the same process",
+          "sentence": "We’ve been in a rut, shipping the same monthly report without improving the process.",
+          "highlight": "in a rut",
+          "tip": "Use it when discussing routines that have stopped developing."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · changing weekend plans",
+          "sentence": "I’m in a rut and do the same thing every Saturday, so I’m trying a new hobby.",
+          "highlight": "in a rut",
+          "tip": "A relaxed, slightly self-critical way to describe feeling predictable."
+        },
+        {
+          "setting": "writing",
+          "where": "Career advice · motivation",
+          "sentence": "Taking a different route to work can help you escape the feeling of being in a rut.",
+          "highlight": "in a rut",
+          "tip": "Common in coaching, wellbeing, and career articles."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from the word ‘rut’, which originally referred to a deep track made by a wheel or an animal’s seasonal mating behaviour. By the nineteenth century, ‘rut’ was being used figuratively for a fixed routine or dull pattern.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "‘Rut’ is recorded as a deep track or groove made by a wheel or repeated passage."
+          },
+          {
+            "when": "1700s",
+            "text": "The word also comes to describe an animal’s regular seasonal mating period."
+          },
+          {
+            "when": "1800s",
+            "text": "‘In a rut’ begins to describe being trapped in a dull, fixed way of life."
+          }
+        ]
+      },
+      "similar": [
+        "in a groove",
+        "stuck in a rut",
+        "going through the motions",
+        "on autopilot"
+      ],
+      "opposite": "breaking free",
+      "pitfall": "It describes dull repetition or feeling stuck, not simply having a busy routine."
+    },
+    {
+      "id": "in-droves",
+      "kind": "idiom",
+      "term": "in droves",
+      "pos": "idiom",
+      "hint": "arriving or acting in large groups",
+      "register": "Common at work",
+      "meaning": "Coming, going or doing something in large numbers.",
+      "nuance": "It suggests a noticeably busy or crowded scene. Use it when the number of people or things is greater than expected.",
+      "literal": "Moving together in large herds or groups.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch event · customer questions",
+          "sentence": "Support tickets arrived in droves after we announced the new pricing.",
+          "highlight": "in droves",
+          "tip": "Natural for sudden increases in requests, customers or activity."
+        },
+        {
+          "setting": "social",
+          "where": "Coffee shop · weekend crowd",
+          "sentence": "People turned up in droves, so we had to wait for a table.",
+          "highlight": "in droves",
+          "tip": "Often describes crowds arriving together or all at once."
+        },
+        {
+          "setting": "writing",
+          "where": "Event report · strong interest",
+          "sentence": "Tickets for the final show sold in droves within minutes.",
+          "highlight": "in droves",
+          "tip": "Useful in reports when you want to emphasize how many people participated."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably developed from the older expression “in drives,” used for animals travelling together in groups. “In droves” later became the familiar form.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "The older form “in drives” appears in writing about animals moving in groups."
+          },
+          {
+            "when": "Early 1800s",
+            "text": "“In droves” becomes established for large numbers of people or things."
+          },
+          {
+            "when": "Today",
+            "text": "It describes people or things arriving or acting in large numbers."
+          }
+        ]
+      },
+      "similar": [
+        "in large numbers",
+        "en masse",
+        "by the dozen"
+      ],
+      "pitfall": "Use “in droves” for large numbers, not simply “in a drove,” which is not standard in this sense."
+    },
+    {
+      "id": "in-front-of-ones-nose",
+      "kind": "idiom",
+      "term": "in front of one's nose",
+      "pos": "idiom",
+      "hint": "very close but easily missed",
+      "register": "Everyday",
+      "meaning": "So close and obvious that you should easily have noticed it.",
+      "nuance": "It often carries frustration or regret because the thing was hard to miss. It can also mean that something is directly in your view or immediate path.",
+      "literal": "An object positioned directly in front of a person’s nose.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office · misplaced supply box",
+          "sentence": "The missing laptops were in front of our noses the whole time.",
+          "highlight": "in front of our noses",
+          "tip": "Use this when something obvious was overlooked."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · someone’s new haircut",
+          "sentence": "I walked straight past her in front of my nose without noticing.",
+          "highlight": "in front of my nose",
+          "tip": "Often describes a brief encounter you failed to notice."
+        },
+        {
+          "setting": "writing",
+          "where": "City guide · overlooked attraction",
+          "sentence": "There’s a tiny museum in front of your nose if you take the next street.",
+          "highlight": "in front of your nose",
+          "tip": "Works well when introducing something nearby but easily missed."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably grew from older expressions such as ‘under one’s nose’, which mean directly nearby or immediately noticeable.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1800s",
+            "text": "Similar wording appears in expressions meaning directly in someone’s view."
+          },
+          {
+            "when": "Late 1800s",
+            "text": "The phrase becomes established for something close and readily visible."
+          },
+          {
+            "when": "Today",
+            "text": "It usually suggests an obvious thing that someone surprisingly failed to notice."
+          }
+        ]
+      },
+      "similar": [
+        "under your nose",
+        "right under your nose",
+        "just around the corner"
+      ],
+      "opposite": "far out of sight",
+      "pitfall": "When describing an obvious oversight, use a personal form such as ‘in front of my nose’, not the fixed ‘in front of one’s nose’."
+    },
+    {
+      "id": "in-plain-sight",
+      "kind": "idiom",
+      "term": "in plain sight",
+      "pos": "idiom",
+      "hint": "right there, but unnoticed",
+      "register": "Common at work",
+      "meaning": "Directly visible to everyone, yet somehow overlooked or ignored.",
+      "nuance": "It often emphasizes how strange or obvious something is that other people fail to notice. It can also mean that an event happened where others could plainly see it.",
+      "literal": "In an ordinary, unobstructed field of view.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team review · checking a dashboard",
+          "sentence": "The duplicate entry was in plain sight, but nobody noticed it until the numbers stopped matching.",
+          "highlight": "in plain sight",
+          "tip": "Common when pointing out an obvious mistake that was overlooked."
+        },
+        {
+          "setting": "social",
+          "where": "At a party · finding a friend",
+          "sentence": "I had been looking for him all evening, and he was in plain sight by the front door.",
+          "highlight": "in plain sight",
+          "tip": "Often used with mild surprise or self-directed frustration."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · describing a security failure",
+          "sentence": "The confidential file had been visible in plain sight on the shared drive for several months.",
+          "highlight": "in plain sight",
+          "tip": "Useful in reporting and commentary for things that were exposed but overlooked."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from the literal idea of something being directly visible in an ordinary view. Its figurative use emphasizes that something was obvious or exposed but remained unnoticed.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The phrase appears in English, referring to something directly visible."
+          },
+          {
+            "when": "1900s",
+            "text": "Figurative use becomes established for visible problems, dangers or people that people overlook."
+          },
+          {
+            "when": "Today",
+            "text": "Means something is obvious or exposed, yet escapes attention."
+          }
+        ]
+      },
+      "similar": [
+        "under your nose",
+        "in the open",
+        "in broad daylight"
+      ],
+      "pitfall": "It does not mean that the subject itself is visible; it focuses on the fact that it could easily have been seen."
+    },
+    {
+      "id": "in-spades",
+      "kind": "idiom",
+      "term": "in spades",
+      "pos": "phrase",
+      "hint": "in large quantities",
+      "register": "Everyday",
+      "meaning": "In large amounts or greater quantities than expected.",
+      "nuance": "It adds emphasis, often with a slightly playful or dramatic tone. It can mean that something happens a lot or that a quality is especially strong.",
+      "literal": "With the suit of spades, traditionally associated with a large quantity when playing cards.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Reviewing customer feedback",
+          "sentence": "The new version received support requests in spades after the launch.",
+          "highlight": "in spades",
+          "tip": "Use it when the volume is unusually high."
+        },
+        {
+          "setting": "social",
+          "where": "Describing a party",
+          "sentence": "We brought snacks in spades, so nobody went hungry.",
+          "highlight": "in spades",
+          "tip": "A relaxed way to emphasize abundance."
+        },
+        {
+          "setting": "writing",
+          "where": "Summarising a busy week",
+          "sentence": "The charity received donations in spades during the campaign.",
+          "highlight": "in spades",
+          "tip": "Common in informal reports and conversational writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably comes from card-game language, using spades to suggest a substantial amount. Its precise origin is uncertain, but it was already in use by the early 1900s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1900s",
+            "text": "The phrase appears in English writing as a way of saying ‘in large quantities’."
+          },
+          {
+            "when": "Later 1900s",
+            "text": "It becomes established in conversation and informal writing."
+          },
+          {
+            "when": "Today",
+            "text": "It emphasizes abundance, frequency or a strong degree of something."
+          }
+        ]
+      },
+      "similar": [
+        "in abundance",
+        "by the bucketload",
+        "in droves"
+      ],
+      "opposite": "sparingly",
+      "pitfall": "Use it for a large or unusually noticeable amount, not simply for something that exists."
+    },
+    {
+      "id": "it-is-what-it-is",
+      "kind": "idiom",
+      "term": "it is what it is",
+      "pos": "idiom",
+      "hint": "accepting the reality",
+      "register": "Everyday",
+      "meaning": "To accept that a situation is real and cannot easily be changed.",
+      "nuance": "It can sound calmly accepting, but sometimes conveys resignation or refusal to discuss a problem further.",
+      "literal": "The situation is exactly what it is.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · a missed deadline",
+          "sentence": "The release date slipped, so it is what it is; we’ll update the launch plan.",
+          "highlight": "it is what it is",
+          "tip": "Useful when acknowledging a problem and moving on."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up · changing plans",
+          "sentence": "The restaurant is full, so it is what it is; we’ll try somewhere else.",
+          "highlight": "it is what it is",
+          "tip": "Often sounds relaxed, but can sound dismissive."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining delays",
+          "sentence": "The supplier cannot deliver before Friday; it is what it is, and the schedule has been revised.",
+          "highlight": "it is what it is",
+          "tip": "Follow it with a practical response to avoid seeming defeatist."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase grew from older English wording that stressed accepting what is true. Its exact first use is difficult to pin down, but the modern expression was established by the 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English writers used variations of ‘that that is, is’ to insist that reality should be accepted."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "The wording ‘it is what it is’ appears in English for situations that cannot be changed."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly expresses acceptance, resignation or a desire to move on."
+          }
+        ]
+      },
+      "similar": [
+        "what is what is",
+        "that’s how it is",
+        "the way things are"
+      ],
+      "pitfall": "In serious conversations, it can sound like you are dismissing people’s concerns rather than acknowledging the situation."
+    },
+    {
+      "id": "judge-a-book-by-its-cover",
+      "kind": "idiom",
+      "term": "judge a book by its cover",
+      "pos": "idiom",
+      "hint": "make a quick judgment from appearance alone",
+      "register": "Everyday",
+      "meaning": "To form an opinion about someone or something based only on its outward appearance.",
+      "nuance": "The phrase warns that first impressions can be misleading. It can criticise unfair assumptions, or remind someone not to judge too quickly.",
+      "literal": "Deciding whether a book is worth reading simply by looking at its outside.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · new colleague",
+          "sentence": "Don’t judge a book by its cover; give Sam time to prove how reliable they are.",
+          "highlight": "judge a book by its cover",
+          "tip": "Use it when someone is judging a colleague too soon."
+        },
+        {
+          "setting": "social",
+          "where": "Getting to know someone new",
+          "sentence": "I thought she might be unfriendly, but you should never judge a book by its cover.",
+          "highlight": "judge a book by its cover",
+          "tip": "Often used after an initial impression turns out to be wrong."
+        },
+        {
+          "setting": "writing",
+          "where": "Product review",
+          "sentence": "A plain package may still hold excellent products, so buyers should not judge a book by its cover.",
+          "highlight": "judge a book by its cover",
+          "tip": "A natural warning in reviews, advice, and opinion writing."
+        }
+      ],
+      "origin": {
+        "summary": "The wording is recorded in the early 1900s and follows a long tradition of proverbs comparing books with their covers.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Similar proverbs advised people not to judge a book by its cover."
+          },
+          {
+            "when": "1900s",
+            "text": "The modern wording appears in recorded English usage."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used as a warning against judging people or products by appearance."
+          }
+        ]
+      },
+      "similar": [
+        "first impressions count",
+        "don’t take appearance at face value",
+        "give someone a chance"
+      ],
+      "opposite": "get to know someone",
+      "pitfall": "Use it about snap judgments, not as advice to make a quick assessment."
+    },
+    {
+      "id": "keep-a-low-profile",
+      "kind": "idiom",
+      "term": "keep a low profile",
+      "pos": "idiom",
+      "hint": "avoid drawing attention to yourself",
+      "register": "Everyday",
+      "meaning": "To stay unnoticed or avoid attracting attention to what you are doing.",
+      "nuance": "It often suggests being discreet on purpose, especially when facing publicity, danger, conflict or scrutiny. It can also describe a modest or unobtrusive presence.",
+      "literal": "Keeping your body low so that people cannot easily see you.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · discussing a sensitive issue",
+          "sentence": "After the complaint, she decided to keep a low profile until the investigation was over.",
+          "highlight": "keep a low profile",
+          "tip": "Often used when someone wants to avoid notice during a tense period."
+        },
+        {
+          "setting": "social",
+          "where": "Neighbourhood event · avoiding gossip",
+          "sentence": "He kept a low profile at the party and left before anyone started asking about the argument.",
+          "highlight": "kept a low profile",
+          "tip": "It can describe someone trying not to become the centre of attention."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · public response",
+          "sentence": "The company kept a low profile while it reviewed the allegations and spoke with employees.",
+          "highlight": "kept a low profile",
+          "tip": "Common in reporting about organisations, celebrities or public controversies."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is associated with the idea of staying out of sight, especially in military or public settings, but its exact first use is not firmly documented.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 20th century",
+            "text": "The expression appears in the sense of staying inconspicuous or avoiding public attention."
+          },
+          {
+            "when": "Mid-20th century",
+            "text": "It becomes common in descriptions of discreet behaviour in work, public life and military contexts."
+          },
+          {
+            "when": "Today",
+            "text": "Means behaving quietly or avoiding attention, often for a particular reason."
+          }
+        ]
+      },
+      "similar": [
+        "lay low",
+        "stay under the radar",
+        "fly under the radar",
+        "keep your head down"
+      ],
+      "opposite": "attract attention",
+      "pitfall": "It describes avoiding notice; it does not necessarily mean being secretive or dishonest."
+    },
+    {
+      "id": "kettle-of-fish",
+      "kind": "idiom",
+      "term": "kettle of fish",
+      "pos": "idiom",
+      "hint": "a complicated situation",
+      "register": "Everyday",
+      "meaning": "A messy or complicated situation involving several tangled problems.",
+      "nuance": "It often suggests that things are more confused and difficult than expected. Use it when a straightforward matter has become difficult to manage.",
+      "literal": "A kettle filled with fish, suggesting a crowded and tangled situation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project handover · too many complications",
+          "sentence": "By the third meeting, the handover had become quite a kettle of fish.",
+          "highlight": "kettle of fish",
+          "tip": "Often used when several people, tasks, or problems are involved."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner plans · a crowded guest list",
+          "sentence": "I thought dinner would be simple, but arranging a table for twelve was a real kettle of fish.",
+          "highlight": "kettle of fish",
+          "tip": "This works well for a situation that looks easy but quickly becomes chaotic."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · a tangled dispute",
+          "sentence": "The article explains how the budget dispute turned into a whole kettle of fish.",
+          "highlight": "kettle of fish",
+          "tip": "A useful image in reporting when describing a complicated, disorderly situation."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably began as a literal reference to a large collection of fish. It later developed into a figurative expression for a complicated or disorderly situation, although the precise point where the literal and figurative meanings met is not fully clear.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression referred literally to fish being kept or gathered together in a kettle."
+          },
+          {
+            "when": "19th century",
+            "text": "The phrase began appearing in writing for a whole group or collection of people or things."
+          },
+          {
+            "when": "Today",
+            "text": "It means a complicated, messy situation, often with several problems tangled together."
+          }
+        ]
+      },
+      "similar": [
+        "can of worms",
+        "mess",
+        "hotbed of conflict"
+      ],
+      "pitfall": "Usually includes an article such as ‘a’, ‘the whole’, or ‘quite a’ before the phrase."
+    },
+    {
+      "id": "kick-the-bucket",
+      "kind": "idiom",
+      "term": "kick the bucket",
+      "pos": "idiom",
+      "hint": "a joking way to say “die”",
+      "register": "Casual",
+      "meaning": "To die, said in a joking or informal way.",
+      "nuance": "It can sound humorous and blunt, but it may be insensitive when talking about someone’s death. Use it carefully, especially in serious conversations.",
+      "literal": "The image of someone giving the bucket a final kick as they die.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "IT team · replacing old equipment",
+          "sentence": "Our ten-year-old server finally kicked the bucket, so we’re replacing it today.",
+          "highlight": "kicked the bucket",
+          "tip": "Often used humorously when equipment or technology stops working."
+        },
+        {
+          "setting": "social",
+          "where": "Talking about an old phone",
+          "sentence": "My phone kicked the bucket after the last update, so I’m using an old backup.",
+          "highlight": "kicked the bucket",
+          "tip": "A light way to report that something has stopped working."
+        },
+        {
+          "setting": "writing",
+          "where": "Humorous local-news story",
+          "sentence": "The neighborhood diner kicked the bucket after fifty years, but its recipes will carry on.",
+          "highlight": "kicked the bucket",
+          "tip": "Works in comedy or informal writing; avoid it in obituaries and reports of real deaths."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase was recorded in the late 1700s, but its exact origin is uncertain. Later theories connected it with hanging or execution devices, though no reliable evidence supports one definite explanation.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Late 1700s",
+            "text": "The expression appears in writing with the meaning “to die.”"
+          },
+          {
+            "when": "1800s",
+            "text": "Writers proposed stories involving a gibbet or other execution equipment, but the evidence remains uncertain."
+          },
+          {
+            "when": "Today",
+            "text": "It is used as a blunt, often humorous alternative to “die.”"
+          }
+        ]
+      },
+      "similar": [
+        "cash in your chips",
+        "peg out",
+        "go six feet under"
+      ],
+      "opposite": "come to life",
+      "pitfall": "It may sound cheerful, but using it about a real person’s death can seem disrespectful or insensitive."
+    },
+    {
+      "id": "kill-two-birds-with-one-stone",
+      "kind": "idiom",
+      "term": "Kill two birds with one stone",
+      "pos": "idiom",
+      "hint": "solve two problems with one action",
+      "register": "Common at work",
+      "meaning": "To achieve two useful results with a single action.",
+      "nuance": "It is positive and practical, suggesting efficiency without any real harm. Use it when one action completes two tasks or solves two problems.",
+      "literal": "Using one stone to kill two birds at the same time.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · simplifying a process",
+          "sentence": "Combining the reports will kill two birds with one stone because it saves time and reduces errors.",
+          "highlight": "kill two birds with one stone",
+          "tip": "Useful for explaining how one change can improve several parts of a process."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend planning · meeting friends",
+          "sentence": "Taking the train downtown will kill two birds with one stone because we can visit the market and see the exhibition.",
+          "highlight": "kill two birds with one stone",
+          "tip": "Natural when one plan gives you two benefits."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · proposing an efficient solution",
+          "sentence": "Using online forms will kill two birds with one stone by lowering costs and speeding up approvals.",
+          "highlight": "kill two birds with one stone",
+          "tip": "Common in emails, proposals and business reporting."
+        }
+      ],
+      "origin": {
+        "summary": "This is a recorded English proverb. Its early printed form appeared in Scottish writing, while its exact wording became especially familiar through the proverb.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Before the 1600s",
+            "text": "The idea circulated orally as a proverb about gaining two advantages with one effort."
+          },
+          {
+            "when": "1611",
+            "text": "An early printed version appears in the Scottish poem The Waights of the Four Wards."
+          },
+          {
+            "when": "Today",
+            "text": "It means that one action can produce two useful results."
+          }
+        ]
+      },
+      "similar": [
+        "Get two for the price of one",
+        "Serve two purposes at once",
+        "Combine two tasks"
+      ],
+      "pitfall": "Use it for two genuine benefits, not simply a vague claim that something is efficient."
+    },
+    {
+      "id": "know-every-trick-in-the-book",
+      "kind": "idiom",
+      "term": "know every trick in the book",
+      "pos": "idiom",
+      "hint": "be completely experienced",
+      "register": "Common at work",
+      "meaning": "To know all the methods, shortcuts, and techniques associated with something.",
+      "nuance": "It often suggests that someone is highly experienced, but it can also imply that they know how to exploit the rules or handle every possible problem.",
+      "literal": "Knowing every trick listed in an instruction manual.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team briefing · preparing for a client",
+          "sentence": "Mina knows every trick in the book for calming an anxious client.",
+          "highlight": "knows every trick in the book",
+          "tip": "A natural way to praise someone’s extensive practical experience."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a dinner · cooking for guests",
+          "sentence": "Dad knows every trick in the book for making a meal look impressive.",
+          "highlight": "knows every trick in the book",
+          "tip": "Often used affectionately when describing someone who is very skilled."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · explaining expertise",
+          "sentence": "After fifteen years in the industry, she knows every trick in the book.",
+          "highlight": "knows every trick in the book",
+          "tip": "Informal and slightly emphatic; consider a plainer phrase in formal reports."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably grew from the older sense of a “book” as a manual containing instructions, techniques, or methods. Its exact development is not fully documented, but it was in use by the 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Books were used as practical manuals, so “tricks in the book” could refer to techniques recorded in a guide."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression “know every trick in the book” appears in English writing."
+          },
+          {
+            "when": "Today",
+            "text": "It describes complete command of the methods, shortcuts, or problems in a particular field."
+          }
+        ]
+      },
+      "similar": [
+        "know the ropes",
+        "know the drill",
+        "leave no stone unturned"
+      ],
+      "opposite": "know nothing about the basics",
+      "pitfall": "It usually means complete practical knowledge, not literally knowing every possible method."
+    },
+    {
+      "id": "know-inside-and-out",
+      "kind": "idiom",
+      "term": "know inside and out",
+      "pos": "idiom",
+      "hint": "know something completely",
+      "register": "Common at work",
+      "meaning": "To understand something thoroughly, including all its details and practical effects.",
+      "nuance": "It emphasizes deep knowledge rather than general familiarity. Use it for a subject, system, person, or activity that you understand extremely well.",
+      "literal": "Knowing something from its inner workings to its outermost details.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team briefing · explaining a system",
+          "sentence": "Maya knows the reporting process inside and out, so she can explain where the delay is coming from.",
+          "highlight": "knows the reporting process inside and out",
+          "tip": "The highlighted phrase can include the thing being known."
+        },
+        {
+          "setting": "social",
+          "where": "Talking about a friend’s habits",
+          "sentence": "I know my sister inside and out, and I knew she would cancel the plan at the last minute.",
+          "highlight": "know my sister inside and out",
+          "tip": "Often describes knowing someone very well."
+        },
+        {
+          "setting": "writing",
+          "where": "Product recommendation",
+          "sentence": "After years of using it, the team knows the software inside and out and recommends it for complex projects.",
+          "highlight": "knows the software inside and out",
+          "tip": "Strong and natural in professional descriptions."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the idea of understanding something from every part, with the figurative expression appearing in English during the 1800s. Its exact first use is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression ‘inside and out’ was used to describe examining or understanding something in every detail."
+          },
+          {
+            "when": "1800s",
+            "text": "Examples appear showing the idea of complete or thorough knowledge."
+          },
+          {
+            "when": "Today",
+            "text": "‘Know inside and out’ means understanding a subject or person extremely well."
+          }
+        ]
+      },
+      "similar": [
+        "know like the back of your hand",
+        "know thoroughly",
+        "understand inside out"
+      ],
+      "opposite": "know very little about",
+      "pitfall": "Use it for strong, thorough knowledge; it is more emphatic than simply saying you know something."
+    },
+    {
+      "id": "lend-a-hand",
+      "kind": "idiom",
+      "term": "lend a hand",
+      "pos": "idiom",
+      "hint": "give a little help",
+      "register": "Everyday",
+      "meaning": "To help someone with a task or problem.",
+      "nuance": "Friendly and informal. It suggests quick, practical assistance without making the help sound like a big commitment.",
+      "literal": "To extend your hand to someone so they can take it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office · moving supplies",
+          "sentence": "Could you lend a hand with these boxes?",
+          "highlight": "lend a hand",
+          "tip": "A natural way to ask a colleague for brief help."
+        },
+        {
+          "setting": "social",
+          "where": "At a party · preparing food",
+          "sentence": "Let me lend a hand with the sandwiches.",
+          "highlight": "lend a hand",
+          "tip": "Use it when offering casual help to a friend or relative."
+        },
+        {
+          "setting": "writing",
+          "where": "Team update · supporting a colleague",
+          "sentence": "Thanks for lending a hand while I was away.",
+          "highlight": "lending a hand",
+          "tip": "The phrase changes form naturally with the sentence’s grammar."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely comes from the physical image of taking someone’s hand to pull or guide them, then developed into the sense of giving assistance.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Lending a hand was a common way to describe physically helping or guiding someone."
+          },
+          {
+            "when": "Early 1800s",
+            "text": "The expression appears in English in the sense of giving assistance."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for friendly help with a task, problem or person."
+          }
+        ]
+      },
+      "similar": [
+        "give a hand",
+        "help out",
+        "pitch in"
+      ],
+      "pitfall": "With a specific person, use “lend someone a hand” or “lend a hand to someone,” not “lend a hand for someone.”"
+    },
+    {
+      "id": "lie-low",
+      "kind": "idiom",
+      "term": "lie low",
+      "pos": "idiom",
+      "hint": "stay out of sight",
+      "register": "Common at work and socially",
+      "meaning": "To avoid drawing attention to yourself or staying somewhere quietly for a while.",
+      "nuance": "It can sound strategic or deliberate, like someone is keeping a low profile while trouble passes.",
+      "literal": "Stay close to the ground and out of sight.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · avoiding office politics",
+          "sentence": "I decided to lie low until the restructuring announcement had been made.",
+          "highlight": "lie low",
+          "tip": "Useful when someone wants to avoid becoming the focus of attention."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · dodging awkward questions",
+          "sentence": "He lay low by helping in the kitchen whenever his relatives started talking about his career.",
+          "highlight": "lay low",
+          "tip": "The past-tense form is ‘lay low’, not ‘lied low’."
+        },
+        {
+          "setting": "writing",
+          "where": "Company update · avoiding scrutiny",
+          "sentence": "After the public disagreement, the nonprofit decided to lie low until the investigation was complete.",
+          "highlight": "lie low",
+          "tip": "Often followed by ‘until’, ‘for now’ or a time phrase."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase originally described staying in a low position and out of sight. Its figurative use is well documented from the early 1800s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Early 1800s",
+            "text": "The phrase is recorded in English, first referring to staying out of sight."
+          },
+          {
+            "when": "Later 1800s",
+            "text": "It develops the broader sense of avoiding attention or keeping a low profile."
+          },
+          {
+            "when": "Today",
+            "text": "It means remaining quiet and inconspicuous, often temporarily."
+          }
+        ]
+      },
+      "similar": [
+        "keep a low profile",
+        "stay under the radar",
+        "keep your head down"
+      ],
+      "opposite": "come out of hiding",
+      "pitfall": "Use ‘lie low’ for a person or group; the phrase does not fit objects unless they are literally being kept out of sight."
+    },
+    {
+      "id": "low-road",
+      "kind": "idiom",
+      "term": "low road",
+      "pos": "idiom",
+      "hint": "the easier or less respectable way",
+      "register": "Everyday",
+      "meaning": "The less demanding, less principled, or less impressive option in a choice.",
+      "nuance": "It often suggests cutting corners or accepting a lower standard. It can also be neutral when it simply means choosing the easier route.",
+      "literal": "A road at a lower level, suggesting a physically or morally easier path.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Release planning · testing shortcuts",
+          "sentence": "Skipping testing would be the low road, so we fixed the defects before launch.",
+          "highlight": "low road",
+          "tip": "Often warns against taking the easiest option at a cost to quality."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a trip · choosing a route",
+          "sentence": "We took the low road through the countryside and found a quieter café.",
+          "highlight": "low road",
+          "tip": "Here it can simply mean the easier or less direct route."
+        },
+        {
+          "setting": "writing",
+          "where": "Business commentary · customer service",
+          "sentence": "The company took the low road by hiding fees instead of explaining them clearly.",
+          "highlight": "low road",
+          "tip": "Common when describing a choice that appears dishonest, cheap, or weak."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably grew from the literal idea of a lower road and later developed alongside the moral contrast between the “high road” and the “low road.” The exact figurative origin is not securely documented.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Writers used roads as metaphors for different choices, routes, and social positions."
+          },
+          {
+            "when": "1900s",
+            "text": "The expression “high road” became established for the morally better or more respectable choice, and “low road” developed as its opposite."
+          },
+          {
+            "when": "Today",
+            "text": "It can mean either an easier route or, more critically, a less ethical or lower-standard option."
+          }
+        ]
+      },
+      "similar": [
+        "take the high road",
+        "cut corners",
+        "the easy way out"
+      ],
+      "opposite": "take the high road",
+      "pitfall": "Do not assume it is always moral criticism; in some contexts it simply refers to the easier or less demanding route."
+    },
+    {
+      "id": "make-the-best-of",
+      "kind": "idiom",
+      "term": "make the best of",
+      "pos": "phrase",
+      "hint": "turn a difficult situation into a good outcome",
+      "register": "Everyday",
+      "meaning": "To accept a situation that is not ideal and do as well as you can with it.",
+      "nuance": "This is practical and positive without pretending everything is fine. It fits when you are adapting to bad luck, limited resources or an unwanted change.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · a tight deadline",
+          "sentence": "With only two designers available, we’ll make the best of it and simplify the launch.",
+          "highlight": "make the best of",
+          "tip": "Often followed by ‘it’ or the situation you are describing."
+        },
+        {
+          "setting": "social",
+          "where": "Friends · a rained-out picnic",
+          "sentence": "The weather is terrible, but we’ll make the best of it and have dinner at the café instead.",
+          "highlight": "make the best of",
+          "tip": "Sounds accepting and ready to move forward."
+        },
+        {
+          "setting": "writing",
+          "where": "Local news · a cancelled festival",
+          "sentence": "Organisers made the best of the storm by moving the performances indoors.",
+          "highlight": "made the best of",
+          "tip": "Common in reporting on problems that people have handled successfully."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is an older English expression about making the most of circumstances that cannot easily be changed. Its exact origin is not clear.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "Early forms of the expression appear in English writing."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "The phrase becomes established in its familiar sense of coping well with an imperfect situation."
+          },
+          {
+            "when": "Today",
+            "text": "It describes turning an unavoidable limitation into a positive result where possible."
+          }
+        ]
+      },
+      "similar": [
+        "make the most of",
+        "make do",
+        "make a go of"
+      ],
+      "opposite": "give up on",
+      "pitfall": "It does not mean the situation is good; it means you are focusing on what you can do about it."
+    }
+  ]
+}

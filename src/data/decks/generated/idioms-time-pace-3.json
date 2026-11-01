@@ -1,0 +1,370 @@
+{
+  "id": "idioms-time-pace-3",
+  "kind": "idiom",
+  "name": "Time & pace · 3",
+  "blurb": "6 idioms about time & pace",
+  "cards": [
+    {
+      "id": "tick-over",
+      "kind": "idiom",
+      "term": "tick over",
+      "pos": "idiom",
+      "hint": "keep going at a gentle pace",
+      "register": "Everyday",
+      "meaning": "To continue working or operating slowly and steadily.",
+      "nuance": "It can describe machinery idling, a person continuing at an easy pace, or an activity proceeding quietly. It often suggests modest, low-key progress rather than a complete stop.",
+      "literal": "Machinery running lightly with a ticking sound.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Support desk · holiday cover",
+          "sentence": "The support desk just ticks over during the holidays, so urgent requests can take a while.",
+          "highlight": "ticks over",
+          "tip": "Often suggests that work continues, but slowly and without much activity."
+        },
+        {
+          "setting": "social",
+          "where": "At the pub · after work",
+          "sentence": "We ticked over at the pub for a while before deciding to head home.",
+          "highlight": "ticked over",
+          "tip": "A relaxed way to say that you continued spending time together."
+        },
+        {
+          "setting": "writing",
+          "where": "Business update · maintenance costs",
+          "sentence": "Small repairs keep the old system ticking over until a full replacement is affordable.",
+          "highlight": "ticking over",
+          "tip": "Useful for showing how something continues in a basic but functioning state."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from machinery running lightly, producing a ticking sound while continuing to move. Writers later applied it to people, organizations, and activities proceeding at a slow pace.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Early 1800s",
+            "text": "English writers began using the phrase for machinery that continued running slowly."
+          },
+          {
+            "when": "1800s",
+            "text": "The figurative use developed for any activity carrying on at a gentle or modest pace."
+          },
+          {
+            "when": "Today",
+            "text": "It describes slow, steady continuation and can describe an engine idling."
+          }
+        ]
+      },
+      "similar": [
+        "Keep going",
+        "Carry on",
+        "Trundle along",
+        "Wind down"
+      ],
+      "opposite": "speed up",
+      "pitfall": "It usually means continuing rather than stopping completely, and it often implies a calm, modest pace."
+    },
+    {
+      "id": "time-flies",
+      "kind": "idiom",
+      "term": "Time flies",
+      "pos": "idiom",
+      "hint": "happy hours vanish",
+      "register": "Everyday",
+      "meaning": "Time seems to pass very quickly when you are enjoying yourself or occupied.",
+      "nuance": "It often expresses surprise at how quickly a pleasant period has passed. It can also refer to a busy period, usually with a warm or amused tone.",
+      "literal": "Time moves through the air like a flying bird or insect.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team catch-up · reviewing a productive week",
+          "sentence": "Time flies when the team is focused on a project it genuinely cares about.",
+          "highlight": "Time flies",
+          "tip": "Often used when people are surprised that a busy or enjoyable period has passed quickly."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · catching up",
+          "sentence": "Time flies whenever we get together, so we usually stay talking for hours.",
+          "highlight": "Time flies",
+          "tip": "A natural, friendly way to say that you have lost track of time."
+        },
+        {
+          "setting": "writing",
+          "where": "Holiday message · reflecting on a trip",
+          "sentence": "Time flies during the first week abroad, and suddenly it is time to head home.",
+          "highlight": "Time flies",
+          "tip": "Works well in personal messages and light travel writing."
+        }
+      ],
+      "origin": {
+        "summary": "The idea comes from the ancient Latin maxim tempus fugit, meaning 'time flies.' The exact English phrase became established in the early modern period, but no single origin story is certain.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "The proverb tempus fugit is used to mean that time passes quickly."
+          },
+          {
+            "when": "1500s",
+            "text": "English writers began using the phrase in its familiar form."
+          },
+          {
+            "when": "Today",
+            "text": "It describes time passing quickly during enjoyable or busy periods."
+          }
+        ]
+      },
+      "similar": [
+        "In the blink of an eye",
+        "Before you know it",
+        "The time is flying"
+      ],
+      "opposite": "Time drags on",
+      "pitfall": "For the opposite feeling, use 'time drags on', not 'time drags'."
+    },
+    {
+      "id": "time-is-ticking",
+      "kind": "idiom",
+      "term": "time is ticking",
+      "pos": "idiom",
+      "hint": "the clock is moving forward",
+      "register": "Common at work",
+      "meaning": "A situation where time is passing and you need to act before it is too late.",
+      "nuance": "It creates a sense of urgency, usually because a deadline, decision or opportunity is approaching. It can be motivating or slightly pressuring.",
+      "literal": "A clock is continuing to tick as the minutes pass.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch planning · missed deadline",
+          "sentence": "Time is ticking, so we need to decide which features can wait until the next release.",
+          "highlight": "Time is ticking",
+          "tip": "Often used to push a team toward a quick decision."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a birthday surprise",
+          "sentence": "We still need to buy the cake and decorate the room—time is ticking!",
+          "highlight": "time is ticking",
+          "tip": "Works in casual conversation when an event is approaching."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · delayed handover",
+          "sentence": "Time is ticking, and the application must be ready before the new team takes over.",
+          "highlight": "Time is ticking",
+          "tip": "Common in emails and status reports when a deadline is close."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the image of a ticking clock and became established in the 1800s. Its precise first use is difficult to trace, so the exact origin is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "English writers begin using expressions based on the movement of a ticking clock."
+          },
+          {
+            "when": "1800s",
+            "text": "The wording ‘time is ticking’ appears in written English."
+          },
+          {
+            "when": "Today",
+            "text": "Means that people should act quickly because time is running out."
+          }
+        ]
+      },
+      "similar": [
+        "The clock is ticking",
+        "Against the clock",
+        "Running out of time"
+      ],
+      "opposite": "There is plenty of time",
+      "pitfall": "Use it when there is genuine urgency; for a routine task, it may sound unnecessarily dramatic."
+    },
+    {
+      "id": "to-date",
+      "kind": "idiom",
+      "term": "to date",
+      "pos": "idiom",
+      "hint": "up to the present",
+      "register": "Common at work",
+      "meaning": "From the beginning of a period or activity until the present time.",
+      "nuance": "Often used to summarise results, costs or progress so far. It can also describe something that has continued from an earlier time until now.",
+      "literal": "Counting through the calendar dates up to today.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project update · reviewing progress",
+          "sentence": "We’ve resolved twenty-three support tickets to date and have closed the remaining four.",
+          "highlight": "to date",
+          "tip": "Common when giving totals or a progress summary."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up · discussing someone’s plans",
+          "sentence": "She has tried six restaurants to date, but she still hasn’t found the right place for dinner.",
+          "highlight": "to date",
+          "tip": "Natural for describing progress up to now without naming the exact day."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · annual results",
+          "sentence": "Customer registrations have increased by eighteen percent to date, although the trend may change before December.",
+          "highlight": "to date",
+          "tip": "Useful in reports when the figures include activity up to the time of writing."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from the ordinary meanings of ‘date’ and the idea of counting or continuing through particular calendar dates. Its modern sense is well documented in English dictionaries.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1778",
+            "text": "The earliest commonly cited record uses ‘to date’ for activity continuing up to the present time."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase becomes established in business, legal and general writing."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly means ‘so far’ or ‘up to now’, especially when presenting totals and results."
+          }
+        ]
+      },
+      "similar": [
+        "so far",
+        "up to now",
+        "to present"
+      ],
+      "opposite": "from now on",
+      "pitfall": "Do not confuse it with ‘up to date’, which means current and correctly updated."
+    },
+    {
+      "id": "wind-down",
+      "kind": "idiom",
+      "term": "wind down",
+      "pos": "phrase",
+      "hint": "slow down and relax",
+      "register": "Common at work",
+      "meaning": "To relax and become calmer after a busy or stressful period, or to gradually decrease in intensity.",
+      "nuance": "It often suggests moving from activity to rest and calm. It can also describe a process, such as tension or spending, gradually becoming less intense.",
+      "literal": "A winding mechanism turning more slowly until it stops.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "After a launch · team debrief",
+          "sentence": "We’re winding down after a busy release, so let’s keep tomorrow’s questions short.",
+          "highlight": "winding down",
+          "tip": "Common for shifting from intense work to a calmer pace."
+        },
+        {
+          "setting": "social",
+          "where": "After hosting dinner · late evening",
+          "sentence": "The music is winding down, and most of our friends have started heading home.",
+          "highlight": "winding down",
+          "tip": "Often describes an event gradually becoming quieter or less active."
+        },
+        {
+          "setting": "writing",
+          "where": "Market report · slower spending",
+          "sentence": "Consumer demand is winding down as households become more cautious with spending.",
+          "highlight": "winding down",
+          "tip": "Useful in reports when activity, pressure, or demand is gradually decreasing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely developed from the idea of winding a clock or similar mechanism more slowly until it stops. Its figurative use for reducing activity or becoming calmer is well established, but the exact first use is difficult to trace.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Wording meaning to turn or coil something becomes established in English."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "The expression extends to activities and processes that gradually slow down."
+          },
+          {
+            "when": "Today",
+            "text": "It means relaxing after activity or describing something gradually decreasing."
+          }
+        ]
+      },
+      "similar": [
+        "cool down",
+        "call it a day",
+        "ease off",
+        "slow down"
+      ],
+      "opposite": "wind up",
+      "pitfall": "In business, “wind down” can also mean permanently close an operation, as in “the company is winding down.”"
+    },
+    {
+      "id": "wrap-up",
+      "kind": "idiom",
+      "term": "wrap up",
+      "pos": "idiom",
+      "hint": "finish the job",
+      "register": "Common at work",
+      "meaning": "To finish a task, meeting, or piece of work.",
+      "nuance": "It suggests bringing an activity to a clear end, often after the main work is done. It can also mean summarising something briefly.",
+      "literal": "Covering a package by folding or tying it around the contents.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "End-of-day status meeting",
+          "sentence": "Let’s wrap up the meeting and agree on the next steps.",
+          "highlight": "wrap up",
+          "tip": "Common for closing meetings or finishing a discussion."
+        },
+        {
+          "setting": "social",
+          "where": "End of a dinner party",
+          "sentence": "We stayed talking until midnight, but eventually we wrapped up the evening.",
+          "highlight": "wrapped up",
+          "tip": "Natural when describing bringing a social occasion to an end."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update",
+          "sentence": "The report wraps up the main findings and recommends three next steps.",
+          "highlight": "wraps up",
+          "tip": "Useful for introducing a brief conclusion or summary."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably developed from the physical act of wrapping a parcel securely before finishing the job. Its figurative use for ending work is well established, though the exact first use is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "To wrap up something meant fastening or covering a package."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "The phrase began appearing in business and general writing for finishing work or bringing an activity to an end."
+          },
+          {
+            "when": "Today",
+            "text": "It means finishing a task, ending a meeting, or briefly summarising a topic."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "wrap-up",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "finish off",
+        "conclude",
+        "wind up"
+      ],
+      "opposite": "kick off",
+      "pitfall": "When the object comes first, say “wrap it up,” not “wrap up it.”"
+    }
+  ]
+}

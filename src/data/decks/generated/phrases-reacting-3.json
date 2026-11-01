@@ -1,0 +1,1486 @@
+{
+  "id": "phrases-reacting-3",
+  "kind": "phrase",
+  "name": "Reacting · 3",
+  "blurb": "25 phrases about reacting",
+  "cards": [
+    {
+      "id": "god-only-knows",
+      "kind": "phrase",
+      "term": "God only knows",
+      "pos": "idiom",
+      "hint": "no one knows for sure",
+      "register": "Common at work",
+      "meaning": "Nobody knows for certain; the truth is impossible to predict or establish.",
+      "nuance": "It expresses uncertainty, disbelief or mild frustration. It can sound conversational, but it may be too dramatic or disrespectful in very formal settings.",
+      "literal": "An appeal to God as the only one who could know a hidden or unknowable truth.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team retrospective · unclear outage",
+          "sentence": "God only knows what caused the outage, but the team is collecting logs now.",
+          "highlight": "God only knows",
+          "tip": "Use it to admit uncertainty, then redirect the conversation toward finding out."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · missing friend",
+          "sentence": "God only knows where Alex disappeared to, but I haven’t heard from him all week.",
+          "highlight": "God only knows",
+          "tip": "It adds affectionate exasperation without directly criticising someone."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · uncertain delay",
+          "sentence": "God only knows how long the delay will last, so we’ll share another update on Friday.",
+          "highlight": "God only knows",
+          "tip": "Keep the tone light and pair it with a clear next step."
+        }
+      ],
+      "origin": {
+        "summary": "A religious expression built on older wording such as “God knows.” Its precise first use is uncertain, but it has long meant that only God could know the full truth.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used “God knows” to acknowledge divine knowledge and make promises about truth."
+          },
+          {
+            "when": "19th century or earlier",
+            "text": "The intensifier “only” developed to suggest that nobody else could know."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase is widely used to express uncertainty, surprise or resignation."
+          }
+        ]
+      },
+      "similar": [
+        "who knows",
+        "only one way to find out",
+        "there’s no telling"
+      ],
+      "opposite": "I’m certain",
+      "pitfall": "Because it mentions God, avoid it with audiences who may be uncomfortable with religious language."
+    },
+    {
+      "id": "guess-what",
+      "kind": "phrase",
+      "term": "guess what",
+      "pos": "phrase",
+      "hint": "here’s a surprise or good news",
+      "register": "Casual",
+      "meaning": "A cheerful way to introduce news, often something good or unexpected.",
+      "nuance": "It creates suspense and signals that the speaker is excited to share something. It works best with friends or colleagues you know well.",
+      "literal": "An invitation to guess the information that is about to be revealed.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team chat · sharing good news",
+          "sentence": "Guess what? The client loved our proposal and wants to move ahead.",
+          "highlight": "Guess what",
+          "tip": "Keep it friendly when sharing good news with colleagues."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation with a friend",
+          "sentence": "Guess what? I’ve finally booked that weekend trip we kept talking about.",
+          "highlight": "Guess what",
+          "tip": "Use it to build playful suspense before revealing news."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message to a friend",
+          "sentence": "Guess what? We’re having dinner near your place on Saturday.",
+          "highlight": "Guess what",
+          "tip": "It suits personal messages better than formal announcements."
+        }
+      ],
+      "origin": {
+        "summary": "This is an everyday conversational expression with no clearly documented single origin. It likely grew from speakers inviting another person to guess before sharing news.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used guessing games and invitations to guess as a form of playful conversation."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression became established in informal English as a way to introduce a surprise."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in casual speech, messages and friendly workplace conversations."
+          }
+        ]
+      },
+      "similar": [
+        "you know what",
+        "listen to this",
+        "wait till you hear this"
+      ],
+      "pitfall": "It can sound impatient or childish if you use it with people you don’t know well or during serious conversations."
+    },
+    {
+      "id": "hammer-and-tongs",
+      "kind": "phrase",
+      "term": "hammer and tongs",
+      "pos": "idiom",
+      "hint": "with force and determination",
+      "register": "Common but slightly old-fashioned",
+      "meaning": "Doing something with great energy, force and determination.",
+      "nuance": "It suggests vigorous action rather than careful, measured effort. The phrase is vivid but more traditional than everyday modern speech.",
+      "literal": "A blacksmith holds hot metal with tongs and strikes it forcefully with a hammer.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team deadline · clearing a backlog",
+          "sentence": "The support team worked at hammer and tongs to clear every ticket before Friday.",
+          "highlight": "hammer and tongs",
+          "tip": "Use it for intense effort, not merely a steady pace."
+        },
+        {
+          "setting": "social",
+          "where": "Friendly debate · a heated argument",
+          "sentence": "Once the argument started, they went at it at hammer and tongs for nearly an hour.",
+          "highlight": "hammer and tongs",
+          "tip": "It adds comic energy and usually implies vigorous, noisy activity."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · describing rapid progress",
+          "sentence": "The developers worked at hammer and tongs, finishing the prototype ahead of schedule.",
+          "highlight": "hammer and tongs",
+          "tip": "It works best when the surrounding description explains what made the effort so intense."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from blacksmithing: one tool holds the metal while the other strikes it. Its figurative use for forceful, energetic work is well documented from the Middle English period.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "14th century",
+            "text": "The expression is recorded in Middle English, referring literally to a hammer and blacksmith’s tongs."
+          },
+          {
+            "when": "Earlier",
+            "text": "Its literal connection was with hammering hot metal in a forge."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a colourful way to describe vigorous action, though many people prefer modern alternatives."
+          }
+        ]
+      },
+      "similar": [
+        "flat out",
+        "with great gusto",
+        "at full tilt",
+        "with gusto and determination"
+      ],
+      "opposite": "half-heartedly",
+      "pitfall": "The phrase describes intense effort, not necessarily careful or effective work, so avoid implying that speed alone produced a good result."
+    },
+    {
+      "id": "hang-on-to-your-hat",
+      "kind": "phrase",
+      "term": "hang on to your hat",
+      "pos": "idiom",
+      "hint": "brace yourself for a wild ride",
+      "register": "Casual",
+      "meaning": "Hold on tightly because something exciting, fast-moving or surprising is about to happen.",
+      "nuance": "It adds a sense of humorous suspense, often when news or events are arriving quickly. It works best with people you know well.",
+      "literal": "Hold your hat firmly so it is not blown away while you move at speed.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team update · major changes",
+          "sentence": "Hang on to your hat—we’re moving the deadline forward and changing the whole workflow.",
+          "highlight": "Hang on to your hat",
+          "tip": "Use it to create suspense before announcing a big change."
+        },
+        {
+          "setting": "social",
+          "where": "Friends’ evening · surprising news",
+          "sentence": "Hang on to your hat, everyone—the surprise party starts in ten minutes.",
+          "highlight": "Hang on to your hat",
+          "tip": "It suits an excited, informal crowd rather than a serious occasion."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel newsletter · unusual journey",
+          "sentence": "Hang on to your hat as the train speeds across the hills toward the coast.",
+          "highlight": "Hang on to your hat",
+          "tip": "Use it for lively storytelling, especially about travel or adventure."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably comes from the literal risk of losing a hat while travelling quickly or in strong wind. Its figurative use developed as a vivid warning that events are about to become exciting or unpredictable.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Literal sense: keeping hold of a hat during fast or windy travel."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression appears in travel and adventure writing as a warning of speed or danger."
+          },
+          {
+            "when": "20th century",
+            "text": "Figurative use expands to announce surprising news, rapid change or an unpredictable experience."
+          }
+        ]
+      },
+      "similar": [
+        "brace yourself",
+        "hold on tight",
+        "here comes a surprise"
+      ],
+      "opposite": "sit tight",
+      "pitfall": "In formal writing, use “brace yourself” or “prepare for change” instead; this phrase may sound playful or overdone."
+    },
+    {
+      "id": "have-i-got-news-for-you",
+      "kind": "phrase",
+      "term": "Have I got news for you",
+      "pos": "idiom",
+      "hint": "announcing something surprising",
+      "register": "Casual to neutral",
+      "meaning": "Used to announce striking, unexpected or interesting news to someone.",
+      "nuance": "It creates suspense and signals that what follows is worth paying attention to. It can be sincere or mildly dramatic, depending on the situation.",
+      "literal": "Do I have some news that I am eager to tell you?",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · announcing a change",
+          "sentence": "Have I got news for you—the client has just brought the launch forward by a week.",
+          "highlight": "Have I got news for you",
+          "tip": "Use it to frame significant information, not every small update."
+        },
+        {
+          "setting": "social",
+          "where": "Reunion · sharing life updates",
+          "sentence": "Have I got news for you? We’re moving to Manchester next month.",
+          "highlight": "Have I got news for you",
+          "tip": "It works well when the announcement is personal and genuinely exciting."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal email · sharing good news",
+          "sentence": "Have I got news for you? I’ve finally booked those summer flights.",
+          "highlight": "Have I got news for you",
+          "tip": "Keep the tone warm and direct; it suits informal messages better than formal announcements."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is uncertain, but the expression comes from a long-established conversational pattern of announcing that someone has news to share.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English speakers used similar wording such as “I have news for you” to introduce information."
+          },
+          {
+            "when": "20th century",
+            "text": "The familiar conversational form “Have I got news for you” became established, especially in British English."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a lively way to introduce surprising news in speech and informal writing."
+          }
+        ]
+      },
+      "similar": [
+        "you'll never guess",
+        "listen to this",
+        "got some news for you",
+        "do you know what"
+      ],
+      "opposite": "nothing to report",
+      "pitfall": "The phrase promises noteworthy news, so avoid using it before an ordinary or trivial update."
+    },
+    {
+      "id": "head-in-the-clouds",
+      "kind": "phrase",
+      "term": "head in the clouds",
+      "pos": "phrase",
+      "hint": "dreaming while ignoring reality",
+      "register": "Everyday",
+      "meaning": "To be unrealistic, overly idealistic, or unaware of what is actually happening.",
+      "nuance": "It can sound gently teasing or, depending on the context, sharply critical. It often describes someone whose plans do not account for practical difficulties.",
+      "literal": "A person’s head is up among the clouds instead of firmly on the ground.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · testing a proposal",
+          "sentence": "If we launch in three weeks with no testing, our plan has its head in the clouds.",
+          "highlight": "head in the clouds",
+          "tip": "Use it to challenge unrealistic timing without sounding personal."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · comparing travel ideas",
+          "sentence": "Staying in a five-star hotel for six months sounds like having your head in the clouds.",
+          "highlight": "head in the clouds",
+          "tip": "Among friends, it can be a playful way to tease an extravagant idea."
+        },
+        {
+          "setting": "writing",
+          "where": "Project feedback email",
+          "sentence": "The proposal has its head in the clouds because it ignores the size of our support team.",
+          "highlight": "head in the clouds",
+          "tip": "Pair it with a specific practical concern so the feedback stays actionable."
+        }
+      ],
+      "origin": {
+        "summary": "The image of someone physically looking above the clouds is very old. The figurative sense of being impractical or distracted by fantasy developed later.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal image of a person’s head being among the clouds appeared in old expressions about height and unreality."
+          },
+          {
+            "when": "19th century",
+            "text": "Writers used the image to describe people whose thoughts seemed distant from ordinary life."
+          },
+          {
+            "when": "Today",
+            "text": "The expression means being unrealistic or failing to notice practical realities."
+          }
+        ]
+      },
+      "similar": [
+        "pie in the sky",
+        "unrealistic",
+        "daydreaming"
+      ],
+      "opposite": "down to earth",
+      "pitfall": "It can insult someone if you use it for a serious concern, so explain the practical problem alongside it."
+    },
+    {
+      "id": "heads-will-roll",
+      "kind": "phrase",
+      "term": "heads will roll",
+      "pos": "idiom",
+      "hint": "serious consequences for people",
+      "register": "Common at work",
+      "meaning": "People will be severely punished or blamed if something goes wrong.",
+      "nuance": "It suggests serious consequences, often for several people, and can sound dramatic or threatening. It is common in workplace accountability, but use it carefully because it carries a violent image.",
+      "literal": "A reference to people being beheaded as punishment.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · discussing a failure",
+          "sentence": "If the client loses another batch, heads will roll.",
+          "highlight": "heads will roll",
+          "tip": "Use it when speaking forcefully about accountability, not as a casual prediction."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a party · anticipating trouble",
+          "sentence": "If we leave the venue locked, heads will roll.",
+          "highlight": "heads will roll",
+          "tip": "Among friends, it usually adds humorous drama rather than a real threat."
+        },
+        {
+          "setting": "writing",
+          "where": "Post-incident email · naming responsibility",
+          "sentence": "Until we know what caused the outage, assuming heads will roll would be premature.",
+          "highlight": "heads will roll",
+          "tip": "It can emphasise the stakes, but a neutral phrase may be more appropriate in a formal report."
+        }
+      ],
+      "origin": {
+        "summary": "Probably developed from older expressions about losing one’s head or literal executions, then became a broad warning that people would face harsh punishment.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The phrase drew on vivid images of execution and punishment."
+          },
+          {
+            "when": "20th century",
+            "text": "It became a common way to warn that serious consequences would follow a failure."
+          },
+          {
+            "when": "Today",
+            "text": "It remains familiar in workplace and political speech, often as a dramatic threat."
+          }
+        ]
+      },
+      "similar": [
+        "the blame will fall on someone",
+        "people will be held accountable",
+        "there will be consequences"
+      ],
+      "opposite": "no one will be held accountable",
+      "pitfall": "It can sound like a threat of unfair punishment; explain the actual failure and responsibility before using it."
+    },
+    {
+      "id": "heaven-knows",
+      "kind": "phrase",
+      "term": "heaven knows",
+      "pos": "phrase",
+      "hint": "nobody else knows",
+      "register": "Common in conversation; informal in writing",
+      "meaning": "Used to say that you do not know something, often with resignation, exasperation or emphasis.",
+      "nuance": "It can suggest that the answer is unknowable, impossible to guess, or beyond anyone’s control. The tone may be humorous, frustrated or sincerely uncertain.",
+      "literal": "Only God, who is traditionally understood to know everything, can know the answer.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Status meeting · unclear results",
+          "sentence": "The dashboard shows a serious drop, but heaven knows what caused it.",
+          "highlight": "heaven knows",
+          "tip": "Use it when you are admitting ignorance, not offering an explanation."
+        },
+        {
+          "setting": "social",
+          "where": "Finding a missing item",
+          "sentence": "Heaven knows where I put my keys; they were in my hand a minute ago.",
+          "highlight": "Heaven knows",
+          "tip": "It adds frustration or playful helplessness to the conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message · explaining uncertainty",
+          "sentence": "I cannot explain the delay, and heaven knows how long it will take.",
+          "highlight": "heaven knows",
+          "tip": "Keep it in friendly or casual writing; it may sound dramatic in formal messages."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase invokes heaven, a traditional religious reference to God, to express that only an all-knowing power could reveal the answer. Its modern use is an emphatic way of saying that nobody knows.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English speakers used “heaven” as a name for God, making it a natural symbol of complete knowledge."
+          },
+          {
+            "when": "1600s–1700s",
+            "text": "The expression appears in the sense of “only God knows,” originally with a strongly religious tone."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in informal speech as a way to admit uncertainty, exasperation or resignation."
+          }
+        ]
+      },
+      "similar": [
+        "God knows",
+        "who knows",
+        "no one knows",
+        "I have no idea"
+      ],
+      "opposite": "I know exactly",
+      "pitfall": "“Heaven knows” does not necessarily mean something is objectively unknowable; it may simply express your own confusion or frustration."
+    },
+    {
+      "id": "hold-on-to-your-hat",
+      "kind": "phrase",
+      "term": "hold on to your hat",
+      "pos": "idiom",
+      "hint": "prepare for something intense",
+      "register": "Everyday",
+      "meaning": "To prepare for a sudden, exciting, or unsettling experience.",
+      "nuance": "It adds a playful sense of anticipation, as if what is coming may be a wild ride. It works best when something surprising or difficult is about to happen.",
+      "literal": "Grip your hat so it does not blow away while something moves quickly or shakily.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · a major update",
+          "sentence": "The results are finally here, so hold on to your hat.",
+          "highlight": "hold on to your hat",
+          "tip": "Use it when announcing dramatic news, but avoid overstating ordinary updates."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · surprising news",
+          "sentence": "Hold on to your hat, because your cousins have just moved into the house next door.",
+          "highlight": "Hold on to your hat",
+          "tip": "It adds humor and suspense to a surprising announcement."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · previewing a busy event",
+          "sentence": "Three speakers, two workshops, and a livestream—hold on to your hat.",
+          "highlight": "hold on to your hat",
+          "tip": "It can make a formal-looking schedule feel lively and informal."
+        }
+      ],
+      "origin": {
+        "summary": "The expression likely comes from the practical need to keep a hat on in strong wind, especially while travelling in an open vehicle. Its figurative use developed into a warning that something intense or unexpected is about to happen.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "Print records show people saying “hold on to your hat” when wind or fast movement could carry a hat away."
+          },
+          {
+            "when": "Later 19th century",
+            "text": "The expression begins to suggest bracing yourself for excitement, danger, or a surprising development."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar, playful way to prepare listeners for dramatic news."
+          }
+        ]
+      },
+      "similar": [
+        "brace yourself",
+        "prepare for a bumpy ride",
+        "get ready for a surprise"
+      ],
+      "opposite": "sit tight",
+      "pitfall": "It is not a literal instruction to protect your head, so do not use it when discussing actual bad weather or safety hazards."
+    },
+    {
+      "id": "how-about-that",
+      "kind": "phrase",
+      "term": "how about that",
+      "pos": "phrase",
+      "hint": "pleased surprise or a casual suggestion",
+      "register": "Everyday",
+      "meaning": "An expression of pleased surprise, or a conversational way to suggest something and invite agreement.",
+      "nuance": "With an exclamation mark, it reacts with satisfaction or admiration. As a question, it can offer an idea, though it often sounds less direct than “Would you like…” or “What if we…”",
+      "literal": "A question asking what someone thinks of a particular thing, followed by a comment showing delight at the result.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team celebration · sharing good news",
+          "sentence": "The client approved the campaign on the first review—how about that!",
+          "highlight": "how about that",
+          "tip": "Use it to share good news without becoming too formal."
+        },
+        {
+          "setting": "social",
+          "where": "Chat with a friend · hearing good news",
+          "sentence": "You passed the driving test—how about that!",
+          "highlight": "how about that",
+          "tip": "It adds warmth and surprise when praising someone’s achievement."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal email · following an update",
+          "sentence": "The revised proposal was accepted—how about that!",
+          "highlight": "how about that",
+          "tip": "It works best in a friendly message, not a serious or official update."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase grew from everyday English questions such as “How about that?” Its familiar use as an expression of delight became established in the early 20th century, especially in informal American speech.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "“How about that” appears in speech as a question asking what someone thinks of something."
+          },
+          {
+            "when": "Early 20th century",
+            "text": "The expression becomes established as a friendly reaction showing surprise, approval or satisfaction."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in casual conversation and informal messages worldwide."
+          }
+        ]
+      },
+      "similar": [
+        "how do you like that",
+        "what do you think",
+        "not bad"
+      ],
+      "pitfall": "The meaning changes with punctuation: “How about that!” usually reacts with delight, while “How about that?” proposes something."
+    },
+    {
+      "id": "how-the-mighty-have-fallen",
+      "kind": "phrase",
+      "term": "how the mighty have fallen",
+      "pos": "idiom",
+      "hint": "powerful people brought low",
+      "register": "Formal; often literary or ironic",
+      "meaning": "A remark expressing surprise, delight, or mockery that someone powerful has been defeated or brought down.",
+      "nuance": "It can sound like a witty observation, but it may feel harsh or triumphalist if used about a person’s real misfortune. The tone often depends on whether the phrase is playful, critical, or admiring.",
+      "literal": "People who were once mighty or powerful have fallen from their high position.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "After a major corporate defeat",
+          "sentence": "After the merger, the old rival’s market share collapsed, and rivals began to ask, “How the mighty have fallen.”",
+          "highlight": "How the mighty have fallen",
+          "tip": "Use it when commenting on a sudden reversal, but avoid sounding gloating."
+        },
+        {
+          "setting": "social",
+          "where": "Teasing a boastful friend",
+          "sentence": "When the confident guest arrived in a handmade outfit, everyone laughed and said, “How the mighty have fallen.”",
+          "highlight": "How the mighty have fallen",
+          "tip": "It works best among people who share the joke and know it is playful."
+        },
+        {
+          "setting": "writing",
+          "where": "Commentary on a political upset",
+          "sentence": "The editorial ended with “How the mighty have fallen,” making the reversal sound deliberate and ironic.",
+          "highlight": "How the mighty have fallen",
+          "tip": "In writing, the phrase can frame a fall from power as memorable or ironic."
+        }
+      ],
+      "origin": {
+        "summary": "Recorded in the biblical Book of 1 Samuel, where it describes a military defeat and the fall of mighty warriors. The wording later became a familiar way to comment on the decline of powerful people.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Book of Samuel",
+            "text": "The biblical text uses the question to express shock that mighty warriors have been defeated."
+          },
+          {
+            "when": "Early modern period",
+            "text": "The phrase became established in English literature and political commentary as a way to mark the fall of the powerful."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a literary expression for dramatic reversals, often used with irony or mockery."
+          }
+        ]
+      },
+      "similar": [
+        "the mighty have fallen",
+        "a fall from grace",
+        "brought low",
+        "the tables have turned"
+      ],
+      "opposite": "the mighty remain on top",
+      "pitfall": "The phrase can sound mocking or cruel, especially when used to celebrate someone’s genuine misfortune."
+    },
+    {
+      "id": "i-dont-have-all-day",
+      "kind": "phrase",
+      "term": "I don't have all day",
+      "pos": "phrase",
+      "hint": "I’m busy; please hurry",
+      "register": "Casual",
+      "meaning": "An impatient way of telling someone to hurry up because you are busy or have other things to do.",
+      "nuance": "It can sound brisk and humorous among friends, but blunt or rude at work. A softer alternative is, “I’m a little short on time.”",
+      "literal": "The speaker does not have a whole day available for the task.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague waiting for a quick reply",
+          "sentence": "I don't have all day, so please send me the key numbers now.",
+          "highlight": "I don't have all day",
+          "tip": "Avoid this with a manager or client; it may sound impatient or dismissive."
+        },
+        {
+          "setting": "social",
+          "where": "Friend searching for a restaurant",
+          "sentence": "Hurry up, I don't have all day, and the reservation is at seven.",
+          "highlight": "I don't have all day",
+          "tip": "It works best with people you know well enough for a little impatience."
+        },
+        {
+          "setting": "writing",
+          "where": "Quick message to a friend",
+          "sentence": "I don't have all day, so bring the ticket to the bar before eight.",
+          "highlight": "I don't have all day",
+          "tip": "In writing, it can feel more demanding because tone is harder to judge."
+        }
+      ],
+      "origin": {
+        "summary": "Probably grew from the literal idea that a task would take a whole day. The phrase later became a familiar way to express impatience about the time something is taking.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression “have all day” meant having plenty of time."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "“I don't have all day” developed as a way of saying that someone did not have time to waste."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common expression of impatience, often used in casual speech."
+          }
+        ]
+      },
+      "similar": [
+        "hurry up",
+        "I'm short on time",
+        "make haste",
+        "time is of the essence"
+      ],
+      "opposite": "Take all the time you need",
+      "pitfall": "This phrase can sound rude, especially to someone senior; explain that you are busy and state what you need more politely."
+    },
+    {
+      "id": "i-havent-got-all-day",
+      "kind": "phrase",
+      "term": "I haven't got all day",
+      "pos": "phrase",
+      "hint": "I don't have unlimited time",
+      "register": "Casual",
+      "meaning": "I do not have enough time to wait or deal with this slowly.",
+      "nuance": "It shows impatience or urgency and is usually direct, sometimes slightly rude. Use it with people you know well or soften it with “but” or “however”.",
+      "literal": "The speaker does not have the whole day available.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague asks for another status update",
+          "sentence": "I haven't got all day, so please send me the final figures now.",
+          "highlight": "I haven't got all day",
+          "tip": "It can work with a familiar colleague, but a deadline may sound more professional."
+        },
+        {
+          "setting": "social",
+          "where": "Friend keeps delaying a plan",
+          "sentence": "Come on, I haven't got all day—we need to leave if we're going to catch the train.",
+          "highlight": "I haven't got all day",
+          "tip": "Use it playfully among friends to add urgency without sounding serious."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to someone taking too long",
+          "sentence": "I haven't got all day, so I'll need a quick answer before the meeting.",
+          "highlight": "I haven't got all day",
+          "tip": "In email, consider naming the response time instead; it can sound blunt."
+        }
+      ],
+      "origin": {
+        "summary": "This is a modern colloquial expression built on the idea that a task cannot take the whole day. It is especially associated with British and Irish speech.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The phrase developed from the literal idea of having only part of the day available."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression became established in British and Irish colloquial speech."
+          },
+          {
+            "when": "Today",
+            "text": "It is used informally in speech to signal impatience or urgency."
+          }
+        ]
+      },
+      "similar": [
+        "I don't have all day",
+        "I don't have time to waste",
+        "make haste",
+        "time is short"
+      ],
+      "opposite": "Take your time",
+      "pitfall": "It may sound impatient or rude, especially to someone senior or someone you do not know well."
+    },
+    {
+      "id": "i-just-work-here",
+      "kind": "phrase",
+      "term": "I just work here",
+      "pos": "phrase",
+      "hint": "I have no special authority or control",
+      "register": "Common at work; casual elsewhere",
+      "meaning": "A way of saying that you are only responsible for your own role and do not have the authority to decide or control what happens.",
+      "nuance": "It can sound defensive, dismissive or mildly sarcastic. Use it to clarify your role, but give the reason and suggest who can help when possible.",
+      "literal": "The person says their job is simply to work there, with no special status or decision-making power.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · limits on authority",
+          "sentence": "I can explain the process, but I just work here, so the pricing team needs to make that change.",
+          "highlight": "I just work here",
+          "tip": "Pair it with a clear referral so it does not sound like you are refusing to help."
+        },
+        {
+          "setting": "social",
+          "where": "At a party · explaining a workplace issue",
+          "sentence": "If the venue has messed up the booking, I just work here; you may need to speak to the manager.",
+          "highlight": "I just work here",
+          "tip": "It can be humorous among friends, but may sound unhelpful to someone seeking support."
+        },
+        {
+          "setting": "writing",
+          "where": "Reply to a customer complaint",
+          "sentence": "I just work here and cannot approve refunds, but I have asked my manager to review your case.",
+          "highlight": "I just work here",
+          "tip": "Follow it with what you have done, who owns the decision and when the person can expect a response."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from a plain statement about someone’s limited role. In the internet era, it became a common, sometimes sarcastic way to push responsibility toward whoever holds the actual authority.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal idea is that a person is an ordinary employee with no special status."
+          },
+          {
+            "when": "Late 20th century",
+            "text": "The expression became common as a response to questions about decisions, problems or policies."
+          },
+          {
+            "when": "Internet era",
+            "text": "Online use made the phrase more widely known and often gave it a dry or sarcastic tone."
+          }
+        ]
+      },
+      "similar": [
+        "it’s not my call",
+        "that’s above my pay grade",
+        "it’s not up to me",
+        "I don’t have the final say"
+      ],
+      "opposite": "I’m in charge of this",
+      "pitfall": "Saying “I just work here” may imply that you are uninvolved or unwilling to help; explain what you can do and who has the authority."
+    },
+    {
+      "id": "i-know-right",
+      "kind": "phrase",
+      "term": "I know, right",
+      "pos": "phrase",
+      "hint": "a shared reaction of agreement",
+      "register": "Casual",
+      "meaning": "A casual way of showing that you completely understand or share someone’s surprise, frustration or reaction.",
+      "nuance": "It creates a sense of solidarity, especially in conversation. It can sound sincere, but also dismissive or sarcastic if your tone suggests you expected the problem.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team chat · repeated system failure",
+          "sentence": "The reporting tool failed again just before the deadline. I know, right?",
+          "highlight": "I know, right",
+          "tip": "Use it when you genuinely recognize the frustration; avoid making light of a serious problem."
+        },
+        {
+          "setting": "social",
+          "where": "Complaining about an event",
+          "sentence": "They moved our table, charged extra, and lost our drinks. I know, right?",
+          "highlight": "I know, right",
+          "tip": "A relaxed way to invite another person to agree with your reaction."
+        },
+        {
+          "setting": "writing",
+          "where": "Quick reply to a colleague",
+          "sentence": "The client changed the brief again. I know, right.",
+          "highlight": "I know, right",
+          "tip": "Keep it for informal messages because it can seem too casual in formal correspondence."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from everyday conversational agreement, with its familiar shape becoming especially noticeable in online and social-media exchanges.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used conversational expressions to signal that they shared another person’s reaction."
+          },
+          {
+            "when": "2000s",
+            "text": "Short reactions like “I know” were commonly added to stories and informal messages."
+          },
+          {
+            "when": "2010s–today",
+            "text": "Adding “right” made the expression more conversational and helped it spread across social media."
+          }
+        ]
+      },
+      "similar": [
+        "Tell me about it",
+        "You can say that again",
+        "Can’t you just tell",
+        "Exactly"
+      ],
+      "opposite": "I don’t know",
+      "pitfall": "It may sound sarcastic or overly casual if used with someone who needs empathy rather than agreement."
+    },
+    {
+      "id": "i-told-you-so",
+      "kind": "phrase",
+      "term": "I told you so",
+      "pos": "idiom",
+      "hint": "I was right, after all",
+      "register": "Casual",
+      "meaning": "Something you say to tell someone that you warned them about a problem and that the result proved you were right.",
+      "nuance": "It can sound smug or accusing, so use it lightly among people you know. In formal settings, explain what you predicted instead.",
+      "literal": "A speaker is reminding a listener that they were previously given the same information or warning.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "After a missed deadline",
+          "sentence": "The client approved the extra work, just as I said. I told you so, but let’s focus on getting it finished.",
+          "highlight": "I told you so",
+          "tip": "Use it only after the point has been made; sounding pleased with yourself can create friction."
+        },
+        {
+          "setting": "social",
+          "where": "After a friend ignores your advice",
+          "sentence": "Your team won without you, didn’t they? I told you so, but I won’t rub it in.",
+          "highlight": "I told you so",
+          "tip": "A playful tone keeps it from sounding hostile among close friends."
+        },
+        {
+          "setting": "writing",
+          "where": "Message about a predictable delay",
+          "sentence": "I told you so may be true, but the important thing now is finding a way to move the project forward.",
+          "highlight": "I told you so",
+          "tip": "In email, replace the phrase with a practical reminder of what was agreed."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is an old conversational way of saying that someone was previously warned and has now experienced the predicted outcome.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "It developed from the plain statement that one person had already given another person information or advice."
+          },
+          {
+            "when": "19th century",
+            "text": "The familiar wording became established in English conversation."
+          },
+          {
+            "when": "Today",
+            "text": "It is still common, though often used teasingly because it can sound smug."
+          }
+        ]
+      },
+      "similar": [
+        "See? I told you",
+        "What did I tell you",
+        "As I said before"
+      ],
+      "opposite": "I was wrong",
+      "pitfall": "It often sounds smug, especially when directed at someone who has already admitted a mistake. Use humor or soften the message."
+    },
+    {
+      "id": "ill-believe-it-when-i-see-it",
+      "kind": "phrase",
+      "term": "I'll believe it when I see it",
+      "pos": "phrase",
+      "hint": "not convinced until there is proof",
+      "register": "Everyday",
+      "meaning": "You will accept that something is true only after you have seen evidence that it is true.",
+      "nuance": "It expresses skepticism in a direct, conversational way. It can sound practical, but also dismissive if used too forcefully.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · a bold prediction",
+          "sentence": "They say the system will save two hours a week, but I'll believe it when I see it.",
+          "highlight": "I'll believe it when I see it",
+          "tip": "Use it to show healthy skepticism without naming a specific concern."
+        },
+        {
+          "setting": "social",
+          "where": "Listening to a surprising travel story",
+          "sentence": "You found a secret restaurant? Well, I'll believe it when I see it.",
+          "highlight": "I'll believe it when I see it",
+          "tip": "It can be playful among friends, but it may sound doubtful with someone you know well."
+        },
+        {
+          "setting": "writing",
+          "where": "Email reply · an unverified forecast",
+          "sentence": "The forecast predicts a full week of sunshine, though I'll believe it when I see it.",
+          "highlight": "I'll believe it when I see it",
+          "tip": "It adds a light note of skepticism to an otherwise neutral update."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the old idea that a claim should not be accepted until it is visible. Its exact first use is uncertain, but it was already established in English by the 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used the idea of needing to see something before accepting it as true."
+          },
+          {
+            "when": "1800s",
+            "text": "The familiar wording appears in English writing and conversation."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common way to express skepticism, sometimes humorously and sometimes bluntly."
+          }
+        ]
+      },
+      "similar": [
+        "prove it",
+        "show me",
+        "don't take it at face value"
+      ],
+      "pitfall": "It can sound mocking or overly skeptical, especially when addressing a close colleague or client."
+    },
+    {
+      "id": "im-afraid",
+      "kind": "phrase",
+      "term": "I'm afraid",
+      "pos": "phrase",
+      "hint": "a polite way to introduce unwelcome news",
+      "register": "Everyday",
+      "meaning": "A polite way to introduce bad news, a concern, disagreement, or a refusal.",
+      "nuance": "It softens the impact of something difficult to say, especially in professional or polite conversations. It can also signal uncertainty, as in “I’m afraid I don’t know.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project update · raising a delay",
+          "sentence": "I’m afraid we won’t finish the report by Friday because the data is incomplete.",
+          "highlight": "I’m afraid",
+          "tip": "Use it when the news is unwelcome, then explain the practical issue."
+        },
+        {
+          "setting": "social",
+          "where": "Plans with friends · declining an invitation",
+          "sentence": "I’m afraid I can’t make it tonight, but I’d love to meet another day.",
+          "highlight": "I’m afraid",
+          "tip": "It makes a refusal gentler without weakening the message."
+        },
+        {
+          "setting": "writing",
+          "where": "Customer email · reporting a problem",
+          "sentence": "I’m afraid your order won’t arrive on time because of a delay at the warehouse.",
+          "highlight": "I’m afraid",
+          "tip": "Follow it with the reason and, when possible, a solution."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed as a polite way to introduce something unwelcome, especially in conversation. Its modern form is common in British and American English.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used longer forms such as “I am afraid” to express worry or introduce bad news."
+          },
+          {
+            "when": "18th century",
+            "text": "The shortened conversational form “I’m afraid” became established in polite speech."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common way to soften disappointing news, refusals, and concerns."
+          }
+        ]
+      },
+      "similar": [
+        "I’m sorry to say",
+        "unfortunately",
+        "I’m afraid not"
+      ],
+      "opposite": "I’m delighted",
+      "pitfall": "It can sound overly formal or indirect with close friends; in casual conversation, “Sorry, I can’t” is usually more natural."
+    },
+    {
+      "id": "im-sorry",
+      "kind": "phrase",
+      "term": "I'm sorry",
+      "pos": "phrase",
+      "hint": "saying you are sorry",
+      "register": "Everyday",
+      "meaning": "A direct way to say that you feel sorry about something someone has done or that has happened.",
+      "nuance": "It can apologise for an action, acknowledge someone’s loss, or express regret after making a mistake. The context and tone determine whether it sounds heartfelt, formal or simply routine.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team debrief · acknowledging a missed deadline",
+          "sentence": "I'm sorry I missed yesterday's deadline; I should have flagged the risk sooner.",
+          "highlight": "I'm sorry",
+          "tip": "Pair it with a brief account of what happened and how you’ll prevent a repeat."
+        },
+        {
+          "setting": "social",
+          "where": "Friendship · responding to bad news",
+          "sentence": "I'm sorry you had such a rough day. Do you want to talk about it?",
+          "highlight": "I'm sorry",
+          "tip": "Adding a question shows care rather than leaving the apology at a formula."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · apologising for a booking error",
+          "sentence": "I'm sorry, but I booked the meeting for Tuesday instead of Wednesday.",
+          "highlight": "I'm sorry",
+          "tip": "Follow the apology with the corrected details so the reader knows what to do next."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the older expression “I am sorry,” with “I’m” emerging as the shortened form of “I am.” Its modern use covers apologies, sympathy and regret.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The fuller expression “I am sorry” was used to apologise or express regret."
+          },
+          {
+            "when": "1600s–1700s",
+            "text": "“I’m sorry” became established in ordinary speech as “I am” contracted to “I’m.”"
+          },
+          {
+            "when": "Today",
+            "text": "It is a standard apology and expression of sympathy in everyday English."
+          }
+        ]
+      },
+      "similar": [
+        "I apologise",
+        "my apologies",
+        "I regret"
+      ],
+      "opposite": "I'm not sorry",
+      "pitfall": "By itself, “I'm sorry” does not explain the problem or accept responsibility; add those details when they matter."
+    },
+    {
+      "id": "in-a-spin",
+      "kind": "phrase",
+      "term": "in a spin",
+      "pos": "idiom",
+      "hint": "confused by a sudden change",
+      "register": "Casual",
+      "meaning": "Feeling confused or upset because a situation has changed unexpectedly.",
+      "nuance": "Common in British and Australian English, especially for personal reactions rather than serious problems. It can sound conversational and slightly informal.",
+      "literal": "Spinning around quickly, making someone dizzy and disoriented.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · sudden schedule change",
+          "sentence": "We were left in a spin when the deadline was brought forward by two weeks.",
+          "highlight": "in a spin",
+          "tip": "Use it when describing your own reaction, rather than dismissing someone else’s concerns."
+        },
+        {
+          "setting": "social",
+          "where": "Plans changing · last-minute surprise",
+          "sentence": "She was in a spin when the restaurant suddenly cancelled her birthday table.",
+          "highlight": "in a spin",
+          "tip": "It works well with friends because the tone is light and sympathetic."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal email · explaining a disruption",
+          "sentence": "The late delivery has left our team in a spin, so we need a new delivery plan.",
+          "highlight": "in a spin",
+          "tip": "Keep this for informal updates; use “caused confusion” in more formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the physical feeling of spinning, which makes someone dizzy and confused. Its figurative use developed from that older idea before becoming common in British English.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal expression referred to being dizzy or turning around rapidly."
+          },
+          {
+            "when": "19th century",
+            "text": "Figurative uses began to describe mental confusion or agitation."
+          },
+          {
+            "when": "20th century onward",
+            "text": "The expression became especially familiar in British and Australian speech."
+          }
+        ]
+      },
+      "similar": [
+        "in a tizzy",
+        "taken aback",
+        "all shook up",
+        "in a dither"
+      ],
+      "opposite": "unfazed",
+      "pitfall": "It usually describes a personal reaction, so “The news left us in a spin” is natural, while “The news is in a spin” is not."
+    },
+    {
+      "id": "in-all-ones-glory",
+      "kind": "phrase",
+      "term": "in all one's glory",
+      "pos": "phrase",
+      "hint": "fully displayed, often in a striking or funny way",
+      "register": "Everyday",
+      "meaning": "In a state of full display, especially when someone looks impressive, conspicuous or amusingly overconfident.",
+      "nuance": "The phrase is often affectionate or teasing rather than sincerely complimentary. It can also describe something being seen at its most vivid or spectacular best.",
+      "literal": "Showing oneself completely, with every stylish or conspicuous detail on display.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company presentation · an overdressed speaker",
+          "sentence": "By the time the CEO joined the call, he was in all his glory, dressed for the keynote.",
+          "highlight": "in all his glory",
+          "tip": "Use it with affection or dry humor, not as a serious compliment."
+        },
+        {
+          "setting": "social",
+          "where": "Party arrival · an extravagant outfit",
+          "sentence": "She arrived in all her glory in a sequined outfit, and nobody could stop laughing.",
+          "highlight": "in all her glory",
+          "tip": "It often highlights a dramatic entrance or someone enjoying the attention."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel article · a festival at night",
+          "sentence": "The festival came alive in all its glory once the lanterns were lit.",
+          "highlight": "in all its glory",
+          "tip": "Use the “its” form when describing something vivid or magnificent."
+        }
+      ],
+      "origin": {
+        "summary": "The expression probably grew from older theatrical language, where a performer's “glory” suggested a splendid appearance or elaborate costume. Its modern sense covers both impressive and amusing displays.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "“Glory” was used for splendid appearance, theatrical display and elaborate costume."
+          },
+          {
+            "when": "Later 19th century",
+            "text": "Wording such as “in all her glory” developed for conspicuous or comic self-display."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase remains a familiar, often humorous way to describe a full display."
+          }
+        ]
+      },
+      "similar": [
+        "in full regalia",
+        "at one's finest",
+        "in all its glory"
+      ],
+      "opposite": "at one's worst",
+      "pitfall": "“Glory” here is not always praise; the phrase can be gently ironic, so the surrounding context should make the tone clear."
+    },
+    {
+      "id": "in-hindsight",
+      "kind": "phrase",
+      "term": "in hindsight",
+      "pos": "phrase",
+      "hint": "looking back with what you now know",
+      "register": "Common at work",
+      "meaning": "Looking back at a situation with the knowledge or understanding you have gained since then.",
+      "nuance": "It can sound reflective and neutral, but it may also imply that you now see what should have been obvious before. Use it carefully when discussing a mistake someone else made.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Retrospective · reviewing a launch",
+          "sentence": "In hindsight, we should have tested the process with a small group before rolling it out company-wide.",
+          "highlight": "In hindsight",
+          "tip": "Use it to draw a lesson, not to blame a teammate."
+        },
+        {
+          "setting": "social",
+          "where": "After a group trip",
+          "sentence": "In hindsight, booking the restaurant a week earlier would have saved us half the room.",
+          "highlight": "In hindsight",
+          "tip": "It works well for a light, self-aware comment about something that happened."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining a delay",
+          "sentence": "In hindsight, the delay was avoidable, and we have changed the approval process.",
+          "highlight": "In hindsight",
+          "tip": "Follow it with what you learned or changed so the focus stays constructive."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the idea of judging a past event with knowledge gained later. Its modern use became established through general and business English in the 20th century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression developed from the literal idea of hindsight, or knowledge and understanding that comes after an event."
+          },
+          {
+            "when": "20th century",
+            "text": "“In hindsight” becomes established in English for reflecting on a past event with later knowledge."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in conversations, reviews and workplace writing."
+          }
+        ]
+      },
+      "similar": [
+        "looking back",
+        "with hindsight",
+        "in retrospect"
+      ],
+      "opposite": "in foresight",
+      "pitfall": "Avoid using it when it may imply that someone else should have seen the problem sooner."
+    },
+    {
+      "id": "in-tatters",
+      "kind": "phrase",
+      "term": "in tatters",
+      "pos": "phrase",
+      "hint": "badly damaged or ruined",
+      "register": "Everyday",
+      "meaning": "Badly damaged, ruined or in very poor condition.",
+      "nuance": "It strongly suggests severe damage or decay. It can describe physical objects, organisations, reputations or someone’s appearance.",
+      "literal": "Wearing clothing torn into ragged, hanging pieces.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office move · damaged equipment",
+          "sentence": "The supplier delivered the equipment in tatters, so we sent it back.",
+          "highlight": "in tatters",
+          "tip": "Use it when the damage is obvious and serious, not for minor wear."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · an old jacket",
+          "sentence": "I wore my old jacket, but it was already in tatters.",
+          "highlight": "in tatters",
+          "tip": "This sounds vivid and slightly dramatic, even for everyday clothing."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · company reputation",
+          "sentence": "Years of poor service left the company’s reputation in tatters.",
+          "highlight": "in tatters",
+          "tip": "It works well in reporting when a reputation or system has suffered major damage."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the image of clothing torn into ragged pieces. Its figurative use for ruined people, organisations or reputations followed later.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Tatters” referred to loose, torn threads or pieces of worn clothing."
+          },
+          {
+            "when": "1600s",
+            "text": "The figurative phrase began describing people whose clothing and appearance were badly torn."
+          },
+          {
+            "when": "Later",
+            "text": "The expression expanded to describe ruined institutions, systems and reputations."
+          }
+        ]
+      },
+      "similar": [
+        "in ruins",
+        "worn out",
+        "badly damaged",
+        "in shambles"
+      ],
+      "opposite": "in excellent condition",
+      "pitfall": "The phrase is dramatic, so it may sound excessive when something has only been slightly damaged."
+    },
+    {
+      "id": "in-your-dreams",
+      "kind": "phrase",
+      "term": "in your dreams",
+      "pos": "idiom",
+      "hint": "something will never happen",
+      "register": "Casual",
+      "meaning": "Used to say that something is impossible and will not happen.",
+      "nuance": "It can be playful between friends, but it sounds dismissive when used about someone’s hopes or expectations.",
+      "literal": "Something desirable exists only in an imaginary dream, not in reality.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Discussing an unrealistic request",
+          "sentence": "A three-day deadline for the whole report is in your dreams.",
+          "highlight": "in your dreams",
+          "tip": "It sounds mocking, so offer a realistic alternative."
+        },
+        {
+          "setting": "social",
+          "where": "Responding to a friend’s extravagant plan",
+          "sentence": "Staying in a castle for the weekend? In your dreams.",
+          "highlight": "In your dreams",
+          "tip": "Use it with close friends when the joke is clearly understood."
+        },
+        {
+          "setting": "writing",
+          "where": "Rejecting an outlandish suggestion",
+          "sentence": "Working through the weekend without overtime is in your dreams.",
+          "highlight": "in your dreams",
+          "tip": "In writing, it may sound more sarcastic than it does in conversation."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from the idea that hopes or wishes belong in dreams; the exact first use is unclear.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used dreams as a metaphor for hopes that may never become real."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression became a familiar way to dismiss an unrealistic expectation."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in casual speech, often with a joking or sarcastic tone."
+          }
+        ]
+      },
+      "similar": [
+        "no way",
+        "not a chance",
+        "dream on",
+        "you wish"
+      ],
+      "opposite": "you bet",
+      "pitfall": "Avoid it in serious conversations because it can crush someone’s hopes or make you sound contemptuous."
+    },
+    {
+      "id": "in-your-wildest-dreams",
+      "kind": "phrase",
+      "term": "in your wildest dreams",
+      "pos": "phrase",
+      "hint": "far beyond what you can imagine",
+      "register": "Casual",
+      "meaning": "Used to emphasize that something is more extreme, unlikely or exciting than someone could possibly imagine.",
+      "nuance": "It often expresses amused disbelief, but it can also highlight how ambitious or extraordinary an idea is. It is more dramatic than simply saying someone cannot imagine something.",
+      "literal": "Considering the most fanciful possibilities you can imagine.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · hearing an ambitious proposal",
+          "sentence": "In your wildest dreams, did you expect this proposal to become our most successful launch?",
+          "highlight": "In your wildest dreams",
+          "tip": "Use it with good news to add playful emphasis."
+        },
+        {
+          "setting": "social",
+          "where": "Birthday conversation · reacting to a party plan",
+          "sentence": "In your wildest dreams, did you think our quiet evening would turn into a rooftop celebration?",
+          "highlight": "In your wildest dreams",
+          "tip": "It works well when you want to sound pleasantly surprised."
+        },
+        {
+          "setting": "writing",
+          "where": "Campaign update · celebrating results",
+          "sentence": "In your wildest dreams, our small pilot would have reached a million customers in one month.",
+          "highlight": "In your wildest dreams",
+          "tip": "Keep the rest of the message clear so the playful exaggeration has impact."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from older expressions about exceeding someone’s hopes or imaginings, with “wildest” gradually strengthening the idea of extreme fantasy.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English speakers used expressions linking an unexpected event with something beyond a person’s hopes."
+          },
+          {
+            "when": "19th century",
+            "text": "Language combining dreams with impossibility became common in dramatic and imaginative contexts."
+          },
+          {
+            "when": "20th century onward",
+            "text": "The intensifier “wildest” helped establish the modern expression used for astonishing or unimaginable possibilities."
+          }
+        ]
+      },
+      "similar": [
+        "beyond your wildest dreams",
+        "in a million years",
+        "you would never have thought"
+      ],
+      "opposite": "exactly as you expected",
+      "pitfall": "The phrase adds exaggeration, so it may sound insincere when describing a serious problem."
+    }
+  ]
+}

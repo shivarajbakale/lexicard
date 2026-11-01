@@ -1,0 +1,1724 @@
+{
+  "id": "words-body-health-nature-1",
+  "kind": "word",
+  "name": "Body, health & nature · 1",
+  "blurb": "25 words about body, health & nature",
+  "cards": [
+    {
+      "id": "adverse",
+      "kind": "word",
+      "term": "adverse",
+      "pos": "adjective",
+      "phonetic": "/ˈæd.vɝːs/",
+      "sayIt": "AD-vurs",
+      "register": "Formal",
+      "meaning": "Harmful, unfavorable, or likely to cause problems.",
+      "nuance": "Common in formal and technical contexts, especially for effects, conditions, reactions, or circumstances. It often suggests a clear negative result or consequence.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · assessing a new deadline",
+          "sentence": "We should consider the adverse effect of the new deadline on the team.",
+          "highlight": "adverse",
+          "tip": "Use it before effect, impact, consequence, or condition to describe a negative result."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans · checking the weather",
+          "sentence": "There is a risk of adverse weather on Saturday, so we may move the picnic indoors.",
+          "highlight": "adverse",
+          "tip": "It is a formal alternative to saying bad when describing weather or difficult circumstances."
+        },
+        {
+          "setting": "writing",
+          "where": "Medical information · warning about medication",
+          "sentence": "Please note the potential adverse effects of this medication and seek advice if symptoms persist.",
+          "highlight": "adverse",
+          "tip": "This is standard wording in medical guidance, where it means harmful or unwanted reactions."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin adversus, meaning ‘turned against’ or ‘opposite’, which developed into the English sense of harmful or unfavorable.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Adversus means ‘turned against, opposite’, formed from ad- ‘toward’ and vertere ‘to turn’."
+          },
+          {
+            "when": "Late Middle English",
+            "text": "Entered English with meanings connected with hostility, opposition, and being turned against someone."
+          },
+          {
+            "when": "Today",
+            "text": "Usually describes harmful effects, unfavorable conditions, or negative reactions."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "adversity",
+          "label": "noun"
+        },
+        {
+          "term": "adversely",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "unfavorable",
+        "harmful",
+        "detrimental",
+        "negative"
+      ],
+      "opposite": "favorable, beneficial",
+      "pitfall": "Do not confuse adverse with averse: adverse means harmful or unfavorable, while averse means reluctant or opposed to something."
+    },
+    {
+      "id": "burly",
+      "kind": "word",
+      "term": "burly",
+      "pos": "adjective",
+      "phonetic": "/ˈbɜːrli/",
+      "sayIt": "BER-lee",
+      "register": "Everyday",
+      "meaning": "Describing a man who is large, strong, and solidly built.",
+      "nuance": "It suggests strength and a heavy build, not simply being overweight. The word can sound old-fashioned, exaggerated, or humorous depending on the context.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Warehouse · meeting a contractor",
+          "sentence": "The burly contractor checked the shelves before our team began unpacking.",
+          "highlight": "burly",
+          "tip": "It gives an immediate physical impression and is usually used for a man."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · introducing relatives",
+          "sentence": "My burly uncle carried three plates without dropping a thing.",
+          "highlight": "burly",
+          "tip": "Use it when size and strength are relevant, but watch for a comic tone."
+        },
+        {
+          "setting": "writing",
+          "where": "Story description · introducing a character",
+          "sentence": "A burly fisherman waited by the harbour, smoking a battered pipe.",
+          "highlight": "burly",
+          "tip": "It can quickly establish a character’s physical presence in a scene."
+        }
+      ],
+      "origin": {
+        "summary": "The exact source is uncertain. The word probably developed in Middle English from an Old French term related to borel, meaning stout or burly.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Medieval period",
+            "text": "Burli appears in Middle English with meanings connected with being stout, bold, or strong."
+          },
+          {
+            "when": "1500s",
+            "text": "The sense of a large, powerfully built person becomes established."
+          },
+          {
+            "when": "Today",
+            "text": "It usually describes a large, strong-looking man."
+          }
+        ]
+      },
+      "similar": [
+        "hefty",
+        "robust",
+        "brawny",
+        "powerfully built"
+      ],
+      "opposite": "slight",
+      "pitfall": "Burly is not just a polite alternative for fat; it normally emphasises strength and a solid build."
+    },
+    {
+      "id": "contort",
+      "kind": "word",
+      "term": "contort",
+      "pos": "verb",
+      "phonetic": "/kənˈtɔːrt/",
+      "sayIt": "kun-TORT",
+      "register": "Formal",
+      "meaning": "To twist or bend something out of its usual shape.",
+      "nuance": "The word often suggests an unnatural or strained shape, especially for a body, face or piece of writing. It can describe physical twisting or figurative distortion.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Design review · simplifying a layout",
+          "sentence": "The designer contorted the logo to fit the narrow header, but it no longer looked natural.",
+          "highlight": "contorted",
+          "tip": "Use the past tense when describing a shape that has already been distorted."
+        },
+        {
+          "setting": "social",
+          "where": "Telling a story · describing a reaction",
+          "sentence": "She contorted her face in surprise when she heard the news.",
+          "highlight": "contorted",
+          "tip": "It works well for vivid descriptions of twisted expressions and movements."
+        },
+        {
+          "setting": "writing",
+          "where": "Critique · explaining an argument",
+          "sentence": "The committee contorted the proposal so much that its original purpose became unclear.",
+          "highlight": "contorted",
+          "tip": "Use it figuratively for ideas, rules or language that have been forced into an unnatural shape."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin contortus, the past participle of contorquere, meaning ‘to twist’. The word entered English in the 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Contortus develops from contorquere, meaning ‘to twist’ or ‘turn aside’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with the sense of twisting or bending."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used for unnatural physical shapes and figurative distortions."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "contortion",
+          "label": "noun"
+        },
+        {
+          "term": "contorted",
+          "label": "adjective"
+        },
+        {
+          "term": "contort",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "twist",
+        "distort",
+        "wring",
+        "deform"
+      ],
+      "opposite": "straighten",
+      "pitfall": "Contort means to twist or bend; it does not simply mean to turn or rotate."
+    },
+    {
+      "id": "corpulent",
+      "kind": "word",
+      "term": "corpulent",
+      "pos": "adjective",
+      "phonetic": "/ˈkɔːrpjələnt/",
+      "sayIt": "KOR-pyoo-lunt",
+      "register": "Formal and literary",
+      "meaning": "Having a body that is noticeably large or overweight.",
+      "nuance": "It is a formal or literary alternative to saying someone is overweight. The tone can be blunt, so use it carefully when describing a person.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Workplace discussion · discussing health",
+          "sentence": "His doctor advised him to reduce his weight before the condition became more serious.",
+          "highlight": "His doctor advised him to reduce his weight before the condition became more serious.",
+          "tip": "Prefer a direct medical description when speaking to someone about their health."
+        },
+        {
+          "setting": "social",
+          "where": "Describing an old portrait",
+          "sentence": "The portrait shows a corpulent merchant surrounded by signs of his success.",
+          "highlight": "corpulent",
+          "tip": "This literary use presents physical size without directly saying the person is obese."
+        },
+        {
+          "setting": "writing",
+          "where": "Historical novel · describing a character",
+          "sentence": "He was a corpulent man whose booming voice filled the dining room.",
+          "highlight": "corpulent",
+          "tip": "Useful in historical or literary writing, but avoid it in sensitive modern descriptions."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin corpulentus, meaning ‘very fat’ or ‘large-bodied’, built on corpus, ‘body’, with an intensifying ending.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Corpulentus develops from corpus, ‘body’, with an ending suggesting abundance or excess."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English through Old French as a formal medical description."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly found in formal, literary and historical contexts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "corpulence",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "obese",
+        "overweight",
+        "stout",
+        "heavyset"
+      ],
+      "opposite": "slight",
+      "pitfall": "This can sound impolite or stigmatising when used face-to-face; consider whether a medical or neutral description is more appropriate."
+    },
+    {
+      "id": "debilitate",
+      "kind": "word",
+      "term": "debilitate",
+      "pos": "verb",
+      "phonetic": "/dɪˈbɪlɪteɪt/",
+      "sayIt": "di-BIL-i-tayt",
+      "register": "Formal",
+      "meaning": "To make someone or something weaker, especially in health, power, or ability to act.",
+      "nuance": "This is a formal and often serious word. It can describe physical weakness, reduced authority, or the weakening of a position or system.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Management meeting · reviewing leadership changes",
+          "sentence": "The merger could debilitate local teams and make decisions much slower.",
+          "highlight": "debilitate",
+          "tip": "Use it for a serious weakening, not a minor reduction in activity."
+        },
+        {
+          "setting": "social",
+          "where": "Health conversation · recovering from illness",
+          "sentence": "The long illness debilitated him, so he needed several months to regain his strength.",
+          "highlight": "debilitated",
+          "tip": "It can sound clinical or formal, so use it when describing significant physical weakness."
+        },
+        {
+          "setting": "writing",
+          "where": "Policy report · assessing economic impact",
+          "sentence": "Years of unstable funding may have debilitated the service and reduced public trust.",
+          "highlight": "debilitated",
+          "tip": "It works well in formal analysis when describing how a weakness affects performance or confidence."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin debilitat-, meaning to make weak, related to debilis, “weak.” The word entered English in a formal and medical context.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root debilis meant “weak,” and verbs based on debilitat- meant “to make weak.”"
+          },
+          {
+            "when": "1600s",
+            "text": "The word appears in English, especially in medical and legal writing."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal writing for serious physical or organisational weakness."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "debility",
+          "label": "noun"
+        },
+        {
+          "term": "debilitation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "weaken",
+        "undermine",
+        "impair",
+        "sap"
+      ],
+      "opposite": "strengthen",
+      "pitfall": "Don’t use it for ordinary tiredness; “weaken” or “sap” may sound more natural in less formal situations."
+    },
+    {
+      "id": "debris",
+      "kind": "word",
+      "term": "debris",
+      "pos": "noun",
+      "phonetic": "/dəˈbriː/",
+      "sayIt": "DEH-bree",
+      "register": "Common at work",
+      "meaning": "Scattered pieces of material left behind after something has been broken, damaged or destroyed.",
+      "nuance": "Debris can include pieces of stone, wood, glass or other material. It is usually a mass of fragments rather than one large object.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Site inspection · after equipment damage",
+          "sentence": "The technician cleared the debris before restarting the machine.",
+          "highlight": "debris",
+          "tip": "Use it for loose material left after damage or destruction."
+        },
+        {
+          "setting": "social",
+          "where": "After a storm · tidying a garden",
+          "sentence": "We spent the morning collecting branches and other debris from the park.",
+          "highlight": "debris",
+          "tip": "It works for a mixed collection of scattered material."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · describing a collapse",
+          "sentence": "Emergency crews searched the rubble and debris for survivors.",
+          "highlight": "debris",
+          "tip": "It often appears in reports about accidents, storms or explosions."
+        }
+      ],
+      "origin": {
+        "summary": "From French, ultimately borrowed from Greek debris, meaning food or fragments of flesh eaten or left over.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Debris meant food or fragments of flesh, and could also refer to leftover pieces."
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered French as debris, referring to fragments or pieces."
+          },
+          {
+            "when": "1800s",
+            "text": "It came into English for pieces of broken or scattered material."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used for rubble, wreckage and other scattered fragments."
+          }
+        ]
+      },
+      "similar": [
+        "rubble",
+        "fragments",
+        "wreckage",
+        "remains"
+      ],
+      "opposite": "intact",
+      "pitfall": "Debris is usually treated as a mass of scattered pieces, so it normally takes a plural or singular verb depending on whether you are thinking of the collection or the individual pieces."
+    },
+    {
+      "id": "deleterious",
+      "kind": "word",
+      "term": "deleterious",
+      "pos": "adjective",
+      "phonetic": "/dɪˈlɪtɪərɪəs/",
+      "sayIt": "di-LIT-ee-uh-rus",
+      "register": "Formal",
+      "meaning": "Causing harm or damage to people, systems, environments, or results.",
+      "nuance": "This is a serious, formal word often used in professional, scientific, or legal contexts. It can describe direct harm, such as an illness, or indirect damage, such as a policy that weakens a community.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Risk review · assessing a new policy",
+          "sentence": "The proposed change could have a deleterious effect on team morale and productivity.",
+          "highlight": "deleterious",
+          "tip": "Use it for serious negative effects, especially in reports, reviews, and formal assessments."
+        },
+        {
+          "setting": "social",
+          "where": "Health conversation · discussing a habit",
+          "sentence": "Staying up late to scroll through social media can be deleterious to your sleep and concentration.",
+          "highlight": "deleterious",
+          "tip": "It sounds more serious than “bad for you” and fits a thoughtful warning about a habit."
+        },
+        {
+          "setting": "writing",
+          "where": "Research summary · explaining a finding",
+          "sentence": "The study found that prolonged noise exposure is deleterious to children’s learning and language development.",
+          "highlight": "deleterious",
+          "tip": "Pairs well with “effect,” “impact,” “health,” “results,” and other formal descriptions of consequences."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin deleterius, meaning “destructive” or “harmful,” based on delere, “to destroy or erase.” It entered English in the 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Deleterius develops from delere, meaning “to destroy” or “to injure.”"
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in formal medical, legal, and scientific writing."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal word for causing harm or damage."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "deleteriously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "harmful",
+        "detrimental",
+        "damaging",
+        "destructive"
+      ],
+      "opposite": "beneficial",
+      "pitfall": "This is more formal and often more serious than “harmful”; use “harmful” when you want a simpler, everyday alternative."
+    },
+    {
+      "id": "dexterity",
+      "kind": "word",
+      "term": "dexterity",
+      "pos": "noun",
+      "phonetic": "/dɛkˈstɛrəti/",
+      "sayIt": "dek-STER-uh-tee",
+      "register": "Common at work",
+      "meaning": "The ability to move or handle things quickly and with skill and control.",
+      "nuance": "Dexterity can describe physical coordination or impressive skill in handling tasks. It often suggests speed, precision and confidence rather than strength.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product demonstration · using a tool",
+          "sentence": "She handled the unfamiliar equipment with surprising dexterity.",
+          "highlight": "dexterity",
+          "tip": "Use it when praising precise, confident control of a task or tool."
+        },
+        {
+          "setting": "social",
+          "where": "Party game · passing a cup",
+          "sentence": "Quick hands and a bit of dexterity are enough to win this game.",
+          "highlight": "dexterity",
+          "tip": "It works naturally for games, sports and other activities needing coordination."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · highlighting adaptability",
+          "sentence": "Her dexterity with several systems helped the team manage the change smoothly.",
+          "highlight": "dexterity",
+          "tip": "Use it to praise someone’s ability to adapt quickly and work effectively."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin dexter, meaning ‘right’ or ‘skilful’, originally associated with the right hand.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Dexter means ‘right’ or ‘right-handed’, and dexteritas means skill or right-handedness."
+          },
+          {
+            "when": "1400s",
+            "text": "The word enters English with meanings connected with the right hand."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes speed, skill and precise control in movement or handling."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "dexterous",
+          "label": "adjective"
+        },
+        {
+          "term": "dexterously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "agility",
+        "coordination",
+        "skill",
+        "precision"
+      ],
+      "opposite": "clumsiness",
+      "pitfall": "Dexterity usually emphasizes controlled skill, so it may sound more focused than simply being quick or nimble."
+    },
+    {
+      "id": "emaciated",
+      "kind": "word",
+      "term": "emaciated",
+      "pos": "adjective",
+      "phonetic": "/ɪˈmeɪʃieɪtɪd/",
+      "sayIt": "ih-MAY-shee-ay-tid",
+      "register": "Formal",
+      "meaning": "Extremely thin, usually because of hunger, illness, or a lack of nutrition.",
+      "nuance": "This is a serious and often disturbing description, not simply a polite way of saying someone is thin. It is common in medical writing, reports, and historical accounts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Aid report · assessing food shortages",
+          "sentence": "Several families were reported to be emaciated after weeks without reliable food deliveries.",
+          "highlight": "emaciated",
+          "tip": "Use it in formal or humanitarian reports when extreme thinness is significant."
+        },
+        {
+          "setting": "social",
+          "where": "Community discussion · concern for a neighbour",
+          "sentence": "He looked emaciated, so we contacted a local charity and asked them to check on him.",
+          "highlight": "emaciated",
+          "tip": "This sounds clinical and alarming; consider whether a gentler description would be more appropriate."
+        },
+        {
+          "setting": "writing",
+          "where": "Historical novel · describing prison conditions",
+          "sentence": "The prisoners emerged emaciated, their clothes hanging loosely from weakened bodies.",
+          "highlight": "emaciated",
+          "tip": "It creates a vivid, sombre picture and suggests serious deprivation."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin emaciatus, meaning made thin or wasted, based on emaciare, to make thin.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "emaciare, ‘to make thin’, gives the form emaciatus."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in the sense of made thin or reduced to a wasting condition."
+          },
+          {
+            "when": "Today",
+            "text": "It describes extreme thinness associated with starvation, illness, or severe deprivation."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "emaciate",
+          "label": "verb"
+        },
+        {
+          "term": "emaciation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "gaunt",
+        "wasted",
+        "malnourished",
+        "skinny"
+      ],
+      "opposite": "well-nourished",
+      "pitfall": "Do not use it as a neutral substitute for thin or skinny; it implies extreme, often unhealthy weight loss."
+    },
+    {
+      "id": "emit",
+      "kind": "word",
+      "term": "emit",
+      "pos": "verb",
+      "phonetic": "/ɪˈmɪt/",
+      "sayIt": "ih-MIT",
+      "register": "Formal",
+      "meaning": "To produce and send out light, heat, sound, gas, radiation, or a smell.",
+      "nuance": "More technical and precise than “give off” in scientific or workplace contexts. It can also mean to express an opinion or emotion, often in a formal or slightly stiff way.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Engineering review · sensor testing",
+          "sentence": "The warning system emits a short signal when the temperature becomes unsafe.",
+          "highlight": "emits",
+          "tip": "Use it for a device or system producing light, sound, heat, or another signal."
+        },
+        {
+          "setting": "social",
+          "where": "Concert venue · discussing an appliance",
+          "sentence": "That old radiator emits a surprising amount of heat, even when it is switched off.",
+          "highlight": "emits",
+          "tip": "It sounds natural when describing a device, material, or substance releasing energy."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · environmental impact",
+          "sentence": "The factory was emitting thick smoke before the new filtration system was installed.",
+          "highlight": "emitting",
+          "tip": "The present participle works well before a noun: “emitting radiation” or “emitting light.”"
+        }
+      ],
+      "origin": {
+        "summary": "From Latin emittere, formed from ex- (“out”) and mittere (“to send”), meaning “to send out.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Emittere develops the sense of sending or putting something out."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with meanings connected to sending forth or publishing."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used in scientific, technical, and formal contexts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "emission",
+          "label": "noun"
+        },
+        {
+          "term": "emitter",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "release",
+        "give off",
+        "produce",
+        "radiate"
+      ],
+      "opposite": "absorb",
+      "pitfall": "Don’t confuse it with “emanate,” which usually describes light, heat, or an odor spreading from a source."
+    },
+    {
+      "id": "eradicate",
+      "kind": "word",
+      "term": "eradicate",
+      "pos": "verb",
+      "phonetic": "/ɪˈrædɪkeɪt/",
+      "sayIt": "ih-RAD-ih-kate",
+      "register": "Formal",
+      "meaning": "To remove something completely, especially a disease, pest, problem, or harmful practice.",
+      "nuance": "Stronger and more final than “reduce” or “eliminate”: it suggests ending the problem at its source. It is often used for diseases, pollution, corruption, and unwanted practices.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Public health meeting · disease control",
+          "sentence": "The vaccination campaign aims to eradicate the disease within a decade.",
+          "highlight": "eradicate",
+          "tip": "Use it when the goal is complete removal rather than simply lowering the number of cases."
+        },
+        {
+          "setting": "social",
+          "where": "Community campaign · reducing litter",
+          "sentence": "Local volunteers hope to eradicate litter from the river before the summer festival.",
+          "highlight": "eradicate",
+          "tip": "This sounds strong and public-minded, especially when discussing a lasting community problem."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · reviewing misconduct",
+          "sentence": "The new controls are designed to eradicate corrupt practices within the department.",
+          "highlight": "eradicate",
+          "tip": "Use it in formal writing when you want to emphasize that a problem will not continue."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin exradicare, “to root out,” formed from ex-, “out,” and radix, “root.” The idea is pulling something out by its root so it cannot return.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "exradicare develops from ex- and radix, both meaning “out” and “root.”"
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with the sense of rooting out a plant or removing something deeply."
+          },
+          {
+            "when": "Today",
+            "text": "It is used mainly for completely removing diseases, pests, problems, and harmful practices."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "eradication",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "eliminate",
+        "abolish",
+        "exterminate",
+        "extirpate"
+      ],
+      "opposite": "establish",
+      "pitfall": "Eradicate is usually followed directly by what is being removed: “eradicate disease,” not “eradicate from the area.”"
+    },
+    {
+      "id": "eruption",
+      "kind": "word",
+      "term": "eruption",
+      "pos": "noun",
+      "phonetic": "/ɪˈrʌpʃən/",
+      "sayIt": "ih-RUP-shun",
+      "register": "Common",
+      "meaning": "A sudden bursting of force, emotion, activity, or material from a contained source.",
+      "nuance": "An eruption can describe a physical release, such as lava or a rash, or a forceful outburst of anger, laughter, or activity.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project meeting · debating priorities",
+          "sentence": "There was an eruption of complaints when the new system went live.",
+          "highlight": "eruption",
+          "tip": "Use it for a sudden, noticeable outpouring of reactions or activity."
+        },
+        {
+          "setting": "social",
+          "where": "Family dinner · reliving an old disagreement",
+          "sentence": "The eruption at dinner ended as soon as everyone agreed to leave the past alone.",
+          "highlight": "eruption",
+          "tip": "It often suggests an intense outburst that is difficult to control."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel report · describing volcanic activity",
+          "sentence": "The eruption sent ash across the valley and disrupted nearby flights.",
+          "highlight": "eruption",
+          "tip": "For volcanoes, it names the event that releases lava, gas, and ash."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin erumpere, meaning ‘to break out’, formed from ex- ‘out’ and rumpere ‘to break’. It entered English in the 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Eruptus develops from erumpere, ‘to break out or burst forth’."
+          },
+          {
+            "when": "1600s",
+            "text": "The noun enters English, initially referring to a bursting out, especially of fire or lava."
+          },
+          {
+            "when": "Today",
+            "text": "It covers volcanic events, skin rashes, and sudden emotional or social outbursts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "erupt",
+          "label": "verb"
+        },
+        {
+          "term": "eruptive",
+          "label": "adjective"
+        },
+        {
+          "term": "eruptively",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "outburst",
+        "outbreak",
+        "explosion",
+        "burst"
+      ],
+      "opposite": "containment",
+      "pitfall": "Don’t use eruption for every sudden increase; an increase in demand is usually called a surge or spike."
+    },
+    {
+      "id": "extinct",
+      "kind": "word",
+      "term": "extinct",
+      "pos": "adjective",
+      "phonetic": "/ɪkˈstɪŋkt/",
+      "sayIt": "ik-STINGKT",
+      "register": "Everyday",
+      "meaning": "No longer existing as a species, or no longer active or in use.",
+      "nuance": "Most often describes a species that has died out completely. It can also describe something that has disappeared, such as a volcano, tradition, disease, or product line.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product review · discontinued service",
+          "sentence": "The old messaging platform is extinct, so we should migrate the remaining users.",
+          "highlight": "extinct",
+          "tip": "Use it when nothing comparable remains in use, not merely when something is unpopular."
+        },
+        {
+          "setting": "social",
+          "where": "Nature walk · discussing wildlife",
+          "sentence": "The passenger pigeon became extinct in the early twentieth century.",
+          "highlight": "extinct",
+          "tip": "This is the standard word for a species with no living members."
+        },
+        {
+          "setting": "writing",
+          "where": "History essay · describing a vanished custom",
+          "sentence": "The practice may have become extinct, but it survives in stories told by older residents.",
+          "highlight": "extinct",
+          "tip": "In non-biological contexts, it suggests that something has completely died away."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin extinctus, meaning ‘extinguished’ or ‘destroyed’, derived from exstinguere, ‘to put out’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Extinctus develops from exstinguere, meaning ‘to extinguish’ or ‘put out completely’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with meanings connected to extinction and complete destruction."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely used for species, natural features, diseases, customs and discontinued products."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "extinction",
+          "label": "noun"
+        },
+        {
+          "term": "extinctly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "vanished",
+        "lost",
+        "defunct",
+        "obsolete"
+      ],
+      "opposite": "extant",
+      "pitfall": "Do not use it for an individual organism that has died; a dead animal or plant is not itself described as extinct."
+    },
+    {
+      "id": "frail",
+      "kind": "word",
+      "term": "frail",
+      "pos": "adjective",
+      "phonetic": "/freɪl/",
+      "sayIt": "FRAYL",
+      "register": "Common",
+      "meaning": "Weak or delicate, especially because of age or poor health.",
+      "nuance": "It can describe physical weakness, a fragile structure, or something that seems easy to damage or break. It often suggests vulnerability rather than complete inability.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing workload",
+          "sentence": "The system is still too frail to handle the full workload, so we should add capacity before launch.",
+          "highlight": "frail",
+          "tip": "Use it metaphorically for systems, arrangements, or processes that are not yet strong enough."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · checking on a relative",
+          "sentence": "My aunt is frailer than she was last year and prefers to stay home when the weather is cold.",
+          "highlight": "frailer",
+          "tip": "This is a gentle and commonly used way to describe someone's physical condition."
+        },
+        {
+          "setting": "writing",
+          "where": "Novel description · an ageing character",
+          "sentence": "The frail old bridge creaked as the children hurried across it.",
+          "highlight": "frail",
+          "tip": "It works well in writing when you want to make weakness or vulnerability visible."
+        }
+      ],
+      "origin": {
+        "summary": "The word probably comes through Old French from a word meaning 'weak' or 'delicate', with roots in Latin.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Old French",
+            "text": "The word appears in forms meaning 'weak', 'delicate' or 'unstable'."
+          },
+          {
+            "when": "Middle English",
+            "text": "Frail enters English, initially describing physical weakness."
+          },
+          {
+            "when": "Today",
+            "text": "It describes people, objects and systems that are weak, delicate or easy to damage."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "frailty",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "fragile",
+        "delicate",
+        "feeble",
+        "infirm"
+      ],
+      "opposite": "sturdy",
+      "pitfall": "Frail does not automatically mean ill or elderly; it mainly emphasizes weakness, delicacy or vulnerability."
+    },
+    {
+      "id": "gaunt",
+      "kind": "word",
+      "term": "gaunt",
+      "pos": "adjective",
+      "phonetic": "/ɡɔːnt/",
+      "sayIt": "GANT",
+      "register": "Formal and literary",
+      "meaning": "Extremely thin, often with a bony or worn appearance.",
+      "nuance": "It describes someone who looks unusually thin, usually because of hardship, illness, exhaustion or age. It is stronger and more dramatic than simply thin.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · late project deadline",
+          "sentence": "After three nights of revisions, the whole team looked gaunt.",
+          "highlight": "gaunt",
+          "tip": "Use it for a vivid impression of exhaustion, not as a neutral description of body size."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · seeing an older relative",
+          "sentence": "Her illness had left her gaunt and unable to walk far.",
+          "highlight": "gaunt",
+          "tip": "This word sounds compassionate or concerned in serious personal contexts."
+        },
+        {
+          "setting": "writing",
+          "where": "Novel description · a struggling village",
+          "sentence": "The gaunt old man sat alone beside the cold fireplace.",
+          "highlight": "gaunt",
+          "tip": "It can create a stark literary image, especially of age, poverty or hardship."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Old English, where a related form meant thin or emaciated. Its precise development is not fully certain, but the meaning has remained focused on extreme thinness.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "A related Old English word meant thin, wasted or emaciated."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word continued to describe a thin or bony appearance."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly a formal or literary adjective."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "gauntness",
+          "label": "noun"
+        },
+        {
+          "term": "gauntly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "emaciated",
+        "bony",
+        "wasted",
+        "scrawny",
+        "haggard"
+      ],
+      "opposite": "robust",
+      "pitfall": "Do not confuse gaunt with gauntlet, a glove for protecting the hand or a difficult challenge."
+    },
+    {
+      "id": "habitat",
+      "kind": "word",
+      "term": "habitat",
+      "pos": "noun",
+      "phonetic": "/ˈhæbɪtæt/",
+      "sayIt": "HAB-i-tat",
+      "register": "Everyday",
+      "meaning": "The natural home of an animal, plant, or other living thing.",
+      "nuance": "A habitat is the place and conditions an organism needs to live, such as a wetland, forest, or coral reef. It can also describe the setting where a person or community feels most comfortable.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product planning · research findings",
+          "sentence": "The new search feature was designed for users whose online habitat includes forums and community message boards.",
+          "highlight": "habitat",
+          "tip": "Use it for a preferred environment, especially when discussing a niche group or audience."
+        },
+        {
+          "setting": "social",
+          "where": "Visiting a friend · spotting wildlife",
+          "sentence": "We spotted a rare bird in its coastal habitat before it flew away.",
+          "highlight": "habitat",
+          "tip": "Often refers to the natural environment where a species lives."
+        },
+        {
+          "setting": "writing",
+          "where": "Nature article · conservation update",
+          "sentence": "Restoring the riverbank has given several native species a safer habitat.",
+          "highlight": "habitat",
+          "tip": "Common in environmental writing and conservation discussions."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin habitat, a form of habitare, meaning ‘to dwell’ or ‘to inhabit’. Its root, habere, meant ‘to have’ or ‘to hold’, and English later used habitat for a place where something lives.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Habitat derives from habitare, ‘to dwell’, from habere, ‘to have or hold’."
+          },
+          {
+            "when": "1400s",
+            "text": "The word enters English in the sense of a place where a person or creature dwells."
+          },
+          {
+            "when": "Today",
+            "text": "It is especially common for the natural home of a species."
+          }
+        ]
+      },
+      "similar": [
+        "environment",
+        "ecosystem",
+        "niche",
+        "natural home"
+      ],
+      "pitfall": "Don’t confuse habitat with habit: a habitat is where something lives, while a habit is something done regularly."
+    },
+    {
+      "id": "hirsute",
+      "kind": "word",
+      "term": "hirsute",
+      "pos": "adjective",
+      "phonetic": "/hɜːrˈsuːt/",
+      "sayIt": "her-SOOT",
+      "register": "Uncommon; literary or humorous",
+      "meaning": "Covered with hair, especially hair that looks thick, unruly or shaggy.",
+      "nuance": "A formal, slightly funny word for unusually hairy. It can sound affectionate or comically exaggerated, but may seem rude when directed at a person.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product inspection · checking a coat",
+          "sentence": "The sample looked hirsute, so the manufacturer replaced the lining.",
+          "highlight": "hirsute",
+          "tip": "Useful in technical or playful descriptions when the amount of hair matters."
+        },
+        {
+          "setting": "social",
+          "where": "At a party · teasing a friend",
+          "sentence": "Your moustache has become positively hirsute.",
+          "highlight": "hirsute",
+          "tip": "The exaggeration gives the comment a humorous tone."
+        },
+        {
+          "setting": "writing",
+          "where": "Story description · introducing a creature",
+          "sentence": "A hirsute beast lumbered between the trees, shaking leaves from its coat.",
+          "highlight": "hirsute",
+          "tip": "It adds a vivid, old-fashioned flavour to creative writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin hirsutus, meaning hairy, rough or shaggy. The word entered English with a strongly physical, descriptive sense.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Hirsutus meant hairy, shaggy or covered with rough hair."
+          },
+          {
+            "when": "1600s",
+            "text": "The word began appearing in English in descriptions of hairy people, animals and surfaces."
+          },
+          {
+            "when": "Today",
+            "text": "It remains uncommon and is often used for comic emphasis."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "hirsuteness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "hairy",
+        "shaggy",
+        "furry",
+        "scruffy"
+      ],
+      "opposite": "hairless",
+      "pitfall": "Do not confuse it with \"harsh\": hirsute describes hair, while harsh describes a rough, severe or unpleasant quality."
+    },
+    {
+      "id": "inanimate",
+      "kind": "word",
+      "term": "inanimate",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈænɪmət/",
+      "sayIt": "in-AN-uh-mut",
+      "register": "Common at work",
+      "meaning": "Not alive, and showing no signs of life or movement.",
+      "nuance": "You can use it for physical objects, natural matter, or ideas that feel lifeless and lack energy. It is more precise than simply saying something is “dead.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product design · describing an interface",
+          "sentence": "The screen looked inanimate until we added subtle movement to show which panel was active.",
+          "highlight": "inanimate",
+          "tip": "Use it when describing an object or display that feels dull, still, or without life."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · describing a quiet room",
+          "sentence": "The room was so inanimate that even the host struggled to start a lively conversation.",
+          "highlight": "inanimate",
+          "tip": "It can describe an atmosphere as lifeless, especially when people seem disengaged."
+        },
+        {
+          "setting": "writing",
+          "where": "Lab report · classifying a material",
+          "sentence": "The sample remained inanimate throughout the experiment, so no biological changes were observed.",
+          "highlight": "inanimate",
+          "tip": "It is useful in formal writing when you need to state clearly that something is not living."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin inanimatus, meaning “not animated” or “without life.” The word entered English through Latin and French.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Built from in-, meaning “not,” and animatus, meaning “given life” or “animated.”"
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "Used in English for things that are not alive and, more broadly, for things lacking spirit or movement."
+          },
+          {
+            "when": "Today",
+            "text": "Common in science, design, and descriptions of lifeless or unenergetic places."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "animate",
+          "label": "adjective"
+        },
+        {
+          "term": "animation",
+          "label": "noun"
+        },
+        {
+          "term": "animated",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "lifeless",
+        "inanimate",
+        "static",
+        "dull"
+      ],
+      "opposite": "animate",
+      "pitfall": "Inanimate means not alive; it does not necessarily mean an object is physically motionless."
+    },
+    {
+      "id": "incapacitated",
+      "kind": "word",
+      "term": "incapacitated",
+      "pos": "adjective",
+      "phonetic": "/ˌɪnkəˈpæsɪteɪtɪd/",
+      "sayIt": "in-KAP-uh-say-ted",
+      "register": "Formal",
+      "meaning": "Unable to act, move, or make normal decisions because of injury, illness, intoxication, or another limiting condition.",
+      "nuance": "It is often used in medical, legal, and accident contexts. It describes a temporary inability to function rather than a permanent characteristic.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Safety report · accident injury",
+          "sentence": "Two workers were incapacitated after the equipment failed.",
+          "highlight": "incapacitated",
+          "tip": "Useful when reporting injuries that prevent someone from working or acting normally."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · concern for a guest",
+          "sentence": "He became incapacitated after drinking too much, so we called a taxi.",
+          "highlight": "incapacitated",
+          "tip": "Often describes someone who has become physically or mentally unable to manage themselves."
+        },
+        {
+          "setting": "writing",
+          "where": "Police statement · traffic collision",
+          "sentence": "Witnesses said the driver appeared incapacitated and could not respond to questions.",
+          "highlight": "incapacitated",
+          "tip": "It gives a formal, factual tone when describing someone unable to act safely."
+        }
+      ],
+      "origin": {
+        "summary": "It comes from Latin incapacitare, meaning ‘to make incapable’, based on incapax, meaning ‘unable’ or ‘not capable’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Incapacitare is formed to mean ‘make unable’, with incapax meaning ‘unable’."
+          },
+          {
+            "when": "1600s",
+            "text": "The related verb ‘incapacitate’ enters English in legal and medical contexts."
+          },
+          {
+            "when": "Today",
+            "text": "‘Incapacitated’ describes a person unable to act or function because of a specific condition."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "incapacitate",
+          "label": "verb"
+        },
+        {
+          "term": "incapacity",
+          "label": "noun"
+        },
+        {
+          "term": "incapacitation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "unable",
+        "helpless",
+        "immobilized",
+        "impaired"
+      ],
+      "opposite": "capable",
+      "pitfall": "Don’t use it as a general synonym for ‘disabled’; it usually points to a specific situation that prevents someone from functioning normally."
+    },
+    {
+      "id": "inclement",
+      "kind": "word",
+      "term": "inclement",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈklemənt/",
+      "sayIt": "in-KLEM-uhnt",
+      "register": "Formal",
+      "meaning": "Describing weather or conditions that are harsh, unpleasant, or likely to cause difficulty.",
+      "nuance": "Usually used for severe or unusually poor weather, especially in plans and announcements. It sounds more formal than simply saying “bad weather.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Event planning · outdoor launch",
+          "sentence": "We may postpone the launch if inclement weather prevents guests from reaching the venue safely.",
+          "highlight": "inclement",
+          "tip": "Common in formal notices about weather-related changes to plans."
+        },
+        {
+          "setting": "social",
+          "where": "Walking home · sudden rain",
+          "sentence": "The forecast warned of inclement weather, so we decided to take the bus instead.",
+          "highlight": "inclement",
+          "tip": "Use it when the weather is unpleasant enough to affect your plans."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel itinerary · weather warning",
+          "sentence": "Outdoor activities may be cancelled in case of inclement weather.",
+          "highlight": "inclement",
+          "tip": "It often appears with the word “weather” in travel and event notices."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin inclemens, meaning harsh or unkind, built from in-, meaning not, and clemens, meaning kind or merciful.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Inclemens referred to harsh, unkind, or unfavourable conditions."
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered English and became established in descriptions of severe weather."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used with “weather” or for harsh conditions affecting plans."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "inclemently",
+          "label": "adverb"
+        },
+        {
+          "term": "inclemency",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "severe",
+        "harsh",
+        "foul",
+        "stormy",
+        "unfavourable"
+      ],
+      "opposite": "mild",
+      "pitfall": "Say “in inclement weather,” not “in inclement,” because inclement normally needs something to describe."
+    },
+    {
+      "id": "inebriated",
+      "kind": "word",
+      "term": "inebriated",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈiːbri.eɪ.tɪd/",
+      "sayIt": "in-NEE-bree-AY-tid",
+      "register": "Formal",
+      "meaning": "Very drunk or in a state in which alcohol has made normal judgement and behaviour unreliable.",
+      "nuance": "This is a formal or clinical word, often used in legal, medical and workplace reports. It sounds more serious than simply saying someone was drunk.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Workplace incident report · recording an accident",
+          "sentence": "The employee was inebriated and could not give a clear account of what happened.",
+          "highlight": "inebriated",
+          "tip": "Use it when describing an observed condition in a formal report, not as a label for a person."
+        },
+        {
+          "setting": "social",
+          "where": "Friend recounting a party · questioning a promise",
+          "sentence": "He was inebriated when he made that promise, so I would not rely on it.",
+          "highlight": "inebriated",
+          "tip": "It is grammatically natural here, though sober or drunk may sound more conversational."
+        },
+        {
+          "setting": "writing",
+          "where": "Court statement · describing conduct",
+          "sentence": "Witnesses said that the driver appeared inebriated before the collision.",
+          "highlight": "inebriated",
+          "tip": "It is especially useful in formal descriptions of behaviour or evidence, but avoid implying intoxication without support."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin inebriare, meaning ‘to make drunk’, which was based on ebrius, meaning ‘drunk’. English later adopted both the verb inebriate and the adjective inebriated.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin inebriare means ‘to make drunk’, from ebrius, meaning ‘drunk’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in formal and legal contexts."
+          },
+          {
+            "when": "Today",
+            "text": "Its main use is in legal, medical and formal descriptions of drunkenness."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "inebriate",
+          "label": "verb"
+        },
+        {
+          "term": "inebriation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "intoxicated",
+        "drunk",
+        "tipsy",
+        "inept"
+      ],
+      "opposite": "sober",
+      "pitfall": "Do not use inebriated as a synonym for inept; it describes drunkenness, while inept means lacking skill or judgement."
+    },
+    {
+      "id": "inert",
+      "kind": "word",
+      "term": "inert",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈɜːt/",
+      "sayIt": "in-ERT",
+      "register": "Formal",
+      "meaning": "Having little or no ability to move, change, or react.",
+      "nuance": "Often describes a person, object, system, or idea that seems inactive or unresponsive. It can sound technical, especially in science and business.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing a stalled project",
+          "sentence": "The proposal remained inert because nobody had been given authority to act on it.",
+          "highlight": "inert",
+          "tip": "Use it to suggest that something has the power to change but is not doing anything."
+        },
+        {
+          "setting": "social",
+          "where": "At a party · a quiet guest",
+          "sentence": "He was so inert that we only noticed he had left an hour after he walked out.",
+          "highlight": "inert",
+          "tip": "For a person, it suggests being unusually passive or unresponsive."
+        },
+        {
+          "setting": "writing",
+          "where": "Science report · material analysis",
+          "sentence": "The gas remains inert under normal conditions and does not react with surrounding materials.",
+          "highlight": "inert",
+          "tip": "In science, it usually means chemically unreactive rather than merely motionless."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin iners, meaning 'idle' or 'doing nothing', built from in- and the Latin form of esse, 'to be'.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Iners, 'idle, inactive, doing nothing'."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "Enters English with meanings connected to inactivity and lack of action."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly describes something that is motionless, passive, or unable to react."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "inertia",
+          "label": "noun"
+        },
+        {
+          "term": "inertness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "inactive",
+        "motionless",
+        "dormant",
+        "unreactive"
+      ],
+      "opposite": "active",
+      "pitfall": "In science, inert usually means unable to react chemically; it does not simply mean that something cannot move."
+    },
+    {
+      "id": "laceration",
+      "kind": "word",
+      "term": "laceration",
+      "pos": "noun",
+      "phonetic": "/ˌlæsəˈreɪʃən/",
+      "sayIt": "LAS-uh-RAY-shun",
+      "register": "Formal",
+      "meaning": "A deep or badly torn wound caused by something rough or sharp.",
+      "nuance": "A laceration is usually irregular and may involve damage to tissue around the wound. In medical and workplace reports, it sounds more serious than a simple cut.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Warehouse incident · reporting an injury",
+          "sentence": "The guard left a deep laceration across his hand after the metal sheet shifted.",
+          "highlight": "laceration",
+          "tip": "Use it in safety reports and medical descriptions when the wound is torn rather than cleanly cut."
+        },
+        {
+          "setting": "social",
+          "where": "Kitchen accident · treating a cut",
+          "sentence": "I got a bad laceration from the broken glass and had to have it checked.",
+          "highlight": "laceration",
+          "tip": "It is natural when describing a serious tear, though “bad cut” is more conversational."
+        },
+        {
+          "setting": "writing",
+          "where": "Insurance form · describing damage",
+          "sentence": "The report records a laceration to the forearm and minor damage to the sleeve.",
+          "highlight": "laceration",
+          "tip": "Use the phrase “laceration to” when identifying the body part that was injured."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin laceratio, meaning “a tearing,” based on lacerare, “to tear or rend.” English later used it for both the act of tearing and the resulting wound.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Laceratio, “a tearing,” develops from lacerare, “to tear or rend.”"
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English, initially referring to the act of tearing."
+          },
+          {
+            "when": "1800s",
+            "text": "Medical usage becomes established for a torn wound."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "lacerate",
+          "label": "verb"
+        },
+        {
+          "term": "lacerable",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "gash",
+        "wound",
+        "tear",
+        "incision"
+      ],
+      "pitfall": "A laceration is a torn wound; an incision is a clean cut made deliberately, often by a surgeon."
+    },
+    {
+      "id": "lethal",
+      "kind": "word",
+      "term": "lethal",
+      "pos": "adjective",
+      "phonetic": "/ˈliːθəl/",
+      "sayIt": "LEE-thuhl",
+      "register": "Common in safety, medical and military contexts",
+      "meaning": "Capable of causing death.",
+      "nuance": "Often describes a substance, weapon, organism or dose that can kill. It means able to cause death, while “fatal” more often describes an outcome in which death actually occurs.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Safety review · handling chemicals",
+          "sentence": "The warning labels the leaking solvent as lethal if inhaled.",
+          "highlight": "lethal",
+          "tip": "Use it when the danger is the ability to cause death, especially in safety guidance."
+        },
+        {
+          "setting": "social",
+          "where": "Beach outing · marine warning",
+          "sentence": "The guide said the jellyfish was lethal, so nobody touched it.",
+          "highlight": "lethal",
+          "tip": "It fits informal warnings about dangerous animals, plants or substances."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · describing an explosion",
+          "sentence": "The report describes the blast as lethal, though investigators are still determining what caused it.",
+          "highlight": "lethal",
+          "tip": "It is precise in reporting and formal writing where the threat to life matters."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Latin lethalis, meaning “deadly”, which was based on letum, the Latin word for death.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Lethalis means “deadly” and is formed from letum, “death”."
+          },
+          {
+            "when": "Early 1600s",
+            "text": "English begins using lethal for something capable of causing death."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in medicine, safety rules, military language and reports of dangerous events."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "lethally",
+          "label": "adverb"
+        },
+        {
+          "term": "lethality",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "deadly",
+        "fatal",
+        "mortal",
+        "toxic"
+      ],
+      "opposite": "nonlethal",
+      "pitfall": "Do not use “lethal” as a general synonym for “very serious”; it specifically involves the possibility of death."
+    },
+    {
+      "id": "lithe",
+      "kind": "word",
+      "term": "lithe",
+      "pos": "adjective",
+      "phonetic": "/lɪð/",
+      "sayIt": "LITHE",
+      "register": "Literary",
+      "meaning": "Gracefully agile and flexible in movement.",
+      "nuance": "A visual, often literary word that suggests a body moving easily and smoothly. It is more about graceful motion than ordinary flexibility.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Animation review · designing movement",
+          "sentence": "The lithe movement of the dancer brought the whole scene to life.",
+          "highlight": "lithe",
+          "tip": "Use it for graceful physical movement rather than simply being flexible."
+        },
+        {
+          "setting": "social",
+          "where": "Dance class · describing a performer",
+          "sentence": "Her lithe turns and controlled jumps made the routine look effortless.",
+          "highlight": "lithe",
+          "tip": "It works especially well when praising the ease of someone’s movement."
+        },
+        {
+          "setting": "writing",
+          "where": "Character description · adding visual detail",
+          "sentence": "A lithe figure slipped through the tall grass without making a sound.",
+          "highlight": "lithe",
+          "tip": "Choose it when you want the reader to imagine smooth, agile movement."
+        }
+      ],
+      "origin": {
+        "summary": "From Old English līthe, meaning ‘smooth, supple or gentle’, with roots in an old Germanic word for softness or smoothness.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The word līthe meant ‘smooth, supple or gentle’."
+          },
+          {
+            "when": "Middle English",
+            "text": "It continued to describe physical qualities such as flexibility and smoothness."
+          },
+          {
+            "when": "1800s onward",
+            "text": "Its modern sense of graceful, agile movement became established."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "litheness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "agile",
+        "graceful",
+        "supple",
+        "flexible"
+      ],
+      "opposite": "stiff",
+      "pitfall": "Don’t use it as a general word for flexible objects; it usually describes graceful movement."
+    }
+  ]
+}

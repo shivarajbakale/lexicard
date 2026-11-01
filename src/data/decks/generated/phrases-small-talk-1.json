@@ -1,0 +1,1481 @@
+{
+  "id": "phrases-small-talk-1",
+  "kind": "phrase",
+  "name": "Small talk · 1",
+  "blurb": "25 phrases about small talk",
+  "cards": [
+    {
+      "id": "til-next-time",
+      "kind": "phrase",
+      "term": "'til next time",
+      "pos": "phrase",
+      "hint": "a casual goodbye until another meeting",
+      "register": "Casual",
+      "meaning": "A friendly way to say goodbye until the next time you meet or speak.",
+      "nuance": "It feels warm and informal rather than final. It works best with people you already know and usually implies that there will be another conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Leaving a team call",
+          "sentence": "Let’s compare notes tomorrow — 'til next time!",
+          "highlight": "'til next time",
+          "tip": "Use it with colleagues you already know comfortably."
+        },
+        {
+          "setting": "social",
+          "where": "Saying goodbye at a party",
+          "sentence": "I’m heading home now, but 'til next time!",
+          "highlight": "'til next time",
+          "tip": "It suits a relaxed goodbye rather than a formal farewell."
+        },
+        {
+          "setting": "writing",
+          "where": "Closing a friendly email",
+          "sentence": "Speak soon — 'til next time!",
+          "highlight": "'til next time",
+          "tip": "Keep it only in casual messages where the relationship is established."
+        }
+      ],
+      "origin": {
+        "summary": "This is a shortened form of “until next time.” The contracted “'til” was used in casual speech well before it appeared in this modern farewell, while the full phrase provides the sense of meeting again.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used “'til” as an informal contraction of “until.”"
+          },
+          {
+            "when": "20th century",
+            "text": "The expression became common in friendly spoken farewells."
+          },
+          {
+            "when": "Today",
+            "text": "It remains an informal alternative to “see you next time.”"
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "until next time",
+          "label": "full form"
+        }
+      ],
+      "similar": [
+        "see you next time",
+        "talk soon",
+        "until we speak again"
+      ],
+      "opposite": "farewell for the last time",
+      "pitfall": "It may sound too familiar with new acquaintances, and it does not say when you will meet again."
+    },
+    {
+      "id": "a-little-bird-told-me",
+      "kind": "phrase",
+      "term": "a little bird told me",
+      "pos": "idiom",
+      "hint": "an unnamed source shared some news",
+      "register": "Casual",
+      "meaning": "A playful or indirect way of saying that someone told you something, without naming the person.",
+      "nuance": "It can sound teasing or secretive, especially when the news is gossip. In serious conversations, name your source or say “I heard” instead.",
+      "literal": "A small bird quietly passes on a piece of information.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team chat · sharing office news",
+          "sentence": "A little bird told me the new project starts on Monday, but please check with Priya.",
+          "highlight": "A little bird told me",
+          "tip": "Use it lightly, then confirm the information with the relevant person."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with a friend",
+          "sentence": "A little bird told me you might be moving to Lisbon—is that true?",
+          "highlight": "A little bird told me",
+          "tip": "It gives a question a warm, teasing tone without forcing an immediate answer."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message to a colleague",
+          "sentence": "A little bird told me your report was submitted, so I’ll let you take it from here.",
+          "highlight": "A little bird told me",
+          "tip": "Keep it for friendly messages; formal writing needs a clear source."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is unclear. The wording follows an older English pattern of using birds to represent messengers and became a familiar way to mention an unnamed source.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Birds were commonly used in folk sayings as messengers or carriers of news."
+          },
+          {
+            "when": "19th century",
+            "text": "Wording close to “a little bird told me” appears in English as a way of indicating indirect information."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase remains a casual, often playful way to cite an unnamed source."
+          }
+        ]
+      },
+      "similar": [
+        "word of mouth",
+        "I heard",
+        "rumour has it",
+        "my sources say"
+      ],
+      "opposite": "I know for a fact",
+      "pitfall": "It can sound evasive or gossipy, so don’t use it when accuracy, accountability or a formal source matters."
+    },
+    {
+      "id": "as-the-saying-goes",
+      "kind": "phrase",
+      "term": "as the saying goes",
+      "pos": "phrase",
+      "hint": "introducing a familiar saying",
+      "register": "Everyday",
+      "meaning": "Used to introduce a well-known saying when making a simple point in conversation.",
+      "nuance": "It sounds casual and familiar, sometimes adding gentle humor or mild irony. It can feel old-fashioned if used repeatedly.",
+      "literal": "According to the saying that people commonly use.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · explaining a familiar risk",
+          "sentence": "Don’t put everything on one person, as the saying goes, and that applies here.",
+          "highlight": "as the saying goes",
+          "tip": "Use it to frame an obvious point, then explain the practical issue clearly."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with a friend",
+          "sentence": "I nearly called you three times yesterday, but as the saying goes, better late than never.",
+          "highlight": "as the saying goes",
+          "tip": "It works well when you are quoting a familiar proverb without sounding serious."
+        },
+        {
+          "setting": "writing",
+          "where": "Friendly email · closing a request",
+          "sentence": "We can sort out the details tomorrow, as the saying goes, but it is worth starting today.",
+          "highlight": "as the saying goes",
+          "tip": "Keep it light in informal writing; avoid it in formal or urgent messages."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely grew from the older expression “as the saying is,” used when referring to a proverb or familiar saying. It became a convenient conversational link between a general truth and the point being made.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Older English used expressions such as “as the saying is” to introduce a proverb."
+          },
+          {
+            "when": "20th century",
+            "text": "The modern wording “as the saying goes” became established in general English."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common spoken phrase for adding familiar wisdom or gentle humor."
+          }
+        ]
+      },
+      "similar": [
+        "as they say",
+        "as the proverb goes",
+        "the old saying goes",
+        "as the saying is"
+      ],
+      "opposite": "putting it bluntly",
+      "pitfall": "It should introduce a saying that everyone is likely to know, not replace a clear explanation."
+    },
+    {
+      "id": "catch-you-later",
+      "kind": "phrase",
+      "term": "catch you later",
+      "pos": "phrase",
+      "hint": "an informal goodbye",
+      "register": "Casual",
+      "meaning": "A friendly way to say goodbye, meaning “I’ll see you later.”",
+      "nuance": "It sounds relaxed and informal, especially between friends, family members, or people who know each other well. It is less suitable in a formal workplace or professional email.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "End of a casual conversation",
+          "sentence": "I need to join another call, but I’ll catch you later.",
+          "highlight": "catch you later",
+          "tip": "Use it with colleagues you already know well, not in a formal meeting."
+        },
+        {
+          "setting": "social",
+          "where": "Leaving a friend at a café",
+          "sentence": "I’m heading home now, but I’ll catch you later at the concert.",
+          "highlight": "catch you later",
+          "tip": "It’s a warm, informal goodbye rather than a serious farewell."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a friend",
+          "sentence": "I have to run off now, but I’ll catch you later.",
+          "highlight": "catch you later",
+          "tip": "It works in a casual message to someone you know, but “talk to you later” is often clearer."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from everyday English expressions meaning “see you later,” with “catch” adding the sense of meeting or getting together.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression “catch you later” appeared as casual spoken English for meeting or seeing someone later."
+          },
+          {
+            "when": "20th century",
+            "text": "It became established in informal conversation, especially in American English."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a casual goodbye used with friends and familiar colleagues."
+          }
+        ]
+      },
+      "similar": [
+        "see you later",
+        "talk to you later",
+        "catch up later"
+      ],
+      "opposite": "see you tomorrow",
+      "pitfall": "It can sound too casual for a first meeting, a formal presentation, or communication with a client."
+    },
+    {
+      "id": "check-you-out",
+      "kind": "phrase",
+      "term": "check you out",
+      "pos": "phrase",
+      "hint": "give someone a close look",
+      "register": "Casual",
+      "meaning": "To look at someone closely, usually to assess their appearance, style or qualities.",
+      "nuance": "It can sound playful or flirtatious when someone is checking out another person’s appearance. In other contexts, it simply means examining someone carefully.",
+      "literal": "One person looks the other person over closely.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Informal team introduction",
+          "sentence": "I’ll check you out after the meeting so we can compare notes on the new project.",
+          "highlight": "check you out",
+          "tip": "Use this for a lighthearted look or review, not a formal evaluation."
+        },
+        {
+          "setting": "social",
+          "where": "Friend arrives for an event",
+          "sentence": "Let me check you out before we go, I really like your jacket.",
+          "highlight": "check you out",
+          "tip": "This can be complimentary, but watch for a flirtatious tone."
+        },
+        {
+          "setting": "writing",
+          "where": "Casual message to a friend",
+          "sentence": "Send me a photo when you get home—I need to check you out.",
+          "highlight": "check you out",
+          "tip": "It works best between people who already have a relaxed relationship."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is unclear. The phrase developed from the older expression “check out,” meaning to inspect or examine, and “check someone out” later became a common way to describe looking someone over.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Check out” is used for looking at or examining something closely."
+          },
+          {
+            "when": "Late 20th century",
+            "text": "“Check someone out” becomes established informal speech for looking a person over."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase remains casual and can carry playful or flirtatious overtones."
+          }
+        ]
+      },
+      "similar": [
+        "look someone over",
+        "size someone up",
+        "have a look at someone"
+      ],
+      "opposite": "ignore someone",
+      "pitfall": "“Check you out” may sound like unwanted attention or a comment on someone’s body, so consider the setting and your relationship."
+    },
+    {
+      "id": "down-home",
+      "kind": "phrase",
+      "term": "down home",
+      "pos": "phrase",
+      "hint": "plain, warm, and unpretentious",
+      "register": "Casual, especially in North America",
+      "meaning": "Pleasingly plain, warm, and unpretentious in style or manner.",
+      "nuance": "It often expresses genuine appreciation for someone’s friendliness or simplicity. However, it can also suggest that someone is unsophisticated or overly familiar, so it is best kept in informal conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team introduction · welcoming a new colleague",
+          "sentence": "Our lead engineer is down home and makes new hires feel welcome.",
+          "highlight": "down home",
+          "tip": "Use it to describe an approachable style, not someone’s technical ability."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner at a friend’s house",
+          "sentence": "Her cooking is simple, and she is completely down home.",
+          "highlight": "down home",
+          "tip": "It works well when praising someone’s warmth and lack of pretension."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal venue description",
+          "sentence": "For the venue description, I wrote that it felt down home, with homemade food and a relaxed atmosphere.",
+          "highlight": "down home",
+          "tip": "Keep it in informal copy; before a noun, the usual spelling is down-home."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed in American English from down, meaning humble or plain, and home, suggesting familiar domestic warmth. The exact beginning of the expression is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "American English began using down-home for plain, unaffected people and manners."
+          },
+          {
+            "when": "1900s",
+            "text": "The expression expanded to describe food, hospitality, and a warm, uncomplicated style."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in informal North American speech and is often hyphenated before a noun."
+          }
+        ]
+      },
+      "similar": [
+        "unpretentious",
+        "folksy",
+        "straightforward",
+        "plainspoken"
+      ],
+      "opposite": "ostentatious",
+      "pitfall": "Do not use it to comment on someone’s expertise. Before a noun, write down-home, as in a down-home welcome."
+    },
+    {
+      "id": "excuse-me",
+      "kind": "phrase",
+      "term": "Excuse me",
+      "pos": "phrase",
+      "hint": "a polite way to begin",
+      "register": "Everyday",
+      "meaning": "A polite expression used to get someone’s attention, make a small apology, or introduce what you are about to say.",
+      "nuance": "It sounds friendly and respectful, but the meaning depends on context. People may use it to start a question, step past someone, acknowledge a minor mistake, or gently interrupt.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office · interrupting a focused colleague",
+          "sentence": "Excuse me, would you have two minutes to check this figure?",
+          "highlight": "Excuse me",
+          "tip": "Use it before interrupting so the interruption sounds considerate."
+        },
+        {
+          "setting": "social",
+          "where": "Café · ordering politely",
+          "sentence": "Excuse me, could I get a flat white with an oat-milk latte?",
+          "highlight": "Excuse me",
+          "tip": "Say it when starting a request, especially with a stranger or a busy server."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · requesting a quick reply",
+          "sentence": "Excuse me, I’m still waiting for your comments on the proposal.",
+          "highlight": "Excuse me",
+          "tip": "It can soften a reminder, but a specific request is usually clearer."
+        }
+      ],
+      "origin": {
+        "summary": "The wording combines “excuse,” which can mean an explanation or apology, with “me,” making it a polite formula for drawing attention or acknowledging a minor disruption.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The word “excuse” developed from Old French excusar and Latin excusare, meaning to free from blame."
+          },
+          {
+            "when": "1500s–1700s",
+            "text": "Polite uses of “excuse me” appeared in speech as a way to request attention or offer a brief explanation."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common everyday phrase, sometimes shortened to “excuse me” or “’scuse me.”"
+          }
+        ]
+      },
+      "similar": [
+        "pardon me",
+        "if I could just add",
+        "sorry to bother you"
+      ],
+      "opposite": "",
+      "pitfall": "In some contexts, “excuse me” can sound like an apology even when you are only asking a question, so pair it with a direct request."
+    },
+    {
+      "id": "good-afternoon",
+      "kind": "phrase",
+      "term": "Good afternoon",
+      "pos": "phrase",
+      "hint": "a polite greeting before the evening",
+      "register": "Common at work",
+      "meaning": "A polite greeting used to welcome someone during the afternoon.",
+      "nuance": "It sounds professional and friendly, but can feel slightly formal among people who normally call each other by their first names.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Welcoming a client",
+          "sentence": "Good afternoon, thanks for joining us for the quarterly review.",
+          "highlight": "Good afternoon",
+          "tip": "Use it when meeting or welcoming someone in the afternoon."
+        },
+        {
+          "setting": "social",
+          "where": "Arriving at a community event",
+          "sentence": "Good afternoon, everyone — I hope you’ve had a good week.",
+          "highlight": "Good afternoon",
+          "tip": "It works as a warm but respectful greeting in group settings."
+        },
+        {
+          "setting": "writing",
+          "where": "Opening an email",
+          "sentence": "Good afternoon, I’m writing to confirm our meeting on Thursday.",
+          "highlight": "Good afternoon",
+          "tip": "Capitalize it when it begins a message or appears after a greeting."
+        }
+      ],
+      "origin": {
+        "summary": "The greeting likely developed from the older expression “good day,” with “afternoon” added to specify the time of day.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Good day” was used as a general greeting in English."
+          },
+          {
+            "when": "1800s",
+            "text": "Time-specific greetings such as “good afternoon” became established."
+          },
+          {
+            "when": "Today",
+            "text": "“Good afternoon” remains a standard formal and polite greeting."
+          }
+        ]
+      },
+      "similar": [
+        "good day",
+        "good evening",
+        "hello"
+      ],
+      "opposite": "Good morning",
+      "pitfall": "Use it after noon; in the morning, say “Good morning” instead."
+    },
+    {
+      "id": "good-morning",
+      "kind": "phrase",
+      "term": "Good morning",
+      "pos": "phrase",
+      "hint": "a greeting at the start of the day",
+      "register": "Everyday",
+      "meaning": "A greeting used when meeting someone or beginning a conversation in the early part of the day.",
+      "nuance": "Friendly, polite and widely used in both informal and professional settings. It can also open an email or a conversation with colleagues.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team chat · starting the day",
+          "sentence": "Good morning, everyone — the client moved our meeting to ten.",
+          "highlight": "Good morning",
+          "tip": "Follow the greeting with your purpose or the main update."
+        },
+        {
+          "setting": "social",
+          "where": "Meeting a friend · morning plans",
+          "sentence": "Good morning! Are you heading to the market later?",
+          "highlight": "Good morning",
+          "tip": "Use a question to keep the friendly exchange going."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a client · morning message",
+          "sentence": "Good morning, thank you for sending the revised figures.",
+          "highlight": "Good morning",
+          "tip": "In formal emails, add the recipient’s name after the greeting."
+        }
+      ],
+      "origin": {
+        "summary": "This greeting developed from older English wishes that expressed hope for a good or blessed morning. The religious wording gradually became less explicit as the greeting entered everyday speech.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Morning comes from Old English words referring to the beginning of the day."
+          },
+          {
+            "when": "1500s",
+            "text": "Forms such as “good morrow” were used as morning greetings and blessings."
+          },
+          {
+            "when": "1800s",
+            "text": "“Good morning” becomes established as a general greeting."
+          },
+          {
+            "when": "Today",
+            "text": "It is understood as a standard greeting throughout the English-speaking world."
+          }
+        ]
+      },
+      "similar": [
+        "hello",
+        "good afternoon",
+        "good evening",
+        "morning"
+      ],
+      "opposite": "Good night",
+      "pitfall": "It is not a reply to “How are you?”; use “I’m well, thank you” for that."
+    },
+    {
+      "id": "happy-birthday",
+      "kind": "phrase",
+      "term": "happy birthday",
+      "pos": "phrase",
+      "hint": "a birthday wish",
+      "register": "Everyday",
+      "meaning": "A message of good wishes for someone on their birthday.",
+      "nuance": "Friendly and warm; use it in person, in a card, or in a message. Add “to you” when addressing the person directly.",
+      "literal": "Wishing someone joy on the day they were born.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office birthday · greeting a colleague",
+          "sentence": "Happy birthday, Priya! We’ll get you a cake after the morning meeting.",
+          "highlight": "Happy birthday",
+          "tip": "Keep it simple if you do not know the person very well."
+        },
+        {
+          "setting": "social",
+          "where": "Birthday message · close friend",
+          "sentence": "Happy birthday! I hope you have a wonderful day and an even better year ahead.",
+          "highlight": "Happy birthday",
+          "tip": "A sincere personal message feels warmer than sending only the standard greeting."
+        },
+        {
+          "setting": "writing",
+          "where": "Greeting card · signing a note",
+          "sentence": "Happy birthday, Maya! Thank you for being such a wonderful friend.",
+          "highlight": "Happy birthday",
+          "tip": "For a note, begin with “Happy birthday,” followed by a comma when adding the person’s name."
+        }
+      ],
+      "origin": {
+        "summary": "The exact first use is difficult to pin down. The phrase grew from older birthday wishes and later became familiar through songs, cards and personal messages.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People offered blessings and good wishes on birthdays long before this exact wording became common."
+          },
+          {
+            "when": "19th century",
+            "text": "Birthday verses and printed messages helped establish “happy birthday” as a standard expression."
+          },
+          {
+            "when": "20th century onward",
+            "text": "Songs, greeting cards and television celebrations spread the phrase widely."
+          },
+          {
+            "when": "Today",
+            "text": "It remains one of the most widely used birthday greetings in English."
+          }
+        ]
+      },
+      "similar": [
+        "many happy returns",
+        "best wishes",
+        "congratulations on your birthday"
+      ],
+      "pitfall": "In a written greeting, use “Happy birthday” as a standalone wish or place a comma after it before the person’s name."
+    },
+    {
+      "id": "happy-holidays",
+      "kind": "phrase",
+      "term": "happy holidays",
+      "pos": "phrase",
+      "hint": "a warm seasonal greeting",
+      "register": "Common in the United States",
+      "meaning": "A friendly wish for someone to enjoy the holiday season.",
+      "nuance": "It is especially common in the United States around Thanksgiving, Christmas and New Year. Outside North America, “happy holidays” may sound unfamiliar; “Merry Christmas” or “Happy New Year” can be more suitable.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Year-end team message",
+          "sentence": "Thanks for all your hard work this year, everyone, and happy holidays!",
+          "highlight": "happy holidays",
+          "tip": "Keep it warm but brief when emailing colleagues."
+        },
+        {
+          "setting": "social",
+          "where": "Greeting a friend in December",
+          "sentence": "I hope you’re having a wonderful week, and happy holidays to you and your family!",
+          "highlight": "happy holidays",
+          "tip": "This greeting works best when you are unsure which holiday someone celebrates."
+        },
+        {
+          "setting": "writing",
+          "where": "Closing a holiday card",
+          "sentence": "Wishing you good food, great company and happy holidays!",
+          "highlight": "happy holidays",
+          "tip": "Pair it with a personal message so the card does not feel generic."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines the older word “holiday,” originally connected with religious festivals, with the longstanding wish “happy.” Its broad seasonal meaning became especially familiar in American greeting-card and business culture.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Holiday” developed from a religious feast day and later came to refer to periods of celebration or leisure."
+          },
+          {
+            "when": "19th century",
+            "text": "Printers and greeting-card writers used combinations of “happy” and “holiday” as seasonal wishes."
+          },
+          {
+            "when": "Today",
+            "text": "“Happy holidays” is a widely recognized North American greeting that avoids assuming a particular celebration."
+          }
+        ]
+      },
+      "similar": [
+        "Happy New Year",
+        "Merry Christmas",
+        "Season’s greetings",
+        "Happy festive season"
+      ],
+      "opposite": "None",
+      "pitfall": "In many countries outside North America, “happy holidays” can sound vague or imported, so use it when the setting is clearly English-speaking North America."
+    },
+    {
+      "id": "have-a-good-one",
+      "kind": "phrase",
+      "term": "have a good one",
+      "pos": "idiom",
+      "hint": "a friendly way to say goodbye",
+      "register": "Casual",
+      "meaning": "A warm, informal way to wish someone goodbye or tell them to have a good day.",
+      "nuance": "It sounds friendly but can feel slightly abrupt or dismissive if someone expects a more heartfelt farewell. It is especially natural among colleagues, classmates and friends.",
+      "literal": "Have a good remaining part of your day, week or experience.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Quick goodbye at the office",
+          "sentence": "I’m heading out now, but have a good one.",
+          "highlight": "have a good one",
+          "tip": "Keep it light when ending a brief chat with a coworker."
+        },
+        {
+          "setting": "social",
+          "where": "Leaving a friend’s party",
+          "sentence": "Thanks for inviting me tonight—have a good one.",
+          "highlight": "have a good one",
+          "tip": "It works best when your relationship is comfortable and casual."
+        },
+        {
+          "setting": "writing",
+          "where": "Closing a casual email",
+          "sentence": "I hope the rest of your week goes smoothly; have a good one.",
+          "highlight": "have a good one",
+          "tip": "Use it in an informal sign-off, not with a client or someone much older."
+        }
+      ],
+      "origin": {
+        "summary": "This is likely a shortened form of wishing someone a good day, evening or remaining time. The wording became established as a casual farewell in everyday English.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People commonly wished one another a good day or evening before leaving."
+          },
+          {
+            "when": "20th century",
+            "text": "The shorter phrase “have a good one” developed as an informal way to say goodbye."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in casual conversation, particularly in American English."
+          }
+        ]
+      },
+      "similar": [
+        "have a good day",
+        "take care",
+        "see you around"
+      ],
+      "opposite": "have a bad one",
+      "pitfall": "Because it can feel like a quick brush-off, use it with people you know or when the farewell is intentionally casual."
+    },
+    {
+      "id": "have-a-good-weekend",
+      "kind": "phrase",
+      "term": "have a good weekend",
+      "pos": "phrase",
+      "hint": "a friendly end-of-the-week wish",
+      "register": "Casual",
+      "meaning": "A friendly wish for someone to enjoy the weekend.",
+      "nuance": "Warm and informal; it is a natural way to end a conversation, especially on Friday. It can also work in a work email when the relationship is relaxed.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Friday chat · signing off",
+          "sentence": "Thanks for turning that around so quickly, have a good weekend.",
+          "highlight": "have a good weekend",
+          "tip": "It works best with colleagues you already know well."
+        },
+        {
+          "setting": "social",
+          "where": "Leaving a friend’s home",
+          "sentence": "It was lovely catching up, so have a good weekend.",
+          "highlight": "have a good weekend",
+          "tip": "Use it as a relaxed goodbye rather than a formal farewell."
+        },
+        {
+          "setting": "writing",
+          "where": "Email closing on Friday",
+          "sentence": "Thanks again for your help, and have a good weekend.",
+          "highlight": "have a good weekend",
+          "tip": "For a more professional email, say “Have a nice weekend.”"
+        }
+      ],
+      "origin": {
+        "summary": "A modern English closing wish that grew from the older expression “good week-end.” Its exact first appearance is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression “week-end” developed as a written form of “week end.”"
+          },
+          {
+            "when": "20th century",
+            "text": "“Good week-end” became a familiar way to wish someone well before the weekend."
+          },
+          {
+            "when": "Today",
+            "text": "The longer and more conversational phrase “have a good weekend” is common in spoken English and informal emails."
+          }
+        ]
+      },
+      "similar": [
+        "have a nice weekend",
+        "enjoy your weekend",
+        "have a great weekend"
+      ],
+      "opposite": "",
+      "pitfall": "This is mainly casual; in a formal email, “have a nice weekend” or “have a restful weekend” may fit better."
+    },
+    {
+      "id": "have-a-nice-day",
+      "kind": "phrase",
+      "term": "have a nice day",
+      "pos": "phrase",
+      "hint": "a friendly way to end a conversation",
+      "register": "Everyday",
+      "meaning": "A polite wish that someone has a good day, often used when ending a conversation.",
+      "nuance": "It is friendly but somewhat routine, so it may sound less warm than “I hope you have a great day.” In some contexts, especially with a customer, it can feel like a standard sign-off rather than personal concern.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Ending a customer call",
+          "sentence": "Thanks for calling; have a nice day.",
+          "highlight": "have a nice day",
+          "tip": "Use it as a simple sign-off after solving the customer’s issue."
+        },
+        {
+          "setting": "social",
+          "where": "Leaving a neighborhood shop",
+          "sentence": "Thanks for your help. I’ll head home now—have a nice day.",
+          "highlight": "have a nice day",
+          "tip": "It fits a brief, polite goodbye with someone you do not know well."
+        },
+        {
+          "setting": "writing",
+          "where": "Closing a short email",
+          "sentence": "I’ve attached the notes we discussed. Have a nice day.",
+          "highlight": "Have a nice day",
+          "tip": "For warmer business emails, try “I hope you have a great day” instead."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the older expression “have a nice day,” combining a simple wish for wellbeing with a courteous way to end an exchange. It became especially common in American everyday and service speech during the 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The word “nice” had long been used to express approval, pleasure or friendliness."
+          },
+          {
+            "when": "20th century",
+            "text": "The set phrase “have a nice day” became established in everyday American speech."
+          },
+          {
+            "when": "Today",
+            "text": "It is a standard polite goodbye in many English-speaking communities, though its warmth can vary by context."
+          }
+        ]
+      },
+      "similar": [
+        "have a good day",
+        "have a great day",
+        "take care"
+      ],
+      "opposite": "have a bad day",
+      "pitfall": "Because it is widely used as a formula, “have a nice day” can sound impersonal; add a specific friendly sentence when you want to show genuine warmth."
+    },
+    {
+      "id": "heres-to",
+      "kind": "phrase",
+      "term": "here's to",
+      "pos": "phrase",
+      "hint": "a toast or good wish",
+      "register": "Common at work and socially",
+      "meaning": "An expression used before a toast, celebration or wish for someone or something.",
+      "nuance": "Warm and congratulatory, often used when raising a glass or marking an achievement. It can also appear in cards, speeches and celebratory messages.",
+      "literal": "Raising a glass while wishing someone well.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team celebration · project launch",
+          "sentence": "Here’s to the team that turned a difficult launch into a success.",
+          "highlight": "Here’s to",
+          "tip": "Use it when marking an achievement rather than simply making a point."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · wedding toast",
+          "sentence": "Here’s to the couple, their families and a long and happy marriage.",
+          "highlight": "Here’s to",
+          "tip": "Follow it with the person or thing you are celebrating."
+        },
+        {
+          "setting": "writing",
+          "where": "Birthday card for a colleague",
+          "sentence": "Here’s to another year of good health, happiness and well-deserved success.",
+          "highlight": "Here’s to",
+          "tip": "Keep the wish positive and appropriate for your relationship with the recipient."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from the custom of announcing a toast before drinking. Its precise first recorded use is uncertain, but the phrase was well established by the 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People began using short formulas such as “here’s to” before raising their glasses."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression was already common in speeches, poems and accounts of social drinking."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar way to make a toast, celebrate an occasion or offer a good wish."
+          }
+        ]
+      },
+      "similar": [
+        "toasts to",
+        "cheers to",
+        "raising a glass to"
+      ],
+      "pitfall": "After “here’s to,” name what you are celebrating rather than ending with a vague “to happiness.”"
+    },
+    {
+      "id": "how-are-you",
+      "kind": "phrase",
+      "term": "How are you",
+      "pos": "phrase",
+      "hint": "asking about someone’s wellbeing",
+      "register": "Everyday",
+      "meaning": "A friendly greeting used to ask how someone is doing.",
+      "nuance": "It is usually a social opener rather than a serious request for details. In familiar or emotional situations, it can invite a more personal response.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team check-in · starting the day",
+          "sentence": "Good morning! How are you doing with the client deadline?",
+          "highlight": "How are you",
+          "tip": "Add “doing” when you want to ask about a particular situation."
+        },
+        {
+          "setting": "social",
+          "where": "Meeting a friend · casual greeting",
+          "sentence": "How are you? It’s good to see you again.",
+          "highlight": "How are you",
+          "tip": "Keep the answer casual unless the other person sounds ready to talk."
+        },
+        {
+          "setting": "writing",
+          "where": "Beginning an email · checking in",
+          "sentence": "Hi Maya, How are you? I wanted to send a quick update about next week.",
+          "highlight": "How are you",
+          "tip": "Use it when you have a reason to write; on its own, it may feel too casual."
+        }
+      ],
+      "origin": {
+        "summary": "This greeting developed from older expressions such as “How do you do?” and similar formulas used to ask about someone’s condition. Its exact first use is difficult to establish.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used fixed greetings to ask about another person’s health, mood or circumstances."
+          },
+          {
+            "when": "1800s",
+            "text": "Forms of “How are you?” became established in polite conversation."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a standard informal greeting in everyday speech and writing."
+          }
+        ]
+      },
+      "similar": [
+        "How’s it going?",
+        "How have you been?",
+        "How are things?"
+      ],
+      "pitfall": "In a serious conversation, “How are you?” may sound automatic; ask about what the person is actually experiencing if you already know they are struggling."
+    },
+    {
+      "id": "how-are-you-doing",
+      "kind": "phrase",
+      "term": "how are you doing",
+      "pos": "phrase",
+      "hint": "checking in on someone",
+      "register": "Everyday",
+      "meaning": "A friendly way to ask how someone is doing, especially when you meet or speak after some time.",
+      "nuance": "It is warmer than a quick “How are you?” and gives the other person room to share how they really are. In some workplaces, it may also simply be a polite greeting with no need for a detailed answer.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team check-in · catching up",
+          "sentence": "How are you doing with the new reporting schedule?",
+          "highlight": "How are you doing",
+          "tip": "Adding “with” or “on” turns this into a focused work question."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with a friend",
+          "sentence": "Hi, how are you doing? I feel like it’s been ages since we talked.",
+          "highlight": "how are you doing",
+          "tip": "Use it when you want to show interest and keep the conversation open."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a former colleague",
+          "sentence": "Hi Sam, how are you doing these days? I’d love to hear what you’ve been working on.",
+          "highlight": "how are you doing",
+          "tip": "For a less familiar contact, “I hope you’re doing well” often sounds more natural."
+        }
+      ],
+      "origin": {
+        "summary": "The wording comes from an ordinary question about someone’s state or condition. Its friendly use as a greeting became especially common in American English during the 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People asked how another person was doing in the literal sense of their health, work or circumstances."
+          },
+          {
+            "when": "20th century",
+            "text": "The question became established as a casual greeting in American English."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common everyday greeting, while work and social contexts often add more specific wording."
+          }
+        ]
+      },
+      "similar": [
+        "how are you",
+        "how have you been",
+        "how’s everything",
+        "how are things going"
+      ],
+      "opposite": "how did it go",
+      "pitfall": "When you ask “How are you doing?”, give the person space to answer honestly rather than replying immediately with “Good” and moving on."
+    },
+    {
+      "id": "how-do-you-do",
+      "kind": "phrase",
+      "term": "How do you do",
+      "pos": "phrase",
+      "hint": "a traditional greeting when meeting someone",
+      "register": "Formal / traditional",
+      "meaning": "A polite greeting used when meeting someone, especially for the first time; it can also mean “How are you?”",
+      "nuance": "It sounds courteous but slightly old-fashioned. When used as a first-meeting greeting, “Very well, thank you” is the traditional reply; “How are you?” is more common when you genuinely want to hear about someone’s wellbeing.",
+      "literal": "A direct question about how someone is doing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "First meeting · introducing yourself",
+          "sentence": "How do you do? I’m Lena from the design team, and I look forward to working with you.",
+          "highlight": "How do you do",
+          "tip": "Use it for a formal first introduction, especially in professional settings."
+        },
+        {
+          "setting": "social",
+          "where": "Meeting an acquaintance · polite hello",
+          "sentence": "How do you do? We’ve chatted online, but it’s lovely to meet you in person.",
+          "highlight": "How do you do",
+          "tip": "It suits a courteous or traditional introduction rather than a casual greeting."
+        },
+        {
+          "setting": "writing",
+          "where": "First email · formal self-introduction",
+          "sentence": "How do you do? I’m Marcus, and I’ll be leading the workshop next week.",
+          "highlight": "How do you do",
+          "tip": "It can sound dated in email; use “Hello” or “Dear…” unless the tone is deliberately formal."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase began as a literal question about someone’s health or circumstances and later developed into a formal greeting. Its wording has been part of polite English for centuries.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "“How do you do?” appears in English as a polite inquiry about someone’s wellbeing or circumstances."
+          },
+          {
+            "when": "1700s–1800s",
+            "text": "It becomes established as a formal greeting between people meeting for the first time."
+          },
+          {
+            "when": "Today",
+            "text": "It remains understood as a traditional greeting, while “How are you?” is more common for asking about someone’s wellbeing."
+          }
+        ]
+      },
+      "similar": [
+        "How are you?",
+        "Pleased to meet you",
+        "How have you been?"
+      ],
+      "pitfall": "Don’t treat it as a request for details about someone’s day; the traditional reply is simply “Very well, thank you.”"
+    },
+    {
+      "id": "how-you-doing",
+      "kind": "phrase",
+      "term": "how you doing",
+      "pos": "phrase",
+      "hint": "a casual way to ask how someone is",
+      "register": "Casual",
+      "meaning": "An informal greeting used to ask how someone is doing.",
+      "nuance": "Friendly, relaxed and slightly regional, especially in American English. It suits conversations with people you already know, but may sound too familiar in a formal or new business relationship.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office encounter · greeting a colleague",
+          "sentence": "Hey, how you doing? I heard the project went live last week.",
+          "highlight": "how you doing",
+          "tip": "Keep it for an established workplace relationship; use “How are you?” in more formal settings."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up · meeting an old friend",
+          "sentence": "How you doing? It’s good to see you again.",
+          "highlight": "How you doing",
+          "tip": "It works best when you already share some familiarity."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message · checking in with a friend",
+          "sentence": "Hey, how you doing? Let me know what’s been happening.",
+          "highlight": "how you doing",
+          "tip": "It can feel warmer than a formal greeting, but watch the punctuation and tone."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from the spoken contraction of “How are you doing?”, with “are” dropped as speech patterns became more casual. The shortened form is especially associated with American English.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The full greeting “How are you doing?” was established as a polite way to ask about someone’s well-being."
+          },
+          {
+            "when": "20th century",
+            "text": "Casual speech developed shortened forms by leaving out words such as “are,” producing “How you doing?”"
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar greeting in many American-English conversations."
+          }
+        ]
+      },
+      "similar": [
+        "How are you?",
+        "How's it going?",
+        "How have you been?",
+        "How you been?"
+      ],
+      "pitfall": "The phrase is informal and may sound abrupt without a greeting or context. In professional communication, “How are you?” is usually safer."
+    },
+    {
+      "id": "howre-you",
+      "kind": "phrase",
+      "term": "how're you",
+      "pos": "phrase",
+      "hint": "a casual way to ask how someone is",
+      "register": "Casual",
+      "meaning": "A friendly, informal way to ask how someone is doing.",
+      "nuance": "It works as a greeting between people who know each other, especially in quick conversations. With someone you know less well, a fuller question may feel more attentive.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Passing a colleague in the office",
+          "sentence": "Hey, how're you? I haven't seen you since the team lunch.",
+          "highlight": "how're you",
+          "tip": "Keep it as a brief greeting before moving on."
+        },
+        {
+          "setting": "social",
+          "where": "Meeting a friend at a café",
+          "sentence": "Hi! How're you? You look like you've had a busy week.",
+          "highlight": "How're you",
+          "tip": "Follow it with a more specific question if you want a real conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "A quick message to a friend",
+          "sentence": "Hey Sofia, how're you? I just wanted to let you know I'm back in town.",
+          "highlight": "how're you",
+          "tip": "It can make a short message feel warmer, but don’t use it in every email."
+        }
+      ],
+      "origin": {
+        "summary": "A shortened form of “how are you,” formed by dropping “are” in casual speech. The fuller greeting is older, while the contracted version became common in informal English.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The fuller form “how are you?” was used as a friendly greeting."
+          },
+          {
+            "when": "19th century",
+            "text": "Informal speech developed shortened forms with words like “are” left out."
+          },
+          {
+            "when": "Today",
+            "text": "“How're you” remains a common casual greeting, especially among friends and acquaintances."
+          }
+        ]
+      },
+      "similar": [
+        "how are you",
+        "how's it going",
+        "how have you been"
+      ],
+      "opposite": "goodbye",
+      "pitfall": "The apostrophe replaces “are,” so write “how're you,” not “how're you” with the apostrophe in the wrong place or “how are you” when using the contraction."
+    },
+    {
+      "id": "howre-you-doing",
+      "kind": "phrase",
+      "term": "How're you doing?",
+      "pos": "phrase",
+      "hint": "a casual way to ask how someone is",
+      "register": "Everyday",
+      "meaning": "A friendly greeting used to ask how someone is doing or how they are feeling.",
+      "nuance": "It sounds warmer and more conversational than “How are you?”, but often receives a brief response such as “Fine, thanks.” It works best with people you already know.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team check-in · catching up",
+          "sentence": "How're you doing? I heard the project has been keeping you busy this week.",
+          "highlight": "How're you doing?",
+          "tip": "Use it with colleagues you know rather than in a very formal meeting."
+        },
+        {
+          "setting": "social",
+          "where": "Reconnecting with an acquaintance",
+          "sentence": "How're you doing? It's been months since we last caught up.",
+          "highlight": "How're you doing?",
+          "tip": "Follow it with a specific question if you want a longer conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Friendly message to a colleague",
+          "sentence": "Hi Maya, how're you doing? I wanted to check in and see how the new role is going.",
+          "highlight": "how're you doing?",
+          "tip": "It suits informal emails; use “How are you?” in more formal correspondence."
+        }
+      ],
+      "origin": {
+        "summary": "This is a spoken contraction of “How are you doing?”, a friendly greeting that grew out of longer expressions such as “How do you do?”",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used polite expressions such as “How do you do?” when greeting someone."
+          },
+          {
+            "when": "19th century",
+            "text": "The wording “How are you doing?” became established as a friendly way to ask about someone’s wellbeing."
+          },
+          {
+            "when": "Today",
+            "text": "Speaking “How're you doing?” remains a common informal greeting in English."
+          }
+        ]
+      },
+      "similar": [
+        "How are you?",
+        "How's it going?",
+        "How have you been?"
+      ],
+      "opposite": "Not relevant",
+      "pitfall": "Because this is mainly a spoken greeting, the contraction can feel too familiar in formal emails or with people you have just met."
+    },
+    {
+      "id": "hows-everything",
+      "kind": "phrase",
+      "term": "how's everything",
+      "pos": "phrase",
+      "hint": "a broad check-in on life",
+      "register": "Everyday",
+      "meaning": "A casual way to ask how someone is doing in general, including their work, plans or personal life.",
+      "nuance": "Friendly and informal, but its meaning depends on the relationship and context. It can be a warm greeting between friends or a general question between colleagues.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Quick check-in · catching up",
+          "sentence": "How's everything since the project wrapped up?",
+          "highlight": "How's everything",
+          "tip": "Use it when you want a broad update rather than details about one specific task."
+        },
+        {
+          "setting": "social",
+          "where": "Reconnecting · greeting a friend",
+          "sentence": "Hi! How's everything with you these days?",
+          "highlight": "How's everything",
+          "tip": "With a close friend, follow up with a more specific question to show genuine interest."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message · checking in",
+          "sentence": "Hey Maya, how's everything? I thought I'd send you a quick update.",
+          "highlight": "how's everything",
+          "tip": "It works in a relaxed message, but it may feel too casual for a first email to someone senior."
+        }
+      ],
+      "origin": {
+        "summary": "A conversational shortening of the question “How is everything?”, often used as a greeting when meeting or catching up with someone.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The fuller question “How is everything?” served as a general inquiry about a person's circumstances."
+          },
+          {
+            "when": "20th century",
+            "text": "The contracted form became common in relaxed spoken English."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar greeting among friends, family and colleagues with an informal relationship."
+          }
+        ]
+      },
+      "similar": [
+        "how are you",
+        "how are things",
+        "how's it going"
+      ],
+      "pitfall": "With a new colleague, it may sound overly familiar; “How are you?” is usually safer."
+    },
+    {
+      "id": "hows-it-going",
+      "kind": "phrase",
+      "term": "how's it going",
+      "pos": "phrase",
+      "hint": "a casual way to ask how someone is",
+      "register": "Casual",
+      "meaning": "A friendly, informal greeting used to ask how someone is doing.",
+      "nuance": "It works best with people you already know and can signal that you would like to chat. It is less suitable for formal meetings, interviews, or times when someone may need a serious answer.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office catch-up · greeting a colleague",
+          "sentence": "Hey, how's it going? I haven't seen you since the project wrapped up.",
+          "highlight": "how's it going",
+          "tip": "Use it for familiar colleagues when the conversation can stay light."
+        },
+        {
+          "setting": "social",
+          "where": "Meeting a friend · opening a conversation",
+          "sentence": "Hi! How's it going? We haven't talked in ages.",
+          "highlight": "How's it going",
+          "tip": "Follow it with a question if you want to show genuine interest."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a teammate · checking in",
+          "sentence": "Hey Sam, how's it going? No rush to reply, but let me know when you have a moment.",
+          "highlight": "how's it going",
+          "tip": "It sounds friendly but can feel vague, so mention what prompted the message."
+        }
+      ],
+      "origin": {
+        "summary": "This is a shortened form of “How is it going?” Its friendly tone comes from a long-standing informal way of greeting someone.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Similar English greetings included the formal question “How goes it?”"
+          },
+          {
+            "when": "19th century",
+            "text": "The shortened question “How's it going?” became established in everyday speech."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common casual greeting among friends, colleagues, and acquaintances."
+          }
+        ]
+      },
+      "similar": [
+        "how are you?",
+        "how's everything?",
+        "how have you been?",
+        "what's up?"
+      ],
+      "pitfall": "Because the question is broad, it may sound like small talk rather than a sincere check-in; follow it with something specific when the person’s wellbeing matters."
+    },
+    {
+      "id": "hows-things",
+      "kind": "phrase",
+      "term": "how's things",
+      "pos": "phrase",
+      "hint": "a casual way to ask how someone is",
+      "register": "Everyday",
+      "meaning": "A friendly, informal way to ask how someone is doing.",
+      "nuance": "It sounds relaxed and conversational, usually between people who already know each other. It can ask about someone’s general well-being, work, or personal circumstances.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Coffee break · catching up with a colleague",
+          "sentence": "Hey, how's things with the new project going?",
+          "highlight": "how's things",
+          "tip": "Use it with colleagues you know well; it may be too casual for a first meeting."
+        },
+        {
+          "setting": "social",
+          "where": "Reconnecting with a friend",
+          "sentence": "Hi! How's things? I haven't seen you since summer.",
+          "highlight": "How's things",
+          "tip": "It works as an opener before asking a more specific question."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message to a friend",
+          "sentence": "Hey, how's things? Let me know when you have time to catch up.",
+          "highlight": "how's things",
+          "tip": "Keep it for personal messages rather than formal emails."
+        }
+      ],
+      "origin": {
+        "summary": "This is a shortened, more conversational form of the older question “How are things?” Its exact first recorded appearance is uncertain, but it became established in everyday English.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The fuller question “How are things?” is used to ask about someone’s circumstances or general situation."
+          },
+          {
+            "when": "20th century",
+            "text": "The shorter wording “How's things?” spreads in informal conversation."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common casual greeting among friends and acquaintances."
+          }
+        ]
+      },
+      "similar": [
+        "how are you",
+        "how have you been",
+        "how's it going"
+      ],
+      "opposite": "How's your day going?",
+      "pitfall": "“How's things?” is usually a general greeting, so follow it with a specific question if you want a meaningful answer."
+    },
+    {
+      "id": "i-thought-youd-never-ask",
+      "kind": "phrase",
+      "term": "I thought you'd never ask",
+      "pos": "phrase",
+      "hint": "a playful way to welcome a question",
+      "register": "Casual",
+      "meaning": "Said when someone finally asks a question you were happy to answer.",
+      "nuance": "It can sound warm and teasing, especially among people who know each other well. In a more sensitive context, it may come across as sarcastic or dismissive.",
+      "literal": "The speaker imagined the listener would never ask the question at all.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague asks for help",
+          "sentence": "You need the sales figures? I thought you'd never ask.",
+          "highlight": "I thought you'd never ask",
+          "tip": "Keep the tone playful, especially with someone you know well."
+        },
+        {
+          "setting": "social",
+          "where": "Friend asks about your weekend",
+          "sentence": "How was the concert? I thought you'd never ask.",
+          "highlight": "I thought you'd never ask",
+          "tip": "Use it to show that you welcome the question rather than mock the person."
+        },
+        {
+          "setting": "writing",
+          "where": "Lighthearted message to a friend",
+          "sentence": "You want my honest opinion? I thought you'd never ask.",
+          "highlight": "I thought you'd never ask",
+          "tip": "It works best in a relaxed message where teasing is appropriate."
+        }
+      ],
+      "origin": {
+        "summary": "This phrase combines two older English patterns: “I thought” for a belief formed in the past and the rhetorical question “you'd never ask.” It became a familiar teasing expression in conversational English.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English speakers used “I thought” to introduce a belief they had previously formed."
+          },
+          {
+            "when": "19th–20th centuries",
+            "text": "The expression developed into a conversational way of welcoming a question with light teasing."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in friendly, informal speech, though context can make it sound sarcastic."
+          }
+        ]
+      },
+      "similar": [
+        "You finally asked",
+        "Ask away",
+        "I'm glad you asked"
+      ],
+      "opposite": "I was wondering when you'd ask",
+      "pitfall": "With a manager, client or someone you do not know well, it can sound mocking or imply that the question is unwelcome."
+    }
+  ]
+}

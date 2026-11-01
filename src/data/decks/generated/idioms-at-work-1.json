@@ -1,0 +1,1504 @@
+{
+  "id": "idioms-at-work-1",
+  "kind": "idiom",
+  "name": "At work · 1",
+  "blurb": "25 idioms about at work",
+  "cards": [
+    {
+      "id": "along-the-lines-of",
+      "kind": "idiom",
+      "term": "along the lines of",
+      "pos": "idiom",
+      "hint": "roughly similar to",
+      "register": "Common at work",
+      "meaning": "In a style, format or approach that is roughly similar to something else.",
+      "nuance": "It often suggests that one thing is based on or loosely resembles another. Use it when the comparison is general rather than exact.",
+      "literal": "Following the direction of existing lines.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · shaping a proposal",
+          "sentence": "We drafted the new policy along the lines of last year’s customer guidelines.",
+          "highlight": "along the lines of",
+          "tip": "Useful when explaining that a proposal follows an established model."
+        },
+        {
+          "setting": "social",
+          "where": "Book club · comparing novels",
+          "sentence": "The second story felt a little along the lines of the first, but with a sharper ending.",
+          "highlight": "along the lines of",
+          "tip": "Use this for a loose similarity, not a perfect match."
+        },
+        {
+          "setting": "writing",
+          "where": "Design brief · describing a redesign",
+          "sentence": "The updated interface was created along the lines of the company’s mobile app.",
+          "highlight": "along the lines of",
+          "tip": "Common in professional writing when describing the model or direction used."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from the idea of following lines or boundaries. Its modern figurative use is well established, but the exact first use is difficult to trace.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The wording appears in contexts suggesting direction, method or an established pattern."
+          },
+          {
+            "when": "1900s",
+            "text": "It becomes common for describing something made in a broadly similar style."
+          },
+          {
+            "when": "Today",
+            "text": "Means roughly similar to, or broadly based on, another thing."
+          }
+        ]
+      },
+      "similar": [
+        "in the same vein as",
+        "something like",
+        "on the model of"
+      ],
+      "pitfall": "It describes a general resemblance, not a precise match. Avoid using it when the two things are exactly the same."
+    },
+    {
+      "id": "back-up",
+      "kind": "idiom",
+      "term": "back up",
+      "pos": "idiom",
+      "hint": "support, copy, or move in reverse",
+      "register": "Everyday",
+      "meaning": "To support someone, make a copy of something, or move a vehicle in reverse.",
+      "nuance": "The phrase is flexible and often depends on context: people back up a colleague, back up files, or back up a car. It can sound practical and reassuring when used to support someone or protect information.",
+      "literal": "Something placed behind you for support, or a copy kept in reserve.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Before a software update · protecting shared files",
+          "sentence": "Please back up the shared folder before the update goes live.",
+          "highlight": "back up",
+          "tip": "A clear way to ask someone to protect important information first."
+        },
+        {
+          "setting": "social",
+          "where": "Making a claim · supporting a friend",
+          "sentence": "Could you back up my story about the missing wallet?",
+          "highlight": "back up",
+          "tip": "Here, it means give evidence or support to what someone has said."
+        },
+        {
+          "setting": "writing",
+          "where": "Giving advice · preparing for a change",
+          "sentence": "Back up your computer regularly and keep a second copy of essential documents.",
+          "highlight": "Back up",
+          "tip": "Common in practical advice about data, devices, and emergencies."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the literal idea of something providing support from behind. Over time, it came to mean supporting a person, making a secure copy, and reversing a vehicle or action.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1400s",
+            "text": "The wording appears in the sense of giving support from behind."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase was used for moving or reversing, including vehicles."
+          },
+          {
+            "when": "1900s",
+            "text": "Computing and office work made ‘back up’ a familiar expression for making a protective copy."
+          }
+        ]
+      },
+      "similar": [
+        "support",
+        "save a copy",
+        "reverse"
+      ],
+      "opposite": "abandon",
+      "pitfall": "When it means make a copy, ‘back up’ is usually a verb; as a noun, it is commonly written ‘backup’."
+    },
+    {
+      "id": "be-left-holding-the-baby",
+      "kind": "idiom",
+      "term": "be left holding the baby",
+      "pos": "idiom",
+      "hint": "be left with an unwanted responsibility",
+      "register": "Casual",
+      "meaning": "To be left with a responsibility or problem that other people have avoided or passed on to you.",
+      "nuance": "It suggests unfair burden-sharing, often because someone else failed, changed their mind, or disappeared. It is especially common at work but also natural in social conversations.",
+      "literal": "Being handed a baby while everyone else walks away.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project handover · missed deadline",
+          "sentence": "When the vendor went quiet, we were left holding the baby and had to explain the delay.",
+          "highlight": "left holding the baby",
+          "tip": "Use it when responsibility has been passed to you unfairly."
+        },
+        {
+          "setting": "social",
+          "where": "Party plans · cancelled help",
+          "sentence": "I thought you were bringing the snacks, so now I’m left holding the baby at the party.",
+          "highlight": "left holding the baby",
+          "tip": "Works in informal conversations about unexpected chores."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · event failure",
+          "sentence": "By cancelling the event, the organizers left holding the baby for the refunds.",
+          "highlight": "left holding the baby",
+          "tip": "A natural choice for describing responsibility in a report or article."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely comes from British English, where holding a baby symbolizes an unwanted burden or responsibility. Its exact first use is uncertain, but the figurative meaning was established by the early twentieth century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The image of holding someone else’s baby appears in British expressions for unwanted care or responsibility."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "The expression 'left holding the baby' begins appearing in written English."
+          },
+          {
+            "when": "Today",
+            "text": "It means being left with an unwanted task, problem, or consequence."
+          }
+        ]
+      },
+      "similar": [
+        "be left high and dry",
+        "be dumped on",
+        "be stuck with it"
+      ],
+      "pitfall": "It describes unwanted responsibility, not literal childcare, and usually implies that someone else should have shared the burden."
+    },
+    {
+      "id": "bells-and-whistles",
+      "kind": "idiom",
+      "term": "bells and whistles",
+      "pos": "idiom",
+      "hint": "extra features that make something special",
+      "register": "Common at work",
+      "meaning": "Extra features, options, or impressive details that make something more useful, attractive, or entertaining.",
+      "nuance": "The phrase often has a friendly, slightly playful tone. It can be positive when the extras are worthwhile, but it can also suggest unnecessary complexity.",
+      "literal": "Decorative bells and whistles attached to a ship or vehicle.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product demo · software launch",
+          "sentence": "The new dashboard comes with bells and whistles, including automated reports and custom filters.",
+          "highlight": "bells and whistles",
+          "tip": "Common for describing useful extra product features."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding planning · venue details",
+          "sentence": "We wanted bells and whistles, so we added a photo booth, live music, and late-night snacks.",
+          "highlight": "bells and whistles",
+          "tip": "Often suggests extras that go beyond the basic plan."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel review · hotel comparison",
+          "sentence": "For the price, the hotel offers plenty of bells and whistles, including a pool, spa, and river views.",
+          "highlight": "bells and whistles",
+          "tip": "Useful in informal reviews when highlighting attractive extras."
+        }
+      ],
+      "origin": {
+        "summary": "The exact source is unclear. The expression likely grew from nautical and theatrical imagery, where bells and whistles are striking additions. By the early 1900s, it was being used for the impressive or useful extras attached to something.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Late 1800s",
+            "text": "The expression begins appearing in writing for striking extras and impressive features."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "Its meaning broadens to include attractive or useful additions to products, plans, and experiences."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly refers to optional features that go beyond the basic version."
+          }
+        ]
+      },
+      "similar": [
+        "the full package",
+        "extra features",
+        "the trimmings"
+      ],
+      "opposite": "bare essentials",
+      "pitfall": "It describes extras or special features, not the main purpose of something."
+    },
+    {
+      "id": "bend-over-backwards",
+      "kind": "idiom",
+      "term": "Bend over backwards",
+      "pos": "idiom",
+      "hint": "make every effort to help",
+      "register": "Common at work",
+      "meaning": "To make an unusually great effort to help someone or achieve something.",
+      "nuance": "It suggests going well beyond what is normally expected. Use it to show strong willingness, generosity, or determination, often with a warm or slightly humorous tone.",
+      "literal": "Bending your body as far backward as possible.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · covering a colleague",
+          "sentence": "Maya bent over backwards to find a replacement for me during the launch.",
+          "highlight": "bent over backwards",
+          "tip": "Often describes someone making an exceptional effort on another person’s behalf."
+        },
+        {
+          "setting": "social",
+          "where": "Helping a friend · moving house",
+          "sentence": "I bent over backwards to help my friend move, and she still forgot my sofa.",
+          "highlight": "bent over backwards",
+          "tip": "Natural when you want to emphasize how much effort someone made."
+        },
+        {
+          "setting": "writing",
+          "where": "Team update · acknowledging support",
+          "sentence": "The support team bent over backwards to solve the issue before the deadline.",
+          "highlight": "bent over backwards",
+          "tip": "Works well in reports and informal emails when praising extra effort."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely comes from the physical act of bending backward, which can require exceptional effort. Its figurative use is well established, but the exact first recorded appearance is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Bending backward was used as a literal description of an extreme physical movement."
+          },
+          {
+            "when": "1900s",
+            "text": "The expression began appearing in English in the sense of making an exceptional effort."
+          },
+          {
+            "when": "Today",
+            "text": "Means making every effort to help, accommodate, or succeed."
+          }
+        ]
+      },
+      "similar": [
+        "Go out of your way",
+        "Go to great lengths",
+        "Pull out all the stops"
+      ],
+      "opposite": "Go out of your way to avoid",
+      "pitfall": "The singular form ‘bend over backward’ is also common in American English; keep the phrase in lowercase unless it begins a sentence or is part of a title."
+    },
+    {
+      "id": "big-name",
+      "kind": "idiom",
+      "term": "big name",
+      "pos": "idiom",
+      "hint": "someone famous and important",
+      "register": "Common at work",
+      "meaning": "A person who is famous, successful, or influential in a particular field.",
+      "nuance": "Usually complimentary, though it can suggest that someone is being treated as influential simply because of their reputation. Often used to introduce or describe a notable person.",
+      "literal": "A person whose name is widely known.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Conference · introducing a speaker",
+          "sentence": "We’re delighted that a big name in product design will be joining the panel.",
+          "highlight": "big name",
+          "tip": "Common when announcing a well-known expert, executive, or celebrity."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · talking about guests",
+          "sentence": "My cousin is a big name in radio, but she’s still surprisingly down to earth.",
+          "highlight": "big name",
+          "tip": "Use it when someone has a strong public reputation in a field."
+        },
+        {
+          "setting": "writing",
+          "where": "Industry report · market leaders",
+          "sentence": "The exhibition attracted several big names from the technology sector.",
+          "highlight": "big names",
+          "tip": "The plural form is often used for groups of prominent people."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the idea that a famous person’s name is “big” in public attention. Its exact first recorded use is difficult to establish.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression “big name” began to describe a person of considerable fame or importance."
+          },
+          {
+            "when": "1800s",
+            "text": "Print usage shows the phrase becoming established for prominent people."
+          },
+          {
+            "when": "Today",
+            "text": "It refers to someone famous or influential in a particular industry or field."
+          }
+        ]
+      },
+      "similar": [
+        "heavyweight",
+        "luminary",
+        "prominent figure"
+      ],
+      "pitfall": "A “big name” is usually a person, not a company or organisation."
+    },
+    {
+      "id": "big-picture",
+      "kind": "idiom",
+      "term": "big picture",
+      "pos": "idiom",
+      "hint": "the wider situation",
+      "register": "Common at work",
+      "meaning": "The overall situation, including the main facts, goals, and effects, rather than one small part.",
+      "nuance": "It helps you move from immediate details to a broader view. Use it when someone is focused too closely on a minor issue or needs context.",
+      "literal": "The entire scene or view, not just one detail.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · shifting priorities",
+          "sentence": "Let’s step back and focus on the big picture before changing the deadline.",
+          "highlight": "big picture",
+          "tip": "Common when redirecting a discussion toward goals, context, or wider effects."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · holiday plans",
+          "sentence": "We’re arguing about one afternoon when we should think about the big picture of the week.",
+          "highlight": "big picture",
+          "tip": "Use it gently when someone is focusing on a detail that matters less than the overall plan."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining delays",
+          "sentence": "Although the delay is frustrating, customers need to understand the big picture behind our revised timeline.",
+          "highlight": "big picture",
+          "tip": "Often introduces the main context or consequences behind specific facts."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely developed from visual art, where “picture” referred to a complete scene. It later broadened to mean the full context of a situation.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1900s",
+            "text": "The phrase appears in the sense of an entire visual scene or composition."
+          },
+          {
+            "when": "Mid-1900s",
+            "text": "Its use expands to include the wider situation or full context of an issue."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly means the broader view in work, discussion, and writing."
+          }
+        ]
+      },
+      "similar": [
+        "overall picture",
+        "wider context",
+        "broader context",
+        "whole story"
+      ],
+      "pitfall": "Say “in the big picture” when describing a broader view, rather than saying “in the big picture of the project.”"
+    },
+    {
+      "id": "birds-eye-view",
+      "kind": "idiom",
+      "term": "bird's-eye view",
+      "pos": "idiom",
+      "hint": "seeing the whole picture at once",
+      "register": "Common at work",
+      "meaning": "A broad overview of a subject or situation, showing the main details and how they relate.",
+      "nuance": "It suggests a clear, detached perspective rather than close-up detail. It is useful when someone wants an overview, a summary, or a quick understanding of a larger situation.",
+      "literal": "A view seen from high above, like the view from a bird.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning · reviewing a project",
+          "sentence": "Let’s start with a bird’s-eye view of the project before we discuss the individual tasks.",
+          "highlight": "bird’s-eye view",
+          "tip": "Natural when moving from overall strategy to specific details."
+        },
+        {
+          "setting": "social",
+          "where": "Talking about a busy trip",
+          "sentence": "Give me a bird’s-eye view of your week in Barcelona.",
+          "highlight": "bird’s-eye view",
+          "tip": "Use it when asking for a general summary, not every detail."
+        },
+        {
+          "setting": "writing",
+          "where": "Report introduction",
+          "sentence": "The report provides a bird’s-eye view of customer behaviour across the three main markets.",
+          "highlight": "bird’s-eye view",
+          "tip": "Common in reports and presentations when describing a broad overview."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the broad, elevated view seen by a bird. Its figurative use for an overview is well established, but the exact first recorded use is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The phrase originally referred literally to a view from a bird’s height."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers began using the expression for a broad perspective on a person, place, or situation."
+          },
+          {
+            "when": "Today",
+            "text": "It means an overview that shows the main features without close-up detail."
+          }
+        ]
+      },
+      "similar": [
+        "overview",
+        "wide-angle view",
+        "the bigger picture"
+      ],
+      "opposite": "close-up view",
+      "pitfall": "It describes an overview, not necessarily a shallow understanding; the view may still be informed and detailed in other ways."
+    },
+    {
+      "id": "blow-the-whistle",
+      "kind": "idiom",
+      "term": "blow the whistle",
+      "pos": "idiom",
+      "hint": "report something wrong",
+      "register": "Common at work",
+      "meaning": "To report wrongdoing or make a serious problem known to people who can act on it.",
+      "nuance": "It can describe either responsible reporting or, less neutrally, telling others about misconduct. The context determines whether the act is viewed as brave or disloyal.",
+      "literal": "Blowing a whistle to signal that something is wrong.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Internal audit · suspected fraud",
+          "sentence": "A former employee blew the whistle on repeated falsification of the accounts.",
+          "highlight": "blew the whistle",
+          "tip": "Often used when someone reports misconduct at work."
+        },
+        {
+          "setting": "social",
+          "where": "Community meeting · unsafe building",
+          "sentence": "Several tenants blew the whistle on the broken fire alarms in the apartment block.",
+          "highlight": "blew the whistle",
+          "tip": "Can also refer to exposing a danger that others have ignored."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · safety failures",
+          "sentence": "The inspector blew the whistle after finding that the protective equipment had been removed.",
+          "highlight": "blew the whistle",
+          "tip": "Common in reporting on investigations, compliance and public safety."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably comes from blowing a whistle as a public signal or warning. Its figurative use for informing others appears in the 1800s, while the later term whistleblower grew from the same idea.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The phrase begins appearing in writing for making a complaint or giving information."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "Its use becomes established for reporting wrongdoing, especially in business and government."
+          },
+          {
+            "when": "Today",
+            "text": "The related word whistleblower names someone who exposes misconduct or serious danger."
+          }
+        ]
+      },
+      "similar": [
+        "raise the alarm",
+        "speak up",
+        "expose wrongdoing",
+        "report misconduct"
+      ],
+      "opposite": "keep quiet",
+      "pitfall": "It means reporting or exposing a problem, not simply complaining loudly."
+    },
+    {
+      "id": "brain-drain",
+      "kind": "idiom",
+      "term": "brain drain",
+      "pos": "idiom",
+      "hint": "talent leaving a place",
+      "register": "Common at work",
+      "meaning": "The loss of skilled or educated people from a country, region, or organisation.",
+      "nuance": "It usually carries a concerned or critical tone, especially when talking about a country losing professionals to better opportunities elsewhere.",
+      "literal": "The best knowledge and skills flowing away from one place.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company strategy · retaining specialists",
+          "sentence": "The company faced a brain drain when several experienced engineers moved to competitors.",
+          "highlight": "brain drain",
+          "tip": "Common in business reporting about staff turnover and talent retention."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · friends leaving home",
+          "sentence": "Our town has suffered from brain drain as many young graduates moved abroad.",
+          "highlight": "brain drain",
+          "tip": "Often used when discussing migration, education, and work opportunities."
+        },
+        {
+          "setting": "writing",
+          "where": "Economics article · skilled migration",
+          "sentence": "The report links brain drain to a shortage of doctors and teachers in rural areas.",
+          "highlight": "brain drain",
+          "tip": "Useful in policy, economics, and education writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase became established in the 20th century as a metaphor for educated or skilled people leaving a country. Its earliest uses are difficult to trace with certainty.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 20th century",
+            "text": "Writers began using the expression for the movement of educated people away from their home countries."
+          },
+          {
+            "when": "Mid-20th century",
+            "text": "It became especially common in discussions of migration, national development, and the loss of skilled workers."
+          },
+          {
+            "when": "Today",
+            "text": "It describes the departure of talented people from a place, often because of better pay, careers, or living conditions elsewhere."
+          }
+        ]
+      },
+      "similar": [
+        "talent drain",
+        "staff turnover",
+        "emigration of skilled workers"
+      ],
+      "opposite": "brain gain",
+      "pitfall": "It describes movement away from a place, not simply someone leaving a job; the departure usually involves skilled or educated people."
+    },
+    {
+      "id": "bridge-the-gap",
+      "kind": "idiom",
+      "term": "bridge the gap",
+      "pos": "idiom",
+      "hint": "connect two separate things",
+      "register": "Common at work",
+      "meaning": "To connect two different things or reduce the difference between them.",
+      "nuance": "It often describes finding a practical way to bring separate groups, skills, or goals together. It can also mean closing a difference in performance, experience, or understanding.",
+      "literal": "Building a bridge across a space so people or things can connect.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · connecting teams",
+          "sentence": "The new project manager helped bridge the gap between design and engineering.",
+          "highlight": "bridge the gap",
+          "tip": "Often used when two teams need to communicate better."
+        },
+        {
+          "setting": "social",
+          "where": "Making new friends",
+          "sentence": "Joining the hobby group was a good way to bridge the gap between meeting people and actually talking to them.",
+          "highlight": "bridge the gap",
+          "tip": "Can describe removing awkwardness or creating a social connection."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report",
+          "sentence": "The training programme aims to bridge the gap between company policy and everyday practice.",
+          "highlight": "bridge the gap",
+          "tip": "Frequent in reports and explanations of efforts to connect ideas."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the idea of a physical bridge connecting two separated places. Its figurative use appeared in the 1800s and became especially common in discussions of differences between groups or ideas.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The phrase begins appearing in figurative writing about connecting different places, groups, or interests."
+          },
+          {
+            "when": "1900s",
+            "text": "It becomes common in education, business, and social contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It means connecting people or ideas, or reducing a noticeable difference."
+          }
+        ]
+      },
+      "similar": [
+        "close the gap",
+        "bring together",
+        "connect the dots"
+      ],
+      "opposite": "widen the gap",
+      "pitfall": "It usually describes a connection or a difference being reduced; it does not mean simply joining two activities."
+    },
+    {
+      "id": "buckle-down",
+      "kind": "idiom",
+      "term": "buckle down",
+      "pos": "idiom",
+      "hint": "get serious and focus",
+      "register": "Common at work",
+      "meaning": "To stop procrastinating and concentrate hard on a task or responsibility.",
+      "nuance": "It suggests determined effort, often after a period of delay. It can sound mildly critical, so use it carefully when addressing other people.",
+      "literal": "Bending down and fastening your belt.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · clearing a backlog",
+          "sentence": "We need to buckle down and clear the backlog before Friday.",
+          "highlight": "buckle down",
+          "tip": "Common when a team needs to focus and increase its effort."
+        },
+        {
+          "setting": "social",
+          "where": "Preparing for guests",
+          "sentence": "We should buckle down and clean this place before everyone arrives.",
+          "highlight": "buckle down",
+          "tip": "Works for getting serious about a shared household task."
+        },
+        {
+          "setting": "writing",
+          "where": "Business update · missed deadline",
+          "sentence": "After months of revisions, the team had to buckle down and submit the proposal.",
+          "highlight": "buckle down",
+          "tip": "Useful in reports when effort intensifies to meet a deadline."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase may have developed from the image of bending down to fasten a belt, suggesting settling into a task firmly. Its figurative sense is attested in the 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Buckle was used for fastening clothing and equipment, especially while bending down."
+          },
+          {
+            "when": "1800s",
+            "text": "Buckle down begins appearing in figurative use for applying oneself steadily to something."
+          },
+          {
+            "when": "Today",
+            "text": "It means focusing seriously on a task, especially one that has been delayed."
+          }
+        ]
+      },
+      "similar": [
+        "knuckle down",
+        "get down to work",
+        "focus",
+        "put your shoulder to the wheel"
+      ],
+      "opposite": "slack off",
+      "pitfall": "It usually means making a serious effort, not simply bending down or lowering your head."
+    },
+    {
+      "id": "buckle-up",
+      "kind": "idiom",
+      "term": "buckle up",
+      "pos": "idiom",
+      "hint": "get ready for what’s coming",
+      "register": "Common at work",
+      "meaning": "To prepare yourself for action, pressure or a difficult situation.",
+      "nuance": "It suggests getting focused and ready rather than merely making a quick effort. It fits when a team is about to face a demanding deadline, difficult conversation or sudden change.",
+      "literal": "Fastening a safety belt before a journey or race.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch planning · preparing for a difficult release",
+          "sentence": "The team needs to buckle up before Friday’s launch, because the final testing window is very tight.",
+          "highlight": "buckle up",
+          "tip": "Often used when the preparation period has been short."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · bracing for bad news",
+          "sentence": "Buckle up—I’m about to tell everyone what happened at the wedding.",
+          "highlight": "Buckle up",
+          "tip": "Sounds informal and can create suspense or a little humor."
+        },
+        {
+          "setting": "writing",
+          "where": "Business update · sudden market change",
+          "sentence": "Retailers should buckle up as the new regulations take effect next month.",
+          "highlight": "buckle up",
+          "tip": "Common in business reporting when a group must respond quickly."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from the practice of fastening seat belts in vehicles. Its figurative sense developed as drivers used it to mean preparing for the road ahead, then broadened to mean readying for any demanding event.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early–mid 1900s",
+            "text": "Seat belts and racing safety restraints become familiar features of motor vehicles."
+          },
+          {
+            "when": "Mid-1900s",
+            "text": "‘Buckle up’ is used literally for fastening a vehicle’s safety belt."
+          },
+          {
+            "when": "Later 1900s",
+            "text": "The phrase begins to mean getting ready for difficult or demanding activity."
+          }
+        ]
+      },
+      "similar": [
+        "brace yourself",
+        "get ready",
+        "gear up",
+        "batten down the hatches"
+      ],
+      "opposite": "let your guard down",
+      "pitfall": "In its literal sense, it means fastening a seat belt; avoid using it that way when you mean only preparing for a task."
+    },
+    {
+      "id": "clock-in",
+      "kind": "idiom",
+      "term": "clock in",
+      "pos": "verb",
+      "hint": "record your start time",
+      "register": "Common at work",
+      "meaning": "Record the time you begin work, usually by using a workplace time clock.",
+      "nuance": "This is mainly used for jobs where arrival and departure times are formally recorded. In casual conversation, it can simply mean arriving and starting your shift.",
+      "literal": "Punch a time card or use a time clock to mark the start of work.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Staff entrance · starting a shift",
+          "sentence": "Please clock in before the morning meeting begins.",
+          "highlight": "clock in",
+          "tip": "The opposite is ‘clock out’ at the end of the shift."
+        },
+        {
+          "setting": "social",
+          "where": "Café job · first shift",
+          "sentence": "I have to clock in by seven, so I’ll see you later.",
+          "highlight": "clock in",
+          "tip": "Common when telling someone when you are heading to work."
+        },
+        {
+          "setting": "writing",
+          "where": "Staff handbook · attendance rules",
+          "sentence": "Employees must clock in at their designated start time.",
+          "highlight": "clock in",
+          "tip": "Often paired with ‘by’ or ‘at’ when giving a time."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely developed from the use of mechanical workplace time clocks in the nineteenth century. As punched time cards became standard in the early twentieth century, ‘clock in’ came to mean recording one’s arrival at work.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Mechanical time clocks appear in workplaces to record workers’ arrival and departure times."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "Punched time cards become common, making it normal to ‘clock in’ and ‘clock out.’"
+          },
+          {
+            "when": "Today",
+            "text": "The phrase remains standard in workplaces that track attendance."
+          }
+        ]
+      },
+      "similar": [
+        "log in",
+        "sign in",
+        "check in"
+      ],
+      "opposite": "clock out",
+      "pitfall": "Do not confuse it with ‘log in’, which means accessing a computer system or online account."
+    },
+    {
+      "id": "connect-the-dots",
+      "kind": "idiom",
+      "term": "connect the dots",
+      "pos": "idiom",
+      "hint": "make the hidden picture",
+      "register": "Common at work and in conversation",
+      "meaning": "To understand how separate pieces of information relate to one another.",
+      "nuance": "Often used when evidence or observations begin to form a clear explanation. It can sound neutral or suggest that someone is uncovering a hidden pattern.",
+      "literal": "Joining separate dots to reveal a hidden picture.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · investigating delays",
+          "sentence": "We need to connect the dots before deciding whether the project is viable.",
+          "highlight": "connect the dots",
+          "tip": "Common when several details point to the same explanation."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · solving a mystery",
+          "sentence": "I had to connect the dots when she mentioned the missing keys and the open window.",
+          "highlight": "connect the dots",
+          "tip": "Natural when separate clues suddenly make sense together."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · analysing results",
+          "sentence": "The report connects the dots between customer feedback and declining sales.",
+          "highlight": "connects the dots",
+          "tip": "Useful for showing how several findings support one conclusion."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase grew from puzzle activities in which separate dots are joined to reveal a picture. Its figurative use developed from the idea of finding a pattern among disconnected pieces.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Connecting numbered dots becomes a common children’s puzzle activity."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression is used for both joining puzzle dots and understanding how separate facts fit together."
+          },
+          {
+            "when": "Today",
+            "text": "It means recognising a relationship between separate pieces of information."
+          }
+        ]
+      },
+      "similar": [
+        "piece together the puzzle",
+        "see the bigger picture",
+        "put two and two together"
+      ],
+      "pitfall": "The phrase does not automatically imply a conspiracy; it can simply mean finding the relationship between facts."
+    },
+    {
+      "id": "crack-down",
+      "kind": "idiom",
+      "term": "crack down",
+      "pos": "idiom",
+      "hint": "tighten control on rule-breaking",
+      "register": "Common at work",
+      "meaning": "To enforce rules more firmly or take stronger action to stop misconduct, disorder or a problem.",
+      "nuance": "It suggests increased pressure and tighter controls. It is often used when authorities, managers or communities respond to repeated wrongdoing.",
+      "literal": "Break something down or force it into smaller pieces.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · repeated policy breaches",
+          "sentence": "Security will crack down on badge sharing after three unauthorized entries this month.",
+          "highlight": "crack down on",
+          "tip": "Usually takes ‘on’ when the target of the stricter action is named."
+        },
+        {
+          "setting": "social",
+          "where": "Neighborhood group · late-night noise",
+          "sentence": "Residents want the council to crack down on noise from the new bar.",
+          "highlight": "crack down on",
+          "tip": "Natural when discussing a shared problem and a stronger response."
+        },
+        {
+          "setting": "writing",
+          "where": "Local news · unsafe driving",
+          "sentence": "Police have promised to crack down on dangerous driving around the school.",
+          "highlight": "crack down on",
+          "tip": "Common in reporting on enforcement and stricter penalties."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably developed from ‘crack’, meaning to split or break, combined with ‘down’. Its early sense involved breaking up or suppressing something, but the exact development is not clearly documented.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Early uses of ‘crack down’ referred to forcibly breaking up or suppressing something."
+          },
+          {
+            "when": "1900s",
+            "text": "The figurative meaning expanded into taking firm action to control wrongdoing or disorder."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly means enforcing rules more strictly or acting forcefully against a problem."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "crackdown",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "clamp down",
+        "tighten controls",
+        "step up enforcement"
+      ],
+      "opposite": "ease up",
+      "pitfall": "‘Crack down’ usually appears with ‘on’: ‘crack down on late arrivals,’ rather than ‘crack down late arrivals.’"
+    },
+    {
+      "id": "cut-ones-teeth",
+      "kind": "idiom",
+      "term": "cut one's teeth",
+      "pos": "idiom",
+      "hint": "gain experience the hard way",
+      "register": "Common at work",
+      "meaning": "To gain practical experience, especially during the early part of your career.",
+      "nuance": "It often suggests learning through real challenges rather than formal study alone. The phrase can sound encouraging when discussing someone’s early career.",
+      "literal": "The image of a child’s new teeth cutting through the gums.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · mentoring a new hire",
+          "sentence": "You’ll cut your teeth on a few difficult projects before you find your niche.",
+          "highlight": "cut your teeth",
+          "tip": "Often used when talking about early professional experience."
+        },
+        {
+          "setting": "social",
+          "where": "Chatting · someone’s first job",
+          "sentence": "She cut her teeth in busy restaurants and now manages a successful catering business.",
+          "highlight": "cut her teeth",
+          "tip": "Highlights the practical experience that shaped someone’s career."
+        },
+        {
+          "setting": "writing",
+          "where": "Company profile · career biography",
+          "sentence": "After cutting his teeth at two smaller firms, he joined the design team at a global charity.",
+          "highlight": "cutting his teeth",
+          "tip": "A natural choice for describing the formative stages of a career."
+        }
+      ],
+      "origin": {
+        "summary": "The figurative meaning is documented from the early 19th century and treats gaining experience like the painful process of new teeth emerging.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression develops from the physical process of new teeth cutting through the gums."
+          },
+          {
+            "when": "1830s",
+            "text": "The figurative meaning—gaining experience through difficult early work—appears in writing."
+          },
+          {
+            "when": "Today",
+            "text": "It describes the practical lessons that build someone’s skill or career."
+          }
+        ]
+      },
+      "similar": [
+        "pay one's dues",
+        "learn the ropes",
+        "get one's feet wet"
+      ],
+      "opposite": "be an overnight success",
+      "pitfall": "Use it for developing experience, not for physically cutting or losing a tooth."
+    },
+    {
+      "id": "cut-red-tape",
+      "kind": "idiom",
+      "term": "cut red tape",
+      "pos": "idiom",
+      "hint": "remove unnecessary bureaucracy",
+      "register": "Common at work",
+      "meaning": "To simplify a process by removing unnecessary rules, approvals, or paperwork.",
+      "nuance": "It suggests making a system faster and easier to use, often by removing administrative obstacles. It is positive, practical, and especially common in workplace and business contexts.",
+      "literal": "Cutting through the red tape tied around legal documents.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Internal approval · simplifying onboarding",
+          "sentence": "We can cut red tape by giving managers one approval tool instead of three separate forms.",
+          "highlight": "cut red tape",
+          "tip": "Often used when reducing delays, paperwork, or layers of approval."
+        },
+        {
+          "setting": "social",
+          "where": "Event planning · simplifying registration",
+          "sentence": "Let’s cut red tape and let guests register directly on the event website.",
+          "highlight": "cut red tape",
+          "tip": "Works casually when describing a needlessly complicated process."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · faster procurement",
+          "sentence": "The new system aims to cut red tape and reduce approval times for small purchases.",
+          "highlight": "cut red tape",
+          "tip": "A natural choice for reports, proposals, and workplace announcements."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from the red tape used to bind legal and official documents. By the early 1900s, “red tape” had come to mean official procedures and rules that delay action.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1700s",
+            "text": "Red tape was commonly used to bind bundles of legal and official documents."
+          },
+          {
+            "when": "1800s",
+            "text": "“Red tape” began to stand for official routines, paperwork, and formal procedures."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "“Cut red tape” appeared as a way of describing removing obstructive bureaucracy."
+          },
+          {
+            "when": "Today",
+            "text": "Means simplifying administrative or regulatory processes."
+          }
+        ]
+      },
+      "similar": [
+        "streamline the process",
+        "cut through the bureaucracy",
+        "bypass the red tape"
+      ],
+      "opposite": "add more paperwork",
+      "pitfall": "Use “cut red tape” for simplifying procedures; “cut corners” means reducing standards or skipping proper steps."
+    },
+    {
+      "id": "death-by-a-thousand-paper-cuts",
+      "kind": "idiom",
+      "term": "death by a thousand paper cuts",
+      "pos": "idiom",
+      "hint": "many small problems adding up",
+      "register": "Common at work",
+      "meaning": "A slow, frustrating process in which many minor problems or annoyances gradually become overwhelming.",
+      "nuance": "It emphasizes the cumulative effect of repeated irritations rather than one serious setback. The tone can be serious, weary or slightly humorous.",
+      "literal": "Being killed by a thousand tiny cuts from paper.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project handover · unfinished tasks",
+          "sentence": "After weeks of missing files, broken links and unanswered requests, the team felt like death by a thousand paper cuts.",
+          "highlight": "death by a thousand paper cuts",
+          "tip": "Useful when numerous small issues have made a project unnecessarily stressful."
+        },
+        {
+          "setting": "social",
+          "where": "Group trip · planning details",
+          "sentence": "One delayed train would have been fine, but all the last-minute changes added up to death by a thousand paper cuts.",
+          "highlight": "death by a thousand paper cuts",
+          "tip": "Often brings a touch of humor when describing minor everyday annoyances."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · process problems",
+          "sentence": "The service experienced death by a thousand paper cuts as slow approvals and minor errors frustrated customers every day.",
+          "highlight": "death by a thousand paper cuts",
+          "tip": "A vivid choice for explaining how repeated small failures created a larger problem."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is a modern variation on the older expression ‘death by a thousand cuts’. Its wording may reflect the Chinese proverb of the same general sense, but a direct borrowing has not been firmly established.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "The comparison between many small wounds and a fatal outcome appears in English writing."
+          },
+          {
+            "when": "1900s",
+            "text": "The form ‘death by a thousand cuts’ becomes established."
+          },
+          {
+            "when": "Later",
+            "text": "‘Paper cuts’ makes the image more vivid and suggests minor workplace or everyday irritations."
+          }
+        ]
+      },
+      "similar": [
+        "death by a thousand cuts",
+        "death by a thousand small cuts",
+        "a death of one thousand cuts"
+      ],
+      "opposite": "a painless victory",
+      "pitfall": "Use it for a cumulative problem, not a single painful event; for one serious blow, say ‘a killer blow’."
+    },
+    {
+      "id": "deep-dive",
+      "kind": "idiom",
+      "term": "deep dive",
+      "pos": "phrase",
+      "hint": "a very close look at something",
+      "register": "Common at work",
+      "meaning": "A detailed and careful examination of a subject, issue, or area of work.",
+      "nuance": "It suggests sustained attention and a thorough search for insight. It is common in workplaces and professional writing, but can sound informal in casual conversation.",
+      "literal": "A dive that goes far below the surface.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product review · customer complaints",
+          "sentence": "The support team did a deep dive into the complaints and found a confusing checkout step.",
+          "highlight": "deep dive",
+          "tip": "Common for focused analysis of a problem, dataset, or process."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · a complex story",
+          "sentence": "Want to hear the whole thing? It needs a deep dive, so give me a minute.",
+          "highlight": "deep dive",
+          "tip": "Informal, but natural among colleagues discussing something complicated."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · market research",
+          "sentence": "The report offers a deep dive into consumer spending across four major markets.",
+          "highlight": "deep dive",
+          "tip": "A useful phrase in reports and articles that promise detailed coverage."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase first described scuba diving and later came to mean examining a subject in depth. Its modern professional use developed from the idea of going below the surface to uncover more detail.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 20th century",
+            "text": "‘Deep dive’ appears in descriptions of extended or technical underwater diving."
+          },
+          {
+            "when": "Late 20th century",
+            "text": "The metaphor begins to be used for detailed investigation and analysis."
+          },
+          {
+            "when": "Today",
+            "text": "It is common shorthand for thorough research, analysis, or focused review."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "deep-dive",
+          "label": "verb"
+        },
+        {
+          "term": "deep-diver",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "close look",
+        "detailed review",
+        "thorough analysis",
+        "in-depth investigation"
+      ],
+      "opposite": "quick overview",
+      "pitfall": "A deep dive means careful attention to detail, not necessarily a difficult or emotionally profound experience."
+    },
+    {
+      "id": "dial-back",
+      "kind": "idiom",
+      "term": "dial back",
+      "pos": "idiom",
+      "hint": "reduce the intensity",
+      "register": "Common at work",
+      "meaning": "To reduce the intensity, force, or scope of something.",
+      "nuance": "It often suggests making a forceful situation or statement less intense. It can be practical advice or a way of asking someone to show more restraint.",
+      "literal": "Turn a control to a lower setting.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · heated discussion",
+          "sentence": "Could you dial back the criticism so we can focus on fixing the problem?",
+          "highlight": "dial back",
+          "tip": "Often used when feedback feels harsh or personal."
+        },
+        {
+          "setting": "social",
+          "where": "Text conversation · plans",
+          "sentence": "I know we’re excited, but let’s dial back the plan until we know everyone’s available.",
+          "highlight": "dial back",
+          "tip": "Use it when people are moving faster than the situation warrants."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · postponing a launch",
+          "sentence": "We may need to dial back the launch date until the final checks are complete.",
+          "highlight": "dial back",
+          "tip": "Common in workplace emails about deadlines, targets, or commitments."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the idea of adjusting a dial or control. Its figurative use became common in the later 20th century as businesses and media increasingly spoke about reducing pressure, force, or volume.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier 20th century",
+            "text": "Dialing a telephone number and adjusting mechanical controls provide the literal background."
+          },
+          {
+            "when": "Later 20th century",
+            "text": "‘Dial back’ begins to mean reducing effort, pressure, intensity, or scope."
+          },
+          {
+            "when": "Today",
+            "text": "Common in workplaces and everyday conversations for moderating a demand, statement, or activity."
+          }
+        ]
+      },
+      "similar": [
+        "scale back",
+        "tone down",
+        "ease off",
+        "calm down"
+      ],
+      "opposite": "ramp up",
+      "pitfall": "It usually means moderating something, not abandoning it completely."
+    },
+    {
+      "id": "draw-in",
+      "kind": "idiom",
+      "term": "draw in",
+      "pos": "verb",
+      "hint": "attract or recruit people",
+      "register": "Common at work",
+      "meaning": "To attract or recruit people, customers, or resources to become involved with something.",
+      "nuance": "It suggests bringing people into a business, group, conversation, or event. It can also describe encouraging someone to become more involved or interested.",
+      "literal": "Pulling someone or something inward toward a place or group.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Marketing · planning a campaign",
+          "sentence": "The new referral offer helped us draw in more paying customers.",
+          "highlight": "draw in",
+          "tip": "Common for describing how a business attracts customers, talent, or investment."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · welcoming guests",
+          "sentence": "A warm host can draw in even the quietest guests.",
+          "highlight": "draw in",
+          "tip": "Often means attracting people into a conversation, event, or social circle."
+        },
+        {
+          "setting": "writing",
+          "where": "Community announcement",
+          "sentence": "The series aims to draw in readers who are new to local history.",
+          "highlight": "draw in",
+          "tip": "Frequently used in campaigns, articles, and announcements about attracting an audience."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the literal idea of pulling something or someone inward. Its figurative sense of attracting or recruiting people became established during the 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The basic words ‘draw’ and ‘in’ could describe pulling something toward a person or place."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase began to be used for attracting or recruiting people into a business, movement, or other group."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes attracting customers, employees, supporters, or audiences."
+          }
+        ]
+      },
+      "similar": [
+        "attract",
+        "recruit",
+        "bring in",
+        "lure in"
+      ],
+      "opposite": "repel",
+      "pitfall": "‘Draw in’ can also mean inhale, as in ‘draw in a deep breath,’ or deceive someone, as in ‘draw in a scam victim.’"
+    },
+    {
+      "id": "drill-down",
+      "kind": "idiom",
+      "term": "drill down",
+      "pos": "phrase",
+      "hint": "go deeper into the details",
+      "register": "Common at work",
+      "meaning": "To examine information in progressively greater detail.",
+      "nuance": "Often used when analysis moves from a broad overview to specific figures, causes, or supporting evidence. It can suggest a focused search for useful detail.",
+      "literal": "Moving through successive levels by drilling progressively deeper.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Sales review · explaining a decline",
+          "sentence": "We drilled down into regional sales and found that two accounts caused most of the drop.",
+          "highlight": "drilled down into",
+          "tip": "Common when moving from a headline result to the details behind it."
+        },
+        {
+          "setting": "social",
+          "where": "Planning · comparing flats",
+          "sentence": "Let’s drill down into the rent, travel time, and local noise before we choose.",
+          "highlight": "drill down into",
+          "tip": "Natural when discussing several specific factors rather than a general impression."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · tracing performance",
+          "sentence": "The report drills down into customer segments to explain why retention improved.",
+          "highlight": "drills down into",
+          "tip": "Frequent in reports and presentations about data, trends, or performance."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is associated with computing, where users open increasingly detailed levels of information. Its exact first use is difficult to establish, but the business sense became common as data systems and reports grew more detailed.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1960s–1970s",
+            "text": "Computing systems commonly use the metaphor of moving through successive levels of information."
+          },
+          {
+            "when": "1980s–1990s",
+            "text": "The wording appears in technical and business contexts as a way to describe detailed analysis."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely used for examining data, costs, problems, or other subjects in more depth."
+          }
+        ]
+      },
+      "similar": [
+        "delve into",
+        "break down",
+        "dig deeper",
+        "deep dive"
+      ],
+      "pitfall": "In careful business writing, use “drill down into” when naming what is being examined; “drill down the data” is less natural."
+    },
+    {
+      "id": "drop-the-ball",
+      "kind": "idiom",
+      "term": "Drop the ball",
+      "pos": "idiom",
+      "hint": "fail to do your part",
+      "register": "Common at work",
+      "meaning": "To fail to complete a responsibility or make a mistake because you missed something.",
+      "nuance": "It suggests an avoidable failure or lapse in attention, often because a task was not properly handled.",
+      "literal": "Letting a ball fall instead of catching or retrieving it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project handover · missed deadline",
+          "sentence": "We dropped the ball by forgetting to send the client the revised proposal.",
+          "highlight": "dropped the ball",
+          "tip": "Useful when admitting that a mistake affected the team or a customer."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a trip · missed reservation",
+          "sentence": "I dropped the ball and forgot to confirm the restaurant before everyone arrived.",
+          "highlight": "dropped the ball",
+          "tip": "Often used with ‘by’ to explain what went wrong."
+        },
+        {
+          "setting": "writing",
+          "where": "Work retrospective · service failure",
+          "sentence": "The support team dropped the ball by not following up on the complaint within three days.",
+          "highlight": "dropped the ball",
+          "tip": "Common in reports and informal workplace reviews."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely comes from the idea of failing to catch or retrieve a ball during a game or performance. Its earliest precise use is difficult to establish, so the literal sporting explanation should be treated as likely rather than certain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1900s",
+            "text": "Sporting and everyday expressions begin using dropping or missing a ball as a picture for failure."
+          },
+          {
+            "when": "Mid-1900s",
+            "text": "The phrase becomes established for making an avoidable mistake or failing a responsibility."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes work, service or personal obligations that were not properly handled."
+          }
+        ]
+      },
+      "similar": [
+        "Fall short",
+        "Let down",
+        "Mess up"
+      ],
+      "pitfall": "Do not confuse it with ‘let the ball drop’, which means to stop pursuing an issue, often deliberately."
+    },
+    {
+      "id": "dry-run",
+      "kind": "idiom",
+      "term": "dry run",
+      "pos": "idiom",
+      "hint": "practice before the real thing",
+      "register": "Common at work",
+      "meaning": "A practice or rehearsal carried out without real stakes or full-scale activity.",
+      "nuance": "Suggests testing the process, identifying problems and getting ready for the real event. It can also mean a full trial under realistic conditions.",
+      "literal": "A rehearsal in which the equipment is not actually firing or operating.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · testing a release",
+          "sentence": "Let’s do a dry run of the presentation before tomorrow’s client meeting.",
+          "highlight": "dry run",
+          "tip": "Common for rehearsing a meeting, presentation or procedure."
+        },
+        {
+          "setting": "social",
+          "where": "Planning dinner · checking the menu",
+          "sentence": "We did a dry run of the dinner party by cooking one new dish first.",
+          "highlight": "dry run",
+          "tip": "Useful when testing a plan before committing to it fully."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial review · checking a headline",
+          "sentence": "The editor wanted a dry run of the campaign’s main message before publication.",
+          "highlight": "dry run",
+          "tip": "Often describes an early or preliminary version of a plan."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase began in military contexts, where a dry run was an exercise performed without live ammunition. It later broadened to describe rehearsals and tests of ordinary processes.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 20th century",
+            "text": "The expression appears in connection with military exercises that did not use live ammunition."
+          },
+          {
+            "when": "Mid-20th century",
+            "text": "Use broadens to include rehearsals of procedures and operations without full-scale effects."
+          },
+          {
+            "when": "Today",
+            "text": "Means a practice version of an event, process or piece of work."
+          }
+        ]
+      },
+      "similar": [
+        "trial run",
+        "practice run",
+        "rehearsal"
+      ],
+      "opposite": "live run",
+      "pitfall": "It does not necessarily mean something is incomplete; a dry run can closely imitate the real event."
+    }
+  ]
+}

@@ -1,0 +1,1681 @@
+{
+  "id": "words-size-amount-degree-2",
+  "kind": "word",
+  "name": "Size, amount & degree · 2",
+  "blurb": "25 words about size, amount & degree",
+  "cards": [
+    {
+      "id": "fluctuate",
+      "kind": "word",
+      "term": "fluctuate",
+      "pos": "verb",
+      "phonetic": "/ˈflʌktʃueɪt/",
+      "sayIt": "FLUK-chue-ayt",
+      "register": "Common at work",
+      "meaning": "To rise and fall repeatedly in number, amount, price or level.",
+      "nuance": "Neutral and precise, especially for figures that move up and down rather than changing steadily in one direction.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Sales meeting · reviewing demand",
+          "sentence": "Customer interest has fluctuated since we changed the pricing, so we should compare weekly figures.",
+          "highlight": "fluctuated",
+          "tip": "Use it when a value moves up and down over time."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a party · discussing attendance",
+          "sentence": "The number of guests keeps fluctuating, so wait until Friday before ordering food.",
+          "highlight": "fluctuating",
+          "tip": "It sounds natural when an uncertain count keeps changing."
+        },
+        {
+          "setting": "writing",
+          "where": "Market report · explaining prices",
+          "sentence": "Prices fluctuated throughout the quarter as supply and demand shifted.",
+          "highlight": "fluctuated",
+          "tip": "Common in reports about prices, demand, attendance, temperature or performance."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin fluctuare, meaning ‘to wave or undulate’, which developed into the idea of rising and falling.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "fluctuare means ‘to wave, move in waves’ and comes from fluctus, ‘a wave’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English for regular rises and falls in value or level."
+          },
+          {
+            "when": "Today",
+            "text": "Widely used for changing numbers, prices, demand, temperature and levels."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "fluctuation",
+          "label": "noun"
+        },
+        {
+          "term": "fluctuant",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "vary",
+        "oscillate",
+        "waver",
+        "rise and fall"
+      ],
+      "opposite": "remain stable",
+      "pitfall": "Use it for repeated movement in either direction; for a steady upward or downward trend, say ‘increase’ or ‘decrease’."
+    },
+    {
+      "id": "gamut",
+      "kind": "word",
+      "term": "gamut",
+      "pos": "noun",
+      "phonetic": "/ˈɡæmət/",
+      "sayIt": "GAM-ut",
+      "register": "Common at work and in writing",
+      "meaning": "The complete range of people, things, feelings or experiences in a particular area.",
+      "nuance": "It sounds formal and emphasizes variety or scope. It is especially useful when discussing a broad range of responses, abilities or possibilities.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing leadership",
+          "sentence": "The team demonstrated the full gamut of leadership skills, from delegation to conflict resolution.",
+          "highlight": "full gamut",
+          "tip": "Use it to show that someone or something covers a wide range of skills or behaviours."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · describing reactions",
+          "sentence": "Her comments covered the whole gamut of human behaviour, from patience to outright frustration.",
+          "highlight": "whole gamut",
+          "tip": "This sounds natural in thoughtful conversation but can sound slightly formal."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · describing customer feedback",
+          "sentence": "Customer responses included the entire gamut from enthusiastic praise to detailed complaints.",
+          "highlight": "entire gamut",
+          "tip": "Pair it with of to identify the range: “a gamut of emotions,” “a gamut of experiences.”"
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Latin gamut, meaning the whole range, and was connected with the musical range of notes before gaining its broader English sense.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Latin gamut meant the whole range and was associated with gamma, the third letter of the Greek alphabet."
+          },
+          {
+            "when": "Medieval period",
+            "text": "The term was used in music for the range of notes available to a musician or singer."
+          },
+          {
+            "when": "1800s",
+            "text": "English began using gamut figuratively for a complete range of people, things or experiences."
+          }
+        ]
+      },
+      "similar": [
+        "range",
+        "spectrum",
+        "array",
+        "variety"
+      ],
+      "opposite": "narrow range",
+      "pitfall": "Because gamut already means the whole range, phrases such as “the full gamut” may sound repetitive, though they are established in modern English."
+    },
+    {
+      "id": "glut",
+      "kind": "word",
+      "term": "glut",
+      "pos": "noun, verb",
+      "phonetic": "/ɡlʌt/",
+      "sayIt": "GLUT",
+      "register": "Formal; common in business and economics",
+      "meaning": "A glut is a supply of something so large that demand cannot absorb it; to glut something is to fill or supply it beyond what is needed.",
+      "nuance": "The word usually has a negative tone because it suggests waste, overcrowding or an imbalance between supply and demand.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Hiring meeting · reviewing applications",
+          "sentence": "A glut of qualified applicants made it difficult for the team to compare candidates fairly.",
+          "highlight": "glut",
+          "tip": "Common in business for an unexpectedly large supply of applicants, stock or capacity."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans · choosing an activity",
+          "sentence": "With a glut of evening events, we decided to stay home and cook instead.",
+          "highlight": "glut",
+          "tip": "Uses the noun to describe more options or opportunities than people can comfortably enjoy."
+        },
+        {
+          "setting": "writing",
+          "where": "Market report · analysing sales",
+          "sentence": "Cheap competitors may glut the market and force established sellers to reduce their prices.",
+          "highlight": "glut",
+          "tip": "Here the verb means to flood a market with products or make supply exceed demand."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Old English glot, meaning excess or abundance, and later developed both noun and verb meanings.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "Glot meant excess, surplus or abundance."
+          },
+          {
+            "when": "Middle English",
+            "text": "The noun was used for an excessive amount, especially of food or goods."
+          },
+          {
+            "when": "1500s onward",
+            "text": "The verb developed the sense of filling or supplying something beyond its capacity."
+          },
+          {
+            "when": "Today",
+            "text": "Glut commonly describes oversupply in markets and excessive competition."
+          }
+        ]
+      },
+      "similar": [
+        "surplus",
+        "excess",
+        "oversupply",
+        "saturation"
+      ],
+      "opposite": "shortage",
+      "pitfall": "A glut suggests an excessive and usually unwanted supply, not simply a plentiful one."
+    },
+    {
+      "id": "grandeur",
+      "kind": "word",
+      "term": "grandeur",
+      "pos": "noun",
+      "phonetic": "/ɡrænˈdʒʊr/",
+      "sayIt": "grand-JOOR",
+      "register": "Formal",
+      "meaning": "A sense of impressive beauty, dignity, or importance, often associated with something powerful or awe-inspiring.",
+      "nuance": "It is a admiring word that gives something a grand, memorable quality. It can describe architecture, landscapes, achievements, or a person’s presence, but it sounds more elevated than everyday praise.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company presentation · introducing a flagship project",
+          "sentence": "The new headquarters reflects the grandeur of the organization and its long-term ambitions.",
+          "highlight": "grandeur",
+          "tip": "Use it when describing something impressive in scale, design, or significance."
+        },
+        {
+          "setting": "social",
+          "where": "Tour of a historic building · discussing its architecture",
+          "sentence": "The columns and sweeping staircase give the old town hall a real sense of grandeur.",
+          "highlight": "grandeur",
+          "tip": "It works well when the setting has impressive scale, history, or visual drama."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel article · describing a famous landmark",
+          "sentence": "The castle’s grandeur is most striking from the ridge, where the whole valley opens below it.",
+          "highlight": "grandeur",
+          "tip": "Pair it with details that show why the place feels grand rather than merely large."
+        }
+      ],
+      "origin": {
+        "summary": "Borrowed from French grandeur, a word built from grand and an ending meaning ‘state’ or ‘quality’. Its roots go back to Latin grandis, meaning ‘large’ or ‘great’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Grandis means ‘large’, ‘great’, or ‘distinguished’."
+          },
+          {
+            "when": "1500s",
+            "text": "French develops grandeur, meaning greatness or dignity."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English, initially in formal and elevated contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It describes impressive beauty, scale, dignity, or importance."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "grand",
+          "label": "adjective"
+        },
+        {
+          "term": "grandly",
+          "label": "adverb"
+        },
+        {
+          "term": "grandiose",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "magnificence",
+        "splendor",
+        "majesty",
+        "grandeur"
+      ],
+      "opposite": "humility",
+      "pitfall": "Grandeur describes an impressive quality, while grandiose can suggest an exaggerated or overly showy claim."
+    },
+    {
+      "id": "havoc",
+      "kind": "word",
+      "term": "havoc",
+      "pos": "noun",
+      "phonetic": "/ˈhævək/",
+      "sayIt": "HAV-uhk",
+      "register": "Common at work and in everyday speech",
+      "meaning": "Widespread destruction, damage or disorder.",
+      "nuance": "It is stronger and more dramatic than “trouble” or “damage.” It often suggests that a situation has become seriously chaotic or destructive.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · discussing a failed launch",
+          "sentence": "The release caused havoc for the support team, who handled thousands of complaints in two days.",
+          "highlight": "caused havoc",
+          "tip": "Use it when the effects are serious, widespread and disruptive."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · an unexpected cancellation",
+          "sentence": "When the venue closed at the last minute, the wedding party was in havoc.",
+          "highlight": "in havoc",
+          "tip": "This phrase describes people scrambling to respond to a sudden crisis."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · severe weather",
+          "sentence": "Severe storms left the region in havoc, cutting power to thousands of homes.",
+          "highlight": "in havoc",
+          "tip": "The phrase adds a vivid sense of widespread disorder to a report."
+        }
+      ],
+      "origin": {
+        "summary": "The word came through Old French from Welsh, where it referred to destruction. Its modern sense developed from that original meaning.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Welsh",
+            "text": "The source word meant “to destroy” or “destruction.”"
+          },
+          {
+            "when": "Middle English",
+            "text": "The word entered English through Old French, initially referring to damaging or destroying."
+          },
+          {
+            "when": "Today",
+            "text": "It means serious destruction, damage or disorder."
+          }
+        ]
+      },
+      "similar": [
+        "mayhem",
+        "chaos",
+        "devastation",
+        "upheaval"
+      ],
+      "opposite": "order",
+      "pitfall": "Havoc is normally singular. Say “cause havoc,” not “causes havocs.”"
+    },
+    {
+      "id": "heterogeneous",
+      "kind": "word",
+      "term": "heterogeneous",
+      "pos": "adjective",
+      "phonetic": "/ˌhɛtərəˈdʒiːniəs/",
+      "sayIt": "HET-uh-ruh-JEE-nee-us",
+      "register": "Formal",
+      "meaning": "Made up of elements that are different from one another in type, nature or quality.",
+      "nuance": "Often used in academic, technical or analytical contexts to show that a group is mixed rather than uniform. It describes variety within a whole, not simply unrelated items placed side by side.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team review · comparing customer data",
+          "sentence": "The team analysed a heterogeneous dataset drawn from regions with different income levels and purchasing habits.",
+          "highlight": "heterogeneous",
+          "tip": "Use it when data or groups contain meaningful differences that may affect the analysis."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception · introducing guests",
+          "sentence": "It was a wonderfully heterogeneous group, with people from different professions, cities and family backgrounds.",
+          "highlight": "heterogeneous",
+          "tip": "It sounds more precise than mixed, especially when describing a group or collection."
+        },
+        {
+          "setting": "writing",
+          "where": "Research proposal · describing participants",
+          "sentence": "A heterogeneous sample of 200 adults was recruited to represent a wider range of experiences.",
+          "highlight": "heterogeneous",
+          "tip": "This is a natural choice in research reports when sample participants differ across several characteristics."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek heterogenēs, combining heteros, ‘different’, and genos, ‘kind’, so the original sense was ‘of a different kind’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "Heterogenēs is formed from heteros, ‘different’, and genos, ‘kind’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with the sense ‘of a different kind or nature’."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes a group or collection containing varied elements."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "heterogeneity",
+          "label": "noun"
+        },
+        {
+          "term": "heterogeneously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "diverse",
+        "varied",
+        "mixed",
+        "disparate"
+      ],
+      "opposite": "homogeneous",
+      "pitfall": "Don’t use it as a general synonym for diverse; it often suggests that the differences within a defined group are relevant to analysis."
+    },
+    {
+      "id": "imperceptible",
+      "kind": "word",
+      "term": "imperceptible",
+      "pos": "adjective",
+      "phonetic": "/ɪm.pərˈsep.tə.bəl/",
+      "sayIt": "im-per-SEP-tuh-bul",
+      "register": "Formal",
+      "meaning": "Too small, slight, or subtle to be noticed by the senses or the mind.",
+      "nuance": "It often suggests that an effect or change is real but easy to miss. The word sounds precise and technical, so it suits formal or analytical writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing a decline",
+          "sentence": "The decline in customer complaints was almost imperceptible, but the latest figures confirm a modest improvement.",
+          "highlight": "imperceptible",
+          "tip": "Use it when a change matters but is difficult to detect."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · describing a subtle reaction",
+          "sentence": "Her embarrassment was imperceptible, yet the silence between them felt unmistakable.",
+          "highlight": "imperceptible",
+          "tip": "It can create contrast by placing an unnoticed feeling beside an obvious response."
+        },
+        {
+          "setting": "writing",
+          "where": "Research report · describing gradual change",
+          "sentence": "Over several months, the corrosion became imperceptible to the unaided eye.",
+          "highlight": "imperceptible",
+          "tip": "Pairs naturally with gradual, subtle and virtually undetectable."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin imperceptibilis, meaning ‘not able to be perceived’, built on percipere, ‘to perceive or notice’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Imperceptibilis is formed from in-, ‘not’, and percipere, ‘to perceive’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English in scholarly and scientific writing."
+          },
+          {
+            "when": "Today",
+            "text": "It describes anything too subtle to notice or detect."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "imperceptibility",
+          "label": "noun"
+        },
+        {
+          "term": "imperceptibly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "imperceptible",
+        "indiscernible",
+        "undetectable",
+        "insignificant"
+      ],
+      "opposite": "perceptible",
+      "pitfall": "Imperceptible means ‘not noticeable’, not ‘without importance’; a tiny detail can be imperceptible but still significant."
+    },
+    {
+      "id": "inordinate",
+      "kind": "word",
+      "term": "inordinate",
+      "pos": "adjective",
+      "phonetic": "/ɪnˈɔːrdɪnət/",
+      "sayIt": "in-OR-di-nate",
+      "register": "Formal",
+      "meaning": "Exceeding what is normal, reasonable, or proportionate.",
+      "nuance": "Often sounds critical or disapproving, especially when describing time, costs, or behaviour. It can also sound old-fashioned, so use it when a more dramatic tone suits the context.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget review · unexpected costs",
+          "sentence": "The project has taken an inordinate amount of time to approve.",
+          "highlight": "inordinate",
+          "tip": "Use it to question delays, expenses, or demands that seem excessive."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a party · guest list",
+          "sentence": "They spent an inordinate amount of effort coordinating a dinner for twelve people.",
+          "highlight": "inordinate",
+          "tip": "It adds a slightly humorous, formal note to a complaint about excess."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · operational review",
+          "sentence": "Inordinate delays have placed the migration schedule at risk.",
+          "highlight": "Inordinate",
+          "tip": "Keep it for writing where a firm, professional tone is appropriate."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin inordinatus, meaning disordered or excessive, built from in- meaning ‘not’ and ordo meaning ‘order’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "The roots in- ‘not’ and ordo ‘order’ appear in forms meaning disordered or not properly arranged."
+          },
+          {
+            "when": "1600s",
+            "text": "Inordinate enters English with the sense of excessive or beyond proper limits."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal writing for amounts that are disproportionately large."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "inordinately",
+          "label": "adverb"
+        },
+        {
+          "term": "inordination",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "excessive",
+        "disproportionate",
+        "unreasonable",
+        "overblown"
+      ],
+      "opposite": "moderate",
+      "pitfall": "Pronounce the middle syllable OR, not ORD: in-OR-di-nate."
+    },
+    {
+      "id": "inundate",
+      "kind": "word",
+      "term": "inundate",
+      "pos": "verb",
+      "phonetic": "/ɪˈnʌndeɪt/",
+      "sayIt": "in-UN-dayt",
+      "register": "Formal",
+      "meaning": "To overwhelm someone or something with a very large amount of information, requests, problems or attention.",
+      "nuance": "Often used when demands, messages or difficulties arrive faster than someone can manage. It can sound dramatic, so use it for a genuinely overwhelming situation rather than an ordinary busy period.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Customer support · handling a spike",
+          "sentence": "A product recall inundated the support team with urgent questions from customers.",
+          "highlight": "inundated",
+          "tip": "Use it to show that a team is receiving far more work than it can normally handle."
+        },
+        {
+          "setting": "social",
+          "where": "Community event · organising volunteers",
+          "sentence": "The organisers were inundated with offers of help after the event was cancelled.",
+          "highlight": "inundated",
+          "tip": "It can describe an overwhelming response, even when the extra attention is welcome."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining risk",
+          "sentence": "Frequent changes may inundate stakeholders with detail and make priorities harder to see.",
+          "highlight": "inundate",
+          "tip": "In formal writing, it is useful for showing the scale of a communication or operational problem."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin inundare, ‘to flood or overwhelm’, built from in- and unda, meaning ‘wave’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "inundare, ‘to flood; to overwhelm’, from unda, ‘wave’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word appears in English, initially meaning to flood or submerge."
+          },
+          {
+            "when": "1800s",
+            "text": "It develops the figurative sense of being overwhelmed by people, information or problems."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "inundation",
+          "label": "noun"
+        },
+        {
+          "term": "inundated",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "overwhelm",
+        "flood",
+        "swamp",
+        "deluge"
+      ],
+      "pitfall": "Inundate usually describes an excessive amount of something; it does not simply mean to place something in liquid."
+    },
+    {
+      "id": "lavish",
+      "kind": "word",
+      "term": "lavish",
+      "pos": "adjective",
+      "phonetic": "/ˈlævɪʃ/",
+      "sayIt": "LAV-ish",
+      "register": "Common at work",
+      "meaning": "Generous, elaborate, or plentiful in an impressive or sometimes excessive way.",
+      "nuance": "It can suggest warm generosity, such as lavish praise, but also extravagance or waste. The meaning depends on what is being described.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team celebration · thanking colleagues",
+          "sentence": "The team gave the retiring manager a lavish farewell, with dinner, gifts and speeches.",
+          "highlight": "lavish",
+          "tip": "Use it for generosity that feels generous, abundant or especially elaborate."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception · describing the venue",
+          "sentence": "They held a lavish reception in a restored mansion overlooking the river.",
+          "highlight": "lavish",
+          "tip": "Often describes impressive luxury, plentiful food, elaborate decoration or extravagant spending."
+        },
+        {
+          "setting": "writing",
+          "where": "Event report · describing the catering",
+          "sentence": "The report praised the lavish catering but questioned the venue’s high cost.",
+          "highlight": "lavish",
+          "tip": "It works well before praise, praise itself, hospitality, spending or decoration."
+        }
+      ],
+      "origin": {
+        "summary": "The word probably developed from an Old French word associated with abundance or generosity before entering Middle English.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Old French",
+            "text": "Its origin is linked to a word meaning abundance, generosity or something given freely."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word appears in English and begins to develop its modern sense."
+          },
+          {
+            "when": "Today",
+            "text": "It describes generosity, luxury, elaborate abundance or, sometimes, wasteful excess."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "lavishly",
+          "label": "adverb"
+        },
+        {
+          "term": "lavishness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "generous",
+        "extravagant",
+        "elaborate",
+        "opulent",
+        "abundant"
+      ],
+      "opposite": "modest",
+      "pitfall": "Don’t use lavish as a verb unless you mean to give something generously; as a verb, it is usually followed by an object, as in “lavish attention on someone.”"
+    },
+    {
+      "id": "longevity",
+      "kind": "word",
+      "term": "longevity",
+      "pos": "noun",
+      "phonetic": "/lɒnˈdʒɛvəti/",
+      "sayIt": "lon-JEV-uh-tee",
+      "register": "Formal and professional",
+      "meaning": "A long life, or the ability of something to remain effective or successful for many years.",
+      "nuance": "Most often refers to how long a person lives, but it can also describe lasting success, usefulness or value. It sounds more formal than lifespan.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company review · discussing growth",
+          "sentence": "The company’s longevity depends on keeping its services relevant as customer needs change.",
+          "highlight": "longevity",
+          "tip": "Use it to discuss long-term survival, stability or continued success."
+        },
+        {
+          "setting": "social",
+          "where": "Family celebration · honouring a relative",
+          "sentence": "We gathered to celebrate Grandma’s longevity with dinner, stories and her favourite cake.",
+          "highlight": "longevity",
+          "tip": "A warm, slightly formal way to praise someone for living a long life."
+        },
+        {
+          "setting": "writing",
+          "where": "Research summary · comparing materials",
+          "sentence": "The report compares the longevity of three battery technologies under extreme temperatures.",
+          "highlight": "longevity",
+          "tip": "It can describe how long a product, system or idea is expected to last."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin longaevitas, meaning long life, built on longus, ‘long’, and aetas, ‘age’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Longaevitas combines longus, ‘long’, with aetas, ‘age’ or ‘lifetime’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English, initially referring to a long life."
+          },
+          {
+            "when": "Today",
+            "text": "It also describes the lasting value or success of people, products and ideas."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "long-lived",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "lifespan",
+        "durability",
+        "permanence",
+        "endurance"
+      ],
+      "opposite": "brevity",
+      "pitfall": "Don’t confuse longevity with longitude, which is a position measured east or west."
+    },
+    {
+      "id": "mammoth",
+      "kind": "word",
+      "term": "mammoth",
+      "pos": "adjective",
+      "phonetic": "/ˈmæməθ/",
+      "sayIt": "MAM-uth",
+      "register": "Common at work",
+      "meaning": "Extremely large in size, scale, effort or importance.",
+      "nuance": "It emphasizes how unusually big or demanding something is, often making the situation sound impressive or daunting.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · tackling a backlog",
+          "sentence": "Migrating the old database is a mammoth task, so we should split it into smaller stages.",
+          "highlight": "mammoth",
+          "tip": "Use it for projects, tasks or changes that require exceptional effort."
+        },
+        {
+          "setting": "social",
+          "where": "Family dinner · announcing a new home",
+          "sentence": "They prepared a mammoth feast for everyone who came to celebrate.",
+          "highlight": "mammoth",
+          "tip": "A playful way to describe an unusually large amount of food."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · reviewing performance",
+          "sentence": "The company achieved mammoth growth despite a difficult economic year.",
+          "highlight": "mammoth",
+          "tip": "Works well before nouns such as growth, task, project or undertaking."
+        }
+      ],
+      "origin": {
+        "summary": "The word originally referred to the large prehistoric elephant. Its sense of ‘enormous’ developed from the animal’s great size.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "The word is generally traced to a Greek term referring to an elephant."
+          },
+          {
+            "when": "17th century",
+            "text": "Entered English as the name of the prehistoric elephant."
+          },
+          {
+            "when": "18th century onward",
+            "text": "Developed the figurative sense of something extremely large."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "mammoth",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "enormous",
+        "colossal",
+        "gigantic",
+        "immense",
+        "huge"
+      ],
+      "opposite": "tiny",
+      "pitfall": "As a noun, a mammoth is a prehistoric elephant; as an adjective, it means exceptionally large."
+    },
+    {
+      "id": "manifold",
+      "kind": "word",
+      "term": "manifold",
+      "pos": "adjective",
+      "phonetic": "/ˈmænɪfəʊld/",
+      "sayIt": "MAN-i-fold",
+      "register": "Formal",
+      "meaning": "Existing in many different forms, aspects or examples.",
+      "nuance": "This gives a grand, polished tone and is common in writing. In conversation, a plainer word such as “many” or “various” may sound more natural.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · identifying risks",
+          "sentence": "The pilot uncovered manifold risks, including unclear ownership and several unmet compliance requirements.",
+          "highlight": "manifold",
+          "tip": "Use it before a plural noun when you want to suggest that several different issues are involved."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding toast · praising a friend",
+          "sentence": "Her kindness, quick wit and generosity make her a truly remarkable person in manifold ways.",
+          "highlight": "manifold",
+          "tip": "This sounds complimentary but slightly ceremonial, so it suits speeches more than casual chat."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · evaluating growth",
+          "sentence": "The organisation experienced manifold changes during the year, from new leadership to a complete redesign of its customer service.",
+          "highlight": "manifold",
+          "tip": "It works well in formal reports to add emphasis without listing every example."
+        }
+      ],
+      "origin": {
+        "summary": "Manifold developed from an Old English expression meaning “many” or “numerous.” Its later technical meanings refer to branching pipes and parts with multiple openings.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The word appeared as manigfeald, combining elements meaning “many” and “countless.”"
+          },
+          {
+            "when": "Middle English",
+            "text": "It was used for large numbers and for things existing in many forms."
+          },
+          {
+            "when": "1800s",
+            "text": "The engineering sense developed for pipes and valves with several branches."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "manifoldly",
+          "label": "adverb"
+        },
+        {
+          "term": "manifold",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "many",
+        "numerous",
+        "various",
+        "multifaceted"
+      ],
+      "pitfall": "Manifold can also be a noun: in an engine, it is a pipe or chamber with several connections."
+    },
+    {
+      "id": "monolithic",
+      "kind": "word",
+      "term": "monolithic",
+      "pos": "adjective",
+      "phonetic": "/ˌmɒnəˈlɪθɪk/",
+      "sayIt": "MON-uh-LITH-ik",
+      "register": "Formal",
+      "meaning": "Made as one solid, unified whole, especially a structure built from a single mass of material.",
+      "nuance": "Figuratively, it describes organizations or systems that seem difficult to separate, change or influence. It can sound neutral when discussing architecture but critical when describing rigid institutions.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · planning a system change",
+          "sentence": "Replacing the monolithic application will take longer, but it will let teams update features independently.",
+          "highlight": "monolithic",
+          "tip": "Often criticises a system that is tightly unified and hard to change."
+        },
+        {
+          "setting": "social",
+          "where": "Housewarming · comparing buildings",
+          "sentence": "Her new apartment block is monolithic, but the shared terrace makes it feel welcoming.",
+          "highlight": "monolithic",
+          "tip": "Use it for a large structure that looks like one solid mass."
+        },
+        {
+          "setting": "writing",
+          "where": "Company profile · describing corporate culture",
+          "sentence": "The company was once monolithic, with every major decision made by the same central team.",
+          "highlight": "monolithic",
+          "tip": "A vivid way to suggest that decisions and power are concentrated in one place."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek monolithos, meaning ‘single-stone’, and built from monos, ‘single’, and lithos, ‘stone’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Monolithos refers to something made from a single stone."
+          },
+          {
+            "when": "1800s",
+            "text": "The word enters English for both large stone structures and systems formed as one unified whole."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in architecture, technology and discussions of centralized organisations."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "monolith",
+          "label": "noun"
+        },
+        {
+          "term": "monolithically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "unified",
+        "indivisible",
+        "centralized",
+        "rigid"
+      ],
+      "opposite": "modular",
+      "pitfall": "Monolithic does not simply mean large; the key idea is that the parts form one inseparable whole."
+    },
+    {
+      "id": "myriad",
+      "kind": "word",
+      "term": "myriad",
+      "pos": "adjective",
+      "phonetic": "/ˈmɪri.əd/",
+      "sayIt": "MEER-ee-ud",
+      "register": "Formal",
+      "meaning": "A great many; so numerous that the number is hard to imagine.",
+      "nuance": "It sounds polished and literary rather than conversational. Use it for people, examples, options or problems when you want to stress how many there are.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · comparing proposals",
+          "sentence": "We received a myriad of proposals, but only three fit the budget and timeline.",
+          "highlight": "myriad",
+          "tip": "Use it in formal reports or presentations when describing a large number of possibilities."
+        },
+        {
+          "setting": "social",
+          "where": "Family dinner · talking about hobbies",
+          "sentence": "She has a myriad of interests, ranging from baking to astronomy.",
+          "highlight": "myriad",
+          "tip": "It adds an elegant touch when describing someone with many interests."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel article · describing a city",
+          "sentence": "The old town contains a myriad of cafés, each with its own distinctive menu.",
+          "highlight": "myriad",
+          "tip": "Use it when the exact number is unimportant and the abundance is the point."
+        }
+      ],
+      "origin": {
+        "summary": "From the Greek myriados, meaning ‘ten thousand’, which became a poetic way of saying ‘countless’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Myriados referred to a group of ten thousand."
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered English with the sense of a very large number."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used to describe a great many people, things or examples."
+          }
+        ]
+      },
+      "similar": [
+        "countless",
+        "numerous",
+        "many",
+        "innumerable"
+      ],
+      "opposite": "scarce",
+      "pitfall": "Spell it myriad, with an ‘i’ after the ‘r’. Avoid the incorrect form myraid."
+    },
+    {
+      "id": "nadir",
+      "kind": "word",
+      "term": "nadir",
+      "pos": "noun",
+      "phonetic": "/ˈneɪ.dər/",
+      "sayIt": "NAY-der",
+      "register": "Formal",
+      "meaning": "The lowest point in someone's career, fortunes, health, or emotional state.",
+      "nuance": "A strong, slightly literary word for a time when conditions or prospects are at their worst. It can describe personal difficulties as well as business or public decline.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · reflecting on a difficult year",
+          "sentence": "The team reached a nadir after two products failed and half the clients left.",
+          "highlight": "nadir",
+          "tip": "Use it for the lowest stage in a clear series of setbacks or losses."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · describing a difficult period",
+          "sentence": "After months of searching, he finally found work and began recovering from what had been a real nadir.",
+          "highlight": "nadir",
+          "tip": "It sounds more dramatic than simply saying someone had a bad time."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · reviewing a company’s performance",
+          "sentence": "Customer confidence fell to a nadir before the new leadership team introduced a clearer pricing plan.",
+          "highlight": "nadir",
+          "tip": "This gives a formal, precise tone when describing a sharp decline."
+        }
+      ],
+      "origin": {
+        "summary": "From Arabic nadīr, meaning the point directly opposite the zenith. The word entered European languages through medieval astronomy.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Medieval period",
+            "text": "Borrowed from Arabic nadīr, ‘the opposite point’, in astronomical writing."
+          },
+          {
+            "when": "1600s",
+            "text": "Established in English for the lowest point, originally in astronomy."
+          },
+          {
+            "when": "Today",
+            "text": "Widely used for the worst stage in a person's fortunes, career, health, or mood."
+          }
+        ]
+      },
+      "similar": [
+        "low point",
+        "rock bottom",
+        "antipode"
+      ],
+      "opposite": "zenith",
+      "pitfall": "A nadir is the lowest point, so it normally implies a clear stage of decline rather than any ordinary bad moment."
+    },
+    {
+      "id": "negligible",
+      "kind": "word",
+      "term": "negligible",
+      "pos": "adjective",
+      "phonetic": "/nɪɡˈlɪdʒəbəl/",
+      "sayIt": "NEG-li-juh-buhl",
+      "register": "Common at work",
+      "meaning": "So small or unimportant that it does not affect the result.",
+      "nuance": "A formal and precise way to say something is too small to matter. It is useful in reports, reviews and careful estimates, but can sound overly technical in casual conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget review · comparing costs",
+          "sentence": "The difference between the two plans is negligible, so we should choose the cheaper option.",
+          "highlight": "negligible",
+          "tip": "Use it to show that a difference is too small to be important."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a meal · discussing prices",
+          "sentence": "The extra charge is negligible, so let’s order the dish with the side salad.",
+          "highlight": "negligible",
+          "tip": "It sounds more considered than saying the cost does not really matter."
+        },
+        {
+          "setting": "writing",
+          "where": "Project report · evaluating risks",
+          "sentence": "The risk of a minor delay is negligible, although we should still inform the client.",
+          "highlight": "negligible",
+          "tip": "Strong in reports when you need to weigh a risk without exaggerating it."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin neglegere, meaning ‘to disregard’ or ‘treat as of little importance’, with the ending -ible added later.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root neglegere meant ‘to overlook’ or ‘treat as unimportant’."
+          },
+          {
+            "when": "1600s",
+            "text": "English began using the form with the sense of ‘not worth considering’."
+          },
+          {
+            "when": "Today",
+            "text": "It means so small or unimportant that it can safely be ignored."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "negligibly",
+          "label": "adverb"
+        },
+        {
+          "term": "negligibility",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "trivial",
+        "insignificant",
+        "minimal",
+        "inconsequential"
+      ],
+      "opposite": "significant",
+      "pitfall": "Don’t use it to mean simply unimportant; it specifically suggests that the amount or effect is too small to matter."
+    },
+    {
+      "id": "octogenarian",
+      "kind": "word",
+      "term": "octogenarian",
+      "pos": "noun",
+      "phonetic": "/ˌɒktəʊdʒəˈneəriən/",
+      "sayIt": "ok-toh-juh-NAIR-ee-uhn",
+      "register": "Everyday",
+      "meaning": "A person who is between 80 and 89 years old.",
+      "nuance": "This is a neutral, factual label based on age. It is more specific than simply calling someone an elderly person.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company event · introducing a guest",
+          "sentence": "Our former director, now an octogenarian, gave us an excellent speech about career changes.",
+          "highlight": "octogenarian",
+          "tip": "Use it when the person’s exact age range is relevant or worth noting respectfully."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · discussing a birthday",
+          "sentence": "My grandmother is an octogenarian, but she still plans every family holiday herself.",
+          "highlight": "octogenarian",
+          "tip": "It can sound respectful and matter-of-fact without making age the main focus."
+        },
+        {
+          "setting": "writing",
+          "where": "Article profile · describing an author",
+          "sentence": "The octogenarian author published her latest novel after nearly four decades of writing.",
+          "highlight": "octogenarian",
+          "tip": "This concise label works well in a profile when the writer’s age is part of the story."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin octogenarius, meaning ‘eightieth’, related to octo, ‘eight’. English borrowed the word in the 1800s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Octogenarius means ‘eightieth’ and comes from octo, ‘eight’."
+          },
+          {
+            "when": "1800s",
+            "text": "The word enters English and is used for a person in their eighties."
+          },
+          {
+            "when": "Today",
+            "text": "It specifically refers to someone aged 80 to 89."
+          }
+        ]
+      },
+      "similar": [
+        "nonagenarian",
+        "centenarian",
+        "octogenarian",
+        "elder"
+      ],
+      "pitfall": "Don’t use it for someone who has just turned 90; that person is a nonagenarian."
+    },
+    {
+      "id": "opulence",
+      "kind": "word",
+      "term": "opulence",
+      "pos": "noun",
+      "phonetic": "/ˈɑːpjələns/",
+      "sayIt": "AW-pyuh-luns",
+      "register": "Formal",
+      "meaning": "Great wealth, comfort and luxury.",
+      "nuance": "Often describes impressive surroundings, possessions or an extravagant way of living. It can sound admiring, but sometimes suggests excessive luxury.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client presentation · describing a venue",
+          "sentence": "The hotel’s opulence impressed the client, although it did not suit the company’s practical style.",
+          "highlight": "opulence",
+          "tip": "Use it when the abundance of luxury is the main thing you want to emphasize."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · admiring the setting",
+          "sentence": "The candlelit room felt like pure opulence, but everyone seemed too busy enjoying it to notice the price.",
+          "highlight": "opulence",
+          "tip": "It works in relaxed conversation when describing an especially luxurious setting."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel review · contrasting old and new wealth",
+          "sentence": "The description of the palace captures its opulence while keeping attention on the lives of the people who maintained it.",
+          "highlight": "opulence",
+          "tip": "A formal alternative to luxury or extravagance, especially in travel writing and fiction."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin opulentia, meaning wealth or abundance, related to opulentus, meaning rich or prosperous.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "The Latin root opulentia referred to wealth or riches."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English through Latin and French as a term for great wealth."
+          },
+          {
+            "when": "Today",
+            "text": "It describes wealth and luxury, especially in a rich or lavish setting."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "opulent",
+          "label": "adjective"
+        },
+        {
+          "term": "opulently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "luxury",
+        "extravagance",
+        "affluence",
+        "lavishness"
+      ],
+      "opposite": "austerity",
+      "pitfall": "Opulence emphasizes visible wealth and luxury; wealth alone may include money, property or financial power without any lavish display."
+    },
+    {
+      "id": "ornate",
+      "kind": "word",
+      "term": "ornate",
+      "pos": "adjective",
+      "phonetic": "/ɔːˈneɪt/",
+      "sayIt": "or-NAYT",
+      "register": "Formal",
+      "meaning": "Decorated with elaborate and elaborate-looking details that make something look rich or elaborate.",
+      "nuance": "It usually describes highly decorated objects, rooms, clothing or writing. It can be complimentary, but sometimes suggests that something is more decorative than useful.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office design · reviewing a lobby",
+          "sentence": "The lobby is attractive, but its ornate lighting and marble make it feel less welcoming to clients.",
+          "highlight": "ornate",
+          "tip": "Use it for decoration that is elaborate or lavish."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding venue · describing the décor",
+          "sentence": "They chose an ornate ballroom with gold curtains, chandeliers and carved wooden panels.",
+          "highlight": "ornate",
+          "tip": "It sounds richer and more decorative than simply fancy."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing a historic building",
+          "sentence": "The museum’s ornate façade preserves the grandeur of its original nineteenth-century design.",
+          "highlight": "ornate",
+          "tip": "A useful word for formal description, especially of architecture and decorative arts."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin ornatus, meaning ‘adornment’ or ‘decoration’, from ornare, ‘to adorn’. The word entered English in the 1500s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Ornatus means ‘adornment’ or ‘decoration’, from ornare, ‘to adorn’."
+          },
+          {
+            "when": "1500s",
+            "text": "Enters English with the sense of ‘adorned’ or ‘decorated elaborately’."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly describes elaborate, richly decorated objects and designs."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "ornament",
+          "label": "noun"
+        },
+        {
+          "term": "ornamental",
+          "label": "adjective"
+        },
+        {
+          "term": "ornamentally",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "elaborate",
+        "decorative",
+        "fancy",
+        "gilded",
+        "sumptuous"
+      ],
+      "opposite": "plain",
+      "pitfall": "Don’t confuse ornate with ordinary; ornate focuses on rich or elaborate decoration."
+    },
+    {
+      "id": "paltry",
+      "kind": "word",
+      "term": "paltry",
+      "pos": "adjective",
+      "phonetic": "/ˈpɔːltri/",
+      "sayIt": "PAL-tree",
+      "register": "Formal",
+      "meaning": "So small or poor in amount that it seems insignificant or inadequate.",
+      "nuance": "Often describes money, effort, support or results, with a tone of criticism or disappointment. It can sound forceful when you want to stress that something is far too little.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget review · discussing team resources",
+          "sentence": "The paltry increase in the budget does not cover the extra support we need.",
+          "highlight": "paltry",
+          "tip": "Use it when the amount is not just small, but clearly inadequate."
+        },
+        {
+          "setting": "social",
+          "where": "Complaining about a gift",
+          "sentence": "He gave us a paltry portion of cake, as if we were not hungry.",
+          "highlight": "paltry",
+          "tip": "It expresses annoyance or contempt when someone gives or provides too little."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal complaint · poor service",
+          "sentence": "The company offered a paltry apology without addressing the inconvenience caused to customers.",
+          "highlight": "paltry",
+          "tip": "This suits a critical editorial or formal letter better than everyday conversation."
+        }
+      ],
+      "origin": {
+        "summary": "The word probably developed from an older English word meaning rubbish or worthless refuse. Its exact early history is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Middle English",
+            "text": "An older form related to the word appears, with meanings connected with scraps or worthless material."
+          },
+          {
+            "when": "1500s",
+            "text": "The modern form becomes established in the sense of insignificant or worthless."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal criticism of amounts that are too small or inadequate."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "paltriness",
+          "label": "noun"
+        },
+        {
+          "term": "paltrily",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "meagre",
+        "trifling",
+        "insignificant",
+        "inadequate"
+      ],
+      "opposite": "substantial",
+      "pitfall": "Paltry is stronger and more critical than small: it usually suggests that the amount is unworthy or insufficient."
+    },
+    {
+      "id": "paucity",
+      "kind": "word",
+      "term": "paucity",
+      "pos": "noun",
+      "phonetic": "/ˈpɔːsəti/",
+      "sayIt": "PAW-suh-tee",
+      "register": "Formal",
+      "meaning": "A small amount or limited supply of something.",
+      "nuance": "A formal word for a lack of something, often used when discussing time, resources, information or opportunities.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · allocating resources",
+          "sentence": "The paucity of testing data made it difficult to identify the source of the error.",
+          "highlight": "paucity",
+          "tip": "Use it for a shortage that limits what you can do."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · career changes",
+          "sentence": "After years in the same industry, she wanted greater variety than the paucity of roles there offered.",
+          "highlight": "paucity",
+          "tip": "It sounds polished in conversation but can sound overly formal with close friends."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · assessing a proposal",
+          "sentence": "The proposal does not explain how it will overcome the paucity of reliable evidence.",
+          "highlight": "paucity",
+          "tip": "Pairs naturally with of plus a noun, such as a paucity of time, evidence or experience."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin paucitas, meaning ‘scarcity’, based on paucus, ‘few’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Paucitas, ‘scarcity’ or ‘smallness of amount’, develops from paucus, ‘few’."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English in the sense of ‘scarcity’ or ‘lack’."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal noun, especially in professional and academic writing."
+          }
+        ]
+      },
+      "similar": [
+        "scarcity",
+        "shortage",
+        "dearth",
+        "rarity"
+      ],
+      "opposite": "abundance",
+      "pitfall": "In formal English, use “a paucity of,” not “a paucity”; for an ordinary shortage, “scarcity” is usually more accessible."
+    },
+    {
+      "id": "penury",
+      "kind": "word",
+      "term": "penury",
+      "pos": "noun",
+      "phonetic": "/ˈpɛn.jə.ri/",
+      "sayIt": "PEN-yoo-ree",
+      "register": "Formal",
+      "meaning": "A state of severe poverty or extreme lack of something needed.",
+      "nuance": "It is a strong, formal word for very serious lack, especially of money or basic necessities. It can sound literary or dramatic rather than everyday.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget review · cutting resources",
+          "sentence": "Without additional funding, the department faces a penury that may force us to reduce essential services.",
+          "highlight": "penury",
+          "tip": "Use it for extreme scarcity, not ordinary financial difficulty."
+        },
+        {
+          "setting": "social",
+          "where": "Community appeal · supporting families",
+          "sentence": "Families living in penury need access to food, housing and healthcare without long delays.",
+          "highlight": "penury",
+          "tip": "It is most natural in serious reporting or formal discussion."
+        },
+        {
+          "setting": "writing",
+          "where": "Essay · describing economic hardship",
+          "sentence": "The account of penury shows how little ordinary families had to survive on.",
+          "highlight": "penury",
+          "tip": "Use it carefully in prose; it carries a weightier tone than poverty."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin penuria, meaning ‘scarcity’ or ‘want’, related to penus, ‘provision’ or ‘supply’. The word entered English in the 1500s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Penuria means ‘scarcity, want or lack’, especially of food or supplies."
+          },
+          {
+            "when": "1500s",
+            "text": "Enters English, initially meaning lack or want."
+          },
+          {
+            "when": "Today",
+            "text": "Mainly means extreme poverty or severe scarcity."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "penurious",
+          "label": "adjective"
+        },
+        {
+          "term": "penuriously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "poverty",
+        "destitution",
+        "scarcity",
+        "want"
+      ],
+      "opposite": "affluence",
+      "pitfall": "Do not use it as a general word for being short of money; it suggests extreme hardship or a severe shortage."
+    },
+    {
+      "id": "pittance",
+      "kind": "word",
+      "term": "pittance",
+      "pos": "noun",
+      "phonetic": "/ˈpɪtəns/",
+      "sayIt": "PIT-uhns",
+      "register": "Formal",
+      "meaning": "A very small amount of money, food, support, or something else worth having.",
+      "nuance": "The word often carries a disappointed or critical tone, especially when describing an unfairly small payment or amount of help.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget review · discussing a contractor’s fee",
+          "sentence": "We paid a pittance for months of extra work, so it’s no surprise the relationship ended badly.",
+          "highlight": "pittance",
+          "tip": "Use it when the amount feels insignificant and the frustration is clear."
+        },
+        {
+          "setting": "social",
+          "where": "Friends’ dinner · dividing the leftovers",
+          "sentence": "I was happy to share the food, but my portion was a pittance compared with everyone else’s.",
+          "highlight": "pittance",
+          "tip": "It can sound slightly old-fashioned in casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · describing unpaid contribution",
+          "sentence": "Volunteers received only a pittance to cover travel, despite spending hours at the event.",
+          "highlight": "pittance",
+          "tip": "A strong choice in formal writing when you want to emphasise an inadequate amount."
+        }
+      ],
+      "origin": {
+        "summary": "The word came through Old French from a Latin word connected with allowance or charity. Its sense gradually shifted toward the small or inadequate amount we use today.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Late Middle English",
+            "text": "Borrowed from Old French pitance, meaning an allowance or charitable payment."
+          },
+          {
+            "when": "1600s",
+            "text": "Used for a small allowance, especially of food or money."
+          },
+          {
+            "when": "1800s onward",
+            "text": "Developed its modern figurative sense of a meagre or inadequate amount."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "pitiable",
+          "label": "adjective (related)"
+        }
+      ],
+      "similar": [
+        "meagre",
+        "scant",
+        "trifling",
+        "allowance"
+      ],
+      "opposite": "generous amount",
+      "pitfall": "A pittance is the amount itself, not the person receiving it; use pitiable for someone who deserves sympathy."
+    },
+    {
+      "id": "plethora",
+      "kind": "word",
+      "term": "plethora",
+      "pos": "noun",
+      "phonetic": "/ˈplɛθərə/",
+      "sayIt": "PLETH-uh-ruh",
+      "register": "Formal",
+      "meaning": "A very large number of something, often more than is needed or useful.",
+      "nuance": "It usually suggests excess, so it can sound critical or slightly formal rather than simply neutral.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing requests",
+          "sentence": "We received a plethora of feature requests, so we need to prioritise the ones that affect most customers.",
+          "highlight": "plethora",
+          "tip": "Use it to describe an overwhelming number of items or demands."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans · choosing activities",
+          "sentence": "There is a plethora of things to do nearby, but we only have time for the market and a walk in the park.",
+          "highlight": "plethora",
+          "tip": "It can make a choice sound overwhelming, especially when you want to suggest narrowing it down."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · describing survey findings",
+          "sentence": "The responses revealed a plethora of concerns about the new opening hours.",
+          "highlight": "plethora",
+          "tip": "Pair it with “of” and a plural noun: “a plethora of options,” “a plethora of complaints.”"
+        }
+      ],
+      "origin": {
+        "summary": "From Greek plēthōra, meaning “a great abundance,” based on plēthos, meaning “fullness” or “abundance.” It entered English in the 16th century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "The word plēthōra referred to a large supply or abundance."
+          },
+          {
+            "when": "1500s",
+            "text": "The Greek word enters English through Latin and means an abundance of something."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly means an excessive amount of something."
+          }
+        ]
+      },
+      "similar": [
+        "abundance",
+        "excess",
+        "surplus",
+        "glut"
+      ],
+      "opposite": "scarcity",
+      "pitfall": "Usually follow it with “of”; don’t say “a plethora options.” Also, it often carries a slightly negative sense of having too much."
+    }
+  ]
+}

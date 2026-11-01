@@ -1,0 +1,1731 @@
+{
+  "id": "words-feelings-attitudes-5",
+  "kind": "word",
+  "name": "Feelings & attitudes · 5",
+  "blurb": "25 words about feelings & attitudes",
+  "cards": [
+    {
+      "id": "placid",
+      "kind": "word",
+      "term": "placid",
+      "pos": "adjective",
+      "phonetic": "/ˈplæsɪd/",
+      "sayIt": "PLAS-id",
+      "register": "Everyday",
+      "meaning": "Calm, peaceful, and unlikely to become disturbed or upset.",
+      "nuance": "It often describes a person, place, or situation that is quietly serene rather than dramatic or energetic. It can also suggest an unnervingly calm attitude.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · handling a delay",
+          "sentence": "Her placid manner helped keep the meeting calm while we worked through the delay.",
+          "highlight": "placid",
+          "tip": "Use it to describe someone who stays composed under mild pressure."
+        },
+        {
+          "setting": "social",
+          "where": "Lake weekend · relaxing by the water",
+          "sentence": "We spent the afternoon beside the placid lake, watching the light fade.",
+          "highlight": "placid",
+          "tip": "It sounds especially natural when describing water, scenery, or a peaceful setting."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel review · describing a village",
+          "sentence": "The village was small and placid, with narrow streets and almost no traffic.",
+          "highlight": "placid",
+          "tip": "It adds a refined, slightly literary quality to a description of a peaceful place."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin placidus, meaning calm or settled, related to placere, ‘to please’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Placidus develops from placere, ‘to please’, and carries the sense of being settled or agreeable."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in the sense of calm, peaceful or placid."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly a descriptive word for calm people, places, waters or situations."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "placidly",
+          "label": "adverb"
+        },
+        {
+          "term": "placidity",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "calm",
+        "serene",
+        "peaceful",
+        "tranquil"
+      ],
+      "opposite": "agitated",
+      "pitfall": "Placid usually suggests a quiet, composed quality; it does not mean completely emotionless."
+    },
+    {
+      "id": "poignant",
+      "kind": "word",
+      "term": "poignant",
+      "pos": "adjective",
+      "phonetic": "/ˈpɔɪnjənt/",
+      "sayIt": "POY-nyuhnt",
+      "register": "Formal and literary",
+      "meaning": "Emotionally moving, often because it brings sadness, tenderness, or a bittersweet feeling.",
+      "nuance": "It often suggests a moment that touches people deeply, especially through loss, love, or memory. It can also describe something painfully relevant or hard to forget.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team reflection · remembering a colleague",
+          "sentence": "Her tribute was poignant, capturing both the sadness of leaving and the support she had received.",
+          "highlight": "poignant",
+          "tip": "Use it for a sincere moment that affects people emotionally."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding speech · thanking loved ones",
+          "sentence": "It was a poignant reminder of how much his family had shaped his life.",
+          "highlight": "poignant",
+          "tip": "It works when describing a moving scene, memory, or personal story."
+        },
+        {
+          "setting": "writing",
+          "where": "Documentary review · reflecting on a final film",
+          "sentence": "The final scene is poignant without being sentimental, leaving the audience with a quiet sense of loss.",
+          "highlight": "poignant",
+          "tip": "Pair it with a clear emotional effect rather than using it as a vague compliment."
+        }
+      ],
+      "origin": {
+        "summary": "It comes from French poignant, meaning sharp or stinging and later emotionally touching. The French word is related to poindre, ‘to prick’, which comes from Latin pungere, ‘to sting or pierce’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Pungere, ‘to pierce or sting’, provides the root for the idea of a sharp emotional effect."
+          },
+          {
+            "when": "Old French",
+            "text": "Poignant develops from poindre, ‘to prick, sting’, and means sharp or piercing."
+          },
+          {
+            "when": "1800s",
+            "text": "The word enters English, first for something sharp or painful and later for something emotionally moving."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes a tender, sad, or bittersweet emotional moment."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "poignantly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "moving",
+        "touching",
+        "heartfelt",
+        "bittersweet"
+      ],
+      "opposite": "emotionless",
+      "pitfall": "Poignant is stronger and more emotionally charged than moving, and it often carries a note of sadness or painful tenderness."
+    },
+    {
+      "id": "premonition",
+      "kind": "word",
+      "term": "premonition",
+      "pos": "noun",
+      "phonetic": "/ˌpriːməˈnɪʃən/",
+      "sayIt": "pree-MON-ish-un",
+      "register": "Formal and literary",
+      "meaning": "A feeling that something is about to happen, especially an unwelcome event.",
+      "nuance": "It often conveys a dark or uneasy sense of what lies ahead. The feeling may come without a clear reason and does not necessarily predict the future accurately.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · unexpected changes",
+          "sentence": "She had a premonition that the merger would create problems before the announcement was made.",
+          "highlight": "premonition",
+          "tip": "Useful when describing an uneasy feeling about a business decision."
+        },
+        {
+          "setting": "social",
+          "where": "Party invitation · declining an event",
+          "sentence": "I had a premonition that the evening would be awkward, so I decided to arrive late.",
+          "highlight": "premonition",
+          "tip": "It suggests a vague foreboding rather than a specific prediction."
+        },
+        {
+          "setting": "writing",
+          "where": "Mystery novel · ominous scene",
+          "sentence": "From the moment she entered the empty house, Mara had a premonition that she was not alone.",
+          "highlight": "premonition",
+          "tip": "A strong word for fiction when you want to create suspense before an event."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin praemonitio, meaning a warning in advance, which comes from praemonere, ‘to warn beforehand’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Praemonitio means a warning or notice of something to come."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with the sense of an advance warning or sign."
+          },
+          {
+            "when": "Today",
+            "text": "It usually refers to an uneasy feeling that an event is about to occur."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "premonitory",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "presentiment",
+        "foreboding",
+        "intuition",
+        "hunch"
+      ],
+      "opposite": "reassurance",
+      "pitfall": "A premonition is a feeling about what may happen, not clear knowledge of a future event."
+    },
+    {
+      "id": "qualm",
+      "kind": "word",
+      "term": "qualm",
+      "pos": "noun",
+      "phonetic": "/kwɑːm/",
+      "sayIt": "KWALM",
+      "register": "Thoughtful and formal",
+      "meaning": "A feeling of doubt or unease, especially about whether something is right or safe to do.",
+      "nuance": "A qualm often carries a note of moral concern or anxiety about consequences. It can describe a sudden unease or, in the plural, lingering doubts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Review meeting · approving a proposal",
+          "sentence": "I have a qualm about presenting the sales figures as final when they’re still provisional.",
+          "highlight": "qualm",
+          "tip": "Use it to raise a serious doubt without sounding dramatically opposed."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · an awkward joke",
+          "sentence": "She felt a qualm when the joke about her colleague’s accent landed harder than expected.",
+          "highlight": "qualm",
+          "tip": "It suits a brief, uncomfortable feeling of guilt, worry or second thoughts."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · checking a source",
+          "sentence": "I had a qualm about citing a source I hadn’t checked carefully.",
+          "highlight": "qualm",
+          "tip": "The phrase adds a thoughtful, slightly formal note of hesitation."
+        }
+      ],
+      "origin": {
+        "summary": "From Middle English qualme, meaning pain, distress or uneasiness, probably from Old English cwælme, ‘pain or torment’. The earlier connection is documented, but the exact development is not certain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The ancestor cwælme referred to pain, torment or distress."
+          },
+          {
+            "when": "Middle English",
+            "text": "Qualme develops in English with meanings involving pain, discomfort and distress."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The sense broadens to include anxiety, doubt and uneasy hesitation."
+          }
+        ]
+      },
+      "similar": [
+        "scruple",
+        "misgiving",
+        "unease",
+        "doubt"
+      ],
+      "opposite": "reassurance",
+      "pitfall": "Use the plural ‘qualms’ for several doubts or anxieties; the singular usually points to one uneasy feeling."
+    },
+    {
+      "id": "rabid",
+      "kind": "word",
+      "term": "rabid",
+      "pos": "adjective",
+      "phonetic": "/ˈræbɪd/",
+      "sayIt": "RAB-id",
+      "register": "Formal",
+      "meaning": "Extremely intense, enthusiastic, or forceful to the point of being excessive.",
+      "nuance": "It often criticises someone for behaving with uncontrolled passion or certainty. It can also describe a devoted fan, but that use may sound exaggerated or slightly insulting.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · challenging a proposal",
+          "sentence": "Her rabid support for the new policy made colleagues question whether she had considered the risks.",
+          "highlight": "rabid",
+          "tip": "Use it when strong emotion or dogmatism is the main point."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · describing a football fan",
+          "sentence": "He is rabid about the club and never misses a home match.",
+          "highlight": "rabid",
+          "tip": "It adds a humorous but slightly negative tone to intense enthusiasm."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · condemning online harassment",
+          "sentence": "Rabid comments from a small group quickly made the discussion hostile and unproductive.",
+          "highlight": "Rabid",
+          "tip": "It suits forceful criticism, but choose a milder word if you do not want to sound extreme."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin rabidus, meaning ‘furious’ or ‘mad’, originally associated with the disease rabies.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Rabidus develops from rabies, meaning ‘rage’ or ‘madness’."
+          },
+          {
+            "when": "1400s",
+            "text": "The word enters English in senses connected with raging or diseased animals."
+          },
+          {
+            "when": "1800s",
+            "text": "It begins to describe exaggerated enthusiasm or obsessive support."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "rabidly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "fanatical",
+        "zealous",
+        "frenzied",
+        "obsessive",
+        "extreme"
+      ],
+      "opposite": "measured",
+      "pitfall": "Rabid originally referred to an animal suffering from rabies; modern uses usually focus on intense emotion, belief, or behaviour."
+    },
+    {
+      "id": "raucous",
+      "kind": "word",
+      "term": "raucous",
+      "pos": "adjective",
+      "phonetic": "/ˈrɔːkəs/",
+      "sayIt": "RAW-kus",
+      "register": "Everyday",
+      "meaning": "Making a loud, rough, and slightly disorderly noise.",
+      "nuance": "It suggests that a sound is more vigorous and unruly than merely loud. It can also describe a noisy, boisterous crowd or gathering.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team celebration · closing a project",
+          "sentence": "The office became raucous when we announced that the project had been approved.",
+          "highlight": "raucous",
+          "tip": "Use it for a volume or atmosphere that feels playfully out of control."
+        },
+        {
+          "setting": "social",
+          "where": "Pub night · friends celebrating",
+          "sentence": "Our quiet table turned raucous when the karaoke started.",
+          "highlight": "raucous",
+          "tip": "It often adds a humorous sense of cheerful disorder."
+        },
+        {
+          "setting": "writing",
+          "where": "Event review · describing the crowd",
+          "sentence": "A raucous audience cheered every performer and kept the show running late.",
+          "highlight": "raucous",
+          "tip": "Pair it with crowd, crowd, party, laughter or cheering to make the sound vivid."
+        }
+      ],
+      "origin": {
+        "summary": "Raucous developed from an earlier English spelling and is related to a word meaning noisy disorderly behavior.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Early 17th century",
+            "text": "The word appears in an older form, raucous, meaning noisy or disorderly."
+          },
+          {
+            "when": "Later 17th century",
+            "text": "The modern spelling raucous becomes established."
+          },
+          {
+            "when": "Today",
+            "text": "It describes loud, rough, boisterous sounds, crowds and gatherings."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "raucously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "boisterous",
+        "riotous",
+        "noisy",
+        "rowdy"
+      ],
+      "opposite": "quiet",
+      "pitfall": "Raucous usually suggests roughness or disorder as well as volume, so it is stronger than simply loud."
+    },
+    {
+      "id": "recoil",
+      "kind": "word",
+      "term": "recoil",
+      "pos": "verb & noun",
+      "phonetic": "/rɪˈkɔɪl/",
+      "sayIt": "ri-KOYL",
+      "register": "Common",
+      "meaning": "To move suddenly backward in fear, surprise or disgust; as a noun, a sudden backward movement or the force that pushes something back.",
+      "nuance": "The movement is usually quick and involuntary. People may recoil physically or figuratively by pulling away from something unpleasant or unwelcome.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · raising a concern",
+          "sentence": "Several employees recoiled when the manager proposed unpaid weekend shifts.",
+          "highlight": "recoiled",
+          "tip": "Use this for a visible reaction of alarm, discomfort or refusal."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · unexpected request",
+          "sentence": "He recoiled slightly when his neighbour offered him a second helping of cake.",
+          "highlight": "recoiled",
+          "tip": "The word suggests an instinctive reaction rather than a deliberate decision."
+        },
+        {
+          "setting": "writing",
+          "where": "Sports report · describing impact",
+          "sentence": "The ball’s powerful recoil sent it across the room and into the wall.",
+          "highlight": "recoil",
+          "tip": "As a noun, it describes the backward movement or force produced by an impact."
+        }
+      ],
+      "origin": {
+        "summary": "It comes through Old French from Latin reculare, meaning ‘to move back’, with the modern sense developing from both physical movement and feelings of fear or disgust.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Reculare develops from re-, meaning ‘back’, and a root associated with moving backwards."
+          },
+          {
+            "when": "Old French",
+            "text": "Reculer means ‘to retreat’ or ‘move back’."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English in the sense of moving or drawing back."
+          },
+          {
+            "when": "Today",
+            "text": "It describes sudden physical movement, emotional withdrawal and the force produced by an impact."
+          }
+        ]
+      },
+      "similar": [
+        "flinch",
+        "shrink",
+        "retreat",
+        "rebound"
+      ],
+      "opposite": "advance",
+      "pitfall": "Don’t confuse recoil with revulsion, which focuses mainly on strong disgust or moral disapproval rather than a physical or instinctive reaction."
+    },
+    {
+      "id": "repent",
+      "kind": "word",
+      "term": "repent",
+      "pos": "verb",
+      "phonetic": "/rɪˈpɛnt/",
+      "sayIt": "ri-PENT",
+      "register": "Formal",
+      "meaning": "To feel deep regret about wrongdoing and resolve to change your behaviour.",
+      "nuance": "Repenting is more than saying you are sorry: it usually suggests that you intend to act differently. It can describe everyday mistakes or, in religious contexts, turning away from sin.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team review · addressing a missed deadline",
+          "sentence": "I repent for overlooking the test results, and I’ll add a final check before the next release.",
+          "highlight": "repent",
+          "tip": "Use it for a serious mistake when you also want to show that you will change."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · joking after an awkward comment",
+          "sentence": "I repent for calling your cooking strange, even though you clearly put a lot of work into it.",
+          "highlight": "repent",
+          "tip": "This playful use adds mock formality to an apology."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal apology · accepting responsibility",
+          "sentence": "The company said it repented for the misleading announcement and offered affected customers a full refund.",
+          "highlight": "repented",
+          "tip": "Common in formal, moral or religious language; use regret in more neutral writing."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through Old French from Latin paenitere, meaning to feel regret or remorse. Its English use developed in both moral and religious contexts.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Classical Latin",
+            "text": "Paenitere meant to feel regret, especially sorrow after wrongdoing."
+          },
+          {
+            "when": "Medieval period",
+            "text": "Old French repentir develops the senses of regretting a wrong and turning away from sin."
+          },
+          {
+            "when": "Middle English period",
+            "text": "The verb enters English, first with moral and religious meanings."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "repentance",
+          "label": "noun"
+        },
+        {
+          "term": "repentant",
+          "label": "adjective"
+        },
+        {
+          "term": "repentantly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "regret",
+        "remorse",
+        "apologize",
+        "repentant"
+      ],
+      "opposite": "persist",
+      "pitfall": "Don’t use repent as a simple synonym for regret if you do not mean to suggest a change in behaviour."
+    },
+    {
+      "id": "repress",
+      "kind": "word",
+      "term": "repress",
+      "pos": "verb",
+      "phonetic": "/rɪˈprɛs/",
+      "sayIt": "ri-PRESS",
+      "register": "Common in professional and academic writing",
+      "meaning": "To keep thoughts, feelings or memories from being openly expressed or consciously acknowledged.",
+      "nuance": "The word often suggests pushing something difficult out of awareness. It can also mean holding back an emotion or preventing something from developing, depending on the context.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing disagreement",
+          "sentence": "She repressed her frustration during the meeting and raised the issue privately afterwards.",
+          "highlight": "repressed",
+          "tip": "Use it when an emotion is deliberately held back rather than openly expressed."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · sensitive topic",
+          "sentence": "He repressed the urge to correct his uncle and let the conversation move on.",
+          "highlight": "repressed",
+          "tip": "This shows emotional restraint, sometimes with a hint of tension underneath."
+        },
+        {
+          "setting": "writing",
+          "where": "Personal essay · childhood memory",
+          "sentence": "For years, she repressed her memories of that afternoon, even when they returned in dreams.",
+          "highlight": "repressed",
+          "tip": "Common in writing about trauma, memory and emotions that remain difficult to confront."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin reprimere, combining re- ‘back’ with premere ‘press’, originally meaning ‘press back’ or ‘suppress’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Reprimere develops from re- ‘back’ and premere ‘press’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in senses connected with suppression and restraint."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for hidden emotions, memories and impulses, as well as for holding back growth or opposition."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "repression",
+          "label": "noun"
+        },
+        {
+          "term": "repressed",
+          "label": "adjective"
+        },
+        {
+          "term": "repressively",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "suppress",
+        "restrain",
+        "inhibit",
+        "subdue"
+      ],
+      "opposite": "express",
+      "pitfall": "Repress usually means holding something in; repress an uprising means suppress it, but the everyday emotional sense is more common."
+    },
+    {
+      "id": "repugnant",
+      "kind": "word",
+      "term": "repugnant",
+      "pos": "adjective",
+      "phonetic": "/rɪˈpʌɡnənt/",
+      "sayIt": "re-PUG-nuhnt",
+      "register": "Formal",
+      "meaning": "So offensive or disgusting that someone finds it deeply objectionable.",
+      "nuance": "This is a strong, formal word for behaviour, actions or conditions that provoke disgust or moral outrage. It is more forceful than unpleasant and more serious than merely distasteful.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Ethics review · discussing misconduct",
+          "sentence": "The committee described the manager’s repeated interference in staff decisions as repugnant.",
+          "highlight": "repugnant",
+          "tip": "Use it when you need to express strong moral disapproval, especially in formal discussion."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · condemning cruel behaviour",
+          "sentence": "Everyone at the table found his comments about the waiters repugnant.",
+          "highlight": "repugnant",
+          "tip": "It can describe conduct or attitudes that people find morally disgusting, not simply bad taste."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · condemning discrimination",
+          "sentence": "The report condemns the repugnant treatment of migrants as an abuse of basic human dignity.",
+          "highlight": "repugnant",
+          "tip": "This word adds gravity to a formal statement about cruelty, injustice or dehumanising conduct."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin repugnare, meaning ‘to resist or oppose’. Its original sense was opposition or resistance, which later developed into the idea of something causing disgust or aversion.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Repugnare combines re-, ‘back’, withugnare, ‘to fight or resist’."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English in senses connected with opposition and conflict."
+          },
+          {
+            "when": "1600s onward",
+            "text": "It develops the modern sense of something deeply offensive or disgusting."
+          }
+        ]
+      },
+      "similar": [
+        "abhorrent",
+        "detestable",
+        "disgusting",
+        "odious",
+        "repellent"
+      ],
+      "opposite": "acceptable",
+      "pitfall": "Repugnant is stronger than distasteful and usually carries moral or emotional disgust; reserve it for conduct, treatment or attitudes that genuinely deserve strong condemnation."
+    },
+    {
+      "id": "repulse",
+      "kind": "word",
+      "term": "repulse",
+      "pos": "verb",
+      "phonetic": "/rɪˈpʌls/",
+      "sayIt": "ri-PULS",
+      "register": "Formal",
+      "meaning": "To make someone feel such strong disgust or dislike that they want to move away.",
+      "nuance": "Repulse is stronger than annoy or irritate and often suggests a powerful reaction of disgust. It can also mean to drive someone or something away.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · rejecting a proposal",
+          "sentence": "The director was repulsed by the idea of changing the project without telling the client.",
+          "highlight": "repulsed",
+          "tip": "Use the past form for a finished reaction: was, were or felt repulsed."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · describing a scene",
+          "sentence": "He recoiled and looked repulsed when the server brought the dish.",
+          "highlight": "repulsed",
+          "tip": "This use describes visible or strongly expressed disgust."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing a difficult film",
+          "sentence": "The film’s crude dialogue may repel casual viewers, but its final act is genuinely moving.",
+          "highlight": "repel",
+          "tip": "Use repel for the action itself; repulse is slightly more forceful and formal."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin repellere, meaning ‘to drive back’ or ‘repel’, based on re- ‘back’ and pellere ‘to push’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Repellere combines re- ‘back’ with pellere ‘to push’, giving the sense of pushing something away."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English with the meaning of driving someone or something away."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used for intense disgust or formal descriptions of driving people away."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "repulsed",
+          "label": "adjective"
+        },
+        {
+          "term": "repulsion",
+          "label": "noun"
+        },
+        {
+          "term": "repulsively",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "repel",
+        "disgust",
+        "abhor",
+        "recoil"
+      ],
+      "opposite": "attract",
+      "pitfall": "Repulse usually implies disgust or active rejection; it does not simply mean ‘reject’ in every context."
+    },
+    {
+      "id": "resentful",
+      "kind": "word",
+      "term": "resentful",
+      "pos": "adjective",
+      "phonetic": "/rɪˈzentfəl/",
+      "sayIt": "ri-ZENT-fuhl",
+      "register": "Everyday",
+      "meaning": "Feeling bitter and angry because you think you have been treated unfairly.",
+      "nuance": "It suggests an emotion that may be simmering after a perceived slight or injustice. It is often more restrained than saying you are furious.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · after feedback",
+          "sentence": "She felt resentful when her contribution was ignored during the presentation.",
+          "highlight": "resentful",
+          "tip": "Use it to describe a lasting reaction to unfair treatment, not just momentary frustration."
+        },
+        {
+          "setting": "social",
+          "where": "Family dinner · sharing plans",
+          "sentence": "He was resentful that his friends had made plans without asking him.",
+          "highlight": "resentful",
+          "tip": "This works in personal conversations when describing lingering hurt or anger."
+        },
+        {
+          "setting": "writing",
+          "where": "Work review · describing workplace tension",
+          "sentence": "Several employees sounded resentful after the schedule was changed at short notice.",
+          "highlight": "resentful",
+          "tip": "It fits naturally before a person or with “of,” but avoid making the tone too accusatory."
+        }
+      ],
+      "origin": {
+        "summary": "Formed in English from resent, meaning to feel bitter about, plus the adjective ending -ful.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "The word resent becomes established in English for bitter or hostile feelings."
+          },
+          {
+            "when": "1600s",
+            "text": "Resentful appears as an adjective meaning full of resentment."
+          },
+          {
+            "when": "Today",
+            "text": "It describes feeling bitter or angry because of perceived unfairness."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "resent",
+          "label": "verb"
+        },
+        {
+          "term": "resentment",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "bitter",
+        "aggrieved",
+        "upset",
+        "hostile"
+      ],
+      "opposite": "content",
+      "pitfall": "Resentful describes a feeling; resentful of is the usual pattern when naming what caused it."
+    },
+    {
+      "id": "revere",
+      "kind": "word",
+      "term": "revere",
+      "pos": "verb",
+      "phonetic": "/rɪˈvɪr/",
+      "sayIt": "ri-VEER",
+      "register": "Formal",
+      "meaning": "To regard someone or something with deep respect and admiration.",
+      "nuance": "This suggests strong, lasting respect rather than ordinary approval. It is especially suitable for people, principles and works that inspire awe or devotion.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company awards · honouring a retiring colleague",
+          "sentence": "Employees revere her calm judgement and the generosity she has shown to every new team member.",
+          "highlight": "revere",
+          "tip": "Use it when praising someone’s character rather than merely their achievements."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · discussing a respected relative",
+          "sentence": "My grandmother revered the woman who taught her to read, and she told stories about her for decades.",
+          "highlight": "revered",
+          "tip": "It often describes respect expressed through admiration, devotion or awe."
+        },
+        {
+          "setting": "writing",
+          "where": "Essay · discussing a lasting cultural influence",
+          "sentence": "Generations of musicians have revered Ella Fitzgerald for her technical skill and emotional honesty.",
+          "highlight": "revered",
+          "tip": "The past-tense form works well when describing someone’s long-standing admiration for another person."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin vereri, meaning ‘to respect or venerate’. English kept the sense of holding someone in deep admiration.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Vereri means ‘to respect, honour or venerate deeply’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with the meaning of regarding someone or something as greatly respected."
+          },
+          {
+            "when": "Today",
+            "text": "It remains formal and often suggests admiration that lasts over time."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "revered",
+          "label": "adjective"
+        },
+        {
+          "term": "reverence",
+          "label": "noun"
+        },
+        {
+          "term": "reverent",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "admire",
+        "honour",
+        "venerate",
+        "respect",
+        "esteem"
+      ],
+      "opposite": "despise",
+      "pitfall": "This is stronger and more formal than admire; use it for deep respect, not simple approval."
+    },
+    {
+      "id": "sanguine",
+      "kind": "word",
+      "term": "sanguine",
+      "pos": "adjective",
+      "phonetic": "/ˈsæŋɡwɪn/",
+      "sayIt": "SAN-gwin",
+      "register": "Formal",
+      "meaning": "Confident and hopeful about a good outcome, even when the situation is uncertain.",
+      "nuance": "It suggests positive expectations, sometimes with a hint of overconfidence. Use it when discussing prospects rather than ordinary feelings.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · uncertain launch",
+          "sentence": "We’re sanguine about the trial because the early feedback has been strong.",
+          "highlight": "sanguine",
+          "tip": "Common in professional updates about future results or prospects."
+        },
+        {
+          "setting": "social",
+          "where": "Travel plans · delayed flight",
+          "sentence": "She remained sanguine when the flight was delayed and soon found another option.",
+          "highlight": "sanguine",
+          "tip": "It can describe someone who stays calm and positive despite setbacks."
+        },
+        {
+          "setting": "writing",
+          "where": "Investment note · market outlook",
+          "sentence": "Despite the uncertain economy, the fund’s directors remain sanguine about demand.",
+          "highlight": "sanguine",
+          "tip": "Pairs naturally with about, concerning and regarding future prospects."
+        }
+      ],
+      "origin": {
+        "summary": "It comes from Latin sanguineus, meaning ‘of blood’, and originally referred to a cheerful, lively temperament supposedly linked to an abundance of blood.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Sanguineus develops from sanguis, ‘blood’, describing a warm, lively bodily temperament."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English with meanings connected to blood, health and temperament."
+          },
+          {
+            "when": "Today",
+            "text": "Its main use means confident and optimistic, especially about future outcomes."
+          }
+        ]
+      },
+      "similar": [
+        "optimistic",
+        "hopeful",
+        "confident",
+        "positive"
+      ],
+      "opposite": "pessimistic",
+      "pitfall": "In modern English, sanguine usually means optimistic rather than blood-related; don’t use it as a direct synonym for ‘cheerful’ in every context."
+    },
+    {
+      "id": "sardonic",
+      "kind": "word",
+      "term": "sardonic",
+      "pos": "adjective",
+      "phonetic": "/sɑːrˈdɒnɪk/",
+      "sayIt": "sar-DON-ik",
+      "register": "Common in writing and formal conversation",
+      "meaning": "Showing sharp, contemptuous amusement, often by mocking someone or something.",
+      "nuance": "Sardonic humour feels cold and cutting rather than playful. It can express intelligent criticism, but it may offend when warmth is expected.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · challenging an unrealistic proposal",
+          "sentence": "Her sardonic reply made clear that she had no intention of working through the weekend.",
+          "highlight": "sardonic",
+          "tip": "Use it for humour that reveals irritation or contempt."
+        },
+        {
+          "setting": "social",
+          "where": "Friends talking · joking about a bad date",
+          "sentence": "He gave me a sardonic look and asked whether I had mistaken the restaurant for a cinema.",
+          "highlight": "sardonic",
+          "tip": "A sardonic look or comment can show dry amusement without hiding the speaker's dislike."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing a lifeless comedy",
+          "sentence": "The film offers sardonic jokes but never develops the characters beyond their stereotypes.",
+          "highlight": "sardonic",
+          "tip": "Common with words such as humour, wit, commentary and tone."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek sardonios, probably meaning ‘bitter’ and possibly connected with Sardinia, through French sardonique. The ancient story about Sardinians laughing cruelly at unhappy marriages is often repeated, but its historical basis is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Sardonios appears with meanings including ‘bitter’ and ‘of Sardinia’; the precise connection is debated."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English through French in the sense of sharply contemptuous or mocking."
+          },
+          {
+            "when": "Today",
+            "text": "It describes humour, expressions and attitudes marked by biting mockery."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "sardonicism",
+          "label": "noun"
+        },
+        {
+          "term": "sardonically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "ironic",
+        "mocking",
+        "derisive",
+        "dry"
+      ],
+      "opposite": "warm",
+      "pitfall": "Sardonic is colder and more contemptuous than simply humorous; sarcastic can be milder or more direct."
+    },
+    {
+      "id": "sensitive",
+      "kind": "word",
+      "term": "sensitive",
+      "pos": "adjective",
+      "phonetic": "/ˈsensətɪv/",
+      "sayIt": "SEN-si-tiv",
+      "register": "Common at work and in everyday life",
+      "meaning": "Easy to affect emotionally or physically, easily upset by criticism, or requiring careful handling.",
+      "nuance": "The word changes with context: it can describe someone who feels upset easily, a topic that needs tact, or equipment that responds closely to small changes.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Feedback meeting · giving criticism",
+          "sentence": "The report is sensitive because it includes confidential details about the investigation.",
+          "highlight": "sensitive",
+          "tip": "Use it for information, topics or decisions that need careful handling."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · discussing a close friend",
+          "sentence": "He became sensitive when we brought up a subject that clearly upset him.",
+          "highlight": "sensitive",
+          "tip": "Here it means easily offended or emotionally affected."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · responding to feedback",
+          "sentence": "We take a sensitive approach to staff comments, especially when personal issues are involved.",
+          "highlight": "sensitive",
+          "tip": "A careful, tactful way to describe how something is handled."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin sensitivus, meaning ‘having feeling’ or ‘perceptive’, connected to sentire, ‘to feel’ or ‘to perceive’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "sensitivus develops from sentire, ‘to feel’, with a suffix meaning ‘tending’ or ‘disposed to’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in senses connected with feeling and perception."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for emotional reactions, careful handling and close responsiveness to changes."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "sensitivity",
+          "label": "noun"
+        },
+        {
+          "term": "sensitively",
+          "label": "adverb"
+        },
+        {
+          "term": "sensitise",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "touchy",
+        "emotionally affected",
+        "careful",
+        "responsive",
+        "confidential"
+      ],
+      "opposite": "insensitive",
+      "pitfall": "Sensitive can describe several different ideas, so check the context: easily upset, emotionally affected, responsive, or in need of secrecy and care."
+    },
+    {
+      "id": "serene",
+      "kind": "word",
+      "term": "serene",
+      "pos": "adjective",
+      "phonetic": "/səˈriːn/",
+      "sayIt": "suh-REEN",
+      "register": "Everyday",
+      "meaning": "Calm, peaceful and undisturbed, especially in feeling or surroundings.",
+      "nuance": "It describes a deep, settled calm rather than ordinary quiet. It is often used when someone is relaxed, a place is peaceful, or an event feels free from stress.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · presenting a difficult project",
+          "sentence": "She remained serene while answering tough questions from the client.",
+          "highlight": "serene",
+          "tip": "Use it to emphasize someone’s composure under pressure."
+        },
+        {
+          "setting": "social",
+          "where": "Garden party · a quiet afternoon",
+          "sentence": "The small garden was serene, with only the sound of birds and running water.",
+          "highlight": "serene",
+          "tip": "Often describes a place that feels peaceful and unhurried."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel journal · describing a morning",
+          "sentence": "We woke early to a serene view of the lake and mist-covered hills.",
+          "highlight": "serene",
+          "tip": "A vivid choice for creating a peaceful, still atmosphere."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin serenus, meaning clear or untroubled, especially like a calm sky or sea.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Serenus referred to a clear sky or a calm, untroubled condition."
+          },
+          {
+            "when": "1500s",
+            "text": "Entered English, initially describing weather and skies."
+          },
+          {
+            "when": "Today",
+            "text": "Widely describes people, places and moments that feel calm and peaceful."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "serenity",
+          "label": "noun"
+        },
+        {
+          "term": "serenely",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "tranquil",
+        "peaceful",
+        "calm",
+        "placid"
+      ],
+      "opposite": "agitated",
+      "pitfall": "Serene suggests a deep absence of disturbance, so it may sound too strong for a merely quiet moment."
+    },
+    {
+      "id": "serenity",
+      "kind": "word",
+      "term": "serenity",
+      "pos": "noun",
+      "phonetic": "/səˈrɛnəti/",
+      "sayIt": "suh-REN-ih-tee",
+      "register": "Common in writing and reflective conversation",
+      "meaning": "A state of being calm, peaceful and free from worry or disturbance.",
+      "nuance": "Serenity suggests deep inner calm rather than ordinary happiness. It is often used in thoughtful writing or to describe a peaceful place, moment or feeling.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team check-in · easing pressure",
+          "sentence": "A short walk helped me regain some serenity before the afternoon review.",
+          "highlight": "serenity",
+          "tip": "Use it for calm that helps you think clearly, especially during a stressful period."
+        },
+        {
+          "setting": "social",
+          "where": "Friends at the park · slowing down",
+          "sentence": "We spent the afternoon by the lake, enjoying rare serenity away from our phones.",
+          "highlight": "serenity",
+          "tip": "It sounds slightly formal, so it works best when describing a noticeably peaceful atmosphere."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel description · describing a retreat",
+          "sentence": "The empty beach offered a sense of serenity that the busy city never could.",
+          "highlight": "serenity",
+          "tip": "A phrase such as ‘a sense of serenity’ is especially natural in reflective or descriptive writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin serenitas, meaning calmness or tranquility, which was based on serenus, meaning calm or peaceful.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Serenitas, ‘calmness or tranquility’, develops from serenus, ‘calm or peaceful’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in the sense of a calm or undisturbed state."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for peaceful feelings, places and moments."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "serene",
+          "label": "adjective"
+        },
+        {
+          "term": "serenely",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "tranquility",
+        "calmness",
+        "peacefulness",
+        "composure"
+      ],
+      "opposite": "agitation",
+      "pitfall": "Serenity describes an absence of disturbance, so it is not quite the same as being joyful or excited."
+    },
+    {
+      "id": "solace",
+      "kind": "word",
+      "term": "solace",
+      "pos": "noun",
+      "phonetic": "/ˈsɑːləs/",
+      "sayIt": "SOL-is",
+      "register": "Formal",
+      "meaning": "Comfort or reassurance that eases someone’s grief, worry, or emotional pain.",
+      "nuance": "It is a slightly formal and often solemn word, especially suitable for serious hardship. It can also be used as a verb, but the noun is more common.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · supporting a colleague",
+          "sentence": "She found some solace in the team’s practical help after the difficult restructure.",
+          "highlight": "solace",
+          "tip": "Often used with “in” when naming the source of comfort."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation with a friend · offering sympathy",
+          "sentence": "A quiet cup of tea and a long talk offered him a little solace that evening.",
+          "highlight": "solace",
+          "tip": "Use it when comfort matters more than advice or distraction."
+        },
+        {
+          "setting": "writing",
+          "where": "Condolence note · expressing sympathy",
+          "sentence": "I hope the passing of time brings you solace and a peaceful remembrance.",
+          "highlight": "solace",
+          "tip": "It suits formal messages of sympathy and remembrance."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French solas, meaning comfort or consolation, borrowed from Latin solacium, a word associated with solace and support.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Solacium referred to comfort, consolation, or a source of relief from distress."
+          },
+          {
+            "when": "Old French",
+            "text": "Solas developed the sense of comfort in grief or difficulty."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word entered English and became established in solemn or serious contexts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "solace",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "comfort",
+        "consolation",
+        "relief",
+        "reassurance"
+      ],
+      "opposite": "anguish",
+      "pitfall": "In formal writing, watch the word order: say “a solace in something” or “a source of solace,” rather than “a solace of something.”"
+    },
+    {
+      "id": "somber",
+      "kind": "word",
+      "term": "somber",
+      "pos": "adjective",
+      "phonetic": "/ˈsɒmbər/",
+      "sayIt": "SOM-ber",
+      "register": "Common in writing",
+      "meaning": "Dark, gloomy, or serious in mood.",
+      "nuance": "It can describe an atmosphere, a color, or a person’s manner. It often suggests sadness or solemnity rather than ordinary low spirits.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · delivering bad news",
+          "sentence": "The room grew somber when the director announced that the project had been cancelled.",
+          "highlight": "somber",
+          "tip": "Useful for describing how an atmosphere changes during bad news or a difficult discussion."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · quiet reflection",
+          "sentence": "Her somber expression told us she did not want to talk about the funeral yet.",
+          "highlight": "somber",
+          "tip": "Use it when someone’s manner suggests deep sadness, seriousness, or restraint."
+        },
+        {
+          "setting": "writing",
+          "where": "Short story · describing a winter landscape",
+          "sentence": "Under a somber sky, the empty road disappeared into the gray hills.",
+          "highlight": "somber",
+          "tip": "It works well for colors and settings that create a dark, reflective mood."
+        }
+      ],
+      "origin": {
+        "summary": "Borrowed from French sombre, meaning ‘dark’ or ‘shadowy,’ and ultimately connected with Latin obscurus, meaning ‘dark’ or ‘hidden.’",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "French",
+            "text": "Appears as sombre, meaning ‘dark,’ ‘shadowy,’ or ‘gloomy.’"
+          },
+          {
+            "when": "1800s",
+            "text": "Enters English and develops its modern sense of a gloomy or solemn mood."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly describes colors, places, events, and expressions that feel dark or serious."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "somberly",
+          "label": "adverb"
+        },
+        {
+          "term": "somberness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "gloomy",
+        "bleak",
+        "solemn",
+        "mournful"
+      ],
+      "opposite": "cheerful",
+      "pitfall": "Do not confuse somber with sombrero, the wide-brimmed hat associated with Mexico."
+    },
+    {
+      "id": "squeamish",
+      "kind": "word",
+      "term": "squeamish",
+      "pos": "adjective",
+      "phonetic": "/ˈskwiːmɪʃ/",
+      "sayIt": "SKWEE-mish",
+      "register": "Everyday",
+      "meaning": "Easily made uncomfortable by unpleasant sights, smells, bodily functions or talk.",
+      "nuance": "It often suggests someone is delicate or easily disturbed rather than seriously frightened. It can also mean excessively proper or moralistic about something.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team lunch · ordering food",
+          "sentence": "I’m squeamish about eating insects, even when they’re served with a clever sauce.",
+          "highlight": "squeamish",
+          "tip": "Use it to describe a personal preference without making a strong moral judgement."
+        },
+        {
+          "setting": "social",
+          "where": "Comedy night · hearing a messy story",
+          "sentence": "My sister is squeamish, so please don’t describe what happened at the party.",
+          "highlight": "squeamish",
+          "tip": "Common when talking about graphic stories, frightening images or messy scenes."
+        },
+        {
+          "setting": "writing",
+          "where": "Restaurant review · describing the atmosphere",
+          "sentence": "The medieval theme was fun, but some visitors may be squeamish about the realistic gore.",
+          "highlight": "squeamish",
+          "tip": "Useful for warning readers that something may be disturbing or unpleasant."
+        }
+      ],
+      "origin": {
+        "summary": "The word probably comes from an older English form meaning affected by nausea or disgust, with a later sense of being overly delicate.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Middle English",
+            "text": "An older form, squamish, appears with meanings connected with nausea and disgust."
+          },
+          {
+            "when": "1600s–1700s",
+            "text": "The spelling squeamish becomes established, including the sense of being easily upset by unpleasant things."
+          },
+          {
+            "when": "Today",
+            "text": "It describes sensitivity to gore, dirt, bodily functions and overly proper reactions."
+          }
+        ]
+      },
+      "similar": [
+        "prissy",
+        "delicate",
+        "easily disturbed",
+        "overly proper"
+      ],
+      "opposite": "unfazed",
+      "pitfall": "Squeamish usually describes a person’s reaction; for the unpleasant feeling itself, use queasy or nauseated."
+    },
+    {
+      "id": "steeped",
+      "kind": "word",
+      "term": "steeped",
+      "pos": "adjective",
+      "phonetic": "/stiːpt/",
+      "sayIt": "STEEPT",
+      "register": "Common at work and in writing",
+      "meaning": "Deeply involved in something or strongly influenced by it.",
+      "nuance": "Usually appears in the phrase “steeped in,” which suggests thorough experience, knowledge or exposure. It can be positive, neutral or negative depending on what someone is steeped in.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing customer research",
+          "sentence": "After years in retail, she’s steeped in understanding why customers abandon their carts.",
+          "highlight": "steeped",
+          "tip": "Use it for deep, developed knowledge rather than basic familiarity."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · discussing university",
+          "sentence": "My sister is steeped in Italian culture and insists we eat our pasta course with a fork.",
+          "highlight": "steeped",
+          "tip": "It sounds warm and approving when the influence is positive."
+        },
+        {
+          "setting": "writing",
+          "where": "Article introduction · discussing workplace culture",
+          "sentence": "New managers are often steeped in individual achievement, even when the role requires close collaboration.",
+          "highlight": "steeped",
+          "tip": "The phrase works well in analytical writing, especially after “deeply.”"
+        }
+      ],
+      "origin": {
+        "summary": "Steeped comes from steepen, an old word for immersing something in liquid, probably influenced by Old English steep, meaning “high” or “sheer.” Its figurative use developed from the idea of being fully immersed.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Old English stēap meant “high, steep or sheer” and helped form the word steepen."
+          },
+          {
+            "when": "Middle English",
+            "text": "Steepen is used for dipping or immersing something, especially in liquid."
+          },
+          {
+            "when": "1600s",
+            "text": "Steeped begins to be used figuratively for being deeply filled with knowledge, experience or influence."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "steep",
+          "label": "adjective"
+        },
+        {
+          "term": "steepen",
+          "label": "verb"
+        },
+        {
+          "term": "steeply",
+          "label": "adverb"
+        },
+        {
+          "term": "steepness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "immersed",
+        "deeply involved",
+        "well-versed",
+        "saturated"
+      ],
+      "opposite": "uninvolved",
+      "pitfall": "Steeped usually means deeply affected or involved; it does not simply mean “very interested.”"
+    },
+    {
+      "id": "sullen",
+      "kind": "word",
+      "term": "sullen",
+      "pos": "adjective",
+      "phonetic": "/ˈsʌlən/",
+      "sayIt": "SUL-un",
+      "register": "Everyday",
+      "meaning": "Quietly bad-tempered or unhappy in a way that suggests someone feels hurt, resentful, or disappointed.",
+      "nuance": "It describes a noticeably gloomy mood or manner, often lasting a little while. It can sound more severe than simply being unhappy.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · missed deadline",
+          "sentence": "He became sullen after hearing that his proposal had been rejected without an explanation.",
+          "highlight": "sullen",
+          "tip": "Use it for a visible change in someone’s manner, not just momentary frustration."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · plans changed",
+          "sentence": "She was sullen all evening after the trip fell through.",
+          "highlight": "sullen",
+          "tip": "It often suggests quiet displeasure or resentment rather than open anger."
+        },
+        {
+          "setting": "writing",
+          "where": "Novel · describing a tense family scene",
+          "sentence": "He stared at the untouched meal, his sullen silence making everyone uncomfortable.",
+          "highlight": "sullen",
+          "tip": "Pair it with silence, expression, or manner to show the mood clearly."
+        }
+      ],
+      "origin": {
+        "summary": "The word developed through Middle English and Anglo-French, ultimately relating to an Old French word for sulking. Its deeper origin is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Old French",
+            "text": "The word’s ancestor meant ‘to sulk’ or ‘to be sullen’."
+          },
+          {
+            "when": "Middle English",
+            "text": "Sullen appears in English with meanings connected with sulking and gloomy behaviour."
+          },
+          {
+            "when": "Today",
+            "text": "It describes someone who is quietly unhappy, resentful, or bad-tempered."
+          }
+        ]
+      },
+      "similar": [
+        "glum",
+        "morose",
+        "dour",
+        "sulky"
+      ],
+      "opposite": "cheerful",
+      "pitfall": "Don’t use sullen for a brief annoyance; it suggests a deeper, more persistent mood."
+    },
+    {
+      "id": "tantalize",
+      "kind": "word",
+      "term": "tantalize",
+      "pos": "verb",
+      "phonetic": "/ˈtæntəlaɪz/",
+      "sayIt": "TAN-tuh-LYZE",
+      "register": "Common in writing and formal speech",
+      "meaning": "To tease someone by showing or promising something desirable while withholding full access to it.",
+      "nuance": "It suggests deliberate delay, creating curiosity or desire. It can be playful, but it may also sound manipulative when someone repeatedly promises rewards without delivering them.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing future plans",
+          "sentence": "Company rumors can tantalize employees with the promise of bonuses that may never arrive.",
+          "highlight": "tantalize",
+          "tip": "Useful when describing a promise that keeps people interested without giving them a clear answer."
+        },
+        {
+          "setting": "social",
+          "where": "Group chat · guessing the guest",
+          "sentence": "The mystery guest's messages tantalize us all, but no one knows who invited them.",
+          "highlight": "tantalize",
+          "tip": "It can create a playful sense of mystery when information is revealed slowly."
+        },
+        {
+          "setting": "writing",
+          "where": "Novel opening · delaying an explanation",
+          "sentence": "Use the opening clue to tantalize readers with a first taste of the truth, then delay the full reveal.",
+          "highlight": "tantalize",
+          "tip": "It is effective in descriptions, headlines and suspenseful writing."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Tantalus in Greek mythology, a punished figure who could see food and drink but never reach them. English later used his name for the experience of being teased by something just out of reach.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek mythology",
+            "text": "Tantalus is repeatedly offered food and water that move away whenever he tries to reach them."
+          },
+          {
+            "when": "1500s",
+            "text": "The name Tantalus enters English as a warning against unreasonable desire."
+          },
+          {
+            "when": "1600s",
+            "text": "The verb form appears, meaning to tease someone by keeping a desired thing out of reach."
+          },
+          {
+            "when": "Today",
+            "text": "It describes curiosity or desire created by delay, mystery or a withheld reward."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "tantalizing",
+          "label": "adjective"
+        },
+        {
+          "term": "tantalization",
+          "label": "noun"
+        },
+        {
+          "term": "tantalizingly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "tease",
+        "entice",
+        "lure",
+        "tempt",
+        "bewitch"
+      ],
+      "opposite": "satisfy",
+      "pitfall": "Tantalize is stronger than tease: it usually involves something desirable that is kept just out of reach or promised but not yet delivered."
+    },
+    {
+      "id": "tranquil",
+      "kind": "word",
+      "term": "tranquil",
+      "pos": "adjective",
+      "phonetic": "/ˈtræŋkwɪl/",
+      "sayIt": "TRANK-wil",
+      "register": "Everyday",
+      "meaning": "Calm, peaceful and free from disturbance or tension.",
+      "nuance": "It describes a place, atmosphere or feeling that is gently still and settled. It is usually more peaceful than simply quiet, but less formal than serene.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · easing a tense discussion",
+          "sentence": "The room became tranquil once we focused on solving the problem instead of blaming one another.",
+          "highlight": "tranquil",
+          "tip": "Use it for an atmosphere or situation that has become calm and relaxed."
+        },
+        {
+          "setting": "social",
+          "where": "Park picnic · a quiet afternoon",
+          "sentence": "We found a tranquil spot near the lake and stayed there until sunset.",
+          "highlight": "tranquil",
+          "tip": "It can describe a pleasant place where you feel unhurried and at ease."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel review · describing a hotel",
+          "sentence": "The garden was tranquil, with soft music and the sound of birds near the water.",
+          "highlight": "tranquil",
+          "tip": "It adds a sense of peaceful beauty, especially when describing a setting or atmosphere."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin tranquillus, meaning calm or undisturbed. Its deeper roots are uncertain, but the word has long been associated with peace and stillness.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Tranquillus, meaning calm, peaceful or undisturbed."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English in literary and descriptive contexts."
+          },
+          {
+            "when": "Today",
+            "text": "Used for peaceful places, atmospheres and feelings."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "tranquility",
+          "label": "noun"
+        },
+        {
+          "term": "tranquillity",
+          "label": "noun (British spelling)"
+        },
+        {
+          "term": "tranquilize",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "calm",
+        "peaceful",
+        "serene",
+        "placid"
+      ],
+      "opposite": "agitated",
+      "pitfall": "Tranquil describes a state of calmness; it does not mean completely empty or without activity."
+    }
+  ]
+}

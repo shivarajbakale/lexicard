@@ -1,0 +1,1744 @@
+{
+  "id": "words-praise-criticism-1",
+  "kind": "word",
+  "name": "Praise & criticism · 1",
+  "blurb": "25 words about praise & criticism",
+  "cards": [
+    {
+      "id": "admonish",
+      "kind": "word",
+      "term": "admonish",
+      "pos": "verb",
+      "phonetic": "/ədˈmɒnɪʃ/",
+      "sayIt": "ad-MON-ish",
+      "register": "Formal",
+      "meaning": "To tell someone firmly that their behaviour is wrong and that they should change it.",
+      "nuance": "Stronger and more formal than a simple warning, but usually less severe than a scolding. It often implies disappointment rather than open anger.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing missed deadlines",
+          "sentence": "Her manager admonished her for overlooking the deadline, then discussed how to prevent a repeat.",
+          "highlight": "admonished",
+          "tip": "Use it when correcting conduct or performance in a serious but measured way."
+        },
+        {
+          "setting": "social",
+          "where": "Family dinner · interrupting a guest",
+          "sentence": "Dad admonished us for arguing while our guest was trying to speak.",
+          "highlight": "admonished",
+          "tip": "It sounds more disapproving and formal than “told us not to.”"
+        },
+        {
+          "setting": "writing",
+          "where": "Formal letter · unacceptable conduct",
+          "sentence": "The committee admonished the organisation for failing to follow the agreed safety process.",
+          "highlight": "admonished",
+          "tip": "It works in official reports and letters when you want to record a serious criticism."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin admonere, meaning ‘to warn’ or ‘advise’, with the sense of warning someone against wrongdoing. It entered English through Old French.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Admonere combines ad- ‘to’ with monere ‘to warn’, giving ‘to warn someone’."
+          },
+          {
+            "when": "Old French",
+            "text": "The word appears in English with senses including warning, advising and correcting."
+          },
+          {
+            "when": "Today",
+            "text": "It usually means formally correcting someone for unacceptable behaviour."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "admonition",
+          "label": "noun"
+        },
+        {
+          "term": "admonitory",
+          "label": "adjective"
+        },
+        {
+          "term": "admonishingly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "rebuke",
+        "reprimand",
+        "warn",
+        "disapprove"
+      ],
+      "opposite": "praise",
+      "pitfall": "Don’t use it for a mild reminder; “admonish” suggests a firm correction or serious disapproval."
+    },
+    {
+      "id": "adroit",
+      "kind": "word",
+      "term": "adroit",
+      "pos": "adjective",
+      "phonetic": "/əˈdrɔɪt/",
+      "sayIt": "uh-DROY",
+      "register": "Formal",
+      "meaning": "Skilled and quick to handle people, situations or difficult tasks.",
+      "nuance": "It often suggests clever judgement combined with confident action, rather than simply being highly skilled. It sounds especially natural in professional praise or formal writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · acknowledging a colleague",
+          "sentence": "She was adroit at calming the client and turning the conversation toward a clear next step.",
+          "highlight": "adroit",
+          "tip": "Use it to praise someone’s tact and ability to manage a difficult moment."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · resolving an awkward topic",
+          "sentence": "He was adroit enough to change the subject without making anyone feel excluded.",
+          "highlight": "adroit",
+          "tip": "It describes social awareness and deft handling, not merely physical dexterity."
+        },
+        {
+          "setting": "writing",
+          "where": "Recommendation letter · describing a colleague",
+          "sentence": "Her adroit negotiations helped the two teams agree on a workable schedule.",
+          "highlight": "adroit",
+          "tip": "This slightly formal word suits recommendations, reports and professional profiles."
+        }
+      ],
+      "origin": {
+        "summary": "Adroit comes through French from the expression meaning ‘to the right’, originally referring to skill with the right hand. In English, it developed into a word for clever, skilful and effective action.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "French",
+            "text": "Adroit meant ‘skilful’ or ‘dexterous’, with the sense of being able or lucky with the right hand."
+          },
+          {
+            "when": "1600s",
+            "text": "The word began appearing in English, mainly in descriptions of skilful or clever handling."
+          },
+          {
+            "when": "Today",
+            "text": "It is used especially for someone who handles people or tricky situations deftly."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "adroitly",
+          "label": "adverb"
+        },
+        {
+          "term": "adroitness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "skilful",
+        "adept",
+        "dexterous",
+        "tactful"
+      ],
+      "opposite": "awkward",
+      "pitfall": "Adroit describes skilful or clever handling, especially of people or situations; it is not a general word for physical dexterity."
+    },
+    {
+      "id": "aesthetic",
+      "kind": "word",
+      "term": "aesthetic",
+      "pos": "adjective",
+      "phonetic": "/iːsˈθetɪk/",
+      "sayIt": "eez-THET-ik",
+      "register": "Common at work and in writing",
+      "meaning": "Concerned with beauty, style, and the visual qualities of something.",
+      "nuance": "Often describes an appearance, design, or choice that appeals to a sense of beauty. It can also mean concerned with the study of beauty in art and design.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Design review · choosing a colour palette",
+          "sentence": "The new branding feels more aesthetic, with softer colours and cleaner typography.",
+          "highlight": "aesthetic",
+          "tip": "Use it when discussing visual appeal or the overall style of a design."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing a restaurant · looking at the décor",
+          "sentence": "The place has a very aesthetic interior, but the food is quite ordinary.",
+          "highlight": "aesthetic",
+          "tip": "In social conversation, it usually focuses on how something looks or feels stylish."
+        },
+        {
+          "setting": "writing",
+          "where": "Product description · promoting a redesign",
+          "sentence": "This aesthetic update gives the room a calmer, more modern feel.",
+          "highlight": "aesthetic",
+          "tip": "It works well in creative writing, reviews, and descriptions of visual design."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek aisthetikos, meaning ‘perceptive’ or ‘relating to the senses’, connected with aisthesis, ‘perception’. It entered English in the 17th century and originally referred more broadly to sensory experience and beauty.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Aisthetikos means ‘perceptive, sensitive, or relating to the senses’, from aisthesis, ‘perception’."
+          },
+          {
+            "when": "17th century",
+            "text": "The word enters English in philosophical and artistic contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly refers to visual beauty, style, or the principles of design."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "aesthetics",
+          "label": "noun"
+        },
+        {
+          "term": "aesthetically",
+          "label": "adverb"
+        },
+        {
+          "term": "aesthetic",
+          "label": "noun (aesthetic quality or style)"
+        }
+      ],
+      "similar": [
+        "visual",
+        "artistic",
+        "stylish",
+        "beautiful"
+      ],
+      "opposite": "unaesthetic",
+      "pitfall": "Use ‘aesthetic’ for visual or sensory appeal; don’t use it as a general synonym for ‘good’ unless beauty or style is the point."
+    },
+    {
+      "id": "asinine",
+      "kind": "word",
+      "term": "asinine",
+      "pos": "adjective",
+      "phonetic": "/ˈeɪsɪnaɪn/",
+      "sayIt": "AY-suh-nyne",
+      "register": "Formal and strongly negative",
+      "meaning": "Extremely foolish, unreasonable, or lacking sensible judgement.",
+      "nuance": "Stronger and more insulting than “foolish.” It is best used for ideas, plans, or behaviour that are clearly absurd rather than merely careless.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing a proposal",
+          "sentence": "That suggestion is asinine—we already fixed the same issue last week.",
+          "highlight": "asinine",
+          "tip": "Use it when you need to label an idea as completely foolish."
+        },
+        {
+          "setting": "social",
+          "where": "Apologising to a friend",
+          "sentence": "I know I was asinine for double-booking us, so let’s sort it out.",
+          "highlight": "asinine",
+          "tip": "It is a blunt way to admit your own foolish behaviour."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial comment · criticising a policy",
+          "sentence": "Calling the policy asinine makes the argument stronger, but may also make the criticism sound personal.",
+          "highlight": "asinine",
+          "tip": "It suits forceful criticism, though “unreasonable” may sound less hostile."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin asinus, meaning “donkey,” and connected with the French asin. The word originally described donkey-like foolishness before developing its modern insulting sense.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Asinus means “donkey,” an animal traditionally associated with foolishness."
+          },
+          {
+            "when": "1600s",
+            "text": "Asinine enters English through French and is used to describe foolish or unreasonable behaviour."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal, sharply negative word for something absurdly foolish."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "asininity",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "foolish",
+        "absurd",
+        "ridiculous",
+        "unreasonable"
+      ],
+      "opposite": "sensible",
+      "pitfall": "It can sound excessively harsh, so avoid it when the criticism is mild or your tone needs to remain tactful."
+    },
+    {
+      "id": "awesome",
+      "kind": "word",
+      "term": "awesome",
+      "pos": "adjective",
+      "phonetic": "/ˈɔːsəm/",
+      "sayIt": "AW-suhm",
+      "register": "Casual",
+      "meaning": "Something or someone so good that it creates strong admiration or excitement.",
+      "nuance": "It is an enthusiastic, informal way to praise something impressive. Because it is used so often, it can sound exaggerated or less sincere unless the context makes the admiration clear.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team celebration · a successful launch",
+          "sentence": "Your presentation was awesome—you made a complicated project easy to understand.",
+          "highlight": "awesome",
+          "tip": "Use it for genuine praise, but a specific compliment often sounds more professional."
+        },
+        {
+          "setting": "social",
+          "where": "Concert · hearing a favourite song",
+          "sentence": "That final song was awesome; the whole room started singing along.",
+          "highlight": "awesome",
+          "tip": "It works well with friends and other relaxed situations."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a friend · sharing good news",
+          "sentence": "You’ll love the new place—the food is awesome and the view is incredible.",
+          "highlight": "awesome",
+          "tip": "It suits personal messages and informal reviews better than formal reports."
+        }
+      ],
+      "origin": {
+        "summary": "Formed from the Old English word for awe plus a suffix meaning ‘having the quality of’. Its older sense was inspiring awe; the modern, enthusiastic sense developed later.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "Awe comes from Old English, where it referred to something that inspired wonder or fear."
+          },
+          {
+            "when": "1600s",
+            "text": "Awesome enters English with the meaning ‘inspiring awe’."
+          },
+          {
+            "when": "1800s",
+            "text": "The sense shifts toward something overwhelmingly impressive or delightful, especially in American English."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly an informal word for expressing strong admiration or excitement."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "awesomeness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "amazing",
+        "impressive",
+        "terrific",
+        "spectacular"
+      ],
+      "opposite": "unimpressive",
+      "pitfall": "In formal writing, choose a precise word such as impressive, remarkable or excellent instead of a generic ‘awesome’."
+    },
+    {
+      "id": "banal",
+      "kind": "word",
+      "term": "banal",
+      "pos": "adjective",
+      "phonetic": "/bəˈnɑːl/",
+      "sayIt": "buh-NAHL",
+      "register": "Common in writing and formal conversation",
+      "meaning": "So ordinary or predictable that it has little interest or impact.",
+      "nuance": "Often sounds slightly critical, especially about ideas, design or conversation. It can also suggest that something is dull because it follows familiar patterns without adding anything new.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Design review · judging a concept",
+          "sentence": "The layout looks polished, but the idea feels far too banal for a new product.",
+          "highlight": "banal",
+          "tip": "Use it to describe work that is competent but unoriginal."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · commenting on a speech",
+          "sentence": "His apology sounded banal, like he had simply read a prepared statement.",
+          "highlight": "banal",
+          "tip": "It can politely suggest that something lacks thought, originality or emotion."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · assessing a novel",
+          "sentence": "The opening chapter is full of familiar mysteries, and the dialogue never becomes particularly banal.",
+          "highlight": "banal",
+          "tip": "A strong choice in criticism when predictability is the main problem."
+        }
+      ],
+      "origin": {
+        "summary": "The word came through French from Latin, where it referred to something connected with ordinary village life. Over time, it developed into a criticism of things that are unoriginal and uninteresting.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Banalis referred to something belonging to the country or common people."
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered English through French with the sense of common or ordinary."
+          },
+          {
+            "when": "1800s",
+            "text": "It began to mean dull, predictable and lacking originality."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "banality",
+          "label": "noun"
+        },
+        {
+          "term": "banally",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "unoriginal",
+        "dull",
+        "predictable",
+        "mundane"
+      ],
+      "opposite": "original",
+      "pitfall": "Banal is more critical than ordinary: it suggests that something is not merely common, but dull because it is so predictable."
+    },
+    {
+      "id": "belittle",
+      "kind": "word",
+      "term": "belittle",
+      "pos": "verb",
+      "phonetic": "/bɪˈlɪt.əl/",
+      "sayIt": "be-LIT-ul",
+      "register": "Formal",
+      "meaning": "To make someone or something seem small, unimportant, or worthy of disrespect.",
+      "nuance": "Belittling can be deliberate or accidental, and it often harms the person being criticized more than it changes the subject.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing an idea",
+          "sentence": "Don’t belittle Maya’s suggestion; it may solve a problem the rest of us missed.",
+          "highlight": "belittle",
+          "tip": "Use it when someone dismisses a person or contribution as insignificant."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · disagreeing about a hobby",
+          "sentence": "I know you don’t like my photography, but please don’t belittle it in front of everyone.",
+          "highlight": "belittle",
+          "tip": "It can describe spoken remarks that openly show contempt."
+        },
+        {
+          "setting": "writing",
+          "where": "Feedback email · defending a colleague",
+          "sentence": "The report belittles junior staff by treating their mistakes as evidence that they are incapable.",
+          "highlight": "belittles",
+          "tip": "Especially useful for describing language that demeans or diminishes someone."
+        }
+      ],
+      "origin": {
+        "summary": "Formed in English from the prefix be- and the word little, with the sense of making something seem less important.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The word little appears, referring to a small size or amount."
+          },
+          {
+            "when": "19th century",
+            "text": "Belittle emerges as a verb formed from be- and little."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for criticism, mockery, or treatment that diminishes someone’s value."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "belittlement",
+          "label": "noun"
+        },
+        {
+          "term": "belittling",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "demean",
+        "disparage",
+        "minimize",
+        "put down"
+      ],
+      "opposite": "praise",
+      "pitfall": "Belittle describes how someone is treated or spoken about; belittling describes the dismissive behaviour or remarks themselves."
+    },
+    {
+      "id": "caustic",
+      "kind": "word",
+      "term": "caustic",
+      "pos": "adjective",
+      "phonetic": "/ˈkɔːstɪk/",
+      "sayIt": "KOS-tik",
+      "register": "Formal; common in criticism",
+      "meaning": "Harshly critical in a way intended to sting, or able to burn or corrode in chemistry.",
+      "nuance": "Caustic criticism is sharp and often witty, but it can leave the other person feeling wounded. The chemical meaning describes a substance that damages tissue or materials.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Draft review · team feedback",
+          "sentence": "Her caustic review of the draft made the team defensive.",
+          "highlight": "caustic",
+          "tip": "Use it for criticism that feels cutting, not merely negative."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · teasing a friend",
+          "sentence": "His caustic joke about my cooking landed, but it wasn't kind.",
+          "highlight": "caustic",
+          "tip": "It often suggests that the humour has a deliberately painful edge."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · criticising repeated delays",
+          "sentence": "The report uses caustic language to describe the department's repeated delays.",
+          "highlight": "caustic",
+          "tip": "Stronger and more pointed than simply critical or negative."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek words associated with burning, through the Latin adjective causticus. Its chemical sense came first, while the critical sense developed later.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "Kaustikos means ‘burning’ and is related to kautos, ‘burned’."
+          },
+          {
+            "when": "Latin",
+            "text": "Causticus develops meanings connected with burning and corrosive substances."
+          },
+          {
+            "when": "1600s onward",
+            "text": "English uses the word in chemical and medical contexts."
+          },
+          {
+            "when": "1800s",
+            "text": "The figurative meaning becomes established for harsh, biting criticism."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "caustically",
+          "label": "adverb"
+        },
+        {
+          "term": "causticity",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "acerbic",
+        "scathing",
+        "vitriolic",
+        "corrosive"
+      ],
+      "opposite": "gentle or mild",
+      "pitfall": "Don't use it as a general synonym for negative; caustic implies a particularly sharp, painful effect."
+    },
+    {
+      "id": "censure",
+      "kind": "word",
+      "term": "censure",
+      "pos": "verb",
+      "phonetic": "/ˈsenʃər/",
+      "sayIt": "SEN-shur",
+      "register": "Formal",
+      "meaning": "To criticize someone strongly, especially by making an official statement of disapproval.",
+      "nuance": "Censure sounds severe and authoritative, often implying that the person’s conduct was unacceptable. It is more common in official, legal and workplace contexts than in casual conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · addressing repeated delays",
+          "sentence": "The committee voted to censure the supervisor for failing to report repeated delivery problems.",
+          "highlight": "censure",
+          "tip": "Use it when a formal body is officially criticizing serious or repeated misconduct."
+        },
+        {
+          "setting": "social",
+          "where": "Friends’ disagreement · breaking a promise",
+          "sentence": "I had to censure my friend for making plans she repeatedly cancelled without explaining.",
+          "highlight": "censure",
+          "tip": "In conversation, it is noticeably formal and stronger than simply saying “criticize.”"
+        },
+        {
+          "setting": "writing",
+          "where": "Official report · reviewing misconduct",
+          "sentence": "The report recommended that the board censure the employee for disclosing confidential information.",
+          "highlight": "censure",
+          "tip": "It fits formal reports and disciplinary statements where the criticism is clearly official."
+        }
+      ],
+      "origin": {
+        "summary": "Censure comes from Latin censura, meaning “judgment” or “stricture,” and was associated with the idea of making a formal adverse judgment.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Censura, meaning “judgment” or “blame,” develops from censere, “to judge or estimate.”"
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in legal and official contexts for formal criticism or adverse judgment."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal word, often used for criticism by an authority or in serious contexts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "censurable",
+          "label": "adjective"
+        },
+        {
+          "term": "censor",
+          "label": "verb"
+        },
+        {
+          "term": "censorship",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "condemn",
+        "denounce",
+        "reprimand",
+        "criticize"
+      ],
+      "opposite": "commend",
+      "pitfall": "Do not confuse censure with censorship. Censure means to criticize or formally blame someone; censorship means restricting or removing content."
+    },
+    {
+      "id": "comely",
+      "kind": "word",
+      "term": "comely",
+      "pos": "adjective",
+      "phonetic": "/ˈkʌmli/",
+      "sayIt": "KUM-lee",
+      "register": "Everyday, literary",
+      "meaning": "Attractive or pleasing to look at.",
+      "nuance": "It suggests simple, harmonious beauty rather than striking glamour. The word sounds slightly old-fashioned and is more common in writing than in everyday conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Design review · approving packaging",
+          "sentence": "The new packaging looks comely, with soft colours and clear labels.",
+          "highlight": "comely",
+          "tip": "Use it for a neat, balanced appearance rather than an flashy design."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding · complimenting a guest",
+          "sentence": "That blue dress looks wonderfully comely on you.",
+          "highlight": "comely",
+          "tip": "It offers a warm, literary compliment without sounding overly dramatic."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel description · describing a village",
+          "sentence": "Beyond the hill lay a comely village of stone cottages and flowering gardens.",
+          "highlight": "comely",
+          "tip": "It works well for giving a scene a calm, picturesque quality."
+        }
+      ],
+      "origin": {
+        "summary": "From Middle English comly, built from Old English cūmlic, a word associated with suitability or attractiveness.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The ancestor cūmlic was formed from cūm, meaning suitable or comely, and the suffix -lic."
+          },
+          {
+            "when": "Middle English",
+            "text": "Comly appeared in English with meanings connected with beauty, suitability and pleasant appearance."
+          },
+          {
+            "when": "Today",
+            "text": "It chiefly means attractive or pleasing, with a slightly literary tone."
+          }
+        ]
+      },
+      "similar": [
+        "attractive",
+        "pleasing",
+        "beautiful",
+        "graceful"
+      ],
+      "opposite": "unattractive",
+      "pitfall": "Comely describes pleasant appearance or style; it does not mean merely convenient or becoming."
+    },
+    {
+      "id": "denigrated",
+      "kind": "word",
+      "term": "denigrated",
+      "pos": "verb",
+      "phonetic": "/ˈdɛnɪɡreɪtɪd/",
+      "sayIt": "DEN-ih-gray-tid",
+      "register": "Formal",
+      "meaning": "Described someone or something disparagingly; the past tense and past participle of denigrate.",
+      "nuance": "This is a strong, formal word for attacking someone’s character, work or reputation. It often suggests that the criticism is unfair or exaggerated.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · defending a colleague",
+          "sentence": "The manager denigrated her work without acknowledging the time she had spent fixing the system.",
+          "highlight": "denigrated",
+          "tip": "Use it for serious, disparaging criticism rather than ordinary disapproval."
+        },
+        {
+          "setting": "social",
+          "where": "Discussion · questioning a harsh claim",
+          "sentence": "He denigrated his former employer whenever anyone asked why he had left.",
+          "highlight": "denigrated",
+          "tip": "It can describe someone who repeatedly speaks negatively about another person."
+        },
+        {
+          "setting": "writing",
+          "where": "Article · criticizing a public figure",
+          "sentence": "The article denigrated the politician’s career by ignoring years of public service.",
+          "highlight": "denigrated",
+          "tip": "It suits formal editorial writing when you want to emphasize damaging or unfair criticism."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin denigrare, meaning ‘to blacken’, built from de- and niger, ‘black’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Denigrare originally meant to make black or darken."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English with the sense of speaking abusively or disparagingly."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal word for damaging someone’s reputation or character."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "denigration",
+          "label": "noun"
+        },
+        {
+          "term": "denigrator",
+          "label": "noun (person)"
+        },
+        {
+          "term": "denigrate",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "disparaged",
+        "vilified",
+        "maligned",
+        "belittled"
+      ],
+      "opposite": "praised",
+      "pitfall": "Denigrate is normally followed directly by the person or thing being criticized: ‘She denigrated his work’, not ‘She denigrated about his work.’"
+    },
+    {
+      "id": "deplorable",
+      "kind": "word",
+      "term": "deplorable",
+      "pos": "adjective",
+      "phonetic": "/dɪˈplɔːrəbəl/",
+      "sayIt": "dih-PLOR-uh-buhl",
+      "register": "Formal",
+      "meaning": "Describing something that is deeply bad and deserves strong disapproval.",
+      "nuance": "The word sounds formal and emphatic, often expressing regret as well as criticism. It may sound overly dramatic when used about a minor problem.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team review · discussing a failed launch",
+          "sentence": "Ignoring repeated safety warnings was deplorable, and the team will need to explain why it happened.",
+          "highlight": "deplorable",
+          "tip": "Use it for serious misconduct, not simply a disappointing result."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · unfair treatment of a friend",
+          "sentence": "It is deplorable that she was singled out simply for asking a reasonable question.",
+          "highlight": "deplorable",
+          "tip": "This adds a formal, strongly disapproving tone to social criticism."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · condemning a public decision",
+          "sentence": "The decision to remove vulnerable families from the support programme is deplorable.",
+          "highlight": "deplorable",
+          "tip": "It works well in formal writing when you want to combine condemnation with regret."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin deplorare, meaning ‘to lament’ or ‘to bewail’, formed from de- and plorare, ‘to cry or wail’. The word originally described something that could be mourned.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Deplorare develops from de- ‘completely’ and plorare ‘to cry or wail’."
+          },
+          {
+            "when": "1600s",
+            "text": "Enters English with the sense of ‘lamentable’ or ‘worthy of lament’."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "Develops its modern sense of being intensely bad and deserving disapproval."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "deplorably",
+          "label": "adverb"
+        },
+        {
+          "term": "deploration",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "lamentable",
+        "disgraceful",
+        "appalling",
+        "reprehensible"
+      ],
+      "opposite": "commendable",
+      "pitfall": "Don’t use it as a gentler synonym for sad or depressed; it condemns something as seriously wrong."
+    },
+    {
+      "id": "deprecate",
+      "kind": "word",
+      "term": "deprecate",
+      "pos": "verb",
+      "phonetic": "/dɛprəˈkeɪt/",
+      "sayIt": "DEH-pruh-KAYT",
+      "register": "Formal",
+      "meaning": "To state strongly that you do not approve of something.",
+      "nuance": "This is a formal and fairly old-fashioned way to express strong disapproval. In technical writing, it can also mean to advise against using something because it is outdated or no longer recommended.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Safety review · challenging a shortcut",
+          "sentence": "We should deprecate that approach because it rewards speed without checking whether the work is safe.",
+          "highlight": "deprecate",
+          "tip": "Use it for a firm, reasoned objection rather than a mild complaint."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · responding to a harmful remark",
+          "sentence": "I have to deprecate that remark; it unfairly damages a colleague who is not here.",
+          "highlight": "deprecate",
+          "tip": "It sounds especially formal, so reserve it for comments that deserve a clear response."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial note · correcting a misleading claim",
+          "sentence": "In this article, I deprecate the claim that the policy affects everyone equally.",
+          "highlight": "deprecate",
+          "tip": "It works well in editorials, essays and formal statements of disagreement."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin deprecari, meaning to pray against or lament something, built from de- and precari, both connected with praying. It originally referred to praying against an unwelcome outcome.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Deprecari formed from de-, meaning down or against, and precari, meaning to pray."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with the sense of praying against or lamenting something."
+          },
+          {
+            "when": "1800s",
+            "text": "Its meaning develops into expressing strong disapproval."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "deprecation",
+          "label": "noun"
+        },
+        {
+          "term": "deprecated",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "disapprove",
+        "condemn",
+        "decry",
+        "reprimand"
+      ],
+      "opposite": "approve",
+      "pitfall": "Do not confuse it with depreciate, which means to reduce something's value, or with deprecate in computing, where something is deprecated when it is discouraged but may still be used."
+    },
+    {
+      "id": "deride",
+      "kind": "word",
+      "term": "deride",
+      "pos": "verb",
+      "phonetic": "/dɪˈraɪd/",
+      "sayIt": "di-RIDE",
+      "register": "Formal",
+      "meaning": "Mock someone or something in a way that shows contempt or amusement.",
+      "nuance": "Deride is more openly critical and mocking than simply disagree. It can describe ridicule with a sharp, often hostile tone, though it is also used for lighter teasing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · challenging a proposal",
+          "sentence": "Several managers derided the idea instead of explaining why it would not work.",
+          "highlight": "derided",
+          "tip": "Use it for ridicule that is openly dismissive or contemptuous."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation with friends · teasing a friend",
+          "sentence": "They derided my old jacket, but I wore it with pride anyway.",
+          "highlight": "derided",
+          "tip": "In social settings, it often means laughing at someone in an exaggerated or mocking way."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · discussing a weak performance",
+          "sentence": "The criticism derides the film for being empty and predictable.",
+          "highlight": "derides",
+          "tip": "This is effective in formal writing when you want to show strong disapproval through ridicule."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin deridere, formed from de- and ridere, both meaning 'to laugh'.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Deridere develops the sense 'to laugh down' or 'mock'."
+          },
+          {
+            "when": "1600s",
+            "text": "The word appears in English with the meaning 'to mock or ridicule'."
+          },
+          {
+            "when": "Today",
+            "text": "It is used especially in formal speech and writing."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "derision",
+          "label": "noun"
+        },
+        {
+          "term": "derisive",
+          "label": "adjective"
+        },
+        {
+          "term": "derisively",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "ridicule",
+        "mock",
+        "scoff",
+        "lampoon"
+      ],
+      "opposite": "respect",
+      "pitfall": "Deride usually suggests contemptuous ridicule; it is stronger and more pointed than simply describe or criticize."
+    },
+    {
+      "id": "derogatory",
+      "kind": "word",
+      "term": "derogatory",
+      "pos": "adjective",
+      "phonetic": "/dɪˈrɒɡətri/",
+      "sayIt": "deh-ROG-uh-tor-ee",
+      "register": "Formal",
+      "meaning": "Showing contempt or disapproval of someone or something.",
+      "nuance": "Stronger and more formal than simply negative, but not necessarily an outright insult. It often describes language, attitudes or treatment that disrespect someone.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing feedback",
+          "sentence": "His derogatory comments about new employees made the whole team uncomfortable.",
+          "highlight": "derogatory",
+          "tip": "Use it for remarks or behaviour that clearly show contempt."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · repeating someone’s insult",
+          "sentence": "She described his narrow view of other people in strongly derogatory terms.",
+          "highlight": "derogatory",
+          "tip": "This is more forceful and formal than calling someone simply rude."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · condemning a public statement",
+          "sentence": "The committee condemned the statement as derogatory toward disabled employees.",
+          "highlight": "derogatory",
+          "tip": "Common in formal writing about insulting, discriminatory or disrespectful language."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin derogatorius, meaning “that takes away,” built on derogare, “to take away” or “deprive.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "Derogare combines de-, meaning “away from,” with rogare, “to ask or petition,” and originally meant “to take away.”"
+          },
+          {
+            "when": "1500s",
+            "text": "Derogatory enters English as a legal and formal word connected with taking away someone’s rights or reputation."
+          },
+          {
+            "when": "Today",
+            "text": "It describes words, attitudes or actions that express contempt or disapproval."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "derogation",
+          "label": "noun"
+        },
+        {
+          "term": "derogatorily",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "disparaging",
+        "pejorative",
+        "insulting",
+        "contemptuous"
+      ],
+      "opposite": "complimentary",
+      "pitfall": "Don’t confuse it with derisory, which can mean mocking or playfully taunting rather than seriously contemptuous."
+    },
+    {
+      "id": "disparage",
+      "kind": "word",
+      "term": "disparage",
+      "pos": "verb",
+      "phonetic": "/dɪˈspærɪdʒ/",
+      "sayIt": "dis-PAR-ij",
+      "register": "Formal",
+      "meaning": "To speak about someone or something critically, especially in a way that makes them seem less important or valuable.",
+      "nuance": "It suggests harsh or unfair belittling, not merely mild criticism. It is common in formal debate and commentary but may sound strong in everyday conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · defending a colleague",
+          "sentence": "The director disparaged her work without acknowledging the results she had delivered.",
+          "highlight": "disparaged",
+          "tip": "Use it for serious verbal attacks, especially when no evidence supports the criticism."
+        },
+        {
+          "setting": "social",
+          "where": "Group chat · repeating a complaint",
+          "sentence": "He disparaged the restaurant before admitting that he had never tried it.",
+          "highlight": "disparaged",
+          "tip": "This shows how the word can imply criticism based on ignorance or prejudice."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · reviewing a policy",
+          "sentence": "The article disparages small businesses while overlooking the jobs they create.",
+          "highlight": "disparages",
+          "tip": "It works well in formal writing when criticising a treatment of a person or group."
+        }
+      ],
+      "origin": {
+        "summary": "It comes through Old French from a word meaning to make unequal or treat as inferior.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The roots suggest making unequal or treating something as less important."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word appears with the sense of belittling or speaking harshly about."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal and literary criticism."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "disparagement",
+          "label": "noun"
+        },
+        {
+          "term": "disparaging",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "belittle",
+        "denigrate",
+        "demean",
+        "decry"
+      ],
+      "opposite": "praise",
+      "pitfall": "Do not confuse it with disparity, which means an unfair or unequal difference."
+    },
+    {
+      "id": "dulcet",
+      "kind": "word",
+      "term": "dulcet",
+      "pos": "adjective",
+      "phonetic": "/ˈdʌlsɪt/",
+      "sayIt": "DUHL-sit",
+      "register": "Literary",
+      "meaning": "Pleasant or sweet-sounding, especially when describing a voice, instrument or piece of music.",
+      "nuance": "It suggests a refined, mellow sound and is often used in writing. In conversation, it can sound formal, old-fashioned or deliberately affected.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Voice-over review · choosing a presenter",
+          "sentence": "The presenter’s dulcet voice suited the calm evening programme.",
+          "highlight": "dulcet",
+          "tip": "Use it for a voice that sounds gentle, smooth and pleasing."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · reacting to a singer",
+          "sentence": "Her dulcet singing filled the small room with warmth.",
+          "highlight": "dulcet",
+          "tip": "It sounds more literary than the everyday phrase ‘sweet-sounding’."
+        },
+        {
+          "setting": "writing",
+          "where": "Music review · describing an ensemble",
+          "sentence": "The dulcet strings gave the finale a soft, luminous glow.",
+          "highlight": "dulcet",
+          "tip": "It pairs naturally with musical words such as strings, voice and tones."
+        }
+      ],
+      "origin": {
+        "summary": "Borrowed from French dulcet, from the Latin dulcis, meaning ‘sweet’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Dulcis means ‘sweet’ and was used for flavours, sounds and pleasing qualities."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with the sense of sweet-sounding or musically pleasing."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly a literary word for a pleasant sound."
+          }
+        ]
+      },
+      "similar": [
+        "euphonious",
+        "mellifluous",
+        "sweet-sounding",
+        "soothing"
+      ],
+      "opposite": "discordant",
+      "pitfall": "Use it mainly for sounds, voices and music; it is not a standard word for food that tastes sweet."
+    },
+    {
+      "id": "egregious",
+      "kind": "word",
+      "term": "egregious",
+      "pos": "adjective",
+      "phonetic": "/ɪˈɡriːdʒəs/",
+      "sayIt": "ih-GREE-juss",
+      "register": "Formal",
+      "meaning": "Extremely bad, shocking, and worthy of strong disapproval.",
+      "nuance": "This is a forceful word that goes beyond simply making a mistake. It often suggests that something is unusually serious, careless, or offensive.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing a serious error",
+          "sentence": "Ignoring the security warning was an egregious mistake that put customer data at risk.",
+          "highlight": "egregious",
+          "tip": "Use it when the wrongdoing is so serious that ordinary criticism sounds too mild."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · describing unacceptable behaviour",
+          "sentence": "She was egregious at the party, interrupting everyone and refusing to listen.",
+          "highlight": "egregious",
+          "tip": "This usage is less formal and focuses on behaviour that is extremely annoying or inappropriate."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · condemning a public failure",
+          "sentence": "The organisation’s handling of the complaint was egregious and deserves a full investigation.",
+          "highlight": "egregious",
+          "tip": "It works well in formal criticism, especially of serious failures, scandals, or acts of negligence."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin egregius, meaning ‘outstanding’ or ‘standing apart from the flock’. The negative sense in English developed from the idea of something standing out as exceptionally bad.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin antiquity",
+            "text": "Egregius was formed from ex-, ‘out’, and grex, ‘flock’, and originally meant outstanding or distinguished."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English and is used for qualities that stand out, including seriously bad ones."
+          },
+          {
+            "when": "Today",
+            "text": "It chiefly means exceptionally bad or shocking."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "egregiousness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "glaring",
+        "flagrant",
+        "atrocious",
+        "abhorrent"
+      ],
+      "opposite": "commendable",
+      "pitfall": "Don’t use it for every small problem; ‘egregious’ suggests an extreme degree of badness or seriousness."
+    },
+    {
+      "id": "eminent",
+      "kind": "word",
+      "term": "eminent",
+      "pos": "adjective",
+      "phonetic": "/ˈemɪnənt/",
+      "sayIt": "EM-ih-nunt",
+      "register": "Formal",
+      "meaning": "Well known and respected because of someone’s achievements, abilities or reputation.",
+      "nuance": "It sounds respectful and slightly formal, often suggesting that a person is distinguished in a particular field. It is more about standing and recognition than about being wealthy or powerful.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company announcement · leadership change",
+          "sentence": "The company has appointed the eminent economist Dr. Patel as its new chair.",
+          "highlight": "eminent",
+          "tip": "Use it for someone whose expertise or public standing is widely recognised."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · introducing a guest",
+          "sentence": "I’d like you to meet Clara, an eminent historian who has written several books on the period.",
+          "highlight": "eminent",
+          "tip": "A polished way to praise someone when you want to sound respectful but not overly casual."
+        },
+        {
+          "setting": "writing",
+          "where": "Conference biography · speaker profile",
+          "sentence": "An eminent civil rights lawyer, she has represented communities in landmark cases.",
+          "highlight": "eminent",
+          "tip": "It fits formal biographical writing, especially before a person’s name or profession."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin eminens, meaning ‘projecting’ or ‘standing out’, it originally referred to a person who was distinguished or prominent.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Eminens means ‘projecting, prominent or distinguished’, from eminere, ‘to stand out’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English with meanings connected with prominence and distinction."
+          },
+          {
+            "when": "Today",
+            "text": "It describes a person who is highly respected and well known in a field."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "eminence",
+          "label": "noun"
+        },
+        {
+          "term": "eminently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "distinguished",
+        "prominent",
+        "renowned",
+        "acclaimed"
+      ],
+      "opposite": "obscure",
+      "pitfall": "Don’t confuse it with imminent, which means about to happen or likely to happen soon."
+    },
+    {
+      "id": "encomium",
+      "kind": "word",
+      "term": "encomium",
+      "pos": "noun",
+      "phonetic": "/ɪnˈkoʊmiəm/",
+      "sayIt": "en-KOH-mee-um",
+      "register": "Formal",
+      "meaning": "A speech, passage, or public statement expressing strong praise for someone or something.",
+      "nuance": "This is a formal, literary word often used for an elaborate tribute to a person’s character or achievements. It can suggest praise so warm that it sounds almost excessive.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Awards speech · honouring a colleague",
+          "sentence": "Her leadership transformed the department, and my encomium would be well deserved.",
+          "highlight": "encomium",
+          "tip": "Use it for a formal or especially flattering tribute."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding toast · praising a host",
+          "sentence": "Everyone raised their glasses as John offered an affectionate encomium to the newly married couple.",
+          "highlight": "encomium",
+          "tip": "It fits a ceremonial occasion where the praise is polished and heartfelt."
+        },
+        {
+          "setting": "writing",
+          "where": "Book review · assessing an author’s work",
+          "sentence": "The final chapter reads like an encomium to the resilience of ordinary people.",
+          "highlight": "encomium",
+          "tip": "Use it when praising a work for the values or qualities it celebrates."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin encomium, a borrowing of Greek enkōmion, meaning a song or speech of praise.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Enkōmion referred to a song or speech honouring someone and praising their achievements."
+          },
+          {
+            "when": "Latin",
+            "text": "Encomium became a term for formal praise, especially in speeches and literary works."
+          },
+          {
+            "when": "1500s",
+            "text": "The word entered English through Latin, initially in scholarly and literary contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal word for an expression of strong praise."
+          }
+        ]
+      },
+      "similar": [
+        "eulogy",
+        "tribute",
+        "acclaim",
+        "commendation",
+        "panegyric"
+      ],
+      "opposite": "criticism",
+      "pitfall": "An encomium praises a person or work; it is not necessarily a speech given after someone has died, as a eulogy often is."
+    },
+    {
+      "id": "epithet",
+      "kind": "word",
+      "term": "epithet",
+      "pos": "noun",
+      "phonetic": "/ˈepɪθət/",
+      "sayIt": "EP-ih-thit",
+      "register": "Formal; common in writing",
+      "meaning": "A word or phrase used to describe someone or something, often as a memorable label.",
+      "nuance": "An epithet can be admiring, neutral, or insulting, but it often suggests a striking judgment that others know. In modern English, it frequently has a negative edge.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing a colleague",
+          "sentence": "He has earned the epithet “the fixer” because he solves problems before they become serious.",
+          "highlight": "epithet",
+          "tip": "Use it for a memorable label that may sound affectionate, admiring or critical."
+        },
+        {
+          "setting": "social",
+          "where": "At a party · teasing a friend",
+          "sentence": "Calling him “the human alarm clock” is an affectionate epithet, but it clearly gets under his skin.",
+          "highlight": "epithet",
+          "tip": "The word can sound more formal than nickname while still implying a shared joke."
+        },
+        {
+          "setting": "writing",
+          "where": "Media profile · introducing a public figure",
+          "sentence": "The article avoids the flattering epithet “visionary” and instead examines her difficult decisions.",
+          "highlight": "epithet",
+          "tip": "A strong choice in critical writing when the label may influence how readers judge someone."
+        }
+      ],
+      "origin": {
+        "summary": "It comes through French from Ancient Greek epitheton, meaning an addition or something placed upon another.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Epitheton referred to an added word or phrase, especially a title or description placed alongside a name."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English through French and is used in discussions of rhetoric and literary style."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means a memorable descriptive label, often with a critical or insulting undertone."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "epithetic",
+          "label": "adjective"
+        },
+        {
+          "term": "epithetically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "nickname",
+        "sobriquet",
+        "label",
+        "descriptive title"
+      ],
+      "pitfall": "An epithet is not always an insult, though modern usage often suggests one. Do not confuse it with epitaph, an inscription on a tomb."
+    },
+    {
+      "id": "excoriate",
+      "kind": "word",
+      "term": "excoriate",
+      "pos": "verb",
+      "phonetic": "/ɪkˈskɔːrieɪt/",
+      "sayIt": "ik-SKOR-ee-ayt",
+      "register": "Formal",
+      "meaning": "To criticize someone or something very harshly and in detail.",
+      "nuance": "This is a strong, formal word for attacking a person, performance or policy. It suggests detailed and merciless criticism rather than ordinary disapproval.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing a weak proposal",
+          "sentence": "The director excoriated the proposal for ignoring the risks, then invited the team to suggest a better plan.",
+          "highlight": "excoriated",
+          "tip": "Use it when the criticism is deliberately severe and public."
+        },
+        {
+          "setting": "social",
+          "where": "Debate with friends · defending a restaurant",
+          "sentence": "My friends excoriated the restaurant for refusing to seat us, although the staff were polite.",
+          "highlight": "excoriated",
+          "tip": "It can sound dramatic, so use it carefully in less formal conversations."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · reviewing a government policy",
+          "sentence": "The columnist excoriated the policy for helping wealthy companies while leaving low-income households behind.",
+          "highlight": "excoriated",
+          "tip": "It fits serious commentary when you want to convey forceful condemnation."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin excoriare, meaning ‘to strip the skin from’, which later developed into the figurative sense of criticizing harshly.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Excoriare, from ex- ‘from’ and corium ‘hide’, meaning ‘to strip off the skin’."
+          },
+          {
+            "when": "1600s",
+            "text": "Appears in English with the literal medical meaning of removing skin."
+          },
+          {
+            "when": "Later",
+            "text": "Develops the figurative meaning ‘to criticize severely’."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "excoriation",
+          "label": "noun"
+        },
+        {
+          "term": "excoriated",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "lambaste",
+        "berate",
+        "denounce",
+        "reprimand"
+      ],
+      "opposite": "praise",
+      "pitfall": "This is stronger than criticize. It can also mean to scrape or strip the skin, especially in medical writing, so check the context."
+    },
+    {
+      "id": "extol",
+      "kind": "word",
+      "term": "extol",
+      "pos": "verb",
+      "phonetic": "/ɪkˈstoʊl/",
+      "sayIt": "ik-STOHL",
+      "register": "Formal",
+      "meaning": "To praise someone or something very highly, often in a speech or piece of writing.",
+      "nuance": "This sounds more emphatic than “praise” and suggests strong admiration. It is especially common in speeches, reviews and formal writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Company presentation · celebrating a colleague",
+          "sentence": "I’d like to extol Maya’s patience and care, which kept the project on track during a difficult launch.",
+          "highlight": "extol",
+          "tip": "Use it for strong, formal praise, often alongside qualities or achievements."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding toast · praising the couple",
+          "sentence": "It’s a pleasure to extol two people who make every room feel warmer and more welcoming.",
+          "highlight": "extol",
+          "tip": "It fits ceremonial occasions where heartfelt praise is expected."
+        },
+        {
+          "setting": "writing",
+          "where": "Restaurant review · recommending a meal",
+          "sentence": "We should extol the roasted vegetables, which were tender, colourful and full of flavour.",
+          "highlight": "extol",
+          "tip": "The word gives a review a polished, enthusiastic tone."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin extollere, formed from ex-, meaning ‘out’, and tollere, meaning ‘to raise or lift’. The literal idea was to raise something or someone higher.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Extollere meant ‘to raise’ or ‘lift up’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word entered English with the sense of praising highly."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly formal and is often used with a person, quality or achievement."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "extolment",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "laud",
+        "praise",
+        "acclaim",
+        "celebrate"
+      ],
+      "opposite": "criticize",
+      "pitfall": "Extol is not the same as “exalt,” which can mean to give someone greater importance or to lift someone emotionally."
+    },
+    {
+      "id": "fatuous",
+      "kind": "word",
+      "term": "fatuous",
+      "pos": "adjective",
+      "phonetic": "/ˈfætʃuəs/",
+      "sayIt": "FAH-choo-uss",
+      "register": "Formal",
+      "meaning": "Showing foolishness or a lack of sensible thought.",
+      "nuance": "Often suggests that someone is absurdly self-important as well as foolish. It can sound sharply critical, so use it carefully.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · challenging a proposal",
+          "sentence": "His fatuous claim that ignoring the deadline would improve teamwork fooled no one.",
+          "highlight": "fatuous",
+          "tip": "Use it for an idea or remark that is both foolish and annoyingly confident."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · reacting to a boast",
+          "sentence": "She dismissed the boast as fatuous and changed the subject.",
+          "highlight": "fatuous",
+          "tip": "It has a formal, cutting tone that may make a social exchange uncomfortable."
+        },
+        {
+          "setting": "writing",
+          "where": "Opinion column · mocking empty promises",
+          "sentence": "The speech offered a fatuous solution to a problem no one had described.",
+          "highlight": "fatuous",
+          "tip": "It works well in critical or satirical writing, but not in neutral reports."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin fatuosus, meaning foolish or insipid, probably influenced by French fatueux.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Fatuosus develops from fatuus, meaning foolish, silly or pointless."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word begins appearing in English, especially in literary and moral criticism."
+          },
+          {
+            "when": "Today",
+            "text": "It describes foolishness, often with a sense of ridiculous self-importance."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "fatuity",
+          "label": "noun"
+        },
+        {
+          "term": "fatuously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "foolish",
+        "absurd",
+        "vacuous",
+        "ridiculous"
+      ],
+      "opposite": "sensible",
+      "pitfall": "Do not use fatuous for every bad idea; it is stronger and more judgemental than simply incorrect or impractical."
+    },
+    {
+      "id": "felicitous",
+      "kind": "word",
+      "term": "felicitous",
+      "pos": "adjective",
+      "phonetic": "/fəˈliːsɪtəs/",
+      "sayIt": "feh-LIS-ih-tus",
+      "register": "Formal",
+      "meaning": "A happy accident, or a choice that is especially apt and well suited to the situation.",
+      "nuance": "Often praises a fortunate result or a neatly fitting expression. It sounds polished and literary rather than casual.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product launch · reviewing a campaign",
+          "sentence": "The campaign’s final slogan was the felicitous choice we needed.",
+          "highlight": "felicitous",
+          "tip": "Use it to praise a particularly successful decision or result."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception · making a speech",
+          "sentence": "Her felicitous toast had everyone laughing before the meal began.",
+          "highlight": "felicitous",
+          "tip": "Natural for a remark that is both amusing and perfectly timed."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · evaluating a novel",
+          "sentence": "The author’s felicitous ending brings the central conflict into clear focus.",
+          "highlight": "felicitous",
+          "tip": "Useful in formal criticism when highlighting an especially effective choice."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin felicitās, meaning happiness or good fortune, which comes from felix, meaning happy or lucky.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Felicitās develops from felix, ‘happy, lucky, successful’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in senses connected with happiness and good fortune."
+          },
+          {
+            "when": "Today",
+            "text": "It also describes something aptly chosen or especially fortunate."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "felicity",
+          "label": "noun"
+        },
+        {
+          "term": "felicitously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "apt",
+        "opportune",
+        "fortunate",
+        "happy"
+      ],
+      "opposite": "unfortunate",
+      "pitfall": "It is often more appropriate in writing or formal speech than in everyday conversation."
+    }
+  ]
+}

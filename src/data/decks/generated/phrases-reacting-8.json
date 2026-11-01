@@ -1,0 +1,1372 @@
+{
+  "id": "phrases-reacting-8",
+  "kind": "phrase",
+  "name": "Reacting · 8",
+  "blurb": "23 phrases about reacting",
+  "cards": [
+    {
+      "id": "trust-but-verify",
+      "kind": "phrase",
+      "term": "trust, but verify",
+      "pos": "phrase",
+      "hint": "believe someone, then check",
+      "register": "Common at work",
+      "meaning": "To accept someone’s word while still confirming that what they say is accurate.",
+      "nuance": "It balances openness with caution, suggesting that trust should be supported by evidence rather than assumed blindly. It can sound sensible and professional, though repeated use may feel distrustful.",
+      "literal": "Trust what someone tells you, but check the facts yourself.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Reviewing a colleague’s figures",
+          "sentence": "Trust, but verify: send me the source data and I’ll confirm the totals before we publish them.",
+          "highlight": "Trust, but verify",
+          "tip": "Use it as a light reminder to check important claims, not to imply deception."
+        },
+        {
+          "setting": "social",
+          "where": "Arranging plans with a friend",
+          "sentence": "Trust, but verify—the restaurant may have changed its opening hours, so check before we head over.",
+          "highlight": "Trust, but verify",
+          "tip": "It adds gentle humor when you want friendly advice without sounding doubtful."
+        },
+        {
+          "setting": "writing",
+          "where": "Email about a late delivery",
+          "sentence": "We trust the courier, but verify the tracking details before asking the customer for an update.",
+          "highlight": "verify",
+          "tip": "Consider echoing the full phrase if the caution should be clear to a wider audience."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from a line associated with the Russian proverb “Trust, but verify,” which advised checking facts rather than accepting claims without proof.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The Russian proverb “Доверяй, но проверяй” conveyed the same idea."
+          },
+          {
+            "when": "20th century onward",
+            "text": "The English expression gained attention in international relations as advice to confirm claims before acting."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely used in work, politics, journalism and everyday conversation."
+          }
+        ]
+      },
+      "similar": [
+        "check before you trust",
+        "verify the facts",
+        "take it with a pinch of salt"
+      ],
+      "opposite": "take it on faith",
+      "pitfall": "The wording can sound suspicious if directed at someone you know; frame it as good practice rather than doubt."
+    },
+    {
+      "id": "turn-of-speed",
+      "kind": "phrase",
+      "term": "turn of speed",
+      "pos": "phrase",
+      "hint": "a sudden burst of rapid action",
+      "register": "Common in British English",
+      "meaning": "A brief period of unusually fast movement or activity.",
+      "nuance": "It often suggests people springing into action quickly, sometimes just in time to solve a problem. The phrase can sound slightly literary or old-fashioned.",
+      "literal": "A sudden quickening of pace or movement.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Server outage · urgent response",
+          "sentence": "After the client called, the support team showed a turn of speed and restored service within minutes.",
+          "highlight": "turn of speed",
+          "tip": "It emphasises how quickly people responded, not how long the work took."
+        },
+        {
+          "setting": "social",
+          "where": "Race to catch a train",
+          "sentence": "We need a turn of speed if we’re going to catch the last train.",
+          "highlight": "turn of speed",
+          "tip": "Use “with a turn of speed” for a brief, fast burst of effort."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · acknowledging extra effort",
+          "sentence": "Thanks to a turn of speed from the design team, the launch post went out on time.",
+          "highlight": "turn of speed",
+          "tip": "It works well when praising a quick response to an urgent situation."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is unclear, but the phrase developed from older expressions combining “turn,” meaning a change or movement, with “speed,” meaning pace.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The words “turn” and “speed” were combined to suggest quick movement or action."
+          },
+          {
+            "when": "19th century",
+            "text": "The phrase appears in British English for a sudden quickening of pace."
+          },
+          {
+            "when": "Today",
+            "text": "It remains natural in British English, especially in stories, workplace updates and lightly formal writing."
+          }
+        ]
+      },
+      "similar": [
+        "burst of speed",
+        "surge of activity",
+        "swift response",
+        "quick turn"
+      ],
+      "opposite": "slow pace",
+      "pitfall": "Do not use it for a sudden change of direction; its focus is speed and rapid activity."
+    },
+    {
+      "id": "two-can-play-at-that-game",
+      "kind": "phrase",
+      "term": "two can play at that game",
+      "pos": "idiom",
+      "hint": "responding with the same tactic",
+      "register": "Common at work",
+      "meaning": "If one person can use a particular tactic or behaviour, another person can respond in the same way.",
+      "nuance": "It suggests that you understand the tactic and can turn it back on the other person. It can sound playful among friends but sharp or confrontational in a serious disagreement.",
+      "literal": "Two players can compete using the same game or strategy.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Responding to a colleague’s criticism",
+          "sentence": "If you can question my judgment like that, two can play at that game.",
+          "highlight": "two can play at that game",
+          "tip": "Use it only when you intend to challenge the criticism directly."
+        },
+        {
+          "setting": "social",
+          "where": "Teasing a friend who pranks you",
+          "sentence": "You hid my keys, but two can play at that game.",
+          "highlight": "two can play at that game",
+          "tip": "It works as a playful threat to return the joke."
+        },
+        {
+          "setting": "writing",
+          "where": "Replying to a sharp comment",
+          "sentence": "You may enjoy mocking my replies, but two can play at that game.",
+          "highlight": "two can play at that game",
+          "tip": "Keep the tone controlled, especially in a professional email."
+        }
+      ],
+      "origin": {
+        "summary": "The wording developed from the older idea that if one player can compete in a game, another can compete too. Its figurative use for matching someone else’s tactics appears in English by the 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression referred literally to two people being able to compete in the same game."
+          },
+          {
+            "when": "19th century",
+            "text": "The figurative sense emerged for answering someone with the same behaviour or strategy."
+          },
+          {
+            "when": "Today",
+            "text": "It is used in arguments, teasing and friendly competition."
+          }
+        ]
+      },
+      "similar": [
+        "turn it around",
+        "you can play too",
+        "the tables can turn"
+      ],
+      "opposite": "one-sided",
+      "pitfall": "It can escalate a disagreement if your tone makes the response sound hostile rather than witty."
+    },
+    {
+      "id": "up-and-at-em",
+      "kind": "phrase",
+      "term": "up and at 'em",
+      "pos": "phrase",
+      "hint": "ready and starting work",
+      "register": "Casual",
+      "meaning": "Ready to begin working or dealing with a task with energy and determination.",
+      "nuance": "It has a lively, slightly old-fashioned British feel and suggests getting on with the day rather than sitting around.",
+      "literal": "Rush up and confront them, as in a fight or competitive task.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Morning team briefing",
+          "sentence": "The new reports are ready, so let’s be up and at 'em.",
+          "highlight": "up and at 'em",
+          "tip": "Use it to encourage a brisk start, especially in a familiar workplace."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend plans at a friend’s house",
+          "sentence": "We’ve got a lot to decorate, so everyone needs to be up and at 'em.",
+          "highlight": "up and at 'em",
+          "tip": "It suits informal British conversation, but may sound too quirky for some audiences."
+        },
+        {
+          "setting": "writing",
+          "where": "Email ending a team update",
+          "sentence": "We’ve cleared the urgent issues, and the rest of the team will be up and at 'em this afternoon.",
+          "highlight": "up and at 'em",
+          "tip": "It adds energy to a friendly update, but “we’ll get started” is more formal."
+        }
+      ],
+      "origin": {
+        "summary": "The wording is probably a shortened form of “up and at them,” used as though someone were charging into a fight or task. It became established in British speech during the 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression developed from the older wording “up and at them,” implying a direct, energetic attack."
+          },
+          {
+            "when": "1800s",
+            "text": "The shortened form began appearing in British accounts of work, sport and everyday activity."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly a familiar, slightly old-fashioned British phrase."
+          }
+        ]
+      },
+      "similar": [
+        "get going",
+        "get cracking",
+        "be on the ball"
+      ],
+      "opposite": "sit around",
+      "pitfall": "It can sound dated or regional, so choose “get going” or “get started” in formal or international communication."
+    },
+    {
+      "id": "wait-for-it",
+      "kind": "phrase",
+      "term": "wait for it",
+      "pos": "phrase",
+      "hint": "pause before the good part",
+      "register": "Common at work and in casual conversation",
+      "meaning": "A request to pause briefly because something interesting, surprising or important is about to happen.",
+      "nuance": "It creates anticipation and is often used before revealing news, a punchline or the next step in a story. It can sound playful if the context is relaxed.",
+      "literal": "Hold on briefly before the next part comes.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team announcement · teasing an update",
+          "sentence": "Wait for it—the vendor just cut the delivery time in half.",
+          "highlight": "Wait for it",
+          "tip": "Use it when you are about to share good news that deserves a dramatic pause."
+        },
+        {
+          "setting": "social",
+          "where": "Party reveal · announcing a surprise",
+          "sentence": "Wait for it, then I’ll tell you who just called.",
+          "highlight": "Wait for it",
+          "tip": "It works well with friends when the suspense is genuine rather than exaggerated."
+        },
+        {
+          "setting": "writing",
+          "where": "Newsletter · teasing the main update",
+          "sentence": "Wait for it: our customer satisfaction score has reached its highest level this year.",
+          "highlight": "Wait for it",
+          "tip": "A light hook for an informal email or newsletter, but avoid it in formal reports."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably grew from stage and spoken directions telling performers or audiences to delay until a later moment. Its modern use as a suspense-building expression is well established.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Literal sense: delay until the appropriate moment."
+          },
+          {
+            "when": "20th century",
+            "text": "Used as a spoken cue to build suspense before revealing information."
+          },
+          {
+            "when": "Today",
+            "text": "Common in casual speech, entertainment and informal writing."
+          }
+        ]
+      },
+      "similar": [
+        "hold on",
+        "keep an eye out",
+        "brace yourself"
+      ],
+      "pitfall": "Use it only when there is something worth waiting for; otherwise, it may make ordinary news sound overly dramatic."
+    },
+    {
+      "id": "watch-this-space",
+      "kind": "phrase",
+      "term": "watch this space",
+      "pos": "idiom",
+      "hint": "keep an eye on what happens next",
+      "register": "Common at work",
+      "meaning": "An invitation to pay attention because something interesting or important is expected to happen soon.",
+      "nuance": "It creates anticipation and is often used when a plan, announcement or development is still under wraps. It works best when there is genuinely something to look forward to.",
+      "literal": "Keep watching the area because a future announcement or event will appear there.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team update · teasing a new initiative",
+          "sentence": "We’re announcing the pilot next month, so watch this space for details.",
+          "highlight": "watch this space",
+          "tip": "Use it to build interest without giving away the full plan."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · hinting at a personal update",
+          "sentence": "I’ve got some exciting news to share, so watch this space.",
+          "highlight": "watch this space",
+          "tip": "It sounds playful and slightly mysterious rather than urgent."
+        },
+        {
+          "setting": "writing",
+          "where": "Newsletter · promoting an upcoming event",
+          "sentence": "More information about the community event will follow next week, so watch this space.",
+          "highlight": "watch this space",
+          "tip": "Pair it with a clear time frame so readers know when to return."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably comes from printed notices that reserved a particular space for a future announcement. It later became a way of teasing news or developments that had not yet been revealed.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Literal sense: keeping watch on a space reserved for a notice or announcement."
+          },
+          {
+            "when": "1900s",
+            "text": "The expression appears in publicity and printed notices as a promise of a future announcement."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used to tease upcoming news, projects, events or developments."
+          }
+        ]
+      },
+      "similar": [
+        "stay tuned",
+        "watch out",
+        "more to come",
+        "keep an eye out"
+      ],
+      "opposite": "nothing to see here",
+      "pitfall": "It can sound empty if you never follow up with the promised news or announcement."
+    },
+    {
+      "id": "well-played",
+      "kind": "phrase",
+      "term": "well played",
+      "pos": "idiom",
+      "hint": "a good move, or a clever performance",
+      "register": "Common at work and socially",
+      "meaning": "Used to praise someone for making a smart move, handling a situation well or achieving a difficult result.",
+      "nuance": "It sounds appreciative and often enthusiastic, though people may also use it sarcastically when they think a move was obvious or badly timed.",
+      "literal": "In a performance, something was played skillfully and effectively.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team debrief · reviewing a difficult launch",
+          "sentence": "Well played by the support team; they handled the complaints before customers noticed the delay.",
+          "highlight": "Well played",
+          "tip": "It works best when you name the specific action that deserves praise."
+        },
+        {
+          "setting": "social",
+          "where": "Friendly competition · watching a quiz",
+          "sentence": "Well played—you remembered the answer I completely blanked on.",
+          "highlight": "Well played",
+          "tip": "Keep the tone light when offering praise to a friend."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a colleague · acknowledging quick thinking",
+          "sentence": "Well played spotting that discrepancy before the report went out.",
+          "highlight": "Well played",
+          "tip": "A simple alternative to “Great job,” but it can feel slightly more playful."
+        }
+      ],
+      "origin": {
+        "summary": "Probably began with a literal description of a skilled theatrical or musical performance, then developed into general praise for clever or effective action.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Literal sense: a role, move or piece of music was performed well."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression appears in English writing as a compliment for effective performance."
+          },
+          {
+            "when": "20th century onward",
+            "text": "It expanded beyond performance to mean that someone acted cleverly or handled a situation successfully."
+          }
+        ]
+      },
+      "similar": [
+        "nice one",
+        "good move",
+        "well done"
+      ],
+      "opposite": "poorly played",
+      "pitfall": "Check your tone carefully: “well played” can be sarcastic if you mean the opposite."
+    },
+    {
+      "id": "what-can-i-say",
+      "kind": "phrase",
+      "term": "What can I say",
+      "pos": "phrase",
+      "hint": "a reaction of surprise, admiration or resignation",
+      "register": "Everyday",
+      "meaning": "An expression used when a reaction is so strong or unexpected that words seem inadequate.",
+      "nuance": "It can show admiration, surprise, amusement or helpless resignation, so the surrounding context determines the feeling.",
+      "literal": "There is nothing useful I can add in response to what has happened.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team celebration · a colleague’s success",
+          "sentence": "Their presentation was flawless; what can I say, it made the whole process much easier.",
+          "highlight": "what can I say",
+          "tip": "Use it after giving a specific reason for your reaction."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · an unexpected gift",
+          "sentence": "You found my favourite book; what can I say, I’m completely delighted.",
+          "highlight": "what can I say",
+          "tip": "It sounds warm when followed by an honest, positive reaction."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a friend · sharing good news",
+          "sentence": "The trip is finally booked. What can I say, I’ve been looking forward to it for months.",
+          "highlight": "What can I say",
+          "tip": "Keep the lowercase form when it appears inside a sentence."
+        }
+      ],
+      "origin": {
+        "summary": "Probably developed from a simple conversational question about what one can say in response to something remarkable. Its modern meaning became established through everyday speech.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "Early forms use the words literally, asking what response is possible."
+          },
+          {
+            "when": "Early 20th century",
+            "text": "The expression becomes common as a brief reaction to surprise, praise or helplessness."
+          },
+          {
+            "when": "Today",
+            "text": "It remains natural in spoken English and informal writing."
+          }
+        ]
+      },
+      "similar": [
+        "What a relief",
+        "You have no idea",
+        "I don’t know what to say",
+        "Words fail me"
+      ],
+      "opposite": "There’s nothing to say",
+      "pitfall": "On its own, it can sound vague; add a short comment so the listener understands whether you are amazed, amused or simply resigned."
+    },
+    {
+      "id": "when-all-is-said-and-done",
+      "kind": "phrase",
+      "term": "when all is said and done",
+      "pos": "idiom",
+      "hint": "after considering everything",
+      "register": "Common at work and in conversation",
+      "meaning": "Used to introduce a final judgment after all the important facts and arguments have been considered.",
+      "nuance": "It signals that you have weighed the matter carefully and are giving the conclusion that matters most. It can sound slightly formal or conclusive.",
+      "literal": "After everything that needs saying has been said and all the relevant actions have been done.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · weighing the results",
+          "sentence": "When all is said and done, the new process saved the team several hours each week.",
+          "highlight": "When all is said and done",
+          "tip": "Use it to frame the main conclusion after discussing the evidence."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation about a difficult choice",
+          "sentence": "When all is said and done, you should probably choose the option that gives you more time.",
+          "highlight": "When all is said and done",
+          "tip": "It works well when summarizing your advice after hearing both sides."
+        },
+        {
+          "setting": "writing",
+          "where": "Email closing a discussion",
+          "sentence": "When all is said and done, the deadline is the main issue we need to resolve.",
+          "highlight": "When all is said and done",
+          "tip": "Use it to emphasize the final point without sounding abrupt."
+        }
+      ],
+      "origin": {
+        "summary": "Probably developed from a proverb-like expression meaning that once all the talking and relevant actions are finished, the final outcome can be judged.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression developed from the idea that decisions can be assessed after everything has been said and done."
+          },
+          {
+            "when": "19th century",
+            "text": "The wording became established in English as a formula for introducing a final conclusion."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common way to summarize a considered judgment."
+          }
+        ]
+      },
+      "similar": [
+        "in the final analysis",
+        "after everything is taken into account",
+        "all things considered"
+      ],
+      "pitfall": "It can sound overly dramatic if the point has not been carefully discussed; make sure the final judgment is clear."
+    },
+    {
+      "id": "when-life-gives-you-lemons",
+      "kind": "phrase",
+      "term": "when life gives you lemons",
+      "pos": "idiom",
+      "hint": "turning a setback into an opportunity",
+      "register": "Everyday",
+      "meaning": "Used when facing a difficult situation and choosing to make the best of it.",
+      "nuance": "It is often completed with “make lemonade,” suggesting a positive, practical response. It can feel encouraging, but may sound dismissive if someone is struggling.",
+      "literal": "Sour lemons are turned into a refreshing drink.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team retrospective · responding to a setback",
+          "sentence": "When life gives you lemons, we can improve the process instead of blaming the missed deadline.",
+          "highlight": "When life gives you lemons",
+          "tip": "Pair it with a practical next step so it does not sound empty."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with friends · staying cheerful",
+          "sentence": "When life gives you lemons, invite the friends over and make a pitcher of lemonade.",
+          "highlight": "When life gives you lemons",
+          "tip": "The familiar ending “make lemonade” makes the joke clear."
+        },
+        {
+          "setting": "writing",
+          "where": "Motivational message · overcoming a delay",
+          "sentence": "When life gives you lemons, make lemonade and focus on what you can control.",
+          "highlight": "When life gives you lemons",
+          "tip": "Use the complete proverb for a more natural, familiar sound."
+        }
+      ],
+      "origin": {
+        "summary": "The saying is often credited to Napoleon Bonaparte, but there is no reliable evidence that he said it. Versions circulated in American writing during the 19th century.",
+        "confidence": "myth",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Proverbs connected sour things with making something sweet or useful."
+          },
+          {
+            "when": "1800s",
+            "text": "Newspapers and popular publications print versions of the lemon-and-lemonade saying."
+          },
+          {
+            "when": "Today",
+            "text": "The familiar phrase is used worldwide as a reminder to respond constructively to setbacks."
+          }
+        ]
+      },
+      "similar": [
+        "make lemonade",
+        "make the most of it",
+        "turn things around"
+      ],
+      "pitfall": "Avoid using it to dismiss someone else’s serious problem; it may come across as falsely cheerful."
+    },
+    {
+      "id": "who-am-i-kidding",
+      "kind": "phrase",
+      "term": "Who am I kidding?",
+      "pos": "phrase",
+      "hint": "admitting you know the truth",
+      "register": "Casual",
+      "meaning": "A rhetorical way of admitting that you know you are fooling yourself.",
+      "nuance": "It adds self-aware humor, often when another option is unrealistic or obvious. It can be dismissive if directed at someone else, so use it mainly when joking about your own choices.",
+      "literal": "A question asking who could possibly be tricked, with the answer being nobody.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning a deadline",
+          "sentence": "Who am I kidding? The deadline is Friday, and we still haven’t agreed the scope.",
+          "highlight": "Who am I kidding",
+          "tip": "Use it to acknowledge an obvious limitation with humor, not to dodge accountability."
+        },
+        {
+          "setting": "social",
+          "where": "Joking about New Year’s plans",
+          "sentence": "Who am I kidding? I’m not pretending I’ll wake up at five to work on my tan.",
+          "highlight": "Who am I kidding",
+          "tip": "It works well when you are admitting your own excuse or unrealistic plan."
+        },
+        {
+          "setting": "writing",
+          "where": "Casual email to a friend",
+          "sentence": "Who am I kidding? We both know neither of us wants to host the dinner party.",
+          "highlight": "Who am I kidding",
+          "tip": "Keep it in informal messages; it may sound flippant in professional communication."
+        }
+      ],
+      "origin": {
+        "summary": "Likely grew from the older expression “who am I fool?” and the longstanding meaning of “kid” as deceive or trick someone. Its modern use is primarily rhetorical rather than a literal question.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The word “kid” came to mean deceive or trick someone."
+          },
+          {
+            "when": "20th century",
+            "text": "The question developed into a familiar form of humorous, self-aware denial."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in casual speech for admitting that an obvious claim or plan is unrealistic."
+          }
+        ]
+      },
+      "similar": [
+        "get real",
+        "be honest",
+        "let’s be realistic",
+        "I know"
+      ],
+      "opposite": "Are you serious?",
+      "pitfall": "When directed at someone else, it can sound insulting, so avoid using it to dismiss another person’s concern."
+    },
+    {
+      "id": "who-knew",
+      "kind": "phrase",
+      "term": "who knew",
+      "pos": "interjection",
+      "hint": "an unexpected surprise",
+      "register": "Everyday",
+      "meaning": "An expression of surprise that something unexpected happened or was suddenly obvious.",
+      "nuance": "It sounds conversational and often carries a hint of wonder or self-deprecating amusement. It fits informal conversations more naturally than formal writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · unexpected result",
+          "sentence": "The proposal worked better than expected—who knew a smaller team could move so quickly?",
+          "highlight": "who knew",
+          "tip": "Use it when the surprise is genuinely unexpected, not as a substitute for a clear opinion."
+        },
+        {
+          "setting": "social",
+          "where": "Reunion · old friend arrives",
+          "sentence": "She turned up with two dogs and three suitcases—who knew she had become an adventurer?",
+          "highlight": "who knew",
+          "tip": "It works well for playful surprise among people who know each other."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal email · good news",
+          "sentence": "Who knew that a quick conversation would solve the problem? I’m glad we tried it.",
+          "highlight": "Who knew",
+          "tip": "Keep it in friendly emails or messages; formal reports usually need a more direct statement."
+        }
+      ],
+      "origin": {
+        "summary": "Probably developed from the rhetorical question “Who knew?” meaning “No one expected that.” Its idiomatic use became established in everyday English during the late 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Began as a literal question about who had knowledge of something."
+          },
+          {
+            "when": "Late 20th century",
+            "text": "Shifted into a casual expression of surprise or unexpected discovery."
+          },
+          {
+            "when": "Today",
+            "text": "Common in speech and informal writing, often with a mildly humorous tone."
+          }
+        ]
+      },
+      "similar": [
+        "I never saw it coming",
+        "you never know",
+        "fancy that"
+      ],
+      "opposite": "I knew it",
+      "pitfall": "“Who knew” expresses surprise, while “I knew it” suggests you expected the outcome in advance."
+    },
+    {
+      "id": "you-and-what-army",
+      "kind": "phrase",
+      "term": "You and what army?",
+      "pos": "phrase",
+      "hint": "a taunt about having no backing",
+      "register": "Informal and confrontational",
+      "meaning": "A sarcastic challenge to someone who is acting tough, asking what support or force they have behind them.",
+      "nuance": "It dismisses the other person as powerless and can provoke a serious argument. Use it only among people who share a joking, combative rapport; it is usually too hostile for work.",
+      "literal": "One person is challenging another to reveal what army stands behind them.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office banter · dismissing a boast",
+          "sentence": "He said he’d fix the whole launch by himself, so I thought, “You and what army?”",
+          "highlight": "You and what army?",
+          "tip": "Keep it playful and avoid using it with colleagues you do not know well."
+        },
+        {
+          "setting": "social",
+          "where": "Friendly teasing · one friend boasts",
+          "sentence": "My friend bragged that he could carry the tables alone, so I teased, “You and what army?”",
+          "highlight": "You and what army?",
+          "tip": "It fits close, teasing relationships better than a serious disagreement."
+        },
+        {
+          "setting": "writing",
+          "where": "Playful group chat · reacting to bravado",
+          "sentence": "When he claimed he could rally everyone with one message, we replied, “You and what army?”",
+          "highlight": "You and what army?",
+          "tip": "Check that the humour will land before sending it in a group chat."
+        }
+      ],
+      "origin": {
+        "summary": "This likely grew from older rhetorical taunts that challenge a person to show what authority or support stands behind them. Its exact first use is uncertain, but it became a familiar dismissive retort in popular speech.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Similar rhetorical questions demanded to know who a speaker was and what power or backing they represented."
+          },
+          {
+            "when": "Late 20th century",
+            "text": "The wording settled into popular speech as a mocking challenge to someone acting tough."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used as aggressive banter or an insult, often outside appropriate workplace settings."
+          }
+        ]
+      },
+      "similar": [
+        "Who do you think you are?",
+        "What are you going to do?",
+        "So what?",
+        "On whose authority?"
+      ],
+      "opposite": "I respect your position.",
+      "pitfall": "It can be read as a direct public humiliation, especially if the other person is already upset."
+    },
+    {
+      "id": "you-can-say-that-again",
+      "kind": "phrase",
+      "term": "you can say that again",
+      "pos": "phrase",
+      "hint": "strong agreement",
+      "register": "Casual",
+      "meaning": "Used to show that you completely agree with what someone has just said.",
+      "nuance": "It adds warmth and enthusiasm to your agreement. It can also mean that the other person has made an especially important or accurate point.",
+      "literal": "You are inviting someone to repeat their statement because you agree with it so strongly.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · repeating a strong conclusion",
+          "sentence": "We should focus on the biggest customer problem first. You can say that again.",
+          "highlight": "You can say that again",
+          "tip": "Use it when you want to emphasize agreement without sounding confrontational."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation with a friend",
+          "sentence": "That restaurant is terrible. You can say that again.",
+          "highlight": "You can say that again",
+          "tip": "It works well with friends, but it may feel too familiar in a formal setting."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal team message",
+          "sentence": "The report clearly explains the risk. You can say that again.",
+          "highlight": "You can say that again",
+          "tip": "Keep this for friendly messages; use “Exactly” or “I completely agree” in more formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely developed from the idea of asking someone to repeat something you strongly agree with. Its precise first use is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People repeated expressions they approved of, emphasizing that the statement deserved another hearing."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "The wording became established as a spoken way of expressing emphatic agreement."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in relaxed conversation, especially as a response to a familiar opinion or complaint."
+          }
+        ]
+      },
+      "similar": [
+        "exactly",
+        "I completely agree",
+        "that is so true",
+        "you said it"
+      ],
+      "opposite": "I couldn’t agree more",
+      "pitfall": "The phrase can sound sarcastic if your tone suggests that you actually disagree, so make your agreement clear."
+    },
+    {
+      "id": "you-cant-make-this-stuff-up",
+      "kind": "phrase",
+      "term": "you can't make this stuff up",
+      "pos": "phrase",
+      "hint": "too strange or surprising to be true",
+      "register": "Casual",
+      "meaning": "Used to express disbelief that something strange, surprising or absurd has actually happened.",
+      "nuance": "It sounds amused, astonished and slightly informal, often when describing news you have just heard or seen.",
+      "literal": "Even if someone tried to invent this situation, they could not create something so unbelievable.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office chat · hearing strange news",
+          "sentence": "Our director flew in just to deliver the award by video call; you can't make this stuff up.",
+          "highlight": "you can't make this stuff up",
+          "tip": "Best with friends or colleagues you know well."
+        },
+        {
+          "setting": "social",
+          "where": "Party conversation · sharing news",
+          "sentence": "You can't make this stuff up, but she actually met the singer at the supermarket.",
+          "highlight": "You can't make this stuff up",
+          "tip": "It often introduces an unbelievable story in a relaxed conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message · recounting an event",
+          "sentence": "You can't make this stuff up, but the delivery driver waited outside with a handwritten apology.",
+          "highlight": "You can't make this stuff up",
+          "tip": "Keep it in informal writing, such as a message to a friend."
+        }
+      ],
+      "origin": {
+        "summary": "This developed from the idea that an event is so unusual that nobody could invent it. The “stuff up” wording reflects the older expression “make this up,” meaning to invent a story.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression “make this up” was used for inventing a story or explanation."
+          },
+          {
+            "when": "Late 20th century",
+            "text": "Adding “you can't” created a way to comment on events too strange to believe."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a common informal reaction to surprising or bizarre stories."
+          }
+        ]
+      },
+      "similar": [
+        "this is unbelievable",
+        "I can't believe this",
+        "what are the odds"
+      ],
+      "pitfall": "It usually signals amazement, not proof that a claim is true; verify surprising stories before repeating or acting on them."
+    },
+    {
+      "id": "you-couldnt-make-it-up",
+      "kind": "phrase",
+      "term": "You couldn't make it up",
+      "pos": "phrase",
+      "hint": "too strange or unrealistic to be true",
+      "register": "Everyday",
+      "meaning": "Used to say that a situation is so strange or unrealistic that it seems invented.",
+      "nuance": "It expresses surprise and disbelief, often with a humorous or dramatic tone. It works best when the story is clearly surprising rather than simply upsetting.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · hearing an odd update",
+          "sentence": "You couldn't make it up: our delivery driver somehow found every address except ours.",
+          "highlight": "You couldn't make it up",
+          "tip": "Use it to add lighthearted disbelief to a surprising work story."
+        },
+        {
+          "setting": "social",
+          "where": "Chat with friends · reacting to news",
+          "sentence": "You couldn't make it up—she booked a flight, missed the airport, and still arrived before us.",
+          "highlight": "You couldn't make it up",
+          "tip": "It suits casual storytelling when the events are almost impossible."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal email · sharing a strange incident",
+          "sentence": "You couldn't make it up—the meeting was cancelled because nobody could find the room key.",
+          "highlight": "You couldn't make it up",
+          "tip": "Keep it in informal writing; it can sound too playful for formal messages."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines the older idea of “making up” a story with the idea that some events are too unusual to invent. Its exact first use is uncertain, so the development is best treated as a likely modern expression.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Make up” developed the meaning of inventing or fabricating something."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression became a way of saying that something was too strange to be true."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in spoken and informal written English for expressing amused disbelief."
+          }
+        ]
+      },
+      "similar": [
+        "unbelievable",
+        "what on earth",
+        "this can't be real",
+        "pure fiction"
+      ],
+      "opposite": "It must be true",
+      "pitfall": "It is usually a reaction to something implausible, not a factual claim that the event is impossible."
+    },
+    {
+      "id": "you-got-it",
+      "kind": "phrase",
+      "term": "you got it",
+      "pos": "phrase",
+      "hint": "a quick, confident yes",
+      "register": "Casual",
+      "meaning": "You understand the situation and will do what is being asked.",
+      "nuance": "It sounds confident and supportive, but more relaxed than a formal confirmation. In some contexts, especially from a manager, it may mean you are personally responsible for getting the job done.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague asks for a quick update",
+          "sentence": "Send me the latest version before three, and you got it.",
+          "highlight": "you got it",
+          "tip": "Natural in casual workplace speech; use a clearer deadline for important tasks."
+        },
+        {
+          "setting": "social",
+          "where": "Friend asks for a favor",
+          "sentence": "Could you bring the drinks? You got it.",
+          "highlight": "You got it",
+          "tip": "This adds confidence and can make a simple request sound friendly."
+        },
+        {
+          "setting": "writing",
+          "where": "Quick message to a teammate",
+          "sentence": "Thanks for the update—you got it.",
+          "highlight": "you got it",
+          "tip": "Best for familiar colleagues; “Understood” or “Will do” is more formal."
+        }
+      ],
+      "origin": {
+        "summary": "Likely grew from informal American English, where “got” came to mean “understood” and “you got it” became an emphatic way to say “I understand.”",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Informal “got” developed the sense of understanding or recognizing something."
+          },
+          {
+            "when": "20th century",
+            "text": "Conversational forms using “got it” became common as expressions of understanding."
+          },
+          {
+            "when": "Today",
+            "text": "“You got it” remains widely used in casual American English and informal digital communication."
+          }
+        ]
+      },
+      "similar": [
+        "you’ve got it",
+        "got it",
+        "understood",
+        "will do"
+      ],
+      "opposite": "I’m not sure",
+      "pitfall": "It can sound abrupt if the request is serious or the workplace is very formal."
+    },
+    {
+      "id": "you-had-one-job",
+      "kind": "phrase",
+      "term": "you had one job",
+      "pos": "idiom",
+      "hint": "you were supposed to do only one thing",
+      "register": "Casual",
+      "meaning": "Used to mock or scold someone for doing the one simple task they were asked to do incorrectly.",
+      "nuance": "It is blunt, sarcastic and usually aimed at avoidable mistakes. It fits best among people who already know each other, not in a formal complaint or with a stranger.",
+      "literal": "Someone was assigned one task but handled that task badly.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office handover · checking a spreadsheet",
+          "sentence": "You had one job: update the totals before sending the file, and you left last month’s numbers in row ten.",
+          "highlight": "You had one job",
+          "tip": "Use it with colleagues you know well; state the actual mistake first."
+        },
+        {
+          "setting": "social",
+          "where": "Group chat · fixing dinner plans",
+          "sentence": "You had one job, and that was to write down the restaurant address.",
+          "highlight": "You had one job",
+          "tip": "It works as playful criticism when the mistake is minor and obvious."
+        },
+        {
+          "setting": "writing",
+          "where": "Casual message · correcting a shared document",
+          "sentence": "You had one job: change the date, but the old date is still in the introduction.",
+          "highlight": "You had one job",
+          "tip": "Keep this tone light unless you intend the message to sound sharply critical."
+        }
+      ],
+      "origin": {
+        "summary": "The expression has circulated for years as a general accusation. Its later internet popularity is often linked to a 2010s video game meme, but there is no solid evidence that the phrase began there.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The wording appears in informal speech as a way to accuse someone of botching a simple task."
+          },
+          {
+            "when": "2010s",
+            "text": "A game-themed “one job” meme helped make the phrase widely recognizable online."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in casual conversations, group chats and social media as sarcastic criticism."
+          }
+        ]
+      },
+      "similar": [
+        "that was the whole job",
+        "one simple task",
+        "how did you manage that",
+        "that is one job"
+      ],
+      "opposite": "you did several jobs",
+      "pitfall": "The phrase can sound personal or bullying because it dismisses the person, not just the mistake; soften it if the error was complicated."
+    },
+    {
+      "id": "youll-be-late-for-your-own-funeral",
+      "kind": "phrase",
+      "term": "you'll be late for your own funeral",
+      "pos": "idiom",
+      "hint": "a dramatic warning about being extremely late",
+      "register": "Casual",
+      "meaning": "Used to tell someone that they are taking much too long and should hurry up.",
+      "nuance": "This is dramatic and humorous, but it can sound harsh or disrespectful, especially to someone who has just lost a loved one. It is best used among people who know each other well and can take a joke.",
+      "literal": "Arriving at your own funeral after it has already begun.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · waiting for a colleague",
+          "sentence": "The presentation starts in five minutes, and if you don't finish that report, you'll be late for your own funeral.",
+          "highlight": "you'll be late for your own funeral",
+          "tip": "Use it only with someone you know well; a clearer deadline is usually more professional."
+        },
+        {
+          "setting": "social",
+          "where": "Friends gathering · someone is very late",
+          "sentence": "The food is getting cold and everyone is here, so hurry up or you'll be late for your own funeral.",
+          "highlight": "you'll be late for your own funeral",
+          "tip": "It works best as playful teasing when the delay is not causing a serious problem."
+        },
+        {
+          "setting": "writing",
+          "where": "Text to a friend · joking about a delay",
+          "sentence": "If you don't leave now, you'll be late for your own funeral, and I'm not waiting for you.",
+          "highlight": "you'll be late for your own funeral",
+          "tip": "Keep the tone light in a message; it can sound insensitive if the context is serious."
+        }
+      ],
+      "origin": {
+        "summary": "Probably developed from older expressions that compared a very late arrival to missing one's own funeral. The wording became especially familiar through 19th- and 20th-century humorous speech.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Funerals were used as a vivid image for the latest possible arrival or the end of an opportunity."
+          },
+          {
+            "when": "19th century",
+            "text": "Similar expressions about being late for one's own funeral appeared in popular comic and conversational writing."
+          },
+          {
+            "when": "20th century",
+            "text": "The phrase spread as a dramatic, joking way to tell someone to hurry up."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in informal speech, especially between people with a relaxed relationship."
+          }
+        ]
+      },
+      "similar": [
+        "you're cutting it close",
+        "the clock is ticking",
+        "you'd better hurry up",
+        "it's now or never"
+      ],
+      "opposite": "you're right on time",
+      "pitfall": "Do not use this idiom around someone who is grieving or has recently mentioned a death; the funeral image may feel offensive."
+    },
+    {
+      "id": "youre-a-long-time-dead",
+      "kind": "phrase",
+      "term": "you're a long time dead",
+      "pos": "idiom",
+      "hint": "far too late",
+      "register": "Casual",
+      "meaning": "You have missed your chance, and the opportunity is now gone.",
+      "nuance": "This is an emphatic, often humorous way to say that something is too late. It can sound playful among friends but dismissive or insulting in serious situations.",
+      "literal": "You have been dead for a long time, making your chances hopeless.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Missing a submission deadline",
+          "sentence": "The deadline was yesterday, so you're a long time dead.",
+          "highlight": "you're a long time dead",
+          "tip": "Keep it light with colleagues you know well; use a firmer deadline in formal settings."
+        },
+        {
+          "setting": "social",
+          "where": "Arriving after a sold-out event",
+          "sentence": "The last tickets went an hour ago; you're a long time dead.",
+          "highlight": "you're a long time dead",
+          "tip": "This works best as banter when the missed opportunity is obvious and harmless."
+        },
+        {
+          "setting": "writing",
+          "where": "Messaging a friend about a late reply",
+          "sentence": "I sent the invitation this morning, so you're a long time dead for the weekend plans.",
+          "highlight": "you're a long time dead",
+          "tip": "Save it for informal messages; it may seem harsh if the issue matters."
+        }
+      ],
+      "origin": {
+        "summary": "Probably grew from the literal idea of someone being dead for a long time, then became informal British and Australian slang for being hopelessly late or out of time.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression used the dramatic image of a long time dying as a metaphor for having no future chance."
+          },
+          {
+            "when": "20th century",
+            "text": "It developed as casual speech for missing an opportunity or arriving far too late."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly informal, especially in British and Australian English."
+          }
+        ]
+      },
+      "similar": [
+        "it's too late",
+        "you've missed it",
+        "the game is up"
+      ],
+      "opposite": "you've just made it",
+      "pitfall": "Do not use it when someone may be genuinely upset about missing a deadline or opportunity; it can trivialize a serious problem."
+    },
+    {
+      "id": "youre-kidding",
+      "kind": "phrase",
+      "term": "you're kidding",
+      "pos": "phrase",
+      "hint": "you cannot believe what you just heard",
+      "register": "Common at work",
+      "meaning": "An informal way of saying that you find something surprising, implausible or hard to believe.",
+      "nuance": "It shows strong surprise and works best with people you know well. It can sound playful among friends but dismissive in serious conversations.",
+      "literal": "The speaker treats the other person as if they are joking rather than telling the truth.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · an unexpected deadline",
+          "sentence": "No, you're kidding; we were supposed to have another week to finish this.",
+          "highlight": "you're kidding",
+          "tip": "It signals disbelief, so follow with what you expected if you need clarity."
+        },
+        {
+          "setting": "social",
+          "where": "Friend's news · an unexpected change of plans",
+          "sentence": "You're kidding! I already bought tickets for Saturday night.",
+          "highlight": "You're kidding",
+          "tip": "This version sounds excited and works well with friends."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a colleague · surprising news",
+          "sentence": "You're kidding — did the client really move the meeting to Friday afternoon?",
+          "highlight": "You're kidding",
+          "tip": "An em dash keeps the reaction conversational without making it sound angry."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from the idea that someone is speaking in jest rather than seriously. The shortened form became common in informal English during the 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression linked joking or kidding with saying something untrue."
+          },
+          {
+            "when": "20th century",
+            "text": "The contraction “you're” and the phrase's informal tone became established in everyday speech."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely understood as a quick expression of surprise or disbelief."
+          }
+        ]
+      },
+      "similar": [
+        "you must be joking",
+        "no way",
+        "you're not serious"
+      ],
+      "opposite": "you're right",
+      "pitfall": "In a sensitive or serious exchange, it may dismiss the other person's news, so name the concern directly instead."
+    },
+    {
+      "id": "youve-got-to-be-kidding-me",
+      "kind": "phrase",
+      "term": "You've got to be kidding me",
+      "pos": "phrase",
+      "hint": "something is too absurd to believe",
+      "register": "Casual",
+      "meaning": "An expression of strong disbelief that something is true, sensible, or really happened.",
+      "nuance": "It shows shock, irritation, or amazement, often with a humorous edge. It can sound dismissive, so avoid it when someone is describing a serious problem.",
+      "literal": "The speaker is asking whether the other person is joking or deliberately giving an unbelievable account.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · contradictory figures",
+          "sentence": "You've got to be kidding me—the sales figures changed three times in one hour.",
+          "highlight": "You've got to be kidding me",
+          "tip": "Use it with colleagues you know well; otherwise, ask for clarification directly."
+        },
+        {
+          "setting": "social",
+          "where": "Trying an app · a failed login",
+          "sentence": "I tried using that app and you've got to be kidding me, it won't even log in.",
+          "highlight": "you've got to be kidding me",
+          "tip": "It works best when the frustration is light or clearly shared."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message · missing attachment",
+          "sentence": "You've got to be kidding me—the attachment is empty.",
+          "highlight": "You've got to be kidding me",
+          "tip": "Keep it for casual conversations; in a work email, describe the problem without the phrase."
+        }
+      ],
+      "origin": {
+        "summary": "This is likely a more emphatic form of earlier expressions such as “You must be kidding,” using “got to” to strengthen the speaker’s disbelief.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English speakers long used “kidding” to mean joking, teasing, or not serious."
+          },
+          {
+            "when": "20th century",
+            "text": "Questions such as “You must be kidding” became familiar spoken reactions of disbelief."
+          },
+          {
+            "when": "Later",
+            "text": "Adding “got to” made the reaction more emphatic and helped establish the modern phrase."
+          }
+        ]
+      },
+      "similar": [
+        "You have to be joking",
+        "You're kidding",
+        "No way",
+        "Get out of here"
+      ],
+      "pitfall": "It can sound mocking or dismissive, especially when used in response to bad news or someone else's genuine mistake."
+    },
+    {
+      "id": "youve-gotta-be-kidding-me",
+      "kind": "phrase",
+      "term": "you've gotta be kidding me",
+      "pos": "phrase",
+      "hint": "I can’t believe what you’re saying",
+      "register": "Casual",
+      "meaning": "An emphatic reaction of disbelief, shock, or frustration.",
+      "nuance": "It sounds highly emotional and informal, so it works best among people who are comfortable with casual language. In a serious or formal conversation, state your disbelief more directly.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · an unexpected setback",
+          "sentence": "The deadline moved up again? You’ve gotta be kidding me.",
+          "highlight": "You’ve gotta be kidding me",
+          "tip": "Use it with colleagues you know well; it may sound too dramatic around senior leaders."
+        },
+        {
+          "setting": "social",
+          "where": "Plans with friends · an unreasonable request",
+          "sentence": "You want us to drive two hours after work? You’ve gotta be kidding me.",
+          "highlight": "You’ve gotta be kidding me",
+          "tip": "It adds humor and exasperation, but check that your friend is not genuinely upset."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message · denying a strange claim",
+          "sentence": "You’ve gotta be kidding me—that meeting started at eight, not nine.",
+          "highlight": "You’ve gotta be kidding me",
+          "tip": "Keep it in casual messages, not official correspondence."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed as a stronger, more conversational version of expressions such as “you must be joking.” Its exact beginning is uncertain, but it became established in informal English during the 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Similar expressions used joking disbelief, including “you must be joking me.”"
+          },
+          {
+            "when": "20th century",
+            "text": "The intensifier “gotta” helped the phrase develop a strongly informal American sound."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in casual speech, particularly in the United States, for showing shock or frustration."
+          }
+        ]
+      },
+      "similar": [
+        "you must be joking",
+        "come on",
+        "get out",
+        "you've got to be kidding me"
+      ],
+      "opposite": "that makes perfect sense",
+      "pitfall": "The phrase can sound mocking or overly dramatic, so avoid it when someone is sharing serious news."
+    }
+  ]
+}

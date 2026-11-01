@@ -1,0 +1,880 @@
+{
+  "id": "words-power-conflict-4",
+  "kind": "word",
+  "name": "Power & conflict · 4",
+  "blurb": "13 words about power & conflict",
+  "cards": [
+    {
+      "id": "restrictive",
+      "kind": "word",
+      "term": "restrictive",
+      "pos": "adjective",
+      "phonetic": "/rɪˈstrɪktɪv/",
+      "sayIt": "rih-STRIK-tiv",
+      "register": "Formal",
+      "meaning": "Limiting what people can do, access or choose.",
+      "nuance": "Often used for rules, conditions or actions that narrow someone’s options. It can sound authoritative or controlling, depending on the context.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing access",
+          "sentence": "The restrictive permissions process slowed down our onboarding.",
+          "highlight": "restrictive",
+          "tip": "Use it to describe rules or limits that make an action difficult."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · discussing guest lists",
+          "sentence": "She avoided making the invitation too restrictive because she wanted new friends there.",
+          "highlight": "restrictive",
+          "tip": "It can describe conditions, attitudes or choices that limit other people."
+        },
+        {
+          "setting": "writing",
+          "where": "Policy proposal · revising access",
+          "sentence": "We propose a less restrictive policy that allows employees to work remotely two days a week.",
+          "highlight": "restrictive",
+          "tip": "Pairs naturally with policy, rule, condition and environment."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin restrictus, meaning ‘drawn tight’ or ‘limited’, which developed into the idea of restriction.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Restrictus comes from restringere, meaning ‘draw tight’ or ‘bind closely’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English with meanings connected to restraint and limitation."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes rules, conditions or choices that limit what is possible."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "restrict",
+          "label": "verb"
+        },
+        {
+          "term": "restriction",
+          "label": "noun"
+        },
+        {
+          "term": "restrictively",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "limited",
+        "restrictive",
+        "narrow",
+        "constraining",
+        "rigid"
+      ],
+      "opposite": "permissive",
+      "pitfall": "In grammar, restrictive identifies the part of a phrase that narrows its meaning, such as the ‘only employee’ in a sentence."
+    },
+    {
+      "id": "rift",
+      "kind": "word",
+      "term": "rift",
+      "pos": "noun",
+      "phonetic": "/rɪft/",
+      "sayIt": "RIFT",
+      "register": "Neutral",
+      "meaning": "A serious division or break within a relationship, group, organisation, or material.",
+      "nuance": "The word suggests damage that separates people or things that previously belonged together. It can describe both an actual gap and a growing disagreement.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · clarifying responsibilities",
+          "sentence": "The disagreement over responsibilities created a rift between the two teams.",
+          "highlight": "rift",
+          "tip": "Use it when workplace tension has become a serious division."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · discussing an argument",
+          "sentence": "Arguments about money can open a rift between friends.",
+          "highlight": "rift",
+          "tip": "It sounds stronger than a minor disagreement and often implies lasting damage."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · describing staff relations",
+          "sentence": "The report describes a widening rift between senior staff and frontline employees.",
+          "highlight": "rift",
+          "tip": "Pair it with words such as growing or widening to show that the division is developing."
+        }
+      ],
+      "origin": {
+        "summary": "From Old Norse rift, meaning a fissure or break. English developed both its physical and relationship-related uses.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old Norse",
+            "text": "Rift meant a fissure, break, or split."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word entered English and was used for cracks and divisions."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly describes serious disagreement within a group or relationship."
+          }
+        ]
+      },
+      "similar": [
+        "split",
+        "divide",
+        "fracture",
+        "discord"
+      ],
+      "opposite": "unity",
+      "pitfall": "A rift is usually a serious division; for a small disagreement, say tension or disagreement."
+    },
+    {
+      "id": "skirmish",
+      "kind": "word",
+      "term": "skirmish",
+      "pos": "noun",
+      "phonetic": "/ˈskɜːrmɪʃ/",
+      "sayIt": "SKUR-mish",
+      "register": "Everyday",
+      "meaning": "A brief, minor conflict or argument involving exchanges of words, actions or fire.",
+      "nuance": "A skirmish is smaller and less serious than a battle or full argument. The word can describe physical fighting or a quick verbal disagreement.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · resolving priorities",
+          "sentence": "We had a brief skirmish over who should present the proposal, then agreed to share the slides.",
+          "highlight": "skirmish",
+          "tip": "Use it for a minor disagreement that does not develop into a major dispute."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · dividing chores",
+          "sentence": "After a skirmish about the washing-up, we divided the tasks and carried on with dinner.",
+          "highlight": "skirmish",
+          "tip": "It can lightly describe a playful argument without making it sound serious."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · local disturbance",
+          "sentence": "The report described a short skirmish between protesters and police near the station.",
+          "highlight": "skirmish",
+          "tip": "Use it when the event was limited in scale or duration."
+        }
+      ],
+      "origin": {
+        "summary": "The word probably came through Middle English from Old French skirmir, with roots in sounds or movements associated with a quick fight.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Its older roots suggest a quick, noisy movement or clash."
+          },
+          {
+            "when": "Old French",
+            "text": "Skirmir develops the sense of a minor fight or encounter."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English and begins to cover both fighting and sharp exchanges of words."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a term for a small conflict, often one of short duration."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "skirmish",
+          "label": "verb"
+        },
+        {
+          "term": "skirmisher",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "clash",
+        "spat",
+        "encounter",
+        "dispute"
+      ],
+      "opposite": "truce",
+      "pitfall": "A skirmish is a small or brief conflict; do not use it for a full-scale battle or prolonged war."
+    },
+    {
+      "id": "strife",
+      "kind": "word",
+      "term": "strife",
+      "pos": "noun",
+      "phonetic": "/straɪf/",
+      "sayIt": "STRYFE",
+      "register": "Formal",
+      "meaning": "Serious and often prolonged conflict, quarrelling, or rivalry between people or groups.",
+      "nuance": "Strife is more forceful and disruptive than an ordinary disagreement. It suggests bitterness, competition, or open conflict.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · resolving a dispute",
+          "sentence": "The merger was delayed by years of internal strife over budgets and decision-making.",
+          "highlight": "strife",
+          "tip": "Use it for serious conflict that disrupts work or cooperation."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · tense conversation",
+          "sentence": "Family strife turned the evening into an awkward series of raised voices.",
+          "highlight": "strife",
+          "tip": "It is especially useful for describing bitter conflict within families or communities."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · political instability",
+          "sentence": "The report traces the political strife that followed the disputed election.",
+          "highlight": "strife",
+          "tip": "The formal tone suits news reports, history, and political analysis."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French strife, meaning conflict or rivalry, which came from a Latin word associated with quarrelling and contention.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "A word for quarrelling or contention appears in Latin, possibly connected with strife, meaning noisy or contentious."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English through Old French with senses including conflict, dispute, and rivalry."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal word for serious, often prolonged conflict."
+          }
+        ]
+      },
+      "similar": [
+        "conflict",
+        "discord",
+        "friction",
+        "turmoil"
+      ],
+      "opposite": "harmony",
+      "pitfall": "Don’t use strife for every small disagreement; it suggests serious and often lasting conflict."
+    },
+    {
+      "id": "stymie",
+      "kind": "word",
+      "term": "stymie",
+      "pos": "verb",
+      "phonetic": "/ˈstaɪmi/",
+      "sayIt": "STY-mee",
+      "register": "Common at work",
+      "meaning": "To prevent someone from making progress or doing what they had planned.",
+      "nuance": "It suggests an obstacle that is frustrating but may not be an outright barrier. The word is especially common in professional and competitive contexts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · a delayed decision",
+          "sentence": "The lack of approval could stymie the launch until the end of the quarter.",
+          "highlight": "stymie",
+          "tip": "Use it when a problem is holding up progress rather than ending the work completely."
+        },
+        {
+          "setting": "social",
+          "where": "Group trip · comparing schedules",
+          "sentence": "Her work commitments stymie our plan to visit the coast that weekend.",
+          "highlight": "stymie",
+          "tip": "It works well for obstacles that affect plans shared by several people."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining delays",
+          "sentence": "Technical issues have stymied our efforts to complete the report on time.",
+          "highlight": "stymied",
+          "tip": "The past tense often describes the effect of an obstacle on an ongoing effort."
+        }
+      ],
+      "origin": {
+        "summary": "The word began as a golf term for a shot that leaves the ball in a difficult position. It later developed a figurative meaning involving being blocked or hindered.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1850s",
+            "text": "First used in golf for a situation in which the ball is blocked from a clear path."
+          },
+          {
+            "when": "1900s",
+            "text": "The figurative sense of hindering progress becomes established."
+          },
+          {
+            "when": "Today",
+            "text": "Used for problems, rules or circumstances that frustrate action or delay results."
+          }
+        ]
+      },
+      "similar": [
+        "hinder",
+        "impede",
+        "obstruct",
+        "thwart"
+      ],
+      "opposite": "facilitate",
+      "pitfall": "Don’t confuse it with stimulate, which means to encourage activity or growth."
+    },
+    {
+      "id": "subjugate",
+      "kind": "word",
+      "term": "subjugate",
+      "pos": "verb",
+      "phonetic": "/ˈsʌbdʒʊɡeɪt/",
+      "sayIt": "sub-JOO-gayt",
+      "register": "Formal",
+      "meaning": "To bring someone or something under control, often through force or pressure.",
+      "nuance": "It suggests that people, groups, or places have been placed under someone else’s power. It can describe military defeat or the control of a population.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Strategy meeting · reviewing market control",
+          "sentence": "The company used aggressive pricing to subjugate smaller competitors and gain control of the market.",
+          "highlight": "subjugate",
+          "tip": "Use it when power and domination are central to the situation."
+        },
+        {
+          "setting": "social",
+          "where": "History discussion · conquest",
+          "sentence": "The invading army attempted to subjugate the region, but local resistance continued for years.",
+          "highlight": "subjugate",
+          "tip": "This is a strong, formal word for putting a people or territory under rule."
+        },
+        {
+          "setting": "writing",
+          "where": "Historical essay · describing imperial rule",
+          "sentence": "Colonial authorities sought to subjugate local communities while imposing their own systems of government.",
+          "highlight": "subjugate",
+          "tip": "It works well in historical and political writing, where the imbalance of power matters."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin subjugare, meaning ‘to bring under the yoke’, formed from sub- ‘under’ and jugum ‘yoke’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Subjugare combines sub- ‘under’ with jugum ‘yoke’, giving the image of putting something under a yoke."
+          },
+          {
+            "when": "1500s",
+            "text": "The word appears in English with meanings connected to bringing people or territory under control."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly formal and often describes domination by force, authority, or overwhelming power."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "subjugation",
+          "label": "noun"
+        },
+        {
+          "term": "subjugated",
+          "label": "adjective"
+        },
+        {
+          "term": "subjugator",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "dominate",
+        "subdue",
+        "conquer",
+        "oppress",
+        "suppress"
+      ],
+      "opposite": "liberate",
+      "pitfall": "Use it for clear control or domination; in everyday conversation, ‘control’ or ‘overpower’ may sound more natural."
+    },
+    {
+      "id": "subservient",
+      "kind": "word",
+      "term": "subservient",
+      "pos": "adjective",
+      "phonetic": "/ˌsʌbˈsɜːrviənt/",
+      "sayIt": "sub-SER-vee-unt",
+      "register": "Formal; often critical",
+      "meaning": "Showing excessive obedience and eagerness to please someone in authority.",
+      "nuance": "The word is usually negative, suggesting that someone is too eager to comply or flatter. It is stronger and more judgemental than simply saying someone is obedient.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing workplace behaviour",
+          "sentence": "His constant agreement with the manager looked subservient rather than genuinely supportive.",
+          "highlight": "subservient",
+          "tip": "Use it for behaviour that appears excessively deferential, especially in a hierarchy."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · describing a friend",
+          "sentence": "She became subservient whenever her uncle started giving advice.",
+          "highlight": "subservient",
+          "tip": "It can sound sharp, so consider the relationship and how much criticism is appropriate."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · raising a concern with a senior colleague",
+          "sentence": "The team was treated as subservient, with little encouragement to question the proposal.",
+          "highlight": "subservient",
+          "tip": "A formal alternative is excessively deferential, which may sound less personal."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin subserviens, meaning ‘serving under’, formed from sub- ‘under’ and servire ‘to serve’. English later developed its critical sense of excessive obedience.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "subserviens, ‘serving under’, from subservire, ‘to serve under’."
+          },
+          {
+            "when": "16th century",
+            "text": "Enters English with the sense of being subordinate or subject to someone."
+          },
+          {
+            "when": "Today",
+            "text": "Usually means excessively obedient, eager to please, or lacking independence."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "subservience",
+          "label": "noun"
+        },
+        {
+          "term": "subserviently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "servile",
+        "submissive",
+        "deferential",
+        "compliant"
+      ],
+      "opposite": "assertive",
+      "pitfall": "It is more critical than obedient or submissive: it usually implies excessive willingness to serve or please."
+    },
+    {
+      "id": "succumb",
+      "kind": "word",
+      "term": "succumb",
+      "pos": "verb",
+      "phonetic": "/səˈkʌm/",
+      "sayIt": "suh-KUM",
+      "register": "Formal",
+      "meaning": "To give way under pressure, force, or temptation.",
+      "nuance": "It often suggests that someone has been overcome by a strong influence or has accepted defeat. It can also be used in a more neutral way when someone dies from an illness or serious condition.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Deadline negotiation · added client requests",
+          "sentence": "The team worked late rather than succumb to pressure to release an unfinished product.",
+          "highlight": "succumb",
+          "tip": "Use it when someone is defeated by pressure, temptation, or a competing demand."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · sharing a secret",
+          "sentence": "I succumbed to curiosity and asked about the news she had been keeping quiet.",
+          "highlight": "succumbed",
+          "tip": "It can sound slightly formal, so it is useful when describing temptation or a personal weakness."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a manager · explaining a delay",
+          "sentence": "We had succumbed to an unexpected shortage and needed more time to complete the order.",
+          "highlight": "succumbed",
+          "tip": "In careful writing, it adds a formal tone and suggests the situation overwhelmed the people involved."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin succumbere, meaning ‘to yield’ or ‘sink under’. The word entered English in a formal and literary context.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin succumbere meant ‘to yield’ or ‘sink under’, often in the sense of being overcome."
+          },
+          {
+            "when": "1600s",
+            "text": "The word begins appearing in English, mainly in formal and literary writing."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for yielding to pressure, temptation, illness, or defeat."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "succumb to",
+          "label": "phrasal verb"
+        }
+      ],
+      "similar": [
+        "yield",
+        "submit",
+        "concede",
+        "give in"
+      ],
+      "opposite": "resist",
+      "pitfall": "It usually takes the construction ‘succumb to something’, not ‘succumb something’. Say ‘succumb to pressure’, not ‘succumb pressure’."
+    },
+    {
+      "id": "thwart",
+      "kind": "word",
+      "term": "thwart",
+      "pos": "verb",
+      "phonetic": "/θwɔːrt/",
+      "sayIt": "THWORT",
+      "register": "Common at work",
+      "meaning": "To prevent someone from doing something or stop something from happening.",
+      "nuance": "It suggests putting a deliberate obstacle in someone’s way or frustrating a plan. It is stronger and more formal than simply getting in the way.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project meeting · a delayed launch",
+          "sentence": "The missing approval could thwart our plans to launch next week.",
+          "highlight": "thwart",
+          "tip": "Use it when an obstacle prevents a plan or goal from moving forward."
+        },
+        {
+          "setting": "social",
+          "where": "Plans with friends · choosing a restaurant",
+          "sentence": "I didn’t mean to thwart your plans; I just thought another place would suit us better.",
+          "highlight": "thwart",
+          "tip": "It can sound forceful, so use it carefully when you are only asking someone to change plans."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal report · reviewing risks",
+          "sentence": "A shortage of trained staff could thwart the project at an early stage.",
+          "highlight": "thwart",
+          "tip": "It works well in formal writing to describe a serious obstacle to success."
+        }
+      ],
+      "origin": {
+        "summary": "From Old English þweartan, meaning ‘to turn back, frustrate or prevent’. The word originally referred to turning something aside or reversing its direction.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The ancestor þweartan meant ‘to turn back, frustrate or prevent’."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word continued to mean turning something back or bringing it to nothing."
+          },
+          {
+            "when": "17th century onward",
+            "text": "The modern sense of preventing a plan or achievement became established."
+          }
+        ]
+      },
+      "similar": [
+        "obstruct",
+        "frustrate",
+        "impede",
+        "derail",
+        "foil"
+      ],
+      "opposite": "facilitate",
+      "pitfall": "Thwart means to prevent or frustrate; it does not merely mean to slow something down."
+    },
+    {
+      "id": "usurp",
+      "kind": "word",
+      "term": "usurp",
+      "pos": "verb",
+      "phonetic": "/juːˈsɜːrp/",
+      "sayIt": "yoo-SURP",
+      "register": "Formal",
+      "meaning": "To take someone’s position, power or rights without their permission.",
+      "nuance": "Strong and often negative: it suggests claiming authority that properly belongs to someone else. It can also mean replacing someone in a role or taking over their function.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Board meeting · challenging leadership",
+          "sentence": "The regional director appeared to be usurping the CEO’s authority by announcing changes without approval.",
+          "highlight": "usurping",
+          "tip": "Use it when someone is improperly taking control, not simply exercising their own authority."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · taking over a role",
+          "sentence": "Once again, my aunt has usurped the host’s chair and started directing everyone’s evening.",
+          "highlight": "usurped",
+          "tip": "It adds a humorous or accusing edge when someone takes over a role that is not theirs."
+        },
+        {
+          "setting": "writing",
+          "where": "History essay · describing a ruler",
+          "sentence": "The rebel seized the throne and usurped the young king’s authority.",
+          "highlight": "usurped",
+          "tip": "It is especially useful in political and historical writing about gaining power unlawfully."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin usurpare, meaning to seize or take over by improper means; English use was established in the 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Usurpare develops from roots associated with taking or using something by force or improperly."
+          },
+          {
+            "when": "Medieval Latin",
+            "text": "The word is used for taking over authority, property or a position without right."
+          },
+          {
+            "when": "1600s",
+            "text": "Usurp appears in English, initially in legal and political contexts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "usurper",
+          "label": "noun (person)"
+        },
+        {
+          "term": "usurpation",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "seize",
+        "annex",
+        "supplant",
+        "overtake"
+      ],
+      "opposite": "vacate",
+      "pitfall": "Usurp always suggests acting without the right or permission of the person or authority being displaced."
+    },
+    {
+      "id": "venom",
+      "kind": "word",
+      "term": "venom",
+      "pos": "noun",
+      "phonetic": "/ˈvenəm/",
+      "sayIt": "VEN-uhm",
+      "register": "Common, especially in figurative uses",
+      "meaning": "A poisonous substance produced by an animal, or strong hostility expressed through cruel or spiteful words.",
+      "nuance": "Venom often suggests concentrated malice, especially when describing speech or behaviour. It can also refer to the poison itself, particularly that of a snake, spider or scorpion.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · challenging a proposal",
+          "sentence": "His criticism was accurate, but the venom in his tone made everyone defensive.",
+          "highlight": "venom",
+          "tip": "Use it to describe biting hostility rather than merely strong disagreement."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · a bitter comment",
+          "sentence": "She aimed her venom at the friend who had copied her outfit.",
+          "highlight": "venom",
+          "tip": "This vivid use suggests that the comment was deliberately nasty."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing an unpleasant film",
+          "sentence": "The dialogue was so full of venom that every character felt unpleasant to watch.",
+          "highlight": "venom",
+          "tip": "Often pairs with words such as spite, bitterness or hostility."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Old English venim, meaning poison, ultimately from Latin venenum. Its later figurative sense developed from the idea of harmful words acting like poison.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "Venim appears in English with the meaning poison."
+          },
+          {
+            "when": "Medieval period",
+            "text": "The word also begins to describe spiteful or damaging speech."
+          },
+          {
+            "when": "Today",
+            "text": "It can mean animal poison or a hostile attitude expressed through words."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "venomous",
+          "label": "adjective"
+        },
+        {
+          "term": "venomously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "poison",
+        "spite",
+        "malice",
+        "rancour"
+      ],
+      "opposite": "goodwill",
+      "pitfall": "Venom is not a general word for any poisonous substance; it often suggests poison produced by an animal or figurative malice."
+    },
+    {
+      "id": "vulnerable",
+      "kind": "word",
+      "term": "vulnerable",
+      "pos": "adjective",
+      "phonetic": "/ˈvʌlnərəbəl/",
+      "sayIt": "VUL-nuh-ruh-buhl",
+      "register": "Common at work",
+      "meaning": "Exposed to harm, criticism, attack or the risk of being hurt.",
+      "nuance": "It can describe a person who is emotionally open, a system that is easy to attack, or a position that risks serious damage. The context determines whether the feeling is sympathetic, strategic or negative.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing a proposal",
+          "sentence": "The plan is vulnerable to delays because it depends on one supplier.",
+          "highlight": "vulnerable to",
+          "tip": "Use it to identify a weakness and explain what could go wrong."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation with a friend",
+          "sentence": "I felt vulnerable when I admitted that I had made a mistake.",
+          "highlight": "vulnerable",
+          "tip": "It often describes feeling emotionally exposed or in need of support."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a client · asking for feedback",
+          "sentence": "I would be vulnerable to missing important details if we proceed without another review.",
+          "highlight": "vulnerable to",
+          "tip": "This formal phrase sounds more careful than simply saying “at risk of”."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin vulnerabilis, meaning “woundable,” based on vulnus, “a wound.” It entered English through French in the 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "vulnerabilis, “woundable,” from vulnus, “a wound.”"
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English through French and initially refers to being capable of being wounded or injured."
+          },
+          {
+            "when": "Today",
+            "text": "It describes emotional exposure, weakness in a plan, or danger of attack or harm."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "vulnerability",
+          "label": "noun"
+        },
+        {
+          "term": "vulnerably",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "exposed",
+        "susceptible",
+        "defenseless",
+        "at risk"
+      ],
+      "opposite": "protected",
+      "pitfall": "Don’t confuse it with valuable, which means worth a lot; vulnerable means exposed to harm or criticism."
+    },
+    {
+      "id": "wrest",
+      "kind": "word",
+      "term": "wrest",
+      "pos": "verb",
+      "phonetic": "/rɛst/",
+      "sayIt": "REST",
+      "register": "Common in formal writing and traditional descriptions of wrestling",
+      "meaning": "To grasp, twist, or pull something with force, or to struggle to take control or possession of it.",
+      "nuance": "Wrest suggests determined physical effort and often has a forceful, slightly old-fashioned tone. It is especially common in phrases such as “wrest control” and in descriptions of wrestling.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · taking ownership",
+          "sentence": "The new team must wrest control of the release process from the outdated approval system.",
+          "highlight": "wrest",
+          "tip": "Use it to describe taking control through persistent effort."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · playful disagreement",
+          "sentence": "The children wrestled for the remote until their grandfather changed the channel.",
+          "highlight": "wrestled",
+          "tip": "In its literal sense, it refers to grappling with someone."
+        },
+        {
+          "setting": "writing",
+          "where": "Sports report · describing a contest",
+          "sentence": "The champion wrestled two challengers before retaining the title.",
+          "highlight": "wrestled",
+          "tip": "It is often used when reporting wrestling matches or physical contests."
+        }
+      ],
+      "origin": {
+        "summary": "The word is recorded in Old English as wrestan, meaning to twist, pull, or struggle. Its deeper connection to words for turning or tearing is uncertain.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "Wrestan meant to twist, pull, wrench, or contend physically."
+          },
+          {
+            "when": "Middle English",
+            "text": "Wrest and wrestling become established in English for physical grappling and contests of strength."
+          },
+          {
+            "when": "Today",
+            "text": "Wrest can describe a literal wrestling hold or the forceful taking of control."
+          }
+        ]
+      },
+      "similar": [
+        "grapple",
+        "seize",
+        "wrench",
+        "struggle",
+        "contest"
+      ],
+      "opposite": "release",
+      "pitfall": "Do not confuse wrest with rest. In “wrest control,” wrest means to gain control through force or determination."
+    }
+  ]
+}

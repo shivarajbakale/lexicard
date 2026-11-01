@@ -1,0 +1,1471 @@
+{
+  "id": "words-character-behaviour-6",
+  "kind": "word",
+  "name": "Character & behaviour · 6",
+  "blurb": "21 words about character & behaviour",
+  "cards": [
+    {
+      "id": "taciturn",
+      "kind": "word",
+      "term": "taciturn",
+      "pos": "adjective",
+      "phonetic": "/ˈtæsɪˌtɜːrn/",
+      "sayIt": "TAS-ih-turn",
+      "register": "Everyday",
+      "meaning": "Reserved and unlikely to speak much, especially because speaking seems unnecessary or unwelcome.",
+      "nuance": "Taciturn people are often quiet by habit or temperament rather than unfriendly. It can sound mildly critical, so use it thoughtfully when describing someone.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing a proposal",
+          "sentence": "Our taciturn colleague rarely comments in meetings, but her feedback is usually precise.",
+          "highlight": "taciturn",
+          "tip": "Use it to describe a consistently quiet colleague without claiming they are unfriendly."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · meeting new guests",
+          "sentence": "He was too taciturn to join the conversation, so we left him to enjoy the garden.",
+          "highlight": "taciturn",
+          "tip": "This suggests silence caused by reserve rather than a temporary lack of interest."
+        },
+        {
+          "setting": "writing",
+          "where": "Novel · introducing a reserved character",
+          "sentence": "The taciturn stranger answered only when asked and kept his eyes on the road.",
+          "highlight": "taciturn",
+          "tip": "It works well for fiction because it hints at a character without explaining their thoughts."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin tacitus, meaning silent or reserved, probably influenced by French taciturne.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Tacitus, from tacere, means silent or reserved in speech."
+          },
+          {
+            "when": "1500s",
+            "text": "The related French word taciturne enters English as a term for a reserved person."
+          },
+          {
+            "when": "Today",
+            "text": "Taciturn describes someone who habitually says little."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "taciturnity",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "reserved",
+        "reticent",
+        "laconic",
+        "quiet"
+      ],
+      "opposite": "talkative",
+      "pitfall": "Do not confuse taciturn with tacit, which means understood or agreed without being stated directly."
+    },
+    {
+      "id": "taut",
+      "kind": "word",
+      "term": "taut",
+      "pos": "adjective",
+      "phonetic": "/tɔːt/",
+      "sayIt": "TAWT",
+      "register": "Common in writing and formal speech",
+      "meaning": "Stretched tight, held firmly, or expressed in a brief and controlled way.",
+      "nuance": "It can describe a physical tension, such as a tight rope, or a style that is sharp, restrained, and economical. For people, it may suggest controlled emotion or a rigid manner.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · clarifying priorities",
+          "sentence": "Keep the update taut so everyone can see the decision, the deadline, and the next step.",
+          "highlight": "taut",
+          "tip": "Use it for writing or speaking that is brief, focused, and free of unnecessary detail."
+        },
+        {
+          "setting": "social",
+          "where": "Argument at home · holding back emotion",
+          "sentence": "Her face was taut as she tried to stay calm while the conversation became more heated.",
+          "highlight": "taut",
+          "tip": "Use it for visible physical tension or for a person whose emotions are tightly controlled."
+        },
+        {
+          "setting": "writing",
+          "where": "Review editing · tightening a paragraph",
+          "sentence": "The opening is powerful, but the middle becomes taut once the author repeats the same idea.",
+          "highlight": "taut",
+          "tip": "It can criticise writing as compressed or rigid, not simply short."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Greek roots meaning stretched or drawn tight, and it entered English through Latin.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "The root tautos referred to something stretched or pulled tight."
+          },
+          {
+            "when": "Latin",
+            "text": "Tautus preserved the sense of being tightly stretched or tense."
+          },
+          {
+            "when": "1600s",
+            "text": "English began using the word for physical tightness and, later, for concise or controlled expression."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "tautly",
+          "label": "adverb"
+        },
+        {
+          "term": "tautness",
+          "label": "noun"
+        },
+        {
+          "term": "tautological",
+          "label": "adjective"
+        },
+        {
+          "term": "tautology",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "tense",
+        "tight",
+        "rigid",
+        "concise",
+        "controlled"
+      ],
+      "opposite": "loose",
+      "pitfall": "Don't use taut to mean chronological or timely; that meaning belongs to tautological in some specialised contexts, not ordinary usage."
+    },
+    {
+      "id": "temerity",
+      "kind": "word",
+      "term": "temerity",
+      "pos": "noun",
+      "phonetic": "/tɪˈmɛrɪti/",
+      "sayIt": "tuh-MER-ih-tee",
+      "register": "Formal",
+      "meaning": "Bold or rash behaviour that shows a lack of proper caution.",
+      "nuance": "It often criticises someone for taking an unnecessary risk, especially when acting without thought.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Board meeting · approving a risky plan",
+          "sentence": "It was temerity to launch the campaign without testing whether customers would respond.",
+          "highlight": "temerity",
+          "tip": "Use it for a serious risk that was clearly not thought through."
+        },
+        {
+          "setting": "social",
+          "where": "Discussion with friends · reckless travel plans",
+          "sentence": "Their decision to drive through the storm showed more temerity than good sense.",
+          "highlight": "temerity",
+          "tip": "It sounds more formal than recklessness and is especially suited to criticism."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · questioning an executive decision",
+          "sentence": "Few would dispute the ambition, but the scale of the gamble bordered on temerity.",
+          "highlight": "temerity",
+          "tip": "It adds a formal, disapproving tone to editorial or professional writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin temeritas, meaning boldness or rashness, based on temere, meaning rashly or without sufficient caution. English borrowed the word through French.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin uses temeritas for boldness, recklessness or a lack of caution."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English through Old French témérité."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal word for unusually bold or reckless behaviour."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "temerous",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "recklessness",
+        "audacity",
+        "boldness",
+        "rashness"
+      ],
+      "opposite": "caution",
+      "pitfall": "It is more critical than boldness and more formal than nerve; it usually implies acting without enough care."
+    },
+    {
+      "id": "timorous",
+      "kind": "word",
+      "term": "timorous",
+      "pos": "adjective",
+      "phonetic": "/ˈtɪmərəs/",
+      "sayIt": "TIM-uh-rus",
+      "register": "Formal",
+      "meaning": "Showing hesitation or lack of confidence because you are easily frightened or worried.",
+      "nuance": "This sounds formal and slightly literary. It often describes someone who avoids action or speaking out because they fear possible trouble.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · raising a concern",
+          "sentence": "Several timorous employees stayed quiet when the director challenged the new deadline.",
+          "highlight": "timorous",
+          "tip": "Use it for people who hesitate to speak, challenge decisions or volunteer for difficult tasks."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · joining a discussion",
+          "sentence": "He was too timorous to mention that he disliked the food.",
+          "highlight": "timorous",
+          "tip": "It suggests shyness or fear of causing conflict, not simply a quiet personality."
+        },
+        {
+          "setting": "writing",
+          "where": "Character description · overcoming doubt",
+          "sentence": "Initially timorous, she gradually learned to defend her opinions without apologising.",
+          "highlight": "timorous",
+          "tip": "This gives a literary tone and shows a contrast between earlier hesitation and later confidence."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin timorosus, meaning fearful or timid, based on timor, ‘fear’. English borrowed it through Old French timoreux.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Timorosus is formed from timor, ‘fear’, with a suffix meaning ‘full of’ or ‘characterised by’."
+          },
+          {
+            "when": "Old French",
+            "text": "Timoreux appears in French with the sense ‘fearful’ or ‘timid’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in a formal sense and remains mainly formal or literary today."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "timorously",
+          "label": "adverb"
+        },
+        {
+          "term": "timidity",
+          "label": "noun"
+        },
+        {
+          "term": "timorousness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "timid",
+        "fearful",
+        "cautious",
+        "wary",
+        "nervous"
+      ],
+      "opposite": "fearless",
+      "pitfall": "Timorous is more formal than timid and often suggests fear of action, conflict or danger."
+    },
+    {
+      "id": "tolerant",
+      "kind": "word",
+      "term": "tolerant",
+      "pos": "adjective",
+      "phonetic": "/ˈtɒlərənt/",
+      "sayIt": "TOL-uh-runt",
+      "register": "Common at work and socially",
+      "meaning": "Willing to accept different opinions, beliefs, customs, or behaviours without becoming hostile.",
+      "nuance": "Usually positive, especially when describing a person, organisation, or attitude. It suggests openness and respect, but does not necessarily mean you approve of everything.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · differing views",
+          "sentence": "We need a tolerant culture where people can challenge an idea without worrying they’ll be treated unfairly.",
+          "highlight": "tolerant",
+          "tip": "Use it for a workplace where different perspectives are welcomed respectfully."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · food choices",
+          "sentence": "My friends are tolerant of my dietary choices, even though they rarely follow the same diet.",
+          "highlight": "tolerant",
+          "tip": "A natural way to praise people for being easygoing and accepting."
+        },
+        {
+          "setting": "writing",
+          "where": "Community policy · inclusion",
+          "sentence": "The festival aims to be a tolerant and welcoming event for people from many backgrounds.",
+          "highlight": "tolerant",
+          "tip": "Works well before words such as society, attitude, approach, or community."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin tolerare, meaning to endure or bear patiently, and tolerans, meaning patient or tolerant.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root tolerare meant to endure or tolerate."
+          },
+          {
+            "when": "1400s",
+            "text": "The Latin form entered English in a religious context, referring to patience with hardship."
+          },
+          {
+            "when": "1600s onward",
+            "text": "The meaning expanded to include accepting different beliefs, customs, and behaviours."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "tolerate",
+          "label": "verb"
+        },
+        {
+          "term": "tolerance",
+          "label": "noun"
+        },
+        {
+          "term": "tolerantly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "accepting",
+        "patient",
+        "open-minded",
+        "understanding",
+        "inclusive"
+      ],
+      "opposite": "intolerant",
+      "pitfall": "Tolerant describes an accepting attitude; tolerate is the verb, and tolerance is the noun."
+    },
+    {
+      "id": "trustworthy",
+      "kind": "word",
+      "term": "trustworthy",
+      "pos": "adjective",
+      "phonetic": "/ˈtrʌstwɜːði/",
+      "sayIt": "TRUST-wur-thee",
+      "register": "Common at work",
+      "meaning": "Able to be trusted to be honest, reliable, and likely to do what you expect.",
+      "nuance": "It describes a person, organisation, product, or piece of information as deserving confidence. It is a strong general compliment, but it does not mean someone is perfect or certain never to make a mistake.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Choosing a supplier · reviewing feedback",
+          "sentence": "We need a trustworthy supplier who will tell us if the delivery is going to be late.",
+          "highlight": "trustworthy",
+          "tip": "Useful when discussing people, companies, systems, or products that others must rely on."
+        },
+        {
+          "setting": "social",
+          "where": "Lending a friend money",
+          "sentence": "I’m happy to lend you some because you’ve always been trustworthy with money.",
+          "highlight": "trustworthy",
+          "tip": "The word sounds personal and sincere, especially when referring to someone you know well."
+        },
+        {
+          "setting": "writing",
+          "where": "Recommendation email · supporting a colleague",
+          "sentence": "I recommend Priya without reservation; she is thoughtful, consistent, and thoroughly trustworthy.",
+          "highlight": "trustworthy",
+          "tip": "Pair it with a short example to show why the person deserves trust."
+        }
+      ],
+      "origin": {
+        "summary": "Built from trust and the suffix -worthy, meaning “deserving of.” The word developed during the 1800s as a way of saying that someone or something deserves confidence.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "Trust and worthy both have Old English roots: trēow, meaning confidence or faithfulness, and worthig, meaning having value."
+          },
+          {
+            "when": "Middle English",
+            "text": "Trust and worthy appear in English with closely related meanings, though they are not yet combined."
+          },
+          {
+            "when": "1800s",
+            "text": "The compound trustworthy becomes established as an adjective meaning worthy of trust."
+          }
+        ]
+      },
+      "similar": [
+        "reliable",
+        "dependable",
+        "credible",
+        "honest"
+      ],
+      "opposite": "untrustworthy",
+      "pitfall": "Spell it trustworthy, not trustworthly. Also, it means deserving trust, not being guaranteed to perform perfectly."
+    },
+    {
+      "id": "unassuming",
+      "kind": "word",
+      "term": "unassuming",
+      "pos": "adjective",
+      "phonetic": "/ˌʌnəˈsuːmɪŋ/",
+      "sayIt": "un-uh-SOO-ming",
+      "register": "Everyday",
+      "meaning": "Modest and not seeking attention or special treatment.",
+      "nuance": "It often suggests that someone is pleasant, approachable and unaware of how noticeable they are. It can be complimentary, but it may also imply that someone lacks confidence or status.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team introduction · new colleague",
+          "sentence": "She made an unassuming entrance, then led the meeting with a clear, practical proposal.",
+          "highlight": "unassuming",
+          "tip": "Use it to contrast someone’s quiet manner with their ability or influence."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · meeting a friend’s guest",
+          "sentence": "He was so unassuming that I only noticed his excellent suit when everyone else left.",
+          "highlight": "unassuming",
+          "tip": "This often adds a warm, slightly humorous note when describing someone modest."
+        },
+        {
+          "setting": "writing",
+          "where": "Restaurant review · praising the atmosphere",
+          "sentence": "The hotel’s unassuming entrance gives way to a stylish lobby and attentive service.",
+          "highlight": "unassuming",
+          "tip": "It works well for places or objects that look simple or understated at first."
+        }
+      ],
+      "origin": {
+        "summary": "Formed in English from the prefix un-, meaning ‘not’, and assuming, which comes from Latin assumere, ‘take upon oneself’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "The Latin assumere develops the sense of taking something upon oneself or adopting a role."
+          },
+          {
+            "when": "Middle English period",
+            "text": "Assume appears in English through Old French and Latin, with senses connected with taking or accepting."
+          },
+          {
+            "when": "1800s",
+            "text": "Unassuming is recorded as a word meaning modest or lacking affectation."
+          },
+          {
+            "when": "Today",
+            "text": "It describes people, places or things that do not seek attention or appear pretentious."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "assume",
+          "label": "verb"
+        },
+        {
+          "term": "assumption",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "modest",
+        "understated",
+        "unpretentious",
+        "humble"
+      ],
+      "opposite": "conspicuous",
+      "pitfall": "Unassuming is not a synonym for passive; it focuses on someone’s lack of showiness, not their willingness to act."
+    },
+    {
+      "id": "unconscionable",
+      "kind": "word",
+      "term": "unconscionable",
+      "pos": "adjective",
+      "phonetic": "/ʌnˈkɒnʃənəbəl/",
+      "sayIt": "un-KON-shuh-nuh-buhl",
+      "register": "Formal",
+      "meaning": "So unfair, excessive, or morally wrong that it cannot be accepted.",
+      "nuance": "It is stronger than merely unreasonable and often suggests a serious violation of fairness or basic standards.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · reviewing a workload",
+          "sentence": "It would be unconscionable to expect one person to finish the project while the rest of the team leaves early.",
+          "highlight": "unconscionable",
+          "tip": "Use it for conduct or demands that go beyond what is fair or reasonable."
+        },
+        {
+          "setting": "social",
+          "where": "Friendship · calling out unfair treatment",
+          "sentence": "Your landlord’s sudden increase in the rent seems unconscionable, especially without giving you any notice.",
+          "highlight": "unconscionable",
+          "tip": "This sounds forceful and morally emphatic, so reserve it for clear wrongdoing."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal complaint · challenging a decision",
+          "sentence": "The committee described the proposed fee as unconscionable because it placed an excessive burden on small businesses.",
+          "highlight": "unconscionable",
+          "tip": "It works well in formal writing when you want to express strong disapproval of an unfair practice."
+        }
+      ],
+      "origin": {
+        "summary": "The word developed through the prefix un- and ideas connected with conscience or reasonableness. Its older senses referred to unreasonable or excessive conduct; today it strongly emphasises unfairness.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1600s–1700s",
+            "text": "Early English uses refer to actions or conditions that could not be considered reasonable or acceptable."
+          },
+          {
+            "when": "1800s",
+            "text": "The sense becomes firmly associated with extreme unfairness and morally unacceptable conduct."
+          },
+          {
+            "when": "Today",
+            "text": "Common in formal criticism, especially of excessive demands, unfair treatment, or serious wrongdoing."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "unconscionably",
+          "label": "adverb"
+        },
+        {
+          "term": "unconscionability",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "unreasonable",
+        "outrageous",
+        "indefensible",
+        "excessive"
+      ],
+      "opposite": "reasonable",
+      "pitfall": "Don’t use it as a general synonym for inconvenient or annoying; it describes conduct or treatment that is seriously unfair or unacceptable."
+    },
+    {
+      "id": "unctuous",
+      "kind": "word",
+      "term": "unctuous",
+      "pos": "adjective",
+      "phonetic": "/ʌŋktʃuəs/",
+      "sayIt": "un-CHOO-us",
+      "register": "Formal",
+      "meaning": "Too eager to flatter or please someone, often in a way that feels insincere.",
+      "nuance": "It describes behaviour that is overly smooth, flattering or eager to agree. The word is usually critical and suggests hidden self-interest.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing feedback",
+          "sentence": "His unctuous praise of the proposal made everyone wonder whether he was hoping for favour.",
+          "highlight": "unctuous",
+          "tip": "Use it when politeness seems designed to gain an advantage."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · friendly introductions",
+          "sentence": "He became unctuous whenever the host mentioned the food, complimenting every dish.",
+          "highlight": "unctuous",
+          "tip": "It can describe exaggerated friendliness that feels excessive."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · evaluating a new restaurant",
+          "sentence": "The chef’s unctuous welcome overwhelmed the food, which was good but rarely impressive.",
+          "highlight": "unctuous",
+          "tip": "A strong word for polished praise that sounds insincere."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin unctus, meaning ‘oiled’ or ‘anointed’, related to unguere, ‘to anoint’. Its original oily sense developed into the figurative idea of smooth or flattering speech.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Unctus means ‘oiled, greasy or anointed’ and comes from unguere, ‘to anoint’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with the sense of oily or greasy."
+          },
+          {
+            "when": "1800s onward",
+            "text": "It develops the figurative meaning of overly flattering or excessively smooth."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "unctuously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "obsequious",
+        "sycophantic",
+        "fawning",
+        "oily"
+      ],
+      "opposite": "forthright",
+      "pitfall": "Don’t use it simply for someone who is being complimentary; it usually implies that the praise is excessive or insincere."
+    },
+    {
+      "id": "unkempt",
+      "kind": "word",
+      "term": "unkempt",
+      "pos": "adjective",
+      "phonetic": "/ʌnˈkempt/",
+      "sayIt": "un-KEMPT",
+      "register": "Everyday; mildly disapproving",
+      "meaning": "Not neat or tidy, especially in appearance.",
+      "nuance": "It often suggests that someone’s hair, clothing or work has not been cared for. It can be blunt, so use it tactfully when describing a person.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office feedback · a colleague’s appearance",
+          "sentence": "Her clothes looked unkempt after the long flight, so she changed before the presentation.",
+          "highlight": "unkempt",
+          "tip": "It describes a visibly untidy appearance without saying the person is careless."
+        },
+        {
+          "setting": "social",
+          "where": "Friend’s home · after a busy day",
+          "sentence": "I arrived looking rather unkempt, but nobody minded once we sat down to dinner.",
+          "highlight": "unkempt",
+          "tip": "A gentle way to describe messy hair, clothes or general appearance."
+        },
+        {
+          "setting": "writing",
+          "where": "Review comment · presentation slides",
+          "sentence": "The slides were informative, but the layout looked unkempt and difficult to scan.",
+          "highlight": "unkempt",
+          "tip": "Works well for untidy design, formatting or presentation."
+        }
+      ],
+      "origin": {
+        "summary": "Formed from un-, meaning “not,” and kempt, an older word for “neatly arranged” or “combed,” which is related to comb.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The word comb develops from roots referring to grooming or arranging with a comb."
+          },
+          {
+            "when": "Middle English",
+            "text": "Kempt appears in the sense of neatly arranged or cared for."
+          },
+          {
+            "when": "1540s",
+            "text": "Unkempt begins to be used in English for untidy or neglected in appearance."
+          },
+          {
+            "when": "Today",
+            "text": "It describes untidy people, objects, clothing or design."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "unkemptness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "disheveled",
+        "scruffy",
+        "shabby",
+        "messy"
+      ],
+      "opposite": "neat",
+      "pitfall": "Use unkempt mainly for visible untidiness; it does not directly mean careless, poor or dirty."
+    },
+    {
+      "id": "unsavory",
+      "kind": "word",
+      "term": "unsavory",
+      "pos": "adjective",
+      "phonetic": "/ʌnˈseɪvəri/",
+      "sayIt": "un-SAY-vuh-ree",
+      "register": "Common in professional English",
+      "meaning": "Unpleasant, distasteful, or morally objectionable.",
+      "nuance": "Figuratively, it describes behavior, stories, or practices that seem scandalous or deeply unprofessional. It can also describe food that tastes or smells bad.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Internal audit · reviewing expenses",
+          "sentence": "The audit exposed several unsavory practices involving undisclosed supplier payments.",
+          "highlight": "unsavory",
+          "tip": "Strong but professional for conduct that is clearly improper."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · telling gossip",
+          "sentence": "His reputation for spreading unsavory stories precedes him.",
+          "highlight": "unsavory",
+          "tip": "Use it for information or behavior that is socially embarrassing or morally troubling."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · describing misconduct",
+          "sentence": "The report portrays the company’s handling of complaints as deliberately unsavory.",
+          "highlight": "unsavory",
+          "tip": "Effective in serious writing when you want to convey moral condemnation without explicit detail."
+        }
+      ],
+      "origin": {
+        "summary": "Formed in the 1600s by adding the prefix un- to savory, a word with roots in Latin sapor, meaning taste or flavor.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Sapor, meaning “taste” or “flavor,” provides the root of savory."
+          },
+          {
+            "when": "1600s",
+            "text": "Unsavory appears in English, initially meaning not tasty or appealing to the taste."
+          },
+          {
+            "when": "Today",
+            "text": "It is used figuratively for things that are scandalous, distasteful, or morally objectionable."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "unsavoriness",
+          "label": "noun"
+        },
+        {
+          "term": "unsavorily",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "distasteful",
+        "disreputable",
+        "seedy",
+        "objectionable",
+        "unscrupulous"
+      ],
+      "opposite": "savory",
+      "pitfall": "The American spelling is unsavory; the British spelling is unsavoury."
+    },
+    {
+      "id": "untoward",
+      "kind": "word",
+      "term": "untoward",
+      "pos": "adjective",
+      "phonetic": "/ʌnˈtɔːrd/",
+      "sayIt": "un-TOWARD",
+      "register": "Formal",
+      "meaning": "Unpleasant, inconvenient, or not what was expected.",
+      "nuance": "It often suggests that a situation has become awkward or troublesome. The word sounds slightly old-fashioned but remains useful in formal writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · handling a delay",
+          "sentence": "The delay had an untoward effect on the launch, so we moved the announcement to next month.",
+          "highlight": "untoward",
+          "tip": "Use it for results or developments that are troublesome rather than simply inconvenient."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · a sudden disagreement",
+          "sentence": "The conversation took an untoward turn when everyone began defending their own holiday plans.",
+          "highlight": "untoward",
+          "tip": "It gives a formal, slightly dramatic way to describe an awkward change of direction."
+        },
+        {
+          "setting": "writing",
+          "where": "Incident report · describing an unexpected problem",
+          "sentence": "An untoward response from the server prevented several requests from being processed.",
+          "highlight": "untoward",
+          "tip": "Pair it with effect, turn, response or development in formal reports."
+        }
+      ],
+      "origin": {
+        "summary": "The word combines the prefix un- with toward, whose older sense meant ‘in the direction of’. It developed the meaning ‘unfavourable or unwelcome’ in English.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "Toward develops from elements meaning ‘in the direction of’."
+          },
+          {
+            "when": "1600s",
+            "text": "The form untoward appears, initially meaning ‘in an unfavourable or improper direction’."
+          },
+          {
+            "when": "Today",
+            "text": "It is used mainly for unwelcome events, developments or effects."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "untowardly",
+          "label": "adverb"
+        },
+        {
+          "term": "untowardness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "awkward",
+        "adverse",
+        "unfavourable",
+        "unwelcome"
+      ],
+      "opposite": "favourable",
+      "pitfall": "It is more formal than unwanted and is often used when something feels inconvenient, awkward or unexpectedly troublesome."
+    },
+    {
+      "id": "urbane",
+      "kind": "word",
+      "term": "urbane",
+      "pos": "adjective",
+      "phonetic": "/ɜːrˈbeɪn/",
+      "sayIt": "ur-BAYN",
+      "register": "Formal and polished",
+      "meaning": "Polished, courteous and confident in the way you speak or behave in social situations.",
+      "nuance": "It suggests refinement without stiffness. It often describes someone who handles conversation and social expectations with ease.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client meeting · answering a difficult question",
+          "sentence": "Her urbane response kept the tense discussion calm and moved the meeting forward.",
+          "highlight": "urbane",
+          "tip": "Use it to praise someone who remains courteous under pressure."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · meeting the host’s guests",
+          "sentence": "He was urbane and attentive, making everyone feel comfortable at the table.",
+          "highlight": "urbane",
+          "tip": "It fits refined social behaviour, but should not imply merely good manners."
+        },
+        {
+          "setting": "writing",
+          "where": "Recommendation letter · praising a colleague",
+          "sentence": "Known for his urbane manner and sound judgement, Marcus earned the trust of senior colleagues.",
+          "highlight": "urbane",
+          "tip": "Use it in formal writing when you want to combine social polish with professional respectability."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin urbanus, meaning connected with the city or its inhabitants. Its sense of refined manners developed as city life became associated with education and polished behaviour.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Urbanus develops from urbs, meaning city, and refers to city life or citizens."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "Enters English with meanings connected with cities and city dwellers."
+          },
+          {
+            "when": "1700s onward",
+            "text": "Gains the modern sense of courteous, sophisticated and socially polished."
+          }
+        ]
+      },
+      "similar": [
+        "suave",
+        "sophisticated",
+        "courteous",
+        "cultured"
+      ],
+      "opposite": "boorish",
+      "pitfall": "Do not confuse it with urban, which means relating to a city; urbane describes polished social behaviour."
+    },
+    {
+      "id": "valor",
+      "kind": "word",
+      "term": "valor",
+      "pos": "noun",
+      "phonetic": "/ˈvælər/",
+      "sayIt": "VAL-er",
+      "register": "Formal",
+      "meaning": "Courage and strength shown when facing danger, hardship, or a serious challenge.",
+      "nuance": "Valor has a strongly admiring tone and is especially common in stories, speeches, and formal writing. It often suggests steady moral courage rather than a reckless willingness to act.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · recognizing difficult leadership",
+          "sentence": "She showed real valor by reporting a serious safety risk even though it could affect her own team.",
+          "highlight": "valor",
+          "tip": "Use it to praise courage, often when the person faced meaningful consequences."
+        },
+        {
+          "setting": "social",
+          "where": "Community award · praising a neighbor",
+          "sentence": "He was recognized for the valor he showed while helping strangers escape the fire.",
+          "highlight": "valor",
+          "tip": "It sounds more ceremonial than everyday praise such as bravery or guts."
+        },
+        {
+          "setting": "writing",
+          "where": "Memorial speech · honoring a colleague",
+          "sentence": "Her colleagues remembered her valor, her loyalty, and the calm leadership she brought to every crisis.",
+          "highlight": "valor",
+          "tip": "A strong word for eulogies, historical writing, and formal accounts of heroic conduct."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin valor, meaning courage or worthiness. The word entered English in the 1500s, initially referring to courage and later gaining broader associations with heroic character.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Valor, from valere, meaning to be strong, healthy, or worthy."
+          },
+          {
+            "when": "1500s",
+            "text": "Enters English with meanings connected to courage and worth."
+          },
+          {
+            "when": "Modern English",
+            "text": "Becomes a formal word for courage in the face of danger or hardship."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "valour",
+          "label": "noun (British spelling)"
+        },
+        {
+          "term": "valorous",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "courage",
+        "bravery",
+        "heroism",
+        "fortitude"
+      ],
+      "opposite": "cowardice",
+      "pitfall": "Valor is common in American English; British English normally spells it valour. It is more formal and praise-focused than courage."
+    },
+    {
+      "id": "venial",
+      "kind": "word",
+      "term": "venial",
+      "pos": "adjective",
+      "phonetic": "/ˈviːniəl/",
+      "sayIt": "VEE-nee-uhl",
+      "register": "Formal",
+      "meaning": "Forgivable or not serious enough to deserve harsh punishment.",
+      "nuance": "It describes a minor fault or mistake. The word sounds old-fashioned and often appears in formal or literary writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing a missed deadline",
+          "sentence": "The missed deadline was a venial error, especially because the client approved the change at the last minute.",
+          "highlight": "venial",
+          "tip": "Use it for a mistake that deserves understanding rather than serious criticism."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · apologising for arriving late",
+          "sentence": "He called the traffic delay a venial excuse, though his friends were not convinced.",
+          "highlight": "venial",
+          "tip": "It can sound mildly humorous when you describe a small or flimsy excuse."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal apology · explaining a minor error",
+          "sentence": "I regard the omission as venial and will correct it before the final report is submitted.",
+          "highlight": "venial",
+          "tip": "It fits formal apologies and descriptions of minor wrongdoing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin venialis, meaning ‘forgivable’, connected with venia, ‘pardon or forgiveness’. It reached English through French in the late medieval period.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Venialis means ‘forgivable’, from venia, ‘pardon’ or ‘grace’."
+          },
+          {
+            "when": "Late medieval period",
+            "text": "The word enters English through French in the sense of ‘pardonable’."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal or literary English for a minor fault."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "venially",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "forgivable",
+        "excusable",
+        "minor",
+        "trivial"
+      ],
+      "opposite": "serious",
+      "pitfall": "Do not confuse it with venal, which means open to bribery or corruption."
+    },
+    {
+      "id": "vexatious",
+      "kind": "word",
+      "term": "vexatious",
+      "pos": "adjective",
+      "phonetic": "/vɪkˈseɪʃəs/",
+      "sayIt": "vik-SAY-shus",
+      "register": "Formal",
+      "meaning": "Causing irritation or unnecessary trouble, often in a way that feels deliberately difficult.",
+      "nuance": "Stronger and more formal than “annoying”; it can describe people who create problems or procedures that make a situation harder than it needs to be.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · a delayed approval",
+          "sentence": "His vexatious demand for another review is keeping the launch on hold.",
+          "highlight": "vexatious",
+          "tip": "Use it for frustrating behaviour that deliberately or needlessly complicates work."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · a dispute",
+          "sentence": "Our neighbour is always vexatious, finding a reason to complain about the noise.",
+          "highlight": "vexatious",
+          "tip": "It sounds more disapproving and formal than “difficult” or “annoying.”"
+        },
+        {
+          "setting": "writing",
+          "where": "Complaint letter · repeated requests",
+          "sentence": "The agency described the process as slow and vexatious, rather than simply inefficient.",
+          "highlight": "vexatious",
+          "tip": "A strong choice in formal writing when problems seem designed to frustrate people."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin, where it relates to vexare, meaning “to irritate, annoy or trouble.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Vexatious comes from roots associated with vexare, “to irritate, annoy or trouble.”"
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English, initially carrying the meaning of annoying or distressing."
+          },
+          {
+            "when": "Today",
+            "text": "It is used especially for people, demands and procedures that cause unnecessary difficulty."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "vexation",
+          "label": "noun"
+        },
+        {
+          "term": "vexatiously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "annoying",
+        "irritating",
+        "troublesome",
+        "contentious"
+      ],
+      "opposite": "helpful",
+      "pitfall": "Vexatious describes something that causes recurring trouble; it is not simply another word for feeling personally annoyed."
+    },
+    {
+      "id": "vigilant",
+      "kind": "word",
+      "term": "vigilant",
+      "pos": "adjective",
+      "phonetic": "/ˈvɪdʒələnt/",
+      "sayIt": "VIJ-uh-lunt",
+      "register": "Common at work",
+      "meaning": "Carefully watching for possible problems and ready to act quickly.",
+      "nuance": "It suggests alert attention, usually in a situation where safety, mistakes, or unexpected events matter. It can sound more formal than “alert” or “watchful.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing a project risk",
+          "sentence": "Please stay vigilant for signs of delay so we can address them before the deadline slips.",
+          "highlight": "vigilant",
+          "tip": "Use it to encourage careful attention without sounding alarmist."
+        },
+        {
+          "setting": "social",
+          "where": "Event venue · keeping an eye on belongings",
+          "sentence": "We’ll be vigilant about our bags while we’re near the stage.",
+          "highlight": "vigilant",
+          "tip": "It works well when you want to describe being quietly watchful in a busy place."
+        },
+        {
+          "setting": "writing",
+          "where": "Safety notice · supervising children",
+          "sentence": "Vigilant supervision helps prevent small problems from becoming serious ones.",
+          "highlight": "Vigilant",
+          "tip": "Pair it with supervision, attention, monitoring or caution in formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin vigilantem, meaning “watchful,” based on vigilare, “to keep watch.” It entered English through Latin and French.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Vigilantem, “watchful,” from vigilare, “to keep watch.”"
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word appears in English in the sense of awake, watchful and attentive."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means being alert to danger, problems or unusual details."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "vigilance",
+          "label": "noun"
+        },
+        {
+          "term": "vigilantly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "watchful",
+        "alert",
+        "attentive",
+        "on guard"
+      ],
+      "opposite": "inattentive",
+      "pitfall": "Vigilant describes a person or quality of attention; vigilance is the noun meaning careful watchfulness."
+    },
+    {
+      "id": "virile",
+      "kind": "word",
+      "term": "virile",
+      "pos": "adjective",
+      "phonetic": "/ˈvɪrəl/",
+      "sayIt": "VIR-uhl",
+      "register": "Formal; sometimes dated",
+      "meaning": "Having qualities traditionally associated with a strong, sexually active adult man.",
+      "nuance": "It can suggest masculine strength, energy and sexual potency. Today it may sound old-fashioned, overly macho or insulting when applied to someone’s personality or appearance.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · describing a colleague",
+          "sentence": "She gave a virile performance in the negotiations, combining energy with clear control.",
+          "highlight": "virile",
+          "tip": "This use is dated and usually better replaced with vigorous, forceful or energetic."
+        },
+        {
+          "setting": "social",
+          "where": "Car conversation · describing an engine",
+          "sentence": "The old car had a virile engine that pulled strongly uphill.",
+          "highlight": "virile",
+          "tip": "It is often used playfully for machinery, though it can still sound overly masculine."
+        },
+        {
+          "setting": "writing",
+          "where": "Novel description · a character entering a room",
+          "sentence": "He entered with a virile confidence that briefly silenced the room.",
+          "highlight": "virile",
+          "tip": "The phrase conveys forceful masculinity, but a more specific adjective may suit modern writing better."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin virilis, meaning ‘of a man’ or ‘manly’, based on vir, the Latin word for ‘man’. English first used it mainly in medical writing before it acquired broader associations with strength and sexual potency.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Classical Latin",
+            "text": "Virilis develops from vir, ‘man’, with the sense ‘of a man’ or ‘manly’."
+          },
+          {
+            "when": "16th century",
+            "text": "The word enters English, especially in medical descriptions of male anatomy."
+          },
+          {
+            "when": "20th–21st centuries",
+            "text": "It comes to suggest masculine strength, energy and sexual potency, and is now often perceived as dated."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "virility",
+          "label": "noun"
+        },
+        {
+          "term": "virilely",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "masculine",
+        "vigorous",
+        "forceful",
+        "robust"
+      ],
+      "opposite": "effeminate",
+      "pitfall": "Don’t use virile as a simple modern synonym for masculine; it carries stronger and more dated associations with male sexual potency and physical force."
+    },
+    {
+      "id": "vivacious",
+      "kind": "word",
+      "term": "vivacious",
+      "pos": "adjective",
+      "phonetic": "/vɪˈveɪʃəs/",
+      "sayIt": "vi-VAY-shus",
+      "register": "Common at work",
+      "meaning": "Full of energy, enthusiasm and lively interest.",
+      "nuance": "It is a warm, complimentary word that suits people, places and ideas with a cheerful sense of vitality.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team presentation · launch pitch",
+          "sentence": "Her vivacious delivery kept the whole team interested through a long presentation.",
+          "highlight": "vivacious",
+          "tip": "Use it for a person whose energy makes a situation feel lively."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · meeting friends",
+          "sentence": "We spent the evening with two vivacious cousins who made every guest feel welcome.",
+          "highlight": "vivacious",
+          "tip": "It suggests lively charm rather than simply being energetic or talkative."
+        },
+        {
+          "setting": "writing",
+          "where": "Event review · describing the atmosphere",
+          "sentence": "The market felt vivacious, with live music and families exploring every stall.",
+          "highlight": "vivacious",
+          "tip": "It works well when describing an animated scene, atmosphere or personality."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin vivax, meaning lively or full of life, which comes from vivere, to live.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Vivax means lively, vigorous or long-lived and is based on vivere, to live."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word entered English through French and Latin literary usage."
+          },
+          {
+            "when": "Today",
+            "text": "It describes people, places and scenes full of lively energy."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "vivacity",
+          "label": "noun"
+        },
+        {
+          "term": "vivaciously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "lively",
+        "animated",
+        "spirited",
+        "bubbly"
+      ],
+      "opposite": "listless",
+      "pitfall": "It can sound overly enthusiastic in a formal report, so prefer lively when a calmer description is needed."
+    },
+    {
+      "id": "wary",
+      "kind": "word",
+      "term": "wary",
+      "pos": "adjective",
+      "phonetic": "/ˈweəri/",
+      "sayIt": "WAY-ree",
+      "register": "Everyday",
+      "meaning": "Cautious and alert to possible problems, risks, or deception.",
+      "nuance": "Wary suggests a guarded attitude based on caution or past experience. It can describe being careful about a decision, suspicious of an offer, or alert to possible danger.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing a new supplier",
+          "sentence": "I’m wary of committing to a supplier without checking how other teams have worked with them.",
+          "highlight": "wary",
+          "tip": "Use it when you want to show caution without sounding openly distrustful."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · discussing a surprising offer",
+          "sentence": "She was wary of the investment offer until she checked where the money was coming from.",
+          "highlight": "wary",
+          "tip": "Often followed by “of” when naming the thing that makes someone cautious."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · noting a risk",
+          "sentence": "The report remains wary of any claims that the new system will improve productivity.",
+          "highlight": "wary",
+          "tip": "Useful in formal writing for describing a cautious or sceptical position."
+        }
+      ],
+      "origin": {
+        "summary": "Wary comes from the Old English word wær, meaning cautious or wary, and developed through the Middle English form wari. It is related to the word beware.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The ancestor of wary meant cautious or alert to danger."
+          },
+          {
+            "when": "Middle English",
+            "text": "The form wari appears with the sense of cautious or suspicious."
+          },
+          {
+            "when": "Today",
+            "text": "Wary describes people, decisions, or statements that show caution and careful attention to possible risks."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "wariness",
+          "label": "noun"
+        },
+        {
+          "term": "warily",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "cautious",
+        "wary",
+        "suspicious",
+        "vigilant",
+        "sceptical"
+      ],
+      "opposite": "reckless",
+      "pitfall": "Don’t use wary as a synonym for afraid; wary focuses on caution and alertness, which may or may not involve fear."
+    },
+    {
+      "id": "whimsical",
+      "kind": "word",
+      "term": "whimsical",
+      "pos": "adjective",
+      "phonetic": "/ˈwɪm.zɪ.kəl/",
+      "sayIt": "WIM-zih-kuhl",
+      "register": "Casual and creative",
+      "meaning": "Playfully imaginative or lightly unusual, often in a charming way.",
+      "nuance": "It suggests playful ideas, unexpected details or humour rather than serious practical thinking. Use it when describing creative work, behaviour or objects that feel fun and inventive.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Design review · presenting a concept",
+          "sentence": "The whimsical illustrations make the onboarding screens feel friendly and memorable.",
+          "highlight": "whimsical",
+          "tip": "Use it for creative choices that add charm or personality."
+        },
+        {
+          "setting": "social",
+          "where": "Coffee with friends · describing a gift",
+          "sentence": "She gave us a whimsical mug covered in tiny clouds and teacups.",
+          "highlight": "whimsical",
+          "tip": "It fits light, informal conversation when something is playful or delightfully odd."
+        },
+        {
+          "setting": "writing",
+          "where": "Short story · describing a character",
+          "sentence": "His whimsical nature led him to fill the garden with paper birds and glowing mushrooms.",
+          "highlight": "whimsical",
+          "tip": "It can give characters or settings a sense of playful imagination."
+        }
+      ],
+      "origin": {
+        "summary": "Derived from whim, meaning a sudden playful impulse or fancy. The adjective developed in the 1600s and later came to describe things marked by playful imagination.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Whim originally referred to a sudden impulse, mood or fancy."
+          },
+          {
+            "when": "1600s",
+            "text": "The form whimsical appears, describing something influenced by whims or playful fancies."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly means playful, imaginative and charmingly unusual."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "whimsically",
+          "label": "adverb"
+        },
+        {
+          "term": "whimsy",
+          "label": "noun"
+        },
+        {
+          "term": "whimsicality",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "playful",
+        "quirky",
+        "fanciful",
+        "capricious"
+      ],
+      "opposite": "practical",
+      "pitfall": "It often adds charm or playfulness, so it may not suit serious technical or business descriptions."
+    }
+  ]
+}

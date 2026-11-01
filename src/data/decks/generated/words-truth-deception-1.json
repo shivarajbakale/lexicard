@@ -1,0 +1,1734 @@
+{
+  "id": "words-truth-deception-1",
+  "kind": "word",
+  "name": "Truth & deception · 1",
+  "blurb": "25 words about truth & deception",
+  "cards": [
+    {
+      "id": "alleged",
+      "kind": "word",
+      "term": "alleged",
+      "pos": "adjective",
+      "phonetic": "/əˈliːdʒd/",
+      "sayIt": "uh-LEEJD",
+      "register": "Formal",
+      "meaning": "Claimed to have happened or to be true, but not yet proved.",
+      "nuance": "Use it to report an accusation or claim without presenting it as fact. It can sound cautious and neutral, but may also create suspicion.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Internal investigation · discussing misconduct",
+          "sentence": "The employee is the alleged source of the leak, but the investigation has not established that yet.",
+          "highlight": "alleged",
+          "tip": "Use it to signal that an accusation has been made, not that it is proven."
+        },
+        {
+          "setting": "social",
+          "where": "News conversation · explaining a report",
+          "sentence": "The alleged fraud was reported by the newspaper, although officials have not confirmed the details.",
+          "highlight": "alleged",
+          "tip": "This wording keeps a serious claim separate from confirmed facts."
+        },
+        {
+          "setting": "writing",
+          "where": "Legal report · describing a claim",
+          "sentence": "The report examines the alleged conflict of interest and explains what evidence supports the claim.",
+          "highlight": "alleged",
+          "tip": "It often appears before crimes, offences, incidents, fraud or misconduct."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin allegatus, meaning ‘charged’ or ‘declared’, derived from allegare, ‘to speak against’ or ‘accuse’. English later developed the modern sense of ‘claimed but not proven’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "allegatus means ‘charged’ or ‘declared’, from allegare, ‘to accuse’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English in legal and related contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used to report unproven accusations."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "allege",
+          "label": "verb"
+        },
+        {
+          "term": "allegation",
+          "label": "noun"
+        },
+        {
+          "term": "allegedly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "claimed",
+        "purported",
+        "so-called",
+        "suspected"
+      ],
+      "opposite": "proven",
+      "pitfall": "Alleged does not mean false; it means that someone has made the claim but there is not yet proof."
+    },
+    {
+      "id": "allude",
+      "kind": "word",
+      "term": "allude",
+      "pos": "verb",
+      "phonetic": "/əˈluːd/",
+      "sayIt": "uh-LUUD",
+      "register": "Formal",
+      "meaning": "To refer to something indirectly, often by mentioning it briefly or in a way that suggests it without explaining it directly.",
+      "nuance": "Alluding can create a subtle connection for readers who know the reference. It may sound too indirect when clarity matters.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Presentation · introducing a familiar example",
+          "sentence": "The campaign alludes to our first product launch without naming it directly.",
+          "highlight": "alludes",
+          "tip": "Use it when you want a brief, indirect reference rather than a detailed explanation."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · shared joke",
+          "sentence": "Her comment about keeping calm clearly alludes to our chaotic road trip.",
+          "highlight": "alludes",
+          "tip": "It works well when the connection is already understood by everyone."
+        },
+        {
+          "setting": "writing",
+          "where": "Essay · linking two ideas",
+          "sentence": "The opening alludes to an older myth, preparing the reader for the essay’s central argument.",
+          "highlight": "alludes",
+          "tip": "A strong choice for a literary, historical or academic reference."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin alludere, meaning ‘play upon’ or ‘refer indirectly’, built from ad- and ludere, ‘to play’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "alludere, ‘play upon’, from ad- and ludere, ‘to play’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "Enters English with meanings connected to joking, referring indirectly and making an allusion."
+          },
+          {
+            "when": "Today",
+            "text": "Usually means to refer to something indirectly, especially in writing."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "allusion",
+          "label": "noun"
+        },
+        {
+          "term": "allusive",
+          "label": "adjective"
+        },
+        {
+          "term": "allusively",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "refer to",
+        "hint at",
+        "evoke",
+        "mention indirectly"
+      ],
+      "opposite": "state explicitly",
+      "pitfall": "An allusion is the reference itself, while allude is the action of making that reference."
+    },
+    {
+      "id": "artifice",
+      "kind": "word",
+      "term": "artifice",
+      "pos": "noun",
+      "phonetic": "/ˈɑːrtɪfɪs/",
+      "sayIt": "AR-tuh-fis",
+      "register": "Formal",
+      "meaning": "A clever device or trick used to deceive someone or achieve a particular effect.",
+      "nuance": "It often suggests careful planning or manipulation rather than an obvious lie. The word is especially common in formal writing and can refer to something visually impressive as well as deceptive.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Negotiation · challenging a proposal",
+          "sentence": "The consultant used artifice to make an expensive proposal sound like the simplest option available.",
+          "highlight": "artifice",
+          "tip": "Use it when describing a calculated attempt to influence or mislead people."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · teasing a friend",
+          "sentence": "Her dramatic entrance was pure artifice, designed to make everyone stop talking.",
+          "highlight": "artifice",
+          "tip": "A slightly literary or playful way to describe a staged performance or clever trick."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · questioning an advertisement",
+          "sentence": "The advertisement relies on artifice, borrowing the appearance of scientific authority without offering real evidence.",
+          "highlight": "artifice",
+          "tip": "Often appears in criticism of rhetoric, advertising and political persuasion."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin artificium, meaning ‘skill, craft or cunning’, built from ars, ‘craft or skill’, and facere, ‘to make’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Artificium develops from ars, ‘craft or skill’, and facere, ‘to make’."
+          },
+          {
+            "when": "Late Middle English",
+            "text": "The word enters English in senses connected with skill, invention and crafty devices."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly refers to a deliberate method of deception or manipulation."
+          }
+        ]
+      },
+      "similar": [
+        "ruse",
+        "trick",
+        "contrivance",
+        "deception"
+      ],
+      "opposite": "candor",
+      "pitfall": "Do not confuse it with artifact, which means an object made or used by people."
+    },
+    {
+      "id": "attest",
+      "kind": "word",
+      "term": "attest",
+      "pos": "verb",
+      "phonetic": "/əˈtɛst/",
+      "sayIt": "uh-TEST",
+      "register": "Formal",
+      "meaning": "To confirm officially or provide evidence that something is true.",
+      "nuance": "It sounds formal and often appears in legal, academic or official contexts. It can mean either making a statement as a witness or showing that a fact is supported by evidence.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Compliance review · confirming credentials",
+          "sentence": "The certificate attests that all safety checks were completed before the equipment was approved.",
+          "highlight": "attests",
+          "tip": "Often used when a document or authorised person supports a claim."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · discussing an old photograph",
+          "sentence": "My aunt attested that the photograph was taken at our old house, though nobody remembered the exact date.",
+          "highlight": "attested",
+          "tip": "Use it when someone is informally acting as a witness."
+        },
+        {
+          "setting": "writing",
+          "where": "Research paper · describing evidence",
+          "sentence": "Several archived records attest to the company’s rapid expansion during the 1920s.",
+          "highlight": "attest",
+          "tip": "A useful alternative to 'show' when you want a more authoritative tone."
+        }
+      ],
+      "origin": {
+        "summary": "Attest comes from Latin attestari, meaning 'to bear witness', formed from ad, meaning 'to', and testis, meaning 'witness'.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Attestari originally meant to bear witness or confirm as a witness."
+          },
+          {
+            "when": "1500s",
+            "text": "The word entered English in legal and official contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used to mean formally confirm or support with evidence."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "attestation",
+          "label": "noun"
+        },
+        {
+          "term": "attestant",
+          "label": "noun (person)"
+        }
+      ],
+      "similar": [
+        "confirm",
+        "verify",
+        "certify",
+        "corroborate"
+      ],
+      "opposite": "disprove",
+      "pitfall": "Attest usually takes a statement, fact or document as its object: 'The witness attested that…' It is less common in casual speech."
+    },
+    {
+      "id": "bias",
+      "kind": "word",
+      "term": "bias",
+      "pos": "noun",
+      "phonetic": "/ˈbaɪəs/",
+      "sayIt": "BY-us",
+      "register": "Common at work",
+      "meaning": "A tendency to favor or oppose a person, group, idea, or outcome in an unfair or one-sided way.",
+      "nuance": "Bias can show up as an obvious personal preference or as a repeated pattern in a decision, process, or institution. It does not always involve deliberate prejudice.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Hiring review · choosing an interview panel",
+          "sentence": "We should check the hiring panel for bias before it reviews applications from similar candidates.",
+          "highlight": "bias",
+          "tip": "Use it when examining preferences or patterns that may affect workplace decisions."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · choosing a restaurant",
+          "sentence": "My bias is toward quiet places, so I’m happy with the small café around the corner.",
+          "highlight": "bias",
+          "tip": "In a light, personal sense, it means a natural leaning or preference."
+        },
+        {
+          "setting": "writing",
+          "where": "Research discussion · assessing a study",
+          "sentence": "The review identifies possible bias in how the participants were selected.",
+          "highlight": "bias",
+          "tip": "Common in research, news, and reviews when discussing one-sided evidence or methods."
+        }
+      ],
+      "origin": {
+        "summary": "The word came into English from French in the 1600s, originally referring to a slanting line or direction. Its figurative sense developed through the idea of leaning or being angled toward something.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "English borrows the word from French bias, meaning an oblique line or slanting direction."
+          },
+          {
+            "when": "1600s–1700s",
+            "text": "The figurative sense develops, referring to a leaning, tendency, or partiality."
+          },
+          {
+            "when": "Today",
+            "text": "It describes both personal preferences and wider patterns in thinking or institutions."
+          }
+        ]
+      },
+      "similar": [
+        "prejudice",
+        "partiality",
+        "leaning",
+        "skew"
+      ],
+      "opposite": "impartiality",
+      "pitfall": "Bias is not the same as open hostility or discrimination: someone can be biased without consciously acting against others."
+    },
+    {
+      "id": "bogus",
+      "kind": "word",
+      "term": "bogus",
+      "pos": "adjective",
+      "phonetic": "/ˈboʊɡəs/",
+      "sayIt": "BOH-gus",
+      "register": "Casual",
+      "meaning": "Fake, false, or not genuine.",
+      "nuance": "It is informal but direct, and can sound more accusatory than “incorrect” or “not valid.” It can also describe something malformed or not working properly.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · checking customer claims",
+          "sentence": "That sales forecast is bogus; the numbers came from last year’s spreadsheet.",
+          "highlight": "bogus",
+          "tip": "Stronger than “unreliable” because it implies the information is false or made up."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · rejecting an excuse",
+          "sentence": "Your excuse sounds bogus, but I’m willing to hear the whole story.",
+          "highlight": "bogus",
+          "tip": "Common in casual speech, but it may sound blunt or confrontational."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · disputing a report",
+          "sentence": "Several statistics in the report are bogus and should be removed before publication.",
+          "highlight": "bogus",
+          "tip": "Useful for informal reviews and messages; use “false” or “unsupported” in formal reports."
+        }
+      ],
+      "origin": {
+        "summary": "The word probably began as American printing slang for false or counterfeit material. Its exact origin is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Appears in American printing and commercial slang, suggesting something false or counterfeit."
+          },
+          {
+            "when": "1900s",
+            "text": "Spreads into broader informal English for false, fake, or fraudulent things."
+          },
+          {
+            "when": "Today",
+            "text": "Common in casual speech and informal writing, especially in North America."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "bogusly",
+          "label": "adverb"
+        },
+        {
+          "term": "bogusness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "fake",
+        "phony",
+        "spurious",
+        "fraudulent"
+      ],
+      "opposite": "genuine",
+      "pitfall": "It can sound harsh, so choose a gentler word when the other person might be embarrassed or offended."
+    },
+    {
+      "id": "calumny",
+      "kind": "word",
+      "term": "calumny",
+      "pos": "noun",
+      "phonetic": "/ˈkæləmni/",
+      "sayIt": "KAL-uhm-nee",
+      "register": "Formal",
+      "meaning": "A false and damaging accusation made against someone.",
+      "nuance": "Stronger and more old-fashioned than “accusation”; it implies that the claim is maliciously false and harms a person’s reputation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Staff meeting · addressing false allegations",
+          "sentence": "She rejected the calumny that her colleague had misused company funds.",
+          "highlight": "calumny",
+          "tip": "Use it in serious formal contexts involving damaging accusations."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · defending a relative",
+          "sentence": "He dismissed the calumny spread by a jealous neighbour.",
+          "highlight": "calumny",
+          "tip": "It sounds formal and literary, so reserve it for weighty situations."
+        },
+        {
+          "setting": "writing",
+          "where": "Historical essay · describing a public scandal",
+          "sentence": "The letters were later recognised as calumny devised to discredit the minister.",
+          "highlight": "calumny",
+          "tip": "It works well in historical, legal or literary writing about false accusations."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin calumnia, meaning “slander” or “deception,” and associated with calumniari, “to slander.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Calumnia referred to false accusation, deception and the giving of false testimony."
+          },
+          {
+            "when": "Medieval period",
+            "text": "The word entered Middle English in legal and religious contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a formal word for a false accusation that harms someone’s reputation."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "calumnious",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "slander",
+        "defamation",
+        "false accusation",
+        "libel"
+      ],
+      "opposite": "exoneration",
+      "pitfall": "Don’t confuse “calumny” with “calamity”: a calumny is a false accusation, while a calamity is a serious misfortune."
+    },
+    {
+      "id": "canard",
+      "kind": "word",
+      "term": "canard",
+      "pos": "noun",
+      "phonetic": "/kəˈnɑːrd/",
+      "sayIt": "kuh-NARD",
+      "register": "Formal; common in journalism",
+      "meaning": "A claim or story presented as news that is believed to be false, exaggerated or invented.",
+      "nuance": "Often used when a suspicious story is circulating or being repeated without evidence. It can sound more pointed than “rumour,” especially in journalism and public discussion.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · checking a rumour",
+          "sentence": "The supplier’s sudden cancellation sounded like a canard, so we checked with the account manager.",
+          "highlight": "canard",
+          "tip": "Use it for a doubtful claim that is being treated as credible information."
+        },
+        {
+          "setting": "social",
+          "where": "Group chat · debating a story",
+          "sentence": "That celebrity rumour is just a canard, with no reliable source behind it.",
+          "highlight": "canard",
+          "tip": "It can express suspicion without directly accusing anyone of lying."
+        },
+        {
+          "setting": "writing",
+          "where": "News analysis · challenging a report",
+          "sentence": "Several online outlets repeated the canard before the claim could be verified.",
+          "highlight": "canard",
+          "tip": "Common in journalism when describing an unsupported or misleading story."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through French from an older word meaning “duck.” Its sense for a false or sensational story developed in nineteenth-century journalism.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The French word canard originally means “duck.”"
+          },
+          {
+            "when": "1800s",
+            "text": "French journalists use canards for unsupported or sensational stories circulated as news."
+          },
+          {
+            "when": "1900s",
+            "text": "English adopts both the duck sense and the false-story sense."
+          }
+        ]
+      },
+      "similar": [
+        "rumour",
+        "hoax",
+        "fabrication",
+        "false claim"
+      ],
+      "opposite": "verified report",
+      "pitfall": "Canard also means a duck. In the journalism sense, it usually implies that the claim is false or baseless, so use it only when there is doubt."
+    },
+    {
+      "id": "candor",
+      "kind": "word",
+      "term": "candor",
+      "pos": "noun",
+      "phonetic": "/ˈkændər/",
+      "sayIt": "KAN-dor",
+      "register": "Formal",
+      "meaning": "The quality of being open, honest, and direct about what you think or feel.",
+      "nuance": "Candor suggests respectful truthfulness, though it can sound blunt when delivered without tact. In American English, “candour” is the usual British spelling.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · discussing progress",
+          "sentence": "I appreciated your candor when you explained why the project had missed its deadline.",
+          "highlight": "candor",
+          "tip": "Use it to thank someone for speaking honestly, especially when the truth was difficult."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · answering a question",
+          "sentence": "With a bit of candor, I told them I’d rather stay home than attend another crowded party.",
+          "highlight": "candor",
+          "tip": "It adds warmth to an honest answer that might otherwise seem too direct."
+        },
+        {
+          "setting": "writing",
+          "where": "Company announcement · reporting a setback",
+          "sentence": "With candor, the report explains where the budget fell short and what the team will change.",
+          "highlight": "candor",
+          "tip": "Common in professional writing about transparency, feedback, and difficult decisions."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin candor, meaning whiteness or brightness, which came to suggest frankness and purity of intention.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Roman antiquity",
+            "text": "Latin candor referred to whiteness, brightness, and purity."
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered English and began to mean honesty or frankness."
+          },
+          {
+            "when": "Today",
+            "text": "It describes truthful, direct communication, often in professional contexts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "candid",
+          "label": "adjective"
+        },
+        {
+          "term": "candidly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "frankness",
+        "honesty",
+        "openness",
+        "directness"
+      ],
+      "opposite": "evasiveness",
+      "pitfall": "Candor does not mean rudeness; honest communication still depends on tact and context."
+    },
+    {
+      "id": "charlatan",
+      "kind": "word",
+      "term": "charlatan",
+      "pos": "noun",
+      "phonetic": "/ˈʃɑːrlətən/",
+      "sayIt": "CHAR-luh-tuhn",
+      "register": "Uncommon but formal",
+      "meaning": "Someone who dishonestly pretends to have special knowledge, skill, or authority.",
+      "nuance": "The word is strongly negative and suggests deliberate deception rather than simple incompetence. It is more literary than everyday words such as “fraud” or “impostor.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · questioning bad advice",
+          "sentence": "The consultant confidently promoted a useless service, and colleagues began to suspect she was a charlatan.",
+          "highlight": "charlatan",
+          "tip": "Use it for someone whose claimed expertise is fake or seriously exaggerated."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · a self-proclaimed expert",
+          "sentence": "He claimed he could cure every illness, but even the other guests thought he was a charlatan.",
+          "highlight": "charlatan",
+          "tip": "It is especially effective when someone is exploiting people’s trust."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · condemning misleading advice",
+          "sentence": "The book combines genuine insight with the promotional claims of a charlatan.",
+          "highlight": "charlatan",
+          "tip": "The formal tone suits criticism, journalism, and literary reviews."
+        }
+      ],
+      "origin": {
+        "summary": "English borrowed the word from French charlatan, which came from Italian ciarlatano. The exact origin of the Italian word is uncertain.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Italian",
+            "text": "Ciarlatano develops as a term for a quack, fraud, or deceptive speaker."
+          },
+          {
+            "when": "French",
+            "text": "The word appears as charlatan, meaning a swindler or false expert."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English and becomes established in the sense of a dishonest pretender."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "charlatanism",
+          "label": "noun"
+        },
+        {
+          "term": "charlatanic",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "quack",
+        "fraud",
+        "impostor",
+        "con artist"
+      ],
+      "opposite": "legitimate expert",
+      "pitfall": "It is more than simply being wrong or unqualified; it usually implies dishonest pretending or deliberate deception."
+    },
+    {
+      "id": "chicanery",
+      "kind": "word",
+      "term": "chicanery",
+      "pos": "noun",
+      "phonetic": "/ˈʃiːkənəri/",
+      "sayIt": "SHY-kuh-nuh-ree",
+      "register": "Formal",
+      "meaning": "Clever, deceptive behaviour used to trick people or gain an unfair advantage.",
+      "nuance": "The word suggests schemes that hide dishonesty rather than an honest mistake. It is forceful and usually used to accuse someone of bad conduct.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · challenging a proposal",
+          "sentence": "The apparent saving depended on hidden fees, so the committee called the proposal financial chicanery.",
+          "highlight": "chicanery",
+          "tip": "Use it for calculated, deceptive conduct, especially in business or politics."
+        },
+        {
+          "setting": "social",
+          "where": "Friendly debate · a suspicious sales pitch",
+          "sentence": "His claim that the watch was worth double what he paid sounded like classic chicanery.",
+          "highlight": "chicanery",
+          "tip": "It can fit informal conversation when you want to describe obvious trickery, but it may sound strongly accusatory."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · condemning misleading advertising",
+          "sentence": "Consumers deserve a full explanation rather than chicanery dressed up as a special offer.",
+          "highlight": "chicanery",
+          "tip": "This formal noun works well in editorial, legal and political writing."
+        }
+      ],
+      "origin": {
+        "summary": "English borrowed the word from French chicanerie, meaning trickery or deceptive practice. The deeper origin of the French term is uncertain.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "French",
+            "text": "Chicanerie develops as a word for trickery, deception or sharp practice."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English and is used for deceptive or unfairly cunning behaviour."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly formal and strongly critical of dishonest conduct."
+          }
+        ]
+      },
+      "similar": [
+        "trickery",
+        "deception",
+        "skulduggery",
+        "subterfuge"
+      ],
+      "opposite": "honesty",
+      "pitfall": "Chicanery describes deceptive methods or schemes; it is not a general word for any kind of trick or deception."
+    },
+    {
+      "id": "clandestine",
+      "kind": "word",
+      "term": "clandestine",
+      "pos": "adjective",
+      "phonetic": "/klænˈdɛstɪn/",
+      "sayIt": "klan-DES-tin",
+      "register": "Formal",
+      "meaning": "Kept secret because it is meant to go unnoticed or avoid official attention.",
+      "nuance": "The word often suggests something improper or threatening, such as a hidden meeting or covert operation. It can also be used more neutrally when secrecy is simply important.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · discussing a sensitive change",
+          "sentence": "The team held a clandestine meeting to discuss the proposed merger before the announcement.",
+          "highlight": "clandestine",
+          "tip": "Use it for a deliberate effort to keep an activity out of public view."
+        },
+        {
+          "setting": "social",
+          "where": "Gathering · sharing surprising news",
+          "sentence": "She made a clandestine call from the hallway, clearly trying to keep the conversation private.",
+          "highlight": "clandestine",
+          "tip": "It sounds more suspicious and dramatic than simply saying someone made a private call."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · describing covert activity",
+          "sentence": "The report alleged that the organization used clandestine methods to gather information.",
+          "highlight": "clandestine",
+          "tip": "A strong formal choice in reports, histories and accounts of concealed activity."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin clandestinus, meaning hidden or secret, with roots connected to clam, meaning secretly.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Clandestinus forms from clam, meaning secretly, and a root related to hiding."
+          },
+          {
+            "when": "1600s",
+            "text": "Enters English with meanings connected with secrecy and concealment."
+          },
+          {
+            "when": "Today",
+            "text": "Used mainly for activity that is deliberately hidden, often for improper reasons."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "clandestinely",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "covert",
+        "secret",
+        "surreptitious",
+        "under-the-radar"
+      ],
+      "opposite": "open",
+      "pitfall": "Don’t use it as a neutral substitute for every private action; it usually implies deliberate concealment and often disapproval."
+    },
+    {
+      "id": "corroborate",
+      "kind": "word",
+      "term": "corroborate",
+      "pos": "verb",
+      "phonetic": "/kəˈrɒbəreɪt/",
+      "sayIt": "kuh-ROB-uh-rayt",
+      "register": "Formal",
+      "meaning": "To confirm that something is true by adding evidence or information that supports it.",
+      "nuance": "It suggests another source or fact strengthens an account or claim. It is more formal than confirm and often appears in reports, investigations and professional writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Internal investigation · checking an account",
+          "sentence": "The timestamps corroborate the employee’s account of what happened that afternoon.",
+          "highlight": "corroborate",
+          "tip": "Use it when separate evidence supports a statement, report or version of events."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · discussing a surprising story",
+          "sentence": "Two people who were there corroborated what she had told us.",
+          "highlight": "corroborated",
+          "tip": "It is especially useful when several people independently support the same account."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · presenting evidence",
+          "sentence": "The receipt corroborates the claimed expense, but it does not explain who approved it.",
+          "highlight": "corroborates",
+          "tip": "It often appears before a claim or statement and highlights supporting evidence rather than proving the claim on its own."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin corroborare, meaning ‘to strengthen together’, combining cor- ‘together’ with roborare ‘to strengthen’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "corroborare, ‘to strengthen together’, from cor- ‘together’ and roborare ‘to strengthen’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with the sense of strengthening or supporting a statement."
+          },
+          {
+            "when": "Today",
+            "text": "It is used mainly for evidence that confirms or supports a claim or account."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "corroboration",
+          "label": "noun"
+        },
+        {
+          "term": "corroborating",
+          "label": "adjective"
+        },
+        {
+          "term": "corroborated",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "confirm",
+        "substantiate",
+        "verify",
+        "support"
+      ],
+      "opposite": "refute",
+      "pitfall": "Corroborate does not mean ‘prove beyond doubt’; it means that evidence supports a claim. Contrast with refute, which argues against it."
+    },
+    {
+      "id": "covert",
+      "kind": "word",
+      "term": "covert",
+      "pos": "adjective",
+      "phonetic": "/ˈkoʊvərt/",
+      "sayIt": "KOH-vurt",
+      "register": "Formal",
+      "meaning": "Hidden or done secretly, especially in a way intended to avoid notice.",
+      "nuance": "It suggests deliberate concealment and often carries a suspicious or negative tone. It can describe secretive behaviour, concealed activity or an undeclared purpose.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · addressing a problem",
+          "sentence": "The manager launched a covert review after several confidential complaints reached senior leadership.",
+          "highlight": "covert",
+          "tip": "Use it when an action is deliberately kept secret from others."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · explaining someone’s motives",
+          "sentence": "His interest in the project seemed genuine, but she suspected it was covert.",
+          "highlight": "covert",
+          "tip": "It can suggest a hidden agenda, so it may sound distrustful."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · describing concealed activity",
+          "sentence": "The report identifies covert efforts to influence public opinion without disclosing the source of the funding.",
+          "highlight": "covert",
+          "tip": "Common in reports about intelligence, security, lobbying or hidden influence."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French covert, meaning ‘covered’, which came from the Latin operire, ‘to cover or close’. The word originally described something physically covered before developing its sense of being hidden or secret.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root operire means ‘to cover’ or ‘to close’."
+          },
+          {
+            "when": "Old French",
+            "text": "Covert appears with the meaning ‘covered’ or ‘concealed’."
+          },
+          {
+            "when": "Middle English period",
+            "text": "The word enters English and develops both physical and figurative senses."
+          },
+          {
+            "when": "Today",
+            "text": "Covert usually describes activity or purpose that is deliberately concealed."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "covertly",
+          "label": "adverb"
+        },
+        {
+          "term": "covertness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "secret",
+        "clandestine",
+        "concealed",
+        "undercover",
+        "disguised"
+      ],
+      "opposite": "overt",
+      "pitfall": "Covert is stronger than merely private: it usually implies that someone is deliberately hiding an action, motive or purpose."
+    },
+    {
+      "id": "credulous",
+      "kind": "word",
+      "term": "credulous",
+      "pos": "adjective",
+      "phonetic": "/ˈkrɛdʒələs/",
+      "sayIt": "KRED-yuh-lus",
+      "register": "Formal",
+      "meaning": "Too willing to believe things that may not be true.",
+      "nuance": "It describes someone who accepts claims without enough evidence. It can sound sharply critical, so use it carefully when discussing a person’s judgement.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · checking a claim",
+          "sentence": "Don’t be credulous about the sales figures until finance has verified them.",
+          "highlight": "credulous",
+          "tip": "Useful when you want to stress the need to question a claim politely."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · debunking a rumour",
+          "sentence": "He sounded credulous when he believed the rumour without asking how anyone knew it.",
+          "highlight": "credulous",
+          "tip": "Often describes misplaced trust in people or claims."
+        },
+        {
+          "setting": "writing",
+          "where": "Report · reviewing unreliable evidence",
+          "sentence": "The advertisement invites credulous consumers to believe that the product can solve almost any problem.",
+          "highlight": "credulous",
+          "tip": "Stronger and more formal than simply saying ‘too willing to believe things’."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin credulus, meaning ‘believing too easily’, connected with credere, ‘to believe’ or ‘trust’. It entered English in the 16th century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Credulus develops from credere, meaning ‘to believe’ or ‘put trust in’."
+          },
+          {
+            "when": "16th century",
+            "text": "The word enters English with the sense of believing too easily or readily."
+          },
+          {
+            "when": "Today",
+            "text": "It remains mainly formal and often carries a critical tone."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "credulity",
+          "label": "noun"
+        },
+        {
+          "term": "credulously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "gullible",
+        "naive",
+        "believing",
+        "trusting"
+      ],
+      "opposite": "skeptical",
+      "pitfall": "Credulous means overly willing to believe; it does not simply mean ‘credible’, which means believable or able to be trusted."
+    },
+    {
+      "id": "cryptic",
+      "kind": "word",
+      "term": "cryptic",
+      "pos": "adjective",
+      "phonetic": "/ˈkrɪptɪk/",
+      "sayIt": "KRIP-tik",
+      "register": "Common at work",
+      "meaning": "Having a hidden meaning or written in a way that is difficult to understand.",
+      "nuance": "It can describe a deliberately mysterious message, but it is also used more broadly for anything confusing or obscure.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · clarifying requirements",
+          "sentence": "The briefing was so cryptic that nobody understood which report we were supposed to send.",
+          "highlight": "cryptic",
+          "tip": "Use it when information is unclear, especially if the speaker seems to be hiding something."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · decoding a message",
+          "sentence": "His cryptic reply left us all wondering whether he was annoyed or amused.",
+          "highlight": "cryptic",
+          "tip": "It often suggests that the meaning is meant to be worked out rather than stated directly."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · requesting clearer wording",
+          "sentence": "Could you clarify the cryptic instruction in the final paragraph?",
+          "highlight": "cryptic",
+          "tip": "This is a polite way to say that the writing is too obscure to follow."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek kryptos, meaning hidden, through Latin crypticus. The word originally referred to things concealed or secret.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "kryptos means hidden or concealed."
+          },
+          {
+            "when": "Latin",
+            "text": "crypticus develops as an adjective meaning hidden or secret."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in medical and secret-writing contexts."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for anything deliberately obscure or difficult to understand."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "cryptically",
+          "label": "adverb"
+        },
+        {
+          "term": "crypticism",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "enigmatic",
+        "obscure",
+        "mysterious",
+        "ambiguous"
+      ],
+      "opposite": "clear",
+      "pitfall": "Cryptic usually describes a confusing message or expression; it does not simply mean secret in every context."
+    },
+    {
+      "id": "culpable",
+      "kind": "word",
+      "term": "culpable",
+      "pos": "adjective",
+      "phonetic": "/ˈkʌlpəbəl/",
+      "sayIt": "KUL-puh-buhl",
+      "register": "Formal",
+      "meaning": "Deserving to be blamed for something bad that happened.",
+      "nuance": "Stronger and more formal than “at fault”; it suggests a person knowingly or wrongly caused harm. It is often used in legal, workplace and public contexts.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Investigation · reviewing an error",
+          "sentence": "The manager was culpable for ignoring repeated warnings about the faulty system.",
+          "highlight": "culpable",
+          "tip": "Use it when assigning clear responsibility for a serious mistake."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · discussing an apology",
+          "sentence": "We were both culpable for forgetting to confirm the arrangements.",
+          "highlight": "culpable",
+          "tip": "It can acknowledge shared responsibility without sounding too aggressive."
+        },
+        {
+          "setting": "writing",
+          "where": "Legal report · explaining responsibility",
+          "sentence": "The report concluded that senior officials were directly culpable for the misconduct.",
+          "highlight": "culpable",
+          "tip": "This formal word suits official findings and serious allegations."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin culpare, “to blame”, with culpa meaning “fault” or “blame”. It entered English during the Middle English period.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Culpa meant “fault” or “blame”, and culpare meant “to blame”."
+          },
+          {
+            "when": "Middle English period",
+            "text": "The word entered English with the sense of “blameworthy”."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in formal and legal contexts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "culpability",
+          "label": "noun"
+        },
+        {
+          "term": "culpably",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "blameworthy",
+        "guilty",
+        "at fault",
+        "responsible"
+      ],
+      "opposite": "blameless",
+      "pitfall": "It does not simply mean “responsible”; it specifically suggests deserving blame for wrongdoing or a serious failure."
+    },
+    {
+      "id": "culprit",
+      "kind": "word",
+      "term": "culprit",
+      "pos": "noun",
+      "phonetic": "/ˈkʌlprɪt/",
+      "sayIt": "KUL-prit",
+      "register": "Common at work",
+      "meaning": "A person who is guilty of doing something wrong or harmful.",
+      "nuance": "It often implies that the person is responsible for a mistake, problem or act of wrongdoing. In informal use, it can also mean the main cause of something bad.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing a failed launch",
+          "sentence": "The missing test file was the culprit behind the delayed release.",
+          "highlight": "culprit",
+          "tip": "Use it for a person or thing that caused a clear problem."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · discussing a broken appliance",
+          "sentence": "I thought the delivery driver was the culprit, but the faulty kettle was to blame.",
+          "highlight": "culprit",
+          "tip": "It sounds more openly accusatory than “the person responsible.”"
+        },
+        {
+          "setting": "writing",
+          "where": "Incident report · assigning responsibility",
+          "sentence": "The investigation identified a configuration error as the culprit in the outage.",
+          "highlight": "culprit",
+          "tip": "A neutral option in a report is “the cause of the outage.”"
+        }
+      ],
+      "origin": {
+        "summary": "The word developed from Old French culpable, meaning guilty or blameworthy, from Latin culpa, meaning blame or fault. The sense of a person to blame is well documented.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Culpa meant blame, fault or guilt."
+          },
+          {
+            "when": "Old French",
+            "text": "Culpable meant guilty or blameworthy."
+          },
+          {
+            "when": "14th–15th centuries",
+            "text": "Culprit enters English, first referring to a guilty person or offender."
+          },
+          {
+            "when": "Today",
+            "text": "It can identify either a person responsible for wrongdoing or the source of a problem."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "culpable",
+          "label": "adjective"
+        },
+        {
+          "term": "culpability",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "offender",
+        "perpetrator",
+        "cause",
+        "responsible party"
+      ],
+      "opposite": "innocent",
+      "pitfall": "A culprit is usually a person or identifiable source, so don’t use it for a broad situation that has no particular cause."
+    },
+    {
+      "id": "defamatory",
+      "kind": "word",
+      "term": "defamatory",
+      "pos": "adjective",
+      "phonetic": "/dɪˈfæmətəri/",
+      "sayIt": "di-FAM-uh-tor-ee",
+      "register": "Formal",
+      "meaning": "Describing words or statements that damage someone’s reputation.",
+      "nuance": "This is a serious, formal label often used in legal disputes, workplace investigations, and public condemnations. It suggests false statements that could harm a person’s standing or relationships.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "HR investigation · reviewing a message",
+          "sentence": "The committee found that the email contained defamatory claims about a colleague’s conduct.",
+          "highlight": "defamatory",
+          "tip": "Use it when the focus is on harmful statements made about someone."
+        },
+        {
+          "setting": "social",
+          "where": "Friendship dispute · rejecting a rumor",
+          "sentence": "That rumor is defamatory, and sharing it could damage someone’s reputation.",
+          "highlight": "defamatory",
+          "tip": "It is stronger and more formal than simply calling something mean or unfair."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial response · correcting a claim",
+          "sentence": "The newspaper issued an apology after publishing a defamatory statement about the restaurant owner.",
+          "highlight": "defamatory",
+          "tip": "This fits legal language, formal reporting, and official complaints."
+        }
+      ],
+      "origin": {
+        "summary": "It comes from Latin diffamare, meaning ‘to discredit by speaking against someone’, and entered English in the legal sense of harming someone’s reputation through false statements.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Diffamare combines dis-, meaning ‘apart’ or ‘against’, with fama, meaning ‘reputation’."
+          },
+          {
+            "when": "Middle English",
+            "text": "The related word defame appears in English with senses connected with disgrace and reputation."
+          },
+          {
+            "when": "1500s onward",
+            "text": "Defamatory develops as a legal and formal word for statements that harm someone’s good name."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "defamation",
+          "label": "noun"
+        },
+        {
+          "term": "defame",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "slanderous",
+        "libelous",
+        "derogatory",
+        "insulting"
+      ],
+      "opposite": "complimentary",
+      "pitfall": "Defamatory describes harmful statements, not the person being discussed; a defamatory statement can target an individual or a group."
+    },
+    {
+      "id": "delude",
+      "kind": "word",
+      "term": "delude",
+      "pos": "verb",
+      "phonetic": "/dɪˈluːd/",
+      "sayIt": "dih-LUHD",
+      "register": "Formal",
+      "meaning": "To deceive someone by encouraging them to believe something that is not true.",
+      "nuance": "Often suggests that a hope, appearance or argument has been made misleading. It is especially common in the pattern “delude oneself,” meaning to hold a mistaken belief.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Sales meeting · reviewing a proposal",
+          "sentence": "Don’t let the impressive forecast delude you; the first-quarter figures are still uncertain.",
+          "highlight": "delude",
+          "tip": "Use it when polished claims create a belief that the evidence does not support."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · discussing an online rumour",
+          "sentence": "She was not deluded by the dramatic post and checked the original report first.",
+          "highlight": "deluded",
+          "tip": "The past tense works naturally when describing someone who was fooled."
+        },
+        {
+          "setting": "writing",
+          "where": "Investment update · warning readers",
+          "sentence": "Rising popularity could delude investors into assuming that prices will keep climbing.",
+          "highlight": "delude",
+          "tip": "Useful in cautious writing about beliefs that may be false or misleading."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin deludere, meaning “to deceive,” formed from de- and ludere, “to play.” It originally carried a sense of mocking or playing a trick on someone.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Deludere develops the meanings “deceive” and “mock through a trick.”"
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in the sense of deceiving someone."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means to mislead someone into a false belief."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "delusion",
+          "label": "noun"
+        },
+        {
+          "term": "delusory",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "deceive",
+        "mislead",
+        "dupe",
+        "fool"
+      ],
+      "opposite": "dispel",
+      "pitfall": "Delude usually describes creating a false belief; deceive is broader and can cover lies, tricks or other forms of dishonesty."
+    },
+    {
+      "id": "discreet",
+      "kind": "word",
+      "term": "discreet",
+      "pos": "adjective",
+      "phonetic": "/dɪˈskriːt/",
+      "sayIt": "dis-KREET",
+      "register": "Common at work",
+      "meaning": "Careful not to reveal private information or attract unwanted attention.",
+      "nuance": "It suggests tact and good judgement, especially when handling sensitive matters. It can also mean subtle or unobtrusive, without implying secrecy.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · sharing sensitive feedback",
+          "sentence": "She was discreet about the customer complaint and discussed it only with the account manager.",
+          "highlight": "discreet",
+          "tip": "Use it to show that you can handle confidential information tactfully."
+        },
+        {
+          "setting": "social",
+          "where": "Party · surprising a close friend",
+          "sentence": "We were discreet and arranged for everyone to arrive after our friend had entered the room.",
+          "highlight": "discreet",
+          "tip": "It is a natural way to describe planning a surprise without drawing attention."
+        },
+        {
+          "setting": "writing",
+          "where": "Reference request · checking workplace conduct",
+          "sentence": "The referee was discreet and did not reveal details of the candidate’s performance.",
+          "highlight": "discreet",
+          "tip": "It fits formal writing about privacy, diplomacy and careful handling of personal details."
+        }
+      ],
+      "origin": {
+        "summary": "Discreet comes through Old French from Latin discretus, a word associated with being distinguished, careful and able to tell things apart.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Discretus develops meanings connected with careful judgement and distinction."
+          },
+          {
+            "when": "Old French",
+            "text": "Discret enters Middle English with the sense of careful or tactful."
+          },
+          {
+            "when": "1500s",
+            "text": "The word is established in English for careful conduct and the ability to keep matters private."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "discretion",
+          "label": "noun"
+        },
+        {
+          "term": "discreetly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "tactful",
+        "circumspect",
+        "prudent",
+        "unobtrusive"
+      ],
+      "opposite": "indiscreet",
+      "pitfall": "Do not confuse discreet with discrete, which means separate, distinct or made up of separate parts."
+    },
+    {
+      "id": "duplicity",
+      "kind": "word",
+      "term": "duplicity",
+      "pos": "noun",
+      "phonetic": "/duːˈplɪsəti/",
+      "sayIt": "doo-PLISS-uh-tee",
+      "register": "Formal",
+      "meaning": "Dishonest behaviour that involves pretending to be genuine while concealing your true intentions.",
+      "nuance": "The word suggests deliberate deception, often sustained over time. It is especially suitable for serious or professional contexts rather than casual accusations.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Negotiation · reviewing a partner’s claims",
+          "sentence": "His duplicity became clear when the documents contradicted what he had told the buying team.",
+          "highlight": "duplicity",
+          "tip": "Use it when a pattern of deliberate deception has been established."
+        },
+        {
+          "setting": "social",
+          "where": "Friendship · confronting a broken promise",
+          "sentence": "I was hurt more by the duplicity than by the mistake itself.",
+          "highlight": "duplicity",
+          "tip": "It sounds stronger and more formal than simply saying someone lied."
+        },
+        {
+          "setting": "writing",
+          "where": "Investigation report · describing concealed motives",
+          "sentence": "The report exposes a careful duplicity hidden beneath repeated promises of transparency.",
+          "highlight": "duplicity",
+          "tip": "Use it in formal reporting when you want to emphasise deliberate concealment."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Latin duplicitas, meaning twofoldness or a double state, and originally referred to being double or two-faced.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Duplicitas develops from duplicare, meaning to double, and can refer to a doubled state or a two-sided character."
+          },
+          {
+            "when": "1400s",
+            "text": "The word appears in English through Old French, initially referring to double dealing or hypocrisy."
+          },
+          {
+            "when": "Today",
+            "text": "It chiefly means dishonest behaviour involving concealed intentions."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "duplicitous",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "deception",
+        "double-dealing",
+        "dishonesty",
+        "deceit"
+      ],
+      "opposite": "honesty",
+      "pitfall": "Do not use it merely because someone made a mistake; duplicity implies deliberate concealment or pretence."
+    },
+    {
+      "id": "embellish",
+      "kind": "word",
+      "term": "embellish",
+      "pos": "verb",
+      "phonetic": "/ɪmˈbelɪʃ/",
+      "sayIt": "em-BELL-ish",
+      "register": "Common in writing; formal in speech",
+      "meaning": "To add attractive, interesting or impressive details to something.",
+      "nuance": "The added details may be true and improve a story, but the word often suggests making something seem richer or better than it really is.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team presentation · reviewing a proposal",
+          "sentence": "We embellished the proposal with customer examples, but its basic structure stayed the same.",
+          "highlight": "embellished",
+          "tip": "Use it when extra detail improves a plan or message."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · retelling a trip",
+          "sentence": "You embellish every travel story, but that sunset really was worth mentioning.",
+          "highlight": "embellish",
+          "tip": "Often playful when someone adds dramatic details to a story."
+        },
+        {
+          "setting": "writing",
+          "where": "Email to a client · correcting a report",
+          "sentence": "The figures are accurate, although the report embellishes them with a few impressive-sounding claims.",
+          "highlight": "embellishes",
+          "tip": "It can criticise writing that adds flattering but unsupported claims."
+        }
+      ],
+      "origin": {
+        "summary": "It comes through French from an Old French word meaning ‘to make beautiful’, based on Latin roots connected with beauty.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "The root elements refer to beauty or things that are beautiful."
+          },
+          {
+            "when": "Old French",
+            "text": "A word meaning ‘to make beautiful’ develops in French."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English in the sense of decorating or making something more attractive."
+          },
+          {
+            "when": "Today",
+            "text": "It can mean adding enjoyable detail, but often implies making something sound better than it is."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "embellishment",
+          "label": "noun"
+        },
+        {
+          "term": "embellished",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "exaggerate",
+        "embellish",
+        "embellishments",
+        "ornament"
+      ],
+      "opposite": "downplay",
+      "pitfall": "Embellish does not always mean lie; it may simply mean adding vivid, attractive details, sometimes without changing the central facts."
+    },
+    {
+      "id": "enigma",
+      "kind": "word",
+      "term": "enigma",
+      "pos": "noun",
+      "phonetic": "/ɪˈnɪɡmə/",
+      "sayIt": "ee-NIG-muh",
+      "register": "Formal",
+      "meaning": "A person, situation or thing that is mysterious and difficult to understand.",
+      "nuance": "It suggests something puzzling that may eventually be solved, rather than a simple mistake or inconvenience. It often adds interest or drama when describing a person, event or result.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · unexplained results",
+          "sentence": "The sudden change in sales figures remains an enigma, even after the reporting team reviewed the data.",
+          "highlight": "enigma",
+          "tip": "Use it for a serious mystery, especially when the cause is not yet clear."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · surprising absence",
+          "sentence": "Her decision to leave without saying goodbye was an enigma to the whole group.",
+          "highlight": "enigma",
+          "tip": "It works in social conversation when you want to emphasize genuine puzzlement."
+        },
+        {
+          "setting": "writing",
+          "where": "Article introduction · puzzling discovery",
+          "sentence": "For decades, the pattern in the cave paintings remained an enigma to researchers.",
+          "highlight": "enigma",
+          "tip": "It gives a formal, literary tone to a mystery you want to introduce."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin aenigma, borrowed from Greek ainigma, meaning a riddle or dark saying.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Ainigma referred to a riddle, obscure saying or speech intended to confuse."
+          },
+          {
+            "when": "Latin",
+            "text": "The form aenigma developed and was used for riddles and cryptic sayings."
+          },
+          {
+            "when": "1500s",
+            "text": "Entered English with the meaning of a puzzling riddle or mystery."
+          },
+          {
+            "when": "Today",
+            "text": "Often describes a person, event or thing whose nature or explanation is unclear."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "enigmatic",
+          "label": "adjective"
+        },
+        {
+          "term": "enigmatically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "mystery",
+        "riddle",
+        "puzzle",
+        "conundrum"
+      ],
+      "pitfall": "An enigma is something to understand, not a difficult choice; compare it with a dilemma."
+    },
+    {
+      "id": "evince",
+      "kind": "word",
+      "term": "evince",
+      "pos": "verb",
+      "phonetic": "/ɪˈvɪns/",
+      "sayIt": "ih-VINSS",
+      "register": "Formal",
+      "meaning": "To show clearly that something exists or is true.",
+      "nuance": "A formal word often used when a result, behaviour, or quality provides evidence. It is more emphatic and deliberate than simply “show.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · praising evidence",
+          "sentence": "Her consistency across three launches evinces a careful approach to project management.",
+          "highlight": "evinces",
+          "tip": "Use it for a formal assessment backed by observable evidence."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · describing a reaction",
+          "sentence": "He glanced at the door and evinced no interest in joining the discussion.",
+          "highlight": "evinced",
+          "tip": "It can describe subtle signs of a feeling or attitude."
+        },
+        {
+          "setting": "writing",
+          "where": "Research summary · interpreting findings",
+          "sentence": "The interview responses evince growing confidence as participants became familiar with the topic.",
+          "highlight": "evince",
+          "tip": "It fits academic or analytical writing when the evidence supports a broader conclusion."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin evincere, meaning “to overcome or prove,” built from ex-, meaning “out,” and vincere, meaning “to conquer.”",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Evincere combines ex- and vincere and develops meanings connected with conquering and proving."
+          },
+          {
+            "when": "1600s",
+            "text": "Enters English in the sense of showing or demonstrating clearly."
+          },
+          {
+            "when": "Today",
+            "text": "Used formally for evidence that reveals a quality, feeling, attitude, or result."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "evincement",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "demonstrate",
+        "reveal",
+        "display",
+        "indicate"
+      ],
+      "opposite": "conceal",
+      "pitfall": "This is a formal transitive verb, so use it with a direct object rather than as an intransitive verb meaning “appear.”"
+    }
+  ]
+}

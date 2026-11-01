@@ -1,0 +1,1763 @@
+{
+  "id": "words-character-behaviour-4",
+  "kind": "word",
+  "name": "Character & behaviour · 4",
+  "blurb": "25 words about character & behaviour",
+  "cards": [
+    {
+      "id": "martinet",
+      "kind": "word",
+      "term": "martinet",
+      "pos": "noun",
+      "phonetic": "/ˌmɑːrtɪˈnɛt/",
+      "sayIt": "MAR-tuh-NET",
+      "register": "Formal and often negative",
+      "meaning": "A person who enforces strict rules and discipline with little tolerance for disobeying or sloppy behaviour.",
+      "nuance": "The word is usually critical, suggesting that the person’s demands are rigid, harsh or excessive rather than merely responsible.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing leadership",
+          "sentence": "Her former manager was a martinet who refused to let anyone leave until every spreadsheet check was complete.",
+          "highlight": "martinet",
+          "tip": "Use it for a manager known for rigid rules and uncompromising enforcement."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · talking about an uncle",
+          "sentence": "My uncle can be a martinet about punctuality, but he has never missed a family birthday.",
+          "highlight": "martinet",
+          "tip": "It can describe strict behaviour at home or in social groups, usually with disapproval."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · describing a supervisor",
+          "sentence": "The review described him as a martinet whose exacting standards often delayed routine decisions.",
+          "highlight": "martinet",
+          "tip": "Choose it when you mean someone excessively strict, not simply someone who has high standards."
+        }
+      ],
+      "origin": {
+        "summary": "Borrowed from French, it originally referred to General Jean Martinet, known for rigid enforcement of military regulations. The figurative sense developed from that association with strict discipline.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "17th century France",
+            "text": "Martinet becomes associated with Jean Martinet, a French military officer noted for strict drill and discipline."
+          },
+          {
+            "when": "1700s",
+            "text": "The name enters English and is used for an especially strict military disciplinarian."
+          },
+          {
+            "when": "1800s onward",
+            "text": "It develops a broader figurative meaning: any severe or inflexible enforcer of rules."
+          }
+        ]
+      },
+      "similar": [
+        "disciplinarian",
+        "taskmaster",
+        "stickler",
+        "tyrant"
+      ],
+      "opposite": "lenient",
+      "pitfall": "It normally describes a person and is more negative than disciplinarian, which can simply mean someone who maintains order."
+    },
+    {
+      "id": "megalomania",
+      "kind": "word",
+      "term": "megalomania",
+      "pos": "noun",
+      "phonetic": "/ˌmeɡəˈleɪməni/",
+      "sayIt": "meg-uh-LAY-muh-nee",
+      "register": "Formal",
+      "meaning": "An exaggerated belief that you are more important, powerful or successful than you really are.",
+      "nuance": "The word is strongly critical and can also describe a mental health condition involving persistent delusions of grandeur. In everyday criticism, it usually means that someone’s self-importance has become excessive.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · an impractical proposal",
+          "sentence": "If megalomania turns every suggestion into a personal challenge, the meeting will stall.",
+          "highlight": "megalomania",
+          "tip": "Use it for extreme self-importance, not ordinary confidence or ambition."
+        },
+        {
+          "setting": "social",
+          "where": "Group conversation · discussing a friend",
+          "sentence": "There’s a difference between ambition and megalomania, which makes one person the centre of every story.",
+          "highlight": "megalomania",
+          "tip": "It conveys harsher judgement than simply saying someone is conceited."
+        },
+        {
+          "setting": "writing",
+          "where": "Profile · describing a powerful figure",
+          "sentence": "The article portrays the executive’s rise as a story of ambition mixed with megalomania and public spectacle.",
+          "highlight": "megalomania",
+          "tip": "It is effective in serious commentary, but can sound dramatic out of context."
+        }
+      ],
+      "origin": {
+        "summary": "Coined in English from the Greek megas, meaning ‘great’, and mania, meaning ‘madness’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Megas contributes ‘great’, while mania refers to madness or an abnormal mental state."
+          },
+          {
+            "when": "1800s",
+            "text": "The word megalomania enters English with the sense of exaggerated self-importance."
+          },
+          {
+            "when": "Later 1800s",
+            "text": "Psychiatry begins using it as a clinical term for a delusional belief in one’s own greatness."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "megalomaniac",
+          "label": "noun (person)"
+        },
+        {
+          "term": "megalomaniacal",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "grandiosity",
+        "conceit",
+        "arrogance",
+        "delusion of grandeur"
+      ],
+      "opposite": "humility",
+      "pitfall": "Don’t use it as a casual synonym for ambition; it suggests an extreme and damaging belief in one’s own importance."
+    },
+    {
+      "id": "mien",
+      "kind": "word",
+      "term": "mien",
+      "pos": "noun",
+      "phonetic": "/miːn/",
+      "sayIt": "MEEN",
+      "register": "Formal and literary",
+      "meaning": "The expression and manner of a person that create a particular impression.",
+      "nuance": "A slightly literary word often used to describe how someone’s face, posture, or manner makes them seem. It usually focuses on the outward impression rather than the person’s true character.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Interview · assessing a candidate",
+          "sentence": "She had the composed mien of someone accustomed to presenting difficult decisions.",
+          "highlight": "mien",
+          "tip": "Use it when discussing the impression someone’s appearance creates."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception · meeting a relative",
+          "sentence": "He greeted us with the relaxed mien of a man thoroughly enjoying himself.",
+          "highlight": "mien",
+          "tip": "It can add a graceful, observant tone to social description."
+        },
+        {
+          "setting": "writing",
+          "where": "Novel · describing an unexpected visitor",
+          "sentence": "Her guarded mien suggested that the polite welcome concealed deeper unease.",
+          "highlight": "mien",
+          "tip": "Pair it with qualities such as calm, guarded, stern, or welcoming to make the impression clear."
+        }
+      ],
+      "origin": {
+        "summary": "The word entered English from an older French word meaning “appearance.” Its earlier French connections are documented, but the deeper origin of those forms is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "Mien first appears in English, borrowed from obsolete French mine, meaning “appearance.”"
+          },
+          {
+            "when": "1600s–1800s",
+            "text": "Used in writing for a person’s visible manner or bearing."
+          },
+          {
+            "when": "Today",
+            "text": "Remains a formal or literary word, usually suggesting an outward impression."
+          }
+        ]
+      },
+      "similar": [
+        "demeanor",
+        "bearing",
+        "air",
+        "countenance"
+      ],
+      "opposite": "",
+      "pitfall": "Do not confuse mien with mine, which can mean a mineral excavation or something belonging to me."
+    },
+    {
+      "id": "mundane",
+      "kind": "word",
+      "term": "mundane",
+      "pos": "adjective",
+      "phonetic": "/mʌnˈdeɪn/",
+      "sayIt": "mun-DAYN",
+      "register": "Common at work",
+      "meaning": "Ordinary, everyday, and lacking anything especially interesting or exciting.",
+      "nuance": "It can sound slightly dismissive, especially when describing work, conversations or experiences. Use it when you want to contrast something routine with something memorable.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing routine tasks",
+          "sentence": "Most of the onboarding process is mundane, but the feedback sessions are genuinely useful.",
+          "highlight": "mundane",
+          "tip": "Use it to describe everyday tasks without suggesting they are unimportant."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with a friend",
+          "sentence": "We spent an hour talking about traffic and grocery prices—pretty mundane, but oddly relaxing.",
+          "highlight": "mundane",
+          "tip": "It can add a light, self-aware tone when describing ordinary conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Event review · describing the atmosphere",
+          "sentence": "The keynote was inspiring, although the panel discussion became surprisingly mundane after lunch.",
+          "highlight": "mundane",
+          "tip": "It works well in reviews to contrast a lively moment with a dull one."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin mundanus, meaning ‘of the world’, via French mundain. Its older sense was connected to worldly matters, before it developed the modern meaning of ordinary or unexciting.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Mundanus, from mundus, ‘the world’."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English with senses relating to worldly or ordinary matters."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "It becomes established in the sense ‘ordinary, commonplace’."
+          },
+          {
+            "when": "Today",
+            "text": "Mainly describes something everyday, dull or lacking excitement."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "mundanity",
+          "label": "noun"
+        },
+        {
+          "term": "mundanely",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "ordinary",
+        "banal",
+        "commonplace",
+        "everyday"
+      ],
+      "opposite": "extraordinary",
+      "pitfall": "Don’t confuse it with ‘worldly’, which can suggest interest in wealth, status or social affairs rather than simply being ordinary."
+    },
+    {
+      "id": "munificent",
+      "kind": "word",
+      "term": "munificent",
+      "pos": "adjective",
+      "phonetic": "/mjuːˈnɪfɪsənt/",
+      "sayIt": "myoo-NIF-i-suhnt",
+      "register": "Formal",
+      "meaning": "Generous, especially in giving money, gifts or valuable support.",
+      "nuance": "It sounds admiring and ceremonial, suggesting generosity that is notable because of its scale. Use it in formal writing or when praising an especially generous contribution.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Awards dinner · thanking a major donor",
+          "sentence": "Her munificent donation funded training for every apprentice in the programme.",
+          "highlight": "munificent",
+          "tip": "Use it for generosity that is large enough to deserve special recognition."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception · praising a host",
+          "sentence": "Our host was munificent, providing excellent food and an extraordinary selection of wines.",
+          "highlight": "munificent",
+          "tip": "It adds a grand, appreciative tone that “generous” may not convey."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · recognising support",
+          "sentence": "The foundation’s munificent backing enabled the project to reach several rural communities.",
+          "highlight": "munificent",
+          "tip": "A strong choice in formal reports, speeches and letters of thanks."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin munificus, a word combining munus, ‘gift’, with a suffix associated with doing or making.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Latin",
+            "text": "Munificus referred to generous or beneficent, especially in giving gifts."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "Entered English with the sense of bountiful or generous."
+          },
+          {
+            "when": "Today",
+            "text": "Remains a formal word, often describing especially lavish support."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "munificence",
+          "label": "noun"
+        },
+        {
+          "term": "munificently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "generous",
+        "lavish",
+        "bountiful",
+        "magnanimous",
+        "liberal"
+      ],
+      "opposite": "stingy",
+      "pitfall": "It is not the usual word for everyday generosity; it sounds formal and often implies gifts or financial support."
+    },
+    {
+      "id": "naive",
+      "kind": "word",
+      "term": "naive",
+      "pos": "adjective",
+      "phonetic": "/naɪˈiːv/",
+      "sayIt": "ny-EVE",
+      "register": "Everyday",
+      "meaning": "Lacking experience, careful judgement or awareness of how things really work.",
+      "nuance": "It can describe innocent trust, but it may also sound insulting when you suggest someone is too easily fooled or inexperienced.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client meeting · reviewing a proposal",
+          "sentence": "We were naive to assume the first estimate would cover every complication.",
+          "highlight": "naive",
+          "tip": "Use it to describe an earlier assumption that later proved mistaken."
+        },
+        {
+          "setting": "social",
+          "where": "Party conversation · discussing a new friend",
+          "sentence": "It was naive of me to believe everyone at the party wanted to know me.",
+          "highlight": "naive",
+          "tip": "It can sound more natural when you admit your own mistake."
+        },
+        {
+          "setting": "writing",
+          "where": "Project review · explaining unexpected delays",
+          "sentence": "Our original plan was too naive for the number of approvals required.",
+          "highlight": "naive",
+          "tip": "Often follows a plan, approach, assumption or expectation."
+        }
+      ],
+      "origin": {
+        "summary": "Borrowed from French naïve, originally meaning born or natural, and ultimately connected to Latin nativus, ‘born’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "nativus means ‘born’ and is the source of the related word native."
+          },
+          {
+            "when": "French",
+            "text": "naive develops the sense of innocent, inexperienced or unaffected."
+          },
+          {
+            "when": "Early 1800s",
+            "text": "The word enters English in a formal and literary sense."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely used for innocent or inexperienced judgement."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "naively",
+          "label": "adverb"
+        },
+        {
+          "term": "naivety",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "innocent",
+        "inexperienced",
+        "guileless",
+        "unsophisticated"
+      ],
+      "opposite": "worldly",
+      "pitfall": "Naive usually implies a lack of experience or careful judgement; inexperienced simply means you are still learning something."
+    },
+    {
+      "id": "negligent",
+      "kind": "word",
+      "term": "negligent",
+      "pos": "adjective",
+      "phonetic": "/ˈnɛɡlɪdʒənt/",
+      "sayIt": "NEG-li-juhnt",
+      "register": "Common at work",
+      "meaning": "Failing to give proper care or attention to something you are responsible for.",
+      "nuance": "It suggests an avoidable failure, often with a sense of blame. It is stronger than simply being distracted and more formal than “careless.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team review · discussing missed deadlines",
+          "sentence": "The negligent handling of customer data caused a serious problem for the whole team.",
+          "highlight": "negligent",
+          "tip": "Use it when a failure to show proper care led to a preventable mistake."
+        },
+        {
+          "setting": "social",
+          "where": "Apartment conversation · a broken safety rule",
+          "sentence": "It was negligent of him to leave the oven on while he was away.",
+          "highlight": "negligent",
+          "tip": "It can describe a serious failure of responsibility, not just everyday thoughtlessness."
+        },
+        {
+          "setting": "writing",
+          "where": "Incident report · explaining the cause",
+          "sentence": "The report found that negligent maintenance contributed to the equipment failure.",
+          "highlight": "negligent",
+          "tip": "It sounds formal and serious, so pair it with specific evidence in official writing."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin neglegere, meaning “to overlook” or “to disregard,” which developed into the sense of failing to give proper care.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Neglegere combines the prefix neg-, meaning “not,” and legere, meaning “to gather, choose, or attend to.”"
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English in legal and formal contexts describing failure to pay proper attention."
+          },
+          {
+            "when": "Today",
+            "text": "It means failing to provide the care, attention, or effort that a responsibility requires."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "negligence",
+          "label": "noun"
+        },
+        {
+          "term": "negligently",
+          "label": "adverb"
+        },
+        {
+          "term": "negligent",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "careless",
+        "inattentive",
+        "remiss",
+        "heedless"
+      ],
+      "opposite": "responsible",
+      "pitfall": "Don’t use “negligent” for a harmless mistake; it implies a serious failure to take proper care."
+    },
+    {
+      "id": "neurotic",
+      "kind": "word",
+      "term": "neurotic",
+      "pos": "adjective",
+      "phonetic": "/nʊəˈrəʊtɪk/",
+      "sayIt": "nuh-ROT-ik",
+      "register": "Informal; often insulting",
+      "meaning": "Extremely anxious, tense or easily upset, especially in a way that seems excessive.",
+      "nuance": "In everyday use, it describes someone whose worries or reactions seem intense and difficult to control. It is often derogatory, and its older clinical meaning is now outdated.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing a missed deadline",
+          "sentence": "Calling the whole team neurotic won’t help; name the specific deadline that worries them.",
+          "highlight": "neurotic",
+          "tip": "Avoid using it about colleagues when a calm, specific description of the concern would be kinder."
+        },
+        {
+          "setting": "social",
+          "where": "Party · someone checks their phone repeatedly",
+          "sentence": "He was neurotic about losing his phone at every party, which everyone found exhausting.",
+          "highlight": "neurotic",
+          "tip": "This sounds natural in conversation, but it can mock someone who is genuinely anxious."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · requesting a deadline extension",
+          "sentence": "The email sounded neurotic, so I replaced three urgent requests with one clear proposal.",
+          "highlight": "neurotic",
+          "tip": "Use it to judge a tone that seems overly panicked; in formal writing, describe the anxiety directly."
+        }
+      ],
+      "origin": {
+        "summary": "Built from Greek neuron, meaning ‘nerve’, with a suffix meaning ‘connected to’. It began as a medical term for nervous conditions and later developed its modern sense of extreme anxiety or emotional tension.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Neuron means ‘nerve’, and the related suffix -ikos means ‘connected to’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English with medical meanings connected to nerves and nervous conditions."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "Psychological uses develop, including descriptions of intense anxiety and unstable behaviour."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly informal and often used as an insult rather than as a clinical label."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "neurosis",
+          "label": "noun"
+        },
+        {
+          "term": "neuroticism",
+          "label": "noun"
+        },
+        {
+          "term": "neurotically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "anxious",
+        "tense",
+        "volatile",
+        "high-strung"
+      ],
+      "opposite": "calm",
+      "pitfall": "Don’t use it as a medical diagnosis. It can also dismiss someone’s legitimate worries, so describe the behaviour instead when precision matters."
+    },
+    {
+      "id": "obsequious",
+      "kind": "word",
+      "term": "obsequious",
+      "pos": "adjective",
+      "phonetic": "/əbˈskiːəs/",
+      "sayIt": "uhb-SKEE-uhss",
+      "register": "Formal and often critical",
+      "meaning": "Showing excessive eagerness to please, flatter or obey someone, especially to gain favour.",
+      "nuance": "The word suggests behaviour that is overly deferential and may be calculated rather than sincere. It is often used to criticise someone whose politeness seems designed to win approval.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Staff review · assessing workplace behaviour",
+          "sentence": "His obsequious agreement with every manager’s idea made it difficult to know what he actually thought.",
+          "highlight": "obsequious",
+          "tip": "Use it when flattery or excessive agreement has become a recurring pattern."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception · meeting an important guest",
+          "sentence": "He was obsequious towards the host, offering compliments that felt far too generous.",
+          "highlight": "obsequious",
+          "tip": "It is stronger and more critical than simply saying someone is polite or respectful."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · describing excessive deference",
+          "sentence": "Her obsequious tone undermined the confidence of her proposal.",
+          "highlight": "obsequious",
+          "tip": "Use it thoughtfully in formal criticism, where the excessive nature of the behaviour should be clear."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin obsequium, meaning compliance, service or duty, which developed from obsequi, ‘to comply with’ or ‘yield to’. The English sense soon extended from obedience to exaggerated displays of favour.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Obsequium means service, compliance or duty and is based on obsequi, ‘to follow or comply with’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English in the sense of compliant, obedient or deferential."
+          },
+          {
+            "when": "1600s onward",
+            "text": "Its meaning expands to include excessively flattering or pleasing behaviour."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "obsequiousness",
+          "label": "noun"
+        },
+        {
+          "term": "obsequiously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "sycophantic",
+        "fawning",
+        "servile",
+        "deferential",
+        "slavish"
+      ],
+      "opposite": "independent",
+      "pitfall": "Don’t use it for ordinary respect or courtesy; it implies excessive, often insincere eagerness to please."
+    },
+    {
+      "id": "ordinary",
+      "kind": "word",
+      "term": "ordinary",
+      "pos": "adjective",
+      "phonetic": "/ˈɔːdnri/",
+      "sayIt": "OR-di-nair",
+      "register": "Common",
+      "meaning": "Normal, usual, or not special in any way.",
+      "nuance": "It can describe everyday things neutrally, but it can also sound slightly dismissive when someone is described as ordinary.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · explaining a routine task",
+          "sentence": "This is an ordinary maintenance check, but we should still record the result carefully.",
+          "highlight": "ordinary",
+          "tip": "Use it to describe something familiar or typical without suggesting it is unimportant."
+        },
+        {
+          "setting": "social",
+          "where": "Café conversation · weekend plans",
+          "sentence": "We spent an ordinary Saturday at home before deciding where to eat.",
+          "highlight": "ordinary",
+          "tip": "It works well for describing an uneventful or typical part of life."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing a service",
+          "sentence": "The room was clean and comfortable, with ordinary furniture and helpful staff.",
+          "highlight": "ordinary",
+          "tip": "Use it when you want to emphasize that nothing about something is unusual."
+        }
+      ],
+      "origin": {
+        "summary": "From Old French ordinaire, borrowed from Latin ordinarius, meaning ‘usual’ or ‘according to an order or rule’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Ordinarius develops from ordo, meaning ‘order’, ‘arrangement’ or ‘custom’."
+          },
+          {
+            "when": "Middle English",
+            "text": "The word enters English through Old French and refers to customary or regular things."
+          },
+          {
+            "when": "Today",
+            "text": "It chiefly means normal, common or not special."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "ordinarily",
+          "label": "adverb"
+        },
+        {
+          "term": "ordinariness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "common",
+        "usual",
+        "normal",
+        "everyday"
+      ],
+      "opposite": "extraordinary",
+      "pitfall": "In some contexts, ordinary can sound negative, especially when contrasting a person with someone unusual or impressive."
+    },
+    {
+      "id": "outgoing",
+      "kind": "word",
+      "term": "outgoing",
+      "pos": "adjective",
+      "phonetic": "/ˈaʊtɡəʊɪŋ/",
+      "sayIt": "OWT-goh-ing",
+      "register": "Everyday",
+      "meaning": "Friendly, talkative, and comfortable interacting with other people.",
+      "nuance": "Often used to describe someone’s social manner, especially at work or in new groups. It can also mean leaving or being sent somewhere, so the context matters.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · introducing a colleague",
+          "sentence": "Maya is outgoing, so she volunteered to welcome the new client.",
+          "highlight": "outgoing",
+          "tip": "Use it for someone who is comfortable meeting and speaking with people."
+        },
+        {
+          "setting": "social",
+          "where": "Party · meeting new guests",
+          "sentence": "Although he seems quiet at first, he is quite outgoing once he gets comfortable.",
+          "highlight": "outgoing",
+          "tip": "It suggests sociability rather than always being loud or energetic."
+        },
+        {
+          "setting": "writing",
+          "where": "Reference check · describing a colleague",
+          "sentence": "Her outgoing nature helped her build strong relationships with clients and colleagues.",
+          "highlight": "outgoing",
+          "tip": "This sounds positive but should still be supported with a specific example."
+        }
+      ],
+      "origin": {
+        "summary": "Built from out and going, with older uses connected to departure or being sent out. The sense describing a sociable person developed in the 19th century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The underlying expression meant to go out or depart."
+          },
+          {
+            "when": "Earlier",
+            "text": "Outgoing was used for things going out, leaving, or being sent out."
+          },
+          {
+            "when": "19th century",
+            "text": "The meaning developed for someone who is sociable and comfortable with other people."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "outgoingness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "sociable",
+        "extroverted",
+        "friendly",
+        "gregarious"
+      ],
+      "opposite": "introverted",
+      "pitfall": "In a sentence such as “The outgoing train,” it means departing rather than sociable."
+    },
+    {
+      "id": "parsimonious",
+      "kind": "word",
+      "term": "parsimonious",
+      "pos": "adjective",
+      "phonetic": "/ˌpɑːrsɪˈmoʊniəs/",
+      "sayIt": "PAR-si-MOH-nee-us",
+      "register": "Common at work and in formal writing",
+      "meaning": "Unwilling to spend money, use resources, or give more than you think is necessary.",
+      "nuance": "It often has a critical tone, suggesting someone is excessively careful or stingy. It can be approving when discussing efficient use of limited resources.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · controlling project costs",
+          "sentence": "The parsimonious approach saved money, but it left the team without the tools it needed.",
+          "highlight": "parsimonious",
+          "tip": "Use it when someone’s caution with resources has gone too far."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner with friends · dividing the bill",
+          "sentence": "He’s so parsimonious with restaurant bills that we now pay separately.",
+          "highlight": "parsimonious",
+          "tip": "It can describe someone who avoids spending or sharing, often with disapproval."
+        },
+        {
+          "setting": "writing",
+          "where": "Budget report · reviewing spending",
+          "sentence": "The committee proposed a parsimonious budget that cut waste while protecting essential services.",
+          "highlight": "parsimonious",
+          "tip": "In formal writing, the word can sound approving when efficiency is intended."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes through Latin from Greek roots associated with sparing or avoiding unnecessary expense.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "The source words referred to sparing something and avoiding waste."
+          },
+          {
+            "when": "Latin",
+            "text": "Parsimonia developed as a word for careful or stingy use of resources."
+          },
+          {
+            "when": "1400s",
+            "text": "The adjective entered English with the sense of excessively careful with money."
+          },
+          {
+            "when": "Today",
+            "text": "It describes stingy behaviour, while also being used more neutrally for economical decisions."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "parsimony",
+          "label": "noun"
+        },
+        {
+          "term": "parsimoniously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "stingy",
+        "miserly",
+        "frugal",
+        "sparing"
+      ],
+      "opposite": "generous",
+      "pitfall": "Parsimonious usually criticises excessive caution, while frugal often praises careful spending."
+    },
+    {
+      "id": "patient",
+      "kind": "word",
+      "term": "patient",
+      "pos": "adjective",
+      "phonetic": "/ˈpeɪʃənt/",
+      "sayIt": "PAY-shunt",
+      "register": "Common at work",
+      "meaning": "Calm, willing to wait, and able to deal with difficulties without becoming angry or discouraged.",
+      "nuance": "Usually complimentary, especially when describing someone handling a slow or stressful situation well. It can sometimes suggest that you are simply putting up with a problem.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project meeting · waiting for approval",
+          "sentence": "She stayed patient while the client took three weeks to approve the proposal.",
+          "highlight": "patient",
+          "tip": "Use it to show calmness during a delay or difficult process."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · waiting for food",
+          "sentence": "The children were surprisingly patient when dinner was delayed.",
+          "highlight": "patient",
+          "tip": "It often describes someone waiting calmly without complaining."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · feedback on progress",
+          "sentence": "Your patient approach to the difficult account has produced steady results.",
+          "highlight": "patient",
+          "tip": "It sounds strongest when paired with approach, attitude or effort."
+        }
+      ],
+      "origin": {
+        "summary": "The word comes from Latin, where it referred to suffering or enduring something, and entered English through French.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Patiens means “suffering” or “enduring” and is related to pati, “to bear or endure.”"
+          },
+          {
+            "when": "Late Middle English",
+            "text": "The word enters English through Old French with meanings connected to suffering and endurance."
+          },
+          {
+            "when": "1600s onward",
+            "text": "It develops its modern sense of being calm and willing to wait."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "patient",
+          "label": "noun (person receiving care)"
+        },
+        {
+          "term": "patiently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "calm",
+        "tolerant",
+        "persistent",
+        "understanding"
+      ],
+      "opposite": "impatient",
+      "pitfall": "As an adjective, patient describes calmness or willingness to wait; as a noun, it means someone receiving medical care."
+    },
+    {
+      "id": "pedantic",
+      "kind": "word",
+      "term": "pedantic",
+      "pos": "adjective",
+      "phonetic": "/pɪˈdæntɪk/",
+      "sayIt": "pih-DAN-tik",
+      "register": "Formal",
+      "meaning": "Focused too much on precise words, rules, or small details.",
+      "nuance": "Often suggests that someone is being fussy or overly exact. It can be negative, but sometimes describes careful attention to accuracy.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Code review · discussing naming rules",
+          "sentence": "His feedback was helpful, but it became pedantic when he corrected every minor naming choice.",
+          "highlight": "pedantic",
+          "tip": "Use it when attention to detail starts to feel excessive."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · correcting a story",
+          "sentence": "Don’t be pedantic; we’re enjoying the story, not taking an oral history exam.",
+          "highlight": "pedantic",
+          "tip": "Common in casual criticism of someone who corrects others unnecessarily."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · requesting a focused revision",
+          "sentence": "The report is strong, but the final section is too pedantic and needs to state the main point sooner.",
+          "highlight": "pedantic",
+          "tip": "Useful when a text loses its main message beneath technical details."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek paideutikos, meaning related to teaching, and ultimately connected with paidein, ‘to educate’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Greek",
+            "text": "Paideutikos referred to education, instruction, or the teaching of children."
+          },
+          {
+            "when": "1600s",
+            "text": "The word entered English with meanings connected to learning and instruction."
+          },
+          {
+            "when": "1800s",
+            "text": "It developed the modern sense of being overly concerned with precise wording or details."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "pedantry",
+          "label": "noun"
+        },
+        {
+          "term": "pedantically",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "fussy",
+        "fastidious",
+        "nitpicking",
+        "dogmatic"
+      ],
+      "opposite": "easygoing",
+      "pitfall": "Pedantic does not simply mean careful or precise; it usually implies an excessive focus on minor details."
+    },
+    {
+      "id": "perfidious",
+      "kind": "word",
+      "term": "perfidious",
+      "pos": "adjective",
+      "phonetic": "/pərˈfɪdiəs/",
+      "sayIt": "pər-FID-ee-uhss",
+      "register": "Formal",
+      "meaning": "Showing loyalty to someone while secretly planning to betray them.",
+      "nuance": "It suggests deliberate deceit and disloyalty, often hidden behind friendly behaviour. It is stronger and more dramatic than simply describing someone as unreliable.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · responding to an accusation",
+          "sentence": "His perfidious support for one colleague and criticism of another had made everyone distrust him.",
+          "highlight": "perfidious",
+          "tip": "Use it for suspected betrayal, especially when the motive was personal gain."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · an old friendship",
+          "sentence": "She felt betrayed when her perfidious friend shared the private story with everyone.",
+          "highlight": "perfidious",
+          "tip": "It conveys deep personal betrayal and is more common in formal storytelling."
+        },
+        {
+          "setting": "writing",
+          "where": "Novel · describing a concealed betrayal",
+          "sentence": "He smiled warmly, a perfidious mask hiding his plan to take control.",
+          "highlight": "perfidious",
+          "tip": "The adjective can describe a person, an action, or something symbolically deceptive."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin perfidiosus, meaning treacherous and faithless, based on perfidia, meaning betrayal.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Roman Latin",
+            "text": "Perfidiosus described someone who broke faith or betrayed a promise."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English in formal writing about treachery and disloyalty."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a literary or formal word for deliberate betrayal."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "perfidy",
+          "label": "noun"
+        },
+        {
+          "term": "perfidiously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "treacherous",
+        "duplicitous",
+        "disloyal",
+        "deceitful"
+      ],
+      "opposite": "loyal",
+      "pitfall": "Use it when deception involves broken trust; do not use it merely to describe something dangerous or harmful."
+    },
+    {
+      "id": "perfunctory",
+      "kind": "word",
+      "term": "perfunctory",
+      "pos": "adjective",
+      "phonetic": "/pərˈfʌŋktəri/",
+      "sayIt": "per-FUNK-tuh-ree",
+      "register": "Formal",
+      "meaning": "Done as a routine, without much care, effort or genuine interest.",
+      "nuance": "It often suggests that someone is going through the motions rather than giving full attention. It can sound sharply critical, especially at work.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · reviewing a proposal",
+          "sentence": "His review was perfunctory, so nobody understood whether he supported the proposal.",
+          "highlight": "perfunctory",
+          "tip": "Use it when routine work has been completed without real thought or engagement."
+        },
+        {
+          "setting": "social",
+          "where": "Birthday party · greeting a guest",
+          "sentence": "She gave me a perfunctory greeting and returned to her conversation.",
+          "highlight": "perfunctory",
+          "tip": "It can describe attention, greetings or apologies that feel automatic rather than sincere."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · feedback on an employee",
+          "sentence": "The new hire received a perfunctory induction and felt unprepared for her role.",
+          "highlight": "perfunctory",
+          "tip": "The word adds a formal, critical tone to workplace feedback."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin perfunctorius, meaning slung over or performed carelessly. It entered English in the 1600s and later developed its modern sense of routine and lacking care.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Built from per- ‘through’ and fungi ‘perform’, with the sense of doing something in a cursory way."
+          },
+          {
+            "when": "1600s",
+            "text": "Appears in English with the idea of something done carelessly or only in passing."
+          },
+          {
+            "when": "Today",
+            "text": "Commonly describes work, greetings or attention that lack genuine care."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "perfunctorily",
+          "label": "adverb"
+        },
+        {
+          "term": "perfunctoriness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "cursory",
+        "superficial",
+        "half-hearted",
+        "routine"
+      ],
+      "opposite": "thorough",
+      "pitfall": "Perfunctory is stronger than merely brief: it implies that the task was completed without real care or interest."
+    },
+    {
+      "id": "persevere",
+      "kind": "word",
+      "term": "persevere",
+      "pos": "verb",
+      "phonetic": "/ˌpɜːrsəˈvɪr/",
+      "sayIt": "per-se-VEER",
+      "register": "Common at work",
+      "meaning": "To continue trying to achieve something even when difficulties make progress slow or difficult.",
+      "nuance": "It emphasizes steady effort and endurance, not simply repeating an action without learning from mistakes. It is encouraging but can sound formal when describing a person.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project meeting · launch delayed",
+          "sentence": "We should persevere with the revised launch plan, even though testing has taken longer than expected.",
+          "highlight": "persevere",
+          "tip": "Use it when discussing continued effort despite setbacks."
+        },
+        {
+          "setting": "social",
+          "where": "Local sports club · training after a defeat",
+          "sentence": "The team decided to persevere and keep practicing before the next match.",
+          "highlight": "persevere",
+          "tip": "It is natural when encouraging someone to keep going after a disappointment."
+        },
+        {
+          "setting": "writing",
+          "where": "Progress report · explaining a delay",
+          "sentence": "The team persevered through several technical problems and completed the first phase on schedule.",
+          "highlight": "persevered",
+          "tip": "The past tense is useful for describing sustained effort in reports."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin perseverare, a combination of per- ‘thoroughly’ and severare ‘to be earnest or strict’, originally meaning to continue firmly.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Perseverare develops from roots meaning ‘to be thorough, earnest or strict’."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word appears in English with the sense of continuing firmly or patiently."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly means continuing despite difficulty or opposition."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "perseverance",
+          "label": "noun"
+        },
+        {
+          "term": "perseverant",
+          "label": "adjective"
+        },
+        {
+          "term": "perseveration",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "persist",
+        "continue",
+        "persistence",
+        "tenacity"
+      ],
+      "opposite": "give up",
+      "pitfall": "Do not confuse it with preserve, which means to protect or keep something safe."
+    },
+    {
+      "id": "persevering",
+      "kind": "word",
+      "term": "persevering",
+      "pos": "adjective",
+      "phonetic": "/ˌpɜːrsəˈvɪrɪŋ/",
+      "sayIt": "per-suh-VEER-ing",
+      "register": "Common at work and in formal writing",
+      "meaning": "Continuing to make progress despite difficulties, delays or repeated setbacks.",
+      "nuance": "It is usually a positive word that highlights determination and steady effort. In some contexts, it can also suggest that someone is unwilling to change course, especially when persistence becomes stubbornness.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · delayed launch",
+          "sentence": "The persevering support team kept working until customers could access the new system.",
+          "highlight": "persevering",
+          "tip": "Use it to recognise persistence when progress has been difficult."
+        },
+        {
+          "setting": "social",
+          "where": "Fitness class · reaching a goal",
+          "sentence": "My persisting friend returned to the gym every morning until she finally felt comfortable there.",
+          "highlight": "persisting",
+          "tip": "The usual word is persevering; persisting describes the ongoing action."
+        },
+        {
+          "setting": "writing",
+          "where": "Recommendation letter · praising resilience",
+          "sentence": "She proved herself to be a persevering colleague who never lost focus when problems changed.",
+          "highlight": "persevering",
+          "tip": "Strong in praise and professional recommendations because it sounds respectful."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin perseverare, meaning ‘to persist firmly’, formed from per- and severus, associated with being strict or resolute. The word entered English during the 1400s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "perseverare develops from elements meaning ‘persist firmly’ or ‘be resolute’."
+          },
+          {
+            "when": "1400s",
+            "text": "The word appears in English with the sense of continuing firmly despite difficulty."
+          },
+          {
+            "when": "Today",
+            "text": "Persevering describes steady, determined effort."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "persevere",
+          "label": "verb"
+        },
+        {
+          "term": "perseverance",
+          "label": "noun"
+        },
+        {
+          "term": "perseveringly",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "persistent",
+        "tenacious",
+        "determined",
+        "diligent"
+      ],
+      "opposite": "undiscouraged",
+      "pitfall": "Persevering is usually complimentary, but it can sound negative when it means stubbornly refusing to reconsider a decision."
+    },
+    {
+      "id": "persistent",
+      "kind": "word",
+      "term": "persistent",
+      "pos": "adjective",
+      "phonetic": "/pərˈsɪstənt/",
+      "sayIt": "per-SIS-tent",
+      "register": "Common at work",
+      "meaning": "Continuing steadily despite difficulty, interruption or an unwillingness to stop.",
+      "nuance": "It can describe steady effort and determination, but it can also suggest that someone is being stubborn or refuses to let an issue go.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project meeting · tracking a delayed launch",
+          "sentence": "The persistent delay in approvals is holding up the launch.",
+          "highlight": "persistent",
+          "tip": "Use it for a problem that keeps returning or continuing over time."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · explaining a repeated concern",
+          "sentence": "She was persistent about finding a restaurant with outdoor seating.",
+          "highlight": "persistent",
+          "tip": "It can sound mildly critical when someone keeps asking or pursuing something."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · describing reliable effort",
+          "sentence": "His persistent attention to detail led to fewer mistakes across the project.",
+          "highlight": "persistent",
+          "tip": "Use it positively when you want to emphasise sustained effort."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin persistere, meaning ‘to continue or persist’, built from per- and sistere, both connected with standing or continuing.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Persistere develops the sense of continuing firmly or resisting interruption."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English in the sense of continuing or persevering."
+          },
+          {
+            "when": "Today",
+            "text": "It describes steady continuation, often with the suggestion of determination or stubbornness."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "persistence",
+          "label": "noun"
+        },
+        {
+          "term": "persistently",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "tenacious",
+        "relentless",
+        "steadfast",
+        "stubborn"
+      ],
+      "opposite": "fleeting",
+      "pitfall": "Be aware of the negative edge: describing a person as persistent can imply that they will not accept ‘no’."
+    },
+    {
+      "id": "perverse",
+      "kind": "word",
+      "term": "perverse",
+      "pos": "adjective",
+      "phonetic": "/pəˈvɜːrs/",
+      "sayIt": "puh-VERSS",
+      "register": "Formal",
+      "meaning": "Unreasonably contrary to what is right, sensible, or expected.",
+      "nuance": "It can describe stubborn bad judgement or behaviour that seems deliberately twisted. It is stronger and more critical than merely unusual or inconvenient.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · reviewing priorities",
+          "sentence": "Refusing every safety suggestion simply because they came from management is a perverse response.",
+          "highlight": "perverse",
+          "tip": "Use it for conduct that turns a reasonable concern into an unreasonable argument."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · disputed plans",
+          "sentence": "My uncle thought it was perverse that we wanted to leave before the party ended.",
+          "highlight": "perverse",
+          "tip": "It fits when something strikes you as strangely contrary to sense or social expectation."
+        },
+        {
+          "setting": "writing",
+          "where": "Editorial · criticising a decision",
+          "sentence": "The decision was perverse: it reduced costs now but made the project harder to maintain.",
+          "highlight": "perverse",
+          "tip": "Often adds a note of moral or practical disapproval to an argument."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin perversus, meaning ‘turned away’ or ‘reversed’, and based on pervertere, ‘to turn away, distort, or turn the wrong way’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Perversus develops senses meaning ‘reversed’, ‘untoward’, and ‘turned away from what is right’."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English with meanings connected with reversal, distortion, and unreasonable conduct."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used for behaviour or attitudes that seem contrary to reason, morality, or normal expectation."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "perversion",
+          "label": "noun"
+        },
+        {
+          "term": "perversely",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "contrary",
+        "twisted",
+        "obstinate",
+        "unreasonable"
+      ],
+      "opposite": "reasonable",
+      "pitfall": "Do not confuse it with ‘perverted’, which commonly refers to a sexual orientation or preference; ‘perverse’ is broader and often means twisted or contrary to reason."
+    },
+    {
+      "id": "phlegmatic",
+      "kind": "word",
+      "term": "phlegmatic",
+      "pos": "adjective",
+      "phonetic": "/flɛɡˈmætɪk/",
+      "sayIt": "fleg-MAT-ik",
+      "register": "Formal",
+      "meaning": "Someone who stays calm, shows little emotion, and reacts slowly to things that would excite other people.",
+      "nuance": "It describes a steady, undemanding temperament. Depending on the context, it can sound approvingly composed or slightly negative, suggesting excessive passivity.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · handling a crisis",
+          "sentence": "She remained phlegmatic when the system failed, calmly assigning tasks and checking each result.",
+          "highlight": "phlegmatic",
+          "tip": "Use it for someone who stays controlled under pressure, not merely relaxed."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · unexpected news",
+          "sentence": "His phlegmatic response to the surprise party fooled nobody; he had already noticed the decorations.",
+          "highlight": "phlegmatic",
+          "tip": "It can bring a touch of dry or gently teasing humour to a social description."
+        },
+        {
+          "setting": "writing",
+          "where": "Character sketch · describing a temperament",
+          "sentence": "The novel presents a phlegmatic traveller who is difficult to hurry and almost impossible to alarm.",
+          "highlight": "phlegmatic",
+          "tip": "This literary word gives a character sketch a formal, slightly old-fashioned tone."
+        }
+      ],
+      "origin": {
+        "summary": "From Greek phlegmatikos, ‘suffering from phlegm’, based on phlegma, ‘humour or mucus’. The word developed through medical ideas into a description of a calm or slow temperament.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "The word was linked with phlegma, one of the bodily humours associated with a slow temperament."
+          },
+          {
+            "when": "1600s",
+            "text": "It entered English as a medical term describing a person thought to have an excess of phlegm."
+          },
+          {
+            "when": "1800s onward",
+            "text": "The medical sense faded, leaving the modern meaning of being calm, unemotional, or slow to react."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "phlegmatically",
+          "label": "adverb"
+        },
+        {
+          "term": "phlegmatism",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "composed",
+        "unemotional",
+        "undemonstrative",
+        "easygoing",
+        "impassive"
+      ],
+      "opposite": "emotional",
+      "pitfall": "Phlegmatic does not simply mean lazy or sluggish; it mainly describes a calm, slow-to-react temperament."
+    },
+    {
+      "id": "poised",
+      "kind": "word",
+      "term": "poised",
+      "pos": "adjective",
+      "phonetic": "/pɔɪzd/",
+      "sayIt": "POYZD",
+      "register": "Common at work and in formal settings",
+      "meaning": "Composed, confident, and ready to act in a controlled way.",
+      "nuance": "It often suggests calm confidence under pressure. It can also mean ready or likely to do something soon, as in “poised to announce a major change.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Presentation · handling a difficult question",
+          "sentence": "She remained poised when the client challenged the proposal and answered without hesitating.",
+          "highlight": "poised",
+          "tip": "Use it to describe calm, controlled readiness under pressure."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · making a first impression",
+          "sentence": "He felt poised and comfortable once he arrived and could join the conversation naturally.",
+          "highlight": "poised",
+          "tip": "It has a polished tone, suggesting both composure and social confidence."
+        },
+        {
+          "setting": "writing",
+          "where": "Company announcement · preparing a launch",
+          "sentence": "The company is poised to release the new service across Europe next month.",
+          "highlight": "poised",
+          "tip": "Here it means ready and very likely to happen soon."
+        }
+      ],
+      "origin": {
+        "summary": "Poised came through French from a word meaning “to weigh,” reflecting an original idea of careful balance or suspension.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "French poiser, “to weigh,” provides the root associated with weight and balance."
+          },
+          {
+            "when": "1600s",
+            "text": "English borrowed poised in senses connected with physical balance and being suspended."
+          },
+          {
+            "when": "Later",
+            "text": "The word developed figurative meanings involving composure, readiness, and imminent action."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "poise",
+          "label": "noun"
+        },
+        {
+          "term": "poise",
+          "label": "verb"
+        }
+      ],
+      "similar": [
+        "composed",
+        "self-assured",
+        "ready",
+        "balanced"
+      ],
+      "opposite": "flustered",
+      "pitfall": "Don’t confuse poised with merely being physically balanced. In formal writing, it usually describes calm readiness or something about to happen."
+    },
+    {
+      "id": "precocious",
+      "kind": "word",
+      "term": "precocious",
+      "pos": "adjective",
+      "phonetic": "/prɪˈkoʊʃəs/",
+      "sayIt": "pri-KOH-shuss",
+      "register": "Common at work",
+      "meaning": "Showing maturity, skill, or development earlier than people normally expect.",
+      "nuance": "Often used for children who speak, reason, or behave in unusually mature ways. It can also describe early talent, but sometimes suggests someone is showing off.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · introducing a new hire",
+          "sentence": "She was precocious as a junior analyst, spotting risks the rest of us had missed.",
+          "highlight": "precocious",
+          "tip": "Use it for early ability or maturity, especially when describing someone’s professional development."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · a child talking to adults",
+          "sentence": "My nephew is precocious; he asked the electrician where he studied.",
+          "highlight": "precocious",
+          "tip": "Common for a child who talks or behaves like someone much older."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · praising an apprentice",
+          "sentence": "Her precocious grasp of the design system helped her contribute within weeks.",
+          "highlight": "precocious",
+          "tip": "A formal way to praise rapid learning, though it may sound stronger than simply saying ‘promising.’"
+        }
+      ],
+      "origin": {
+        "summary": "From Latin praecox, meaning ‘hasty’ or ‘early’, through French. Its modern sense developed from the idea of showing something sooner than expected.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Ancient Rome",
+            "text": "Latin praecox meant ‘hasty’, ‘premature’, or ‘early’."
+          },
+          {
+            "when": "1500s",
+            "text": "The word appears in French with the sense of being unusually early or mature."
+          },
+          {
+            "when": "1600s",
+            "text": "It enters English and becomes established for early development."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly describes children or young people showing unusual maturity, skill, or confidence."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "precociously",
+          "label": "adverb"
+        },
+        {
+          "term": "precociousness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "advanced",
+        "mature",
+        "ahead",
+        "early-blooming"
+      ],
+      "opposite": "delayed",
+      "pitfall": "Do not confuse it with precious, which means highly valued or of great importance."
+    },
+    {
+      "id": "pretentious",
+      "kind": "word",
+      "term": "pretentious",
+      "pos": "adjective",
+      "phonetic": "/prɪˈtɛnʃəs/",
+      "sayIt": "pree-TEN-shus",
+      "register": "Common in criticism",
+      "meaning": "Claiming to be more important, sophisticated or valuable than you really are.",
+      "nuance": "It often criticises affected speech, behaviour or attitudes, as well as claims of status that are not earned.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · reviewing a proposal",
+          "sentence": "His proposal sounded pretentious, but the practical ideas underneath it were useful.",
+          "highlight": "pretentious",
+          "tip": "Use it when an impressive tone does not match the substance."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · introducing yourself",
+          "sentence": "She kept naming designers and using French words, and everyone found it a bit pretentious.",
+          "highlight": "pretentious",
+          "tip": "In social settings, it often implies that someone is trying too hard to appear cultured or important."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing a restaurant",
+          "sentence": "The food was excellent, although the staff were somewhat pretentious.",
+          "highlight": "pretentious",
+          "tip": "It can be blunt; consider ‘overly affected’ when you need a less harsh description."
+        }
+      ],
+      "origin": {
+        "summary": "From French prétentieux and Latin praetentiosus, both connected with claiming or pretending. The original sense developed from pretending to a position into criticising inflated claims.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Praetentiosus develops from praetendere, meaning to stretch forth, claim or pretend."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English through French as a term for claiming or pretending."
+          },
+          {
+            "when": "1800s",
+            "text": "It takes on its modern sense of making unjustified claims to importance or value."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "pretension",
+          "label": "noun"
+        },
+        {
+          "term": "pretenious",
+          "label": "alternative spelling"
+        }
+      ],
+      "similar": [
+        "ostentatious",
+        "affected",
+        "self-important",
+        "grandiose"
+      ],
+      "opposite": "modest",
+      "pitfall": "It is more than simply false or exaggerated: it suggests a mismatch between someone’s claimed importance and their actual qualities."
+    },
+    {
+      "id": "prodigal",
+      "kind": "word",
+      "term": "prodigal",
+      "pos": "adjective",
+      "phonetic": "/ˈprɒdɪɡəl/",
+      "sayIt": "PROD-ih-guhl",
+      "register": "Formal",
+      "meaning": "Willing to spend or use money and resources wastefully.",
+      "nuance": "It can sound strongly critical, especially when describing someone’s spending. It is also used in the familiar story of the prodigal son, meaning someone who has left a good life and later regrets it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget review · cutting unnecessary costs",
+          "sentence": "The team became prodigal with cloud services, spending more than the project actually needed.",
+          "highlight": "prodigal",
+          "tip": "Use it for seriously wasteful spending, not ordinary overspending."
+        },
+        {
+          "setting": "social",
+          "where": "Family dinner · discussing an old friend",
+          "sentence": "He was prodigal in his twenties, but he has become careful with money now.",
+          "highlight": "prodigal",
+          "tip": "This can describe a past pattern of extravagant spending."
+        },
+        {
+          "setting": "writing",
+          "where": "Novel · describing a reckless character",
+          "sentence": "The prodigal heir returned home after squandering the family fortune on parties and travel.",
+          "highlight": "prodigal",
+          "tip": "It often carries a literary or moral tone, especially with the word 'son'."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin prodigalis, meaning wasteful or extravagant, connected with prodigere, 'to squander' or 'drive forth'. English later used it in religious and literary references, especially the story of the prodigal son.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Prodigalis develops the sense of wasteful or extravagant, related to prodigere, 'to squander'."
+          },
+          {
+            "when": "1400s–1500s",
+            "text": "The word enters English in religious contexts, including the parable of the prodigal son."
+          },
+          {
+            "when": "1600s onward",
+            "text": "It becomes established in English for describing wasteful spending and lavish behaviour."
+          }
+        ]
+      },
+      "similar": [
+        "extravagant",
+        "wasteful",
+        "lavish",
+        "spendthrift"
+      ],
+      "opposite": "frugal",
+      "pitfall": "It is more severe than simply 'expensive'; it suggests wasting money or resources."
+    }
+  ]
+}

@@ -1,0 +1,597 @@
+{
+  "id": "phrases-meetings-teamwork",
+  "kind": "phrase",
+  "name": "Meetings & teamwork",
+  "blurb": "10 phrases about meetings & teamwork",
+  "cards": [
+    {
+      "id": "all-systems-go",
+      "kind": "phrase",
+      "term": "all systems go",
+      "pos": "idiom",
+      "hint": "everything is working",
+      "register": "Common at work",
+      "meaning": "Used to say that all the equipment, processes or parts of a plan are working properly and ready to continue.",
+      "nuance": "It sounds positive and confident, but usually means things are ready or functioning as expected, not that everything is perfect.",
+      "literal": "Every system in a machine or operation is reporting that it is working normally.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch briefing · confirming readiness",
+          "sentence": "The tests passed and the team is ready, so it’s all systems go for Monday’s launch.",
+          "highlight": "all systems go",
+          "tip": "Use it when you have confirmed that the important parts are working."
+        },
+        {
+          "setting": "social",
+          "where": "Planning an event · checking the setup",
+          "sentence": "The sound system works, the food is on the way, and the guests have the address—it’s all systems go.",
+          "highlight": "all systems go",
+          "tip": "It adds a playful, confident tone to an informal update."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update email · giving the green light",
+          "sentence": "Once the final approvals arrive, it will be all systems go and we can begin production.",
+          "highlight": "all systems go",
+          "tip": "Pair it with a clear condition or next step so the meaning is precise."
+        }
+      ],
+      "origin": {
+        "summary": "Probably developed from technical and aviation language, where crews and operators checked whether every system was functioning safely. The phrase later became a general way to announce that an operation could proceed.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Technical phrase: every system in a machine or operation is functioning normally."
+          },
+          {
+            "when": "Mid-20th century",
+            "text": "Used in aviation, engineering and other workplaces to report that operations could continue."
+          },
+          {
+            "when": "Today",
+            "text": "A common informal expression for saying that a plan or operation is ready to move forward."
+          }
+        ]
+      },
+      "similar": [
+        "ready to go",
+        "good to go",
+        "ready for takeoff"
+      ],
+      "opposite": "systems down",
+      "pitfall": "It can sound overly certain if you have not checked the important details, so use it when the situation is genuinely ready."
+    },
+    {
+      "id": "half-the-battle",
+      "kind": "phrase",
+      "term": "half the battle",
+      "pos": "idiom",
+      "hint": "a significant part of the effort",
+      "register": "Common",
+      "meaning": "An important first step that gives you a better chance of achieving a result.",
+      "nuance": "It is encouraging but not fully reassuring: making progress matters, but you still need to finish the job.",
+      "literal": "Doing enough of the fighting to have a real chance of winning.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · getting a team started",
+          "sentence": "Getting everyone aligned is half the battle, so let’s agree on priorities before the deadline.",
+          "highlight": "half the battle",
+          "tip": "Use it to stress the importance of an early, practical step."
+        },
+        {
+          "setting": "social",
+          "where": "Event planning · preparing with friends",
+          "sentence": "Booking the venue is half the battle, and the rest will be much easier once that’s done.",
+          "highlight": "half the battle",
+          "tip": "It sounds encouraging when someone is dealing with a complicated task."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · encouraging a colleague",
+          "sentence": "Submitting the first draft is half the battle; you can refine it once you have something on the page.",
+          "highlight": "half the battle",
+          "tip": "Use it to motivate action without implying that the task is already finished."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from the idea that securing a strong position is a major part of winning a battle. Its modern figurative use developed from older wording about victory or success.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "A literal battle metaphor: gaining an important advantage in a fight."
+          },
+          {
+            "when": "1800s",
+            "text": "The idea appears in expressions comparing success or victory with securing a decisive advantage."
+          },
+          {
+            "when": "Today",
+            "text": "It is common informal English for acknowledging that a key first step makes the rest easier."
+          }
+        ]
+      },
+      "similar": [
+        "a good start",
+        "the key to success",
+        "a step in the right direction"
+      ],
+      "opposite": "the whole battle",
+      "pitfall": "It does not mean the remaining work is easy; it only means that one important step has been completed."
+    },
+    {
+      "id": "heres-the-thing",
+      "kind": "phrase",
+      "term": "here's the thing",
+      "pos": "phrase",
+      "hint": "introducing the key point",
+      "register": "Casual",
+      "meaning": "Used to draw attention to the most important or revealing part of what you are about to say.",
+      "nuance": "It creates a conversational pause and signals a key observation, surprise, or personal concern. It is friendly and informal, so it may sound too casual in a very formal setting.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project meeting · raising a key concern",
+          "sentence": "Here's the thing: we can finish this today, but only if marketing sends the final copy by noon.",
+          "highlight": "Here's the thing",
+          "tip": "Use it to introduce the central issue after a little context."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation with a friend · explaining a concern",
+          "sentence": "Here's the thing about our friendship: we work better when we're honest with each other.",
+          "highlight": "Here's the thing",
+          "tip": "It makes a personal observation feel direct without sounding abrupt."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal email · flagging important news",
+          "sentence": "Here's the thing you should know: the deadline has moved to Friday, so please update your plans.",
+          "highlight": "Here's the thing",
+          "tip": "Keep it in informal emails or messages, not formal announcements."
+        }
+      ],
+      "origin": {
+        "summary": "The exact first use is difficult to pin down, but the phrase likely developed from spoken forms of “here is the thing,” meaning “this is the matter at hand.” Over time, “here's” became the familiar spoken contraction and the expression became a way to introduce a key point.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The building blocks “here is” and “the thing” were used in ordinary English sentences."
+          },
+          {
+            "when": "20th century",
+            "text": "Spoken contraction “here's” and the broader use of “the thing” to mean the main matter became common."
+          },
+          {
+            "when": "Today",
+            "text": "The full phrase is widely understood as an informal signal that a key point is coming."
+          }
+        ]
+      },
+      "similar": [
+        "the thing is",
+        "the point is",
+        "here's what matters"
+      ],
+      "opposite": "that aside",
+      "pitfall": "Because it sounds conversational, avoid using it repeatedly or in highly formal presentations."
+    },
+    {
+      "id": "in-the-abstract",
+      "kind": "phrase",
+      "term": "in the abstract",
+      "pos": "phrase",
+      "hint": "as a general idea, away from real cases",
+      "register": "Formal",
+      "meaning": "In general terms, without considering a specific person, situation, or practical example.",
+      "nuance": "Academic and analytical; it can sound detached when the discussion concerns a concrete decision or someone’s actual experience.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Strategy meeting · comparing general rules",
+          "sentence": "In the abstract, the policy is sound, but we need to see how it affects smaller teams.",
+          "highlight": "In the abstract",
+          "tip": "Pair it with a practical example when discussing implementation."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation about fairness",
+          "sentence": "It’s easy to support equal pay in the abstract, but those principles still affect real workplaces.",
+          "highlight": "in the abstract",
+          "tip": "Use it to distinguish broad principles from personal experience."
+        },
+        {
+          "setting": "writing",
+          "where": "Research introduction · framing findings",
+          "sentence": "In the abstract, the findings suggest a broader relationship, although the sample was limited.",
+          "highlight": "In the abstract",
+          "tip": "It works well in analytical writing when a qualification follows."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the literal meaning of “abstract,” which developed from Latin for something drawn away from ordinary use or focused on general qualities.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1400s",
+            "text": "“Abstract” began appearing in English with the sense of detached from particular people, places, or things."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The expression “in the abstract” developed as a way of describing a general or theoretical treatment."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in academic, legal, and business discussion."
+          }
+        ]
+      },
+      "similar": [
+        "in principle",
+        "in theory",
+        "at a high level",
+        "on paper"
+      ],
+      "opposite": "in practice",
+      "pitfall": "Don’t use it as a synonym for “in theory” when you mean that an idea may not work in real life; the practical point is the contrast."
+    },
+    {
+      "id": "no-plan-survives-contact-with-the-enemy",
+      "kind": "phrase",
+      "term": "No plan survives contact with the enemy",
+      "pos": "phrase",
+      "hint": "a good plan meets real-world problems",
+      "register": "Common at work; formal in strategy writing",
+      "meaning": "A carefully made plan can be invalidated when it encounters real-world resistance.",
+      "nuance": "It is a blunt, slightly dramatic way to say that assumptions and unexpected obstacles can defeat a good plan. Use it in informed discussions; in casual conversation, it can sound overly severe or military.",
+      "literal": "A battle plan is tested when it meets actual enemy forces.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Launch planning · testing assumptions",
+          "sentence": "By Friday, no plan survives contact with the enemy once legal, support, and sales start asking hard questions.",
+          "highlight": "no plan survives contact with the enemy",
+          "tip": "Use it when discussing obstacles, but follow it with a specific adjustment to the plan."
+        },
+        {
+          "setting": "social",
+          "where": "Group trip · checking bookings",
+          "sentence": "We had a neat itinerary, but no plan survives contact with the enemy when the trains are cancelled.",
+          "highlight": "no plan survives contact with the enemy",
+          "tip": "Keep the tone light among friends, especially if “enemy” sounds unnecessarily hostile."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · acknowledging risks",
+          "sentence": "We started with a strong proposal, but no plan survives contact with the enemy, so the scope may need to change.",
+          "highlight": "no plan survives contact with the enemy",
+          "tip": "It works well as a transition from the original plan to the risks and next steps."
+        }
+      ],
+      "origin": {
+        "summary": "The saying is usually linked to Helmuth von Moltke the Elder and his teaching about the limits of planning, although the familiar English wording is difficult to trace to one confirmed source.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "Moltke the Elder argued that even careful military plans must adapt to changing conditions on the battlefield."
+          },
+          {
+            "when": "20th century",
+            "text": "English-language military and political writers adopted the saying as a concise warning that plans face unpredictable resistance."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely used beyond military contexts to describe how practical problems can undermine a sound plan."
+          }
+        ]
+      },
+      "similar": [
+        "reality changes everything",
+        "theory meets practice",
+        "expect the unexpected"
+      ],
+      "pitfall": "The phrase is memorable but vague. Explain what unexpected problem affected the plan rather than using it as a substitute for a practical response."
+    },
+    {
+      "id": "one-for-all-all-for-one",
+      "kind": "phrase",
+      "term": "one for all, all for one",
+      "pos": "idiom",
+      "hint": "everyone supports the group, and the group supports everyone",
+      "register": "Formal and motivational",
+      "meaning": "Each person should support the whole group, while the group should support each of its members.",
+      "nuance": "It expresses strong solidarity and shared responsibility, so it often sounds like a motto or a call for unity. It suits teams, communities and organizations facing a common challenge.",
+      "literal": "One person acts for everyone, and everyone acts for one person.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project crisis · sharing responsibility",
+          "sentence": "When the deadline moved forward, the team was one for all, all for one.",
+          "highlight": "one for all, all for one",
+          "tip": "Use it when emphasizing mutual support, not when assigning individual accountability."
+        },
+        {
+          "setting": "social",
+          "where": "Community event · helping a member",
+          "sentence": "We planned the fair as one for all, all for one, so everyone could contribute.",
+          "highlight": "one for all, all for one",
+          "tip": "It can make an invitation to cooperate feel warm and inclusive."
+        },
+        {
+          "setting": "writing",
+          "where": "Team manifesto · stating shared values",
+          "sentence": "Our guiding principle is one for all, all for one: each volunteer supports the others and the event.",
+          "highlight": "one for all, all for one",
+          "tip": "Follow it with a concrete example of how the group shares responsibility."
+        }
+      ],
+      "origin": {
+        "summary": "The wording is recorded in English from the early 17th century and is strongly associated with Shakespeare. Its idea is an older expression of group solidarity, so it cannot be credited to one inventor.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The underlying idea appears in mottoes and traditions of collective loyalty across European cultures."
+          },
+          {
+            "when": "Early 1600s",
+            "text": "The English expression becomes established and is famously connected with Shakespeare’s writing."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in speeches, team values and organizational slogans."
+          }
+        ]
+      },
+      "similar": [
+        "all together",
+        "sharing the load",
+        "we're in this together",
+        "every member of the team"
+      ],
+      "opposite": "every person for themselves",
+      "pitfall": "The phrase expresses a shared ideal, but it does not remove the need to clarify roles, deadlines and individual responsibility."
+    },
+    {
+      "id": "one-of-us",
+      "kind": "phrase",
+      "term": "one of us",
+      "pos": "phrase",
+      "hint": "a member of the group",
+      "register": "Common at work and socially",
+      "meaning": "Someone who belongs to the same group, team or community as the speaker.",
+      "nuance": "It can express solidarity and inclusion, especially when directed warmly at someone. In a professional setting, it may also mean that a task belongs to everyone present.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team planning · sharing responsibility",
+          "sentence": "Since one of us has to present the findings, should we rehearse once more?",
+          "highlight": "one of us",
+          "tip": "Use it when the group shares a responsibility or decision."
+        },
+        {
+          "setting": "social",
+          "where": "Welcoming someone to a gathering",
+          "sentence": "Come in and join us—you’re one of us now.",
+          "highlight": "one of us",
+          "tip": "This can sound warm and welcoming when the person has genuinely been included."
+        },
+        {
+          "setting": "writing",
+          "where": "Support email to a colleague",
+          "sentence": "If anything goes wrong, contact one of us and we’ll get back to you.",
+          "highlight": "one of us",
+          "tip": "Name a person or team when possible so the recipient knows where to go."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from ordinary English patterns for identifying a member of a group: one selects a person, while us refers to the wider group. Its familiar social and workplace meanings are well established.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Old English had the pronoun us, which later became the object form of the possessive we."
+          },
+          {
+            "when": "Earlier",
+            "text": "English speakers used constructions with one and plural pronouns to single out a member of a group."
+          },
+          {
+            "when": "20th century",
+            "text": "The familiar sense of shared membership and responsibility becomes established in social and workplace speech."
+          }
+        ]
+      },
+      "similar": [
+        "one of the team",
+        "part of us",
+        "someone among us"
+      ],
+      "opposite": "an outsider",
+      "pitfall": "Saying “one of us” can sound genuinely inclusive, but it does not replace making the person feel welcome or giving them a clear role."
+    },
+    {
+      "id": "silver-plate",
+      "kind": "phrase",
+      "term": "silver plate",
+      "pos": "phrase",
+      "hint": "extra polish you don’t need",
+      "register": "Common at work",
+      "meaning": "Unnecessary extras or embellishments added to something that is already good enough.",
+      "nuance": "Usually mildly critical: it suggests adding costly or distracting details beyond what the task needs. It works well for discussing features, design and presentation.",
+      "literal": "A layer of silver applied to another metal to make it more decorative or valuable.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Product review · deciding on features",
+          "sentence": "The dashboard is useful, but the animation is silver plate we can live without.",
+          "highlight": "silver plate",
+          "tip": "Use it to question extras, but explain what would make the work simpler or more valuable."
+        },
+        {
+          "setting": "social",
+          "where": "Planning a party · simplifying decorations",
+          "sentence": "The elaborate table decorations were silver plate; the room looked welcoming without them.",
+          "highlight": "silver plate",
+          "tip": "It can sound slightly dismissive, so keep the criticism light and specific."
+        },
+        {
+          "setting": "writing",
+          "where": "Feedback email · trimming an announcement",
+          "sentence": "I removed the silver plate from the announcement and kept the essential details.",
+          "highlight": "silver plate",
+          "tip": "Use it when describing edits that remove decorative or unnecessary content."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the literal practice of covering an object with a thin layer of silver. The figurative sense probably developed by comparing decorative metalwork to adding costly extras to a product or plan.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal phrase referred to a layer of silver applied to another metal."
+          },
+          {
+            "when": "20th century",
+            "text": "The figurative meaning developed for products and plans enhanced with unnecessary features."
+          },
+          {
+            "when": "Today",
+            "text": "It is common shorthand for costly extras that do not improve the essentials."
+          }
+        ]
+      },
+      "similar": [
+        "gold-plating",
+        "bells and whistles",
+        "unnecessary extras",
+        "overengineering"
+      ],
+      "opposite": "stripped-down",
+      "pitfall": "It is not simply any attractive detail; it implies extra work or expense that the speaker considers unnecessary."
+    },
+    {
+      "id": "the-buck-stops-here",
+      "kind": "phrase",
+      "term": "the buck stops here",
+      "pos": "idiom",
+      "hint": "final responsibility rests here",
+      "register": "Common at work; serious but conversational",
+      "meaning": "This is where responsibility ends, and no further action will be passed to someone else.",
+      "nuance": "It can firmly identify the person with final authority or accountability. Use it when responsibility has genuinely been accepted, not as a way to shut out discussion.",
+      "literal": "A hunter stopping a buck at one particular place.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Approval meeting · setting boundaries",
+          "sentence": "I’m the final approver, so the buck stops here.",
+          "highlight": "the buck stops here",
+          "tip": "Use it after explaining the decision process, not before inviting input."
+        },
+        {
+          "setting": "social",
+          "where": "Hosting an event · accepting responsibility",
+          "sentence": "I offered to host, so when the plans go wrong, the buck stops here.",
+          "highlight": "the buck stops here",
+          "tip": "It can sound confident and accountable when your responsibility is clear."
+        },
+        {
+          "setting": "writing",
+          "where": "Escalation email · confirming authority",
+          "sentence": "Once I approve this, the buck stops here, and I’ll explain the final decision.",
+          "highlight": "the buck stops here",
+          "tip": "Name the decision or responsibility so the statement is not vague."
+        }
+      ],
+      "origin": {
+        "summary": "The wording is closely associated with the sign “The Buck Stops Here,” displayed by President Harry Truman in 1945. Earlier expressions about where the buck stopped referred to who would bear the cost or consequences.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "American expressions such as “where the buck stops” referred to the person who had to bear the cost or blame."
+          },
+          {
+            "when": "1945",
+            "text": "Harry Truman placed a “The Buck Stops Here” sign on his desk to represent presidential responsibility."
+          },
+          {
+            "when": "Today",
+            "text": "The expression is used more broadly for final authority or accountability."
+          }
+        ]
+      },
+      "similar": [
+        "final decision rests with me",
+        "I’m accountable",
+        "the responsibility is mine"
+      ],
+      "pitfall": "Do not use it merely to sound authoritative; it can imply that you are unwilling to listen or share responsibility."
+    },
+    {
+      "id": "clock-is-running",
+      "kind": "phrase",
+      "term": "the clock is running",
+      "pos": "phrase",
+      "hint": "time is getting short",
+      "register": "Common at work",
+      "meaning": "There is limited time left to finish something or make a decision.",
+      "nuance": "It adds urgency without sounding aggressive. Use it when a deadline is approaching or further discussion is no longer useful.",
+      "literal": "A clock continues measuring time as its remaining minutes run down.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · deadline pressure",
+          "sentence": "The clock is running, so let’s focus on the three changes we can finish today.",
+          "highlight": "The clock is running",
+          "tip": "Follow it with a clear priority or next step."
+        },
+        {
+          "setting": "social",
+          "where": "Event planning · late arrival",
+          "sentence": "We need to order now because the clock is running before the restaurant closes.",
+          "highlight": "the clock is running",
+          "tip": "In casual situations, “We’re running out of time” may sound more natural."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · requesting a decision",
+          "sentence": "The clock is running on this proposal, so please send your feedback by Friday.",
+          "highlight": "The clock is running",
+          "tip": "Pair the urgency with the exact deadline and the consequence of delay."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely grew from the literal image of a clock whose measured time is passing, then came to mean that a deadline or decision cannot wait.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal image: a clock steadily uses up the time available."
+          },
+          {
+            "when": "19th century",
+            "text": "Writers began using clock imagery to suggest deadlines and time running short."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in workplaces, negotiations and everyday planning."
+          }
+        ]
+      },
+      "similar": [
+        "time is running out",
+        "we’re running out of time",
+        "time is short",
+        "the deadline is approaching"
+      ],
+      "opposite": "we have plenty of time",
+      "pitfall": "Saying “the clock is running” signals urgency, but name the deadline so people know how much time remains."
+    }
+  ]
+}

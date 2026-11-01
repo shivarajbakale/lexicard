@@ -1,0 +1,1505 @@
+{
+  "id": "idioms-everyday-life-1",
+  "kind": "idiom",
+  "name": "Everyday life · 1",
+  "blurb": "25 idioms about everyday life",
+  "cards": [
+    {
+      "id": "after-all",
+      "kind": "idiom",
+      "term": "after all",
+      "pos": "phrase",
+      "hint": "when everything is considered",
+      "register": "Everyday",
+      "meaning": "Used to introduce a thought after considering everything, often to correct an assumption or highlight what is really true.",
+      "nuance": "It can sound reflective, mildly defensive or matter-of-fact. The intended force depends on context, especially what comes immediately before it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · changing plans",
+          "sentence": "After all, the requirements were unclear, so changing the design seems reasonable.",
+          "highlight": "After all",
+          "tip": "Common when a conclusion explains an earlier decision."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · joining an activity",
+          "sentence": "After all, you did most of the cooking, so I’ll clear the table.",
+          "highlight": "After all",
+          "tip": "Often introduces a fair point or a practical reason."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · explaining a delay",
+          "sentence": "After all, the supplier moved the delivery date without telling us.",
+          "highlight": "After all",
+          "tip": "Useful for adding a reason and qualifying the main point."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from an older sense of considering the whole matter. Its modern use as a sentence opener is well established, but the exact first recorded example is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression originally conveyed the idea of considering the matter in full."
+          },
+          {
+            "when": "Later",
+            "text": "It came to mean ‘in fact’ or ‘when everything is considered’."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly introduces an explanation, qualification or contrasting point."
+          }
+        ]
+      },
+      "similar": [
+        "actually",
+        "at bottom",
+        "when all is said and done"
+      ],
+      "opposite": "to begin with",
+      "pitfall": "Do not use it as a simple substitute for ‘finally’; ‘after all’ usually highlights a reason or a reconsideration rather than time order."
+    },
+    {
+      "id": "apples-to-apples",
+      "kind": "idiom",
+      "term": "apples to apples",
+      "pos": "idiom",
+      "hint": "a fair comparison",
+      "register": "Common at work",
+      "meaning": "A comparison between things that are genuinely alike and can fairly be judged against each other.",
+      "nuance": "It emphasizes that the standards and conditions match, not merely that the subjects belong to the same general category. Common when discussing comparisons, prices, performance or evaluation.",
+      "literal": "Comparing one apple with another apple rather than with an orange.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Reviewing proposals · comparing suppliers",
+          "sentence": "Let’s compare the plans apples to apples, using the same criteria and budget.",
+          "highlight": "apples to apples",
+          "tip": "Often followed by ‘comparison’ or a description of the shared criteria."
+        },
+        {
+          "setting": "social",
+          "where": "Choosing phones · comparing features",
+          "sentence": "We’re comparing apples to apples because both phones run the same processor.",
+          "highlight": "apples to apples",
+          "tip": "Use it when two options are similar enough for a meaningful comparison."
+        },
+        {
+          "setting": "writing",
+          "where": "Market analysis · comparing growth",
+          "sentence": "The report compares regional sales apples to apples by adjusting for population.",
+          "highlight": "apples to apples",
+          "tip": "Useful in reports when the comparison has been carefully controlled."
+        }
+      ],
+      "origin": {
+        "summary": "The image comes from the practical habit of judging fruit by comparing one piece with another of the same kind. The figurative wording is documented from the 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The expression appears in contexts about making fair comparisons."
+          },
+          {
+            "when": "1900s",
+            "text": "It becomes established for comparisons involving equivalent things or matching conditions."
+          },
+          {
+            "when": "Today",
+            "text": "It means comparing like with like, often with the need to explain the shared standards."
+          }
+        ]
+      },
+      "similar": [
+        "On an equal footing",
+        "Like for like",
+        "On the same basis"
+      ],
+      "opposite": "Not like for like",
+      "pitfall": "It does not mean two things are exactly identical; it means the comparison itself is fair and relevant."
+    },
+    {
+      "id": "as-the-crow-flies",
+      "kind": "idiom",
+      "term": "as the crow flies",
+      "pos": "phrase",
+      "hint": "the shortest way between two places",
+      "register": "Everyday",
+      "meaning": "Used to describe the straight-line distance between two places.",
+      "nuance": "It gives a quick, approximate idea of distance rather than telling you the exact route or travel time. It is common in conversation, directions and informal writing.",
+      "literal": "In the straight path a crow would take when flying from one place to another.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office planning · a meeting across town",
+          "sentence": "The new office is about twelve miles from headquarters as the crow flies.",
+          "highlight": "as the crow flies",
+          "tip": "Useful for a quick distance comparison, but it does not describe road travel."
+        },
+        {
+          "setting": "social",
+          "where": "Chat · directions to a friend",
+          "sentence": "Your place is only five miles away as the crow flies, although the drive takes much longer.",
+          "highlight": "as the crow flies",
+          "tip": "Often followed by an explanation of why the journey may be longer."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel description · comparing locations",
+          "sentence": "The island lies twenty miles from the mainland as the crow flies.",
+          "highlight": "as the crow flies",
+          "tip": "A natural choice in travel writing when the direct geographical distance matters."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the old observation that crows fly in a direct line rather than following roads or winding paths.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1500s",
+            "text": "Early English sayings compare a crow’s direct flight with a longer, indirect route."
+          },
+          {
+            "when": "1800s",
+            "text": "The expression becomes established in the familiar form ‘as the crow flies’."
+          },
+          {
+            "when": "Today",
+            "text": "Means the approximate straight-line distance between two places."
+          }
+        ]
+      },
+      "similar": [
+        "in a straight line",
+        "by the shortest route",
+        "in a beeline"
+      ],
+      "pitfall": "It describes distance, not travel time; obstacles, traffic and local routes can make the actual journey much longer."
+    },
+    {
+      "id": "been-there-done-that",
+      "kind": "idiom",
+      "term": "been there, done that",
+      "pos": "idiom",
+      "hint": "I’ve already experienced it",
+      "register": "Everyday",
+      "meaning": "To say that you have already had an experience and do not want to repeat it.",
+      "nuance": "It sounds knowing, slightly weary, and often dismissive. Use it when someone suggests a familiar plan or problem you have already dealt with.",
+      "literal": "Having visited a place and completed an activity.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · repeated reporting process",
+          "sentence": "We’ve been there, done that with these spreadsheets, so let’s use the dashboard instead.",
+          "highlight": "been there, done that",
+          "tip": "Often says, ‘I know this already because I’ve tried it.’"
+        },
+        {
+          "setting": "social",
+          "where": "Friend suggesting a busy restaurant",
+          "sentence": "That restaurant? Been there, done that—the food was fine, but we waited an hour for a table.",
+          "highlight": "Been there, done that",
+          "tip": "Can be casual and slightly dismissive when you want to avoid repeating an experience."
+        },
+        {
+          "setting": "writing",
+          "where": "Email about a repeated proposal",
+          "sentence": "I’ve been there, done that before, so I don’t think another review meeting will solve the problem.",
+          "highlight": "been there, done that",
+          "tip": "Useful in informal emails when you want to signal prior experience without giving a long explanation."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is uncertain, but the phrase appears in American English by the mid-20th century and became especially common in the 1970s as a way of describing an experience already completed.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The wording reflects the idea of having visited a place and finished an activity."
+          },
+          {
+            "when": "1960s",
+            "text": "Similar expressions begin appearing in American writing and conversation."
+          },
+          {
+            "when": "1970s",
+            "text": "The phrase becomes widely used, often as a brief response to someone repeating a familiar idea or plan."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly means, ‘I’ve already experienced this and don’t need to do it again.’"
+          }
+        ]
+      },
+      "similar": [
+        "done and dusted",
+        "when I saw it I felt like I’d seen it before",
+        "I’m not going there again",
+        "same old story"
+      ],
+      "pitfall": "It usually implies prior personal experience, not simply that something is well known."
+    },
+    {
+      "id": "behind-bars",
+      "kind": "idiom",
+      "term": "behind bars",
+      "pos": "idiom",
+      "hint": "not outside in the fresh air",
+      "register": "Everyday",
+      "meaning": "Imprisoned or locked up in prison.",
+      "nuance": "It can refer to being in prison or, more figuratively, to being trapped or confined somewhere.",
+      "literal": "Separated from the outside world by prison bars.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "News report · fraud investigation",
+          "sentence": "The former finance director spent six months behind bars after his fraud trial.",
+          "highlight": "behind bars",
+          "tip": "Common in reports about crime, trials and prison."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · missing friend",
+          "sentence": "I heard my old neighbour ended up behind bars after the robbery.",
+          "highlight": "behind bars",
+          "tip": "Usually describes someone who has been imprisoned."
+        },
+        {
+          "setting": "writing",
+          "where": "Crime novel · final chapter",
+          "sentence": "By the end of the novel, the villain is finally behind bars.",
+          "highlight": "behind bars",
+          "tip": "A vivid, slightly dramatic way to say ‘in prison’."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the image of a prisoner being enclosed by the bars of a cell. The expression was in use by the 1800s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The expression appears in writing describing someone imprisoned or locked up."
+          },
+          {
+            "when": "1900s",
+            "text": "It becomes common in journalism, fiction and accounts of prison life."
+          },
+          {
+            "when": "Today",
+            "text": "It means imprisoned, and can also suggest being trapped or shut away."
+          }
+        ]
+      },
+      "similar": [
+        "in prison",
+        "under lock and key",
+        "in the clink"
+      ],
+      "opposite": "free",
+      "pitfall": "It refers to prison or confinement, not simply being behind a physical barrier."
+    },
+    {
+      "id": "best-thing-since-sliced-bread",
+      "kind": "idiom",
+      "term": "best thing since sliced bread",
+      "pos": "idiom",
+      "hint": "an enormous improvement",
+      "register": "Informal",
+      "meaning": "A product, idea or development that is considered an excellent improvement.",
+      "nuance": "It sounds enthusiastic but exaggerated, and it can also be used jokingly or sarcastically.",
+      "literal": "A comparison to sliced bread, once presented as a major convenience.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · new software",
+          "sentence": "This new approval workflow is the best thing since sliced bread; it saves us hours every week.",
+          "highlight": "best thing since sliced bread",
+          "tip": "Often used when praising something that makes work noticeably easier."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with a friend",
+          "sentence": "Honestly, that little neighborhood café is the best thing since sliced bread.",
+          "highlight": "best thing since sliced bread",
+          "tip": "The speaker may be exaggerating for a humorous effect."
+        },
+        {
+          "setting": "writing",
+          "where": "Company newsletter",
+          "sentence": "The update team calls its new dashboard the best thing since sliced bread, and early results look strong.",
+          "highlight": "best thing since sliced bread",
+          "tip": "Best in informal reviews, advertisements and social posts."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase was linked to the spread of commercially sliced bread in the early 1900s, but its exact first use is uncertain. It quickly became an advertising comparison for anything presented as modern and useful.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1900s",
+            "text": "Commercially sliced bread becomes widely promoted as a convenient improvement."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "Advertising language begins comparing new products with sliced bread."
+          },
+          {
+            "when": "Mid-1900s onward",
+            "text": "The expression becomes a familiar, often exaggerated way of praising an innovation."
+          }
+        ]
+      },
+      "similar": [
+        "the greatest thing since sliced bread",
+        "a game changer",
+        "the best invention ever"
+      ],
+      "opposite": "nothing special",
+      "pitfall": "It is informal and often hyperbolic, so it may sound insincere in a serious report or formal message."
+    },
+    {
+      "id": "big-deal",
+      "kind": "idiom",
+      "term": "big deal",
+      "pos": "idiom",
+      "hint": "something important, or not important at all",
+      "register": "Everyday",
+      "meaning": "Something considered important, impressive, or worth paying attention to.",
+      "nuance": "Often used to emphasise that something is significant, especially when saying ‘not a big deal’ to mean it is unimportant. It can sound casual or slightly dismissive depending on the context.",
+      "literal": "A deal that is large, important, or impressive.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · a major client win",
+          "sentence": "Landing the national account was a big deal for the whole sales team.",
+          "highlight": "big deal",
+          "tip": "Common when describing an important achievement or development."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with a friend",
+          "sentence": "It’s not a big deal if we have to move our dinner to Friday.",
+          "highlight": "big deal",
+          "tip": "‘Not a big deal’ softens the impact and reassures someone."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining a delay",
+          "sentence": "The scheduling change isn’t a big deal, so we can keep the launch on track.",
+          "highlight": "big deal",
+          "tip": "Useful for clarifying what deserves attention and what does not."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the idea that a ‘deal’ could be significant or valuable. Its exact first recorded use is difficult to establish, but the sense of something important was established by the early 1900s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The word ‘deal’ is used in senses connected with an important matter or arrangement."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "The expression ‘a big deal’ appears in writing for something of considerable importance."
+          },
+          {
+            "when": "Today",
+            "text": "It also commonly appears in the negative phrase ‘not a big deal’ to minimise importance."
+          }
+        ]
+      },
+      "similar": [
+        "no biggie",
+        "big deal",
+        "make a difference"
+      ],
+      "pitfall": "Use ‘not a big deal’ when you want to downplay something; ‘big deal’ by itself emphasises that it matters."
+    },
+    {
+      "id": "big-screen",
+      "kind": "idiom",
+      "term": "big screen",
+      "pos": "phrase",
+      "hint": "where feature films are shown",
+      "register": "Everyday",
+      "meaning": "Cinema and the film industry, especially as contrasted with television.",
+      "nuance": "It refers to the medium of movies, not necessarily to the physical size of a display. Use it when discussing films, premiere releases or the cinema.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Media planning · choosing a channel",
+          "sentence": "The campaign will launch on the big screen before expanding to streaming.",
+          "highlight": "big screen",
+          "tip": "Common when comparing cinema advertising with television or online media."
+        },
+        {
+          "setting": "social",
+          "where": "Chatting about the weekend",
+          "sentence": "We went to see the new thriller on the big screen last night.",
+          "highlight": "big screen",
+          "tip": "Often means going to a cinema rather than watching at home."
+        },
+        {
+          "setting": "writing",
+          "where": "Film review",
+          "sentence": "The performances are strong, but the story feels suited to the big screen.",
+          "highlight": "big screen",
+          "tip": "Useful for contrasting a film with a television production."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed as cinema became established as a major form of entertainment. It later became especially useful for distinguishing films and cinemas from the smaller television screen.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Early 1900s",
+            "text": "Cinema screens and the emerging film industry provided the basis for the expression."
+          },
+          {
+            "when": "1950s onward",
+            "text": "Television became widespread, making the contrast between the big and small screens especially clear."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase still commonly refers to films, cinema releases and movie-focused promotion."
+          }
+        ]
+      },
+      "similar": [
+        "silver screen",
+        "cinema",
+        "the movies"
+      ],
+      "opposite": "small screen",
+      "pitfall": "It means the world of cinema or film, not simply any screen that happens to be physically large."
+    },
+    {
+      "id": "break-down",
+      "kind": "idiom",
+      "term": "break down",
+      "pos": "verb",
+      "register": "Common at work",
+      "meaning": "To stop working properly, lose control emotionally, or divide a subject into smaller parts.",
+      "nuance": "The context determines the meaning: a machine or system breaks down, a person breaks down emotionally, and a report breaks information down. The failure senses sound final or serious; the analysis sense is neutral.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Client presentation · technical failure",
+          "sentence": "The shared drive broke down just before the client presentation.",
+          "highlight": "broke down",
+          "tip": "Common for equipment, technology, and processes that stop functioning."
+        },
+        {
+          "setting": "social",
+          "where": "After difficult news · emotional reaction",
+          "sentence": "After hearing the news, she broke down and called her sister.",
+          "highlight": "broke down",
+          "tip": "Describes becoming unable to control your feelings or speak calmly."
+        },
+        {
+          "setting": "writing",
+          "where": "Research report · analysing results",
+          "sentence": "Researchers break down the results by age, income, and region.",
+          "highlight": "break down",
+          "tip": "Use this sense when dividing information into categories for clarity."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely developed from the literal idea of breaking something apart. Its meanings expanded to include mechanical failure, emotional collapse, and systematic analysis.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The word break, from brēcan, meant to fracture, separate, or destroy."
+          },
+          {
+            "when": "Later Middle English",
+            "text": "Break down likely first meant bringing something apart, often forcefully."
+          },
+          {
+            "when": "1800s–1900s",
+            "text": "The phrase came to describe machines failing and people becoming overwhelmed by emotion."
+          },
+          {
+            "when": "Today",
+            "text": "It can also mean dividing information or a subject into manageable parts."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "breakdown",
+          "label": "noun; a failure or a detailed analysis"
+        }
+      ],
+      "similar": [
+        "fall apart",
+        "come apart",
+        "give way"
+      ],
+      "pitfall": "Use two words for the verb, ‘break down’, but one word for the noun: ‘a system breakdown’."
+    },
+    {
+      "id": "cut-a-dash",
+      "kind": "idiom",
+      "term": "cut a dash",
+      "pos": "idiom",
+      "hint": "make a stylish impression",
+      "register": "Everyday",
+      "meaning": "To attract attention by behaving or appearing lively, stylish, or impressive.",
+      "nuance": "It suggests a confident, noticeable flourish. Use it for someone who looks impressive or adds energy to a situation, often in a lighthearted way.",
+      "literal": "Moving through the air with a striking, showy movement.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team celebration · announcing good news",
+          "sentence": "Priya cut a dash at the company party after the team won its award.",
+          "highlight": "cut a dash",
+          "tip": "Often suggests someone stands out through style, confidence, or lively behaviour."
+        },
+        {
+          "setting": "social",
+          "where": "Wedding reception · meeting new guests",
+          "sentence": "Sam always cuts a dash at parties, wearing bright colours and telling everyone a joke.",
+          "highlight": "cuts a dash",
+          "tip": "The phrase can be affectionate, but it may imply that someone is trying to attract attention."
+        },
+        {
+          "setting": "writing",
+          "where": "Fashion review · describing a model",
+          "sentence": "The model cut a dash on the runway in a sparkling silver suit.",
+          "highlight": "cut a dash",
+          "tip": "Especially natural when describing someone who looks striking or enters a scene with flair."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely comes from the idea of making a bold movement or creating a striking impression. Its earliest precise origin is not certain, but it was in use by the 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Early uses connect the expression with making a showy or impressive movement."
+          },
+          {
+            "when": "Later 1800s",
+            "text": "The phrase becomes established for lively or stylish behaviour that attracts notice."
+          },
+          {
+            "when": "Today",
+            "text": "Means making a memorable, confident, or stylish impression."
+          }
+        ]
+      },
+      "similar": [
+        "make an impression",
+        "turn heads",
+        "make a splash"
+      ],
+      "opposite": "blend in",
+      "pitfall": "It usually describes a noticeable performance or stylish appearance, not simply doing something quickly."
+    },
+    {
+      "id": "cut-someone-some-slack",
+      "kind": "idiom",
+      "term": "cut someone some slack",
+      "pos": "idiom",
+      "hint": "be a little less strict",
+      "register": "Casual",
+      "meaning": "To treat someone with less criticism, pressure, or strictness than usual.",
+      "nuance": "It suggests making an exception because someone has made a mistake, missed a deadline, or faced a difficult situation. It is friendly and informal rather than solemn.",
+      "literal": "Giving someone a little extra length of rope so they have more room to move.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team debrief · a missed deadline",
+          "sentence": "Cut me some slack on the report; I was dealing with a system outage all week.",
+          "highlight": "Cut me some slack",
+          "tip": "Common but informal; sound less harsh if you say ‘please’."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up · a late arrival",
+          "sentence": "Cut me some slack, I took the wrong train and couldn’t call you sooner.",
+          "highlight": "Cut me some slack",
+          "tip": "Often used playfully among friends."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal team message · missed target",
+          "sentence": "Let’s cut the team some slack this month because the supplier delayed the materials.",
+          "highlight": "cut the team some slack",
+          "tip": "Less common in formal reports, where ‘be lenient with’ may fit better."
+        }
+      ],
+      "origin": {
+        "summary": "The expression likely developed from the idea of slack, meaning extra space or leeway. Its exact first use is difficult to trace, so the origin should be treated cautiously.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "In work and daily life, ‘slack’ came to mean spare time, room to move, or a margin for error."
+          },
+          {
+            "when": "20th century",
+            "text": "The wording appears in informal speech as a request for leniency or fewer demands."
+          },
+          {
+            "when": "Today",
+            "text": "It means easing pressure on someone or accepting a small mistake or shortfall."
+          }
+        ]
+      },
+      "similar": [
+        "give someone a break",
+        "go easy on someone",
+        "let someone off the hook"
+      ],
+      "opposite": "crack down on someone",
+      "pitfall": "The object of ‘cut’ changes with the speaker: ‘cut me some slack’, ‘cut him some slack’, or ‘cut the team some slack’."
+    },
+    {
+      "id": "daily-grind",
+      "kind": "idiom",
+      "term": "daily grind",
+      "pos": "noun phrase",
+      "hint": "the same tiring routine",
+      "register": "Everyday",
+      "meaning": "The repetitive, often dull tasks that fill someone’s ordinary routine.",
+      "nuance": "It emphasizes routine work that feels tiring or monotonous rather than a short-term challenge. It can sound sympathetic, frustrated, or simply descriptive.",
+      "literal": "Grinding the same material every day.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · workload",
+          "sentence": "Copying data between spreadsheets has become a daily grind for the finance team.",
+          "highlight": "daily grind",
+          "tip": "Useful for describing repetitive tasks that slowly wear people down."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with a friend",
+          "sentence": "I needed a week away from my phone and the daily grind of city life.",
+          "highlight": "daily grind",
+          "tip": "Often describes commuting, office work, or household routines."
+        },
+        {
+          "setting": "writing",
+          "where": "Personal blog · work-life balance",
+          "sentence": "Simple routines helped me escape the daily grind without changing my job.",
+          "highlight": "daily grind",
+          "tip": "Common in informal articles about motivation, rest, and work."
+        }
+      ],
+      "origin": {
+        "summary": "The figurative use of “grind” for tedious or exhausting work was established during the 1800s, and “daily grind” was recorded as a set phrase by the end of that century.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Writers use “grind” for monotonous work that leaves someone tired or worn down."
+          },
+          {
+            "when": "Late 1800s",
+            "text": "“Daily grind” appears in records as a name for the repeating routine of everyday work."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly refers to repetitive work, commutes, or other tiring everyday demands."
+          }
+        ]
+      },
+      "similar": [
+        "the rat race",
+        "drudgery",
+        "routine",
+        "the daily routine"
+      ],
+      "opposite": "an exciting break",
+      "pitfall": "It usually emphasizes dull repetition, not just having a busy schedule."
+    },
+    {
+      "id": "day-in-day-out",
+      "kind": "idiom",
+      "term": "day in, day out",
+      "pos": "idiom",
+      "hint": "every single day",
+      "register": "Common at work",
+      "meaning": "To happen repeatedly as part of an everyday routine.",
+      "nuance": "It emphasizes the regular, continuing nature of an activity. It can sound neutral, but sometimes suggests tiresome repetition.",
+      "literal": "One day after another, continuing throughout.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Daily operations · repetitive work",
+          "sentence": "She monitors the production system day in, day out.",
+          "highlight": "day in, day out",
+          "tip": "Use it for a routine that happens every day."
+        },
+        {
+          "setting": "social",
+          "where": "Chatting about training",
+          "sentence": "I go to the gym day in, day out, though weekends are usually for recovery.",
+          "highlight": "day in, day out",
+          "tip": "Often adds a sense of steady persistence."
+        },
+        {
+          "setting": "writing",
+          "where": "Workplace report · routine duties",
+          "sentence": "The role involves checking customer requests day in, day out.",
+          "highlight": "day in, day out",
+          "tip": "Natural in descriptions of routine or repetitive duties."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from a plain repetition of “day,” emphasizing something that happens from one day to the next.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Similar wording appears in writing describing regular, day-by-day activity."
+          },
+          {
+            "when": "1900s",
+            "text": "The expression becomes established in its familiar repetitive sense."
+          },
+          {
+            "when": "Today",
+            "text": "It describes anything performed regularly as part of everyday life."
+          }
+        ]
+      },
+      "similar": [
+        "every day",
+        "day after day",
+        "round the clock"
+      ],
+      "opposite": "once in a while",
+      "pitfall": "Use it for repeated activity, not for one unusually long day."
+    },
+    {
+      "id": "dead-on",
+      "kind": "idiom",
+      "term": "dead on",
+      "pos": "idiom",
+      "hint": "exactly right",
+      "register": "Everyday",
+      "meaning": "Completely accurate, precise, or exactly on target.",
+      "nuance": "Informal and direct, often used to confirm a guess or judgment. It can also mean exactly on time, depending on the context.",
+      "literal": "Directly on the target, with no error.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · checking a forecast",
+          "sentence": "Your estimate was dead on, so we can use the same budget for next quarter.",
+          "highlight": "dead on",
+          "tip": "Common when confirming that a prediction or calculation was precisely right."
+        },
+        {
+          "setting": "social",
+          "where": "Guessing a friend’s age",
+          "sentence": "You were dead on about how long I’d been learning guitar.",
+          "highlight": "dead on",
+          "tip": "A friendly way to say that someone guessed exactly."
+        },
+        {
+          "setting": "writing",
+          "where": "Reviewing a report",
+          "sentence": "Her summary was dead on and captured the main issue in three sentences.",
+          "highlight": "dead on",
+          "tip": "Slightly informal, so it suits reviews, messages, and conversational reports."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is unclear. The phrase likely combines “dead,” meaning exact or complete, with an older sense of “on” meaning on target.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "“Dead” was already used for an exact amount, as in “dead centre.”"
+          },
+          {
+            "when": "Later 1800s",
+            "text": "Expressions combining “dead” with “on” began to convey exactness, including the idea of hitting a target."
+          },
+          {
+            "when": "Today",
+            "text": "“Dead on” means exactly accurate or, in some contexts, exactly on time."
+          }
+        ]
+      },
+      "similar": [
+        "spot on",
+        "exactly right",
+        "right on target"
+      ],
+      "opposite": "way off",
+      "pitfall": "In a statement about timing, “dead on” means exactly on time rather than completely accurate."
+    },
+    {
+      "id": "death-and-taxes",
+      "kind": "idiom",
+      "term": "death and taxes",
+      "pos": "idiom",
+      "hint": "two things nobody escapes",
+      "register": "Common at work and in writing",
+      "meaning": "Used for the few things in life that everyone must eventually face and pay for.",
+      "nuance": "The phrase has a dry, matter-of-fact tone. It is often used when discussing unavoidable costs, responsibilities or unpleasant financial obligations.",
+      "literal": "Dying and paying taxes as unavoidable facts of life.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Budget planning · unavoidable costs",
+          "sentence": "Server maintenance may be optional, but security upgrades are death and taxes for any growing company.",
+          "highlight": "death and taxes",
+          "tip": "Often used for recurring responsibilities that cannot realistically be avoided."
+        },
+        {
+          "setting": "social",
+          "where": "Complaining about the tax bill",
+          "sentence": "We can protest the council tax, but death and taxes are the price of living here.",
+          "highlight": "death and taxes",
+          "tip": "Adds a wry or resigned joke to a serious complaint."
+        },
+        {
+          "setting": "writing",
+          "where": "Business commentary · rising costs",
+          "sentence": "Compliance fees and insurance premiums have become death and taxes for small retailers.",
+          "highlight": "death and taxes",
+          "tip": "Common in reports and opinion writing about unavoidable expenses."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase pairs two long-standing certainties: everyone dies and, in modern societies, everyone pays some form of tax. No single origin is documented, though it is often linked to the idea that death and taxes are the only reliable facts of life.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Governments had taxed people for centuries, while death was a familiar certainty in religious and legal writing."
+          },
+          {
+            "when": "1700s–1800s",
+            "text": "Writers began pairing death with taxes as two inescapable features of life."
+          },
+          {
+            "when": "Today",
+            "text": "The expression commonly means unavoidable obligations, especially unavoidable costs."
+          }
+        ]
+      },
+      "similar": [
+        "a matter of life and death",
+        "the inevitable",
+        "the unavoidable"
+      ],
+      "pitfall": "In business writing, “death and taxes” usually means a costly unavoidable obligation, not that every company must literally pay tax immediately."
+    },
+    {
+      "id": "dial-down",
+      "kind": "idiom",
+      "term": "dial down",
+      "pos": "verb",
+      "hint": "turn the intensity lower",
+      "register": "Common at work and in everyday conversation",
+      "meaning": "To reduce the intensity, effort, volume, or detail of something.",
+      "nuance": "It suggests making something less forceful or demanding without stopping it altogether. It often fits situations involving pressure, conflict, noise, effort, or excessive detail.",
+      "literal": "Turning a control dial toward a lower setting.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project planning · reducing scope",
+          "sentence": "Let’s dial down the scope so we can finish the main features on time.",
+          "highlight": "dial down",
+          "tip": "Often used when a plan, workload, or level of effort is too ambitious."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · easing tension",
+          "sentence": "I’m irritated, but I’ll dial down my tone before replying.",
+          "highlight": "dial down",
+          "tip": "Natural when someone is angry, excited, or speaking too loudly."
+        },
+        {
+          "setting": "writing",
+          "where": "Editing · tightening an article",
+          "sentence": "You could dial down the criticism and keep the feedback more useful.",
+          "highlight": "dial down",
+          "tip": "Common in editing when language feels too harsh, loud, or excessive."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely developed from the idea of turning a dial to a lower setting. Its exact first figurative use is not clearly documented, but modern senses commonly involve reducing intensity or pressure.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Physical dials allow people to adjust settings, including telephone controls and radio dials."
+          },
+          {
+            "when": "Later",
+            "text": "The verb began to mean adjusting a dial and then adjusting intensity or volume."
+          },
+          {
+            "when": "Today",
+            "text": "It means reducing pressure, effort, detail, noise, or emotional force."
+          }
+        ]
+      },
+      "similar": [
+        "scale back",
+        "tone down",
+        "ease off",
+        "turn down"
+      ],
+      "opposite": "dial up",
+      "pitfall": "Use it for reducing something that continues, not for stopping it completely."
+    },
+    {
+      "id": "die-out",
+      "kind": "idiom",
+      "term": "die out",
+      "pos": "idiom",
+      "hint": "stop existing completely",
+      "register": "Common at work",
+      "meaning": "To disappear gradually until it no longer exists.",
+      "nuance": "It often describes a practice, tradition, species or trend becoming uncommon and then vanishing. The gradual process is important: something is fading, not simply stopping immediately.",
+      "literal": "To become extinct or disappear completely.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · legacy systems",
+          "sentence": "The old approval process died out once we introduced the new workflow.",
+          "highlight": "died out",
+          "tip": "Use it for something that gradually disappears from regular use."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · old customs",
+          "sentence": "Our neighbourhood tradition of evening walks eventually died out.",
+          "highlight": "died out",
+          "tip": "Often used for habits, customs and traditions that people stop practising."
+        },
+        {
+          "setting": "writing",
+          "where": "Nature report · endangered species",
+          "sentence": "The species could die out if its natural habitat continues to shrink.",
+          "highlight": "die out",
+          "tip": "Common in writing about animals, plants, languages and endangered traditions."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the ordinary meaning of something becoming extinct, combined with the idea of it disappearing over time. Its figurative use is well established, though the exact first figurative example is difficult to pin down.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1700s",
+            "text": "The verb 'die' was already used for the extinction of living things."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers began using 'die out' for things that gradually disappeared."
+          },
+          {
+            "when": "Today",
+            "text": "It describes any gradual disappearance, from species to old-fashioned habits."
+          }
+        ]
+      },
+      "similar": [
+        "fade away",
+        "become extinct",
+        "wither away"
+      ],
+      "opposite": "take root",
+      "pitfall": "Use it for a gradual disappearance, not for one event that stops immediately."
+    },
+    {
+      "id": "drop-in",
+      "kind": "idiom",
+      "term": "drop in",
+      "pos": "idiom",
+      "hint": "make a brief, unplanned visit",
+      "register": "Everyday",
+      "meaning": "To visit someone briefly, usually without arranging a time in advance.",
+      "nuance": "It sounds friendly and casual, suggesting a short visit rather than a formal meeting. You can also say it to mean someone arrives unexpectedly.",
+      "literal": "To enter a place quickly by dropping down into it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office · a quick update",
+          "sentence": "Drop in after lunch and we can review the proposal.",
+          "highlight": "Drop in",
+          "tip": "Useful for a brief visit to a colleague’s desk or office."
+        },
+        {
+          "setting": "social",
+          "where": "At a friend’s home · passing by",
+          "sentence": "We’re just dropping in to say hello while we’re in the neighbourhood.",
+          "highlight": "dropping in",
+          "tip": "Often used when the visit is short and informal."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · inviting a visitor",
+          "sentence": "Feel free to drop in any time if you need a quiet place to work.",
+          "highlight": "drop in",
+          "tip": "The tone is welcoming, but a specific time may be better for a longer meeting."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the literal image of something falling or entering into a place. Its figurative use for a brief, informal visit was established by the 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People used ‘drop in’ for physically falling or entering a place."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase began to appear in the sense of making a brief or informal visit."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly means visiting someone briefly or arriving unexpectedly."
+          }
+        ]
+      },
+      "similar": [
+        "stop by",
+        "call by",
+        "come by",
+        "pop in"
+      ],
+      "pitfall": "Do not confuse it with ‘drop off’, which means to deliver someone or something to a destination."
+    },
+    {
+      "id": "drop-off",
+      "kind": "idiom",
+      "term": "drop off",
+      "pos": "verb",
+      "hint": "make a brief delivery or leave something behind",
+      "register": "Everyday",
+      "meaning": "To briefly deliver or leave someone or something, or to decrease gradually.",
+      "nuance": "The phrase often describes a quick, temporary stop or delivery. It can also mean falling asleep or becoming less active over time.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office · delivering a package",
+          "sentence": "I can drop off the signed contract before my next meeting.",
+          "highlight": "drop off",
+          "tip": "Common for a quick delivery with no planned meeting."
+        },
+        {
+          "setting": "social",
+          "where": "Car ride · heading home",
+          "sentence": "I can drop off at your place if you need a ride.",
+          "highlight": "drop off",
+          "tip": "Means leaving you at your destination without staying."
+        },
+        {
+          "setting": "writing",
+          "where": "Audience research · tracking interest",
+          "sentence": "Engagement dropped off sharply after the campaign ended.",
+          "highlight": "dropped off",
+          "tip": "Here it describes a gradual decline in activity or attention."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines the older verb drop with off. Its sense of setting something down or moving away from a place developed before its modern uses for brief deliveries and gradual declines.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Before 1700s",
+            "text": "Drop is already established as a word for letting something fall or making something smaller."
+          },
+          {
+            "when": "1700s–1800s",
+            "text": "Drop off appears in writing for setting something down and moving away from a place."
+          },
+          {
+            "when": "Today",
+            "text": "It covers quick deliveries, brief departures, falling asleep and gradual declines."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "drop-off",
+          "label": "noun: a brief delivery or stop"
+        }
+      ],
+      "similar": [
+        "drop by",
+        "drop someone off",
+        "fall off",
+        "take off"
+      ],
+      "pitfall": "Do not confuse it with drop out, which means to stop taking part."
+    },
+    {
+      "id": "dry-out",
+      "kind": "idiom",
+      "term": "dry out",
+      "pos": "phrase",
+      "hint": "become dry, or lose moisture",
+      "register": "Everyday",
+      "meaning": "To lose moisture and become dry, or to become less lively or enthusiastic.",
+      "nuance": "It can describe a physical object or place losing water, or people becoming noticeably quieter or less energetic. The figurative use is common but often slightly informal.",
+      "literal": "To become dry by losing moisture.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office maintenance · repairing equipment",
+          "sentence": "The filters dried out, so the machine stopped working properly.",
+          "highlight": "dried out",
+          "tip": "Use it for equipment, soil, or materials that have lost their moisture."
+        },
+        {
+          "setting": "social",
+          "where": "Camping trip · after a fire",
+          "sentence": "Our firewood dried out quickly because we left it outside.",
+          "highlight": "dried out",
+          "tip": "A simple, natural way to describe something becoming completely dry."
+        },
+        {
+          "setting": "writing",
+          "where": "Weather report · drought conditions",
+          "sentence": "Several small farms dried out before the autumn rains arrived.",
+          "highlight": "dried out",
+          "tip": "Often used in reporting on drought, heat, or water shortages."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines the old word ‘dry’ with the older sense of ‘out’, meaning completely or excessively. Its use for losing moisture is well established; the figurative sense developed later.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "‘Dry’ and ‘out’ were both used in English to describe a lack of moisture."
+          },
+          {
+            "when": "1700s–1800s",
+            "text": "The combined phrase appears in writing describing things becoming dry or parched."
+          },
+          {
+            "when": "Today",
+            "text": "It also means becoming less lively, enthusiastic, or emotionally engaged."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "dry",
+          "label": "adjective"
+        },
+        {
+          "term": "dryness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "dry off",
+        "parched",
+        "wither"
+      ],
+      "opposite": "moisten",
+      "pitfall": "‘Dry out’ is not the same as ‘dry off’, which usually means to dry your skin or body after being wet."
+    },
+    {
+      "id": "eagle-eye",
+      "kind": "idiom",
+      "term": "eagle eye",
+      "pos": "idiom",
+      "hint": "very sharp observation",
+      "register": "Common at work",
+      "meaning": "Someone’s exceptional ability to notice small details, mistakes, or important changes.",
+      "nuance": "It suggests intense, careful observation, often combined with quick judgement. It is usually approving but can imply suspiciously close scrutiny.",
+      "literal": "The famously sharp eyesight of an eagle.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Quality review · spotting defects",
+          "sentence": "Priya has an eagle eye for spotting tiny errors before the report goes to the client.",
+          "highlight": "eagle eye",
+          "tip": "Often used with “for” when naming what someone notices."
+        },
+        {
+          "setting": "social",
+          "where": "Party · noticing who has arrived",
+          "sentence": "With an eagle eye, Sam noticed that his drink had been moved.",
+          "highlight": "eagle eye",
+          "tip": "In social talk, it can sound playful or slightly suspicious."
+        },
+        {
+          "setting": "writing",
+          "where": "Business report · monitoring risks",
+          "sentence": "The compliance team keeps an eagle eye on unusual account activity.",
+          "highlight": "eagle eye",
+          "tip": "Useful for describing close, continuous supervision."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase relies on the eagle’s famous visual sharpness. Its figurative use is well documented from the 19th century, and it is linked to an earlier expression about having an eye like an eagle.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English writers compared exceptionally keen eyesight with an eagle’s."
+          },
+          {
+            "when": "1800s",
+            "text": "The phrase appears in print in the sense of exceptional observation or attention."
+          },
+          {
+            "when": "Today",
+            "text": "It describes someone who notices small details and important changes."
+          }
+        ]
+      },
+      "similar": [
+        "sharp eye",
+        "keen eye",
+        "eye like a hawk"
+      ],
+      "opposite": "",
+      "pitfall": "Use “an eagle eye,” not “eagle’s eye,” in this idiom."
+    },
+    {
+      "id": "everything-and-the-kitchen-sink",
+      "kind": "idiom",
+      "term": "everything and the kitchen sink",
+      "pos": "idiom",
+      "hint": "every possible thing",
+      "register": "Casual",
+      "meaning": "A huge range of things, including every possible extra or detail.",
+      "nuance": "It suggests an exaggerated amount, often with a mildly critical or humorous edge. It fits informal conversations more readily than formal writing.",
+      "literal": "The kitchen sink filled with every available utensil and object.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning · overloaded checklist",
+          "sentence": "The workshop included badges, handouts, lunch, Wi-Fi, and everything and the kitchen sink.",
+          "highlight": "everything and the kitchen sink",
+          "tip": "Useful when saying a plan or event has become unnecessarily elaborate."
+        },
+        {
+          "setting": "social",
+          "where": "Camping · packing list",
+          "sentence": "For three nights, we brought everything and the kitchen sink, including a camping sink.",
+          "highlight": "everything and the kitchen sink",
+          "tip": "Often adds gentle humour to a complaint about overpacking."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · trying a new restaurant",
+          "sentence": "The tasting menu came with everything and the kitchen sink, from tiny pastries to a full dessert course.",
+          "highlight": "everything and the kitchen sink",
+          "tip": "Keep it in informal reviews and informal emails rather than formal reports."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely comes from the image of a kitchen sink crowded with everything imaginable. It appears in English during the early twentieth century, but the exact first use is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1900s",
+            "text": "Early written versions begin appearing, referring to a large or excessive collection of things."
+          },
+          {
+            "when": "1920s",
+            "text": "The expression becomes established in its familiar figurative sense."
+          },
+          {
+            "when": "Today",
+            "text": "It means an unexpectedly large range of items, options or extras."
+          }
+        ]
+      },
+      "similar": [
+        "the whole nine yards",
+        "every trick in the book",
+        "the full kit and caboodle"
+      ],
+      "pitfall": "It is an exaggeration, not a precise description; avoid using it when you genuinely mean every item."
+    },
+    {
+      "id": "everything-but-the-kitchen-sink",
+      "kind": "idiom",
+      "term": "everything but the kitchen sink",
+      "pos": "idiom",
+      "hint": "far more than you needed",
+      "register": "Everyday",
+      "meaning": "Every possible thing, or an excessively large amount of something.",
+      "nuance": "It often adds a slightly humorous or complaining tone, especially when someone feels overwhelmed by extra tasks, belongings, options, or problems.",
+      "literal": "Every object in the kitchen except the kitchen sink.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning · a packed project launch",
+          "sentence": "The launch plan included everything but the kitchen sink, and the team barely had time to review it.",
+          "highlight": "everything but the kitchen sink",
+          "tip": "Useful when describing excessive preparation or features."
+        },
+        {
+          "setting": "social",
+          "where": "Moving apartments · unpacking boxes",
+          "sentence": "We brought everything but the kitchen sink to our new flat, including three camping chairs.",
+          "highlight": "everything but the kitchen sink",
+          "tip": "Often sounds playful when describing a large pile of possessions."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel review · a chaotic holiday",
+          "sentence": "The resort offered everything but the kitchen sink, but the queues made the whole experience exhausting.",
+          "highlight": "everything but the kitchen sink",
+          "tip": "A vivid way to suggest an overwhelming choice of amenities or activities."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is probably based on the idea of emptying an entire kitchen while leaving the heavy sink behind. Its exact first appearance is not firmly documented, but it was in use by the early 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1900s",
+            "text": "Similar expressions meaning ‘every possible thing’ appear in English writing."
+          },
+          {
+            "when": "1900s–1910s",
+            "text": "The phrase appears in print in the form ‘everything but the kitchen sink.’"
+          },
+          {
+            "when": "Today",
+            "text": "Means an excessive amount of things, often with a humorous tone."
+          }
+        ]
+      },
+      "similar": [
+        "the whole nine yards",
+        "every trick in the book",
+        "no stone unturned"
+      ],
+      "pitfall": "Use it for excessive things or effort; it does not mean that literally everything was included."
+    },
+    {
+      "id": "fade-out",
+      "kind": "idiom",
+      "term": "fade out",
+      "pos": "verb",
+      "hint": "gradually become less noticeable",
+      "register": "Common at work",
+      "meaning": "To become gradually less visible, audible, noticeable, or relevant.",
+      "nuance": "It suggests a gradual disappearance rather than a sudden stop. It can describe images, sounds, conversations, activities, or someone’s presence.",
+      "literal": "An image, signal, or sound gradually becoming faint until it disappears.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project wrap-up · support ends",
+          "sentence": "Our weekly support meetings faded out after the new team took over.",
+          "highlight": "faded out",
+          "tip": "Often describes something that gradually becomes less active or important."
+        },
+        {
+          "setting": "social",
+          "where": "Party · quiet departure",
+          "sentence": "We kept talking until the music faded out and everyone headed home.",
+          "highlight": "faded out",
+          "tip": "Common for light, sound, conversation, or a group gradually dispersing."
+        },
+        {
+          "setting": "writing",
+          "where": "Film review · closing scene",
+          "sentence": "The old radio in the corner slowly fades out as the scene changes.",
+          "highlight": "fades out",
+          "tip": "A useful descriptive phrase for sound, images, attention, or even a person’s influence."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines the older word “fade,” meaning to lose brightness or intensity gradually, with the particle “out.” It was adopted for fading signals and images, then extended to people, sounds, and abstract things that disappear gradually.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1700s–1800s",
+            "text": "“Fade” is established for light, color, and sound becoming progressively weaker."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "“Fade out” becomes common in film, photography, radio, and signal-related language."
+          },
+          {
+            "when": "Today",
+            "text": "It describes anything that gradually loses visibility, attention, activity, or relevance."
+          }
+        ]
+      },
+      "similar": [
+        "fade away",
+        "peter out",
+        "dwindle",
+        "trail off"
+      ],
+      "opposite": "fade in",
+      "pitfall": "Use “fade away” for a person leaving or disappearing in a more emotional or indefinite sense; “fade out” often suggests a gradual loss of visibility, activity, or relevance."
+    },
+    {
+      "id": "fall-apart",
+      "kind": "idiom",
+      "term": "fall apart",
+      "pos": "idiom",
+      "hint": "stop working or holding together",
+      "register": "Everyday",
+      "meaning": "To break into pieces, stop working properly, or become emotionally overwhelmed.",
+      "nuance": "The phrase can describe a physical object, a system, or someone’s emotional state. It often suggests a gradual collapse rather than a single sudden failure.",
+      "literal": "Separate into separate pieces.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · reporting a system failure",
+          "sentence": "The reporting system started falling apart after the latest update.",
+          "highlight": "falling apart",
+          "tip": "Common for equipment, processes, or systems that are deteriorating."
+        },
+        {
+          "setting": "social",
+          "where": "After a difficult family day",
+          "sentence": "She fell apart after the argument and went upstairs to be alone.",
+          "highlight": "fell apart",
+          "tip": "Can describe someone breaking down emotionally."
+        },
+        {
+          "setting": "writing",
+          "where": "Home repair advice",
+          "sentence": "The old fence is beginning to fall apart and needs replacing.",
+          "highlight": "fall apart",
+          "tip": "A natural choice when describing visible, physical deterioration."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from the literal idea of something separating into pieces. Its figurative use for systems and people was established during the 1800s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The basic meaning refers to something physically coming apart."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers began using the phrase for machines, organisations, and plans that were breaking down."
+          },
+          {
+            "when": "Today",
+            "text": "It also describes a person becoming overwhelmed by stress or emotion."
+          }
+        ]
+      },
+      "similar": [
+        "break down",
+        "come apart",
+        "fall to pieces"
+      ],
+      "opposite": "hold together",
+      "pitfall": "For emotional distress, “fall apart” usually needs a subject: “She fell apart.” Avoid “fall herself apart.”"
+    }
+  ]
+}

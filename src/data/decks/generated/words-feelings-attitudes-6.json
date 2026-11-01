@@ -1,0 +1,418 @@
+{
+  "id": "words-feelings-attitudes-6",
+  "kind": "word",
+  "name": "Feelings & attitudes · 6",
+  "blurb": "6 words about feelings & attitudes",
+  "cards": [
+    {
+      "id": "tremulous",
+      "kind": "word",
+      "term": "tremulous",
+      "pos": "adjective",
+      "phonetic": "/ˈtrɛmjələs/",
+      "sayIt": "TRE-myuh-lus",
+      "register": "Formal",
+      "meaning": "Shaking slightly, often because of fear, excitement, weakness, or uncertainty.",
+      "nuance": "It describes a visible or noticeable quivering, and can also suggest a nervous or hesitant manner. It sounds more literary than “shaky” or “nervous.”",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Presentation · answering a difficult question",
+          "sentence": "She became tremulous when the director challenged her evidence.",
+          "highlight": "tremulous",
+          "tip": "Use it when the person’s physical nervousness is central to the moment."
+        },
+        {
+          "setting": "social",
+          "where": "Meeting someone important · trying to speak calmly",
+          "sentence": "He was too tremulous to deliver the message without pausing.",
+          "highlight": "tremulous",
+          "tip": "It can sound emotionally heightened, so use it carefully in casual conversation."
+        },
+        {
+          "setting": "writing",
+          "where": "Story description · a character receives bad news",
+          "sentence": "With a tremulous voice, she read the final line twice.",
+          "highlight": "tremulous",
+          "tip": "A tremulous voice suggests fear, uncertainty, or strong emotion rather than an ordinary speaking style."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin tremulus, meaning ‘shaking’ or ‘trembling’, related to tremere, ‘to tremble’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Tremulus, ‘shaking’ or ‘trembling’, develops from tremere, ‘to shake’."
+          },
+          {
+            "when": "1500s–1600s",
+            "text": "The word enters English in formal descriptions of shaking or trembling."
+          },
+          {
+            "when": "Today",
+            "text": "It is used especially for a nervous, visibly unsteady manner or voice."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "tremulously",
+          "label": "adverb"
+        },
+        {
+          "term": "tremulousness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "shaky",
+        "nervous",
+        "hesitant",
+        "unsteady",
+        "quivering"
+      ],
+      "opposite": "steady",
+      "pitfall": "Don’t use it for every slight movement; it usually suggests noticeable fear, emotion, or weakness."
+    },
+    {
+      "id": "umbrage",
+      "kind": "word",
+      "term": "umbrage",
+      "pos": "noun",
+      "phonetic": "/ˈʌmbrɪdʒ/",
+      "sayIt": "UM-brij",
+      "register": "Formal",
+      "meaning": "A feeling of offence or resentment, often caused by something that seems unfair or disrespectful.",
+      "nuance": "It often suggests someone is offended by a minor or imagined slight. The usual phrase is “take umbrage at,” and it can sound formal or slightly old-fashioned.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · unclear feedback",
+          "sentence": "She took umbrage at the comment, even though it was meant as a practical suggestion.",
+          "highlight": "took umbrage",
+          "tip": "Use it when describing an unusually strong reaction to criticism or a perceived slight."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · an awkward remark",
+          "sentence": "He took umbrage when his friend joked about his accent.",
+          "highlight": "took umbrage",
+          "tip": "It fits social stories where someone feels personally dismissed or insulted."
+        },
+        {
+          "setting": "writing",
+          "where": "Formal email · responding to criticism",
+          "sentence": "The committee took umbrage at our proposal without explaining its concerns.",
+          "highlight": "took umbrage",
+          "tip": "This formal wording can describe an offended reaction without naming the emotion directly."
+        }
+      ],
+      "origin": {
+        "summary": "Umbrage developed from the French word ombrage, meaning “shade,” and the Latin umbra, meaning “shadow.” It originally referred to the shade of a tree before gaining its modern sense of taking offence.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Umbra means “shadow” and was also associated with shelter or shade."
+          },
+          {
+            "when": "1500s",
+            "text": "The French word ombrage, meaning “shade,” enters English as umbrage."
+          },
+          {
+            "when": "1700s",
+            "text": "The sense expands to include a feeling of suspicion or offence."
+          },
+          {
+            "when": "Today",
+            "text": "It is mainly used in the expression “take umbrage at.”"
+          }
+        ]
+      },
+      "similar": [
+        "indignation",
+        "resentment",
+        "offence",
+        "displeasure"
+      ],
+      "opposite": "tolerance",
+      "pitfall": "In modern English, umbrage usually means felt offence, not the shadow or shade from which the word originally developed."
+    },
+    {
+      "id": "voracious",
+      "kind": "word",
+      "term": "voracious",
+      "pos": "adjective",
+      "phonetic": "/vəˈreɪʃəs/",
+      "sayIt": "vuh-RAY-shuss",
+      "register": "Common at work",
+      "meaning": "Eagerly consuming something in large amounts, especially food, or showing an intense appetite for something such as knowledge.",
+      "nuance": "It suggests a strong, almost unstoppable appetite. It can be complimentary for someone keen to learn, but negative when it describes greed or excessive consumption.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · sharing research",
+          "sentence": "She had a voracious appetite for market data and had already read every report on the competitor.",
+          "highlight": "voracious",
+          "tip": "Use it for a noticeably intense appetite, not ordinary hunger."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · serving food",
+          "sentence": "The children were voracious, and the serving bowls were empty within minutes.",
+          "highlight": "voracious",
+          "tip": "It adds a vivid sense of eagerness and enthusiasm to the description."
+        },
+        {
+          "setting": "writing",
+          "where": "Review · describing a reader",
+          "sentence": "With a voracious interest in history, he collects books on nearly every period he discovers.",
+          "highlight": "voracious",
+          "tip": "Often appears before an interest in learning, reading or collecting."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin vorax, meaning ‘devouring’ or ‘greedy’, which comes from vorare, ‘to devour’.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Latin",
+            "text": "Voracius develops from vorax, ‘devouring’, and vorare, ‘to devour’."
+          },
+          {
+            "when": "1600s",
+            "text": "The word enters English in its sense of eagerly eating or consuming."
+          },
+          {
+            "when": "Later",
+            "text": "Its use broadens to describe an intense appetite for knowledge, reading or collecting."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "voracity",
+          "label": "noun"
+        },
+        {
+          "term": "voraciously",
+          "label": "adverb"
+        }
+      ],
+      "similar": [
+        "ravenous",
+        "insatiable",
+        "hungry",
+        "greedy"
+      ],
+      "opposite": "satiated",
+      "pitfall": "Voracious is stronger than hungry and can sound critical when applied to a person’s behaviour."
+    },
+    {
+      "id": "wistful",
+      "kind": "word",
+      "term": "wistful",
+      "pos": "adjective",
+      "phonetic": "/ˈwɪstfəl/",
+      "sayIt": "WISS-ful",
+      "register": "Everyday, often literary",
+      "meaning": "Feeling a gentle sadness because you want something or someone you cannot have.",
+      "nuance": "It suggests quiet longing rather than deep grief or anger. It often sounds thoughtful or nostalgic, especially in stories, poems and personal writing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Colleague leaving · farewell message",
+          "sentence": "We were wistful about the old team, but we’re excited to see what the new structure brings.",
+          "highlight": "wistful",
+          "tip": "Use it for a warm, slightly sad feeling about a change that cannot be undone."
+        },
+        {
+          "setting": "social",
+          "where": "Reunion · remembering shared times",
+          "sentence": "She looked wistful when she mentioned the little café where they used to meet every Saturday.",
+          "highlight": "wistful",
+          "tip": "This captures a tender longing for the past without making the mood overly dramatic."
+        },
+        {
+          "setting": "writing",
+          "where": "Short story · describing a missed opportunity",
+          "sentence": "He gave the unopened letter a wistful smile, knowing it was too late to make things different.",
+          "highlight": "wistful",
+          "tip": "Pair it with expressions such as a wistful smile or a wistful look for a lyrical tone."
+        }
+      ],
+      "origin": {
+        "summary": "Built from the older word wist, meaning knowledge or awareness, plus the suffix -ful. Its sense developed through ideas of conscious or thoughtful feeling before settling into gentle longing.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Before 1500s",
+            "text": "The related word wist meant knowledge, cleverness or awareness."
+          },
+          {
+            "when": "1500s–1700s",
+            "text": "Wistful appears in English with meanings connected to being aware, thoughtful or expressive."
+          },
+          {
+            "when": "1700s onward",
+            "text": "It develops its modern sense of tender sadness or longing for something absent."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "wistfully",
+          "label": "adverb"
+        },
+        {
+          "term": "wistfulness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "yearning",
+        "nostalgic",
+        "longing",
+        "melancholy",
+        "sentimental"
+      ],
+      "opposite": "elated",
+      "pitfall": "Wistful is usually a gentle, reflective mood; use melancholy or grief for a stronger sense of sadness."
+    },
+    {
+      "id": "yen",
+      "kind": "word",
+      "term": "yen",
+      "pos": "noun",
+      "phonetic": "/jɛn/",
+      "sayIt": "YEN",
+      "register": "Casual",
+      "meaning": "A strong, sudden desire for something.",
+      "nuance": "It sounds more intense than simply wanting something and is often used about food, shopping or spending money.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Coffee break · choosing lunch",
+          "sentence": "I’ve got a yen for noodles and tacos today.",
+          "highlight": "yen",
+          "tip": "Keep it light; a strong yen for something is usually a playful way to talk about a craving."
+        },
+        {
+          "setting": "social",
+          "where": "Weekend market · browsing stalls",
+          "sentence": "She had a yen for vintage clothes and bought a jacket she probably didn’t need.",
+          "highlight": "yen",
+          "tip": "Use it when describing an irresistible urge, especially to buy or eat something."
+        },
+        {
+          "setting": "writing",
+          "where": "Travel diary · recording local dishes",
+          "sentence": "By noon, I had a yen for something spicy and found a tiny noodle shop nearby.",
+          "highlight": "yen",
+          "tip": "It adds a vivid, informal tone to personal writing but is less suitable for formal reports."
+        }
+      ],
+      "origin": {
+        "summary": "The craving sense appears in Middle English. The separate currency meaning comes from Japanese yen, ultimately linked to the Chinese yuan.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Middle English",
+            "text": "The word appears in the sense of appetite, craving or strong desire."
+          },
+          {
+            "when": "Japanese",
+            "text": "Yen becomes the name of Japan’s currency unit, from 円, meaning circle and used as the symbol for the coin."
+          },
+          {
+            "when": "Late 19th century",
+            "text": "The currency meaning enters English, while the older craving sense remains in informal use."
+          }
+        ]
+      },
+      "similar": [
+        "craving",
+        "urge",
+        "desire",
+        "appetite"
+      ],
+      "opposite": "disinterest",
+      "pitfall": "Yen can also mean the Japanese currency. In expressions such as a yen for something, it means a strong desire, not money."
+    },
+    {
+      "id": "zealous",
+      "kind": "word",
+      "term": "zealous",
+      "pos": "adjective",
+      "phonetic": "/ˈzɛləs/",
+      "sayIt": "ZEL-us",
+      "register": "Common at work",
+      "meaning": "Showing great enthusiasm and determination in support of a cause, goal or person.",
+      "nuance": "Usually complimentary, especially when effort and commitment are genuine. It can sound slightly critical when the enthusiasm becomes excessive or overly forceful.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · launching a project",
+          "sentence": "The team was zealous about solving the customer problem before the deadline.",
+          "highlight": "zealous",
+          "tip": "Use it to praise strong commitment and eagerness."
+        },
+        {
+          "setting": "social",
+          "where": "Volunteer event · welcoming visitors",
+          "sentence": "She was zealous in showing every visitor around the community centre.",
+          "highlight": "zealous",
+          "tip": "Natural for enthusiastic, dedicated behaviour; avoid it if ordinary politeness is all you mean."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · acknowledging an effort",
+          "sentence": "His zealous support for the campaign earned him recognition from the whole team.",
+          "highlight": "zealous",
+          "tip": "Often appears before support, effort, advocacy or commitment."
+        }
+      ],
+      "origin": {
+        "summary": "From Latin zelosus, derived from Greek zēlos, meaning jealousy, eagerness or devotion. Its older sense could include an intense or even envious quality.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Greek",
+            "text": "Zēlos develops meanings connected with strong feeling, devotion and jealousy."
+          },
+          {
+            "when": "1500s",
+            "text": "The word enters English through Latin and French, initially describing intense enthusiasm or religious devotion."
+          },
+          {
+            "when": "Today",
+            "text": "It mainly means eagerly enthusiastic and committed to a cause."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "zeal",
+          "label": "noun"
+        },
+        {
+          "term": "zealously",
+          "label": "adverb"
+        },
+        {
+          "term": "zealousness",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "enthusiastic",
+        "passionate",
+        "devoted",
+        "eager"
+      ],
+      "opposite": "apathetic",
+      "pitfall": "Do not confuse zealous with jealous, which means resentful of someone else’s success or possessions."
+    }
+  ]
+}

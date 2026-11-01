@@ -1,0 +1,1483 @@
+{
+  "id": "phrases-reacting-1",
+  "kind": "phrase",
+  "name": "Reacting · 1",
+  "blurb": "25 phrases about reacting",
+  "cards": [
+    {
+      "id": "fraid-not",
+      "kind": "phrase",
+      "term": "'fraid not",
+      "pos": "phrase",
+      "hint": "an emphatic, willing yes",
+      "register": "Casual",
+      "meaning": "A quick way of saying that you will definitely do something or are happy to help.",
+      "nuance": "It sounds upbeat and confident, especially in response to a request. Depending on the tone, it can also suggest that helping is an obvious expectation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team request · taking on a task",
+          "sentence": "Can you handle the revised agenda? 'Fraid not, I'll send it by noon.",
+          "highlight": "'Fraid not",
+          "tip": "Use it when you are genuinely willing and can follow through quickly."
+        },
+        {
+          "setting": "social",
+          "where": "Party plans · volunteering to bring food",
+          "sentence": "You want me to bring dessert? 'Fraid not, I'll grab a cake on the way.",
+          "highlight": "'Fraid not",
+          "tip": "It gives a casual, enthusiastic yes without making a formal promise."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal email · confirming help",
+          "sentence": "If you need the final figures, 'fraid not, I'll email them before three.",
+          "highlight": "'fraid not",
+          "tip": "Keep it for friendly emails; a formal message may need clearer wording."
+        }
+      ],
+      "origin": {
+        "summary": "Probably a shortened spoken form of “afraid not,” an older expression meaning “not afraid at all,” which developed into an emphatic way of agreeing to do something.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Afraid not” was used to say that there was no fear or hesitation."
+          },
+          {
+            "when": "19th century",
+            "text": "People began shortening the spoken expression to “‘fraid not.”"
+          },
+          {
+            "when": "Today",
+            "text": "It remains a casual way to give an eager or definite yes."
+          }
+        ]
+      },
+      "similar": [
+        "absolutely",
+        "no problem",
+        "you got it",
+        "certainly"
+      ],
+      "opposite": "no way",
+      "pitfall": "Do not use it when you are refusing or only offering to check; it clearly signals willingness."
+    },
+    {
+      "id": "a-boon-and-a-bane",
+      "kind": "phrase",
+      "term": "a boon and a bane",
+      "pos": "idiom",
+      "hint": "a benefit that also causes problems",
+      "register": "Common at work and in conversation",
+      "meaning": "Something that brings both a great benefit and a significant disadvantage.",
+      "nuance": "The two sides should be connected, so one clearly brings both good and bad results. It is balanced but often slightly concerned rather than entirely positive.",
+      "literal": "A gift or blessing and, at the same time, a source of harm or trouble.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · hybrid working",
+          "sentence": "Flexible schedules are a boon and a bane: staff enjoy the freedom, but coordinating meetings gets harder.",
+          "highlight": "a boon and a bane",
+          "tip": "Use it when the same feature creates both an advantage and a practical problem."
+        },
+        {
+          "setting": "social",
+          "where": "Chat about a close friendship",
+          "sentence": "Having friends who know your secrets is a boon and a bane, especially when you need advice.",
+          "highlight": "a boon and a bane",
+          "tip": "It fits informal conversation when weighing the upsides and downsides of one thing."
+        },
+        {
+          "setting": "writing",
+          "where": "Annual report · assessing a change",
+          "sentence": "Automation is a boon and a bane for the team, reducing routine work while creating new training needs.",
+          "highlight": "a boon and a bane",
+          "tip": "Follow it with both sides so readers understand what was gained and what was lost."
+        }
+      ],
+      "origin": {
+        "summary": "The expression combines two old words for good and bad. “Boon” comes through Old French from Latin for “good,” while “bane” developed from an Old English word for a killer or harmful thing.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "“Bane” develops from an Old English word meaning a killer or slayer and later a source of harm."
+          },
+          {
+            "when": "Middle English period",
+            "text": "“Boon” is established as a word for a benefit or blessing, borrowed through Old French from Latin."
+          },
+          {
+            "when": "Later Middle English",
+            "text": "The combination of “boon” and “bane” appears in writing for something that brings both benefit and harm."
+          }
+        ]
+      },
+      "similar": [
+        "a blessing and a curse",
+        "a double-edged sword",
+        "both a blessing and a burden"
+      ],
+      "pitfall": "Do not use it for two separate issues; the advantage and disadvantage should come from the same thing."
+    },
+    {
+      "id": "a-for-effort",
+      "kind": "phrase",
+      "term": "A for effort",
+      "pos": "phrase",
+      "hint": "credit for trying, despite an imperfect result",
+      "register": "Common at work and school",
+      "meaning": "Praise or credit for the effort someone put in, even if the final result was not perfect.",
+      "nuance": "It is encouraging and usually kind, but can sound like a polite way of saying the work was not good enough. In natural speech, it is often pronounced and written as “an A for effort.”",
+      "literal": "A grade of A given for trying hard rather than for perfect work.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team feedback · reviewing a draft",
+          "sentence": "The presentation had some rough edges, but you put real work into it, so that’s an A for effort.",
+          "highlight": "A for effort",
+          "tip": "Pair it with specific praise so the encouragement feels genuine."
+        },
+        {
+          "setting": "social",
+          "where": "Friendly competition · cooking together",
+          "sentence": "My pancakes were strange, but the team gave me an A for effort.",
+          "highlight": "A for effort",
+          "tip": "Use it to reward enthusiasm when the outcome was mixed."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance review · encouraging note",
+          "sentence": "The client asked for changes, but I wanted to give the team an A for effort this month.",
+          "highlight": "A for effort",
+          "tip": "It works best when followed by clear notes on what to improve."
+        }
+      ],
+      "origin": {
+        "summary": "The expression likely grew from school culture, where teachers rewarded effort separately from the grade earned for the quality of the work. Its exact first use is not clearly documented.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Schools used grades to judge both completed work and pupils’ effort."
+          },
+          {
+            "when": "20th century",
+            "text": "“A for effort” develops as a way to praise effort independently of the result."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase is common in schools, workplaces and informal encouragement."
+          }
+        ]
+      },
+      "similar": [
+        "credit where it’s due",
+        "good try",
+        "nice effort",
+        "a pat on the back"
+      ],
+      "opposite": "no credit",
+      "pitfall": "It may sound encouraging, but some people hear it as a backhanded comment about poor performance."
+    },
+    {
+      "id": "aint-no-telling",
+      "kind": "phrase",
+      "term": "ain't no telling",
+      "pos": "phrase",
+      "hint": "no way to know for sure",
+      "register": "Casual",
+      "meaning": "There is no way of knowing for certain what will happen or what someone will do.",
+      "nuance": "This sounds conversational and slightly resigned, as though the outcome is uncertain or beyond your control.",
+      "literal": "There is no visible sign or explanation that reveals what will happen.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · uncertain response",
+          "sentence": "We’ve sent the proposal, but ain’t no telling how quickly the client will respond.",
+          "highlight": "ain’t no telling",
+          "tip": "Use it when discussing a genuinely uncertain outcome, not as a substitute for planning."
+        },
+        {
+          "setting": "social",
+          "where": "Party chat · uncertain guest",
+          "sentence": "He said he might come, but ain’t no telling whether he’ll show up before midnight.",
+          "highlight": "ain’t no telling",
+          "tip": "It adds a relaxed tone when you cannot predict what someone will decide to do."
+        },
+        {
+          "setting": "writing",
+          "where": "Message to a friend · uncertain plans",
+          "sentence": "The weather may clear tomorrow, but ain’t no telling whether the roads will be safe.",
+          "highlight": "ain’t no telling",
+          "tip": "Keep it for informal writing; a more neutral choice is “there’s no way to know.”"
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably grew from the older expression “no telling,” meaning that nothing reveals what will happen. Its modern form uses “ain’t” for a more emphatic, conversational sound.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression “no telling” was used to express uncertainty about future events."
+          },
+          {
+            "when": "19th century",
+            "text": "Writers began combining “no telling” with forms of “not,” creating constructions like “there is no telling.”"
+          },
+          {
+            "when": "20th century onward",
+            "text": "“Ain’t no telling” became established in casual American English."
+          }
+        ]
+      },
+      "similar": [
+        "there’s no way to know",
+        "who knows",
+        "it’s anyone’s guess"
+      ],
+      "opposite": "you can be certain",
+      "pitfall": "Because it sounds resigned or dismissive, avoid using it when you could give a clear answer."
+    },
+    {
+      "id": "all-bets-are-off",
+      "kind": "phrase",
+      "term": "all bets are off",
+      "pos": "phrase",
+      "hint": "nothing is certain anymore",
+      "register": "Common at work and socially",
+      "meaning": "A situation has changed so much that plans, predictions or previous assumptions can no longer be relied on.",
+      "nuance": "It can suggest that a decision has been abandoned, that conditions are highly unpredictable, or that everything has become chaotic. It often adds drama or humor.",
+      "literal": "All existing bets have been cancelled, so nobody can count on winning.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · a major change",
+          "sentence": "The client postponed the launch, so all bets are off until we receive the new requirements.",
+          "highlight": "all bets are off",
+          "tip": "Use it when a confirmed plan has genuinely become uncertain."
+        },
+        {
+          "setting": "social",
+          "where": "Plans for a party · sudden change",
+          "sentence": "Half the guests aren’t coming and it’s already drizzling, so all bets are off.",
+          "highlight": "all bets are off",
+          "tip": "It works well when describing sudden disorder or a complete change of plans."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · revising a forecast",
+          "sentence": "With three key suppliers unavailable, all bets are off on delivering the product by June.",
+          "highlight": "all bets are off",
+          "tip": "Follow it with the new expectation so readers know what changed."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from gambling, where bets could be called off and winnings would no longer count. Its figurative use developed from the idea that a bet or outcome has been invalidated.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "The expression appears in connection with betting, including rules for cancelling wagers."
+          },
+          {
+            "when": "Later 19th century",
+            "text": "It began to describe situations in which agreements, expectations or outcomes could no longer be trusted."
+          },
+          {
+            "when": "20th century onward",
+            "text": "It became a familiar way to say that plans or predictions had become impossible to rely on."
+          }
+        ]
+      },
+      "similar": [
+        "anything can happen",
+        "the plan is off",
+        "nothing is certain"
+      ],
+      "opposite": "it’s a sure thing",
+      "pitfall": "It does not mean every bet has literally been cancelled; in everyday use, it signals dramatic uncertainty or a complete change of circumstances."
+    },
+    {
+      "id": "all-eyes-are-on",
+      "kind": "phrase",
+      "term": "all eyes are on",
+      "pos": "phrase",
+      "hint": "everyone is watching or paying close attention",
+      "register": "Common at work",
+      "meaning": "Everyone’s attention is focused on a particular person, event, issue or result.",
+      "nuance": "It suggests that something has become the main focus of attention. It can sound positive when interest is strong, or slightly pressuring when someone is under close scrutiny.",
+      "literal": "Everyone is directing their eyes toward the same person or thing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · presenting results",
+          "sentence": "All eyes are on the customer dashboard while the analyst explains the sudden drop in renewals.",
+          "highlight": "All eyes are on",
+          "tip": "Use it when a moment or display has clearly captured the group’s attention."
+        },
+        {
+          "setting": "social",
+          "where": "Birthday celebration · announcing the cake",
+          "sentence": "All eyes are on the cake as Mia carries it into the dining room.",
+          "highlight": "All eyes are on",
+          "tip": "It’s a natural way to describe a shared moment that draws everyone’s gaze."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · highlighting a concern",
+          "sentence": "As the deadline approaches, all eyes are on whether the final report will be ready on time.",
+          "highlight": "all eyes are on",
+          "tip": "It works well when one outcome or risk has become the main concern."
+        }
+      ],
+      "origin": {
+        "summary": "Probably developed from the literal idea of people looking in the same direction before it came to mean that one subject had gained everyone’s attention.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The phrase referred literally to everyone looking toward the same thing."
+          },
+          {
+            "when": "Later",
+            "text": "It acquired the figurative meaning of focusing public or group attention on one person or subject."
+          },
+          {
+            "when": "Today",
+            "text": "It is commonly used in conversations, reporting and presentations."
+          }
+        ]
+      },
+      "similar": [
+        "the focus is on",
+        "everyone is watching",
+        "under the spotlight"
+      ],
+      "opposite": "nobody is paying attention",
+      "pitfall": "Use it when attention is genuinely focused; otherwise, it can exaggerate how much people are noticing something."
+    },
+    {
+      "id": "all-good",
+      "kind": "phrase",
+      "term": "all good",
+      "pos": "phrase",
+      "hint": "everything is fine",
+      "register": "Everyday",
+      "meaning": "Everything is fine, satisfactory, or working as it should.",
+      "nuance": "Casual and reassuring; often used as a quick response when someone checks how you are or how something is going. In some contexts, especially online, it can sound dismissive, so add details when the situation is serious.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Status check · confirming a task",
+          "sentence": "The upload finished without errors, so we’re all good to send the report.",
+          "highlight": "all good",
+          "tip": "Follow it with the practical next step so it doesn’t sound vague."
+        },
+        {
+          "setting": "social",
+          "where": "Voice note · checking on a friend",
+          "sentence": "I caught a mild cold, but I’m feeling all good now, so no need to worry.",
+          "highlight": "all good",
+          "tip": "It can sound reassuring, but avoid it when you need support or care."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · confirming progress",
+          "sentence": "The client approved the latest version, and the schedule is all good for Friday’s launch.",
+          "highlight": "all good",
+          "tip": "Common in informal project messages; use “on schedule” in more formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin of “all good” is not well documented. It developed from ordinary uses of “good” meaning satisfactory or in working order, with “all” emphasizing that nothing is wrong.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The word “good” was used to describe something satisfactory, successful or in working order."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression “it’s all good” became common in everyday speech as a brief reassurance."
+          },
+          {
+            "when": "Today",
+            "text": "“All good” is widely used in speech and informal messages, including online."
+          }
+        ]
+      },
+      "similar": [
+        "no worries",
+        "everything’s fine",
+        "all set"
+      ],
+      "opposite": "something’s wrong",
+      "pitfall": "“All good” can sound dismissive if you use it without acknowledging the other person’s concern."
+    },
+    {
+      "id": "all-hell-breaks-loose",
+      "kind": "phrase",
+      "term": "all hell breaks loose",
+      "pos": "idiom",
+      "hint": "sudden chaos erupts",
+      "register": "Everyday",
+      "meaning": "A situation suddenly becomes extremely noisy, chaotic, or disorderly.",
+      "nuance": "It describes a dramatic eruption of commotion rather than a serious disaster. It can be humorous or genuinely alarming, depending on the context.",
+      "literal": "All of hell’s forces break loose at once, creating chaos.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Release deployment · production issues",
+          "sentence": "When the server crashed, all hell broke loose as the team tried to restore service.",
+          "highlight": "all hell broke loose",
+          "tip": "It suits sudden disorder, but avoid it for highly formal incident reports."
+        },
+        {
+          "setting": "social",
+          "where": "Family dinner · an unexpected argument",
+          "sentence": "When Dad mentioned selling the house, all hell broke loose at the dinner table.",
+          "highlight": "all hell broke loose",
+          "tip": "Use it to describe a dramatic burst of noise and argument."
+        },
+        {
+          "setting": "writing",
+          "where": "Event recap · a chaotic finale",
+          "sentence": "By midnight, all hell had broken loose on the dance floor.",
+          "highlight": "all hell had broken loose",
+          "tip": "In past-tense narration, “had broken loose” is the usual form."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely comes from an older idea of hell erupting in violent chaos. Its familiar modern wording was established in the 19th century, possibly shaped by a theatrical expression.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Older expressions linked an outbreak of chaos with hell or the devil."
+          },
+          {
+            "when": "19th century",
+            "text": "The wording “all hell broke loose” appears in print and becomes established."
+          },
+          {
+            "when": "Today",
+            "text": "It remains common in dramatic descriptions of riots, arguments, or sudden disorder."
+          }
+        ]
+      },
+      "similar": [
+        "chaos erupts",
+        "the roof comes off",
+        "a fracas ensues"
+      ],
+      "opposite": "",
+      "pitfall": "This describes disorder or commotion, not necessarily physical danger. For an actual emergency, state the danger directly."
+    },
+    {
+      "id": "all-that-jazz",
+      "kind": "phrase",
+      "term": "all that jazz",
+      "pos": "phrase",
+      "hint": "too much talk or fuss",
+      "register": "Casual",
+      "meaning": "All the talk, activity or fuss that someone considers unnecessary or exaggerated.",
+      "nuance": "Informal and often dismissive, so it suits conversation with people you know well rather than formal criticism.",
+      "literal": "A vague picture of jazz music, or everything connected with it, as one excessive package.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · dismissing a long proposal",
+          "sentence": "Let’s skip all that jazz and decide what actually needs to be done today.",
+          "highlight": "all that jazz",
+          "tip": "Keep it light and avoid sounding dismissive of the person who made the proposal."
+        },
+        {
+          "setting": "social",
+          "where": "Chat with friends · describing a complicated event",
+          "sentence": "She told the whole story with all that jazz, but the basic issue was pretty simple.",
+          "highlight": "all that jazz",
+          "tip": "It can sound affectionate when you are describing someone’s dramatic storytelling."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal email · rejecting extra steps",
+          "sentence": "I don’t want to get into all that jazz right now; can we stick to the main point?",
+          "highlight": "all that jazz",
+          "tip": "Use it mainly in casual messages because it can come across as blunt."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably grew from American uses of “jazz” for a thing, style of activity or business, then broadened into a dismissive expression for talk or fuss.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "“Jazz” was used beyond the music itself to mean activity, things or business of a particular kind."
+          },
+          {
+            "when": "Mid-20th century",
+            "text": "Phrases such as “all that jazz” developed as a loose way of dismissing an excessive amount of something."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar informal expression for unnecessary talk, activity or fuss."
+          }
+        ]
+      },
+      "similar": [
+        "all that",
+        "the whole nine yards",
+        "all that fuss"
+      ],
+      "opposite": "the bare essentials",
+      "pitfall": "Because it can sound dismissive, avoid using it about a colleague’s important contribution in a formal setting."
+    },
+    {
+      "id": "another-nail-in-someones-coffin",
+      "kind": "phrase",
+      "term": "another nail in someone's coffin",
+      "pos": "idiom",
+      "hint": "one more thing making failure or ruin certain",
+      "register": "Common in conversation and writing",
+      "meaning": "An event or problem that makes someone's failure, collapse or ruin seem even more likely.",
+      "nuance": "It has a strong, slightly grim tone and suggests that the person or organisation is already doomed. It can describe serious business or personal setbacks, not minor problems.",
+      "literal": "Putting another nail into a coffin helps seal in the dead person.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · assessing a struggling project",
+          "sentence": "Losing our biggest client was another nail in someone's coffin.",
+          "highlight": "another nail in someone's coffin",
+          "tip": "Use it when the outcome already seems hopeless or disastrous."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation about a failing business",
+          "sentence": "Three shop closures this month were another nail in someone's coffin.",
+          "highlight": "another nail in someone's coffin",
+          "tip": "It sounds forceful, so avoid it when you only suspect trouble."
+        },
+        {
+          "setting": "writing",
+          "where": "Commentary about a political career",
+          "sentence": "The damaging report was another nail in someone's coffin.",
+          "highlight": "another nail in someone's coffin",
+          "tip": "It adds drama to analysis, but use it sparingly and give the reason first."
+        }
+      ],
+      "origin": {
+        "summary": "The exact wording is difficult to trace, but the image of a nail in a coffin is old. It became a metaphor for a decisive step toward someone's ruin.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Coffins have long been fastened with nails, giving the literal image a clear meaning."
+          },
+          {
+            "when": "19th century",
+            "text": "Writers began using nails in coffins figuratively for actions that hasten death or ruin."
+          },
+          {
+            "when": "Today",
+            "text": "The expression remains a vivid way to describe a serious final blow."
+          }
+        ]
+      },
+      "similar": [
+        "a death knell",
+        "a fatal blow",
+        "the final straw",
+        "hasten someone's demise"
+      ],
+      "opposite": "save someone's hide",
+      "pitfall": "It is more than saying something is harmful: it implies that the person or organisation is already close to failure or ruin."
+    },
+    {
+      "id": "another-nail-in-the-coffin",
+      "kind": "phrase",
+      "term": "another nail in the coffin",
+      "pos": "idiom",
+      "hint": "one more problem making failure more certain",
+      "register": "Common",
+      "meaning": "An additional problem or setback that makes failure or the end of something more likely.",
+      "nuance": "The phrase feels serious and final. It is stronger than saying a problem is merely bad because it suggests that each setback is pushing something toward collapse.",
+      "literal": "An extra nail being hammered into a coffin, sealing it shut.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · repeated delays",
+          "sentence": "Losing our main supplier was another nail in the coffin for the launch date.",
+          "highlight": "another nail in the coffin",
+          "tip": "Use it when setbacks have made a negative outcome increasingly clear."
+        },
+        {
+          "setting": "social",
+          "where": "Plans for a party · bad weather",
+          "sentence": "The broken sound system was another nail in the coffin for our evening plans.",
+          "highlight": "another nail in the coffin",
+          "tip": "It can add dramatic emphasis, but avoid overusing it for small disappointments."
+        },
+        {
+          "setting": "writing",
+          "where": "Update email · explaining a setback",
+          "sentence": "The cancelled inspection was another nail in the coffin for our original timeline.",
+          "highlight": "another nail in the coffin",
+          "tip": "Pair it with a clear explanation of what went wrong and what remains possible."
+        }
+      ],
+      "origin": {
+        "summary": "The expression comes from the literal practice of sealing a coffin with nails and was later used figuratively for actions or events that cause someone's death or ruin.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal image of nails securing a coffin appears in English writing."
+          },
+          {
+            "when": "19th century",
+            "text": "Figurative uses emerged for events that hasten death or bring ruin."
+          },
+          {
+            "when": "20th century onward",
+            "text": "The expression broadened to describe setbacks that make failure or termination more likely."
+          }
+        ]
+      },
+      "similar": [
+        "the final straw",
+        "a death knell",
+        "one step closer to disaster"
+      ],
+      "opposite": "a shot in the arm",
+      "pitfall": "The phrase is dramatic, so reserve it for serious setbacks rather than ordinary inconveniences."
+    },
+    {
+      "id": "as-good-as-it-gets",
+      "kind": "phrase",
+      "term": "as good as it gets",
+      "pos": "phrase",
+      "hint": "the best it can be",
+      "register": "Common at work",
+      "meaning": "Used to say that something is excellent or that it could not be improved.",
+      "nuance": "It sounds enthusiastic but can also carry a slightly resigned note, especially when further improvement is unlikely.",
+      "literal": "Something has reached the highest possible level of goodness.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Project review · acknowledging strong work",
+          "sentence": "The customer response was excellent, and the presentation was as good as it gets.",
+          "highlight": "as good as it gets",
+          "tip": "Use it for clear praise, but add a specific example when you want constructive feedback."
+        },
+        {
+          "setting": "social",
+          "where": "Trying a new restaurant",
+          "sentence": "Honestly, the homemade pasta was as good as it gets.",
+          "highlight": "as good as it gets",
+          "tip": "It sounds warm and sincere, especially when praising something highly personal."
+        },
+        {
+          "setting": "writing",
+          "where": "Performance appraisal email",
+          "sentence": "Her coaching was as good as it gets and had a lasting impact on the whole team.",
+          "highlight": "as good as it gets",
+          "tip": "Pair it with a concrete result so the praise feels credible."
+        }
+      ],
+      "origin": {
+        "summary": "Probably developed from the older pattern “as good as...” and became a fixed phrase through repeated conversational use.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The wording “as good as” was used for direct comparisons between things."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression became common in everyday speech as a way to describe the highest achievable quality."
+          },
+          {
+            "when": "Today",
+            "text": "It is widely understood as strong praise, sometimes with a hint that no further improvement is possible."
+          }
+        ]
+      },
+      "similar": [
+        "the best of the best",
+        "as close to perfect as it gets",
+        "second to none"
+      ],
+      "opposite": "as bad as it gets",
+      "pitfall": "It can sound overly enthusiastic or final, so explain what made something excellent rather than relying on the phrase alone."
+    },
+    {
+      "id": "as-if-by-magic",
+      "kind": "phrase",
+      "term": "as if by magic",
+      "pos": "phrase",
+      "hint": "suddenly, with no obvious explanation",
+      "register": "Everyday",
+      "meaning": "In a way that seems sudden, effortless or mysterious, as though caused by magic.",
+      "nuance": "It often expresses surprise or delight at a quick, surprising change. It can be playful rather than literal, especially when describing a successful result.",
+      "literal": "Something appears or changes as if a magician had made it happen.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team demo · showing a quick fix",
+          "sentence": "The dashboard loaded again, as if by magic, just before the client arrived.",
+          "highlight": "as if by magic",
+          "tip": "Use it when the result was surprisingly fast or smooth."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner party · clearing the table",
+          "sentence": "The plates disappeared as if by magic, and the host brought out dessert.",
+          "highlight": "as if by magic",
+          "tip": "This adds humour and makes a routine moment feel theatrical."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · explaining progress",
+          "sentence": "The blockers cleared as if by magic, so we were able to finish on time.",
+          "highlight": "as if by magic",
+          "tip": "It works well for an unexpected good outcome, but avoid overstating unexplained results."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from older stories and stage performances in which magic meant mysterious or supernatural powers. Its figurative use developed from the idea of something appearing or changing beyond ordinary explanation.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression referred literally to magic or a supernatural power."
+          },
+          {
+            "when": "19th century",
+            "text": "Writing began using the phrase for events that seemed sudden or mysterious."
+          },
+          {
+            "when": "Today",
+            "text": "It commonly expresses surprise at an unexpectedly easy or successful change."
+          }
+        ]
+      },
+      "similar": [
+        "like magic",
+        "out of nowhere",
+        "in the blink of an eye"
+      ],
+      "opposite": "with great difficulty",
+      "pitfall": "This implies that the cause is unclear or that the result was unusually easy; don’t use it when the process was actually slow or effortful."
+    },
+    {
+      "id": "back-in-the-game",
+      "kind": "phrase",
+      "term": "back in the game",
+      "pos": "idiom",
+      "hint": "active again after being away or sidelined",
+      "register": "Common at work and in everyday conversation",
+      "meaning": "Active, relevant, or taking part again after being away or out of competition.",
+      "nuance": "It suggests a return to activity, often after a setback, absence, or period of decline. It can be encouraging, but may also hint that someone or something is returning after losing time or status.",
+      "literal": "A player or competitor has returned to the game.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · returning after a break",
+          "sentence": "With Sarah back in the game, the project finally has the experience we were missing.",
+          "highlight": "back in the game",
+          "tip": "Use it when someone returns to a project or team after being away."
+        },
+        {
+          "setting": "social",
+          "where": "Reconnecting with an old friend",
+          "sentence": "I’m glad to be back in the game after spending a year abroad.",
+          "highlight": "back in the game",
+          "tip": "It works naturally when talking about rejoining work, hobbies, or social life."
+        },
+        {
+          "setting": "writing",
+          "where": "Email announcing a return",
+          "sentence": "After a few months away, I’m back in the game and looking forward to working with the team again.",
+          "highlight": "back in the game",
+          "tip": "Pair it with the specific role or activity to make the return clear."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase grew from the language of sport and competition, where a player could return to the game after being absent or sidelined.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression referred to a player returning to active competition."
+          },
+          {
+            "when": "20th century",
+            "text": "It expanded beyond sport to describe returning to work, business, or public life."
+          },
+          {
+            "when": "Today",
+            "text": "It is common shorthand for someone or something becoming active again."
+          }
+        ]
+      },
+      "similar": [
+        "back in action",
+        "in the game",
+        "back on track"
+      ],
+      "opposite": "out of the game",
+      "pitfall": "It usually implies that someone was once involved or successful, so it may sound odd when describing a complete beginner."
+    },
+    {
+      "id": "back-in-the-saddle",
+      "kind": "phrase",
+      "term": "back in the saddle",
+      "pos": "phrase",
+      "hint": "returning to an active role",
+      "register": "Common at work and in casual conversation",
+      "meaning": "Returning to an activity, responsibility or situation after time away.",
+      "nuance": "It suggests getting going again after a break or setback. The tone is usually positive and determined, without necessarily saying the experience will be easy.",
+      "literal": "Mounted on a horse again and ready to ride.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · resuming a project",
+          "sentence": "After two weeks away, I’m back in the saddle and ready to lead the next phase.",
+          "highlight": "back in the saddle",
+          "tip": "It works when you’re emphasizing renewed energy or involvement."
+        },
+        {
+          "setting": "social",
+          "where": "Reunion · catching up with friends",
+          "sentence": "I haven’t seen my friends in months, but I’m back in the saddle and ready to make plans.",
+          "highlight": "back in the saddle",
+          "tip": "Use it to sound upbeat when returning to a familiar social routine."
+        },
+        {
+          "setting": "writing",
+          "where": "Status update · returning from leave",
+          "sentence": "Back in the saddle after parental leave, I’m looking forward to reconnecting with the team.",
+          "highlight": "Back in the saddle",
+          "tip": "It gives a friendly introduction, so pair it with a clear update on what happens next."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from horseback riding: a rider who mounts again is “back in the saddle.” It later became a metaphor for returning to work, action or a familiar role.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression referred literally to mounting a horse and riding again."
+          },
+          {
+            "when": "1800s",
+            "text": "Writers began using the image figuratively for returning to work or taking action again."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a familiar way to announce a return to activity after a break or setback."
+          }
+        ]
+      },
+      "similar": [
+        "back in action",
+        "at it again",
+        "rejoining the fold"
+      ],
+      "opposite": "out of the loop",
+      "pitfall": "The phrase suggests renewed activity, not necessarily that everything is going well."
+    },
+    {
+      "id": "beats-me",
+      "kind": "phrase",
+      "term": "beats me",
+      "pos": "idiom",
+      "hint": "I simply cannot explain it",
+      "register": "Casual",
+      "meaning": "Used to say that you do not know why something happened or how something works.",
+      "nuance": "It sounds informal and often admits genuine puzzlement, though it can also seem slightly dismissive in a serious conversation.",
+      "literal": "Defeats me, as if the answer wins a contest against me.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · explaining a sudden result",
+          "sentence": "I’m not sure why customer complaints doubled last week—that beats me.",
+          "highlight": "beats me",
+          "tip": "Use it when you need time to investigate rather than guessing."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation with friends",
+          "sentence": "How they chose the winning band really beats me.",
+          "highlight": "beats me",
+          "tip": "It adds a light, conversational tone to an admission of confusion."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal email · clarifying an unclear request",
+          "sentence": "I’m not sure what you mean by “quiet launch”; that beats me.",
+          "highlight": "beats me",
+          "tip": "Follow it with a specific question so the other person can help."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from the older expression “it beats me,” using the idea of something being too difficult to overcome. The shorter form became established in casual speech.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "19th century",
+            "text": "The longer wording “it beats me” appears in figurative use for questions that defeat someone’s understanding."
+          },
+          {
+            "when": "20th century",
+            "text": "The shorter form “beats me” becomes common in informal conversation."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a casual way to admit that an answer or explanation is beyond you."
+          }
+        ]
+      },
+      "similar": [
+        "no idea",
+        "I have no idea",
+        "you tell me",
+        "it defies explanation"
+      ],
+      "opposite": "I know exactly",
+      "pitfall": "In a tense or formal discussion, say “I’m not sure yet” or “I don’t know” instead; “beats me” may sound flippant."
+    },
+    {
+      "id": "before-the-ink-had-time-to-dry",
+      "kind": "phrase",
+      "term": "before the ink had time to dry",
+      "pos": "phrase",
+      "hint": "almost immediately",
+      "register": "Common at work and in conversation",
+      "meaning": "Before people had time to consider something carefully or let the situation settle.",
+      "nuance": "It emphasizes speed and a short reaction time, often with a sense of surprise, urgency or exasperation.",
+      "literal": "Fresh ink is still wet, so writing has only just begun.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team chat · correcting an assumption",
+          "sentence": "She challenged the proposal before the ink had time to dry.",
+          "highlight": "before the ink had time to dry",
+          "tip": "Use it when the response was immediate, not necessarily hostile."
+        },
+        {
+          "setting": "social",
+          "where": "Party · reacting to an announcement",
+          "sentence": "My friends started arguing about the guest list before the ink had time to dry.",
+          "highlight": "before the ink had time to dry",
+          "tip": "It gives a humorous sense that people reacted with unusual speed."
+        },
+        {
+          "setting": "writing",
+          "where": "Follow-up email · noting a quick response",
+          "sentence": "Several customers requested changes before the ink had time to dry.",
+          "highlight": "before the ink had time to dry",
+          "tip": "Often adds color to a report of an unusually rapid response."
+        }
+      ],
+      "origin": {
+        "summary": "The image comes from writing with wet ink, where a correction could be made before the words became fixed. The figurative sense developed from the idea of acting almost immediately.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Ink was wet immediately after writing, so the literal image suggested an unsettled message."
+          },
+          {
+            "when": "1600s",
+            "text": "Similar expressions began to mean acting while an event or decision was still fresh."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase remains a vivid way to describe an instant reaction."
+          }
+        ]
+      },
+      "similar": [
+        "instantly",
+        "in the blink of an eye",
+        "before anyone had time to think",
+        "while it was still fresh"
+      ],
+      "pitfall": "The phrase can imply that people were too hasty, so avoid it when you want to praise a thoughtful quick response."
+    },
+    {
+      "id": "big-if-true",
+      "kind": "phrase",
+      "term": "big if true",
+      "pos": "phrase",
+      "hint": "potentially impressive, if accurate",
+      "register": "Casual internet and social media",
+      "meaning": "Potentially very impressive or successful, provided the claim is actually true.",
+      "nuance": "Playful and often sarcastic, especially when reacting to an exciting announcement or boast. It signals interest while leaving room to question the claim.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team chat · reviewing a proposal",
+          "sentence": "A 30% jump in sign-ups would be big if true, but we need the final report.",
+          "highlight": "big if true",
+          "tip": "Use it informally to show interest without fully endorsing the claim."
+        },
+        {
+          "setting": "social",
+          "where": "Group chat · hearing a travel plan",
+          "sentence": "Getting the whole weekend off and still flying business class is big if true.",
+          "highlight": "big if true",
+          "tip": "It adds humorous doubt while asking whether the plan is realistic."
+        },
+        {
+          "setting": "writing",
+          "where": "Informal message · sharing an update",
+          "sentence": "The new product sold out overnight—big if true, but the numbers still need checking.",
+          "highlight": "big if true",
+          "tip": "Keep the tone light; it is better suited to messages than formal reports."
+        }
+      ],
+      "origin": {
+        "summary": "The exact source is unclear, but the phrase grew out of internet slang that combined emphatic reactions with “if true” as a condition. It became especially familiar through online jokes, reposts and meme communities.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Online users commonly used “if true” to qualify dramatic claims they were not ready to accept."
+          },
+          {
+            "when": "2010s",
+            "text": "“Big if true” spread through social media and meme forums as a compact reaction to impressive-sounding claims."
+          },
+          {
+            "when": "Today",
+            "text": "It remains widely understood as playful, informal and often sceptical internet commentary."
+          }
+        ]
+      },
+      "similar": [
+        "no way",
+        "that would be huge",
+        "only time will tell"
+      ],
+      "opposite": "small if true",
+      "pitfall": "Because it can be sarcastic, do not use it when you need to communicate excitement with complete confidence."
+    },
+    {
+      "id": "bottom-falls-out",
+      "kind": "phrase",
+      "term": "bottom falls out",
+      "pos": "idiom",
+      "hint": "a sudden collapse when support disappears",
+      "register": "Common at work",
+      "meaning": "To collapse or fall apart suddenly, especially because something essential has been removed or lost.",
+      "nuance": "It suggests a fast, dramatic downturn rather than a gradual decline. It commonly takes “of,” as in “the bottom falls out of the market.”",
+      "literal": "The lowest part of something suddenly drops away, leaving it without support.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning meeting · losing a key contract",
+          "sentence": "When the major client cancelled, the bottom fell out of our revenue forecast.",
+          "highlight": "bottom fell out",
+          "tip": "Use it for a sudden collapse, not a slow reduction in figures."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner plans · an unexpected cancellation",
+          "sentence": "The bottom fell out of our dinner plans when the restaurant suddenly closed.",
+          "highlight": "bottom fell out",
+          "tip": "In casual conversation, it can describe plans collapsing as well as money or markets."
+        },
+        {
+          "setting": "writing",
+          "where": "Market report · describing a sharp downturn",
+          "sentence": "The report explains how the bottom fell out of the housing market after interest rates rose.",
+          "highlight": "bottom fell out",
+          "tip": "It adds drama and clearly signals a sudden change in circumstances."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is unclear, but the expression grows from the literal image of the bottom of something dropping away and leaving it unsupported.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal image suggests the lowest part of a container or structure suddenly dropping away."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression becomes especially associated with sudden collapses in markets and finances."
+          },
+          {
+            "when": "Today",
+            "text": "It is also used for plans, prospects, or situations that rapidly lose their support."
+          }
+        ]
+      },
+      "similar": [
+        "collapse",
+        "plummet",
+        "fall apart"
+      ],
+      "opposite": "recover",
+      "pitfall": "The usual pattern is “the bottom falls out of something,” not “the bottom falls out something.”"
+    },
+    {
+      "id": "butter-will-not-melt-in-someones-mouth",
+      "kind": "phrase",
+      "term": "butter will not melt in someone's mouth",
+      "pos": "idiom",
+      "hint": "looks harmless, but perhaps isn't",
+      "register": "Everyday",
+      "meaning": "To describe someone who looks unusually innocent, sweet or harmless, often suggesting they are more calculating than they appear.",
+      "nuance": "This expresses suspicion rather than a confirmed judgment. In conversation, “wouldn't melt” is more natural than “will not melt,” and the phrase can sound accusing.",
+      "literal": "Very soft butter would be expected to melt easily in a warm mouth.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing a colleague",
+          "sentence": "He sounds supportive, but butter will not melt in his mouth when deadlines are concerned.",
+          "highlight": "butter will not melt in his mouth",
+          "tip": "Use it when someone's friendly manner does not match their actions."
+        },
+        {
+          "setting": "social",
+          "where": "Family gathering · a relative's behaviour",
+          "sentence": "My aunt seems perfectly harmless, but butter will not melt in her mouth.",
+          "highlight": "butter will not melt in her mouth",
+          "tip": "It works best when you can point to behaviour that seems inconsistent."
+        },
+        {
+          "setting": "writing",
+          "where": "Workplace assessment · a new colleague",
+          "sentence": "He presents himself as harmless, but butter will not melt in his mouth.",
+          "highlight": "butter will not melt in his mouth",
+          "tip": "In formal writing, explain the suspicion rather than relying only on the idiom."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase likely grew from the familiar image of soft butter melting in a warm mouth. Its figurative use suggests that someone appears too innocent or mild for their actual behaviour.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The literal image relies on how easily warm heat would melt soft butter."
+          },
+          {
+            "when": "19th century",
+            "text": "The expression appears in the figurative sense of seeming innocent or harmless."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a conversational way to express distrust of someone's mild appearance."
+          }
+        ]
+      },
+      "similar": [
+        "looks harmless but isn't",
+        "more cunning than they seem",
+        "not quite what they appear to be",
+        "two-faced"
+      ],
+      "pitfall": "It can damage relationships if used as an unsupported accusation, so consider whether the person's behaviour really conflicts with their appearance."
+    },
+    {
+      "id": "butter-would-not-melt-in-someones-mouth",
+      "kind": "phrase",
+      "term": "butter would not melt in someone's mouth",
+      "pos": "idiom",
+      "hint": "too sweet or flattering",
+      "register": "Casual",
+      "meaning": "Someone is being extremely sweet, polite or flattering, often insincerely.",
+      "nuance": "It suggests that the praise may be exaggerated or designed to win favour, so it usually carries a slightly teasing or critical tone.",
+      "literal": "Butter is so soft that it would not melt in a person’s mouth, suggesting extreme sweetness.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · exaggerated praise",
+          "sentence": "His compliment was so exaggerated that butter would not melt in his mouth.",
+          "highlight": "butter would not melt in his mouth",
+          "tip": "Use it when the praise feels obviously excessive or insincere."
+        },
+        {
+          "setting": "social",
+          "where": "Party conversation · playful teasing",
+          "sentence": "Stop being so charming; butter would not melt in your mouth.",
+          "highlight": "butter would not melt in your mouth",
+          "tip": "Among friends, it can be playful rather than openly insulting."
+        },
+        {
+          "setting": "writing",
+          "where": "Review comment · questioning praise",
+          "sentence": "The glowing review sounded as if butter would not melt in the writer’s mouth.",
+          "highlight": "butter would not melt in the writer’s mouth",
+          "tip": "It works best when you want to imply that the praise may be overstated."
+        }
+      ],
+      "origin": {
+        "summary": "Likely developed from older expressions about food melting in the mouth, using exaggeration to portray sweetness or extreme agreeableness.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Older idioms used melting food to represent great sweetness or pleasantness."
+          },
+          {
+            "when": "19th century",
+            "text": "Writers used similar hyperbole to describe someone’s exceptionally mild or agreeable manner."
+          },
+          {
+            "when": "Today",
+            "text": "The wording survives as a colourful way to describe exaggerated charm or flattery."
+          }
+        ]
+      },
+      "similar": [
+        "as sweet as honey",
+        "all sugar and no salt",
+        "a sweet talker",
+        "smooth-talking"
+      ],
+      "opposite": "blunt to the point of being rude",
+      "pitfall": "This often criticises the person making the flattering remark, so it can sound mocking or hostile in a serious conversation."
+    },
+    {
+      "id": "butter-wont-melt-in-someones-mouth",
+      "kind": "phrase",
+      "term": "butter wouldn't melt in someone's mouth",
+      "pos": "idiom",
+      "hint": "appearing innocent but not trustworthy",
+      "register": "Common in conversation",
+      "meaning": "To appear sweet, innocent or harmless when you may actually be manipulative or untrustworthy.",
+      "nuance": "This is a sharp, negative judgment, so use it when someone’s polished behaviour seems designed to hide their true motives. It may be too strong if you are simply unsure about them.",
+      "literal": "Butter is soft enough to melt, so the image suggests that a truly harmless person would not even be tempted to take it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · questioning a promise",
+          "sentence": "He blamed the delay on his laptop, but butter wouldn't melt in his mouth.",
+          "highlight": "butter wouldn't melt in his mouth",
+          "tip": "Use it when behaviour and explanations conflict, not merely because someone is charming."
+        },
+        {
+          "setting": "social",
+          "where": "Meeting a mutual friend",
+          "sentence": "She can seem awfully sweet, but I don't think butter wouldn't melt in her mouth.",
+          "highlight": "butter wouldn't melt in her mouth",
+          "tip": "It can sound harsh in casual conversation, so soften it if you have limited evidence."
+        },
+        {
+          "setting": "writing",
+          "where": "Reviewing a colleague's apology",
+          "sentence": "The apology was polished, but butter wouldn't melt in his mouth.",
+          "highlight": "butter wouldn't melt in his mouth",
+          "tip": "In writing, explain the concern so the criticism does not seem needlessly personal."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from an older image of a harmless or innocent person who would not be tempted to take a small piece of butter. Its modern wording became established as it came to describe suspiciously polished behaviour.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "16th century",
+            "text": "Early versions referred to someone being so innocent that you would not trust even them with butter in their mouth."
+          },
+          {
+            "when": "19th century",
+            "text": "The wording developed into forms such as “butter wouldn't melt in his mouth.”"
+          },
+          {
+            "when": "Today",
+            "text": "It is a familiar English idiom for warning that apparent innocence may conceal false intentions."
+          }
+        ]
+      },
+      "similar": [
+        "too good to be true",
+        "a wolf in sheep's clothing",
+        "not to be trusted"
+      ],
+      "opposite": "open and honest",
+      "pitfall": "It can damage a relationship because it labels the person as dishonest rather than simply describing behaviour that seems misleading."
+    },
+    {
+      "id": "cant-complain",
+      "kind": "phrase",
+      "term": "can't complain",
+      "pos": "phrase",
+      "hint": "satisfied, though not thrilled",
+      "register": "Everyday",
+      "meaning": "Used to say that a situation is good enough or that you are generally pleased with how things are going.",
+      "nuance": "It expresses mild satisfaction rather than perfect enthusiasm. It can also mean that someone has no grounds for criticism.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "After a busy week · hearing the project went well",
+          "sentence": "The deadline was tight, but we got everything delivered, so I can't complain.",
+          "highlight": "can't complain",
+          "tip": "Useful when acknowledging a difficult situation without sounding overly excited."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up with a friend · discussing your weekend",
+          "sentence": "The weather was mixed, but we had a good meal and plenty to chat about, so I can't complain.",
+          "highlight": "can't complain",
+          "tip": "It keeps a positive response relaxed and understated."
+        },
+        {
+          "setting": "writing",
+          "where": "Posting after a trip · sharing how it went",
+          "sentence": "The train was delayed for an hour, but the views were excellent, so I can't complain.",
+          "highlight": "can't complain",
+          "tip": "It sounds friendly and conversational, so it suits a personal update better than a formal report."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines the ordinary verb “complain” with the negative form “can't.” It developed as a casual way to express qualified approval.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People began using “can't complain” to mean there was no reason to express dissatisfaction."
+          },
+          {
+            "when": "20th century",
+            "text": "The expression became common in informal British and American speech."
+          },
+          {
+            "when": "Today",
+            "text": "It remains a friendly, slightly understated way to show general satisfaction."
+          }
+        ]
+      },
+      "similar": [
+        "no complaints",
+        "not too bad",
+        "could be worse"
+      ],
+      "opposite": "can't be happy",
+      "pitfall": "It signals contentment, not intense happiness, so avoid using it after something genuinely disappointing."
+    },
+    {
+      "id": "careful-what-you-wish-for",
+      "kind": "phrase",
+      "term": "careful what you wish for",
+      "pos": "phrase",
+      "hint": "a warning that getting what you want may not be so good",
+      "register": "Everyday",
+      "meaning": "A warning that getting exactly what you want can lead to unexpected difficulties or unwanted consequences.",
+      "nuance": "It is usually said when someone receives good news that sounds appealing but may create problems. The tone can be teasing, concerned or stern, depending on the situation.",
+      "literal": "Choose your wishes carefully, because the result may not be what you expect.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · a demanding project",
+          "sentence": "You’ve asked to lead the whole launch, but careful what you wish for: it comes with a pile of extra meetings.",
+          "highlight": "careful what you wish for",
+          "tip": "Use it playfully when someone volunteers for more responsibility than expected."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · weekend plans",
+          "sentence": "You wanted to host everyone at your place, didn’t you? Careful what you wish for.",
+          "highlight": "Careful what you wish for",
+          "tip": "It works well as light teasing after someone gets what they wanted."
+        },
+        {
+          "setting": "writing",
+          "where": "Message · accepting a challenging assignment",
+          "sentence": "Careful what you wish for: the role looks impressive, but it includes managing two teams and a tight deadline.",
+          "highlight": "Careful what you wish for",
+          "tip": "Follow it with the specific drawback so the warning feels useful rather than vague."
+        }
+      ],
+      "origin": {
+        "summary": "This is a proverb-style warning about the possible consequences of getting what you want. Its exact first use is uncertain, but the expression was established in English by the 19th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Similar warnings expressed the general idea that desires can have unexpected results."
+          },
+          {
+            "when": "1800s",
+            "text": "The wording “careful what you wish for” becomes established in English."
+          },
+          {
+            "when": "Today",
+            "text": "It is common in everyday conversation for teasing or genuine warnings."
+          }
+        ]
+      },
+      "similar": [
+        "be careful what you ask for",
+        "you should be careful what you wish for",
+        "be careful what you wish for"
+      ],
+      "pitfall": "The phrase is often used as a reaction, but it does not explain the problem; name the likely consequence if you want to sound constructive."
+    },
+    {
+      "id": "cat-got-someones-tongue",
+      "kind": "phrase",
+      "term": "cat got someone's tongue",
+      "pos": "idiom",
+      "hint": "unable or unwilling to speak",
+      "register": "Everyday",
+      "meaning": "To be suddenly unable to speak, especially because you are surprised, embarrassed or nervous.",
+      "nuance": "It is playful and slightly old-fashioned, so it suits friendly conversation more than formal writing.",
+      "literal": "A cat has taken the person's tongue, leaving them unable to speak.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · unexpected question",
+          "sentence": "When the client asked for exact figures, the account manager looked like the cat got someone's tongue.",
+          "highlight": "cat got someone's tongue",
+          "tip": "Use it to describe a noticeable silence, not simply a quiet person."
+        },
+        {
+          "setting": "social",
+          "where": "Party · meeting an admired guest",
+          "sentence": "I wanted to introduce myself, but the cat got someone's tongue when she walked in.",
+          "highlight": "cat got someone's tongue",
+          "tip": "This adds a light, teasing tone to a story about being flustered."
+        },
+        {
+          "setting": "writing",
+          "where": "Chat message · explaining a quiet reaction",
+          "sentence": "He opened the letter and the cat got someone's tongue for a few seconds.",
+          "highlight": "cat got someone's tongue",
+          "tip": "Keep it in casual writing; choose a more direct phrase for formal emails."
+        }
+      ],
+      "origin": {
+        "summary": "The expression likely grew from a playful image of a cat taking or hiding a person's tongue. Its earliest precise origin is uncertain, but similar wording was established by the early 20th century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Children's stories and nursery language imagined a cat taking or hiding someone's tongue."
+          },
+          {
+            "when": "Early 20th century",
+            "text": "Wording such as “the cat's got your tongue” appears in popular speech and writing."
+          },
+          {
+            "when": "Today",
+            "text": "The expression remains a familiar, humorous way to describe being speechless."
+          }
+        ]
+      },
+      "similar": [
+        "cat's got your tongue",
+        "lost for words",
+        "speechless",
+        "at a loss for words"
+      ],
+      "opposite": "very talkative",
+      "pitfall": "The standard wording is “the cat's got your tongue”; “cat got someone's tongue” sounds more deliberately adapted to a particular person."
+    }
+  ]
+}

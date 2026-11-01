@@ -1,0 +1,1259 @@
+{
+  "id": "idioms-talking-honesty-3",
+  "kind": "idiom",
+  "name": "Talking & honesty · 3",
+  "blurb": "21 idioms about talking & honesty",
+  "cards": [
+    {
+      "id": "show-off",
+      "kind": "idiom",
+      "term": "show off",
+      "pos": "idiom",
+      "hint": "want everyone to notice you",
+      "register": "Everyday",
+      "meaning": "To behave or display something in a way that deliberately attracts other people’s attention.",
+      "nuance": "It can be neutral or critical, depending on the tone. Use it when someone wants to impress others, display a skill, or make a possession prominent.",
+      "literal": "Display yourself or something so that people notice and admire it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team demo · presenting a new tool",
+          "sentence": "He kept showing off the new dashboard instead of explaining how it helped the team.",
+          "highlight": "showing off",
+          "tip": "Often criticises attention-seeking behaviour, though it can simply mean displaying a skill."
+        },
+        {
+          "setting": "social",
+          "where": "Party · showing a new car",
+          "sentence": "He couldn’t stop showing off his new car to everyone at the party.",
+          "highlight": "showing off",
+          "tip": "Common for someone who wants to impress others with what they have."
+        },
+        {
+          "setting": "writing",
+          "where": "Product review · comparing features",
+          "sentence": "The advert shows off the camera’s low-light performance, but says little about battery life.",
+          "highlight": "shows off",
+          "tip": "Often used when a product or achievement is presented to impress an audience."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase grew from the older word “show,” meaning to display or make visible. Adding “off” intensified the idea of presenting oneself conspicuously, but the exact development is not clearly documented.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The word “show” develops its basic sense of displaying something to others."
+          },
+          {
+            "when": "1600s–1700s",
+            "text": "Early uses of “show off” develop the sense of making oneself or one’s possessions conspicuous."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase can mean either displaying a skill proudly or behaving in a boastful, attention-seeking way."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "show-off",
+          "label": "noun"
+        },
+        {
+          "term": "showy",
+          "label": "adjective"
+        }
+      ],
+      "similar": [
+        "flaunt",
+        "brag about",
+        "parade",
+        "put on a show"
+      ],
+      "opposite": "downplay",
+      "pitfall": "“Show off” can be approving when someone is proudly displaying a skill, but critical when they are trying to attract attention."
+    },
+    {
+      "id": "sing-a-different-tune",
+      "kind": "idiom",
+      "term": "sing a different tune",
+      "pos": "idiom",
+      "hint": "change your opinion",
+      "register": "Everyday",
+      "meaning": "To start saying or believing something different from what you said or believed before.",
+      "nuance": "It often suggests that someone has changed their mind because of pressure, new information, or changed circumstances.",
+      "literal": "Switching from one song to another while singing.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · changed priorities",
+          "sentence": "After the budget review, the director began to sing a different tune about expanding the project.",
+          "highlight": "sing a different tune",
+          "tip": "Often implies that the change followed new pressure or information."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · changed plans",
+          "sentence": "He wanted to travel abroad, but now he’s singing a different tune because work is busy.",
+          "highlight": "singing a different tune",
+          "tip": "The words can sound mildly critical or teasing."
+        },
+        {
+          "setting": "writing",
+          "where": "Political commentary · reversing a policy",
+          "sentence": "The minister sang a different tune after thousands of people protested the proposed restrictions.",
+          "highlight": "sang a different tune",
+          "tip": "Common in reporting when a person or organization reverses position."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase uses music as a metaphor for changing one’s attitude or position. Its exact origin is unclear, but the idea of singing another song or tune is older than the modern wording.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English speakers used music and song as metaphors for changing behaviour or allegiance."
+          },
+          {
+            "when": "1700s–1800s",
+            "text": "Wording resembling ‘sing a different tune’ began appearing in English writing."
+          },
+          {
+            "when": "Today",
+            "text": "It means publicly changing your opinion, claim, or position."
+          }
+        ]
+      },
+      "similar": [
+        "change your tune",
+        "come around",
+        "backpedal"
+      ],
+      "opposite": "stick to your guns",
+      "pitfall": "It usually refers to a change of position, not simply changing the subject or humming another song."
+    },
+    {
+      "id": "skeleton-in-the-closet",
+      "kind": "idiom",
+      "term": "skeleton in the closet",
+      "pos": "idiom",
+      "hint": "a hidden family secret",
+      "register": "Common at work",
+      "meaning": "A secret that someone keeps hidden because they fear it could cause embarrassment or harm.",
+      "nuance": "Usually refers to a secret about the past, relationships, finances, or identity. It can sound dramatic, so use it when the secret genuinely feels significant.",
+      "literal": "A hidden skeleton stored in a closet.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · asking about a past issue",
+          "sentence": "There’s a skeleton in the closet about why the company changed its accounting system.",
+          "highlight": "skeleton in the closet",
+          "tip": "Often used for a company secret kept from colleagues or shareholders."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · an awkward discovery",
+          "sentence": "When his old letters surfaced, the family discovered a skeleton in the closet.",
+          "highlight": "skeleton in the closet",
+          "tip": "Fits secrets that relatives or friends have concealed."
+        },
+        {
+          "setting": "writing",
+          "where": "Public figure profile · hidden history",
+          "sentence": "The investigation revealed a skeleton in the closet that the politician had carefully concealed.",
+          "highlight": "skeleton in the closet",
+          "tip": "Useful in journalism, biographies, and commentary about concealed wrongdoing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably comes from the idea of keeping a dead body hidden in a closet. Its figurative use appears in print by the early 1800s, but the exact first source is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Stories about hidden bodies were already linked to secrets kept inside the home."
+          },
+          {
+            "when": "Early 1800s",
+            "text": "Writers began using versions of the phrase for concealed family secrets."
+          },
+          {
+            "when": "Today",
+            "text": "It means any embarrassing or damaging secret deliberately kept hidden."
+          }
+        ]
+      },
+      "similar": [
+        "skeletons in the closet",
+        "dark secret",
+        "hidden secret"
+      ],
+      "opposite": "open secret",
+      "pitfall": "Usually singular when referring to one secret; “skeletons in the closet” means there are several."
+    },
+    {
+      "id": "small-talk",
+      "kind": "idiom",
+      "term": "small talk",
+      "pos": "noun",
+      "hint": "light, harmless conversation",
+      "register": "Everyday",
+      "meaning": "Casual conversation about unimportant or familiar topics.",
+      "nuance": "It can help people relax or get to know one another, but it may also seem empty or awkward when someone wants a serious conversation.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Office · arriving at a meeting",
+          "sentence": "We made some small talk about the weather before starting the budget review.",
+          "highlight": "small talk",
+          "tip": "Often used for friendly conversation before business begins."
+        },
+        {
+          "setting": "social",
+          "where": "Party · meeting someone new",
+          "sentence": "We began with some small talk about our weekend plans before talking about work.",
+          "highlight": "small talk",
+          "tip": "A natural way to describe polite, low-stakes conversation at a gathering."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · reconnecting with a client",
+          "sentence": "After some small talk, she brought up the issue she wanted to discuss.",
+          "highlight": "small talk",
+          "tip": "Useful when you want to sound friendly without distracting from the main point."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed in the 1700s from the contrast between talk on a 'small' scale and important, substantial conversation.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1700s",
+            "text": "The expression 'small talk' begins appearing in English, meaning light conversation on minor subjects."
+          },
+          {
+            "when": "1800s",
+            "text": "It becomes established as a polite description of everyday conversation with little depth."
+          },
+          {
+            "when": "Today",
+            "text": "It refers to casual talk used to build rapport or pass the time."
+          }
+        ]
+      },
+      "similar": [
+        "casual conversation",
+        "chitchat",
+        "banter"
+      ],
+      "opposite": "a deep conversation",
+      "pitfall": "It does not necessarily mean talking for a short time; it describes the topic and depth of the conversation."
+    },
+    {
+      "id": "speak-of-the-devil",
+      "kind": "idiom",
+      "term": "speak of the devil",
+      "pos": "idiom",
+      "hint": "someone appears as you mention them",
+      "register": "Everyday",
+      "meaning": "Used when someone arrives or contacts you just after you have been talking about them.",
+      "nuance": "It often adds amused surprise, especially when the arrival is well timed. It can also be a playful way to acknowledge that your prediction came true.",
+      "literal": "The devil appears immediately after someone speaks his name.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team chat · a colleague arrives",
+          "sentence": "Speak of the devil—Marcus just joined the call.",
+          "highlight": "Speak of the devil",
+          "tip": "A light, conversational opener when someone appears unexpectedly."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up · a friend arrives",
+          "sentence": "Speak of the devil! We were just talking about you.",
+          "highlight": "Speak of the devil",
+          "tip": "Common when greeting someone you were discussing moments earlier."
+        },
+        {
+          "setting": "writing",
+          "where": "Message · announcing an arrival",
+          "sentence": "Speak of the devil: the designer has just sent the revised files.",
+          "highlight": "Speak of the devil",
+          "tip": "Works in informal messages and social posts."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase comes from the older expression “speak of the devil and he appears,” based on the belief that naming a spirit could summon it. The modern wording became established in the 1600s.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "European folklore held that saying a spirit’s name could make it appear."
+          },
+          {
+            "when": "1600s",
+            "text": "The expression “speak of the devil and he appears” appears in English collections of proverbs."
+          },
+          {
+            "when": "Today",
+            "text": "It means someone has appeared just after being mentioned."
+          }
+        ]
+      },
+      "similar": [
+        "Talk of the devil",
+        "What a coincidence",
+        "Fancy meeting you here"
+      ],
+      "opposite": "Out of the blue",
+      "pitfall": "It does not mean someone has said something bad about the devil or that trouble is coming; it usually marks an amusingly well-timed arrival."
+    },
+    {
+      "id": "straight-from-the-horses-mouth",
+      "kind": "idiom",
+      "term": "straight from the horse's mouth",
+      "pos": "idiom",
+      "hint": "an authoritative firsthand source",
+      "register": "Everyday",
+      "meaning": "Directly from someone who has firsthand knowledge of the situation.",
+      "nuance": "It emphasizes that a report comes from a reliable, directly involved source. It can sound slightly old-fashioned, but is still natural in everyday speech and writing.",
+      "literal": "Taking information directly from the horse’s mouth.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team briefing · clarifying a delay",
+          "sentence": "You should hear straight from the horse's mouth: the supplier confirmed the shipment will arrive tomorrow.",
+          "highlight": "straight from the horse's mouth",
+          "tip": "Often used when someone has checked the original source."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up · repeating a rumor",
+          "sentence": "I heard straight from the horse's mouth that Maya is moving to Lisbon next month.",
+          "highlight": "straight from the horse's mouth",
+          "tip": "Suggests the information comes from someone directly involved."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · confirming a change",
+          "sentence": "According to the announcement, straight from the horse's mouth, the new policy begins in June.",
+          "highlight": "straight from the horse's mouth",
+          "tip": "More conversational than formal; ‘from the source’ is a concise alternative."
+        }
+      ],
+      "origin": {
+        "summary": "The expression is linked to horse trading and the belief that a horse’s age and condition could be judged from its teeth. It was used to mean information obtained directly from the horse itself, then developed into a general expression for firsthand information.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "The wording appears in contexts connected with horse trading and direct assessment."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "The phrase is recorded in its modern figurative sense of information from a firsthand source."
+          },
+          {
+            "when": "Today",
+            "text": "It means hearing something directly from an authoritative or involved person."
+          }
+        ]
+      },
+      "similar": [
+        "from the source",
+        "firsthand",
+        "at first hand",
+        "from the horse's mouth"
+      ],
+      "opposite": "hearsay",
+      "pitfall": "It does not mean that the speaker personally witnessed everything; it emphasizes that the information came directly from a reliable source."
+    },
+    {
+      "id": "swear-by",
+      "kind": "idiom",
+      "term": "swear by",
+      "pos": "idiom",
+      "hint": "trust completely",
+      "register": "Everyday",
+      "meaning": "To trust someone or something so completely that you would rely on them without question.",
+      "nuance": "This expresses strong confidence and personal trust. It often sounds more emphatic than simply saying you believe in someone.",
+      "literal": "To make a solemn promise by calling on someone or something as your guarantee.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Choosing a supplier · reference checks",
+          "sentence": "I swear by our account manager; she knows every detail of this contract.",
+          "highlight": "swear by",
+          "tip": "Shows strong personal confidence in a person."
+        },
+        {
+          "setting": "social",
+          "where": "Recommending a restaurant",
+          "sentence": "I swear by this little bakery, especially their almond pastries.",
+          "highlight": "swear by",
+          "tip": "Natural when praising something you consistently trust or enjoy."
+        },
+        {
+          "setting": "writing",
+          "where": "Product review · choosing a tool",
+          "sentence": "Graphic designers swear by this free tool for cleaning up image files.",
+          "highlight": "swear by",
+          "tip": "Common in informal recommendations and reviews."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase grew from combining the older English word “swear” with “by,” originally suggesting an oath made with a particular person or thing as the guarantee. Its modern sense of complete trust developed gradually.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "“Swear” originally referred to making a solemn promise or taking an oath."
+          },
+          {
+            "when": "Early modern English",
+            "text": "“Swear by” came to mean invoking someone or something as the basis of an oath."
+          },
+          {
+            "when": "Today",
+            "text": "It means placing complete confidence in a person, thing, or method."
+          }
+        ]
+      },
+      "similar": [
+        "swear on",
+        "trust completely",
+        "put your faith in",
+        "have faith in"
+      ],
+      "opposite": "distrust",
+      "pitfall": "Use “swear by” for strong personal confidence; use “swear to” when reporting a promise, as in “I swear to return it.”"
+    },
+    {
+      "id": "sweep-something-under-the-rug",
+      "kind": "idiom",
+      "term": "sweep something under the rug",
+      "pos": "idiom",
+      "hint": "hide a problem instead of dealing with it",
+      "register": "Common at work",
+      "meaning": "To hide an unpleasant problem, mistake or issue so that people stop noticing or discussing it.",
+      "nuance": "It suggests deliberate avoidance and can sound critical when you are describing someone else’s behaviour. It is often used when a problem is being ignored rather than properly resolved.",
+      "literal": "Push a troublesome object beneath a rug, where it will be hidden from view.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing a missed deadline",
+          "sentence": "We can’t sweep the missed deadline under the rug; the client deserves a clear explanation.",
+          "highlight": "sweep the missed deadline under the rug",
+          "tip": "The thing being hidden comes between ‘sweep’ and ‘under’."
+        },
+        {
+          "setting": "social",
+          "where": "Family conversation · an awkward disagreement",
+          "sentence": "Don’t sweep it under the rug just because bringing it up will be uncomfortable.",
+          "highlight": "sweep it under the rug",
+          "tip": "Often used in advice or criticism."
+        },
+        {
+          "setting": "writing",
+          "where": "Project report · noting an unresolved risk",
+          "sentence": "The report warns that the team cannot sweep the security issue under the rug.",
+          "highlight": "sweep the security issue under the rug",
+          "tip": "Useful in reports when describing a problem that remains unaddressed."
+        }
+      ],
+      "origin": {
+        "summary": "The image comes from physically hiding something beneath a rug. The figurative use developed in the 1900s, but the exact first use and the reason it became popular are not firmly documented.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "People could literally hide objects by sweeping or pushing them beneath a rug."
+          },
+          {
+            "when": "1900s",
+            "text": "Writers began using the image for concealing problems and avoiding awkward matters."
+          },
+          {
+            "when": "Today",
+            "text": "Means deliberately ignoring or hiding something that should be addressed."
+          }
+        ]
+      },
+      "similar": [
+        "Bury the hatchet",
+        "Sweep it under the carpet",
+        "Gloss over something"
+      ],
+      "opposite": "Address something directly",
+      "pitfall": "Usually implies a deliberate attempt to conceal a problem. For British English, ‘sweep it under the carpet’ is more common."
+    },
+    {
+      "id": "take-into-consideration",
+      "kind": "idiom",
+      "term": "take into consideration",
+      "pos": "phrase",
+      "hint": "give something serious thought",
+      "register": "Common at work",
+      "meaning": "To think carefully about something before making a decision or taking action.",
+      "nuance": "Formal and respectful. It suggests that the issue deserves attention rather than an immediate answer.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · changing plans",
+          "sentence": "Let’s take into consideration the later train before we confirm the venue.",
+          "highlight": "take into consideration",
+          "tip": "Use it when a factor may affect the final decision."
+        },
+        {
+          "setting": "social",
+          "where": "Group chat · choosing a restaurant",
+          "sentence": "We should take into consideration everyone’s budget when choosing where to eat.",
+          "highlight": "take into consideration",
+          "tip": "A polite way to raise an important factor during a discussion."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · responding to a request",
+          "sentence": "Thank you for your message; we will take into consideration the concerns you raised.",
+          "highlight": "take into consideration",
+          "tip": "Common in professional emails, especially when no decision has been made yet."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the ordinary words “take,” “into,” and “consideration.” Its exact starting point is uncertain, but it was in use by the early 1800s.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English speakers already used “consideration” to mean careful thought or examination."
+          },
+          {
+            "when": "Early 1800s",
+            "text": "The phrase “take into consideration” appears in regular English usage."
+          },
+          {
+            "when": "Today",
+            "text": "It is a formal way to say that something deserves careful thought."
+          }
+        ]
+      },
+      "similar": [
+        "take into account",
+        "bear in mind",
+        "give thought to"
+      ],
+      "opposite": "overlook",
+      "pitfall": "Usually take something into consideration, rather than take into consideration something."
+    },
+    {
+      "id": "take-out-of-context",
+      "kind": "idiom",
+      "term": "take out of context",
+      "pos": "idiom",
+      "hint": "remove the surrounding circumstances",
+      "register": "Common at work",
+      "meaning": "To understand or present a statement without the circumstances needed to interpret it correctly.",
+      "nuance": "This often suggests that a quotation or comment has been distorted, though it can also mean that information was simply incomplete. It is commonly used when discussing what people say and how they say it.",
+      "literal": "Taking something out of the context that surrounds it.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · clarifying feedback",
+          "sentence": "Don’t take her comment out of context; she was explaining the delay, not blaming you.",
+          "highlight": "take her comment out of context",
+          "tip": "The highlighted phrase refers to removing a statement from its surrounding explanation."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · defending a friend",
+          "sentence": "The post was taken out of context, so it sounded far more critical than it was.",
+          "highlight": "taken out of context",
+          "tip": "The passive form fits naturally when the act of distortion comes first."
+        },
+        {
+          "setting": "writing",
+          "where": "News report · disputed quotation",
+          "sentence": "The article was criticized for taking the mayor’s remarks out of context.",
+          "highlight": "taking the mayor’s remarks out of context",
+          "tip": "Use the gerund form after a verb such as ‘for’ or ‘accused of’."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from the idea that a statement can change meaning when separated from its surrounding circumstances. Its exact first use is difficult to pin down, but both ‘context’ and the modern figurative sense were established by the twentieth century.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "‘Context’ was already in English use for the circumstances surrounding a statement or event."
+          },
+          {
+            "when": "1900s",
+            "text": "Writers increasingly used ‘out of context’ to describe material presented without its explanatory setting."
+          },
+          {
+            "when": "Today",
+            "text": "‘Take out of context’ commonly means removing a quotation or comment from the context that gives it meaning."
+          }
+        ]
+      },
+      "similar": [
+        "out of context",
+        "quote out of context",
+        "cherry-pick"
+      ],
+      "opposite": "in context",
+      "pitfall": "Use the active form ‘take something out of context’ when the person or action is doing the distorting; use ‘taken out of context’ when the distortion is already being described."
+    },
+    {
+      "id": "take-to-heart",
+      "kind": "idiom",
+      "term": "take to heart",
+      "pos": "idiom",
+      "hint": "treat advice or criticism with real attention",
+      "register": "Everyday",
+      "meaning": "To consider someone’s advice, criticism, or comments seriously and let them affect your thinking or behaviour.",
+      "nuance": "It suggests more than simply understanding what someone said: you take their words to heart and respond to them thoughtfully.",
+      "literal": "Accept something deeply into your heart, giving it serious emotional weight.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Performance review · receiving feedback",
+          "sentence": "I took the feedback to heart and changed how I prepare for client meetings.",
+          "highlight": "took the feedback to heart",
+          "tip": "Common when advice leads to a lasting change in how someone works."
+        },
+        {
+          "setting": "social",
+          "where": "Friendship · offering a warning",
+          "sentence": "She took my warning to heart and stopped lending money to people she barely knew.",
+          "highlight": "took my warning to heart",
+          "tip": "Often used when someone responds seriously to advice from another person."
+        },
+        {
+          "setting": "writing",
+          "where": "Team update · reflecting on criticism",
+          "sentence": "We took the review comments to heart and revised the proposal before sharing it again.",
+          "highlight": "took the review comments to heart",
+          "tip": "Useful in reflective writing when describing how feedback influenced a decision."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is built on the older idea of accepting something into the heart. Its modern sense of treating advice or criticism seriously developed over time.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The expression ‘take to heart’ was used for receiving or accepting something deeply."
+          },
+          {
+            "when": "1500s–1800s",
+            "text": "The wording became established in English as a way of describing taking advice, criticism, or another person’s words seriously."
+          },
+          {
+            "when": "Today",
+            "text": "It refers to letting someone’s words influence your thinking, feelings, or actions."
+          }
+        ]
+      },
+      "similar": [
+        "Take seriously",
+        "Heed",
+        "Take on board",
+        "Take personally"
+      ],
+      "opposite": "Dismiss",
+      "pitfall": "‘Take to heart’ can mean taking advice seriously, while ‘take personally’ means treating an action or remark as an insult against you."
+    },
+    {
+      "id": "the-cats-out-of-the-bag",
+      "kind": "idiom",
+      "term": "the cat's out of the bag",
+      "pos": "idiom",
+      "hint": "a secret is finally revealed",
+      "register": "Everyday",
+      "meaning": "A secret that was meant to stay hidden has been revealed, often accidentally.",
+      "nuance": "It often suggests that someone has revealed the information without meaning to. It can also be used once the secret is already public.",
+      "literal": "A cat has escaped from a closed bag and can no longer be hidden.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · discussing layoffs",
+          "sentence": "When Marcus mentioned the office move, the cat's out of the bag.",
+          "highlight": "the cat's out of the bag",
+          "tip": "Useful when news spreads before an employer is ready to announce it."
+        },
+        {
+          "setting": "social",
+          "where": "Birthday party · an unexpected gift",
+          "sentence": "I tried to keep the party secret, but the cat's out of the bag.",
+          "highlight": "the cat's out of the bag",
+          "tip": "Often follows a clue or slip that gives away a surprise."
+        },
+        {
+          "setting": "writing",
+          "where": "Company announcement · confidential news",
+          "sentence": "The negotiations were supposed to remain private, but the cat's out of the bag.",
+          "highlight": "the cat's out of the bag",
+          "tip": "Common in informal reporting when confidential information has leaked."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase probably developed from older expressions about letting a cat out of a bag. The popular story that it came from sending a live cat to someone in a sealed bag is not supported by reliable evidence.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1600s",
+            "text": "Older expressions compare keeping a secret to keeping a cat contained in a bag."
+          },
+          {
+            "when": "1800s",
+            "text": "The wording becomes more familiar in the sense of disclosing a secret."
+          },
+          {
+            "when": "Today",
+            "text": "Means that hidden information has been revealed, usually by mistake."
+          }
+        ]
+      },
+      "similar": [
+        "let the cat out of the bag",
+        "spill the beans",
+        "give it away"
+      ],
+      "pitfall": "Use it when information has already been revealed; it does not mean that someone is deliberately telling a secret."
+    },
+    {
+      "id": "think-twice",
+      "kind": "idiom",
+      "term": "think twice",
+      "pos": "phrase",
+      "hint": "consider something again before acting",
+      "register": "Everyday",
+      "meaning": "To consider an action or decision carefully before you do it.",
+      "nuance": "It suggests that there may be risks, consequences, or a better option worth noticing. Common when giving advice or warning someone not to act too quickly.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · approving a risky change",
+          "sentence": "Before you approve the rollout, think twice about what it will do to support.",
+          "highlight": "think twice",
+          "tip": "A friendly warning to pause and check the consequences."
+        },
+        {
+          "setting": "social",
+          "where": "Dinner conversation · reacting to an invitation",
+          "sentence": "Think twice before agreeing to host them; your place is much smaller than you remember.",
+          "highlight": "Think twice",
+          "tip": "Often used when you suspect there is a hidden drawback."
+        },
+        {
+          "setting": "writing",
+          "where": "Business email · postponing a decision",
+          "sentence": "Please think twice before signing the contract, as the renewal terms are unusually strict.",
+          "highlight": "think twice",
+          "tip": "Useful for caution without sounding abrupt."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase combines two long-established English words and has no widely accepted story behind it. Its figurative sense is naturally understood as giving something more than one thought before acting.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Old English",
+            "text": "The word “twice” develops from an older expression meaning “two times.”"
+          },
+          {
+            "when": "1800s",
+            "text": "The expression “think twice” begins appearing in English writing in the sense of considering something more than once."
+          },
+          {
+            "when": "Today",
+            "text": "It is common advice to pause before making a decision or taking an action."
+          }
+        ]
+      },
+      "similar": [
+        "think carefully",
+        "take another look",
+        "sleep on it"
+      ],
+      "opposite": "act without thinking",
+      "pitfall": "It usually means pause and reconsider, not literally repeat the same thought."
+    },
+    {
+      "id": "tip-off",
+      "kind": "idiom",
+      "term": "tip off",
+      "pos": "idiom",
+      "hint": "give someone advance warning",
+      "register": "Common at work",
+      "meaning": "To give someone information or a warning that helps them understand or prepare for something.",
+      "nuance": "The information is usually private and useful, often arriving before a problem becomes obvious. It can sound helpful and informal, especially when the person giving it knows more than the person receiving it.",
+      "literal": "Passing someone a quiet warning or useful piece of information.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team stand-up · a delayed client delivery",
+          "sentence": "Could you tip me off before the client changes the deadline again?",
+          "highlight": "tip me off",
+          "tip": "Often used when you want advance notice rather than a detailed explanation."
+        },
+        {
+          "setting": "social",
+          "where": "Concert tickets · a secret sale",
+          "sentence": "My sister tipped me off that extra tickets would be released at noon.",
+          "highlight": "tipped me off",
+          "tip": "Natural for passing along information from someone who knows better."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · confirming a schedule change",
+          "sentence": "I wanted to tip you off that the meeting has moved to Thursday morning.",
+          "highlight": "tip you off",
+          "tip": "A friendly alternative to a blunt notice when the change may cause inconvenience."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from the older sense of ‘tip’ meaning to give someone information. The exact origin of the phrase is uncertain, though its use as a warning or private signal is well established.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1590s",
+            "text": "The verb ‘tip’ is recorded in the sense of giving information or telling someone something useful."
+          },
+          {
+            "when": "Early 1800s",
+            "text": "The expression ‘tip off’ appears in the sense of warning or informing someone privately."
+          },
+          {
+            "when": "Today",
+            "text": "It is used for friendly warnings, advance notice and useful information."
+          }
+        ]
+      },
+      "similar": [
+        "clue in",
+        "give a heads-up",
+        "point in the right direction"
+      ],
+      "opposite": "mislead",
+      "pitfall": "Say ‘She tipped me off’, not ‘She tipped off me’."
+    },
+    {
+      "id": "to-be-honest",
+      "kind": "idiom",
+      "term": "to be honest",
+      "pos": "phrase",
+      "hint": "frankly speaking",
+      "register": "Everyday",
+      "meaning": "To begin by saying what you genuinely think or feel.",
+      "nuance": "It signals candour, but can also soften a blunt or potentially embarrassing opinion.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team discussion · raising a concern",
+          "sentence": "To be honest, I think we should postpone the launch until the reporting issue is fixed.",
+          "highlight": "To be honest",
+          "tip": "Use it when your opinion differs from the obvious expectation."
+        },
+        {
+          "setting": "social",
+          "where": "Chat · choosing a restaurant",
+          "sentence": "To be honest, I’d rather cook at home than spend our Saturday waiting for a table.",
+          "highlight": "To be honest",
+          "tip": "It can make a personal preference feel less blunt."
+        },
+        {
+          "setting": "writing",
+          "where": "Email · giving feedback",
+          "sentence": "To be honest, the second draft feels clearer, although the opening is still too long.",
+          "highlight": "To be honest",
+          "tip": "Consider a less direct alternative such as ‘I think’ in formal writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase grew out of the long-established word “honest,” while the exact point when this wording became common is uncertain.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The adjective “honest” enters English through Old French and Latin, initially carrying the sense of upright or respectable."
+          },
+          {
+            "when": "1800s",
+            "text": "The wording “to be honest” becomes established as a way to introduce a frank opinion in English."
+          },
+          {
+            "when": "Today",
+            "text": "It serves as a conversational marker for honesty, often with a slightly apologetic tone."
+          }
+        ]
+      },
+      "forms": [
+        {
+          "term": "honesty",
+          "label": "noun"
+        }
+      ],
+      "similar": [
+        "frankly speaking",
+        "to tell the truth",
+        "if I’m being honest",
+        "honestly speaking"
+      ],
+      "pitfall": "In formal writing, it can sound abrupt or undermine your point; state the opinion directly or explain why you are being candid."
+    },
+    {
+      "id": "touch-on",
+      "kind": "idiom",
+      "term": "touch on",
+      "pos": "idiom",
+      "hint": "mention briefly",
+      "register": "Common at work",
+      "meaning": "To mention or discuss a subject briefly without going into much detail.",
+      "nuance": "It is neutral and professional, often used when a topic needs a quick mention rather than a full discussion.",
+      "literal": "To make brief or light contact with something.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · customer feedback",
+          "sentence": "We touched on customer complaints, but we’ll need a longer session next week.",
+          "highlight": "touched on",
+          "tip": "Often signals that the topic received only brief attention."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · travel plans",
+          "sentence": "We touched on our plans for the weekend, then moved on to dinner.",
+          "highlight": "touched on",
+          "tip": "Works when the topic is mentioned without being explored fully."
+        },
+        {
+          "setting": "writing",
+          "where": "Project update · risks",
+          "sentence": "The report touches on delivery risks but does not explain how they will be managed.",
+          "highlight": "touches on",
+          "tip": "Common in reports and summaries when a subject receives limited coverage."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase is recorded in English by the early 1800s. Its meaning developed from making light contact with a subject to referring to it briefly.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "English had long used ‘touch’ to mean make contact with a subject or topic."
+          },
+          {
+            "when": "1800s",
+            "text": "‘Touch on’ and ‘touch upon’ appear in writing with the sense of mentioning or discussing briefly."
+          },
+          {
+            "when": "Today",
+            "text": "It usually means giving a topic brief mention in speech or writing."
+          }
+        ]
+      },
+      "similar": [
+        "bring up",
+        "mention in passing",
+        "allude to",
+        "touch upon"
+      ],
+      "opposite": "elaborate on",
+      "pitfall": "Do not confuse it with physically touching something; ‘touch on a topic’ means to mention or discuss it briefly."
+    },
+    {
+      "id": "tune-in",
+      "kind": "idiom",
+      "term": "tune in",
+      "pos": "phrasal verb",
+      "hint": "start paying attention",
+      "register": "Everyday",
+      "meaning": "To pay close attention to what someone is saying or to the wider context of an issue.",
+      "nuance": "It can mean listening carefully, understanding someone’s point, or becoming aware of a trend. It often suggests a change in focus or a new level of understanding.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · clarifying priorities",
+          "sentence": "After the customer interviews, we tuned in to what people actually needed.",
+          "highlight": "tuned in",
+          "tip": "Use the past tense when the moment of understanding has already happened."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · changing the subject",
+          "sentence": "She was talking about budget cuts, so I tuned in and asked how it affected us.",
+          "highlight": "tuned in",
+          "tip": "Common when you begin following a discussion closely."
+        },
+        {
+          "setting": "writing",
+          "where": "Media report · public reaction",
+          "sentence": "Viewers tuned in to the debate after the leaked report was published.",
+          "highlight": "tuned in",
+          "tip": "Often describes audiences following a programme, discussion or developing story."
+        }
+      ],
+      "origin": {
+        "summary": "The expression developed from the older meanings of tuning and turning something toward a particular signal. Its broader figurative sense of paying attention became common as radio broadcasting grew.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Middle English",
+            "text": "The word “tune” referred to a musical melody and later to adjusting the pitch of an instrument."
+          },
+          {
+            "when": "Early 20th century",
+            "text": "Radio broadcasting encouraged people to describe adjusting a receiver as “tuning in.”"
+          },
+          {
+            "when": "Later 20th century",
+            "text": "The phrase expanded to mean paying close attention or understanding a wider issue."
+          }
+        ]
+      },
+      "similar": [
+        "pay attention",
+        "listen closely",
+        "get the message"
+      ],
+      "pitfall": "When naming the subject, use “tune in to”: “Tune in to what the speaker is saying.”"
+    },
+    {
+      "id": "tune-out",
+      "kind": "idiom",
+      "term": "tune out",
+      "pos": "phrase",
+      "hint": "switch your attention off",
+      "register": "Common at work",
+      "meaning": "To stop paying attention to someone or something.",
+      "nuance": "It can suggest politely ignoring chatter, or more critically refusing to engage with a person or issue.",
+      "literal": "Turning a radio dial until a station disappears.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · distracting update",
+          "sentence": "I tried to tune out the background noise and focus on the presentation.",
+          "highlight": "tune out",
+          "tip": "Often means turning your attention away from something unwanted."
+        },
+        {
+          "setting": "social",
+          "where": "Conversation · repeating yourself",
+          "sentence": "She tuned me out halfway through my story, so I stopped talking.",
+          "highlight": "tuned me out",
+          "tip": "This use can imply that the other person was bored or disengaged."
+        },
+        {
+          "setting": "writing",
+          "where": "Work email · managing interruptions",
+          "sentence": "I tune out notifications during focused work, but I keep them on for team chat.",
+          "highlight": "tune out",
+          "tip": "Clear and natural when discussing how you manage distractions."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from the idea of adjusting a radio or musical instrument until a sound is no longer audible, then broadened to mean withdrawing attention.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "1800s",
+            "text": "Writers began using ‘tune’ for adjusting attention or perception, including phrases such as ‘tuned to a different wavelength’."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "Broadcasting made the image of turning a radio dial especially familiar."
+          },
+          {
+            "when": "Today",
+            "text": "The phrase means to stop listening, noticing or responding to something."
+          }
+        ]
+      },
+      "similar": [
+        "zone out",
+        "switch off",
+        "disengage"
+      ],
+      "opposite": "pay attention",
+      "pitfall": "Don’t use it for accidentally failing to hear something; it usually implies deliberate disengagement."
+    },
+    {
+      "id": "tuned-in",
+      "kind": "idiom",
+      "term": "tuned in",
+      "pos": "idiom",
+      "hint": "listening with your full attention",
+      "register": "Common at work",
+      "meaning": "To be attentive to someone’s feelings, needs, ideas or situation.",
+      "nuance": "It suggests active understanding, not merely hearing what is being said. It can also describe a group, technology or experience that responds well to people.",
+      "literal": "Adjusting a radio so you can hear the station clearly.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team meeting · clarifying concerns",
+          "sentence": "She was really tuned in to the team’s worries and adjusted the plan accordingly.",
+          "highlight": "tuned in to",
+          "tip": "Common when someone understands what colleagues need."
+        },
+        {
+          "setting": "social",
+          "where": "Catching up · a friend’s news",
+          "sentence": "He’s always tuned in to how I’m feeling, even when I don’t explain.",
+          "highlight": "tuned in to",
+          "tip": "Shows emotional awareness and close attention."
+        },
+        {
+          "setting": "writing",
+          "where": "Event review · audience feedback",
+          "sentence": "The session was well tuned in to what attendees wanted to discuss.",
+          "highlight": "tuned in to",
+          "tip": "Useful for describing content that closely matches an audience’s interests."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase began with radio: listeners adjusted their sets to hear a station clearly. Writers later extended it to describe people or situations that were attentive and responsive.",
+        "confidence": "recorded",
+        "timeline": [
+          {
+            "when": "1930s",
+            "text": "“Tune in” is documented for adjusting a radio receiver and receiving a broadcast clearly."
+          },
+          {
+            "when": "Mid-20th century",
+            "text": "The phrase develops a figurative meaning of paying close attention and understanding."
+          },
+          {
+            "when": "Today",
+            "text": "It describes attentive people, relevant communication and experiences that meet people’s needs."
+          }
+        ]
+      },
+      "similar": [
+        "on the same wavelength",
+        "in sync",
+        "attentive"
+      ],
+      "pitfall": "When naming what someone is attentive to, use “tuned in to”: “tuned in to feedback,” not usually “tuned in feedback.”"
+    },
+    {
+      "id": "white-lie",
+      "kind": "idiom",
+      "term": "white lie",
+      "pos": "idiom",
+      "hint": "a harmless untruth",
+      "register": "Everyday",
+      "meaning": "A small, harmless lie told to avoid embarrassment, hurt, or unnecessary conflict.",
+      "nuance": "It often sounds affectionate or considerate, especially in personal conversations. It can become misleading if used to hide something important.",
+      "literal": "A lie presented as innocent or harmless.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Team plans · protecting a colleague",
+          "sentence": "She told a white lie about the unfinished report so he wouldn’t feel embarrassed.",
+          "highlight": "white lie",
+          "tip": "Usually describes a small untruth intended to spare someone discomfort."
+        },
+        {
+          "setting": "social",
+          "where": "Birthday plans · changing the time",
+          "sentence": "I told a white lie about being busy because I had already made other plans.",
+          "highlight": "white lie",
+          "tip": "Common among friends when a direct refusal would cause tension."
+        },
+        {
+          "setting": "writing",
+          "where": "Novel · explaining an absence",
+          "sentence": "His sister covered for him with a white lie when their mother asked where he was.",
+          "highlight": "white lie",
+          "tip": "A useful narrative phrase for a kind, protective or convenient untruth."
+        }
+      ],
+      "origin": {
+        "summary": "The exact origin is unclear, but the phrase developed from the older contrast between a lie that appears “black” or cruel and one considered “white” or harmless.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "Writers used “white” to describe innocence, purity and harmlessness."
+          },
+          {
+            "when": "Early 1900s",
+            "text": "The phrase “white lie” became established for a small or harmless untruth."
+          },
+          {
+            "when": "Today",
+            "text": "It can also refer to a supposedly harmless deception that has serious consequences."
+          }
+        ]
+      },
+      "similar": [
+        "fib",
+        "harmless exaggeration",
+        "whitewash"
+      ],
+      "opposite": "blatant lie",
+      "pitfall": "It is not automatically harmless; the label can be used to excuse deception."
+    },
+    {
+      "id": "wishful-thinking",
+      "kind": "idiom",
+      "term": "wishful thinking",
+      "pos": "noun",
+      "hint": "hoping instead of facing facts",
+      "register": "Common at work",
+      "meaning": "Believing that things will turn out well because you want them to, rather than because the evidence supports it.",
+      "nuance": "Often mildly critical, but it can also be used gently to describe an optimistic guess. It fits when someone ignores risks, obstacles, or contrary evidence.",
+      "literal": "Thinking mainly according to what you wish were true.",
+      "uses": [
+        {
+          "setting": "work",
+          "where": "Planning · forecasting sales",
+          "sentence": "Assuming every customer will renew next month is wishful thinking unless the data supports it.",
+          "highlight": "wishful thinking",
+          "tip": "Useful when gently challenging an overly optimistic forecast."
+        },
+        {
+          "setting": "social",
+          "where": "Friends · discussing an ex",
+          "sentence": "Her theory that he will change is probably wishful thinking.",
+          "highlight": "wishful thinking",
+          "tip": "Sounds conversational and can sound playful or kind."
+        },
+        {
+          "setting": "writing",
+          "where": "Opinion column · risky investment",
+          "sentence": "Calling the proposal risk-free is wishful thinking, not sound financial analysis.",
+          "highlight": "wishful thinking",
+          "tip": "Strong in criticism, commentary, and persuasive writing."
+        }
+      ],
+      "origin": {
+        "summary": "The phrase developed from older uses of ‘wishful’ meaning desirable or hoped for and ‘thinking’ meaning thought or opinion. Its exact starting point is not firmly established.",
+        "confidence": "likely",
+        "timeline": [
+          {
+            "when": "Earlier",
+            "text": "The adjective ‘wishful’ was used for hopes, desires, and things wanted but not necessarily available."
+          },
+          {
+            "when": "1800s",
+            "text": "The combined phrase ‘wishful thinking’ appears in English writing and speech."
+          },
+          {
+            "when": "Today",
+            "text": "It means belief shaped more by hope than by evidence."
+          }
+        ]
+      },
+      "similar": [
+        "the glass half full",
+        "hoping for the best",
+        "cloud nine"
+      ],
+      "pitfall": "It describes distorted or overly hopeful thinking, not ordinary optimism or making a well-supported prediction."
+    }
+  ]
+}
