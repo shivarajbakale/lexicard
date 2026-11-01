@@ -32,7 +32,22 @@ STOP = {"the", "a", "an", "and", "or", "of", "to", "in", "page", "index", "week"
 
 def pages_text(pdf: Path) -> list[str]:
     reader = PdfReader(str(pdf))
-    return [(p.extract_text() or "") for p in reader.pages]
+    # Some exports use tabs between words; treat them as spaces.
+    return [(p.extract_text() or "").replace("\t", " ") for p in reader.pages]
+
+
+def from_matching(pages: list[str]) -> list[str]:
+    """Lesson matching exercises: a number line ("6."), the headword, then a blank to fill in ("_____")."""
+    found: list[str] = []
+    # One continuous stream of lines, so an entry split across a page break still matches.
+    lines = [l.strip() for text in pages for l in text.splitlines() if l.strip()]
+    for i in range(1, len(lines) - 1):
+        w = lines[i].lower()
+        if re.fullmatch(r"\d{1,3}\.", lines[i - 1]) and re.fullmatch(r"_{3,}", lines[i + 1]) and re.fullmatch(HEAD, w) and w not in STOP:
+            # Single words, or short idioms; longer phrases here are exercise answers, not headwords.
+            if " " not in w or len(w.split()) <= 4 and not w.startswith("the "):
+                found.append(w)
+    return found
 
 
 def from_index(pages: list[str]) -> list[str]:
@@ -74,11 +89,12 @@ def main() -> None:
     if total_chars < 1000:
         sys.exit(f"{pdf.name}: only {total_chars} characters of text. It may be a scanned PDF; it needs OCR first.")
 
-    method = "index"
-    words = from_index(pages)
-    if len(set(words)) < 300:
-        method = "word lists"
-        words = from_lists(pages)
+    # Use the first method that finds a plausible vocabulary list.
+    method, words = "index", []
+    for name, fn in (("index", from_index), ("matching exercises", from_matching), ("word lists", from_lists)):
+        method, words = name, fn(pages)
+        if len(set(words)) >= 300:
+            break
 
     counts = Counter(words)
     unique = sorted(counts)

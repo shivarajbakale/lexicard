@@ -10,6 +10,7 @@
 //
 // Or step by step (each one resumes where it stopped; results are cached under content/):
 //   node scripts/content/generate.mjs pick-words            # headwords from content/source/pdf-headwords.json
+//   node scripts/content/generate.mjs top-up --words 1000   # model suggests more words if the book gave fewer
 //   node scripts/content/generate.mjs rank --kind idiom --top 500
 //   node scripts/content/generate.mjs rank --kind phrase --top 500
 //   node scripts/content/generate.mjs cards --kind word  [--limit 20] [--concurrency 8] [--dry-run]
@@ -169,6 +170,38 @@ function pickWords(limit = Number(flag('limit', 1000))) {
   // Multi-word entries from the book join the idiom candidates.
   if (src.idioms?.length) writeJson(join(SRC, 'book-idioms.json'), { source: src.source, terms: src.idioms });
   console.log(`${words.length} words picked -> ${SRC}/picked-words.json` + (src.idioms?.length ? `; ${src.idioms.length} book idioms kept for ranking` : ''));
+}
+
+// ---------- top up ----------
+/** If the book gave fewer words than wanted, ask the model for more at the same level (never repeats). */
+async function topUpWords(target) {
+  const file = join(SRC, 'picked-words.json');
+  const picked = readJson(file);
+  if (!picked || picked.terms.length >= target) return;
+  requireKey();
+  const have = new Set([...picked.terms, ...existingIds()].map((t) => slugify(t)));
+  const extra = [];
+  for (let round = 0; round < 6 && picked.terms.length + extra.length < target; round++) {
+    const need = target - picked.terms.length - extra.length;
+    const sample = picked.terms.filter((_, i) => i % Math.max(1, Math.floor(picked.terms.length / 60)) === 0).slice(0, 60);
+    const out = await askJson(
+      'You curate vocabulary for adults preparing for exams like the SAT and GRE who also want to sound sharper at work. Reply with JSON only.',
+      `Here is a sample of words already in the list: ${JSON.stringify(sample)}.\nSuggest ${Math.min(need + 20, 150)} more single English words at the same level: useful in real life, not obscure, not already in the list, no proper nouns. Reply as {"words": ["..."]}.`,
+      { maxTokens: 4000 },
+    );
+    for (const w of out.words ?? []) {
+      const clean = String(w).trim().toLowerCase();
+      if (/^[a-z][a-z-]+$/.test(clean) && !have.has(slugify(clean))) {
+        have.add(slugify(clean));
+        extra.push(clean);
+      }
+    }
+  }
+  const added = extra.slice(0, target - picked.terms.length);
+  picked.terms = [...picked.terms, ...added];
+  picked.topUp = added.length;
+  writeJson(file, picked);
+  console.log(`  topped up with ${added.length} model-suggested words -> ${picked.terms.length} total`);
 }
 
 // ---------- rank ----------
@@ -386,6 +419,7 @@ async function all() {
   }
   console.log('\n== Picking words');
   pickWords(words);
+  await topUpWords(words);
   console.log('\n== Ranking idioms');
   await rank('idiom', idioms);
   console.log('\n== Ranking phrases');
@@ -401,9 +435,9 @@ async function all() {
 }
 
 // ---------- main ----------
-const COMMANDS = { 'pick-words': () => pickWords(), rank: () => rank(), cards: () => cards(), decks, all };
+const COMMANDS = { 'pick-words': () => pickWords(), 'top-up': () => topUpWords(Number(flag('words', 1000))), rank: () => rank(), cards: () => cards(), decks, all };
 if (!COMMANDS[cmd]) {
-  console.log('usage: node scripts/content/generate.mjs <all|pick-words|rank|cards|decks> [--pdf book.pdf] [--kind word|idiom|phrase] [--top N] [--limit N] [--concurrency N] [--dry-run]');
+  console.log('usage: node scripts/content/generate.mjs <all|pick-words|top-up|rank|cards|decks> [--pdf book.pdf] [--kind word|idiom|phrase] [--top N] [--limit N] [--concurrency N] [--dry-run]');
   process.exit(cmd ? 1 : 0);
 }
 await COMMANDS[cmd]();
