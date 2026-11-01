@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/brand/icon.svg" width="88" alt="Lexicard icon" />
+<img src="assets/icon.png" width="96" alt="Lexicard icon" />
 
 # Lexicard
 
