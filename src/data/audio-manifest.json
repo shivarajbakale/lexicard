@@ -1,0 +1,2454 @@
+{
+  "heart": {
+    "a-blessing-in-disguise": {
+      "term": {
+        "hash": "d8954fc12e92f050"
+      },
+      "meaning": {
+        "hash": "99b06cfdc0a01b5b"
+      },
+      "work": {
+        "hash": "f8dd672c9a77b343"
+      },
+      "social": {
+        "hash": "4eb78ebf83697bab"
+      },
+      "writing": {
+        "hash": "d3b7adcb734b9548"
+      }
+    },
+    "a-game-changer": {
+      "term": {
+        "hash": "2b86bea14b32ed66"
+      },
+      "meaning": {
+        "hash": "ce40f9b08c5c9f8d"
+      },
+      "work": {
+        "hash": "d6be20bd1761e355"
+      },
+      "social": {
+        "hash": "502dc0b915780676"
+      },
+      "writing": {
+        "hash": "6257cb75a28bb109"
+      }
+    },
+    "agree-to-disagree": {
+      "term": {
+        "hash": "2dac0755ad7ad293"
+      },
+      "meaning": {
+        "hash": "43e347fab727d9f9"
+      },
+      "work": {
+        "hash": "ee886e473516f158"
+      },
+      "social": {
+        "hash": "31f8c38394a5d0b8"
+      },
+      "writing": {
+        "hash": "8e86f4d59f5fec40"
+      }
+    },
+    "ambivalent": {
+      "term": {
+        "hash": "c3169a7a3d012017"
+      },
+      "meaning": {
+        "hash": "f279afd4c6cc99fa"
+      },
+      "work": {
+        "hash": "2fb01bea02412294"
+      },
+      "social": {
+        "hash": "dfeced799d1bcc1b"
+      },
+      "writing": {
+        "hash": "9fd14d45b087278a"
+      }
+    },
+    "articulate": {
+      "term": {
+        "hash": "9279e7f45ca8e0a6"
+      },
+      "meaning": {
+        "hash": "249725f76d791585"
+      },
+      "work": {
+        "hash": "8e01cb56377b31e1"
+      },
+      "social": {
+        "hash": "32be0e09340d4c00"
+      },
+      "writing": {
+        "hash": "c2defba20d9dfc6f"
+      }
+    },
+    "ballpark-figure": {
+      "term": {
+        "hash": "0cdd056a567d4b36"
+      },
+      "meaning": {
+        "hash": "adfe2c6f6e25d22e"
+      },
+      "work": {
+        "hash": "1a1d19af5c96e1fe"
+      },
+      "social": {
+        "hash": "980da148c3fcdd6f"
+      },
+      "writing": {
+        "hash": "b4ca63500fff94f7"
+      }
+    },
+    "bite-the-bullet": {
+      "term": {
+        "hash": "745e5d8900aacca8"
+      },
+      "meaning": {
+        "hash": "37a0a5c218247035"
+      },
+      "work": {
+        "hash": "ebf8892f8222444b"
+      },
+      "social": {
+        "hash": "f1df8d96aa55b52a"
+      },
+      "writing": {
+        "hash": "1c22462bf82aa0de"
+      }
+    },
+    "break-a-leg": {
+      "term": {
+        "hash": "477b71bedfa574e7"
+      },
+      "meaning": {
+        "hash": "70d397b6bd82a338"
+      },
+      "work": {
+        "hash": "addcb317c6e07b2d"
+      },
+      "social": {
+        "hash": "fbcca3813cc33d77"
+      },
+      "writing": {
+        "hash": "fa560d16e28c7906"
+      }
+    },
+    "break-the-ice": {
+      "term": {
+        "hash": "fb0209f783f842e0"
+      },
+      "meaning": {
+        "hash": "2d5f5c94be1874a3"
+      },
+      "work": {
+        "hash": "ebf4598b57088ba0"
+      },
+      "social": {
+        "hash": "25f55d4f3d939a5d"
+      },
+      "writing": {
+        "hash": "b141ee103f2fe9ab"
+      }
+    },
+    "by-and-large": {
+      "term": {
+        "hash": "8e5e06221e9c32ca"
+      },
+      "meaning": {
+        "hash": "13294efb215e9d90"
+      },
+      "work": {
+        "hash": "a1f3632eae049602"
+      },
+      "social": {
+        "hash": "7f48b356a0931d2a"
+      },
+      "writing": {
+        "hash": "977069712ae31b3d"
+      }
+    },
+    "call-it-a-day": {
+      "term": {
+        "hash": "d01159faac39cf21"
+      },
+      "meaning": {
+        "hash": "e3f886f69c99fef8"
+      },
+      "work": {
+        "hash": "0912ab1cf0cd7dc7"
+      },
+      "social": {
+        "hash": "3e6d61b3ba68aa28"
+      },
+      "writing": {
+        "hash": "6dae01652a0d1356"
+      }
+    },
+    "can-we-revisit-this": {
+      "term": {
+        "hash": "33898ab71e853e0d"
+      },
+      "meaning": {
+        "hash": "0fffd7f2eddf5062"
+      },
+      "work": {
+        "hash": "7e0fb57dc9359b15"
+      },
+      "social": {
+        "hash": "a607fd8635f800ba"
+      },
+      "writing": {
+        "hash": "ba7c0d34cb1491e1"
+      }
+    },
+    "candid": {
+      "term": {
+        "hash": "c04453da264dc458"
+      },
+      "meaning": {
+        "hash": "ff182379ce792be0"
+      },
+      "work": {
+        "hash": "8ce018f329c4c98e"
+      },
+      "social": {
+        "hash": "32bd9b5c3401a17c"
+      },
+      "writing": {
+        "hash": "d4ef3498170f2708"
+      }
+    },
+    "circle-back": {
+      "term": {
+        "hash": "519c172f35b32260"
+      },
+      "meaning": {
+        "hash": "e04d8d3185568fef"
+      },
+      "work": {
+        "hash": "e12963c2890a5890"
+      },
+      "social": {
+        "hash": "ca4cbf019e645fff"
+      },
+      "writing": {
+        "hash": "bde45ff7af0b027d"
+      }
+    },
+    "cohesive": {
+      "term": {
+        "hash": "c62096354428167b"
+      },
+      "meaning": {
+        "hash": "3ceb09e7c9f1faec"
+      },
+      "work": {
+        "hash": "6824a53cc0c504ef"
+      },
+      "social": {
+        "hash": "6b566f27072c351e"
+      },
+      "writing": {
+        "hash": "610d2c72c457ee12"
+      }
+    },
+    "concise": {
+      "term": {
+        "hash": "ed92324fa163bc91"
+      },
+      "meaning": {
+        "hash": "63c28fc9db251ff4"
+      },
+      "work": {
+        "hash": "034034f27fae53bc"
+      },
+      "social": {
+        "hash": "c98d062ed658ff5a"
+      },
+      "writing": {
+        "hash": "04b2f38470b345aa"
+      }
+    },
+    "consensus": {
+      "term": {
+        "hash": "f772a60959b2c6dd"
+      },
+      "meaning": {
+        "hash": "7b3051826494fda6"
+      },
+      "work": {
+        "hash": "8d328984c1d6b54f"
+      },
+      "social": {
+        "hash": "b4d282ae6487b233"
+      },
+      "writing": {
+        "hash": "2ece7ce596efd38f"
+      }
+    },
+    "cost-an-arm-and-a-leg": {
+      "term": {
+        "hash": "1f3bed918537b902"
+      },
+      "meaning": {
+        "hash": "fa91d3f2f72ff7c4"
+      },
+      "work": {
+        "hash": "a3084e1be5ffb817"
+      },
+      "social": {
+        "hash": "36d7403cbca5ea25"
+      },
+      "writing": {
+        "hash": "2d72a9d901d2dea1"
+      }
+    },
+    "cut-corners": {
+      "term": {
+        "hash": "e1b84d6743b1d60d"
+      },
+      "meaning": {
+        "hash": "99af24243f061c9c"
+      },
+      "work": {
+        "hash": "ddc105959bdc2279"
+      },
+      "social": {
+        "hash": "afc76000e5753259"
+      },
+      "writing": {
+        "hash": "7f78573f3aaf1df7"
+      }
+    },
+    "delegate": {
+      "term": {
+        "hash": "da568ef3317d86b6"
+      },
+      "meaning": {
+        "hash": "3af3316016667692"
+      },
+      "work": {
+        "hash": "24cea2d69f7acae4"
+      },
+      "social": {
+        "hash": "c6fa0abac7947117"
+      },
+      "writing": {
+        "hash": "cc68283d523597d9"
+      }
+    },
+    "dont-throw-the-baby-out-with-the-bathwater": {
+      "term": {
+        "hash": "5c603ed56ddfdfba"
+      },
+      "meaning": {
+        "hash": "60910c42924aadad"
+      },
+      "work": {
+        "hash": "222d9e1227cde38e"
+      },
+      "social": {
+        "hash": "096d40d59ad2727b"
+      },
+      "writing": {
+        "hash": "c94ecce881aee54a"
+      }
+    },
+    "ephemeral": {
+      "term": {
+        "hash": "63c21d0333113b30"
+      },
+      "meaning": {
+        "hash": "68ce27a7dee79ffb"
+      },
+      "work": {
+        "hash": "fb7e1a68b7d7723a"
+      },
+      "social": {
+        "hash": "c833b0f63414f51a"
+      },
+      "writing": {
+        "hash": "7c3a51bbd440553a"
+      }
+    },
+    "feasible": {
+      "term": {
+        "hash": "503f86fb9685fb62"
+      },
+      "meaning": {
+        "hash": "d6f4039afac5e926"
+      },
+      "work": {
+        "hash": "11b6d27b33620a68"
+      },
+      "social": {
+        "hash": "7ac6303e4f7ca2e9"
+      },
+      "writing": {
+        "hash": "cf3eac82c1b2042b"
+      }
+    },
+    "food-for-thought": {
+      "term": {
+        "hash": "3b73c2b80475c06f"
+      },
+      "meaning": {
+        "hash": "f71428dc69921c77"
+      },
+      "work": {
+        "hash": "ab07adf9c8092158"
+      },
+      "social": {
+        "hash": "db02f0abd4d062b8"
+      },
+      "writing": {
+        "hash": "bb0fb75c0bcd54d6"
+      }
+    },
+    "frugal": {
+      "term": {
+        "hash": "8869d42bbc684016"
+      },
+      "meaning": {
+        "hash": "9e5a93b587ad4a9e"
+      },
+      "work": {
+        "hash": "f607cfb64b7e5ad8"
+      },
+      "social": {
+        "hash": "58788f3a84f10cf0"
+      },
+      "writing": {
+        "hash": "ba411a0397fe1716"
+      }
+    },
+    "get-the-ball-rolling": {
+      "term": {
+        "hash": "915420c412ae243c"
+      },
+      "meaning": {
+        "hash": "72545dc13710c429"
+      },
+      "work": {
+        "hash": "d63cdad5cc406620"
+      },
+      "social": {
+        "hash": "ed0967b7937bb33d"
+      },
+      "writing": {
+        "hash": "814d3af46fb2465a"
+      }
+    },
+    "gregarious": {
+      "term": {
+        "hash": "1ca866dd84fe93ca"
+      },
+      "meaning": {
+        "hash": "4ca3af8163b64b6a"
+      },
+      "work": {
+        "hash": "0ed6bdfe733eb4e5"
+      },
+      "social": {
+        "hash": "c2b97508f4f08c9e"
+      },
+      "writing": {
+        "hash": "889cc7ae8efd562c"
+      }
+    },
+    "hit-the-nail-on-the-head": {
+      "term": {
+        "hash": "b9df56b2de11236a"
+      },
+      "meaning": {
+        "hash": "d51d2beef8b41fb3"
+      },
+      "work": {
+        "hash": "32ecd9a487d92dc3"
+      },
+      "social": {
+        "hash": "d7b5954d8469f78c"
+      },
+      "writing": {
+        "hash": "62c35d168c04a492"
+      }
+    },
+    "i-dont-have-the-bandwidth": {
+      "term": {
+        "hash": "8d055397a2bea45f"
+      },
+      "meaning": {
+        "hash": "827e285db62ceb9b"
+      },
+      "work": {
+        "hash": "dd1f3b564db5302a"
+      },
+      "social": {
+        "hash": "49d42b02de6ce162"
+      },
+      "writing": {
+        "hash": "7654f1bb778b657b"
+      }
+    },
+    "i-hear-you-but": {
+      "term": {
+        "hash": "58f5d340278597db"
+      },
+      "meaning": {
+        "hash": "459f7cc743a99487"
+      },
+      "work": {
+        "hash": "df1b93fbfcccf0be"
+      },
+      "social": {
+        "hash": "7da6ed1d1eeb7bfb"
+      },
+      "writing": {
+        "hash": "ee5410a88e940d2c"
+      }
+    },
+    "i-see-it-a-bit-differently": {
+      "term": {
+        "hash": "5da2f55318be2183"
+      },
+      "meaning": {
+        "hash": "46ad6ab4cdab10bc"
+      },
+      "work": {
+        "hash": "d393d810f7eeaa09"
+      },
+      "social": {
+        "hash": "3babf33819ad4175"
+      },
+      "writing": {
+        "hash": "62d2ed71542e5ce0"
+      }
+    },
+    "keep-me-in-the-loop": {
+      "term": {
+        "hash": "11bde183ce0a62a6"
+      },
+      "meaning": {
+        "hash": "171f2dc71f74855e"
+      },
+      "work": {
+        "hash": "93a489d6d0143052"
+      },
+      "social": {
+        "hash": "c2f29874906e3d5d"
+      },
+      "writing": {
+        "hash": "c22f66bcb0525651"
+      }
+    },
+    "let-the-cat-out-of-the-bag": {
+      "term": {
+        "hash": "ad35fb43f2748865"
+      },
+      "meaning": {
+        "hash": "f4781344ed981cc9"
+      },
+      "work": {
+        "hash": "c1cd26e7c96c5961"
+      },
+      "social": {
+        "hash": "36b52560c057989a"
+      },
+      "writing": {
+        "hash": "3cc5773d336b3d52"
+      }
+    },
+    "low-hanging-fruit": {
+      "term": {
+        "hash": "bf093812117a836b"
+      },
+      "meaning": {
+        "hash": "4576fe3749979be7"
+      },
+      "work": {
+        "hash": "ee7939c4214abeb7"
+      },
+      "social": {
+        "hash": "b469ee3a3ae7d3f6"
+      },
+      "writing": {
+        "hash": "9c85a0fb542c605f"
+      }
+    },
+    "mad-as-a-hatter": {
+      "term": {
+        "hash": "7582bd20a1db5ce0"
+      },
+      "meaning": {
+        "hash": "3e893fc130242a95"
+      },
+      "work": {
+        "hash": "03c1ad08e4825fb7"
+      },
+      "social": {
+        "hash": "f9b9608a3fa8e3eb"
+      },
+      "writing": {
+        "hash": "39912ed0f4afcee8"
+      }
+    },
+    "meticulous": {
+      "term": {
+        "hash": "fb5fc838446de552"
+      },
+      "meaning": {
+        "hash": "af481caa50a5484e"
+      },
+      "work": {
+        "hash": "e0f5db4ef232abf9"
+      },
+      "social": {
+        "hash": "18c168e2df608078"
+      },
+      "writing": {
+        "hash": "37eb4648f8136ebd"
+      }
+    },
+    "mitigate": {
+      "term": {
+        "hash": "67997c3ce0291210"
+      },
+      "meaning": {
+        "hash": "7afcb79a8304c5be"
+      },
+      "work": {
+        "hash": "75dd3fe72587e0d8"
+      },
+      "social": {
+        "hash": "3cbdd6cd06a99c71"
+      },
+      "writing": {
+        "hash": "6418e47ec356f52d"
+      }
+    },
+    "move-the-needle": {
+      "term": {
+        "hash": "300785c07c351215"
+      },
+      "meaning": {
+        "hash": "ca603c5efa7bad97"
+      },
+      "work": {
+        "hash": "cebe295074887125"
+      },
+      "social": {
+        "hash": "a6f23eab6af2489b"
+      },
+      "writing": {
+        "hash": "e13dcdfd7ca8c612"
+      }
+    },
+    "not-the-best-use-of-our-time": {
+      "term": {
+        "hash": "7b93722a33eec9c9"
+      },
+      "meaning": {
+        "hash": "91ce3e184fc4754a"
+      },
+      "work": {
+        "hash": "b3bb7b63c861cb8b"
+      },
+      "social": {
+        "hash": "4442e66e4cf75b4a"
+      },
+      "writing": {
+        "hash": "43b0bb81a70e1b67"
+      }
+    },
+    "nuance": {
+      "term": {
+        "hash": "ae8f23ca9979222d"
+      },
+      "meaning": {
+        "hash": "6ba0b285345c554b"
+      },
+      "work": {
+        "hash": "ef577d374b2cdce9"
+      },
+      "social": {
+        "hash": "fef8d901960bd60b"
+      },
+      "writing": {
+        "hash": "875fa846c1d34869"
+      }
+    },
+    "on-the-fence": {
+      "term": {
+        "hash": "508c7b7d8dd539ee"
+      },
+      "meaning": {
+        "hash": "366691f041fe90c3"
+      },
+      "work": {
+        "hash": "86ed722103a950fc"
+      },
+      "social": {
+        "hash": "ec1c6717666229ff"
+      },
+      "writing": {
+        "hash": "0434e78f5816e4db"
+      }
+    },
+    "on-the-same-page": {
+      "term": {
+        "hash": "0f9b87c38f5eafa4"
+      },
+      "meaning": {
+        "hash": "18122749c5876f51"
+      },
+      "work": {
+        "hash": "d47e1a71306a94cb"
+      },
+      "social": {
+        "hash": "57773af37adf16f4"
+      },
+      "writing": {
+        "hash": "bf1d1ee25323ae5e"
+      }
+    },
+    "once-in-a-blue-moon": {
+      "term": {
+        "hash": "b8963110964b2a44"
+      },
+      "meaning": {
+        "hash": "392530506985ab81"
+      },
+      "work": {
+        "hash": "160e68432fd998af"
+      },
+      "social": {
+        "hash": "58491023d167cddb"
+      },
+      "writing": {
+        "hash": "38d174f4507d0f00"
+      }
+    },
+    "piece-of-cake": {
+      "term": {
+        "hash": "4d3ae2509219998e"
+      },
+      "meaning": {
+        "hash": "6bd77d14c804f6cc"
+      },
+      "work": {
+        "hash": "5c2516b2b9ae6133"
+      },
+      "social": {
+        "hash": "c772d059a9a93a8d"
+      },
+      "writing": {
+        "hash": "41c622a6f7bee960"
+      }
+    },
+    "play-devils-advocate": {
+      "term": {
+        "hash": "bf742b5439060015"
+      },
+      "meaning": {
+        "hash": "f4fa20311d8bf626"
+      },
+      "work": {
+        "hash": "e9c81bada2206036"
+      },
+      "social": {
+        "hash": "64494689e0ca6566"
+      },
+      "writing": {
+        "hash": "820610de226f1cbf"
+      }
+    },
+    "pragmatic": {
+      "term": {
+        "hash": "6ee6e62222dad49a"
+      },
+      "meaning": {
+        "hash": "1b08f23af2e357b9"
+      },
+      "work": {
+        "hash": "993b71cfbe1486d5"
+      },
+      "social": {
+        "hash": "51f5891cb8f08207"
+      },
+      "writing": {
+        "hash": "71cafebc1518dc2a"
+      }
+    },
+    "prioritize": {
+      "term": {
+        "hash": "cb10730841d0e01c"
+      },
+      "meaning": {
+        "hash": "aa372ca6fed36da9"
+      },
+      "work": {
+        "hash": "bb0ea8de33967f8b"
+      },
+      "social": {
+        "hash": "550f7f309027adc2"
+      },
+      "writing": {
+        "hash": "df65df9f414ea153"
+      }
+    },
+    "proactive": {
+      "term": {
+        "hash": "5d993aa6aea0419b"
+      },
+      "meaning": {
+        "hash": "36fea265780548b9"
+      },
+      "work": {
+        "hash": "2325250dab67777d"
+      },
+      "social": {
+        "hash": "f9b1b143d95eec64"
+      },
+      "writing": {
+        "hash": "f2129545d0667d29"
+      }
+    },
+    "pull-out-all-the-stops": {
+      "term": {
+        "hash": "1fd84fbb86b336f6"
+      },
+      "meaning": {
+        "hash": "be2a60a17bfe5064"
+      },
+      "work": {
+        "hash": "70c20b5966263f12"
+      },
+      "social": {
+        "hash": "0040ce84e77c4956"
+      },
+      "writing": {
+        "hash": "2a7c6a6142acfc81"
+      }
+    },
+    "push-back-on-that": {
+      "term": {
+        "hash": "4136b80a6ec6b0b5"
+      },
+      "meaning": {
+        "hash": "5b0d123bb6049ef0"
+      },
+      "work": {
+        "hash": "f0ca01e3f35258a8"
+      },
+      "social": {
+        "hash": "f4232ccc84c1cc2f"
+      },
+      "writing": {
+        "hash": "bafc57f3624d5e60"
+      }
+    },
+    "red-herring": {
+      "term": {
+        "hash": "62e7b6c07afde80b"
+      },
+      "meaning": {
+        "hash": "974d62094eea7d12"
+      },
+      "work": {
+        "hash": "a8712d007f95b28d"
+      },
+      "social": {
+        "hash": "82f23ee5a48745ed"
+      },
+      "writing": {
+        "hash": "821bf591c41a06ed"
+      }
+    },
+    "resilient": {
+      "term": {
+        "hash": "fd43f483e9c9a41d"
+      },
+      "meaning": {
+        "hash": "a9e1cbcb3948bd1d"
+      },
+      "work": {
+        "hash": "bf1b3ef48bb910af"
+      },
+      "social": {
+        "hash": "c65ef56ddcd1568a"
+      },
+      "writing": {
+        "hash": "aef0d9be09917149"
+      }
+    },
+    "run-the-gauntlet": {
+      "term": {
+        "hash": "6694ef7670ee39e8"
+      },
+      "meaning": {
+        "hash": "1038d2e876d66239"
+      },
+      "work": {
+        "hash": "041e45f999d79675"
+      },
+      "social": {
+        "hash": "58c8a812c6bccfdc"
+      },
+      "writing": {
+        "hash": "254083c7bc825217"
+      }
+    },
+    "scrutinize": {
+      "term": {
+        "hash": "e6b11dc40e5649f4"
+      },
+      "meaning": {
+        "hash": "1f9ca72ad6adff5f"
+      },
+      "work": {
+        "hash": "bde4aa921bb67603"
+      },
+      "social": {
+        "hash": "b9606b63c7aacb7a"
+      },
+      "writing": {
+        "hash": "2288f333dc8d1501"
+      }
+    },
+    "serendipity": {
+      "term": {
+        "hash": "94b57a97b5dac25a"
+      },
+      "meaning": {
+        "hash": "8372d41bad604c8c"
+      },
+      "work": {
+        "hash": "fbb90ac9a0ca535b"
+      },
+      "social": {
+        "hash": "312a68ca457d1321"
+      },
+      "writing": {
+        "hash": "32f180c5d50e0a05"
+      }
+    },
+    "show-your-true-colors": {
+      "term": {
+        "hash": "0b1e0e2da52c4ccf"
+      },
+      "meaning": {
+        "hash": "b0ac3ff3afc5843d"
+      },
+      "work": {
+        "hash": "899521ae38297e57"
+      },
+      "social": {
+        "hash": "ad03b17548fcaaef"
+      },
+      "writing": {
+        "hash": "234311187b650cea"
+      }
+    },
+    "spill-the-beans": {
+      "term": {
+        "hash": "25836d65bbe1f61a"
+      },
+      "meaning": {
+        "hash": "931d103cd45aff28"
+      },
+      "work": {
+        "hash": "f0d243171cbddc89"
+      },
+      "social": {
+        "hash": "02946afaf33f0a96"
+      },
+      "writing": {
+        "hash": "fceaa05d9787b872"
+      }
+    },
+    "steal-someones-thunder": {
+      "term": {
+        "hash": "56172913f209deb5"
+      },
+      "meaning": {
+        "hash": "a026bc192e46996b"
+      },
+      "work": {
+        "hash": "40a79c899d058e2d"
+      },
+      "social": {
+        "hash": "083a71ece51508b2"
+      },
+      "writing": {
+        "hash": "22f98071a6624808"
+      }
+    },
+    "table-this": {
+      "term": {
+        "hash": "f085acbd3b73cbf8"
+      },
+      "meaning": {
+        "hash": "c3b3fd6be9db235c"
+      },
+      "work": {
+        "hash": "8827ff526a0437dd"
+      },
+      "social": {
+        "hash": "b2a05bac12be5da9"
+      },
+      "writing": {
+        "hash": "ea4b1e0acfd3891e"
+      }
+    },
+    "take-it-with-a-pinch-of-salt": {
+      "term": {
+        "hash": "528c0151cbfe9e6a"
+      },
+      "meaning": {
+        "hash": "0febbf97df22f79e"
+      },
+      "work": {
+        "hash": "a98962139fd2ebf1"
+      },
+      "social": {
+        "hash": "8117f285c58c1a0c"
+      },
+      "writing": {
+        "hash": "51f441d5bbb79a9c"
+      }
+    },
+    "take-this-offline": {
+      "term": {
+        "hash": "b90f11fcd4628e35"
+      },
+      "meaning": {
+        "hash": "f1970b203acdd75b"
+      },
+      "work": {
+        "hash": "360f5d6496c90500"
+      },
+      "social": {
+        "hash": "892d7668b6f5a6b6"
+      },
+      "writing": {
+        "hash": "1739bfb2895eeca5"
+      }
+    },
+    "tangible": {
+      "term": {
+        "hash": "8b4455bcd2860592"
+      },
+      "meaning": {
+        "hash": "fdeed478f85a4347"
+      },
+      "work": {
+        "hash": "e7dbbd25312154b7"
+      },
+      "social": {
+        "hash": "bbdeb37d50dfa1b4"
+      },
+      "writing": {
+        "hash": "c628ef1a85598b46"
+      }
+    },
+    "tenacious": {
+      "term": {
+        "hash": "d9d5d2c8c00513f0"
+      },
+      "meaning": {
+        "hash": "a13528660a411a89"
+      },
+      "work": {
+        "hash": "6e141a0e27c1fa8e"
+      },
+      "social": {
+        "hash": "cc4d2c203ba2ba0e"
+      },
+      "writing": {
+        "hash": "ce0c1bcec24c2218"
+      }
+    },
+    "thats-a-fair-point-however": {
+      "term": {
+        "hash": "2fdce9cb2b27fc29"
+      },
+      "meaning": {
+        "hash": "e0e819360f6a52a8"
+      },
+      "work": {
+        "hash": "aacb9324639302c6"
+      },
+      "social": {
+        "hash": "1266d5c52de2aa86"
+      },
+      "writing": {
+        "hash": "3f77651a5aef116b"
+      }
+    },
+    "the-ball-is-in-your-court": {
+      "term": {
+        "hash": "95a59761d0e84fc6"
+      },
+      "meaning": {
+        "hash": "befc834b148d047d"
+      },
+      "work": {
+        "hash": "0a900be0237e4416"
+      },
+      "social": {
+        "hash": "8473cb51c0db4ec9"
+      },
+      "writing": {
+        "hash": "8d666514196b9e0f"
+      }
+    },
+    "the-big-picture": {
+      "term": {
+        "hash": "24e2d96746fde328"
+      },
+      "meaning": {
+        "hash": "b96d832b5dae3081"
+      },
+      "work": {
+        "hash": "ea9c80449e88d13e"
+      },
+      "social": {
+        "hash": "1b2ace254f3f1c43"
+      },
+      "writing": {
+        "hash": "ad3b0ab48582f2a4"
+      }
+    },
+    "the-whole-nine-yards": {
+      "term": {
+        "hash": "43c9aa3532bf65ff"
+      },
+      "meaning": {
+        "hash": "73b92916441d11ce"
+      },
+      "work": {
+        "hash": "715c03396af1f97d"
+      },
+      "social": {
+        "hash": "d8e5ab4f47733fe9"
+      },
+      "writing": {
+        "hash": "f6e7b7b7be53d902"
+      }
+    },
+    "touch-base": {
+      "term": {
+        "hash": "5db2ad2ef254f9cd"
+      },
+      "meaning": {
+        "hash": "e3487793330af8c6"
+      },
+      "work": {
+        "hash": "00c7b9058f866ff7"
+      },
+      "social": {
+        "hash": "09774733eefdc846"
+      },
+      "writing": {
+        "hash": "dd4a40fb097767cf"
+      }
+    },
+    "ubiquitous": {
+      "term": {
+        "hash": "a696fe2f361d6223"
+      },
+      "meaning": {
+        "hash": "5c6da37505c1e290"
+      },
+      "work": {
+        "hash": "f158957c646097e2"
+      },
+      "social": {
+        "hash": "e47d2752a90584a7"
+      },
+      "writing": {
+        "hash": "bea8d74a32210537"
+      }
+    },
+    "under-the-weather": {
+      "term": {
+        "hash": "6fb02ceb7e546946"
+      },
+      "meaning": {
+        "hash": "08ef69045c84caa9"
+      },
+      "work": {
+        "hash": "0de5475d3ad08e4a"
+      },
+      "social": {
+        "hash": "b3665a2a484e0c39"
+      },
+      "writing": {
+        "hash": "d6a7ccc724e63c8a"
+      }
+    },
+    "viable": {
+      "term": {
+        "hash": "fe5bbeccc5a5e5c1"
+      },
+      "meaning": {
+        "hash": "f64b311d4b3c931c"
+      },
+      "work": {
+        "hash": "e166d90ae640dcbe"
+      },
+      "social": {
+        "hash": "fab4d8dd6a85e1fe"
+      },
+      "writing": {
+        "hash": "a601410637e58777"
+      }
+    },
+    "with-all-due-respect": {
+      "term": {
+        "hash": "d8e448a39728c385"
+      },
+      "meaning": {
+        "hash": "2296829fcef144bd"
+      },
+      "work": {
+        "hash": "d09a6595b01c5fdf"
+      },
+      "social": {
+        "hash": "7c54aedabe1276d6"
+      },
+      "writing": {
+        "hash": "6a25529eee605644"
+      }
+    }
+  },
+  "michael": {
+    "a-blessing-in-disguise": {
+      "term": {
+        "hash": "cbd88cd49c07421c"
+      },
+      "meaning": {
+        "hash": "23ca534736fd210f"
+      },
+      "work": {
+        "hash": "bd321366b601fe51"
+      },
+      "social": {
+        "hash": "bcf7e83f791e2db0"
+      },
+      "writing": {
+        "hash": "eda9f76a4fc7b21a"
+      }
+    },
+    "a-game-changer": {
+      "term": {
+        "hash": "cb889f69353f2e0f"
+      },
+      "meaning": {
+        "hash": "96a0f4c3f701ee13"
+      },
+      "work": {
+        "hash": "9819319b9002bcf9"
+      },
+      "social": {
+        "hash": "2558e17a646c332f"
+      },
+      "writing": {
+        "hash": "2791d1ac6570aa0c"
+      }
+    },
+    "agree-to-disagree": {
+      "term": {
+        "hash": "51a340921d7e42be"
+      },
+      "meaning": {
+        "hash": "de57015d079b2eff"
+      },
+      "work": {
+        "hash": "7634ae6ae1572d61"
+      },
+      "social": {
+        "hash": "587b9d60dc9e1b28"
+      },
+      "writing": {
+        "hash": "cc116d3fc6a82642"
+      }
+    },
+    "ambivalent": {
+      "term": {
+        "hash": "d389805062026bb5"
+      },
+      "meaning": {
+        "hash": "bf4e8fd29bbe6c2d"
+      },
+      "work": {
+        "hash": "4380bc601da4cd27"
+      },
+      "social": {
+        "hash": "daa6a35a334b33a3"
+      },
+      "writing": {
+        "hash": "8cad8ef3a7cbb3cb"
+      }
+    },
+    "articulate": {
+      "term": {
+        "hash": "20f38103e87fbdb0"
+      },
+      "meaning": {
+        "hash": "753c02abb22d74e2"
+      },
+      "work": {
+        "hash": "1f8b3e2246df2785"
+      },
+      "social": {
+        "hash": "b8073dda84e0dbeb"
+      },
+      "writing": {
+        "hash": "5d5e4482016b2ffd"
+      }
+    },
+    "ballpark-figure": {
+      "term": {
+        "hash": "266751462a688571"
+      },
+      "meaning": {
+        "hash": "e7b2313c863532da"
+      },
+      "work": {
+        "hash": "13503447507374e5"
+      },
+      "social": {
+        "hash": "5f89867d7f3596dc"
+      },
+      "writing": {
+        "hash": "a8f2706e7b772e12"
+      }
+    },
+    "bite-the-bullet": {
+      "term": {
+        "hash": "b9e4d2262d5acafa"
+      },
+      "meaning": {
+        "hash": "b336bd8bc8ba6754"
+      },
+      "work": {
+        "hash": "4088bb41e866e524"
+      },
+      "social": {
+        "hash": "55bd8d418d24ece4"
+      },
+      "writing": {
+        "hash": "d5578def0dd9e9c3"
+      }
+    },
+    "break-a-leg": {
+      "term": {
+        "hash": "268a6660750b3b64"
+      },
+      "meaning": {
+        "hash": "75d74016ba35c5e1"
+      },
+      "work": {
+        "hash": "0a9f11dd44e4c89b"
+      },
+      "social": {
+        "hash": "bcf17c60066a70f7"
+      },
+      "writing": {
+        "hash": "4bdf785cafbce947"
+      }
+    },
+    "break-the-ice": {
+      "term": {
+        "hash": "4e9f304c984a4bdf"
+      },
+      "meaning": {
+        "hash": "b64128e5abfd605c"
+      },
+      "work": {
+        "hash": "40d27d203f137b88"
+      },
+      "social": {
+        "hash": "3f3b9e192f73451b"
+      },
+      "writing": {
+        "hash": "e661caad729f509c"
+      }
+    },
+    "by-and-large": {
+      "term": {
+        "hash": "24e6a83e5faee5b6"
+      },
+      "meaning": {
+        "hash": "a09042bfdf92fb14"
+      },
+      "work": {
+        "hash": "a38d7e30fbefddcb"
+      },
+      "social": {
+        "hash": "f9f8f240c84bea85"
+      },
+      "writing": {
+        "hash": "4a2db958fbfd09d0"
+      }
+    },
+    "call-it-a-day": {
+      "term": {
+        "hash": "67571082a94051c6"
+      },
+      "meaning": {
+        "hash": "f277b1d2b7f646dc"
+      },
+      "work": {
+        "hash": "e862fb091d107f03"
+      },
+      "social": {
+        "hash": "0d38f6ec708a9a77"
+      },
+      "writing": {
+        "hash": "fb63b17ad22d15b4"
+      }
+    },
+    "can-we-revisit-this": {
+      "term": {
+        "hash": "7c22c6de90c56ba5"
+      },
+      "meaning": {
+        "hash": "2f9f3762f611993e"
+      },
+      "work": {
+        "hash": "d5437de1fc295556"
+      },
+      "social": {
+        "hash": "a8aee0a537d0a378"
+      },
+      "writing": {
+        "hash": "375ba35a24e701e4"
+      }
+    },
+    "candid": {
+      "term": {
+        "hash": "52163affdc1e65f6"
+      },
+      "meaning": {
+        "hash": "af1d31d902ee72ce"
+      },
+      "work": {
+        "hash": "98de2aabc0e91e0f"
+      },
+      "social": {
+        "hash": "dc2c27beb171d75a"
+      },
+      "writing": {
+        "hash": "49518f611cc3a7f1"
+      }
+    },
+    "circle-back": {
+      "term": {
+        "hash": "f45a703cafa9c8aa"
+      },
+      "meaning": {
+        "hash": "02a1869206116e1e"
+      },
+      "work": {
+        "hash": "c8d06bdc738fa270"
+      },
+      "social": {
+        "hash": "2096b3c0984f2146"
+      },
+      "writing": {
+        "hash": "59374632cf224c19"
+      }
+    },
+    "cohesive": {
+      "term": {
+        "hash": "9d3a7048d18e4494"
+      },
+      "meaning": {
+        "hash": "7951f449a7ce1cbb"
+      },
+      "work": {
+        "hash": "f884ad48a1f8ebab"
+      },
+      "social": {
+        "hash": "5ff5e141520436e0"
+      },
+      "writing": {
+        "hash": "eb0d8ba175d6232f"
+      }
+    },
+    "concise": {
+      "term": {
+        "hash": "a9d36d48a2f5abcc"
+      },
+      "meaning": {
+        "hash": "adfb6a6a931e33ff"
+      },
+      "work": {
+        "hash": "f631af3f38da314a"
+      },
+      "social": {
+        "hash": "82a438fe51a89777"
+      },
+      "writing": {
+        "hash": "d5946c6122e5a1c3"
+      }
+    },
+    "consensus": {
+      "term": {
+        "hash": "dcea187b3c579109"
+      },
+      "meaning": {
+        "hash": "9c35b77cbcf17010"
+      },
+      "work": {
+        "hash": "ce9c322122001134"
+      },
+      "social": {
+        "hash": "688d64c1c4a6ac1e"
+      },
+      "writing": {
+        "hash": "7b26fc56a8d3abfc"
+      }
+    },
+    "cost-an-arm-and-a-leg": {
+      "term": {
+        "hash": "a171128d0221bc3e"
+      },
+      "meaning": {
+        "hash": "7aae562e564fda87"
+      },
+      "work": {
+        "hash": "05ca22986cc86c52"
+      },
+      "social": {
+        "hash": "8823d5676169eb87"
+      },
+      "writing": {
+        "hash": "72371a2d0f5f129a"
+      }
+    },
+    "cut-corners": {
+      "term": {
+        "hash": "7124bd971e2891f9"
+      },
+      "meaning": {
+        "hash": "9bb09b5ffff34e43"
+      },
+      "work": {
+        "hash": "66f9436ad1f8aa02"
+      },
+      "social": {
+        "hash": "2f2c75995f415c9c"
+      },
+      "writing": {
+        "hash": "e2d4d0d1912b0f53"
+      }
+    },
+    "delegate": {
+      "term": {
+        "hash": "a86c134dc3ed6611"
+      },
+      "meaning": {
+        "hash": "079411afb956fa1b"
+      },
+      "work": {
+        "hash": "0e30d7b93fca04de"
+      },
+      "social": {
+        "hash": "f61cb22d450810f8"
+      },
+      "writing": {
+        "hash": "b418f959d64e9a16"
+      }
+    },
+    "dont-throw-the-baby-out-with-the-bathwater": {
+      "term": {
+        "hash": "ef74c86414303d0b"
+      },
+      "meaning": {
+        "hash": "23a8398320adca72"
+      },
+      "work": {
+        "hash": "c1d8a117ed77df1f"
+      },
+      "social": {
+        "hash": "8f058376abdfadf1"
+      },
+      "writing": {
+        "hash": "413bea14deecf4b2"
+      }
+    },
+    "ephemeral": {
+      "term": {
+        "hash": "84c42d1ca31223c5"
+      },
+      "work": {
+        "hash": "74ae67a8b96d839b"
+      },
+      "meaning": {
+        "hash": "69aed2cba83d91d5"
+      },
+      "social": {
+        "hash": "6ffee9afc671431a"
+      },
+      "writing": {
+        "hash": "0fc10667e9ea8424"
+      }
+    },
+    "feasible": {
+      "term": {
+        "hash": "92f3720b2c564096"
+      },
+      "work": {
+        "hash": "9f85ad37bdaf83a5"
+      },
+      "meaning": {
+        "hash": "ab03d8b93bdcb23e"
+      },
+      "social": {
+        "hash": "29a878d93ae20a5d"
+      },
+      "writing": {
+        "hash": "ae5fd68a92a655b7"
+      }
+    },
+    "food-for-thought": {
+      "term": {
+        "hash": "549c6f393d6d446c"
+      },
+      "meaning": {
+        "hash": "85a0a48969727f67"
+      },
+      "work": {
+        "hash": "a21f95d5aee391ba"
+      },
+      "social": {
+        "hash": "fd91d133eff3c799"
+      },
+      "writing": {
+        "hash": "ac82537f5d6a6cda"
+      }
+    },
+    "frugal": {
+      "term": {
+        "hash": "35836ec0e0e8177e"
+      },
+      "work": {
+        "hash": "ac62b8e2d676efbf"
+      },
+      "meaning": {
+        "hash": "c3a4cf30e36b958c"
+      },
+      "social": {
+        "hash": "43914b242ca649c6"
+      },
+      "writing": {
+        "hash": "f669c26f38ab94d8"
+      }
+    },
+    "get-the-ball-rolling": {
+      "term": {
+        "hash": "338d7be9d910ab70"
+      },
+      "meaning": {
+        "hash": "888702682499ecab"
+      },
+      "work": {
+        "hash": "1e52e868a1d1d34c"
+      },
+      "social": {
+        "hash": "653de6a89e8232e2"
+      },
+      "writing": {
+        "hash": "bc226bf5010b930c"
+      }
+    },
+    "gregarious": {
+      "term": {
+        "hash": "19cc3bdfd2dcd67e"
+      },
+      "work": {
+        "hash": "049911837e99bdb6"
+      },
+      "meaning": {
+        "hash": "dbe01a63b9a8478b"
+      },
+      "social": {
+        "hash": "cc7bb3ec25465d33"
+      },
+      "writing": {
+        "hash": "8d431f77e0398252"
+      }
+    },
+    "hit-the-nail-on-the-head": {
+      "term": {
+        "hash": "2f43ce4c77156ee9"
+      },
+      "meaning": {
+        "hash": "d2b7492c03c797fe"
+      },
+      "work": {
+        "hash": "e3619cb8f1fcf308"
+      },
+      "social": {
+        "hash": "857e060fff75ee1f"
+      },
+      "writing": {
+        "hash": "909d11cd40290d73"
+      }
+    },
+    "i-dont-have-the-bandwidth": {
+      "term": {
+        "hash": "d2e277f9d808820a"
+      },
+      "meaning": {
+        "hash": "eb2bf2b598365765"
+      },
+      "work": {
+        "hash": "9efab5d839f7466e"
+      },
+      "social": {
+        "hash": "08c5053692fd5b38"
+      },
+      "writing": {
+        "hash": "924c1db621091dab"
+      }
+    },
+    "i-hear-you-but": {
+      "term": {
+        "hash": "0afd52d2ba9592f2"
+      },
+      "meaning": {
+        "hash": "d54d1157c7de74a7"
+      },
+      "work": {
+        "hash": "282e70c66eddcaba"
+      },
+      "social": {
+        "hash": "75c5c0c8252f55bd"
+      },
+      "writing": {
+        "hash": "7e95801effecc0ca"
+      }
+    },
+    "i-see-it-a-bit-differently": {
+      "term": {
+        "hash": "9c100424f9abb037"
+      },
+      "meaning": {
+        "hash": "7017e02433522884"
+      },
+      "work": {
+        "hash": "02b39ffe364dfc44"
+      },
+      "social": {
+        "hash": "cdfc9c34b405a416"
+      },
+      "writing": {
+        "hash": "ffeda1b7fa4a9b18"
+      }
+    },
+    "keep-me-in-the-loop": {
+      "term": {
+        "hash": "244258a187a38895"
+      },
+      "meaning": {
+        "hash": "e6d54d4c2a5cf6fc"
+      },
+      "work": {
+        "hash": "08b4ec5c00f08e3c"
+      },
+      "social": {
+        "hash": "ad59aa342452d469"
+      },
+      "writing": {
+        "hash": "4df13f9eec134405"
+      }
+    },
+    "let-the-cat-out-of-the-bag": {
+      "term": {
+        "hash": "78691a0d1161b250"
+      },
+      "meaning": {
+        "hash": "b9acae98145ce468"
+      },
+      "work": {
+        "hash": "2e953a2c6e51b1af"
+      },
+      "social": {
+        "hash": "02db70fa9e6c5423"
+      },
+      "writing": {
+        "hash": "df21dd0add4bdc69"
+      }
+    },
+    "low-hanging-fruit": {
+      "term": {
+        "hash": "dadea21410056fff"
+      },
+      "meaning": {
+        "hash": "e170bba3d0180475"
+      },
+      "work": {
+        "hash": "6408bbd66d493eb3"
+      },
+      "social": {
+        "hash": "ff4168a660d00ff2"
+      },
+      "writing": {
+        "hash": "696451717ebc7d76"
+      }
+    },
+    "mad-as-a-hatter": {
+      "term": {
+        "hash": "7bb0011df83d00d6"
+      },
+      "meaning": {
+        "hash": "23db18499af9460a"
+      },
+      "work": {
+        "hash": "fbb9c630169cbcd7"
+      },
+      "social": {
+        "hash": "1d71197d3f9ac0af"
+      },
+      "writing": {
+        "hash": "217168866b3c328a"
+      }
+    },
+    "meticulous": {
+      "term": {
+        "hash": "f0dcf0c3353fdb33"
+      },
+      "meaning": {
+        "hash": "2536db42768d4c18"
+      },
+      "work": {
+        "hash": "094c8020275f1760"
+      },
+      "social": {
+        "hash": "d0612771e2f47f03"
+      },
+      "writing": {
+        "hash": "99c203bd4ec53a91"
+      }
+    },
+    "mitigate": {
+      "term": {
+        "hash": "d600f6902f755edc"
+      },
+      "work": {
+        "hash": "251374de07ec80a8"
+      },
+      "meaning": {
+        "hash": "f20c1685949c8cd5"
+      },
+      "social": {
+        "hash": "1a8a6795dee87cfd"
+      },
+      "writing": {
+        "hash": "f44ffc09e8dbaa39"
+      }
+    },
+    "move-the-needle": {
+      "term": {
+        "hash": "bb0a81a01a8ceeb5"
+      },
+      "meaning": {
+        "hash": "1d83d2117e188cdf"
+      },
+      "work": {
+        "hash": "414cbb645ef12e33"
+      },
+      "social": {
+        "hash": "ffba0c8135cea3fc"
+      },
+      "writing": {
+        "hash": "214d09ae5ca650d6"
+      }
+    },
+    "not-the-best-use-of-our-time": {
+      "term": {
+        "hash": "2f688c9c50f565d5"
+      },
+      "meaning": {
+        "hash": "2968ddcc007405e7"
+      },
+      "work": {
+        "hash": "24db499ffee5dbff"
+      },
+      "social": {
+        "hash": "f98e5c9f9a34fd11"
+      },
+      "writing": {
+        "hash": "9d521771b54cc6f0"
+      }
+    },
+    "nuance": {
+      "term": {
+        "hash": "d721f046eb332829"
+      },
+      "meaning": {
+        "hash": "0fdc40721eff1861"
+      },
+      "work": {
+        "hash": "997d118e0e8b1eb8"
+      },
+      "social": {
+        "hash": "e19b16798ca319a6"
+      },
+      "writing": {
+        "hash": "50f36880bd44fe0d"
+      }
+    },
+    "on-the-fence": {
+      "term": {
+        "hash": "64fff83d1c3c12da"
+      },
+      "meaning": {
+        "hash": "443ee59611bf1704"
+      },
+      "work": {
+        "hash": "a802b074cf0f6f2b"
+      },
+      "social": {
+        "hash": "ea50cb24da93a0cd"
+      },
+      "writing": {
+        "hash": "a2c64ca0cd26388f"
+      }
+    },
+    "on-the-same-page": {
+      "term": {
+        "hash": "77316b9bc9f20448"
+      },
+      "meaning": {
+        "hash": "317b92eb748e7115"
+      },
+      "work": {
+        "hash": "702f2fd8d83c9839"
+      },
+      "social": {
+        "hash": "a42ccbf1aac30421"
+      },
+      "writing": {
+        "hash": "fca523c403ae33e1"
+      }
+    },
+    "once-in-a-blue-moon": {
+      "term": {
+        "hash": "6d28e1710d3bbf11"
+      },
+      "meaning": {
+        "hash": "796584602fc90471"
+      },
+      "work": {
+        "hash": "2b3e9d3fe4929da8"
+      },
+      "social": {
+        "hash": "076ed088ea5278ea"
+      },
+      "writing": {
+        "hash": "6a9c614d1a5c1f6d"
+      }
+    },
+    "piece-of-cake": {
+      "term": {
+        "hash": "6ed7af213571fd74"
+      },
+      "meaning": {
+        "hash": "81be62f84389a7ab"
+      },
+      "work": {
+        "hash": "0d69e9a42ef0c326"
+      },
+      "social": {
+        "hash": "ddbac93ab54a9349"
+      },
+      "writing": {
+        "hash": "8bf7a6ac4455df84"
+      }
+    },
+    "play-devils-advocate": {
+      "term": {
+        "hash": "1a784194cc2b066a"
+      },
+      "meaning": {
+        "hash": "4ef0e7bcea917c82"
+      },
+      "work": {
+        "hash": "eabe01053023a605"
+      },
+      "social": {
+        "hash": "e1092d2b61a9dba4"
+      },
+      "writing": {
+        "hash": "7d71141678b0085f"
+      }
+    },
+    "pragmatic": {
+      "term": {
+        "hash": "e3d1597237658cfd"
+      },
+      "work": {
+        "hash": "abf70e76075ee993"
+      },
+      "meaning": {
+        "hash": "3ddd4d985e8416ee"
+      },
+      "social": {
+        "hash": "ebd258b810fa56c1"
+      },
+      "writing": {
+        "hash": "f02b07ccf3554a44"
+      }
+    },
+    "prioritize": {
+      "term": {
+        "hash": "0adfb13f756bdd55"
+      },
+      "meaning": {
+        "hash": "adc69ef7335a1eba"
+      },
+      "work": {
+        "hash": "03e5e461efde9b04"
+      },
+      "social": {
+        "hash": "61cbacb00320ebcd"
+      },
+      "writing": {
+        "hash": "538ad9b1f17c46d5"
+      }
+    },
+    "proactive": {
+      "term": {
+        "hash": "59149fb112672335"
+      },
+      "meaning": {
+        "hash": "1b762687b1e40b53"
+      },
+      "work": {
+        "hash": "0397c4cfa0a2a116"
+      },
+      "social": {
+        "hash": "03b3363b0b1d0911"
+      },
+      "writing": {
+        "hash": "164a37984028c7d8"
+      }
+    },
+    "pull-out-all-the-stops": {
+      "term": {
+        "hash": "ae9e8d0a02d43434"
+      },
+      "meaning": {
+        "hash": "0cb2a437be263122"
+      },
+      "work": {
+        "hash": "00e0e21ed2ce8e7d"
+      },
+      "social": {
+        "hash": "991b1de481c386c7"
+      },
+      "writing": {
+        "hash": "ffbd94a8fced3ae5"
+      }
+    },
+    "push-back-on-that": {
+      "term": {
+        "hash": "3de6ca38e1ddd84e"
+      },
+      "meaning": {
+        "hash": "dbb59a47b3f39a4b"
+      },
+      "work": {
+        "hash": "f9d5a30f72c1ec8e"
+      },
+      "social": {
+        "hash": "848ef915bd974dbc"
+      },
+      "writing": {
+        "hash": "9d44a44f1917296c"
+      }
+    },
+    "red-herring": {
+      "term": {
+        "hash": "422191ddf3f27a17"
+      },
+      "meaning": {
+        "hash": "5d84d0874b154529"
+      },
+      "work": {
+        "hash": "a7cfda271115aef3"
+      },
+      "social": {
+        "hash": "b9feb4698bafbf6d"
+      },
+      "writing": {
+        "hash": "e6a6680c098001b4"
+      }
+    },
+    "resilient": {
+      "term": {
+        "hash": "b42c91ecc28201c2"
+      },
+      "meaning": {
+        "hash": "d1bb45f7786e4315"
+      },
+      "work": {
+        "hash": "306a927b8ecbaf27"
+      },
+      "social": {
+        "hash": "10c61411616c29be"
+      },
+      "writing": {
+        "hash": "5b36e20ba69c821c"
+      }
+    },
+    "run-the-gauntlet": {
+      "term": {
+        "hash": "04e844ce570168cf"
+      },
+      "meaning": {
+        "hash": "931de33cbbb2544a"
+      },
+      "work": {
+        "hash": "a23b4960117cf54b"
+      },
+      "social": {
+        "hash": "99aef9ad816572ca"
+      },
+      "writing": {
+        "hash": "c55181e6f5d70549"
+      }
+    },
+    "scrutinize": {
+      "term": {
+        "hash": "b2e29b0eddff356f"
+      },
+      "meaning": {
+        "hash": "ec635c1edd546c28"
+      },
+      "work": {
+        "hash": "b18ce457633326d7"
+      },
+      "social": {
+        "hash": "ed9ab9ebb12b0096"
+      },
+      "writing": {
+        "hash": "4d4fb70cbc5af08d"
+      }
+    },
+    "serendipity": {
+      "term": {
+        "hash": "4ea202cf823f8800"
+      },
+      "meaning": {
+        "hash": "84df891588939413"
+      },
+      "work": {
+        "hash": "332e9b50a59ebcbd"
+      },
+      "social": {
+        "hash": "51ad0e586a3c9580"
+      },
+      "writing": {
+        "hash": "e14af579f23ec385"
+      }
+    },
+    "show-your-true-colors": {
+      "term": {
+        "hash": "c021707ea8932123"
+      },
+      "meaning": {
+        "hash": "b4e2de07d99d90da"
+      },
+      "work": {
+        "hash": "64f275ab52511787"
+      },
+      "social": {
+        "hash": "9780851ab0a07d80"
+      },
+      "writing": {
+        "hash": "9add9b2fb1a3d8ee"
+      }
+    },
+    "spill-the-beans": {
+      "term": {
+        "hash": "eaf62f892ccb7cca"
+      },
+      "meaning": {
+        "hash": "5aee21a5e2dffd51"
+      },
+      "work": {
+        "hash": "082352ad6761f0b8"
+      },
+      "social": {
+        "hash": "c226132c0b6c42ce"
+      },
+      "writing": {
+        "hash": "28ca59bee3cefc9c"
+      }
+    },
+    "steal-someones-thunder": {
+      "term": {
+        "hash": "79cef69b1b84b55e"
+      },
+      "meaning": {
+        "hash": "ef5725dfac351f05"
+      },
+      "work": {
+        "hash": "08cd815fe6001d8b"
+      },
+      "social": {
+        "hash": "04e476685c564ad9"
+      },
+      "writing": {
+        "hash": "2f0655579385b75a"
+      }
+    },
+    "table-this": {
+      "term": {
+        "hash": "fa21c759ccb9fa0e"
+      },
+      "meaning": {
+        "hash": "86b86d42e3f1387f"
+      },
+      "work": {
+        "hash": "db91285191819852"
+      },
+      "social": {
+        "hash": "b7cf595cff7d4c9c"
+      },
+      "writing": {
+        "hash": "3d177dd19cbddd1f"
+      }
+    },
+    "take-it-with-a-pinch-of-salt": {
+      "term": {
+        "hash": "02f587f21f719291"
+      },
+      "meaning": {
+        "hash": "4d11f68717fce5c6"
+      },
+      "work": {
+        "hash": "b9d8aad33d3a7103"
+      },
+      "social": {
+        "hash": "d65513ae0e3f53d5"
+      },
+      "writing": {
+        "hash": "84a5a40d2dbe02a5"
+      }
+    },
+    "take-this-offline": {
+      "term": {
+        "hash": "0f872541c7aba189"
+      },
+      "meaning": {
+        "hash": "47d3bf0a5e8c5add"
+      },
+      "work": {
+        "hash": "809cf25df5e4bdaa"
+      },
+      "social": {
+        "hash": "4acd86b0cef006b4"
+      },
+      "writing": {
+        "hash": "e0ff9febde16df83"
+      }
+    },
+    "tangible": {
+      "term": {
+        "hash": "a93d2e55311bef52"
+      },
+      "meaning": {
+        "hash": "5d699cd00626ee00"
+      },
+      "work": {
+        "hash": "45d746af966dbcba"
+      },
+      "social": {
+        "hash": "5207b8d9de213093"
+      },
+      "writing": {
+        "hash": "512add3850d7f69b"
+      }
+    },
+    "tenacious": {
+      "term": {
+        "hash": "da673d91debf6aba"
+      },
+      "meaning": {
+        "hash": "6dd5823e9c5d8482"
+      },
+      "work": {
+        "hash": "0949a62f0bbeed61"
+      },
+      "social": {
+        "hash": "f9aa1fbf90f6beec"
+      },
+      "writing": {
+        "hash": "6a61b18043fa1a2f"
+      }
+    },
+    "thats-a-fair-point-however": {
+      "term": {
+        "hash": "1b3f5a06fdf0e8d0"
+      },
+      "meaning": {
+        "hash": "6e2a6e35ee518788"
+      },
+      "work": {
+        "hash": "cd749f5be984e0f7"
+      },
+      "social": {
+        "hash": "1bcd253423b47fb4"
+      },
+      "writing": {
+        "hash": "d5488dc53e7daa1c"
+      }
+    },
+    "the-ball-is-in-your-court": {
+      "term": {
+        "hash": "fbfc131544de011a"
+      },
+      "meaning": {
+        "hash": "1902c7a22bf6b259"
+      },
+      "work": {
+        "hash": "6cad5eb933b94869"
+      },
+      "social": {
+        "hash": "d62de9af1e3543c3"
+      },
+      "writing": {
+        "hash": "0add5d81e0abd91f"
+      }
+    },
+    "the-big-picture": {
+      "term": {
+        "hash": "0f4e05938ae4a48e"
+      },
+      "meaning": {
+        "hash": "5860647bdcd27b3d"
+      },
+      "work": {
+        "hash": "a47080fa5b1c0adc"
+      },
+      "social": {
+        "hash": "1dab4398eeef194a"
+      },
+      "writing": {
+        "hash": "790fde665b46a156"
+      }
+    },
+    "the-whole-nine-yards": {
+      "term": {
+        "hash": "b7e645617c7fa614"
+      },
+      "meaning": {
+        "hash": "41f31286b1cfcd02"
+      },
+      "work": {
+        "hash": "7a24b1742d5e953e"
+      },
+      "social": {
+        "hash": "0e44659107668af3"
+      },
+      "writing": {
+        "hash": "26c85717571f9613"
+      }
+    },
+    "touch-base": {
+      "term": {
+        "hash": "9f7ed8741ea71da8"
+      },
+      "meaning": {
+        "hash": "55992915cdb30716"
+      },
+      "work": {
+        "hash": "5c7828d0c79d63a4"
+      },
+      "social": {
+        "hash": "aeb2d721433210ae"
+      },
+      "writing": {
+        "hash": "a4eba30e29c00b4b"
+      }
+    },
+    "ubiquitous": {
+      "term": {
+        "hash": "e0776e7da6bb9237"
+      },
+      "meaning": {
+        "hash": "09f18443aa829d69"
+      },
+      "work": {
+        "hash": "0721675fcb22434a"
+      },
+      "social": {
+        "hash": "25d8bac953132bf8"
+      },
+      "writing": {
+        "hash": "1dc2a0e8e6017b6f"
+      }
+    },
+    "under-the-weather": {
+      "term": {
+        "hash": "83b857814228d9d1"
+      },
+      "meaning": {
+        "hash": "d73f059ca36b57ed"
+      },
+      "work": {
+        "hash": "94cf12ab13d52c9a"
+      },
+      "social": {
+        "hash": "137a574371faa833"
+      },
+      "writing": {
+        "hash": "a193b23439c150a0"
+      }
+    },
+    "viable": {
+      "term": {
+        "hash": "294a519e4af1fb44"
+      },
+      "meaning": {
+        "hash": "a30247d7d184f036"
+      },
+      "work": {
+        "hash": "a30679775ec3da25"
+      },
+      "social": {
+        "hash": "3bcf1103119e85bd"
+      },
+      "writing": {
+        "hash": "bfe1adf5943077a2"
+      }
+    },
+    "with-all-due-respect": {
+      "term": {
+        "hash": "6b3f0325af5e6fad"
+      },
+      "meaning": {
+        "hash": "bae9139594354f0a"
+      },
+      "work": {
+        "hash": "60db228fc3faf65c"
+      },
+      "social": {
+        "hash": "59b48c96977dcba8"
+      },
+      "writing": {
+        "hash": "244803f1f2eacb51"
+      }
+    }
+  }
+}

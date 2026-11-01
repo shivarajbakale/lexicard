@@ -94,7 +94,7 @@ export function IconButton({
       accessibilityRole="button"
       accessibilityLabel={label}
       onPress={onPress}
-      style={[styles.iconBtn, { width: size, height: size, borderRadius: size >= 56 ? size / 2 : radius.md, backgroundColor: bg, borderColor: border }]}
+      style={[styles.iconBtn, { width: size, height: size, borderRadius: size >= 48 ? size / 2 : radius.md, backgroundColor: bg, borderColor: border }]}
     >
       <Icon name={icon} size={iconSize} color={fg} />
     </PressScale>

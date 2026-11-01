@@ -34,6 +34,43 @@ Leitner boxes 1–5 with intervals of 1, 2, 4, 8 and 16 days. Swipe right moves 
 up a box; swipe left sends it back to box 1 and replays it once at the end of the
 session. Progress is stored on the device (localStorage on web).
 
+## Levels
+
+Ten levels, from Listener to Lexicon (`src/lib/levels.ts`). Points come only from real progress:
+
+- a card earns points the first time it reaches each box (1, 2, 3, then 4 for Box 5: 10 per mastered card);
+  forgetting a card never takes points away, because only the best box counts;
+- logging a real use on a card's detail page ("I used it") earns 3 points per setting (work, social, writing)
+  and moves the card up a box. It unlocks once the card has left Box 1.
+
+Practice-mode swipes keep the streak alive but never move boxes, so they earn nothing. A level opens when you have
+its points and have passed its trial (for example "Master 5 cards" or "Use 3 different terms at work"). Levels never
+go down. Each level unlocks something: extra decks (Idioms you'll hear weekly at 2, Polite pushback at 4, Strange
+origins at 5), streak freezes (3, 6, 9), the Origin quiz (5), the weekly recap (6), Challenge mode (7), the Ink card
+style (8), and a star every 150 points after level 10. Decks you already have history in stay open.
+
+The level-up screen shows once per level, at the end of a session or right after logging a use. All of it is
+computed from on-device state; stored data migrated to version 1 (best boxes backfilled, existing learners start
+at the level they've already earned).
+
+## Audio
+
+Every card ships with pre-generated MP3s (term, meaning and the three example sentences) made locally with
+[Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) (Apache-2.0). Voice, accent, speed and bitrate are in
+`audio.config.json`.
+
+One-time setup:
+
+```sh
+brew install espeak-ng ffmpeg
+uv venv --python 3.12 .venv-kokoro
+VIRTUAL_ENV=.venv-kokoro uv pip install kokoro soundfile pip \
+  "en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl"
+```
+
+Then `node scripts/generate-audio.mjs` (add `--dry-run` to preview, `--verify` to transcribe each clip with the
+`speech` CLI and flag mismatches). Only changed clips are regenerated.
+
 ## Build & deploy
 
 ```sh

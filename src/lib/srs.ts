@@ -10,6 +10,8 @@ const DAY = 24 * 60 * 60 * 1000;
 
 export interface Review {
   box: number; // 1..5
+  /** highest box this card has ever reached; levels count this, so forgetting never costs points */
+  bestBox?: number;
   dueAt: number; // epoch ms
   seen: number;
   lastSeen: number;
@@ -20,6 +22,7 @@ export function nextReview(prev: Review | undefined, known: boolean, now = Date.
   const box = known ? Math.min((prev?.box ?? 1) + 1, MAX_BOX) : 1;
   return {
     box,
+    bestBox: Math.max(box, prev?.bestBox ?? prev?.box ?? 1),
     dueAt: now + BOX_INTERVAL_DAYS[box - 1] * DAY,
     seen: (prev?.seen ?? 0) + 1,
     lastSeen: now,

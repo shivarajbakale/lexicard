@@ -42,3 +42,10 @@ yarn-error.*
 
 # local tooling
 .memsearch/
+
+# audio generation scratch (voice candidates, temp wavs, review sheets)
+audio-work/
+.env
+
+# Kokoro TTS virtualenv (scripts/kokoro_tts.py)
+.venv-kokoro/

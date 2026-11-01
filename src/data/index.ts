@@ -1,3 +1,5 @@
+import { deckOpen } from '../lib/levels';
+import type { Review } from '../lib/srs';
 import type { Card, CardKind, Deck } from '../lib/types';
 
 import everydayEloquence from './decks/everyday-eloquence.json';
@@ -34,12 +36,21 @@ export const deckOfCard: Record<string, Deck> = Object.fromEntries(
   decks.flatMap((d) => d.cards.map((c) => [c.id, d] as const)),
 );
 
-export function cardsForScope(scope: string): Card[] {
-  if (scope === 'all') return allCards;
+/** Ids of the decks this learner can study at `level` (see deckOpen in lib/levels). */
+export function openDeckIds(level: number, reviews: Record<string, Review>): Set<string> {
+  return new Set(decks.filter((d) => deckOpen(d.id, d.cards.map((c) => c.id), level, reviews)).map((d) => d.id));
+}
+
+/** Cards for a study scope, limited to open decks when `open` is given. A locked deck scope falls back to everything open. */
+export function cardsForScope(scope: string, open?: Set<string>): Card[] {
+  const pool = open ? allCards.filter((c) => open.has(deckOfCard[c.id].id)) : allCards;
+  if (scope === 'all') return pool;
   if (scope === 'word' || scope === 'idiom' || scope === 'phrase') {
-    return allCards.filter((c) => c.kind === (scope as CardKind));
+    return pool.filter((c) => c.kind === (scope as CardKind));
   }
-  return decks.find((d) => d.id === scope)?.cards ?? allCards;
+  const deck = decks.find((d) => d.id === scope);
+  if (deck && (!open || open.has(deck.id))) return deck.cards;
+  return pool;
 }
 
 export function scopeLabel(scope: string): string {
