@@ -20,11 +20,11 @@ export function nextStep(level: LevelState): string {
   return `${level.toNext} ${level.toNext === 1 ? 'point' : 'points'} to ${level.next.name}`;
 }
 
-export function LevelBadge({ level, size = 36 }: { level: Pick<LevelState, 'n' | 'def'>; size?: number }) {
+export function LevelBadge({ level, size = 36, round = false }: { level: Pick<LevelState, 'n' | 'def'>; size?: number; round?: boolean }) {
   const t = TIER_BADGE[level.def.tier];
   return (
-    <View style={[styles.badge, { width: size, height: size, borderRadius: Math.round(size / 3), backgroundColor: t.bg }]}>
-      <Txt weight="mono" size={Math.round(size * 0.42)} color={t.fg}>
+    <View style={[styles.badge, { width: size, height: size, borderRadius: round ? size / 2 : Math.round(size / 3), backgroundColor: t.bg }]}>
+      <Txt weight={round ? 'semibold' : 'mono'} size={round ? Math.round(size * 0.5) : Math.round(size * 0.42)} color={t.fg}>
         {level.n}
       </Txt>
     </View>
@@ -78,6 +78,16 @@ export function LevelChip({ level, compact = false }: { level: LevelState; compa
 }
 
 /** Header-sized level pill: badge, name, points to next, and a hairline progress bar. Opens the level path. */
+/** The pill's own background fills up with progress, so the header shows one bar, not two stacked ones. */
+function PillFill({ frac }: { frac: number }) {
+  const w = useSharedValue(0);
+  useEffect(() => {
+    w.set(withTiming(frac, { duration: 420 }));
+  }, [frac, w]);
+  const style = useAnimatedStyle(() => ({ width: `${w.value * 100}%` }));
+  return <Animated.View style={[styles.pillFill, style]} pointerEvents="none" />;
+}
+
 export function LevelPill({ level }: { level: LevelState }) {
   const router = useRouter();
   // On the narrowest phones the name wins; the points live on the path screen.
@@ -91,7 +101,8 @@ export function LevelPill({ level }: { level: LevelState }) {
       accessibilityRole="link"
       accessibilityLabel={`Level ${level.n}, ${level.def.name}. ${nextStep(level)}. Open your level path.`}
     >
-      <LevelBadge level={level} size={22} />
+      <PillFill frac={level.next ? level.frac : 1} />
+      <LevelBadge level={level} size={24} round />
       <Txt weight="semibold" size={13} numberOfLines={1} style={{ flexShrink: 1 }}>
         {level.def.name}
       </Txt>
@@ -100,9 +111,6 @@ export function LevelPill({ level }: { level: LevelState }) {
           {target}
         </Txt>
       )}
-      <View style={styles.pillTrack} pointerEvents="none">
-        <ProgressTrack frac={level.next ? level.frac : 1} height={2} track="transparent" />
-      </View>
     </PressScale>
   );
 }
@@ -123,7 +131,7 @@ const styles = StyleSheet.create({
     borderColor: '#2A2D27',
     overflow: 'hidden',
   },
-  pillTrack: { position: 'absolute', left: 14, right: 14, bottom: 0 },
+  pillFill: { position: 'absolute', left: 0, top: 0, bottom: 0, backgroundColor: '#29301C' },
   chip: { padding: 12, paddingHorizontal: 14, borderRadius: radius.lg, backgroundColor: colors.surface, borderWidth: 1, borderColor: colors.border, gap: 10 },
   chipCompact: { paddingVertical: 8 },
   row: { flexDirection: 'row', alignItems: 'center', gap: 12 },
