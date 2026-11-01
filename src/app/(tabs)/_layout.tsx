@@ -20,7 +20,7 @@ function TabBar({ state, navigateToTab }: BottomTabBarProps) {
   const pill = useAnimatedStyle(() => ({ transform: [{ translateX: withSpring(state.index * slot, springs.snappy) }] }), [state.index, slot]);
 
   return (
-    <View style={[styles.bar, { paddingBottom: Math.max(insets.bottom, 14) }]}>
+    <View style={[styles.bar, { paddingBottom: Math.max(insets.bottom, 6) }]}>
       <View style={styles.inner} onLayout={(e) => setW(e.nativeEvent.layout.width)}>
         {w > 0 && (
           <Animated.View style={[styles.pillWrap, { width: slot }, pill]}>
@@ -43,8 +43,8 @@ function TabBar({ state, navigateToTab }: BottomTabBarProps) {
                 if (!active) navigateToTab(route.key);
               }}
             >
-              <Icon name={meta.icon} size={20} color={active ? colors.lime : colors.textFaint} />
-              <Txt weight="medium" size={12} color={active ? colors.lime : colors.textFaint}>
+              <Icon name={meta.icon} size={18} color={active ? colors.lime : colors.textFaint} />
+              <Txt weight="medium" size={11} color={active ? colors.lime : colors.textFaint}>
                 {meta.label}
               </Txt>
             </PressScale>
@@ -69,9 +69,9 @@ export default function TabLayout() {
 }
 
 const styles = StyleSheet.create({
-  bar: { backgroundColor: colors.bgRaised, borderTopWidth: 1, borderTopColor: '#1F221C', paddingTop: 8, paddingHorizontal: 12 },
+  bar: { backgroundColor: colors.bgRaised, borderTopWidth: 1, borderTopColor: '#1F221C', paddingTop: 6, paddingHorizontal: 12 },
   inner: { flexDirection: 'row' },
   pillWrap: { position: 'absolute', top: 0, bottom: 0, alignItems: 'center', justifyContent: 'center' },
-  pill: { width: 64, height: '100%', borderRadius: 14, backgroundColor: '#1A1D16' },
-  tab: { flex: 1, minHeight: 52, alignItems: 'center', justifyContent: 'center', gap: 4 },
+  pill: { width: 56, height: '100%', borderRadius: 12, backgroundColor: '#1A1D16' },
+  tab: { flex: 1, minHeight: 44, alignItems: 'center', justifyContent: 'center', gap: 2 },
 });

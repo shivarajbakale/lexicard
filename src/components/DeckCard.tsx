@@ -149,7 +149,10 @@ export function DeckCard({ card, index, width, height, enterFrom, onSwiped, ref 
   // and on the smallest phones the example loses its setting line too.
   const showOrigin = height >= 520;
   const tight = height < 340;
-  const termSize = card.term.length > 14 ? (tight ? 30 : 38) : tight ? 38 : 46;
+  // Sized to the card, not fixed: on a phone the card is ~350px wide and a fixed 46px term crowds it.
+  const long = card.term.length > 14;
+  const base = long ? (tight ? 28 : 32) : tight ? 34 : 40;
+  const termSize = Math.round(Math.max(long ? 24 : 28, Math.min(base, (width / 360) * base)));
 
   return (
     <GestureDetector gesture={gesture}>
