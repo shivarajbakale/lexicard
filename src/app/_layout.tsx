@@ -37,6 +37,7 @@ export default function RootLayout() {
               <Stack.Screen name="(tabs)" />
               <Stack.Screen name="card/[id]" options={{ animation: 'slide_from_bottom' }} />
               <Stack.Screen name="levels" />
+              <Stack.Screen name="root/[id]" />
               <Stack.Screen name="level-up" options={{ animation: 'fade_from_bottom', gestureEnabled: false }} />
               <Stack.Screen name="quiz" options={{ animation: 'slide_from_bottom' }} />
               <Stack.Screen name="challenge" options={{ animation: 'slide_from_bottom' }} />

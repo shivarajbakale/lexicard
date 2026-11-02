@@ -1,0 +1,4166 @@
+[
+  {
+    "id": "mal",
+    "forms": [
+      "mal",
+      "male"
+    ],
+    "meaning": "badly",
+    "language": "Latin",
+    "etymon": "male",
+    "elsewhere": [
+      "malice",
+      "malfunction",
+      "malpractice"
+    ],
+    "lookalikes": [
+      {
+        "term": "malleable",
+        "note": "from malleus, a hammer"
+      }
+    ]
+  },
+  {
+    "id": "bene",
+    "forms": [
+      "bene"
+    ],
+    "meaning": "well",
+    "language": "Latin",
+    "etymon": "bene",
+    "elsewhere": [
+      "benefit",
+      "benign",
+      "benediction"
+    ]
+  },
+  {
+    "id": "vol",
+    "forms": [
+      "vol",
+      "volunt"
+    ],
+    "meaning": "wish, will",
+    "language": "Latin",
+    "etymon": "velle",
+    "elsewhere": [
+      "volunteer",
+      "voluntary",
+      "volition"
+    ],
+    "lookalikes": [
+      {
+        "term": "voluminous",
+        "note": "from volumen, a roll"
+      }
+    ]
+  },
+  {
+    "id": "path",
+    "forms": [
+      "path",
+      "patho"
+    ],
+    "meaning": "feeling, suffering",
+    "language": "Greek",
+    "etymon": "pathos",
+    "elsewhere": [
+      "sympathy",
+      "telepathy",
+      "psychopath"
+    ]
+  },
+  {
+    "id": "vert",
+    "forms": [
+      "vert",
+      "vers"
+    ],
+    "meaning": "turn",
+    "language": "Latin",
+    "etymon": "vertere",
+    "elsewhere": [
+      "convert",
+      "reverse",
+      "version"
+    ],
+    "lookalikes": [
+      {
+        "term": "covert",
+        "note": "from Old French covrir, to cover"
+      },
+      {
+        "term": "overt",
+        "note": "from Old French ovrir, to open"
+      }
+    ]
+  },
+  {
+    "id": "spec",
+    "forms": [
+      "spec",
+      "spect",
+      "spic"
+    ],
+    "meaning": "look",
+    "language": "Latin",
+    "etymon": "specere",
+    "elsewhere": [
+      "inspect",
+      "spectator",
+      "perspective"
+    ]
+  },
+  {
+    "id": "plac",
+    "forms": [
+      "plac"
+    ],
+    "meaning": "please, calm",
+    "language": "Latin",
+    "etymon": "placēre, plācāre",
+    "elsewhere": [
+      "please",
+      "placebo",
+      "complaisant"
+    ],
+    "lookalikes": [
+      {
+        "term": "placard",
+        "note": "from French plaque, a flat sheet"
+      },
+      {
+        "term": "commonplace",
+        "note": "from place, a spot"
+      }
+    ]
+  },
+  {
+    "id": "cred",
+    "forms": [
+      "cred"
+    ],
+    "meaning": "believe",
+    "language": "Latin",
+    "etymon": "crēdere",
+    "elsewhere": [
+      "credit",
+      "credible",
+      "creed"
+    ]
+  },
+  {
+    "id": "pragmat",
+    "forms": [
+      "pragmat"
+    ],
+    "meaning": "deed, act",
+    "language": "Greek",
+    "etymon": "πράγμα",
+    "elsewhere": [
+      "practical",
+      "practice",
+      "pragmaticism"
+    ]
+  },
+  {
+    "id": "ubiquit",
+    "forms": [
+      "ubiquit"
+    ],
+    "meaning": "everywhere",
+    "language": "Latin",
+    "etymon": "ubīque",
+    "elsewhere": [
+      "ubiquity",
+      "ubiquity"
+    ]
+  },
+  {
+    "id": "hemer",
+    "forms": [
+      "hemer"
+    ],
+    "meaning": "day",
+    "language": "Greek",
+    "etymon": "ἡμέρα",
+    "elsewhere": [
+      "hemisphere",
+      "hemisphere",
+      "hemlock"
+    ]
+  },
+  {
+    "id": "ten",
+    "forms": [
+      "ten"
+    ],
+    "meaning": "hold",
+    "language": "Latin",
+    "etymon": "tenēre",
+    "elsewhere": [
+      "tenant",
+      "tenantry",
+      "tenure"
+    ]
+  },
+  {
+    "id": "frug",
+    "forms": [
+      "frug"
+    ],
+    "meaning": "sparing, thrifty",
+    "language": "Latin",
+    "etymon": "frūgēs",
+    "elsewhere": [
+      "fruitful",
+      "frugality"
+    ]
+  },
+  {
+    "id": "greg",
+    "forms": [
+      "greg"
+    ],
+    "meaning": "flock, herd",
+    "language": "Latin",
+    "etymon": "grex",
+    "elsewhere": [
+      "congregate",
+      "aggregate"
+    ]
+  },
+  {
+    "id": "tang",
+    "forms": [
+      "tang",
+      "tact"
+    ],
+    "meaning": "touch",
+    "language": "Proto-Indo-European",
+    "etymon": "tangere",
+    "elsewhere": [
+      "tangent",
+      "contact",
+      "tactile"
+    ]
+  },
+  {
+    "id": "vi",
+    "forms": [
+      "vi"
+    ],
+    "meaning": "life",
+    "language": "Latin",
+    "etymon": "vita",
+    "elsewhere": [
+      "vital",
+      "vitamin",
+      "vivacious"
+    ]
+  },
+  {
+    "id": "sens",
+    "forms": [
+      "sens"
+    ],
+    "meaning": "perceive, to feel",
+    "language": "Latin",
+    "etymon": "sentīre",
+    "elsewhere": [
+      "sense",
+      "sensible",
+      "sensory"
+    ]
+  },
+  {
+    "id": "tort",
+    "forms": [
+      "tort"
+    ],
+    "meaning": "twist, turn",
+    "language": "Latin",
+    "etymon": "torqueō",
+    "elsewhere": [
+      "torture",
+      "torment",
+      "torpedo"
+    ]
+  },
+  {
+    "id": "dexter",
+    "forms": [
+      "dexter"
+    ],
+    "meaning": "right",
+    "language": "Latin",
+    "etymon": "dexter",
+    "elsewhere": [
+      "dexterous",
+      "dexter",
+      "dexterously"
+    ]
+  },
+  {
+    "id": "rad",
+    "forms": [
+      "radic"
+    ],
+    "meaning": "root",
+    "language": "Latin",
+    "etymon": "rādīx",
+    "elsewhere": [
+      "radish",
+      "radial",
+      "radio"
+    ]
+  },
+  {
+    "id": "hab",
+    "forms": [
+      "habit"
+    ],
+    "meaning": "live",
+    "language": "Latin",
+    "etymon": "habitō",
+    "elsewhere": [
+      "habit",
+      "habitable",
+      "habitation"
+    ]
+  },
+  {
+    "id": "anim",
+    "forms": [
+      "anim"
+    ],
+    "meaning": "life, soul",
+    "language": "Latin",
+    "etymon": "anima",
+    "elsewhere": [
+      "animal",
+      "animate",
+      "unanimate"
+    ]
+  },
+  {
+    "id": "clem",
+    "forms": [
+      "clem"
+    ],
+    "meaning": "mild, gentle",
+    "language": "Latin",
+    "etymon": "clēmēns",
+    "elsewhere": [
+      "clemency",
+      "clement",
+      "clemente"
+    ]
+  },
+  {
+    "id": "ebri",
+    "forms": [
+      "ebri"
+    ],
+    "meaning": "drunk",
+    "language": "Latin",
+    "etymon": "ēbrius",
+    "elsewhere": [
+      "ebriety",
+      "ebrious",
+      "inebriate"
+    ]
+  },
+  {
+    "id": "lac",
+    "forms": [
+      "lacer"
+    ],
+    "meaning": "tear",
+    "language": "Latin",
+    "etymon": "lacerāre",
+    "elsewhere": [
+      "lacerate",
+      "lacerated",
+      "lacerating"
+    ]
+  },
+  {
+    "id": "mastic",
+    "forms": [
+      "mastic"
+    ],
+    "meaning": "chew",
+    "language": "Latin",
+    "etymon": "masticō",
+    "elsewhere": [
+      "mastication",
+      "mastic"
+    ]
+  },
+  {
+    "id": "nutri",
+    "forms": [
+      "nutri"
+    ],
+    "meaning": "nourish, feed",
+    "language": "Latin",
+    "etymon": "nūtriō",
+    "elsewhere": [
+      "nutrition",
+      "nutrient",
+      "nutritious"
+    ]
+  },
+  {
+    "id": "omni",
+    "forms": [
+      "omni"
+    ],
+    "meaning": "all",
+    "language": "Latin",
+    "etymon": "omnis",
+    "elsewhere": [
+      "omnipresent",
+      "omnipotent",
+      "omniscient"
+    ]
+  },
+  {
+    "id": "vor",
+    "forms": [
+      "vor"
+    ],
+    "meaning": "eat",
+    "language": "Latin",
+    "etymon": "vorāre",
+    "elsewhere": [
+      "voracity",
+      "voraciousness",
+      "devour"
+    ]
+  },
+  {
+    "id": "mort",
+    "forms": [
+      "mort"
+    ],
+    "meaning": "death",
+    "language": "Latin",
+    "etymon": "mors",
+    "elsewhere": [
+      "mortal",
+      "mortgage",
+      "amortize"
+    ]
+  },
+  {
+    "id": "palli",
+    "forms": [
+      "palli"
+    ],
+    "meaning": "cover with a cloak",
+    "language": "Latin",
+    "etymon": "palliō",
+    "elsewhere": [
+      "pall",
+      "pallium",
+      "pallise"
+    ]
+  },
+  {
+    "id": "pung",
+    "forms": [
+      "pung"
+    ],
+    "meaning": "sting, prick",
+    "language": "Latin",
+    "etymon": "pungere",
+    "elsewhere": [
+      "puncture",
+      "pungency"
+    ]
+  },
+  {
+    "id": "sed",
+    "forms": [
+      "sed",
+      "sid"
+    ],
+    "meaning": "sit, be seated",
+    "language": "Latin",
+    "etymon": "sedere",
+    "elsewhere": [
+      "sediment",
+      "seduce",
+      "reside"
+    ]
+  },
+  {
+    "id": "sen",
+    "forms": [
+      "sen"
+    ],
+    "meaning": "old, aged",
+    "language": "Proto-Indo-European",
+    "etymon": "senex",
+    "elsewhere": [
+      "senescent",
+      "senator",
+      "senior"
+    ]
+  },
+  {
+    "id": "terr",
+    "forms": [
+      "terr"
+    ],
+    "meaning": "earth, soil",
+    "language": "Latin",
+    "etymon": "terra",
+    "elsewhere": [
+      "terrain",
+      "terrestrial",
+      "territory"
+    ]
+  },
+  {
+    "id": "therap",
+    "forms": [
+      "therap"
+    ],
+    "meaning": "service, care",
+    "language": "Latin",
+    "etymon": "θεραπεία",
+    "elsewhere": [
+      "therapeutic",
+      "therapist",
+      "therapeutics"
+    ]
+  },
+  {
+    "id": "tox",
+    "forms": [
+      "tox"
+    ],
+    "meaning": "poison",
+    "language": "Greek",
+    "etymon": "τοξικόν",
+    "elsewhere": [
+      "toxin",
+      "toxinogenic",
+      "toxicity"
+    ]
+  },
+  {
+    "id": "abort",
+    "forms": [
+      "abort"
+    ],
+    "meaning": "miscarry",
+    "language": "Latin",
+    "etymon": "abortīrus",
+    "elsewhere": [
+      "abort",
+      "abortion",
+      "abortable"
+    ]
+  },
+  {
+    "id": "melior",
+    "forms": [
+      "melior"
+    ],
+    "meaning": "better, more excellent",
+    "language": "Latin",
+    "etymon": "melior",
+    "elsewhere": [
+      "superior",
+      "optimism",
+      "excellent"
+    ]
+  },
+  {
+    "id": "arch",
+    "forms": [
+      "archa"
+    ],
+    "meaning": "beginning",
+    "language": "Greek",
+    "etymon": "ἀρχή",
+    "elsewhere": [
+      "archetype",
+      "archive",
+      "architecture"
+    ]
+  },
+  {
+    "id": "bar",
+    "forms": [
+      "baro"
+    ],
+    "meaning": "pressure, weight",
+    "language": "Greek",
+    "etymon": "βαρύς",
+    "elsewhere": [
+      "barricade",
+      "barley",
+      "baron"
+    ]
+  },
+  {
+    "id": "celer",
+    "forms": [
+      "celer"
+    ],
+    "meaning": "swift, fast",
+    "language": "Latin",
+    "etymon": "celer",
+    "elsewhere": [
+      "accelerate",
+      "decelerate",
+      "celeriac"
+    ]
+  },
+  {
+    "id": "dec",
+    "forms": [
+      "dec"
+    ],
+    "meaning": "ten",
+    "language": "Latin",
+    "etymon": "decās",
+    "elsewhere": [
+      "decimal",
+      "decimate",
+      "decipher"
+    ]
+  },
+  {
+    "id": "dorm",
+    "forms": [
+      "dorm"
+    ],
+    "meaning": "sleep",
+    "language": "Latin",
+    "etymon": "dormiō",
+    "elsewhere": [
+      "dormitory",
+      "dormer",
+      "dormouse"
+    ]
+  },
+  {
+    "id": "culmin",
+    "forms": [
+      "culmin"
+    ],
+    "meaning": "reach the highest point",
+    "language": "Latin",
+    "etymon": "culminō",
+    "elsewhere": [
+      "culmination",
+      "culm",
+      "culmiferous"
+    ]
+  },
+  {
+    "id": "grad",
+    "forms": [
+      "grad"
+    ],
+    "meaning": "step, degree",
+    "language": "Latin",
+    "etymon": "gradus",
+    "elsewhere": [
+      "grade",
+      "degree",
+      "progress"
+    ]
+  },
+  {
+    "id": "fortu",
+    "forms": [
+      "fortu"
+    ],
+    "meaning": "chance, luck",
+    "language": "Latin",
+    "etymon": "fortuītus",
+    "elsewhere": [
+      "fortune",
+      "fortunate",
+      "fortuitously"
+    ]
+  },
+  {
+    "id": "mut",
+    "forms": [
+      "mut"
+    ],
+    "meaning": "change",
+    "language": "Latin",
+    "etymon": "mūtāre",
+    "elsewhere": [
+      "mutate",
+      "mutation",
+      "mutual"
+    ]
+  },
+  {
+    "id": "vit",
+    "forms": [
+      "evit"
+    ],
+    "meaning": "avoid",
+    "language": "Latin",
+    "etymon": "vītāre",
+    "elsewhere": [
+      "visit",
+      "vital",
+      "vitamin"
+    ]
+  },
+  {
+    "id": "morph",
+    "forms": [
+      "morph"
+    ],
+    "meaning": "form",
+    "language": "Greek",
+    "etymon": "μορφή",
+    "elsewhere": [
+      "morphology",
+      "polymorph",
+      "dimorphic"
+    ]
+  },
+  {
+    "id": "nasc",
+    "forms": [
+      "nasc"
+    ],
+    "meaning": "be born",
+    "language": "Latin",
+    "etymon": "nāscor",
+    "elsewhere": [
+      "nasal",
+      "nature",
+      "native"
+    ]
+  },
+  {
+    "id": "obsol",
+    "forms": [
+      "obsol"
+    ],
+    "meaning": "become obsolete",
+    "language": "Latin",
+    "etymon": "obsolēscere",
+    "elsewhere": [
+      "obsolete",
+      "obsolescent",
+      "obsolesce"
+    ]
+  },
+  {
+    "id": "mod",
+    "forms": [
+      "mod"
+    ],
+    "meaning": "measure, manner",
+    "language": "Latin",
+    "etymon": "modus",
+    "elsewhere": [
+      "mode",
+      "moderate"
+    ]
+  },
+  {
+    "id": "origin",
+    "forms": [
+      "origin"
+    ],
+    "meaning": "origin, beginning",
+    "language": "Latin",
+    "etymon": "orīginō",
+    "elsewhere": [
+      "original",
+      "originality"
+    ]
+  },
+  {
+    "id": "crast",
+    "forms": [
+      "crast"
+    ],
+    "meaning": "tomorrow",
+    "language": "Latin",
+    "etymon": "crās",
+    "elsewhere": [
+      "crastine",
+      "Crastinus",
+      "procrastination"
+    ]
+  },
+  {
+    "id": "termin",
+    "forms": [
+      "termin"
+    ],
+    "meaning": "end, limit",
+    "language": "Latin",
+    "etymon": "terminus",
+    "elsewhere": [
+      "terminal",
+      "terminus",
+      "exterminate"
+    ]
+  },
+  {
+    "id": "trunc",
+    "forms": [
+      "trunc"
+    ],
+    "meaning": "cut short",
+    "language": "Latin",
+    "etymon": "truncātus",
+    "elsewhere": [
+      "truncate",
+      "truncation",
+      "trunk"
+    ]
+  },
+  {
+    "id": "turb",
+    "forms": [
+      "turb",
+      "perturb"
+    ],
+    "meaning": "disturb",
+    "language": "Latin",
+    "etymon": "turba",
+    "elsewhere": [
+      "turbine",
+      "disturbance"
+    ]
+  },
+  {
+    "id": "ami",
+    "forms": [
+      "ami"
+    ],
+    "meaning": "friend",
+    "language": "Latin",
+    "etymon": "amīcus",
+    "elsewhere": [
+      "amigo",
+      "amity",
+      "enemy"
+    ]
+  },
+  {
+    "id": "rog",
+    "forms": [
+      "arrog",
+      "rog"
+    ],
+    "meaning": "ask, question",
+    "language": "Latin",
+    "etymon": "rogō",
+    "elsewhere": [
+      "rogation",
+      "rogationate",
+      "derogate"
+    ]
+  },
+  {
+    "id": "asper",
+    "forms": [
+      "asper"
+    ],
+    "meaning": "rough, harsh",
+    "language": "Latin",
+    "etymon": "asper",
+    "elsewhere": [
+      "asperse",
+      "asperous",
+      "aspersion"
+    ]
+  },
+  {
+    "id": "audac",
+    "forms": [
+      "audaci",
+      "audac"
+    ],
+    "meaning": "boldness, daring",
+    "language": "Latin",
+    "etymon": "audax",
+    "elsewhere": [
+      "audible",
+      "auditorium",
+      "audio"
+    ]
+  },
+  {
+    "id": "caut",
+    "forms": [
+      "caut"
+    ],
+    "meaning": "beware of",
+    "language": "Latin",
+    "etymon": "caveō",
+    "elsewhere": [
+      "caveat",
+      "caution",
+      "precaution"
+    ]
+  },
+  {
+    "id": "char",
+    "forms": [
+      "char"
+    ],
+    "meaning": "grace, favor",
+    "language": "Greek",
+    "etymon": "χάρις",
+    "elsewhere": [
+      "cherish",
+      "chary",
+      "charity"
+    ]
+  },
+  {
+    "id": "gen",
+    "forms": [
+      "gen",
+      "geno"
+    ],
+    "meaning": "kind, class",
+    "language": "Latin",
+    "etymon": "genus, gignere",
+    "elsewhere": [
+      "generate",
+      "genius",
+      "gentle"
+    ]
+  },
+  {
+    "id": "fid",
+    "forms": [
+      "fid"
+    ],
+    "meaning": "trust, faith",
+    "language": "Latin",
+    "etymon": "fides",
+    "elsewhere": [
+      "confident",
+      "fiduciary",
+      "bona fide"
+    ]
+  },
+  {
+    "id": "dilect",
+    "forms": [
+      "dilett"
+    ],
+    "meaning": "delight, to please",
+    "language": "Latin",
+    "etymon": "dēlectāre",
+    "elsewhere": [
+      "delight",
+      "delighted",
+      "delightful"
+    ]
+  },
+  {
+    "id": "ego",
+    "forms": [
+      "ego"
+    ],
+    "meaning": "self",
+    "language": "Latin",
+    "etymon": "ego",
+    "elsewhere": [
+      "egocentric",
+      "egoism",
+      "egotistical"
+    ]
+  },
+  {
+    "id": "erg",
+    "forms": [
+      "energet"
+    ],
+    "meaning": "active, powerful",
+    "language": "Latin",
+    "etymon": "ἐνεργητικός",
+    "elsewhere": [
+      "energy",
+      "energize",
+      "energetics"
+    ]
+  },
+  {
+    "id": "frivol",
+    "forms": [
+      "frivol"
+    ],
+    "meaning": "silly, empty",
+    "language": "Latin",
+    "etymon": "frīvolus",
+    "elsewhere": [
+      "frivolity",
+      "frivolously",
+      "fribble"
+    ]
+  },
+  {
+    "id": "phren",
+    "forms": [
+      "fren"
+    ],
+    "meaning": "mind",
+    "language": "Greek",
+    "etymon": "φρήν",
+    "elsewhere": [
+      "phrenology",
+      "phrenic",
+      "frenzy"
+    ]
+  },
+  {
+    "id": "humil",
+    "forms": [
+      "humil"
+    ],
+    "meaning": "humble",
+    "language": "Latin",
+    "etymon": "humilis",
+    "elsewhere": [
+      "humble",
+      "humiliate",
+      "humid?"
+    ]
+  },
+  {
+    "id": "her",
+    "forms": [
+      "her"
+    ],
+    "meaning": "adhere, stick",
+    "language": "Latin",
+    "etymon": "haerēre",
+    "elsewhere": [
+      "adhere",
+      "cohere",
+      "inh"
+    ]
+  },
+  {
+    "id": "nat",
+    "forms": [
+      "nat"
+    ],
+    "meaning": "be born",
+    "language": "Latin",
+    "etymon": "nāscor",
+    "elsewhere": [
+      "natal",
+      "native",
+      "nativity"
+    ]
+  },
+  {
+    "id": "veter",
+    "forms": [
+      "veter"
+    ],
+    "meaning": "old, aged",
+    "language": "Latin",
+    "etymon": "vetus",
+    "elsewhere": [
+      "veteran",
+      "veterinary",
+      "veto"
+    ]
+  },
+  {
+    "id": "megal",
+    "forms": [
+      "megalo"
+    ],
+    "meaning": "great, large",
+    "language": "Greek",
+    "etymon": "μέγας",
+    "elsewhere": [
+      "megabyte",
+      "megaton",
+      "megapixel"
+    ]
+  },
+  {
+    "id": "mund",
+    "forms": [
+      "mund"
+    ],
+    "meaning": "world",
+    "language": "Latin",
+    "etymon": "mundus",
+    "elsewhere": [
+      "intermundane",
+      "submundane",
+      "ultramundane"
+    ]
+  },
+  {
+    "id": "len",
+    "forms": [
+      "leni"
+    ],
+    "meaning": "soft, mild",
+    "language": "Latin",
+    "etymon": "lēnis",
+    "elsewhere": [
+      "lenity",
+      "lenitive",
+      "lenience"
+    ]
+  },
+  {
+    "id": "neur",
+    "forms": [
+      "neuro"
+    ],
+    "meaning": "nerve",
+    "language": "Greek",
+    "etymon": "νεῦρον",
+    "elsewhere": [
+      "neurology",
+      "neural",
+      "neuron"
+    ]
+  },
+  {
+    "id": "ordin",
+    "forms": [
+      "ordin"
+    ],
+    "meaning": "order, arrangement",
+    "language": "Latin",
+    "etymon": "ōrdō",
+    "elsewhere": [
+      "order",
+      "coordinate"
+    ]
+  },
+  {
+    "id": "sequ",
+    "forms": [
+      "sequ"
+    ],
+    "meaning": "follow",
+    "language": "Proto-Indo-European",
+    "etymon": "sequor",
+    "elsewhere": [
+      "sequence",
+      "consequence",
+      "subsequent"
+    ]
+  },
+  {
+    "id": "sever",
+    "forms": [
+      "sever"
+    ],
+    "meaning": "strict",
+    "language": "Latin",
+    "etymon": "severus",
+    "elsewhere": [
+      "severity",
+      "severance",
+      "severe"
+    ]
+  },
+  {
+    "id": "sist",
+    "forms": [
+      "sist"
+    ],
+    "meaning": "stand",
+    "language": "Proto-Indo-European",
+    "etymon": "sistere",
+    "elsewhere": [
+      "system",
+      "assist",
+      "consistent"
+    ]
+  },
+  {
+    "id": "phlegm",
+    "forms": [
+      "phlegm"
+    ],
+    "meaning": "mucous matter",
+    "language": "Greek",
+    "etymon": "φλέγμα",
+    "elsewhere": [
+      "phlegm",
+      "phlegmon",
+      "phlogiston"
+    ]
+  },
+  {
+    "id": "pugn",
+    "forms": [
+      "pugn"
+    ],
+    "meaning": "fight, combat",
+    "language": "Latin",
+    "etymon": "pugnus",
+    "elsewhere": [
+      "pugilist",
+      "pugnose",
+      "impugnable"
+    ]
+  },
+  {
+    "id": "rap",
+    "forms": [
+      "rap"
+    ],
+    "meaning": "seize",
+    "language": "Latin",
+    "etymon": "rapere",
+    "elsewhere": [
+      "rapture",
+      "rape",
+      "rapport"
+    ]
+  },
+  {
+    "id": "serv",
+    "forms": [
+      "serv"
+    ],
+    "meaning": "guard, preserve",
+    "language": "Latin",
+    "etymon": "servīre",
+    "elsewhere": [
+      "service",
+      "preserve",
+      "observe"
+    ]
+  },
+  {
+    "id": "temer",
+    "forms": [
+      "temer"
+    ],
+    "meaning": "chance",
+    "language": "Latin",
+    "etymon": "temere",
+    "elsewhere": [
+      "temerarious",
+      "temerously"
+    ]
+  },
+  {
+    "id": "timor",
+    "forms": [
+      "timor"
+    ],
+    "meaning": "fear",
+    "language": "Latin",
+    "etymon": "timor",
+    "elsewhere": [
+      "timid",
+      "timidity",
+      "intimidate"
+    ]
+  },
+  {
+    "id": "urb",
+    "forms": [
+      "urb"
+    ],
+    "meaning": "city, urban",
+    "language": "Latin",
+    "etymon": "urbs",
+    "elsewhere": [
+      "urban",
+      "suburb",
+      "exurb"
+    ]
+  },
+  {
+    "id": "vir",
+    "forms": [
+      "vir"
+    ],
+    "meaning": "man, male human",
+    "language": "Latin",
+    "etymon": "vir",
+    "elsewhere": [
+      "virility",
+      "virgin"
+    ]
+  },
+  {
+    "id": "vigil",
+    "forms": [
+      "vigil"
+    ],
+    "meaning": "awake",
+    "language": "Latin",
+    "etymon": "vigil",
+    "elsewhere": [
+      "vigilance",
+      "vigilante",
+      "vigiliate"
+    ]
+  },
+  {
+    "id": "viv",
+    "forms": [
+      "viv"
+    ],
+    "meaning": "live",
+    "language": "Latin",
+    "etymon": "vīvō",
+    "elsewhere": [
+      "vivify",
+      "vivid",
+      "viviparous"
+    ]
+  },
+  {
+    "id": "amor",
+    "forms": [
+      "amor"
+    ],
+    "meaning": "love",
+    "language": "Latin",
+    "etymon": "amor",
+    "elsewhere": [
+      "amiable",
+      "amiability"
+    ]
+  },
+  {
+    "id": "ard",
+    "forms": [
+      "ard"
+    ],
+    "meaning": "burn, be fiery",
+    "language": "Latin",
+    "etymon": "ardēre",
+    "elsewhere": [
+      "ardor",
+      "arduous"
+    ]
+  },
+  {
+    "id": "avar",
+    "forms": [
+      "avar"
+    ],
+    "meaning": "greed",
+    "language": "Latin",
+    "etymon": "avārus",
+    "elsewhere": [
+      "avaricious",
+      "avariciously",
+      "avarily"
+    ]
+  },
+  {
+    "id": "grudg",
+    "forms": [
+      "grudg"
+    ],
+    "meaning": "grumble at, complain",
+    "language": "Middle English",
+    "etymon": "bigrucchen",
+    "elsewhere": [
+      "grudge",
+      "grudging",
+      "grudger"
+    ]
+  },
+  {
+    "id": "contempt",
+    "forms": [
+      "contempt"
+    ],
+    "meaning": "despise, scorn",
+    "language": "Latin",
+    "etymon": "contemptus",
+    "elsewhere": [
+      "contempt",
+      "contemptible",
+      "contempt"
+    ]
+  },
+  {
+    "id": "cord",
+    "forms": [
+      "cord"
+    ],
+    "meaning": "heart",
+    "language": "Latin",
+    "etymon": "cor",
+    "elsewhere": [
+      "core",
+      "coronary",
+      "discourse"
+    ]
+  },
+  {
+    "id": "trit",
+    "forms": [
+      "trit"
+    ],
+    "meaning": "rub, grind",
+    "language": "Latin",
+    "etymon": "terō",
+    "elsewhere": [
+      "trite",
+      "attrite"
+    ]
+  },
+  {
+    "id": "cad",
+    "forms": [
+      "cad"
+    ],
+    "meaning": "fall",
+    "language": "Latin",
+    "etymon": "cadere",
+    "elsewhere": [
+      "accident",
+      "cadence",
+      "incident"
+    ]
+  },
+  {
+    "id": "cyn",
+    "forms": [
+      "cynic"
+    ],
+    "meaning": "dog",
+    "language": "Latin",
+    "etymon": "κυνικός",
+    "elsewhere": [
+      "kynic",
+      "cynism",
+      "cynics"
+    ]
+  },
+  {
+    "id": "nerv",
+    "forms": [
+      "nerv"
+    ],
+    "meaning": "nerve",
+    "language": "Latin",
+    "etymon": "nervus",
+    "elsewhere": [
+      "nervous",
+      "nerve",
+      "nervousness"
+    ]
+  },
+  {
+    "id": "cruc",
+    "forms": [
+      "cruci"
+    ],
+    "meaning": "torment",
+    "language": "Latin",
+    "etymon": "cruciō",
+    "elsewhere": [
+      "crucible",
+      "crucifix",
+      "cruciform"
+    ]
+  },
+  {
+    "id": "ult",
+    "forms": [
+      "ult"
+    ],
+    "meaning": "leap, jump",
+    "language": "Latin",
+    "etymon": "exsultāre",
+    "elsewhere": [
+      "exult",
+      "exultant",
+      "exultantly"
+    ]
+  },
+  {
+    "id": "ferv",
+    "forms": [
+      "ferv"
+    ],
+    "meaning": "boil, to be hot",
+    "language": "Latin",
+    "etymon": "fervere",
+    "elsewhere": [
+      "fervent",
+      "fervor",
+      "fervently"
+    ]
+  },
+  {
+    "id": "lorn",
+    "forms": [
+      "lorn"
+    ],
+    "meaning": "lost",
+    "language": "Old English",
+    "etymon": "forloren",
+    "elsewhere": [
+      "lorn",
+      "lore",
+      "leese"
+    ]
+  },
+  {
+    "id": "gust",
+    "forms": [
+      "gust"
+    ],
+    "meaning": "taste",
+    "language": "Latin",
+    "etymon": "gustus",
+    "elsewhere": [
+      "gustatory",
+      "disgust",
+      "august"
+    ]
+  },
+  {
+    "id": "dign",
+    "forms": [
+      "dign"
+    ],
+    "meaning": "worthy",
+    "language": "Latin",
+    "etymon": "dignus",
+    "elsewhere": [
+      "dignity",
+      "dignitary",
+      "dignose"
+    ]
+  },
+  {
+    "id": "ir",
+    "forms": [
+      "ir"
+    ],
+    "meaning": "anger, wrath",
+    "language": "Latin",
+    "etymon": "īra",
+    "elsewhere": [
+      "irritable",
+      "irritate",
+      "irascible"
+    ]
+  },
+  {
+    "id": "joc",
+    "forms": [
+      "joc"
+    ],
+    "meaning": "joke, jest",
+    "language": "Latin",
+    "etymon": "iocus",
+    "elsewhere": [
+      "jocular",
+      "jocund",
+      "jocularity"
+    ]
+  },
+  {
+    "id": "letharg",
+    "forms": [
+      "letharg"
+    ],
+    "meaning": "forgetfulness, drowsiness",
+    "language": "Greek",
+    "etymon": "λήθαργος",
+    "elsewhere": [
+      "lethargy",
+      "Lethe"
+    ]
+  },
+  {
+    "id": "moll",
+    "forms": [
+      "moll"
+    ],
+    "meaning": "soft",
+    "language": "Latin",
+    "etymon": "mollis",
+    "elsewhere": [
+      "mollusk",
+      "molecule",
+      "melt"
+    ]
+  },
+  {
+    "id": "odi",
+    "forms": [
+      "odi"
+    ],
+    "meaning": "hate, hostility",
+    "language": "Latin",
+    "etymon": "odium",
+    "elsewhere": [
+      "odium",
+      "odiumate",
+      "interodious"
+    ]
+  },
+  {
+    "id": "penit",
+    "forms": [
+      "penit"
+    ],
+    "meaning": "repentance",
+    "language": "Latin",
+    "etymon": "paenitēns",
+    "elsewhere": [
+      "penitence",
+      "penitentiary",
+      "impenitent"
+    ]
+  },
+  {
+    "id": "pens",
+    "forms": [
+      "pens"
+    ],
+    "meaning": "think, consider",
+    "language": "Latin",
+    "etymon": "pēnsō",
+    "elsewhere": [
+      "pension",
+      "compensate",
+      "impenetrable"
+    ]
+  },
+  {
+    "id": "phob",
+    "forms": [
+      "phob"
+    ],
+    "meaning": "fear",
+    "language": "Greek",
+    "etymon": "φόβος",
+    "elsewhere": [
+      "phobic",
+      "phobicism",
+      "fearful"
+    ]
+  },
+  {
+    "id": "mon",
+    "forms": [
+      "mon"
+    ],
+    "meaning": "warn",
+    "language": "Latin",
+    "etymon": "moneō",
+    "elsewhere": [
+      "monitor",
+      "monument",
+      "monster"
+    ]
+  },
+  {
+    "id": "press",
+    "forms": [
+      "press"
+    ],
+    "meaning": "press",
+    "language": "Latin",
+    "etymon": "premere",
+    "elsewhere": [
+      "pressure",
+      "express",
+      "impress"
+    ]
+  },
+  {
+    "id": "puls",
+    "forms": [
+      "puls"
+    ],
+    "meaning": "drive, push",
+    "language": "Latin",
+    "etymon": "pellere",
+    "elsewhere": [
+      "pulse",
+      "compulsion",
+      "expulsion"
+    ]
+  },
+  {
+    "id": "sangu",
+    "forms": [
+      "sangu"
+    ],
+    "meaning": "blood",
+    "language": "Latin",
+    "etymon": "sanguis",
+    "elsewhere": [
+      "sanguinity",
+      "sanguinivorous"
+    ]
+  },
+  {
+    "id": "ser",
+    "forms": [
+      "ser"
+    ],
+    "meaning": "clear, cloudless",
+    "language": "Latin",
+    "etymon": "serēnus",
+    "elsewhere": [
+      "serenity",
+      "clear"
+    ]
+  },
+  {
+    "id": "seren",
+    "forms": [
+      "seren"
+    ],
+    "meaning": "tranquility",
+    "language": "Latin",
+    "etymon": "serēnitās",
+    "elsewhere": [
+      "serene",
+      "serenely"
+    ]
+  },
+  {
+    "id": "vere",
+    "forms": [
+      "vere"
+    ],
+    "meaning": "fear",
+    "language": "Latin",
+    "etymon": "vereor",
+    "elsewhere": [
+      "veracity",
+      "vermin",
+      "awesome"
+    ]
+  },
+  {
+    "id": "trem",
+    "forms": [
+      "trem"
+    ],
+    "meaning": "tremble",
+    "language": "Latin",
+    "etymon": "tremō",
+    "elsewhere": [
+      "tremor",
+      "tremble"
+    ]
+  },
+  {
+    "id": "umbr",
+    "forms": [
+      "umbr"
+    ],
+    "meaning": "shadow",
+    "language": "Latin",
+    "etymon": "umbra",
+    "elsewhere": [
+      "umbrella",
+      "umbra",
+      "penumbra"
+    ]
+  },
+  {
+    "id": "zel",
+    "forms": [
+      "zeal"
+    ],
+    "meaning": "zeal, ardor",
+    "language": "Latin",
+    "etymon": "ζῆλος",
+    "elsewhere": [
+      "zeal",
+      "jealous",
+      "jealousy"
+    ]
+  },
+  {
+    "id": "acrimoni",
+    "forms": [
+      "acrimoni"
+    ],
+    "meaning": "bitterness, sharpness of temper",
+    "language": "Latin",
+    "etymon": "ācrimōnia",
+    "elsewhere": [
+      "acrimony",
+      "acrimonies",
+      "acrimonical"
+    ]
+  },
+  {
+    "id": "arbitr",
+    "forms": [
+      "arb",
+      "arbitr"
+    ],
+    "meaning": "judge",
+    "language": "Latin",
+    "etymon": "arbiter",
+    "elsewhere": [
+      "arbitrate",
+      "arbitration",
+      "arbitrator"
+    ]
+  },
+  {
+    "id": "carn",
+    "forms": [
+      "carn"
+    ],
+    "meaning": "flesh",
+    "language": "Latin",
+    "etymon": "caro",
+    "elsewhere": [
+      "carne",
+      "carnivorous",
+      "incarnate"
+    ]
+  },
+  {
+    "id": "plic",
+    "forms": [
+      "plic"
+    ],
+    "meaning": "fold",
+    "language": "Latin",
+    "etymon": "plicō",
+    "elsewhere": [
+      "complex",
+      "explicit",
+      "implicate"
+    ]
+  },
+  {
+    "id": "cast",
+    "forms": [
+      "cast"
+    ],
+    "meaning": "punish",
+    "language": "Latin",
+    "etymon": "castīgō",
+    "elsewhere": [
+      "castigation",
+      "castigator",
+      "castigatory"
+    ]
+  },
+  {
+    "id": "flagr",
+    "forms": [
+      "flagr"
+    ],
+    "meaning": "burn, blaze",
+    "language": "Latin",
+    "etymon": "flagrāre",
+    "elsewhere": [
+      "flagrant",
+      "flagrancy",
+      "flagration"
+    ]
+  },
+  {
+    "id": "front",
+    "forms": [
+      "front"
+    ],
+    "meaning": "forehead",
+    "language": "Latin",
+    "etymon": "frons",
+    "elsewhere": [
+      "front",
+      "frontier",
+      "defiant"
+    ]
+  },
+  {
+    "id": "don",
+    "forms": [
+      "don"
+    ],
+    "meaning": "give",
+    "language": "Latin",
+    "etymon": "dōnō",
+    "elsewhere": [
+      "donate",
+      "donation",
+      "donor"
+    ]
+  },
+  {
+    "id": "capit",
+    "forms": [
+      "capit"
+    ],
+    "meaning": "head",
+    "language": "Latin",
+    "etymon": "caput",
+    "elsewhere": [
+      "capital",
+      "captain",
+      "capsule"
+    ]
+  },
+  {
+    "id": "sid",
+    "forms": [
+      "sid"
+    ],
+    "meaning": "sit",
+    "language": "Latin",
+    "etymon": "sedere",
+    "elsewhere": [
+      "resident",
+      "sedentary",
+      "subsidiary"
+    ]
+  },
+  {
+    "id": "dur",
+    "forms": [
+      "dur"
+    ],
+    "meaning": "hardness, firmness",
+    "language": "Latin",
+    "etymon": "dūrus",
+    "elsewhere": [
+      "endure",
+      "durable",
+      "during"
+    ]
+  },
+  {
+    "id": "fiat",
+    "forms": [
+      "fi"
+    ],
+    "meaning": "let it be done",
+    "language": "Latin",
+    "etymon": "fīat",
+    "elsewhere": [
+      "fiat lux",
+      "fiat justitia"
+    ]
+  },
+  {
+    "id": "ped",
+    "forms": [
+      "ped"
+    ],
+    "meaning": "foot",
+    "language": "Latin",
+    "etymon": "pēs",
+    "elsewhere": [
+      "pedal",
+      "pedestrian",
+      "pedestrianism"
+    ]
+  },
+  {
+    "id": "flict",
+    "forms": [
+      "flict"
+    ],
+    "meaning": "strike, dash against",
+    "language": "Latin",
+    "etymon": "īnflīgō",
+    "elsewhere": [
+      "conflict",
+      "afflict",
+      "inflict"
+    ]
+  },
+  {
+    "id": "fract",
+    "forms": [
+      "fract"
+    ],
+    "meaning": "break",
+    "language": "Latin",
+    "etymon": "frangere",
+    "elsewhere": [
+      "fracture",
+      "fragment",
+      "refract"
+    ]
+  },
+  {
+    "id": "timid",
+    "forms": [
+      "timid"
+    ],
+    "meaning": "afraid",
+    "language": "Latin",
+    "etymon": "timidus",
+    "elsewhere": [
+      "timid",
+      "timidity",
+      "intimidation"
+    ]
+  },
+  {
+    "id": "grati",
+    "forms": [
+      "grati"
+    ],
+    "meaning": "favor, gratitude",
+    "language": "Latin",
+    "etymon": "grātia",
+    "elsewhere": [
+      "grateful",
+      "gratitude",
+      "gratify"
+    ]
+  },
+  {
+    "id": "viol",
+    "forms": [
+      "viol"
+    ],
+    "meaning": "violate",
+    "language": "Latin",
+    "etymon": "violō",
+    "elsewhere": [
+      "violate",
+      "violent",
+      "violation"
+    ]
+  },
+  {
+    "id": "neut",
+    "forms": [
+      "neutral"
+    ],
+    "meaning": "neither (side), unbiased",
+    "language": "Latin",
+    "etymon": "neutralis",
+    "elsewhere": [
+      "neutral",
+      "neutrally",
+      "neutron"
+    ]
+  },
+  {
+    "id": "strict",
+    "forms": [
+      "restrict"
+    ],
+    "meaning": "bind, tie",
+    "language": "Latin",
+    "etymon": "stringere",
+    "elsewhere": [
+      "stricture",
+      "constrict",
+      "astringent"
+    ]
+  },
+  {
+    "id": "jug",
+    "forms": [
+      "jug"
+    ],
+    "meaning": "yoke",
+    "language": "Latin",
+    "etymon": "jugum",
+    "elsewhere": [
+      "yoke",
+      "conjugal",
+      "subjugation"
+    ]
+  },
+  {
+    "id": "vulner",
+    "forms": [
+      "vulner"
+    ],
+    "meaning": "wound, injure",
+    "language": "Latin",
+    "etymon": "vulnerō",
+    "elsewhere": [
+      "vulnerability"
+    ]
+  },
+  {
+    "id": "awe",
+    "forms": [
+      "awe"
+    ],
+    "meaning": "awe",
+    "language": "English",
+    "etymon": "awe",
+    "elsewhere": [
+      "awful",
+      "awfully",
+      "awe-inspiring"
+    ]
+  },
+  {
+    "id": "plor",
+    "forms": [
+      "plor"
+    ],
+    "meaning": "cry out, lament",
+    "language": "Latin",
+    "etymon": "plōrō",
+    "elsewhere": [
+      "explore",
+      "plorable",
+      "deplore"
+    ]
+  },
+  {
+    "id": "prec",
+    "forms": [
+      "prec"
+    ],
+    "meaning": "pray",
+    "language": "Latin",
+    "etymon": "precor",
+    "elsewhere": [
+      "imprecate",
+      "precatory"
+    ]
+  },
+  {
+    "id": "nigr",
+    "forms": [
+      "nigr"
+    ],
+    "meaning": "black",
+    "language": "Latin",
+    "etymon": "niger",
+    "elsewhere": [
+      "negro",
+      "nigrify",
+      "nigritude"
+    ]
+  },
+  {
+    "id": "rid",
+    "forms": [
+      "rid"
+    ],
+    "meaning": "laugh, mock",
+    "language": "Latin",
+    "etymon": "rīdeō",
+    "elsewhere": [
+      "ridiculous",
+      "risible",
+      "derision"
+    ]
+  },
+  {
+    "id": "the",
+    "forms": [
+      "the"
+    ],
+    "meaning": "place, put",
+    "language": "Greek",
+    "etymon": "τίθημι",
+    "elsewhere": [
+      "theme",
+      "thesis",
+      "theatre"
+    ]
+  },
+  {
+    "id": "cor",
+    "forms": [
+      "cor"
+    ],
+    "meaning": "skin, hide",
+    "language": "Latin",
+    "etymon": "corium",
+    "elsewhere": [
+      "corium",
+      "corneous",
+      "corneal"
+    ]
+  },
+  {
+    "id": "flor",
+    "forms": [
+      "flor"
+    ],
+    "meaning": "flower, blossom",
+    "language": "Latin",
+    "etymon": "flōs",
+    "elsewhere": [
+      "floral",
+      "flourish",
+      "florescence"
+    ]
+  },
+  {
+    "id": "grat",
+    "forms": [
+      "grat"
+    ],
+    "meaning": "pleasing, grateful",
+    "language": "Latin",
+    "etymon": "grātus",
+    "elsewhere": [
+      "grateful",
+      "gratitude",
+      "gratify"
+    ]
+  },
+  {
+    "id": "pecc",
+    "forms": [
+      "pecc"
+    ],
+    "meaning": "sin, wrongdoing",
+    "language": "Latin",
+    "etymon": "peccare",
+    "elsewhere": [
+      "peccadillo",
+      "peccary",
+      "peculate"
+    ]
+  },
+  {
+    "id": "fam",
+    "forms": [
+      "fam"
+    ],
+    "meaning": "name, reputation",
+    "language": "Latin",
+    "etymon": "fāma",
+    "elsewhere": [
+      "famous",
+      "fame",
+      "familiar"
+    ]
+  },
+  {
+    "id": "laud",
+    "forms": [
+      "laud"
+    ],
+    "meaning": "praise",
+    "language": "Latin",
+    "etymon": "laudare",
+    "elsewhere": [
+      "laud",
+      "praise",
+      "commend"
+    ]
+  },
+  {
+    "id": "loqu",
+    "forms": [
+      "loquy",
+      "loqu"
+    ],
+    "meaning": "speak, talk",
+    "language": "Latin",
+    "etymon": "loquor",
+    "elsewhere": [
+      "colloquy",
+      "interlocutor",
+      "soliloquy"
+    ]
+  },
+  {
+    "id": "prob",
+    "forms": [
+      "prob"
+    ],
+    "meaning": "test",
+    "language": "Latin",
+    "etymon": "probare",
+    "elsewhere": [
+      "probable",
+      "probe",
+      "reprobate"
+    ]
+  },
+  {
+    "id": "pomp",
+    "forms": [
+      "pomp"
+    ],
+    "meaning": "a solemn procession",
+    "language": "Latin",
+    "etymon": "pompa",
+    "elsewhere": [
+      "pompage",
+      "pompa",
+      "pompously"
+    ]
+  },
+  {
+    "id": "scath",
+    "forms": [
+      "scath"
+    ],
+    "meaning": "hurt",
+    "language": "Old English",
+    "etymon": "scēaþan",
+    "elsewhere": [
+      "scathe",
+      "scathed",
+      "scathes"
+    ]
+  },
+  {
+    "id": "ris",
+    "forms": [
+      "ris"
+    ],
+    "meaning": "laugh",
+    "language": "Latin",
+    "etymon": "rīsus",
+    "elsewhere": [
+      "risus",
+      "risibility",
+      "derisive"
+    ]
+  },
+  {
+    "id": "fic",
+    "forms": [
+      "fic"
+    ],
+    "meaning": "make, create",
+    "language": "Latin",
+    "etymon": "-ficus",
+    "elsewhere": [
+      "factory",
+      "fashion",
+      "efficient"
+    ]
+  },
+  {
+    "id": "bat",
+    "forms": [
+      "ate"
+    ],
+    "meaning": "strike, beat down",
+    "language": "Latin",
+    "etymon": "battere",
+    "elsewhere": [
+      "battery",
+      "debate",
+      "rebate"
+    ]
+  },
+  {
+    "id": "acm",
+    "forms": [
+      "acm"
+    ],
+    "meaning": "peak",
+    "language": "Greek",
+    "etymon": "ἀκμή",
+    "elsewhere": [
+      "acumen",
+      "acrimonious",
+      "accompanies"
+    ]
+  },
+  {
+    "id": "acu",
+    "forms": [
+      "acu"
+    ],
+    "meaning": "sharp",
+    "language": "Latin",
+    "etymon": "acuō",
+    "elsewhere": [
+      "acumen",
+      "acid",
+      "acupuncture"
+    ]
+  },
+  {
+    "id": "flu",
+    "forms": [
+      "flu"
+    ],
+    "meaning": "flow",
+    "language": "Latin",
+    "etymon": "fluō",
+    "elsewhere": [
+      "fluid",
+      "fluent",
+      "influence"
+    ]
+  },
+  {
+    "id": "aug",
+    "forms": [
+      "aug"
+    ],
+    "meaning": "increase, make larger",
+    "language": "Latin",
+    "etymon": "augere",
+    "elsewhere": [
+      "augury",
+      "august",
+      "augmenter"
+    ]
+  },
+  {
+    "id": "prehend",
+    "forms": [
+      "prehen"
+    ],
+    "meaning": "grasp, seize",
+    "language": "Latin",
+    "etymon": "prehendere",
+    "elsewhere": [
+      "prehend",
+      "comprehend",
+      "apprehend"
+    ]
+  },
+  {
+    "id": "curt",
+    "forms": [
+      "curt"
+    ],
+    "meaning": "short",
+    "language": "Latin",
+    "etymon": "curtus",
+    "elsewhere": [
+      "curt",
+      "curtsy",
+      "courteous"
+    ]
+  },
+  {
+    "id": "vag",
+    "forms": [
+      "vag"
+    ],
+    "meaning": "wander",
+    "language": "Latin",
+    "etymon": "vagari",
+    "elsewhere": [
+      "vagrant",
+      "vagary",
+      "vague"
+    ]
+  },
+  {
+    "id": "fluctu",
+    "forms": [
+      "fluctu"
+    ],
+    "meaning": "surge, swell",
+    "language": "Latin",
+    "etymon": "flūctuō",
+    "elsewhere": [
+      "fluctuant",
+      "fluctuation",
+      "fluctuantly"
+    ]
+  },
+  {
+    "id": "cept",
+    "forms": [
+      "percept"
+    ],
+    "meaning": "perceive, take in",
+    "language": "Latin",
+    "etymon": "percipere",
+    "elsewhere": [
+      "perceive",
+      "concept",
+      "susceptible"
+    ]
+  },
+  {
+    "id": "heter",
+    "forms": [
+      "hetero"
+    ],
+    "meaning": "other, different",
+    "language": "Greek",
+    "etymon": "ἕτερος",
+    "elsewhere": [
+      "heterogeneousness",
+      "heterozygous"
+    ]
+  },
+  {
+    "id": "und",
+    "forms": [
+      "und"
+    ],
+    "meaning": "wave",
+    "language": "Latin",
+    "etymon": "unda",
+    "elsewhere": [
+      "abound",
+      "abundance",
+      "redundant"
+    ]
+  },
+  {
+    "id": "pot",
+    "forms": [
+      "pot"
+    ],
+    "meaning": "able, powerful",
+    "language": "Latin",
+    "etymon": "potens",
+    "elsewhere": [
+      "potential",
+      "potency",
+      "powerful"
+    ]
+  },
+  {
+    "id": "proxim",
+    "forms": [
+      "proxim"
+    ],
+    "meaning": "nearest",
+    "language": "Latin",
+    "etymon": "proximus",
+    "elsewhere": [
+      "proximal",
+      "proxy",
+      "approximate"
+    ]
+  },
+  {
+    "id": "satur",
+    "forms": [
+      "satur"
+    ],
+    "meaning": "full",
+    "language": "Latin",
+    "etymon": "satur",
+    "elsewhere": [
+      "saturated",
+      "saturation",
+      "satiety"
+    ]
+  },
+  {
+    "id": "sum",
+    "forms": [
+      "sump"
+    ],
+    "meaning": "take, acquire",
+    "language": "Latin",
+    "etymon": "sumō",
+    "elsewhere": [
+      "assume",
+      "consume",
+      "resume"
+    ]
+  },
+  {
+    "id": "nub",
+    "forms": [
+      "nub"
+    ],
+    "meaning": "marry, be united in marriage",
+    "language": "Latin",
+    "etymon": "nūbō",
+    "elsewhere": [
+      "nubile",
+      "nuptial",
+      "nuptials"
+    ]
+  },
+  {
+    "id": "stat",
+    "forms": [
+      "stit",
+      "stant"
+    ],
+    "meaning": "stand, set up",
+    "language": "Latin",
+    "etymon": "stāre",
+    "elsewhere": [
+      "state",
+      "statement",
+      "station"
+    ]
+  },
+  {
+    "id": "acerb",
+    "forms": [
+      "acerb"
+    ],
+    "meaning": "bitter, harsh",
+    "language": "Latin",
+    "etymon": "acerbus",
+    "elsewhere": [
+      "acerbity",
+      "exasperate",
+      "acrimony"
+    ]
+  },
+  {
+    "id": "eth",
+    "forms": [
+      "eth"
+    ],
+    "meaning": "character, moral nature",
+    "language": "Greek",
+    "etymon": "ἦθος",
+    "elsewhere": [
+      "ethical",
+      "ethos",
+      "ethnography"
+    ]
+  },
+  {
+    "id": "patri",
+    "forms": [
+      "patri"
+    ],
+    "meaning": "father",
+    "language": "Latin",
+    "etymon": "Latin pater",
+    "elsewhere": [
+      "paternal",
+      "patrician",
+      "patrimony"
+    ]
+  },
+  {
+    "id": "homo",
+    "forms": [
+      "homo"
+    ],
+    "meaning": "same",
+    "language": "Greek",
+    "etymon": "ὁμός",
+    "elsewhere": [
+      "homonym",
+      "homicide",
+      "homily"
+    ]
+  },
+  {
+    "id": "miss",
+    "forms": [
+      "miss"
+    ],
+    "meaning": "send out",
+    "language": "Latin",
+    "etymon": "mittere",
+    "elsewhere": [
+      "mission",
+      "missionary",
+      "dismiss"
+    ]
+  },
+  {
+    "id": "lieu",
+    "forms": [
+      "lieu"
+    ],
+    "meaning": "place",
+    "language": "Old French",
+    "etymon": "lieu",
+    "elsewhere": [
+      "location",
+      "lieu",
+      "lieue"
+    ]
+  },
+  {
+    "id": "nepot",
+    "forms": [
+      "nepot"
+    ],
+    "meaning": "nephew",
+    "language": "Latin",
+    "etymon": "nepōs",
+    "elsewhere": [
+      "nephew",
+      "nephewhood",
+      "nephewly"
+    ]
+  },
+  {
+    "id": "pan",
+    "forms": [
+      "pan"
+    ],
+    "meaning": "all",
+    "language": "Greek",
+    "etymon": "πᾶν",
+    "elsewhere": [
+      "pantry",
+      "panacea",
+      "panorama"
+    ]
+  },
+  {
+    "id": "demon",
+    "forms": [
+      "demon"
+    ],
+    "meaning": "demon",
+    "language": "Greek",
+    "etymon": "δαίμων",
+    "elsewhere": [
+      "demon",
+      "daemon",
+      "demoniac"
+    ]
+  },
+  {
+    "id": "ced",
+    "forms": [
+      "ced"
+    ],
+    "meaning": "go, move forward",
+    "language": "Latin",
+    "etymon": "cēdō",
+    "elsewhere": [
+      "cede",
+      "precede",
+      "accede"
+    ]
+  },
+  {
+    "id": "val",
+    "forms": [
+      "val"
+    ],
+    "meaning": "strong, powerful",
+    "language": "Latin",
+    "etymon": "valēre",
+    "elsewhere": [
+      "valiant",
+      "valor",
+      "valid"
+    ]
+  },
+  {
+    "id": "prohib",
+    "forms": [
+      "prohib"
+    ],
+    "meaning": "forbid",
+    "language": "Latin",
+    "etymon": "prohibēre",
+    "elsewhere": [
+      "prohibit",
+      "prohibited",
+      "unprohibited"
+    ]
+  },
+  {
+    "id": "propinqu",
+    "forms": [
+      "propinqu"
+    ],
+    "meaning": "near, close",
+    "language": "Latin",
+    "etymon": "propinquus",
+    "elsewhere": [
+      "approximate",
+      "proximity",
+      "propensity"
+    ]
+  },
+  {
+    "id": "salv",
+    "forms": [
+      "salv"
+    ],
+    "meaning": "save, rescue",
+    "language": "Latin",
+    "etymon": "salvāre",
+    "elsewhere": [
+      "salvage",
+      "salary",
+      "salute"
+    ]
+  },
+  {
+    "id": "sit",
+    "forms": [
+      "sit"
+    ],
+    "meaning": "position, place",
+    "language": "Latin",
+    "etymon": "situs",
+    "elsewhere": [
+      "situation",
+      "situs",
+      "composition"
+    ]
+  },
+  {
+    "id": "string",
+    "forms": [
+      "string"
+    ],
+    "meaning": "draw tightly",
+    "language": "Latin",
+    "etymon": "stringēre",
+    "elsewhere": [
+      "string",
+      "tighten",
+      "restrict"
+    ]
+  },
+  {
+    "id": "stigm",
+    "forms": [
+      "stigm"
+    ],
+    "meaning": "mark, brand",
+    "language": "Greek",
+    "etymon": "στίγμα",
+    "elsewhere": [
+      "stigma",
+      "stigmata",
+      "stigmatic"
+    ]
+  },
+  {
+    "id": "techn",
+    "forms": [
+      "techno"
+    ],
+    "meaning": "craft, skill",
+    "language": "Greek",
+    "etymon": "τέχνη",
+    "elsewhere": [
+      "technique",
+      "technician",
+      "polytechnic"
+    ]
+  },
+  {
+    "id": "top",
+    "forms": [
+      "top"
+    ],
+    "meaning": "place",
+    "language": "Greek",
+    "etymon": "τόπος",
+    "elsewhere": [
+      "topography",
+      "toponym",
+      "topmost"
+    ]
+  },
+  {
+    "id": "vener",
+    "forms": [
+      "vener"
+    ],
+    "meaning": "worship",
+    "language": "Latin",
+    "etymon": "veneror",
+    "elsewhere": [
+      "venerable",
+      "veneration",
+      "veneer"
+    ]
+  },
+  {
+    "id": "jur",
+    "forms": [
+      "jur"
+    ],
+    "meaning": "swear",
+    "language": "Latin",
+    "etymon": "jūrō",
+    "elsewhere": [
+      "jury",
+      "juror",
+      "perjury"
+    ]
+  },
+  {
+    "id": "vig",
+    "forms": [
+      "vig"
+    ],
+    "meaning": "be awake, alert",
+    "language": "Proto-Indo-European",
+    "etymon": "vigil",
+    "elsewhere": [
+      "vigorous",
+      "vivid",
+      "invigorate"
+    ]
+  },
+  {
+    "id": "voc",
+    "forms": [
+      "voc"
+    ],
+    "meaning": "call, summon",
+    "language": "Latin",
+    "etymon": "vocō",
+    "elsewhere": [
+      "vocation",
+      "provoke",
+      "evoke"
+    ]
+  },
+  {
+    "id": "aphor",
+    "forms": [
+      "aphor"
+    ],
+    "meaning": "say, speak",
+    "language": "Greek",
+    "etymon": "ἄφορος",
+    "elsewhere": [
+      "aphorism",
+      "aphorize",
+      "ephor"
+    ]
+  },
+  {
+    "id": "cog",
+    "forms": [
+      "cog"
+    ],
+    "meaning": "drive together",
+    "language": "Latin",
+    "etymon": "cōgō",
+    "elsewhere": [
+      "cog",
+      "cogitate",
+      "cognizant"
+    ]
+  },
+  {
+    "id": "phon",
+    "forms": [
+      "phon"
+    ],
+    "meaning": "sound, voice",
+    "language": "Greek",
+    "etymon": "φωνή",
+    "elsewhere": [
+      "phonetic",
+      "phonology",
+      "telephone"
+    ]
+  },
+  {
+    "id": "pel",
+    "forms": [
+      "pel"
+    ],
+    "meaning": "drive",
+    "language": "Latin",
+    "etymon": "pellere",
+    "elsewhere": [
+      "expel",
+      "impel",
+      "repel"
+    ]
+  },
+  {
+    "id": "not",
+    "forms": [
+      "not"
+    ],
+    "meaning": "mark, indicate",
+    "language": "Latin",
+    "etymon": "notare",
+    "elsewhere": [
+      "notable",
+      "notation",
+      "notary"
+    ]
+  },
+  {
+    "id": "didact",
+    "forms": [
+      "didact"
+    ],
+    "meaning": "teaching",
+    "language": "Greek",
+    "etymon": "διδακτικός",
+    "elsewhere": [
+      "education",
+      "pedagogue",
+      "syllabus"
+    ]
+  },
+  {
+    "id": "semin",
+    "forms": [
+      "semin"
+    ],
+    "meaning": "seed",
+    "language": "Latin",
+    "etymon": "sēmen",
+    "elsewhere": [
+      "seminal",
+      "seminar",
+      "seminary"
+    ]
+  },
+  {
+    "id": "vulg",
+    "forms": [
+      "vulg"
+    ],
+    "meaning": "spread",
+    "language": "Latin",
+    "etymon": "dīvulgō",
+    "elsewhere": [
+      "vulgar",
+      "vulture",
+      "revolt"
+    ]
+  },
+  {
+    "id": "eu",
+    "forms": [
+      "eu"
+    ],
+    "meaning": "well, good",
+    "language": "Greek",
+    "etymon": "εὖ",
+    "elsewhere": [
+      "eulogy",
+      "euphony",
+      "euphoria"
+    ]
+  },
+  {
+    "id": "phem",
+    "forms": [
+      "phem"
+    ],
+    "meaning": "speak, say",
+    "language": "Greek",
+    "etymon": "φημί",
+    "elsewhere": [
+      "fame",
+      "famous",
+      "infamous"
+    ]
+  },
+  {
+    "id": "purg",
+    "forms": [
+      "purg"
+    ],
+    "meaning": "purge",
+    "language": "Latin",
+    "etymon": "purgō",
+    "elsewhere": [
+      "purge",
+      "purgatory",
+      "dispel"
+    ]
+  },
+  {
+    "id": "imper",
+    "forms": [
+      "imper"
+    ],
+    "meaning": "command",
+    "language": "Latin",
+    "etymon": "imperāre",
+    "elsewhere": [
+      "imperial",
+      "imperium",
+      "emperor"
+    ]
+  },
+  {
+    "id": "cis",
+    "forms": [
+      "cis",
+      "deci"
+    ],
+    "meaning": "cut",
+    "language": "Latin",
+    "etymon": "caedere",
+    "elsewhere": [
+      "cistern",
+      "excise",
+      "precise"
+    ]
+  },
+  {
+    "id": "ject",
+    "forms": [
+      "ject"
+    ],
+    "meaning": "throw",
+    "language": "Latin",
+    "etymon": "jacere",
+    "elsewhere": [
+      "reject",
+      "inject",
+      "object"
+    ]
+  },
+  {
+    "id": "vect",
+    "forms": [
+      "vect"
+    ],
+    "meaning": "carry, convey",
+    "language": "Latin",
+    "etymon": "vehō",
+    "elsewhere": [
+      "vehicle",
+      "convey",
+      "convection"
+    ]
+  },
+  {
+    "id": "polem",
+    "forms": [
+      "polem"
+    ],
+    "meaning": "war, strife",
+    "language": "Greek",
+    "etymon": "πολεμικός",
+    "elsewhere": [
+      "polemical",
+      "polemics",
+      "polemologist"
+    ]
+  },
+  {
+    "id": "rhetor",
+    "forms": [
+      "rhetor"
+    ],
+    "meaning": "rhetor",
+    "language": "Latin",
+    "etymon": "rhētor",
+    "elsewhere": [
+      "rhetorician",
+      "rhetorical",
+      "rhetorically"
+    ]
+  },
+  {
+    "id": "scurril",
+    "forms": [
+      "scurril"
+    ],
+    "meaning": "buffoon-like",
+    "language": "Latin",
+    "etymon": "scurrīlis",
+    "elsewhere": [
+      "scurvy",
+      "scurril",
+      "scurrility"
+    ]
+  },
+  {
+    "id": "strid",
+    "forms": [
+      "strid"
+    ],
+    "meaning": "make a harsh, grating sound",
+    "language": "Latin",
+    "etymon": "strīdō",
+    "elsewhere": [
+      "stridor",
+      "stridulate",
+      "stridulous"
+    ]
+  },
+  {
+    "id": "sten",
+    "forms": [
+      "stentor"
+    ],
+    "meaning": "loud-voiced",
+    "language": "Greek",
+    "etymon": "στέντωρ",
+    "elsewhere": [
+      "stentorous",
+      "stentorianly",
+      "stentor"
+    ]
+  },
+  {
+    "id": "supplic",
+    "forms": [
+      "supplic"
+    ],
+    "meaning": "pray, entreat",
+    "language": "Latin",
+    "etymon": "supplicare",
+    "elsewhere": [
+      "supplicate",
+      "supplicatory",
+      "supplicating"
+    ]
+  },
+  {
+    "id": "verb",
+    "forms": [
+      "verb"
+    ],
+    "meaning": "word, utterance",
+    "language": "Proto-Indo-European",
+    "etymon": "verbum",
+    "elsewhere": [
+      "verb",
+      "verbal",
+      "veracity"
+    ]
+  },
+  {
+    "id": "analog",
+    "forms": [
+      "analog"
+    ],
+    "meaning": "proportion",
+    "language": "Greek",
+    "etymon": "ἀνάλογος",
+    "elsewhere": [
+      "analogue",
+      "analogy",
+      "proportion"
+    ]
+  },
+  {
+    "id": "thes",
+    "forms": [
+      "thes"
+    ],
+    "meaning": "placing",
+    "language": "Greek",
+    "etymon": "θέσις",
+    "elsewhere": [
+      "hypothesis",
+      "parenthesis",
+      "synthesis"
+    ]
+  },
+  {
+    "id": "chimer",
+    "forms": [
+      "chimer"
+    ],
+    "meaning": "goat",
+    "language": "Greek",
+    "etymon": "χίμαιρα",
+    "elsewhere": [
+      "chimeric",
+      "chimera",
+      "chimerism"
+    ]
+  },
+  {
+    "id": "pat",
+    "forms": [
+      "pat"
+    ],
+    "meaning": "suffer",
+    "language": "Latin",
+    "etymon": "patī",
+    "elsewhere": [
+      "patient",
+      "passion",
+      "impatience"
+    ]
+  },
+  {
+    "id": "plect",
+    "forms": [
+      "plex"
+    ],
+    "meaning": "fold, weave",
+    "language": "Proto-Indo-European",
+    "etymon": "plectō",
+    "elsewhere": [
+      "plexus",
+      "complexity",
+      "implex"
+    ]
+  },
+  {
+    "id": "comit",
+    "forms": [
+      "comit"
+    ],
+    "meaning": "go with",
+    "language": "Latin",
+    "etymon": "comitari",
+    "elsewhere": [
+      "commit",
+      "commodious",
+      "compatible"
+    ]
+  },
+  {
+    "id": "duc",
+    "forms": [
+      "duc"
+    ],
+    "meaning": "lead, draw",
+    "language": "Latin",
+    "etymon": "dūcere",
+    "elsewhere": [
+      "conduct",
+      "conduit",
+      "educate"
+    ]
+  },
+  {
+    "id": "cur",
+    "forms": [
+      "cur"
+    ],
+    "meaning": "run",
+    "language": "Latin",
+    "etymon": "currere",
+    "elsewhere": [
+      "current",
+      "excursion",
+      "occurrence"
+    ]
+  },
+  {
+    "id": "stru",
+    "forms": [
+      "stru"
+    ],
+    "meaning": "build, pile up",
+    "language": "Latin",
+    "etymon": "construere",
+    "elsewhere": [
+      "construct",
+      "destruction",
+      "instructor"
+    ]
+  },
+  {
+    "id": "crit",
+    "forms": [
+      "cri"
+    ],
+    "meaning": "judge",
+    "language": "Latin",
+    "etymon": "κρίνω",
+    "elsewhere": [
+      "critical",
+      "critic",
+      "crime"
+    ]
+  },
+  {
+    "id": "leg",
+    "forms": [
+      "lect",
+      "lig"
+    ],
+    "meaning": "choose, pick",
+    "language": "Latin",
+    "etymon": "λέγω",
+    "elsewhere": [
+      "elect",
+      "select",
+      "collect"
+    ]
+  },
+  {
+    "id": "rud",
+    "forms": [
+      "rud",
+      "rudiment"
+    ],
+    "meaning": "rough, unlearned",
+    "language": "Latin",
+    "etymon": "rudis",
+    "elsewhere": [
+      "rude",
+      "ruddy",
+      "rubble"
+    ]
+  },
+  {
+    "id": "labor",
+    "forms": [
+      "labor"
+    ],
+    "meaning": "work, toil",
+    "language": "Latin",
+    "etymon": "labor",
+    "elsewhere": [
+      "labour",
+      "laboratory",
+      "diligent"
+    ]
+  },
+  {
+    "id": "fac",
+    "forms": [
+      "fac"
+    ],
+    "meaning": "do, make",
+    "language": "Latin",
+    "etymon": "facere",
+    "elsewhere": [
+      "factory",
+      "fashion",
+      "feature"
+    ]
+  },
+  {
+    "id": "bib",
+    "forms": [
+      "bib"
+    ],
+    "meaning": "drink, soak",
+    "language": "Latin",
+    "etymon": "bibō",
+    "elsewhere": [
+      "beverage",
+      "bib",
+      "potable"
+    ]
+  },
+  {
+    "id": "grand",
+    "forms": [
+      "grand"
+    ],
+    "meaning": "great",
+    "language": "Latin",
+    "etymon": "grandis",
+    "elsewhere": [
+      "grandeur",
+      "grandee",
+      "grander"
+    ]
+  },
+  {
+    "id": "prud",
+    "forms": [
+      "prudent"
+    ],
+    "meaning": "wise, cautious",
+    "language": "Latin",
+    "etymon": "prūdens",
+    "elsewhere": [
+      "prudent",
+      "prudence",
+      "prudential"
+    ]
+  },
+  {
+    "id": "gru",
+    "forms": [
+      "congru"
+    ],
+    "meaning": "come together, fit",
+    "language": "Latin",
+    "etymon": "congruere",
+    "elsewhere": [
+      "congruent",
+      "congruity",
+      "congruously"
+    ]
+  },
+  {
+    "id": "crimin",
+    "forms": [
+      "discrimin"
+    ],
+    "meaning": "discriminate, distinguish",
+    "language": "Latin",
+    "etymon": "discriminare",
+    "elsewhere": [
+      "discriminate",
+      "discrimination",
+      "discriminatory"
+    ]
+  },
+  {
+    "id": "integr",
+    "forms": [
+      "integr"
+    ],
+    "meaning": "whole, entire",
+    "language": "Latin",
+    "etymon": "integer",
+    "elsewhere": [
+      "integer",
+      "integrate",
+      "integrity"
+    ]
+  },
+  {
+    "id": "leis",
+    "forms": [
+      "leisure"
+    ],
+    "meaning": "free time",
+    "language": "Old French",
+    "etymon": "oisance",
+    "elsewhere": [
+      "leisure",
+      "leisureless"
+    ]
+  },
+  {
+    "id": "luc",
+    "forms": [
+      "luc"
+    ],
+    "meaning": "shine, light",
+    "language": "Latin",
+    "etymon": "lūceō",
+    "elsewhere": [
+      "lucent",
+      "luminous",
+      "lucifer"
+    ]
+  },
+  {
+    "id": "nomin",
+    "forms": [
+      "nomin"
+    ],
+    "meaning": "name",
+    "language": "Latin",
+    "etymon": "nōmen",
+    "elsewhere": [
+      "nomenclature",
+      "nomination",
+      "renomination"
+    ]
+  },
+  {
+    "id": "obvi",
+    "forms": [
+      "obvi"
+    ],
+    "meaning": "block",
+    "language": "Latin",
+    "etymon": "obviō",
+    "elsewhere": [
+      "obvious",
+      "obviousness"
+    ]
+  },
+  {
+    "id": "cap",
+    "forms": [
+      "ceiv"
+    ],
+    "meaning": "take, grasp",
+    "language": "Latin",
+    "etymon": "capiō",
+    "elsewhere": [
+      "capture",
+      "capacity",
+      "captain"
+    ]
+  },
+  {
+    "id": "clud",
+    "forms": [
+      "clud"
+    ],
+    "meaning": "close, shut",
+    "language": "Latin",
+    "etymon": "claudō",
+    "elsewhere": [
+      "exclude",
+      "include",
+      "seclude"
+    ]
+  },
+  {
+    "id": "sci",
+    "forms": [
+      "sci"
+    ],
+    "meaning": "know",
+    "language": "Latin",
+    "etymon": "sciō",
+    "elsewhere": [
+      "science",
+      "conscious",
+      "conscience"
+    ]
+  },
+  {
+    "id": "gnostic",
+    "forms": [
+      "gnostic"
+    ],
+    "meaning": "knowing",
+    "language": "Greek",
+    "etymon": "γνωστός",
+    "elsewhere": [
+      "diagnosis",
+      "agnostic",
+      "recognize"
+    ]
+  },
+  {
+    "id": "ration",
+    "forms": [
+      "ration"
+    ],
+    "meaning": "reason, reasoning",
+    "language": "Latin",
+    "etymon": "ratio",
+    "elsewhere": [
+      "rational",
+      "rationale",
+      "ratio"
+    ]
+  },
+  {
+    "id": "rumin",
+    "forms": [
+      "rumin"
+    ],
+    "meaning": "chew cud",
+    "language": "Latin",
+    "etymon": "rūminor",
+    "elsewhere": [
+      "rumination",
+      "ruminal",
+      "ruminant"
+    ]
+  },
+  {
+    "id": "sag",
+    "forms": [
+      "sag"
+    ],
+    "meaning": "sharp",
+    "language": "Latin",
+    "etymon": "sagāx",
+    "elsewhere": [
+      "sagax",
+      "sagacity",
+      "presage"
+    ]
+  },
+  {
+    "id": "sal",
+    "forms": [
+      "sali"
+    ],
+    "meaning": "leap",
+    "language": "Latin",
+    "etymon": "salire",
+    "elsewhere": [
+      "salary",
+      "salvation",
+      "sault"
+    ]
+  },
+  {
+    "id": "toler",
+    "forms": [
+      "toler"
+    ],
+    "meaning": "endure, bear",
+    "language": "Latin",
+    "etymon": "tolero",
+    "elsewhere": [
+      "intolerable",
+      "tolerance",
+      "tolerable"
+    ]
+  },
+  {
+    "id": "ultim",
+    "forms": [
+      "ultim"
+    ],
+    "meaning": "last, final",
+    "language": "Latin",
+    "etymon": "ultimus",
+    "elsewhere": [
+      "ultimatum",
+      "ultima",
+      "ultimo"
+    ]
+  },
+  {
+    "id": "vacill",
+    "forms": [
+      "vacill"
+    ],
+    "meaning": "sway, waver",
+    "language": "Latin",
+    "etymon": "vacillō",
+    "elsewhere": [
+      "vacillation",
+      "vacillatory"
+    ]
+  },
+  {
+    "id": "lud",
+    "forms": [
+      "lud"
+    ],
+    "meaning": "play, sport",
+    "language": "Latin",
+    "etymon": "ludere",
+    "elsewhere": [
+      "ludicrous",
+      "ludic",
+      "prelude"
+    ]
+  },
+  {
+    "id": "robor",
+    "forms": [
+      "robor"
+    ],
+    "meaning": "strength",
+    "language": "Latin",
+    "etymon": "rōbor",
+    "elsewhere": [
+      "robust",
+      "robustness",
+      "rubric"
+    ]
+  },
+  {
+    "id": "crypt",
+    "forms": [
+      "cryp"
+    ],
+    "meaning": "hidden",
+    "language": "Latin",
+    "etymon": "κρυπτός",
+    "elsewhere": [
+      "crypt",
+      "encryption",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "culp",
+    "forms": [
+      "culp"
+    ],
+    "meaning": "blame",
+    "language": "Latin",
+    "etymon": "culpa",
+    "elsewhere": [
+      "culprit",
+      "culpa",
+      "exculpate"
+    ]
+  },
+  {
+    "id": "dupl",
+    "forms": [
+      "dupl"
+    ],
+    "meaning": "double, twofold",
+    "language": "Latin",
+    "etymon": "duplicare",
+    "elsewhere": [
+      "duplicate",
+      "duplicated",
+      "duplication"
+    ]
+  },
+  {
+    "id": "bel",
+    "forms": [
+      "bel"
+    ],
+    "meaning": "beautiful, handsome",
+    "language": "Old French",
+    "etymon": "bel",
+    "elsewhere": [
+      "belly",
+      "belles-lettres",
+      "embellishment"
+    ]
+  },
+  {
+    "id": "oner",
+    "forms": [
+      "oner"
+    ],
+    "meaning": "burden, load",
+    "language": "Latin",
+    "etymon": "onus",
+    "elsewhere": [
+      "onerous",
+      "onus",
+      "ontus"
+    ]
+  },
+  {
+    "id": "vinc",
+    "forms": [
+      "vinc"
+    ],
+    "meaning": "conquer, overcome",
+    "language": "Latin",
+    "etymon": "vincō",
+    "elsewhere": [
+      "convince",
+      "invincible",
+      "vincere"
+    ]
+  },
+  {
+    "id": "fact",
+    "forms": [
+      "fact"
+    ],
+    "meaning": "make",
+    "language": "Latin",
+    "etymon": "faciō",
+    "elsewhere": [
+      "factory",
+      "fashion",
+      "favor"
+    ]
+  },
+  {
+    "id": "furt",
+    "forms": [
+      "furt"
+    ],
+    "meaning": "theft",
+    "language": "Latin",
+    "etymon": "fūr",
+    "elsewhere": [
+      "fur",
+      "furlong",
+      "furniture"
+    ]
+  },
+  {
+    "id": "plaus",
+    "forms": [
+      "plaus"
+    ],
+    "meaning": "applaud",
+    "language": "Latin",
+    "etymon": "plaudere",
+    "elsewhere": [
+      "applause",
+      "plaudit",
+      "plausible-sounding?"
+    ]
+  },
+  {
+    "id": "varic",
+    "forms": [
+      "varic"
+    ],
+    "meaning": "straddle",
+    "language": "Latin",
+    "etymon": "vāricus",
+    "elsewhere": [
+      "varicose",
+      "varix",
+      "variegate"
+    ]
+  },
+  {
+    "id": "soph",
+    "forms": [
+      "sophist"
+    ],
+    "meaning": "wise",
+    "language": "Greek",
+    "etymon": "σοφός",
+    "elsewhere": [
+      "sophia",
+      "sophomore",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "fug",
+    "forms": [
+      "fug"
+    ],
+    "meaning": "flee",
+    "language": "Latin",
+    "etymon": "fugere",
+    "elsewhere": [
+      "fugitive",
+      "refuge"
+    ]
+  },
+  {
+    "id": "fut",
+    "forms": [
+      "fute"
+    ],
+    "meaning": "repel, refute",
+    "language": "Latin",
+    "etymon": "refūtō",
+    "elsewhere": [
+      "confute",
+      "dispute",
+      "rebut"
+    ]
+  },
+  {
+    "id": "par",
+    "forms": [
+      "par"
+    ],
+    "meaning": "appear, be visible",
+    "language": "Latin",
+    "etymon": "Latin transparēre",
+    "elsewhere": [
+      "apparent",
+      "transparently",
+      "transparency"
+    ]
+  },
+  {
+    "id": "vind",
+    "forms": [
+      "vind"
+    ],
+    "meaning": "force, power",
+    "language": "Latin",
+    "etymon": "vīs",
+    "elsewhere": [
+      "vigorous",
+      "invincible",
+      "vitamin"
+    ]
+  },
+  {
+    "id": "count",
+    "forms": [
+      "account"
+    ],
+    "meaning": "count, tally",
+    "language": "English",
+    "etymon": "count",
+    "elsewhere": [
+      "counter",
+      "discount",
+      "account"
+    ]
+  },
+  {
+    "id": "pon",
+    "forms": [
+      "pon"
+    ],
+    "meaning": "place, put",
+    "language": "Latin",
+    "etymon": "pōnō",
+    "elsewhere": [
+      "position",
+      "postpone",
+      "deposit"
+    ]
+  },
+  {
+    "id": "industr",
+    "forms": [
+      "industr"
+    ],
+    "meaning": "work, diligence",
+    "language": "Latin",
+    "etymon": "industria",
+    "elsewhere": [
+      "industry",
+      "industrial",
+      "industrially"
+    ]
+  },
+  {
+    "id": "liquid",
+    "forms": [
+      "liquid"
+    ],
+    "meaning": "liquid",
+    "language": "Latin",
+    "etymon": "liquidus",
+    "elsewhere": [
+      "liquor",
+      "liquefy",
+      "liquidize"
+    ]
+  },
+  {
+    "id": "lucr",
+    "forms": [
+      "lucr"
+    ],
+    "meaning": "gain, profit",
+    "language": "Latin",
+    "etymon": "lucrum",
+    "elsewhere": [
+      "lucre",
+      "lucent"
+    ]
+  },
+  {
+    "id": "pecun",
+    "forms": [
+      "pecuni"
+    ],
+    "meaning": "money, originally property",
+    "language": "Latin",
+    "etymon": "pecūnia",
+    "elsewhere": [
+      "money",
+      "coin"
+    ]
+  },
+  {
+    "id": "neo",
+    "forms": [
+      "neo"
+    ],
+    "meaning": "new",
+    "language": "Greek",
+    "etymon": "νέος",
+    "elsewhere": [
+      "neoplasm",
+      "neon",
+      "Neptune"
+    ]
+  },
+  {
+    "id": "phyt",
+    "forms": [
+      "phyt"
+    ],
+    "meaning": "plant",
+    "language": "Greek",
+    "etymon": "φυτόν",
+    "elsewhere": [
+      "phytoplankton",
+      "phytochemistry",
+      "epiphyte"
+    ]
+  },
+  {
+    "id": "prol",
+    "forms": [
+      "prol"
+    ],
+    "meaning": "offspring",
+    "language": "Latin",
+    "etymon": "prōlēs",
+    "elsewhere": [
+      "prolapse",
+      "proliferate",
+      "prolificacy"
+    ]
+  },
+  {
+    "id": "mot",
+    "forms": [
+      "mot"
+    ],
+    "meaning": "move",
+    "language": "Latin",
+    "etymon": "movere",
+    "elsewhere": [
+      "motion",
+      "motor",
+      "momentum"
+    ]
+  },
+  {
+    "id": "mun",
+    "forms": [
+      "mun"
+    ],
+    "meaning": "reward",
+    "language": "Latin",
+    "etymon": "remūnerātiō",
+    "elsewhere": [
+      "remunerate",
+      "remunerative",
+      "unremunerated"
+    ]
+  },
+  {
+    "id": "stipul",
+    "forms": [
+      "stipul"
+    ],
+    "meaning": "demand",
+    "language": "Latin",
+    "etymon": "stipulor",
+    "elsewhere": [
+      "stipulation",
+      "stipulative",
+      "prestipulate"
+    ]
+  },
+  {
+    "id": "quir",
+    "forms": [
+      "qui"
+    ],
+    "meaning": "seek",
+    "language": "Latin",
+    "etymon": "quaerere",
+    "elsewhere": [
+      "inquire",
+      "conquer",
+      "quest"
+    ]
+  },
+  {
+    "id": "script",
+    "forms": [
+      "write"
+    ],
+    "meaning": "write",
+    "language": "German",
+    "etymon": "writan",
+    "elsewhere": [
+      "write",
+      "rewrite",
+      "script"
+    ]
+  }
+]

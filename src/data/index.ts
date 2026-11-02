@@ -1,6 +1,9 @@
 import { deckOpen } from '../lib/levels';
 import type { Review } from '../lib/srs';
-import type { Card, CardKind, Deck } from '../lib/types';
+import type { Breakdown, Card, CardKind, Deck, Root } from '../lib/types';
+
+import breakdownsJson from './breakdowns.json';
+import rootsJson from './roots.json';
 
 import everydayEloquence from './decks/everyday-eloquence.json';
 import workplaceClarity from './decks/workplace-clarity.json';
@@ -39,6 +42,23 @@ export const deckOfCard: Record<string, Deck> = Object.fromEntries(
   decks.flatMap((d) => d.cards.map((c) => [c.id, d] as const)),
 );
 
+// Root analysis. Breakdowns are keyed by card id; root families are worked out from them here.
+export const breakdowns = breakdownsJson as Record<string, Breakdown>;
+export const roots = rootsJson as Root[];
+export const rootsById: Record<string, Root> = Object.fromEntries(roots.map((r) => [r.id, r]));
+
+/** Cards that use each root, in deck order. */
+export const cardsOfRoot: Record<string, Card[]> = Object.fromEntries(
+  roots.map((r) => [r.id, allCards.filter((c) => breakdowns[c.id]?.parts.some((p) => p.rootId === r.id))]),
+);
+
+/** Root families worth a page: two or more cards share the root. Largest first. */
+export const rootFamilies: Root[] = roots
+  .filter((r) => cardsOfRoot[r.id].length >= 2)
+  .sort((a, b) => cardsOfRoot[b.id].length - cardsOfRoot[a.id].length);
+
+export const ROOT_SCOPE = 'root:';
+
 /** Ids of the decks this learner can study at `level` (see deckOpen in lib/levels). */
 export function openDeckIds(level: number, reviews: Record<string, Review>): Set<string> {
   return new Set(decks.filter((d) => deckOpen(d.id, d.cards.map((c) => c.id), level, reviews)).map((d) => d.id));
@@ -51,6 +71,11 @@ export function cardsForScope(scope: string, open?: Set<string>): Card[] {
   if (scope === 'word' || scope === 'idiom' || scope === 'phrase') {
     return pool.filter((c) => c.kind === (scope as CardKind));
   }
+  if (scope.startsWith(ROOT_SCOPE)) {
+    const cards = (cardsOfRoot[scope.slice(ROOT_SCOPE.length)] ?? []).filter((c) => !open || open.has(deckOfCard[c.id].id));
+    if (cards.length) return cards;
+    return pool;
+  }
   const deck = decks.find((d) => d.id === scope);
   if (deck && (!open || open.has(deck.id))) return deck.cards;
   return pool;
@@ -61,5 +86,9 @@ export function scopeLabel(scope: string): string {
   if (scope === 'word') return 'All words';
   if (scope === 'idiom') return 'All idioms';
   if (scope === 'phrase') return 'All phrases';
+  if (scope.startsWith(ROOT_SCOPE)) {
+    const root = rootsById[scope.slice(ROOT_SCOPE.length)];
+    if (root) return `Root · ${root.forms.join(' · ')} (${root.meaning})`;
+  }
   return decks.find((d) => d.id === scope)?.name ?? 'Mixed';
 }
