@@ -1,0 +1,7364 @@
+{
+  "malevolent": {
+    "parts": [
+      {
+        "text": "male",
+        "role": "prefix",
+        "gloss": "badly",
+        "rootId": "mal"
+      },
+      {
+        "text": "vol",
+        "role": "root",
+        "gloss": "wish",
+        "rootId": "vol"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "-ing"
+      }
+    ],
+    "literal": "wishing badly",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/malevolent"
+  },
+  "benevolent": {
+    "parts": [
+      {
+        "text": "bene",
+        "role": "prefix",
+        "gloss": "well",
+        "rootId": "bene"
+      },
+      {
+        "text": "vol",
+        "role": "root",
+        "gloss": "wish",
+        "rootId": "vol"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "-ing"
+      }
+    ],
+    "literal": "wishing well",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/benevolent"
+  },
+  "malady": {
+    "parts": [
+      {
+        "text": "mal",
+        "role": "prefix",
+        "gloss": "badly",
+        "rootId": "mal"
+      },
+      {
+        "text": "ady",
+        "role": "root",
+        "gloss": "kept"
+      }
+    ],
+    "literal": "badly kept, in poor condition",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/malady"
+  },
+  "malignant": {
+    "parts": [
+      {
+        "text": "mal",
+        "role": "prefix",
+        "gloss": "badly",
+        "rootId": "mal"
+      },
+      {
+        "text": "ign",
+        "role": "root",
+        "gloss": "born"
+      },
+      {
+        "text": "ant",
+        "role": "suffix",
+        "gloss": "-ing"
+      }
+    ],
+    "literal": "born bad",
+    "confidence": "likely",
+    "source": "https://en.wiktionary.org/wiki/malignus"
+  },
+  "malnutrition": {
+    "parts": [
+      {
+        "text": "mal",
+        "role": "prefix",
+        "gloss": "badly",
+        "rootId": "mal"
+      },
+      {
+        "text": "nutrition",
+        "role": "root",
+        "gloss": "feeding"
+      }
+    ],
+    "literal": "bad feeding",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/malnutrition"
+  },
+  "maladjusted": {
+    "parts": [
+      {
+        "text": "mal",
+        "role": "prefix",
+        "gloss": "badly",
+        "rootId": "mal"
+      },
+      {
+        "text": "adjusted",
+        "role": "root",
+        "gloss": "fitted"
+      }
+    ],
+    "literal": "badly fitted",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/maladjusted"
+  },
+  "apathy": {
+    "parts": [
+      {
+        "text": "a",
+        "role": "prefix",
+        "gloss": "without"
+      },
+      {
+        "text": "path",
+        "role": "root",
+        "gloss": "feeling",
+        "rootId": "path"
+      },
+      {
+        "text": "y",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "without feeling",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/apathy"
+  },
+  "apathetic": {
+    "parts": [
+      {
+        "text": "a",
+        "role": "prefix",
+        "gloss": "without"
+      },
+      {
+        "text": "path",
+        "role": "root",
+        "gloss": "feeling",
+        "rootId": "path"
+      },
+      {
+        "text": "etic",
+        "role": "suffix",
+        "gloss": "adjective"
+      }
+    ],
+    "literal": "without feeling",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/apathetic"
+  },
+  "antipathy": {
+    "parts": [
+      {
+        "text": "anti",
+        "role": "prefix",
+        "gloss": "against"
+      },
+      {
+        "text": "path",
+        "role": "root",
+        "gloss": "feeling",
+        "rootId": "path"
+      },
+      {
+        "text": "y",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "feeling against",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/antipathy"
+  },
+  "empathetic": {
+    "parts": [
+      {
+        "text": "em",
+        "role": "prefix",
+        "gloss": "in"
+      },
+      {
+        "text": "path",
+        "role": "root",
+        "gloss": "feeling",
+        "rootId": "path"
+      },
+      {
+        "text": "etic",
+        "role": "suffix",
+        "gloss": "adjective"
+      }
+    ],
+    "literal": "feeling in, from the inside",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/empathetic"
+  },
+  "pathetic": {
+    "parts": [
+      {
+        "text": "path",
+        "role": "root",
+        "gloss": "feeling",
+        "rootId": "path"
+      },
+      {
+        "text": "etic",
+        "role": "suffix",
+        "gloss": "adjective"
+      }
+    ],
+    "literal": "stirring feeling",
+    "drift": "Once meant moving or touching; now usually weak and contemptible.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/pathetic"
+  },
+  "pathological": {
+    "parts": [
+      {
+        "text": "patho",
+        "role": "root",
+        "gloss": "suffering",
+        "rootId": "path"
+      },
+      {
+        "text": "logical",
+        "role": "suffix",
+        "gloss": "study of"
+      }
+    ],
+    "literal": "about the study of suffering",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/pathological"
+  },
+  "revert": {
+    "parts": [
+      {
+        "text": "re",
+        "role": "prefix",
+        "gloss": "back"
+      },
+      {
+        "text": "vert",
+        "role": "root",
+        "gloss": "turn",
+        "rootId": "vert"
+      }
+    ],
+    "literal": "turn back",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/revert"
+  },
+  "adverse": {
+    "parts": [
+      {
+        "text": "ad",
+        "role": "prefix",
+        "gloss": "towards"
+      },
+      {
+        "text": "vers",
+        "role": "root",
+        "gloss": "turned",
+        "rootId": "vert"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "adjective"
+      }
+    ],
+    "literal": "turned against",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/adverse"
+  },
+  "aversion": {
+    "parts": [
+      {
+        "text": "a",
+        "role": "prefix",
+        "gloss": "away"
+      },
+      {
+        "text": "vers",
+        "role": "root",
+        "gloss": "turn",
+        "rootId": "vert"
+      },
+      {
+        "text": "ion",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "a turning away",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/aversion"
+  },
+  "adversary": {
+    "parts": [
+      {
+        "text": "ad",
+        "role": "prefix",
+        "gloss": "towards"
+      },
+      {
+        "text": "vers",
+        "role": "root",
+        "gloss": "turned",
+        "rootId": "vert"
+      },
+      {
+        "text": "ary",
+        "role": "suffix",
+        "gloss": "person"
+      }
+    ],
+    "literal": "one turned against you",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/adversary"
+  },
+  "controversial": {
+    "parts": [
+      {
+        "text": "contro",
+        "role": "prefix",
+        "gloss": "against"
+      },
+      {
+        "text": "vers",
+        "role": "root",
+        "gloss": "turned",
+        "rootId": "vert"
+      },
+      {
+        "text": "ial",
+        "role": "suffix",
+        "gloss": "adjective"
+      }
+    ],
+    "literal": "turned against",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/controversy"
+  },
+  "diversity": {
+    "parts": [
+      {
+        "text": "di",
+        "role": "prefix",
+        "gloss": "apart"
+      },
+      {
+        "text": "vers",
+        "role": "root",
+        "gloss": "turned",
+        "rootId": "vert"
+      },
+      {
+        "text": "ity",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "being turned different ways",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/diverse"
+  },
+  "incontrovertible": {
+    "parts": [
+      {
+        "text": "in",
+        "role": "prefix",
+        "gloss": "not"
+      },
+      {
+        "text": "contro",
+        "role": "prefix",
+        "gloss": "against"
+      },
+      {
+        "text": "vert",
+        "role": "root",
+        "gloss": "turn",
+        "rootId": "vert"
+      },
+      {
+        "text": "ible",
+        "role": "suffix",
+        "gloss": "able to be"
+      }
+    ],
+    "literal": "cannot be turned against",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/incontrovertible"
+  },
+  "perverse": {
+    "parts": [
+      {
+        "text": "per",
+        "role": "prefix",
+        "gloss": "thoroughly"
+      },
+      {
+        "text": "vers",
+        "role": "root",
+        "gloss": "turned",
+        "rootId": "vert"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "adjective"
+      }
+    ],
+    "literal": "turned the wrong way",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/perverse"
+  },
+  "inadvertent": {
+    "parts": [
+      {
+        "text": "in",
+        "role": "prefix",
+        "gloss": "not"
+      },
+      {
+        "text": "ad",
+        "role": "prefix",
+        "gloss": "towards"
+      },
+      {
+        "text": "vert",
+        "role": "root",
+        "gloss": "turn",
+        "rootId": "vert"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "-ing"
+      }
+    ],
+    "literal": "not turning your mind to it",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/inadvertent"
+  },
+  "universal": {
+    "parts": [
+      {
+        "text": "uni",
+        "role": "prefix",
+        "gloss": "one"
+      },
+      {
+        "text": "vers",
+        "role": "root",
+        "gloss": "turned",
+        "rootId": "vert"
+      },
+      {
+        "text": "al",
+        "role": "suffix",
+        "gloss": "adjective"
+      }
+    ],
+    "literal": "turned into one whole",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/universe"
+  },
+  "vertigo": {
+    "parts": [
+      {
+        "text": "vert",
+        "role": "root",
+        "gloss": "turn",
+        "rootId": "vert"
+      },
+      {
+        "text": "igo",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "a turning, a whirling",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/vertigo"
+  },
+  "circumspect": {
+    "parts": [
+      {
+        "text": "circum",
+        "role": "prefix",
+        "gloss": "around"
+      },
+      {
+        "text": "spect",
+        "role": "root",
+        "gloss": "look",
+        "rootId": "spec"
+      }
+    ],
+    "literal": "looking around",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/circumspect"
+  },
+  "introspective": {
+    "parts": [
+      {
+        "text": "intro",
+        "role": "prefix",
+        "gloss": "inward"
+      },
+      {
+        "text": "spect",
+        "role": "root",
+        "gloss": "look",
+        "rootId": "spec"
+      },
+      {
+        "text": "ive",
+        "role": "suffix",
+        "gloss": "adjective"
+      }
+    ],
+    "literal": "looking inward",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/introspective"
+  },
+  "retrospect": {
+    "parts": [
+      {
+        "text": "retro",
+        "role": "prefix",
+        "gloss": "back"
+      },
+      {
+        "text": "spect",
+        "role": "root",
+        "gloss": "look",
+        "rootId": "spec"
+      }
+    ],
+    "literal": "looking back",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/retrospect"
+  },
+  "perspicacious": {
+    "parts": [
+      {
+        "text": "per",
+        "role": "prefix",
+        "gloss": "through"
+      },
+      {
+        "text": "spic",
+        "role": "root",
+        "gloss": "look",
+        "rootId": "spec"
+      },
+      {
+        "text": "acious",
+        "role": "suffix",
+        "gloss": "inclined to"
+      }
+    ],
+    "literal": "seeing right through",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/perspicacious"
+  },
+  "specious": {
+    "parts": [
+      {
+        "text": "spec",
+        "role": "root",
+        "gloss": "look",
+        "rootId": "spec"
+      },
+      {
+        "text": "ious",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "good-looking",
+    "drift": "Once meant handsome; now means looking right but being wrong.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/specious"
+  },
+  "suspicious": {
+    "parts": [
+      {
+        "text": "su",
+        "role": "prefix",
+        "gloss": "from under"
+      },
+      {
+        "text": "spic",
+        "role": "root",
+        "gloss": "look",
+        "rootId": "spec"
+      },
+      {
+        "text": "ious",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "looking from under, with mistrust",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/suspicio"
+  },
+  "complacent": {
+    "parts": [
+      {
+        "text": "com",
+        "role": "prefix",
+        "gloss": "fully"
+      },
+      {
+        "text": "plac",
+        "role": "root",
+        "gloss": "please",
+        "rootId": "plac"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "-ing"
+      }
+    ],
+    "literal": "fully pleased",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/complacent"
+  },
+  "implacable": {
+    "parts": [
+      {
+        "text": "im",
+        "role": "prefix",
+        "gloss": "not"
+      },
+      {
+        "text": "plac",
+        "role": "root",
+        "gloss": "calm",
+        "rootId": "plac"
+      },
+      {
+        "text": "able",
+        "role": "suffix",
+        "gloss": "able to be"
+      }
+    ],
+    "literal": "cannot be calmed",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/implacable"
+  },
+  "placid": {
+    "parts": [
+      {
+        "text": "plac",
+        "role": "root",
+        "gloss": "please",
+        "rootId": "plac"
+      },
+      {
+        "text": "id",
+        "role": "suffix",
+        "gloss": "adjective"
+      }
+    ],
+    "literal": "pleased, at peace",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/placid"
+  },
+  "placate": {
+    "parts": [
+      {
+        "text": "plac",
+        "role": "root",
+        "gloss": "calm",
+        "rootId": "plac"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "verb"
+      }
+    ],
+    "literal": "to calm",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/placate"
+  },
+  "placatory": {
+    "parts": [
+      {
+        "text": "plac",
+        "role": "root",
+        "gloss": "calm",
+        "rootId": "plac"
+      },
+      {
+        "text": "atory",
+        "role": "suffix",
+        "gloss": "meant to"
+      }
+    ],
+    "literal": "meant to calm",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/placate"
+  },
+  "credulous": {
+    "parts": [
+      {
+        "text": "cred",
+        "role": "root",
+        "gloss": "believe",
+        "rootId": "cred"
+      },
+      {
+        "text": "ulous",
+        "role": "suffix",
+        "gloss": "inclined to"
+      }
+    ],
+    "literal": "quick to believe",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/credulous"
+  },
+  "incredulous": {
+    "parts": [
+      {
+        "text": "in",
+        "role": "prefix",
+        "gloss": "not"
+      },
+      {
+        "text": "cred",
+        "role": "root",
+        "gloss": "believe",
+        "rootId": "cred"
+      },
+      {
+        "text": "ulous",
+        "role": "suffix",
+        "gloss": "inclined to"
+      }
+    ],
+    "literal": "not inclined to believe",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/incredulous"
+  },
+  "pragmatic": {
+    "parts": [
+      {
+        "text": "pragmat",
+        "role": "root",
+        "gloss": "thing done; affair",
+        "rootId": "pragmat"
+      },
+      {
+        "text": "ic",
+        "role": "suffix",
+        "gloss": "relating to"
+      }
+    ],
+    "literal": "relating to affairs or things done",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/pragmatic"
+  },
+  "ubiquitous": {
+    "parts": [
+      {
+        "text": "ubiquit",
+        "role": "root",
+        "gloss": "everywhere",
+        "rootId": "ubiquit"
+      },
+      {
+        "text": "ous",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of everywhere",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/ubiquitous"
+  },
+  "ephemeral": {
+    "parts": [
+      {
+        "text": "ep",
+        "role": "prefix",
+        "gloss": "on"
+      },
+      {
+        "text": "hemer",
+        "role": "root",
+        "gloss": "day",
+        "rootId": "hemer"
+      },
+      {
+        "text": "al",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "on a day; lasting briefly",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/ephemeral"
+  },
+  "tenacious": {
+    "parts": [
+      {
+        "text": "ten",
+        "role": "root",
+        "gloss": "hold",
+        "rootId": "ten"
+      },
+      {
+        "text": "acious",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "holding fast",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/tenacious"
+  },
+  "frugal": {
+    "parts": [
+      {
+        "text": "frug",
+        "role": "root",
+        "gloss": "virtuous, thrifty",
+        "rootId": "frug"
+      },
+      {
+        "text": "al",
+        "role": "suffix",
+        "gloss": "like"
+      }
+    ],
+    "literal": "being virtuous or thrifty",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/frugal"
+  },
+  "gregarious": {
+    "parts": [
+      {
+        "text": "greg",
+        "role": "root",
+        "gloss": "flock",
+        "rootId": "greg"
+      },
+      {
+        "text": "arious",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of flocks, tending to gather in groups",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/gregarious"
+  },
+  "tangible": {
+    "parts": [
+      {
+        "text": "tang",
+        "role": "root",
+        "gloss": "touch",
+        "rootId": "tang"
+      },
+      {
+        "text": "ible",
+        "role": "suffix",
+        "gloss": "able to be"
+      }
+    ],
+    "literal": "able to be touched",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/tangible"
+  },
+  "viable": {
+    "parts": [
+      {
+        "text": "vi",
+        "role": "root",
+        "gloss": "life",
+        "rootId": "vi"
+      },
+      {
+        "text": "able",
+        "role": "suffix",
+        "gloss": "able to be"
+      }
+    ],
+    "literal": "able to live",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/viable"
+  },
+  "consensus": {
+    "parts": [
+      {
+        "text": "con",
+        "role": "prefix",
+        "gloss": "with"
+      },
+      {
+        "text": "sens",
+        "role": "root",
+        "gloss": "feel",
+        "rootId": "sens"
+      },
+      {
+        "text": "us",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "agreement by shared feeling",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/consensus"
+  },
+  "contort": {
+    "parts": [
+      {
+        "text": "con",
+        "role": "prefix",
+        "gloss": "together"
+      },
+      {
+        "text": "tort",
+        "role": "root",
+        "gloss": "twist, turn",
+        "rootId": "tort"
+      }
+    ],
+    "literal": "twist together",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/contort"
+  },
+  "dexterity": {
+    "parts": [
+      {
+        "text": "dexter",
+        "role": "root",
+        "gloss": "right, right-handed",
+        "rootId": "dexter"
+      },
+      {
+        "text": "ity",
+        "role": "suffix",
+        "gloss": "state"
+      }
+    ],
+    "literal": "right-handed skill",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/dexterity"
+  },
+  "eradicate": {
+    "parts": [
+      {
+        "text": "e",
+        "role": "prefix",
+        "gloss": "out"
+      },
+      {
+        "text": "radic",
+        "role": "root",
+        "gloss": "root",
+        "rootId": "rad"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "verb"
+      }
+    ],
+    "literal": "root out; uproot",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/eradicate"
+  },
+  "habitat": {
+    "parts": [
+      {
+        "text": "habit",
+        "role": "root",
+        "gloss": "to live or dwell",
+        "rootId": "hab"
+      },
+      {
+        "text": "at",
+        "role": "suffix",
+        "gloss": "noun of place"
+      }
+    ],
+    "literal": "a place where it lives",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/habitat"
+  },
+  "inanimate": {
+    "parts": [
+      {
+        "text": "in",
+        "role": "prefix",
+        "gloss": "not"
+      },
+      {
+        "text": "anim",
+        "role": "root",
+        "gloss": "life",
+        "rootId": "anim"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "like"
+      }
+    ],
+    "literal": "not having life",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/inanimate"
+  },
+  "inclement": {
+    "parts": [
+      {
+        "text": "in",
+        "role": "prefix",
+        "gloss": "not"
+      },
+      {
+        "text": "clem",
+        "role": "root",
+        "gloss": "mild, placid",
+        "rootId": "clem"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "like"
+      }
+    ],
+    "literal": "not mild or placid",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/inclement"
+  },
+  "inebriated": {
+    "parts": [
+      {
+        "text": "in",
+        "role": "prefix",
+        "gloss": "into or upon"
+      },
+      {
+        "text": "ebri",
+        "role": "root",
+        "gloss": "drunk",
+        "rootId": "ebri"
+      },
+      {
+        "text": "ated",
+        "role": "suffix",
+        "gloss": "made"
+      }
+    ],
+    "literal": "made drunk or intoxicated",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/inebriated"
+  },
+  "laceration": {
+    "parts": [
+      {
+        "text": "lacer",
+        "role": "root",
+        "gloss": "tear",
+        "rootId": "lac"
+      },
+      {
+        "text": "ation",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "the act of tearing",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/laceration"
+  },
+  "masticate": {
+    "parts": [
+      {
+        "text": "mastic",
+        "role": "root",
+        "gloss": "chew",
+        "rootId": "mastic"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "to act"
+      }
+    ],
+    "literal": "to chew",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/masticate"
+  },
+  "nutritive": {
+    "parts": [
+      {
+        "text": "nutri",
+        "role": "root",
+        "gloss": "nourish, suckle",
+        "rootId": "nutri"
+      },
+      {
+        "text": "tive",
+        "role": "suffix",
+        "gloss": "providing"
+      }
+    ],
+    "literal": "providing nourishment",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/nutritive"
+  },
+  "omnivorous": {
+    "parts": [
+      {
+        "text": "omni",
+        "role": "prefix",
+        "gloss": "all",
+        "rootId": "omni"
+      },
+      {
+        "text": "vor",
+        "role": "root",
+        "gloss": "eat",
+        "rootId": "vor"
+      },
+      {
+        "text": "ous",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "eating everything",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/omnivorous"
+  },
+  "mortality": {
+    "parts": [
+      {
+        "text": "mort",
+        "role": "root",
+        "gloss": "death",
+        "rootId": "mort"
+      },
+      {
+        "text": "al",
+        "role": "suffix",
+        "gloss": "relating to"
+      },
+      {
+        "text": "ity",
+        "role": "suffix",
+        "gloss": "state"
+      }
+    ],
+    "literal": "the state or condition of being subject to death",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/mortality"
+  },
+  "palliate": {
+    "parts": [
+      {
+        "text": "palli",
+        "role": "root",
+        "gloss": "cloak",
+        "rootId": "palli"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "to act"
+      }
+    ],
+    "literal": "to cover with a cloak",
+    "drift": "Once meant to cloak or conceal; now means to ease suffering or soften the severity of a problem.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/palliate"
+  },
+  "pungent": {
+    "parts": [
+      {
+        "text": "pung",
+        "role": "root",
+        "gloss": "sting, prick",
+        "rootId": "pung"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of stinging or pricking",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/pungent"
+  },
+  "sedentary": {
+    "parts": [
+      {
+        "text": "sed",
+        "role": "root",
+        "gloss": "sit",
+        "rootId": "sed"
+      },
+      {
+        "text": "entary",
+        "role": "suffix",
+        "gloss": "having a"
+      }
+    ],
+    "literal": "sitting",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/sedentary"
+  },
+  "senile": {
+    "parts": [
+      {
+        "text": "sen",
+        "role": "root",
+        "gloss": "old age",
+        "rootId": "sen"
+      },
+      {
+        "text": "ile",
+        "role": "suffix",
+        "gloss": "about"
+      }
+    ],
+    "literal": "pertaining to old age",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/senile"
+  },
+  "subterranean": {
+    "parts": [
+      {
+        "text": "sub",
+        "role": "prefix",
+        "gloss": "under"
+      },
+      {
+        "text": "terr",
+        "role": "root",
+        "gloss": "earth",
+        "rootId": "terr"
+      },
+      {
+        "text": "anean",
+        "role": "suffix",
+        "gloss": "belonging to"
+      }
+    ],
+    "literal": "under earth",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/subterranean"
+  },
+  "therapy": {
+    "parts": [
+      {
+        "text": "therap",
+        "role": "root",
+        "gloss": "service, medical treatment",
+        "rootId": "therap"
+      },
+      {
+        "text": "y",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "medical treatment",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/therapy"
+  },
+  "toxic": {
+    "parts": [
+      {
+        "text": "tox",
+        "role": "root",
+        "gloss": "poison",
+        "rootId": "tox"
+      },
+      {
+        "text": "ic",
+        "role": "suffix",
+        "gloss": "about"
+      }
+    ],
+    "literal": "pertaining to poison",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/toxic"
+  },
+  "abortive": {
+    "parts": [
+      {
+        "text": "abort",
+        "role": "root",
+        "gloss": "miscarry; fail to emerge",
+        "rootId": "abort"
+      },
+      {
+        "text": "ive",
+        "role": "suffix",
+        "gloss": "like"
+      }
+    ],
+    "literal": "causing an attempt to miscarry or fail",
+    "drift": "Once meant causing stillbirth or miscarriage; now means ending without success or completion.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/abortive"
+  },
+  "ameliorate": {
+    "parts": [
+      {
+        "text": "a",
+        "role": "prefix",
+        "gloss": "toward, into"
+      },
+      {
+        "text": "melior",
+        "role": "root",
+        "gloss": "better",
+        "rootId": "melior"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "to make"
+      }
+    ],
+    "literal": "to make better",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/ameliorate"
+  },
+  "archaic": {
+    "parts": [
+      {
+        "text": "archa",
+        "role": "root",
+        "gloss": "ancient, old-fashioned",
+        "rootId": "arch"
+      },
+      {
+        "text": "ic",
+        "role": "suffix",
+        "gloss": "marked by"
+      }
+    ],
+    "literal": "old-fashioned or ancient in character",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/archaic"
+  },
+  "barometer": {
+    "parts": [
+      {
+        "text": "baro",
+        "role": "root",
+        "gloss": "pressure, heaviness",
+        "rootId": "bar"
+      },
+      {
+        "text": "meter",
+        "role": "suffix",
+        "gloss": "measuring device"
+      }
+    ],
+    "literal": "pressure measurer",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/barometer"
+  },
+  "celerity": {
+    "parts": [
+      {
+        "text": "celer",
+        "role": "root",
+        "gloss": "fast, swift",
+        "rootId": "celer"
+      },
+      {
+        "text": "ity",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "swiftness",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/celerity"
+  },
+  "decade": {
+    "parts": [
+      {
+        "text": "dec",
+        "role": "root",
+        "gloss": "ten",
+        "rootId": "dec"
+      },
+      {
+        "text": "ade",
+        "role": "suffix",
+        "gloss": "period of ten"
+      }
+    ],
+    "literal": "a set or period of ten",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/decade"
+  },
+  "dormant": {
+    "parts": [
+      {
+        "text": "dorm",
+        "role": "root",
+        "gloss": "sleep",
+        "rootId": "dorm"
+      },
+      {
+        "text": "ant",
+        "role": "suffix",
+        "gloss": "one who"
+      }
+    ],
+    "literal": "sleeping",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/dormant"
+  },
+  "culminate": {
+    "parts": [
+      {
+        "text": "culmin",
+        "role": "root",
+        "gloss": "peak; highest point",
+        "rootId": "culmin"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "make"
+      }
+    ],
+    "literal": "to cause to reach the highest point",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/culminate"
+  },
+  "gradual": {
+    "parts": [
+      {
+        "text": "grad",
+        "role": "root",
+        "gloss": "step",
+        "rootId": "grad"
+      },
+      {
+        "text": "ual",
+        "role": "suffix",
+        "gloss": "marked by"
+      }
+    ],
+    "literal": "characterized by steps, proceeding by degrees",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/gradual"
+  },
+  "fortuitous": {
+    "parts": [
+      {
+        "text": "fortu",
+        "role": "root",
+        "gloss": "chance, luck",
+        "rootId": "fortu"
+      },
+      {
+        "text": "itous",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "characterized by chance or luck",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/fortuitous"
+  },
+  "immutable": {
+    "parts": [
+      {
+        "text": "im",
+        "role": "prefix",
+        "gloss": "not"
+      },
+      {
+        "text": "mut",
+        "role": "root",
+        "gloss": "change",
+        "rootId": "mut"
+      },
+      {
+        "text": "able",
+        "role": "suffix",
+        "gloss": "able to be"
+      }
+    ],
+    "literal": "not able to be changed",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/immutable"
+  },
+  "inevitable": {
+    "parts": [
+      {
+        "text": "in",
+        "role": "prefix",
+        "gloss": "not"
+      },
+      {
+        "text": "evit",
+        "role": "root",
+        "gloss": "avoid",
+        "rootId": "vit"
+      },
+      {
+        "text": "able",
+        "role": "suffix",
+        "gloss": "able to be"
+      }
+    ],
+    "literal": "not avoidable",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/inevitable"
+  },
+  "metamorphosis": {
+    "parts": [
+      {
+        "text": "meta",
+        "role": "prefix",
+        "gloss": "change, transformation"
+      },
+      {
+        "text": "morph",
+        "role": "root",
+        "gloss": "shape, form",
+        "rootId": "morph"
+      },
+      {
+        "text": "osis",
+        "role": "suffix",
+        "gloss": "process"
+      }
+    ],
+    "literal": "change of shape or form",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/metamorphosis"
+  },
+  "nascent": {
+    "parts": [
+      {
+        "text": "nasc",
+        "role": "root",
+        "gloss": "to be born",
+        "rootId": "nasc"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "becoming"
+      }
+    ],
+    "literal": "being born",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/nascent"
+  },
+  "obsolescence": {
+    "parts": [
+      {
+        "text": "obsol",
+        "role": "root",
+        "gloss": "fall out of use",
+        "rootId": "obsol"
+      },
+      {
+        "text": "escence",
+        "role": "suffix",
+        "gloss": "process of"
+      }
+    ],
+    "literal": "process of falling out of use",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/obsolescence"
+  },
+  "modify": {
+    "parts": [
+      {
+        "text": "mod",
+        "role": "root",
+        "gloss": "measure, manner",
+        "rootId": "mod"
+      },
+      {
+        "text": "i",
+        "role": "suffix",
+        "gloss": "action nouns"
+      },
+      {
+        "text": "fy",
+        "role": "suffix",
+        "gloss": "making"
+      }
+    ],
+    "literal": "make or form according to a measure",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/modify"
+  },
+  "originate": {
+    "parts": [
+      {
+        "text": "origin",
+        "role": "root",
+        "gloss": "beginning, source",
+        "rootId": "origin"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "make"
+      }
+    ],
+    "literal": "to give rise to; to begin",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/originate"
+  },
+  "procrastinate": {
+    "parts": [
+      {
+        "text": "pro",
+        "role": "prefix",
+        "gloss": "in favor of"
+      },
+      {
+        "text": "crast",
+        "role": "root",
+        "gloss": "tomorrow",
+        "rootId": "crast"
+      },
+      {
+        "text": "inate",
+        "role": "suffix",
+        "gloss": "verb"
+      }
+    ],
+    "literal": "defer until tomorrow",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/procrastinate"
+  },
+  "terminate": {
+    "parts": [
+      {
+        "text": "termin",
+        "role": "root",
+        "gloss": "end, limit",
+        "rootId": "termin"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "to cause to"
+      }
+    ],
+    "literal": "to bring to an end",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/terminate"
+  },
+  "truncated": {
+    "parts": [
+      {
+        "text": "trunc",
+        "role": "root",
+        "gloss": "cut short",
+        "rootId": "trunc"
+      },
+      {
+        "text": "ated",
+        "role": "suffix",
+        "gloss": "made"
+      }
+    ],
+    "literal": "cut short",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/truncate"
+  },
+  "turbulent": {
+    "parts": [
+      {
+        "text": "turb",
+        "role": "root",
+        "gloss": "disorder, tumult",
+        "rootId": "turb"
+      },
+      {
+        "text": "ulent",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of disorder or tumult",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/turbulent"
+  },
+  "amicable": {
+    "parts": [
+      {
+        "text": "ami",
+        "role": "root",
+        "gloss": "friend",
+        "rootId": "ami"
+      },
+      {
+        "text": "cable",
+        "role": "suffix",
+        "gloss": "able to be"
+      }
+    ],
+    "literal": "able to be friendly",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/amicable"
+  },
+  "arrogant": {
+    "parts": [
+      {
+        "text": "arrog",
+        "role": "root",
+        "gloss": "claim, demand",
+        "rootId": "rog"
+      },
+      {
+        "text": "ant",
+        "role": "suffix",
+        "gloss": "one who"
+      }
+    ],
+    "literal": "claiming or demanding",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/arrogant"
+  },
+  "amiable": {
+    "parts": [
+      {
+        "text": "ami",
+        "role": "root",
+        "gloss": "love, friend",
+        "rootId": "ami"
+      },
+      {
+        "text": "able",
+        "role": "suffix",
+        "gloss": "able to be"
+      }
+    ],
+    "literal": "lovable or friendly",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/amiable"
+  },
+  "asperity": {
+    "parts": [
+      {
+        "text": "asper",
+        "role": "root",
+        "gloss": "rough, harsh",
+        "rootId": "asper"
+      },
+      {
+        "text": "ity",
+        "role": "suffix",
+        "gloss": "state"
+      }
+    ],
+    "literal": "roughness or harshness",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/asperity"
+  },
+  "audacious": {
+    "parts": [
+      {
+        "text": "audaci",
+        "role": "root",
+        "gloss": "boldness",
+        "rootId": "audac"
+      },
+      {
+        "text": "ous",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of boldness",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/audacious"
+  },
+  "audacity": {
+    "parts": [
+      {
+        "text": "audac",
+        "role": "root",
+        "gloss": "bold, daring",
+        "rootId": "audac"
+      },
+      {
+        "text": "ity",
+        "role": "suffix",
+        "gloss": "state"
+      }
+    ],
+    "literal": "boldness or daring",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/audacity"
+  },
+  "cautious": {
+    "parts": [
+      {
+        "text": "caut",
+        "role": "root",
+        "gloss": "careful, wary",
+        "rootId": "caut"
+      },
+      {
+        "text": "ious",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of care or caution",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/cautious"
+  },
+  "charisma": {
+    "parts": [
+      {
+        "text": "char",
+        "role": "root",
+        "gloss": "grace, favor",
+        "rootId": "char"
+      },
+      {
+        "text": "isma",
+        "role": "suffix",
+        "gloss": "act"
+      }
+    ],
+    "literal": "state of grace or favor",
+    "drift": "Once referred to a divinely bestowed gift; now usually means personal charm or magnetism.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/charisma"
+  },
+  "congenial": {
+    "parts": [
+      {
+        "text": "con",
+        "role": "prefix",
+        "gloss": "together"
+      },
+      {
+        "text": "gen",
+        "role": "root",
+        "gloss": "birth, kind",
+        "rootId": "gen"
+      },
+      {
+        "text": "ial",
+        "role": "suffix",
+        "gloss": "adjective"
+      }
+    ],
+    "literal": "of the same kind",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/congenial"
+  },
+  "diffident": {
+    "parts": [
+      {
+        "text": "dif",
+        "role": "prefix",
+        "gloss": "apart, away"
+      },
+      {
+        "text": "fid",
+        "role": "root",
+        "gloss": "trust, faith",
+        "rootId": "fid"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "one who"
+      }
+    ],
+    "literal": "mistrusting, lacking trust in oneself",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/diffident"
+  },
+  "determined": {
+    "parts": [
+      {
+        "text": "de",
+        "role": "prefix",
+        "gloss": "completely away"
+      },
+      {
+        "text": "termin",
+        "role": "root",
+        "gloss": "end, limit",
+        "rootId": "termin"
+      },
+      {
+        "text": "ed",
+        "role": "suffix",
+        "gloss": "having been"
+      }
+    ],
+    "literal": "completely bounded or fixed",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/determine"
+  },
+  "dilettante": {
+    "parts": [
+      {
+        "text": "dilett",
+        "role": "root",
+        "gloss": "delight, pleasure",
+        "rootId": "dilect"
+      },
+      {
+        "text": "ante",
+        "role": "suffix",
+        "gloss": "one who does"
+      }
+    ],
+    "literal": "one who takes pleasure in an activity",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/dilettante"
+  },
+  "egotist": {
+    "parts": [
+      {
+        "text": "ego",
+        "role": "root",
+        "gloss": "self",
+        "rootId": "ego"
+      },
+      {
+        "text": "t",
+        "role": "prefix",
+        "gloss": "inserted sound"
+      },
+      {
+        "text": "ist",
+        "role": "suffix",
+        "gloss": "one who does"
+      }
+    ],
+    "literal": "self-focused person",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/egotist"
+  },
+  "energetic": {
+    "parts": [
+      {
+        "text": "energet",
+        "role": "root",
+        "gloss": "active, powerful",
+        "rootId": "erg"
+      },
+      {
+        "text": "ic",
+        "role": "suffix",
+        "gloss": "like"
+      }
+    ],
+    "literal": "active and energetic; full of activity",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/energetic"
+  },
+  "frivolous": {
+    "parts": [
+      {
+        "text": "frivol",
+        "role": "root",
+        "gloss": "silly, worthless",
+        "rootId": "frivol"
+      },
+      {
+        "text": "ous",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of silliness or worthlessness",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/frivolous"
+  },
+  "frenetic": {
+    "parts": [
+      {
+        "text": "fren",
+        "role": "root",
+        "gloss": "mind",
+        "rootId": "phren"
+      },
+      {
+        "text": "etic",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of frenzy or excitement",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/frenetic"
+  },
+  "generous": {
+    "parts": [
+      {
+        "text": "gen",
+        "role": "root",
+        "gloss": "race, stock",
+        "rootId": "gen"
+      },
+      {
+        "text": "erous",
+        "role": "suffix",
+        "gloss": "of noble birth"
+      }
+    ],
+    "literal": "of noble birth",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/generous"
+  },
+  "humility": {
+    "parts": [
+      {
+        "text": "humil",
+        "role": "root",
+        "gloss": "humble, lowly",
+        "rootId": "humil"
+      },
+      {
+        "text": "ity",
+        "role": "suffix",
+        "gloss": "quality"
+      }
+    ],
+    "literal": "the state of being humble or lowly",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/humility"
+  },
+  "imperturbable": {
+    "parts": [
+      {
+        "text": "im",
+        "role": "prefix",
+        "gloss": "not"
+      },
+      {
+        "text": "perturb",
+        "role": "root",
+        "gloss": "disturb",
+        "rootId": "turb"
+      },
+      {
+        "text": "able",
+        "role": "suffix",
+        "gloss": "able to be"
+      }
+    ],
+    "literal": "not able to be disturbed",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/imperturbable"
+  },
+  "inherent": {
+    "parts": [
+      {
+        "text": "in",
+        "role": "prefix",
+        "gloss": "in or into"
+      },
+      {
+        "text": "her",
+        "role": "root",
+        "gloss": "stick, adhere",
+        "rootId": "her"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "one who"
+      }
+    ],
+    "literal": "sticking or adhering in",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/inherent"
+  },
+  "innate": {
+    "parts": [
+      {
+        "text": "in",
+        "role": "prefix",
+        "gloss": "in, on"
+      },
+      {
+        "text": "nat",
+        "role": "root",
+        "gloss": "born",
+        "rootId": "nat"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "adjective"
+      }
+    ],
+    "literal": "born in",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/innate"
+  },
+  "inveterate": {
+    "parts": [
+      {
+        "text": "in",
+        "role": "prefix",
+        "gloss": "into"
+      },
+      {
+        "text": "veter",
+        "role": "root",
+        "gloss": "old, aged",
+        "rootId": "veter"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "having become"
+      }
+    ],
+    "literal": "having become old or long-established",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/inveterate"
+  },
+  "megalomania": {
+    "parts": [
+      {
+        "text": "megalo",
+        "role": "root",
+        "gloss": "great",
+        "rootId": "megal"
+      },
+      {
+        "text": "mania",
+        "role": "suffix",
+        "gloss": "madness"
+      }
+    ],
+    "literal": "great madness",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/megalomania"
+  },
+  "mundane": {
+    "parts": [
+      {
+        "text": "mund",
+        "role": "root",
+        "gloss": "world",
+        "rootId": "mund"
+      },
+      {
+        "text": "ane",
+        "role": "suffix",
+        "gloss": "relating to"
+      }
+    ],
+    "literal": "relating to the world",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/mundane"
+  },
+  "lenient": {
+    "parts": [
+      {
+        "text": "leni",
+        "role": "root",
+        "gloss": "soft, mild",
+        "rootId": "len"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "one who"
+      }
+    ],
+    "literal": "being soft or mild",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/lenient"
+  },
+  "neurotic": {
+    "parts": [
+      {
+        "text": "neuro",
+        "role": "root",
+        "gloss": "nerves, nervous system",
+        "rootId": "neur"
+      },
+      {
+        "text": "tic",
+        "role": "suffix",
+        "gloss": "having an"
+      }
+    ],
+    "literal": "having an abnormal nervous condition",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/neurotic"
+  },
+  "ordinary": {
+    "parts": [
+      {
+        "text": "ordin",
+        "role": "root",
+        "gloss": "order",
+        "rootId": "ordin"
+      },
+      {
+        "text": "ary",
+        "role": "suffix",
+        "gloss": "like"
+      }
+    ],
+    "literal": "having the nature of order",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/ordinary"
+  },
+  "obsequious": {
+    "parts": [
+      {
+        "text": "ob",
+        "role": "prefix",
+        "gloss": "towards"
+      },
+      {
+        "text": "sequ",
+        "role": "root",
+        "gloss": "follow",
+        "rootId": "sequ"
+      },
+      {
+        "text": "ious",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "compliant and deferential through following",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/obsequious"
+  },
+  "persevering": {
+    "parts": [
+      {
+        "text": "per",
+        "role": "prefix",
+        "gloss": "through"
+      },
+      {
+        "text": "sever",
+        "role": "root",
+        "gloss": "strict, earnest",
+        "rootId": "sever"
+      },
+      {
+        "text": "ing",
+        "role": "suffix",
+        "gloss": "continuing to"
+      }
+    ],
+    "literal": "continuing strictly through difficulties",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/persevere"
+  },
+  "perfidious": {
+    "parts": [
+      {
+        "text": "per",
+        "role": "prefix",
+        "gloss": "through, beyond"
+      },
+      {
+        "text": "fid",
+        "role": "root",
+        "gloss": "faith, trust",
+        "rootId": "fid"
+      },
+      {
+        "text": "ious",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "betraying faith",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/perfidious"
+  },
+  "persistent": {
+    "parts": [
+      {
+        "text": "per",
+        "role": "prefix",
+        "gloss": "through"
+      },
+      {
+        "text": "sist",
+        "role": "root",
+        "gloss": "stand",
+        "rootId": "sist"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "one who"
+      }
+    ],
+    "literal": "standing through",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/persistent"
+  },
+  "persevere": {
+    "parts": [
+      {
+        "text": "per",
+        "role": "prefix",
+        "gloss": "through, by means of"
+      },
+      {
+        "text": "sever",
+        "role": "root",
+        "gloss": "strict, earnest",
+        "rootId": "sever"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "verb ending"
+      }
+    ],
+    "literal": "continue strictly or earnestly",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/persevere"
+  },
+  "phlegmatic": {
+    "parts": [
+      {
+        "text": "phlegm",
+        "role": "root",
+        "gloss": "mucus; bodily humor",
+        "rootId": "phlegm"
+      },
+      {
+        "text": "atic",
+        "role": "suffix",
+        "gloss": "marked by"
+      }
+    ],
+    "literal": "characterized by phlegm, the humor associated with coldness and sluggishness",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/phlegmatic"
+  },
+  "pugnacious": {
+    "parts": [
+      {
+        "text": "pugn",
+        "role": "root",
+        "gloss": "fighting, combative",
+        "rootId": "pugn"
+      },
+      {
+        "text": "acious",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of fighting",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/pugnacious"
+  },
+  "rapacious": {
+    "parts": [
+      {
+        "text": "rap",
+        "role": "root",
+        "gloss": "grasping, greedy",
+        "rootId": "rap"
+      },
+      {
+        "text": "acious",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of grasping or greed",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/rapacious"
+  },
+  "reserved": {
+    "parts": [
+      {
+        "text": "re",
+        "role": "prefix",
+        "gloss": "again, back"
+      },
+      {
+        "text": "serv",
+        "role": "root",
+        "gloss": "keep, hold",
+        "rootId": "serv"
+      },
+      {
+        "text": "ed",
+        "role": "suffix",
+        "gloss": "marked by"
+      }
+    ],
+    "literal": "kept back",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/reserve%23Verb"
+  },
+  "temerity": {
+    "parts": [
+      {
+        "text": "temer",
+        "role": "root",
+        "gloss": "rashly, by chance",
+        "rootId": "temer"
+      },
+      {
+        "text": "ity",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "rashness",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/temerity"
+  },
+  "timorous": {
+    "parts": [
+      {
+        "text": "timor",
+        "role": "root",
+        "gloss": "dread, fear",
+        "rootId": "timor"
+      },
+      {
+        "text": "ous",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of fear",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/timorous"
+  },
+  "urbane": {
+    "parts": [
+      {
+        "text": "urb",
+        "role": "root",
+        "gloss": "city",
+        "rootId": "urb"
+      },
+      {
+        "text": "ane",
+        "role": "suffix",
+        "gloss": "of"
+      }
+    ],
+    "literal": "of or pertaining to the city; refined in city manners",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/urbane"
+  },
+  "virile": {
+    "parts": [
+      {
+        "text": "vir",
+        "role": "root",
+        "gloss": "man, male human",
+        "rootId": "vir"
+      },
+      {
+        "text": "ile",
+        "role": "suffix",
+        "gloss": "like"
+      }
+    ],
+    "literal": "resembling a man",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/virile"
+  },
+  "vigilant": {
+    "parts": [
+      {
+        "text": "vigil",
+        "role": "root",
+        "gloss": "awake, watchful",
+        "rootId": "vigil"
+      },
+      {
+        "text": "ant",
+        "role": "suffix",
+        "gloss": "one who"
+      }
+    ],
+    "literal": "staying awake and watchful",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/vigilant"
+  },
+  "vivacious": {
+    "parts": [
+      {
+        "text": "viv",
+        "role": "root",
+        "gloss": "live",
+        "rootId": "viv"
+      },
+      {
+        "text": "acious",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of life",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/vivacious"
+  },
+  "amorous": {
+    "parts": [
+      {
+        "text": "amor",
+        "role": "root",
+        "gloss": "love",
+        "rootId": "amor"
+      },
+      {
+        "text": "ous",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of love",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/amorous"
+  },
+  "ardent": {
+    "parts": [
+      {
+        "text": "ard",
+        "role": "root",
+        "gloss": "burn, passion",
+        "rootId": "ard"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "present participle"
+      }
+    ],
+    "literal": "burning with passion",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/ardent"
+  },
+  "avarice": {
+    "parts": [
+      {
+        "text": "avar",
+        "role": "root",
+        "gloss": "greedy for money",
+        "rootId": "avar"
+      },
+      {
+        "text": "ice",
+        "role": "suffix",
+        "gloss": "condition"
+      }
+    ],
+    "literal": "greedy condition or state",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/avarice"
+  },
+  "begrudge": {
+    "parts": [
+      {
+        "text": "be",
+        "role": "prefix",
+        "gloss": "at, about, over"
+      },
+      {
+        "text": "grudg",
+        "role": "root",
+        "gloss": "resent, begrudge",
+        "rootId": "grudg"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "to do"
+      }
+    ],
+    "literal": "resent someone about something good",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/begrudge"
+  },
+  "contemptuous": {
+    "parts": [
+      {
+        "text": "contempt",
+        "role": "root",
+        "gloss": "contempt",
+        "rootId": "contempt"
+      },
+      {
+        "text": "uous",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of contempt",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/contemptuous"
+  },
+  "cordial": {
+    "parts": [
+      {
+        "text": "cord",
+        "role": "root",
+        "gloss": "heart",
+        "rootId": "cord"
+      },
+      {
+        "text": "ial",
+        "role": "suffix",
+        "gloss": "relating to"
+      }
+    ],
+    "literal": "of the heart",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/cordial"
+  },
+  "contrite": {
+    "parts": [
+      {
+        "text": "con",
+        "role": "prefix",
+        "gloss": "completely, together"
+      },
+      {
+        "text": "trit",
+        "role": "root",
+        "gloss": "rub, grind",
+        "rootId": "trit"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "marked by"
+      }
+    ],
+    "literal": "ground or rubbed to pieces",
+    "drift": "Once meant physically crushed; now means deeply sorry and accepting responsibility.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/contrite"
+  },
+  "decadence": {
+    "parts": [
+      {
+        "text": "de",
+        "role": "prefix",
+        "gloss": "down; from"
+      },
+      {
+        "text": "cad",
+        "role": "root",
+        "gloss": "fall",
+        "rootId": "cad"
+      },
+      {
+        "text": "ence",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "a falling down, decay",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/decadence"
+  },
+  "cynical": {
+    "parts": [
+      {
+        "text": "cynic",
+        "role": "root",
+        "gloss": "dog-like, cynical",
+        "rootId": "cyn"
+      },
+      {
+        "text": "al",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of dog-like qualities",
+    "drift": "Originally referred to dog-like behavior; now means distrustful of people’s motives.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/cynical"
+  },
+  "enervated": {
+    "parts": [
+      {
+        "text": "e",
+        "role": "prefix",
+        "gloss": "out of"
+      },
+      {
+        "text": "nerv",
+        "role": "root",
+        "gloss": "sinew, strength",
+        "rootId": "nerv"
+      },
+      {
+        "text": "ated",
+        "role": "suffix",
+        "gloss": "made"
+      }
+    ],
+    "literal": "weakened in strength",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/enervate"
+  },
+  "excruciating": {
+    "parts": [
+      {
+        "text": "ex",
+        "role": "prefix",
+        "gloss": "out"
+      },
+      {
+        "text": "cruci",
+        "role": "root",
+        "gloss": "cross",
+        "rootId": "cruc"
+      },
+      {
+        "text": "ating",
+        "role": "suffix",
+        "gloss": "causing to be"
+      }
+    ],
+    "literal": "tormenting on a cross",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/excruciating"
+  },
+  "exultation": {
+    "parts": [
+      {
+        "text": "ex",
+        "role": "prefix",
+        "gloss": "out"
+      },
+      {
+        "text": "ult",
+        "role": "root",
+        "gloss": "jump",
+        "rootId": "ult"
+      },
+      {
+        "text": "ation",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "jump out",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/exultation"
+  },
+  "fervid": {
+    "parts": [
+      {
+        "text": "ferv",
+        "role": "root",
+        "gloss": "to boil, bubble",
+        "rootId": "ferv"
+      },
+      {
+        "text": "id",
+        "role": "suffix",
+        "gloss": "like"
+      }
+    ],
+    "literal": "boiling or intensely heated",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/fervid"
+  },
+  "forlorn": {
+    "parts": [
+      {
+        "text": "for",
+        "role": "prefix",
+        "gloss": "away from"
+      },
+      {
+        "text": "lorn",
+        "role": "root",
+        "gloss": "lost",
+        "rootId": "lorn"
+      }
+    ],
+    "literal": "lost away",
+    "drift": "Once meant lost; now means feeling sadly abandoned or alone.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/forlorn"
+  },
+  "gusto": {
+    "parts": [
+      {
+        "text": "gust",
+        "role": "root",
+        "gloss": "taste",
+        "rootId": "gust"
+      },
+      {
+        "text": "o",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "taste noun",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/gusto"
+  },
+  "indignant": {
+    "parts": [
+      {
+        "text": "in",
+        "role": "prefix",
+        "gloss": "not"
+      },
+      {
+        "text": "dign",
+        "role": "root",
+        "gloss": "worthy",
+        "rootId": "dign"
+      },
+      {
+        "text": "ant",
+        "role": "suffix",
+        "gloss": "one who is"
+      }
+    ],
+    "literal": "not worthy; being angry at what is unworthy",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/indignant"
+  },
+  "irate": {
+    "parts": [
+      {
+        "text": "ir",
+        "role": "root",
+        "gloss": "anger, wrath",
+        "rootId": "ir"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of anger",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/irate"
+  },
+  "jocose": {
+    "parts": [
+      {
+        "text": "joc",
+        "role": "root",
+        "gloss": "joke, jest",
+        "rootId": "joc"
+      },
+      {
+        "text": "ose",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of jokes",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/jocose"
+  },
+  "lethargic": {
+    "parts": [
+      {
+        "text": "letharg",
+        "role": "root",
+        "gloss": "forgetfulness, drowsiness",
+        "rootId": "letharg"
+      },
+      {
+        "text": "ic",
+        "role": "suffix",
+        "gloss": "like"
+      }
+    ],
+    "literal": "forgetful and inactive",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/lethargic"
+  },
+  "mollify": {
+    "parts": [
+      {
+        "text": "moll",
+        "role": "root",
+        "gloss": "soft",
+        "rootId": "moll"
+      },
+      {
+        "text": "ify",
+        "role": "suffix",
+        "gloss": "make"
+      }
+    ],
+    "literal": "make soft",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/mollify"
+  },
+  "odious": {
+    "parts": [
+      {
+        "text": "odi",
+        "role": "root",
+        "gloss": "hate",
+        "rootId": "odi"
+      },
+      {
+        "text": "ous",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of hate",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/odious"
+  },
+  "mortify": {
+    "parts": [
+      {
+        "text": "mort",
+        "role": "root",
+        "gloss": "death",
+        "rootId": "mort"
+      },
+      {
+        "text": "ify",
+        "role": "suffix",
+        "gloss": "make"
+      }
+    ],
+    "literal": "make death",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/mortify"
+  },
+  "penitent": {
+    "parts": [
+      {
+        "text": "penit",
+        "role": "root",
+        "gloss": "regret, repentance",
+        "rootId": "penit"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "one who"
+      }
+    ],
+    "literal": "one who regrets or repents",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/penitent"
+  },
+  "pensive": {
+    "parts": [
+      {
+        "text": "pens",
+        "role": "root",
+        "gloss": "think, weigh",
+        "rootId": "pens"
+      },
+      {
+        "text": "ive",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of thought",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/pensive"
+  },
+  "phobia": {
+    "parts": [
+      {
+        "text": "phob",
+        "role": "root",
+        "gloss": "fear",
+        "rootId": "phob"
+      },
+      {
+        "text": "ia",
+        "role": "suffix",
+        "gloss": "condition"
+      }
+    ],
+    "literal": "fear condition",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/phobia"
+  },
+  "premonition": {
+    "parts": [
+      {
+        "text": "pre",
+        "role": "prefix",
+        "gloss": "before"
+      },
+      {
+        "text": "mon",
+        "role": "root",
+        "gloss": "warn",
+        "rootId": "mon"
+      },
+      {
+        "text": "ition",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "warning beforehand",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/premonition"
+  },
+  "repugnant": {
+    "parts": [
+      {
+        "text": "re",
+        "role": "prefix",
+        "gloss": "back, against"
+      },
+      {
+        "text": "pugn",
+        "role": "root",
+        "gloss": "fight",
+        "rootId": "pugn"
+      },
+      {
+        "text": "ant",
+        "role": "suffix",
+        "gloss": "one who"
+      }
+    ],
+    "literal": "fighting against, opposing",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/repugnant"
+  },
+  "repress": {
+    "parts": [
+      {
+        "text": "re",
+        "role": "prefix",
+        "gloss": "back again"
+      },
+      {
+        "text": "press",
+        "role": "root",
+        "gloss": "press, press down",
+        "rootId": "press"
+      }
+    ],
+    "literal": "press back down",
+    "drift": "Originally meant to suppress or force down; now commonly means to keep feelings or memories from being openly expressed or consciously acknowledged.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/repress"
+  },
+  "repulse": {
+    "parts": [
+      {
+        "text": "re",
+        "role": "prefix",
+        "gloss": "back, again"
+      },
+      {
+        "text": "puls",
+        "role": "root",
+        "gloss": "drive, push",
+        "rootId": "puls"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "a pushing back",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/repulse"
+  },
+  "sanguine": {
+    "parts": [
+      {
+        "text": "sangu",
+        "role": "root",
+        "gloss": "blood",
+        "rootId": "sangu"
+      },
+      {
+        "text": "ine",
+        "role": "suffix",
+        "gloss": "of blood"
+      }
+    ],
+    "literal": "of blood",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/sanguine"
+  },
+  "sensitive": {
+    "parts": [
+      {
+        "text": "sens",
+        "role": "root",
+        "gloss": "feel, perceive",
+        "rootId": "sens"
+      },
+      {
+        "text": "it",
+        "role": "suffix",
+        "gloss": "about"
+      },
+      {
+        "text": "ive",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "having the quality of feeling or perceiving",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/sensitive"
+  },
+  "serene": {
+    "parts": [
+      {
+        "text": "ser",
+        "role": "root",
+        "gloss": "clear, untroubled",
+        "rootId": "ser"
+      },
+      {
+        "text": "ene",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "clear and untroubled",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/serene"
+  },
+  "serenity": {
+    "parts": [
+      {
+        "text": "seren",
+        "role": "root",
+        "gloss": "calm and peaceful",
+        "rootId": "seren"
+      },
+      {
+        "text": "ity",
+        "role": "suffix",
+        "gloss": "state"
+      }
+    ],
+    "literal": "state of being calm and peaceful",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/serenity"
+  },
+  "revere": {
+    "parts": [
+      {
+        "text": "re",
+        "role": "prefix",
+        "gloss": "again"
+      },
+      {
+        "text": "vere",
+        "role": "root",
+        "gloss": "fear",
+        "rootId": "vere"
+      }
+    ],
+    "literal": "fear again",
+    "drift": "Once conveyed reverence; now means to regard with deep respect and admiration.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/revere"
+  },
+  "tremulous": {
+    "parts": [
+      {
+        "text": "trem",
+        "role": "root",
+        "gloss": "tremble, shake",
+        "rootId": "trem"
+      },
+      {
+        "text": "ulous",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of trembling or shaking",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/tremulous"
+  },
+  "umbrage": {
+    "parts": [
+      {
+        "text": "umbr",
+        "role": "root",
+        "gloss": "shadow, shade",
+        "rootId": "umbr"
+      },
+      {
+        "text": "age",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "shade, shadow",
+    "drift": "Originally meant “shade” or “shadow”; now means a feeling of offence or resentment.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/umbrage"
+  },
+  "voracious": {
+    "parts": [
+      {
+        "text": "vor",
+        "role": "root",
+        "gloss": "devouring",
+        "rootId": "vor"
+      },
+      {
+        "text": "acious",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of devouring",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/voracious"
+  },
+  "zealous": {
+    "parts": [
+      {
+        "text": "zeal",
+        "role": "root",
+        "gloss": "enthusiastic devotion",
+        "rootId": "zel"
+      },
+      {
+        "text": "ous",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of zeal",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/zealous"
+  },
+  "abrogate": {
+    "parts": [
+      {
+        "text": "ab",
+        "role": "prefix",
+        "gloss": "away from"
+      },
+      {
+        "text": "rog",
+        "role": "root",
+        "gloss": "ask, propose",
+        "rootId": "rog"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "make"
+      }
+    ],
+    "literal": "ask away, repeal",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/abrogate"
+  },
+  "acrimonious": {
+    "parts": [
+      {
+        "text": "acrimoni",
+        "role": "root",
+        "gloss": "bitter sharpness",
+        "rootId": "acrimoni"
+      },
+      {
+        "text": "ous",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of bitter sharpness",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/acrimonious"
+  },
+  "arbiter": {
+    "parts": [
+      {
+        "text": "arb",
+        "role": "root",
+        "gloss": "judge",
+        "rootId": "arbitr"
+      },
+      {
+        "text": "iter",
+        "role": "suffix",
+        "gloss": "one who does"
+      }
+    ],
+    "literal": "one who goes to see, a judge",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/arbiter"
+  },
+  "carnage": {
+    "parts": [
+      {
+        "text": "carn",
+        "role": "root",
+        "gloss": "flesh",
+        "rootId": "carn"
+      },
+      {
+        "text": "age",
+        "role": "suffix",
+        "gloss": "action"
+      }
+    ],
+    "literal": "flesh slaughter",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/carnage"
+  },
+  "complicity": {
+    "parts": [
+      {
+        "text": "com",
+        "role": "prefix",
+        "gloss": "with"
+      },
+      {
+        "text": "plic",
+        "role": "root",
+        "gloss": "fold",
+        "rootId": "plic"
+      },
+      {
+        "text": "ity",
+        "role": "suffix",
+        "gloss": "state"
+      }
+    ],
+    "literal": "folded together state of being",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/complicity"
+  },
+  "castigate": {
+    "parts": [
+      {
+        "text": "cast",
+        "role": "root",
+        "gloss": "pure; chaste",
+        "rootId": "cast"
+      },
+      {
+        "text": "igate",
+        "role": "suffix",
+        "gloss": "form of a verb"
+      }
+    ],
+    "literal": "reprove or punish",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/castigate"
+  },
+  "conflagration": {
+    "parts": [
+      {
+        "text": "con",
+        "role": "prefix",
+        "gloss": "with, together"
+      },
+      {
+        "text": "flagr",
+        "role": "root",
+        "gloss": "burn, blaze",
+        "rootId": "flagr"
+      },
+      {
+        "text": "ation",
+        "role": "suffix",
+        "gloss": "act"
+      }
+    ],
+    "literal": "a burning together or widespread burning",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/conflagration"
+  },
+  "confront": {
+    "parts": [
+      {
+        "text": "con",
+        "role": "prefix",
+        "gloss": "with, together"
+      },
+      {
+        "text": "front",
+        "role": "root",
+        "gloss": "forehead, face",
+        "rootId": "front"
+      }
+    ],
+    "literal": "face together, bring face to face",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/confront"
+  },
+  "condone": {
+    "parts": [
+      {
+        "text": "con",
+        "role": "prefix",
+        "gloss": "intensifier"
+      },
+      {
+        "text": "don",
+        "role": "root",
+        "gloss": "gift",
+        "rootId": "don"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "forgive",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/condone"
+  },
+  "decapitate": {
+    "parts": [
+      {
+        "text": "de",
+        "role": "prefix",
+        "gloss": "remove"
+      },
+      {
+        "text": "capit",
+        "role": "root",
+        "gloss": "head",
+        "rootId": "capit"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "to cause"
+      }
+    ],
+    "literal": "remove the head",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/decapitate"
+  },
+  "dissident": {
+    "parts": [
+      {
+        "text": "dis",
+        "role": "prefix",
+        "gloss": "apart"
+      },
+      {
+        "text": "sid",
+        "role": "root",
+        "gloss": "sit",
+        "rootId": "sid"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "one who"
+      }
+    ],
+    "literal": "sitting apart; disagreeing",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/dissident"
+  },
+  "duress": {
+    "parts": [
+      {
+        "text": "dur",
+        "role": "root",
+        "gloss": "hard",
+        "rootId": "dur"
+      },
+      {
+        "text": "ess",
+        "role": "suffix",
+        "gloss": "state"
+      }
+    ],
+    "literal": "hardship or a state of compulsion",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/duress"
+  },
+  "extortion": {
+    "parts": [
+      {
+        "text": "ex",
+        "role": "prefix",
+        "gloss": "out of"
+      },
+      {
+        "text": "tort",
+        "role": "root",
+        "gloss": "twist, turn",
+        "rootId": "tort"
+      },
+      {
+        "text": "ion",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "twisting or turning something out",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/extortion"
+  },
+  "fiat": {
+    "parts": [
+      {
+        "text": "fi",
+        "role": "root",
+        "gloss": "let it be",
+        "rootId": "fiat"
+      },
+      {
+        "text": "at",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "a decree that it be done",
+    "drift": "Originally an imperative formula meaning “let it be done”; now a firm authoritative order or decree.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/fiat"
+  },
+  "impede": {
+    "parts": [
+      {
+        "text": "im",
+        "role": "prefix",
+        "gloss": "into, upon"
+      },
+      {
+        "text": "ped",
+        "role": "root",
+        "gloss": "foot",
+        "rootId": "ped"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "verb action"
+      }
+    ],
+    "literal": "to shackle the feet, hinder progress",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/impede"
+  },
+  "inflicted": {
+    "parts": [
+      {
+        "text": "in",
+        "role": "prefix",
+        "gloss": "into, upon"
+      },
+      {
+        "text": "flict",
+        "role": "root",
+        "gloss": "strike",
+        "rootId": "flict"
+      },
+      {
+        "text": "ed",
+        "role": "suffix",
+        "gloss": "having caused"
+      }
+    ],
+    "literal": "strike into or upon",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/inflict"
+  },
+  "infraction": {
+    "parts": [
+      {
+        "text": "in",
+        "role": "prefix",
+        "gloss": "into, upon"
+      },
+      {
+        "text": "fract",
+        "role": "root",
+        "gloss": "break",
+        "rootId": "fract"
+      },
+      {
+        "text": "ion",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "breaking into",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/infraction"
+  },
+  "intimidate": {
+    "parts": [
+      {
+        "text": "in",
+        "role": "prefix",
+        "gloss": "into"
+      },
+      {
+        "text": "timid",
+        "role": "root",
+        "gloss": "afraid, timid",
+        "rootId": "timid"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "to make"
+      }
+    ],
+    "literal": "make afraid",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/intimidate"
+  },
+  "ingratiate": {
+    "parts": [
+      {
+        "text": "in",
+        "role": "prefix",
+        "gloss": "into, upon"
+      },
+      {
+        "text": "grati",
+        "role": "root",
+        "gloss": "favor, goodwill",
+        "rootId": "grati"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "to cause"
+      }
+    ],
+    "literal": "to move or act for favor",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/ingratiate"
+  },
+  "inviolable": {
+    "parts": [
+      {
+        "text": "in",
+        "role": "prefix",
+        "gloss": "not"
+      },
+      {
+        "text": "viol",
+        "role": "root",
+        "gloss": "violate",
+        "rootId": "viol"
+      },
+      {
+        "text": "able",
+        "role": "suffix",
+        "gloss": "able to be"
+      }
+    ],
+    "literal": "not able to be violated",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/inviolable"
+  },
+  "neutralize": {
+    "parts": [
+      {
+        "text": "neutral",
+        "role": "root",
+        "gloss": "not taking either side",
+        "rootId": "neut"
+      },
+      {
+        "text": "ize",
+        "role": "suffix",
+        "gloss": "to make into"
+      }
+    ],
+    "literal": "make neutral",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/neutralize"
+  },
+  "restrictive": {
+    "parts": [
+      {
+        "text": "restrict",
+        "role": "root",
+        "gloss": "limit",
+        "rootId": "strict"
+      },
+      {
+        "text": "ive",
+        "role": "suffix",
+        "gloss": "tending to"
+      }
+    ],
+    "literal": "tending to limit",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/restrictive"
+  },
+  "subjugate": {
+    "parts": [
+      {
+        "text": "sub",
+        "role": "prefix",
+        "gloss": "under"
+      },
+      {
+        "text": "jug",
+        "role": "root",
+        "gloss": "join; yoke",
+        "rootId": "jug"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "cause to be"
+      }
+    ],
+    "literal": "bring under the yoke; make subject",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/subjugate"
+  },
+  "subservient": {
+    "parts": [
+      {
+        "text": "sub",
+        "role": "prefix",
+        "gloss": "under"
+      },
+      {
+        "text": "serv",
+        "role": "root",
+        "gloss": "serve",
+        "rootId": "serv"
+      },
+      {
+        "text": "ient",
+        "role": "suffix",
+        "gloss": "one who serves"
+      }
+    ],
+    "literal": "serving under; obedient",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/subservient"
+  },
+  "vulnerable": {
+    "parts": [
+      {
+        "text": "vulner",
+        "role": "root",
+        "gloss": "wound",
+        "rootId": "vulner"
+      },
+      {
+        "text": "able",
+        "role": "suffix",
+        "gloss": "able to be"
+      }
+    ],
+    "literal": "able to be wounded",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/vulnerable"
+  },
+  "awesome": {
+    "parts": [
+      {
+        "text": "awe",
+        "role": "root",
+        "gloss": "great fear or wonder",
+        "rootId": "awe"
+      },
+      {
+        "text": "some",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of awe",
+    "drift": "Once meant inspiring awe; now commonly means excellent or impressive.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/awesome"
+  },
+  "deplorable": {
+    "parts": [
+      {
+        "text": "de",
+        "role": "prefix",
+        "gloss": "intensifying prefix"
+      },
+      {
+        "text": "plor",
+        "role": "root",
+        "gloss": "cry out, lament",
+        "rootId": "plor"
+      },
+      {
+        "text": "able",
+        "role": "suffix",
+        "gloss": "able to be"
+      }
+    ],
+    "literal": "lamentable, worthy of being lamented",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/deplorable"
+  },
+  "deprecate": {
+    "parts": [
+      {
+        "text": "de",
+        "role": "prefix",
+        "gloss": "away, off"
+      },
+      {
+        "text": "prec",
+        "role": "root",
+        "gloss": "pray",
+        "rootId": "prec"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "to act"
+      }
+    ],
+    "literal": "to pray against",
+    "drift": "Originally meant to pray against an impending evil; now means to condemn strongly.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/deprecate"
+  },
+  "denigrated": {
+    "parts": [
+      {
+        "text": "de",
+        "role": "prefix",
+        "gloss": "from; of"
+      },
+      {
+        "text": "nigr",
+        "role": "root",
+        "gloss": "black",
+        "rootId": "nigr"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "verb"
+      },
+      {
+        "text": "d",
+        "role": "suffix",
+        "gloss": "past tense"
+      }
+    ],
+    "literal": "made black; hence disparaged",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/denigrate"
+  },
+  "deride": {
+    "parts": [
+      {
+        "text": "de",
+        "role": "prefix",
+        "gloss": "put down"
+      },
+      {
+        "text": "rid",
+        "role": "root",
+        "gloss": "laugh at, mock",
+        "rootId": "rid"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "verb"
+      }
+    ],
+    "literal": "put down by mocking",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/deride"
+  },
+  "egregious": {
+    "parts": [
+      {
+        "text": "e",
+        "role": "prefix",
+        "gloss": "out of"
+      },
+      {
+        "text": "greg",
+        "role": "root",
+        "gloss": "flock",
+        "rootId": "greg"
+      },
+      {
+        "text": "ious",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "standing out from the flock",
+    "drift": "Originally meant distinguished or eminent; now means extremely bad and shocking.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/egregious"
+  },
+  "epithet": {
+    "parts": [
+      {
+        "text": "epi",
+        "role": "prefix",
+        "gloss": "in addition"
+      },
+      {
+        "text": "the",
+        "role": "root",
+        "gloss": "put, place",
+        "rootId": "the"
+      },
+      {
+        "text": "t",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "an added designation",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/epithet"
+  },
+  "excoriate": {
+    "parts": [
+      {
+        "text": "ex",
+        "role": "prefix",
+        "gloss": "out of"
+      },
+      {
+        "text": "cor",
+        "role": "root",
+        "gloss": "skin, hide",
+        "rootId": "cor"
+      },
+      {
+        "text": "iate",
+        "role": "suffix",
+        "gloss": "to act on"
+      }
+    ],
+    "literal": "take the skin off; criticize harshly",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/excoriate"
+  },
+  "florid": {
+    "parts": [
+      {
+        "text": "flor",
+        "role": "root",
+        "gloss": "flower",
+        "rootId": "flor"
+      },
+      {
+        "text": "id",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of flowers",
+    "drift": "Once meant flowering or flowery; now often means excessively ornate or decorative.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/florid"
+  },
+  "gratuitous": {
+    "parts": [
+      {
+        "text": "grat",
+        "role": "root",
+        "gloss": "favor, gratitude",
+        "rootId": "grat"
+      },
+      {
+        "text": "uitous",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of favor",
+    "drift": "Once meant freely given; now means given without sufficient reason or justification.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/gratuitous"
+  },
+  "impeccable": {
+    "parts": [
+      {
+        "text": "im",
+        "role": "prefix",
+        "gloss": "not"
+      },
+      {
+        "text": "pecc",
+        "role": "root",
+        "gloss": "err, sin",
+        "rootId": "pecc"
+      },
+      {
+        "text": "able",
+        "role": "suffix",
+        "gloss": "able to be"
+      }
+    ],
+    "literal": "not able to err or sin",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/impeccable"
+  },
+  "infamous": {
+    "parts": [
+      {
+        "text": "in",
+        "role": "prefix",
+        "gloss": "not"
+      },
+      {
+        "text": "fam",
+        "role": "root",
+        "gloss": "fame",
+        "rootId": "fam"
+      },
+      {
+        "text": "ous",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of ill fame",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/infamous"
+  },
+  "laudable": {
+    "parts": [
+      {
+        "text": "laud",
+        "role": "root",
+        "gloss": "praise",
+        "rootId": "laud"
+      },
+      {
+        "text": "able",
+        "role": "suffix",
+        "gloss": "able to be"
+      }
+    ],
+    "literal": "able to be praised",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/laudable"
+  },
+  "obloquy": {
+    "parts": [
+      {
+        "text": "ob",
+        "role": "prefix",
+        "gloss": "against"
+      },
+      {
+        "text": "loquy",
+        "role": "root",
+        "gloss": "speaking against",
+        "rootId": "loqu"
+      }
+    ],
+    "literal": "speaking against",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/obloquy"
+  },
+  "opprobrium": {
+    "parts": [
+      {
+        "text": "op",
+        "role": "prefix",
+        "gloss": "towards"
+      },
+      {
+        "text": "prob",
+        "role": "root",
+        "gloss": "reproach, disgrace",
+        "rootId": "prob"
+      },
+      {
+        "text": "rium",
+        "role": "suffix",
+        "gloss": "abstract noun"
+      }
+    ],
+    "literal": "towards reproach; public disgrace",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/opprobrium"
+  },
+  "pompous": {
+    "parts": [
+      {
+        "text": "pomp",
+        "role": "root",
+        "gloss": "solemn procession",
+        "rootId": "pomp"
+      },
+      {
+        "text": "ous",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of pomp or show",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/pompous"
+  },
+  "scathing": {
+    "parts": [
+      {
+        "text": "scath",
+        "role": "root",
+        "gloss": "harm, injure",
+        "rootId": "scath"
+      },
+      {
+        "text": "ing",
+        "role": "suffix",
+        "gloss": "marked by"
+      }
+    ],
+    "literal": "characterized by harm or injury",
+    "confidence": "likely",
+    "source": "https://en.wiktionary.org/wiki/scathe"
+  },
+  "risible": {
+    "parts": [
+      {
+        "text": "ris",
+        "role": "root",
+        "gloss": "laughter",
+        "rootId": "ris"
+      },
+      {
+        "text": "ible",
+        "role": "suffix",
+        "gloss": "capable of"
+      }
+    ],
+    "literal": "laughable",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/risible"
+  },
+  "superficial": {
+    "parts": [
+      {
+        "text": "super",
+        "role": "prefix",
+        "gloss": "over, above"
+      },
+      {
+        "text": "fic",
+        "role": "root",
+        "gloss": "face, surface",
+        "rootId": "fic"
+      },
+      {
+        "text": "ial",
+        "role": "suffix",
+        "gloss": "belonging to"
+      }
+    ],
+    "literal": "over the surface",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/superficial"
+  },
+  "abate": {
+    "parts": [
+      {
+        "text": "ab",
+        "role": "prefix",
+        "gloss": "away from"
+      },
+      {
+        "text": "ate",
+        "role": "root",
+        "gloss": "beat, hit",
+        "rootId": "bat"
+      }
+    ],
+    "literal": "beat away",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/abate"
+  },
+  "acme": {
+    "parts": [
+      {
+        "text": "acm",
+        "role": "root",
+        "gloss": "highest point",
+        "rootId": "acm"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "highest point",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/acme"
+  },
+  "acute": {
+    "parts": [
+      {
+        "text": "acu",
+        "role": "root",
+        "gloss": "sharp, pointed",
+        "rootId": "acu"
+      },
+      {
+        "text": "te",
+        "role": "suffix",
+        "gloss": "like"
+      }
+    ],
+    "literal": "sharp or pointed in quality",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/acute"
+  },
+  "affluent": {
+    "parts": [
+      {
+        "text": "af",
+        "role": "prefix",
+        "gloss": "towards"
+      },
+      {
+        "text": "flu",
+        "role": "root",
+        "gloss": "flow",
+        "rootId": "flu"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "flowing"
+      }
+    ],
+    "literal": "flowing towards",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/affluent"
+  },
+  "augment": {
+    "parts": [
+      {
+        "text": "aug",
+        "role": "root",
+        "gloss": "increase",
+        "rootId": "aug"
+      },
+      {
+        "text": "ment",
+        "role": "suffix",
+        "gloss": "means to"
+      }
+    ],
+    "literal": "means to increase",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/augment"
+  },
+  "comprehensive": {
+    "parts": [
+      {
+        "text": "com",
+        "role": "prefix",
+        "gloss": "with, together"
+      },
+      {
+        "text": "prehen",
+        "role": "root",
+        "gloss": "seize, grasp",
+        "rootId": "prehend"
+      },
+      {
+        "text": "sive",
+        "role": "suffix",
+        "gloss": "able to be"
+      }
+    ],
+    "literal": "able to be grasped together",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/comprehensive"
+  },
+  "curtail": {
+    "parts": [
+      {
+        "text": "curt",
+        "role": "root",
+        "gloss": "short",
+        "rootId": "curt"
+      },
+      {
+        "text": "ail",
+        "role": "suffix",
+        "gloss": "to make"
+      }
+    ],
+    "literal": "to make short",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/curtail"
+  },
+  "extravagant": {
+    "parts": [
+      {
+        "text": "extra",
+        "role": "prefix",
+        "gloss": "beyond, outside"
+      },
+      {
+        "text": "vag",
+        "role": "root",
+        "gloss": "wander, stray",
+        "rootId": "vag"
+      },
+      {
+        "text": "ant",
+        "role": "suffix",
+        "gloss": "one who"
+      }
+    ],
+    "literal": "one who wanders beyond",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/extravagant"
+  },
+  "fluctuate": {
+    "parts": [
+      {
+        "text": "fluctu",
+        "role": "root",
+        "gloss": "surge, swell",
+        "rootId": "fluctu"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "to act"
+      }
+    ],
+    "literal": "to surge or swell repeatedly",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/fluctuate"
+  },
+  "imperceptible": {
+    "parts": [
+      {
+        "text": "im",
+        "role": "prefix",
+        "gloss": "not"
+      },
+      {
+        "text": "percept",
+        "role": "root",
+        "gloss": "perceive",
+        "rootId": "cept"
+      },
+      {
+        "text": "ible",
+        "role": "suffix",
+        "gloss": "able to be"
+      }
+    ],
+    "literal": "unable to be perceived",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/imperceptible"
+  },
+  "heterogeneous": {
+    "parts": [
+      {
+        "text": "hetero",
+        "role": "prefix",
+        "gloss": "different",
+        "rootId": "heter"
+      },
+      {
+        "text": "gen",
+        "role": "root",
+        "gloss": "kind",
+        "rootId": "gen"
+      },
+      {
+        "text": "eous",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "of different kinds",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/heterogeneous"
+  },
+  "inordinate": {
+    "parts": [
+      {
+        "text": "in",
+        "role": "prefix",
+        "gloss": "not"
+      },
+      {
+        "text": "ordin",
+        "role": "root",
+        "gloss": "order",
+        "rootId": "ordin"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "like"
+      }
+    ],
+    "literal": "not ordered or arranged",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/inordinate"
+  },
+  "inundate": {
+    "parts": [
+      {
+        "text": "in",
+        "role": "prefix",
+        "gloss": "into, upon"
+      },
+      {
+        "text": "und",
+        "role": "root",
+        "gloss": "wave, overflow",
+        "rootId": "und"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "make"
+      }
+    ],
+    "literal": "to flood or overflow",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/inundate"
+  },
+  "potent": {
+    "parts": [
+      {
+        "text": "pot",
+        "role": "root",
+        "gloss": "powerful, able",
+        "rootId": "pot"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "like"
+      }
+    ],
+    "literal": "being powerful or able",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/potent"
+  },
+  "proximity": {
+    "parts": [
+      {
+        "text": "proxim",
+        "role": "root",
+        "gloss": "nearest",
+        "rootId": "proxim"
+      },
+      {
+        "text": "ity",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "nearness",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/proximity"
+  },
+  "saturate": {
+    "parts": [
+      {
+        "text": "satur",
+        "role": "root",
+        "gloss": "full",
+        "rootId": "satur"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "make"
+      }
+    ],
+    "literal": "make full",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/saturate"
+  },
+  "superfluous": {
+    "parts": [
+      {
+        "text": "super",
+        "role": "prefix",
+        "gloss": "above, over"
+      },
+      {
+        "text": "flu",
+        "role": "root",
+        "gloss": "flow",
+        "rootId": "flu"
+      },
+      {
+        "text": "ous",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "overflowing; more than enough",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/superfluous"
+  },
+  "sumptuous": {
+    "parts": [
+      {
+        "text": "sump",
+        "role": "root",
+        "gloss": "cost, expense",
+        "rootId": "sum"
+      },
+      {
+        "text": "tuous",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of cost or expense",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/sumptuous"
+  },
+  "connubial": {
+    "parts": [
+      {
+        "text": "con",
+        "role": "prefix",
+        "gloss": "together"
+      },
+      {
+        "text": "nub",
+        "role": "root",
+        "gloss": "marry, take as husband",
+        "rootId": "nub"
+      },
+      {
+        "text": "ial",
+        "role": "suffix",
+        "gloss": "relating to"
+      }
+    ],
+    "literal": "relating to marrying together",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/connubial"
+  },
+  "destitution": {
+    "parts": [
+      {
+        "text": "de",
+        "role": "prefix",
+        "gloss": "away from"
+      },
+      {
+        "text": "stit",
+        "role": "root",
+        "gloss": "stand, set up",
+        "rootId": "stat"
+      },
+      {
+        "text": "ution",
+        "role": "suffix",
+        "gloss": "act"
+      }
+    ],
+    "literal": "being set apart from resources",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/destitution"
+  },
+  "exacerbate": {
+    "parts": [
+      {
+        "text": "ex",
+        "role": "prefix",
+        "gloss": "out of"
+      },
+      {
+        "text": "acerb",
+        "role": "root",
+        "gloss": "bitter, harsh",
+        "rootId": "acerb"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "verb"
+      }
+    ],
+    "literal": "to make harsh or worse",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/exacerbate"
+  },
+  "ethics": {
+    "parts": [
+      {
+        "text": "eth",
+        "role": "root",
+        "gloss": "character, moral nature",
+        "rootId": "eth"
+      },
+      {
+        "text": "ics",
+        "role": "suffix",
+        "gloss": "study"
+      }
+    ],
+    "literal": "the study of character or moral nature",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/ethics"
+  },
+  "expatriate": {
+    "parts": [
+      {
+        "text": "ex",
+        "role": "prefix",
+        "gloss": "out of"
+      },
+      {
+        "text": "patri",
+        "role": "root",
+        "gloss": "native land",
+        "rootId": "patri"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "having been"
+      }
+    ],
+    "literal": "removed from one's native land",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/expatriate"
+  },
+  "genre": {
+    "parts": [
+      {
+        "text": "gen",
+        "role": "root",
+        "gloss": "kind, class",
+        "rootId": "gen"
+      },
+      {
+        "text": "re",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "kind, class noun",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/genre"
+  },
+  "genocide": {
+    "parts": [
+      {
+        "text": "geno",
+        "role": "root",
+        "gloss": "race, kind",
+        "rootId": "gen"
+      },
+      {
+        "text": "cide",
+        "role": "suffix",
+        "gloss": "killing"
+      }
+    ],
+    "literal": "race-killing",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/genocide"
+  },
+  "homogeneous": {
+    "parts": [
+      {
+        "text": "homo",
+        "role": "prefix",
+        "gloss": "same",
+        "rootId": "homo"
+      },
+      {
+        "text": "gen",
+        "role": "root",
+        "gloss": "kind",
+        "rootId": "gen"
+      },
+      {
+        "text": "eous",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "same kind",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/homogeneous"
+  },
+  "emissary": {
+    "parts": [
+      {
+        "text": "e",
+        "role": "prefix",
+        "gloss": "out from"
+      },
+      {
+        "text": "miss",
+        "role": "root",
+        "gloss": "send",
+        "rootId": "miss"
+      },
+      {
+        "text": "ary",
+        "role": "suffix",
+        "gloss": "person"
+      }
+    ],
+    "literal": "person sent out",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/emissary"
+  },
+  "milieu": {
+    "parts": [
+      {
+        "text": "mi",
+        "role": "prefix",
+        "gloss": "half"
+      },
+      {
+        "text": "lieu",
+        "role": "root",
+        "gloss": "place",
+        "rootId": "lieu"
+      }
+    ],
+    "literal": "middle place",
+    "drift": "Originally meant the middle place or central position; now refers to a surrounding social, cultural, or professional environment.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/milieu"
+  },
+  "nepotism": {
+    "parts": [
+      {
+        "text": "nepot",
+        "role": "root",
+        "gloss": "nephew",
+        "rootId": "nepot"
+      },
+      {
+        "text": "ism",
+        "role": "suffix",
+        "gloss": "practice"
+      }
+    ],
+    "literal": "nephew practice",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/nepotism"
+  },
+  "patriarch": {
+    "parts": [
+      {
+        "text": "patri",
+        "role": "root",
+        "gloss": "father, ancestry, family",
+        "rootId": "patri"
+      },
+      {
+        "text": "arch",
+        "role": "suffix",
+        "gloss": "ruler"
+      }
+    ],
+    "literal": "family ruler or founder",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/patriarch"
+  },
+  "pandemonium": {
+    "parts": [
+      {
+        "text": "pan",
+        "role": "prefix",
+        "gloss": "all",
+        "rootId": "pan"
+      },
+      {
+        "text": "demon",
+        "role": "root",
+        "gloss": "evil spirit",
+        "rootId": "demon"
+      },
+      {
+        "text": "ium",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "all evil spirits",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/pandemonium"
+  },
+  "precedent": {
+    "parts": [
+      {
+        "text": "pre",
+        "role": "prefix",
+        "gloss": "before"
+      },
+      {
+        "text": "ced",
+        "role": "root",
+        "gloss": "go, yield",
+        "rootId": "ced"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "one who"
+      }
+    ],
+    "literal": "going before, an earlier example",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/precedent"
+  },
+  "prevalent": {
+    "parts": [
+      {
+        "text": "pre",
+        "role": "prefix",
+        "gloss": "before"
+      },
+      {
+        "text": "val",
+        "role": "root",
+        "gloss": "be strong",
+        "rootId": "val"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "one who"
+      }
+    ],
+    "literal": "being strong beforehand",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/prevalent"
+  },
+  "prohibition": {
+    "parts": [
+      {
+        "text": "prohib",
+        "role": "root",
+        "gloss": "forbid",
+        "rootId": "prohib"
+      },
+      {
+        "text": "ition",
+        "role": "suffix",
+        "gloss": "act"
+      }
+    ],
+    "literal": "act of forbidding",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/prohibition"
+  },
+  "propinquity": {
+    "parts": [
+      {
+        "text": "propinqu",
+        "role": "root",
+        "gloss": "near, neighboring",
+        "rootId": "propinqu"
+      },
+      {
+        "text": "ity",
+        "role": "suffix",
+        "gloss": "state"
+      }
+    ],
+    "literal": "nearness or the state of being nearby",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/propinquity"
+  },
+  "salvation": {
+    "parts": [
+      {
+        "text": "salv",
+        "role": "root",
+        "gloss": "save, rescue",
+        "rootId": "salv"
+      },
+      {
+        "text": "ation",
+        "role": "suffix",
+        "gloss": "act"
+      }
+    ],
+    "literal": "saving or rescue",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/salvation"
+  },
+  "site": {
+    "parts": [
+      {
+        "text": "sit",
+        "role": "root",
+        "gloss": "position, place",
+        "rootId": "sit"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "noun of action"
+      }
+    ],
+    "literal": "a place; position",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/site"
+  },
+  "stringent": {
+    "parts": [
+      {
+        "text": "string",
+        "role": "root",
+        "gloss": "draw tight",
+        "rootId": "string"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of drawing tight",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/stringent"
+  },
+  "stigmatize": {
+    "parts": [
+      {
+        "text": "stigm",
+        "role": "root",
+        "gloss": "mark, brand",
+        "rootId": "stigm"
+      },
+      {
+        "text": "at",
+        "role": "suffix",
+        "gloss": "process of"
+      },
+      {
+        "text": "ize",
+        "role": "suffix",
+        "gloss": "to make"
+      }
+    ],
+    "literal": "to mark or brand",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/stigmatize"
+  },
+  "superstition": {
+    "parts": [
+      {
+        "text": "super",
+        "role": "prefix",
+        "gloss": "above, over"
+      },
+      {
+        "text": "stit",
+        "role": "root",
+        "gloss": "stand",
+        "rootId": "stat"
+      },
+      {
+        "text": "ion",
+        "role": "suffix",
+        "gloss": "nouns"
+      }
+    ],
+    "literal": "standing above or upon",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/superstition"
+  },
+  "technology": {
+    "parts": [
+      {
+        "text": "techno",
+        "role": "root",
+        "gloss": "art, craft",
+        "rootId": "techn"
+      },
+      {
+        "text": "logy",
+        "role": "suffix",
+        "gloss": "study of"
+      }
+    ],
+    "literal": "study of art or craft",
+    "drift": "Originally meant the systematic treatment of grammar; now means the practical application of scientific knowledge and methods.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/technology"
+  },
+  "utopia": {
+    "parts": [
+      {
+        "text": "u",
+        "role": "prefix",
+        "gloss": "not"
+      },
+      {
+        "text": "top",
+        "role": "root",
+        "gloss": "place",
+        "rootId": "top"
+      },
+      {
+        "text": "ia",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "not a place",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/utopia"
+  },
+  "venerate": {
+    "parts": [
+      {
+        "text": "vener",
+        "role": "root",
+        "gloss": "worship; hold in reverence",
+        "rootId": "vener"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "make"
+      }
+    ],
+    "literal": "to worship or hold in reverence",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/venerate"
+  },
+  "abjure": {
+    "parts": [
+      {
+        "text": "ab",
+        "role": "prefix",
+        "gloss": "away from"
+      },
+      {
+        "text": "jur",
+        "role": "root",
+        "gloss": "oath, right",
+        "rootId": "jur"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "verb ending"
+      }
+    ],
+    "literal": "swear away from",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/abjure"
+  },
+  "vigil": {
+    "parts": [
+      {
+        "text": "vig",
+        "role": "root",
+        "gloss": "awake, watchful",
+        "rootId": "vig"
+      },
+      {
+        "text": "il",
+        "role": "suffix",
+        "gloss": "noun of action"
+      }
+    ],
+    "literal": "awake watching",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/vigil"
+  },
+  "advocate": {
+    "parts": [
+      {
+        "text": "ad",
+        "role": "prefix",
+        "gloss": "toward"
+      },
+      {
+        "text": "voc",
+        "role": "root",
+        "gloss": "call",
+        "rootId": "voc"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "call to another; publicly support",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/advocate"
+  },
+  "aphoristic": {
+    "parts": [
+      {
+        "text": "aphor",
+        "role": "root",
+        "gloss": "statement, saying",
+        "rootId": "aphor"
+      },
+      {
+        "text": "istic",
+        "role": "suffix",
+        "gloss": "marked by"
+      }
+    ],
+    "literal": "characterized by a statement or saying",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/aphoristic"
+  },
+  "cogent": {
+    "parts": [
+      {
+        "text": "cog",
+        "role": "root",
+        "gloss": "drive together, compel",
+        "rootId": "cog"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "doing"
+      }
+    ],
+    "literal": "driving together, compelling",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/cogent"
+  },
+  "cacophony": {
+    "parts": [
+      {
+        "text": "caco",
+        "role": "prefix",
+        "gloss": "bad"
+      },
+      {
+        "text": "phon",
+        "role": "root",
+        "gloss": "sound",
+        "rootId": "phon"
+      },
+      {
+        "text": "y",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "bad sound",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/cacophony"
+  },
+  "compelling": {
+    "parts": [
+      {
+        "text": "com",
+        "role": "prefix",
+        "gloss": "with, together"
+      },
+      {
+        "text": "pel",
+        "role": "root",
+        "gloss": "drive, urge",
+        "rootId": "pel"
+      },
+      {
+        "text": "ling",
+        "role": "suffix",
+        "gloss": "-ing"
+      }
+    ],
+    "literal": "driving or urging strongly",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/compelling"
+  },
+  "denote": {
+    "parts": [
+      {
+        "text": "de",
+        "role": "prefix",
+        "gloss": "completely"
+      },
+      {
+        "text": "not",
+        "role": "root",
+        "gloss": "mark, sign",
+        "rootId": "not"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "verb ending"
+      }
+    ],
+    "literal": "mark out completely",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/denote"
+  },
+  "didactic": {
+    "parts": [
+      {
+        "text": "didact",
+        "role": "root",
+        "gloss": "teaching, instruction",
+        "rootId": "didact"
+      },
+      {
+        "text": "ic",
+        "role": "suffix",
+        "gloss": "relating to"
+      }
+    ],
+    "literal": "relating to teaching",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/didactic"
+  },
+  "disseminate": {
+    "parts": [
+      {
+        "text": "dis",
+        "role": "prefix",
+        "gloss": "in all directions"
+      },
+      {
+        "text": "semin",
+        "role": "root",
+        "gloss": "seed, sowing",
+        "rootId": "semin"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "to cause to"
+      }
+    ],
+    "literal": "to scatter seed in all directions",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/disseminate"
+  },
+  "divulge": {
+    "parts": [
+      {
+        "text": "di",
+        "role": "prefix",
+        "gloss": "widely"
+      },
+      {
+        "text": "vulg",
+        "role": "root",
+        "gloss": "make known",
+        "rootId": "vulg"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "verb"
+      }
+    ],
+    "literal": "make known widely",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/divulge"
+  },
+  "eloquent": {
+    "parts": [
+      {
+        "text": "e",
+        "role": "prefix",
+        "gloss": "out"
+      },
+      {
+        "text": "loqu",
+        "role": "root",
+        "gloss": "speak",
+        "rootId": "loqu"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "one who"
+      }
+    ],
+    "literal": "speaking out",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/eloquent"
+  },
+  "euphemism": {
+    "parts": [
+      {
+        "text": "eu",
+        "role": "prefix",
+        "gloss": "well",
+        "rootId": "eu"
+      },
+      {
+        "text": "phem",
+        "role": "root",
+        "gloss": "speak, say",
+        "rootId": "phem"
+      },
+      {
+        "text": "ism",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "a word or expression of good omen, avoiding harsh speech",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/euphemism"
+  },
+  "expurgate": {
+    "parts": [
+      {
+        "text": "ex",
+        "role": "prefix",
+        "gloss": "out"
+      },
+      {
+        "text": "purg",
+        "role": "root",
+        "gloss": "purge, cleanse",
+        "rootId": "purg"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "make"
+      }
+    ],
+    "literal": "purge out",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/expurgate"
+  },
+  "imperative": {
+    "parts": [
+      {
+        "text": "imper",
+        "role": "root",
+        "gloss": "command",
+        "rootId": "imper"
+      },
+      {
+        "text": "ative",
+        "role": "suffix",
+        "gloss": "like"
+      }
+    ],
+    "literal": "commanding; expressing an urgent command",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/imperative"
+  },
+  "implore": {
+    "parts": [
+      {
+        "text": "im",
+        "role": "prefix",
+        "gloss": "intensifying prefix"
+      },
+      {
+        "text": "plor",
+        "role": "root",
+        "gloss": "cry out, lament",
+        "rootId": "plor"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "verb"
+      }
+    ],
+    "literal": "cry out urgently, lament",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/implore"
+  },
+  "incisive": {
+    "parts": [
+      {
+        "text": "in",
+        "role": "prefix",
+        "gloss": "into"
+      },
+      {
+        "text": "cis",
+        "role": "root",
+        "gloss": "cut",
+        "rootId": "cis"
+      },
+      {
+        "text": "ive",
+        "role": "suffix",
+        "gloss": "like"
+      }
+    ],
+    "literal": "cutting into; penetrating",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/incisive"
+  },
+  "interject": {
+    "parts": [
+      {
+        "text": "inter",
+        "role": "prefix",
+        "gloss": "between"
+      },
+      {
+        "text": "ject",
+        "role": "root",
+        "gloss": "throw",
+        "rootId": "ject"
+      }
+    ],
+    "literal": "throw between",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/interject"
+  },
+  "interrogate": {
+    "parts": [
+      {
+        "text": "inter",
+        "role": "prefix",
+        "gloss": "between, among"
+      },
+      {
+        "text": "rog",
+        "role": "root",
+        "gloss": "ask, question",
+        "rootId": "rog"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "verb"
+      }
+    ],
+    "literal": "question closely and thoroughly",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/interrogate"
+  },
+  "invective": {
+    "parts": [
+      {
+        "text": "in",
+        "role": "prefix",
+        "gloss": "into, against"
+      },
+      {
+        "text": "vect",
+        "role": "root",
+        "gloss": "carry",
+        "rootId": "vect"
+      },
+      {
+        "text": "ive",
+        "role": "suffix",
+        "gloss": "noun of action"
+      }
+    ],
+    "literal": "abusive speech",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/invective"
+  },
+  "polemic": {
+    "parts": [
+      {
+        "text": "polem",
+        "role": "root",
+        "gloss": "war, strife",
+        "rootId": "polem"
+      },
+      {
+        "text": "ic",
+        "role": "suffix",
+        "gloss": "about"
+      }
+    ],
+    "literal": "of war or strife",
+    "drift": "Originally concerned with warfare or disputes; now chiefly means forceful argumentative criticism.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/polemic"
+  },
+  "rhetoric": {
+    "parts": [
+      {
+        "text": "rhetor",
+        "role": "root",
+        "gloss": "speaker",
+        "rootId": "rhetor"
+      },
+      {
+        "text": "ic",
+        "role": "suffix",
+        "gloss": "of"
+      }
+    ],
+    "literal": "of or relating to a speaker",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/rhetoric"
+  },
+  "scurrilous": {
+    "parts": [
+      {
+        "text": "scurril",
+        "role": "root",
+        "gloss": "buffoon-like",
+        "rootId": "scurril"
+      },
+      {
+        "text": "ous",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "buffoon-like in character",
+    "drift": "Once described buffoon-like or jocular behavior; now means vulgar and maliciously insulting.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/scurrilous"
+  },
+  "strident": {
+    "parts": [
+      {
+        "text": "strid",
+        "role": "root",
+        "gloss": "to make a harsh sound",
+        "rootId": "strid"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "one who"
+      }
+    ],
+    "literal": "making a harsh sound",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/strident"
+  },
+  "stentorian": {
+    "parts": [
+      {
+        "text": "stentor",
+        "role": "root",
+        "gloss": "loud-voiced herald",
+        "rootId": "sten"
+      },
+      {
+        "text": "ian",
+        "role": "suffix",
+        "gloss": "relating to"
+      }
+    ],
+    "literal": "relating to Stentor, the loud-voiced herald",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/stentorian"
+  },
+  "supplication": {
+    "parts": [
+      {
+        "text": "supplic",
+        "role": "root",
+        "gloss": "beg, entreat",
+        "rootId": "supplic"
+      },
+      {
+        "text": "ation",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "a begging or entreaty",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/supplication"
+  },
+  "tactful": {
+    "parts": [
+      {
+        "text": "tact",
+        "role": "root",
+        "gloss": "touch",
+        "rootId": "tang"
+      },
+      {
+        "text": "ful",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of touch",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/tactful"
+  },
+  "verbose": {
+    "parts": [
+      {
+        "text": "verb",
+        "role": "root",
+        "gloss": "word",
+        "rootId": "verb"
+      },
+      {
+        "text": "ose",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of words",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/verbose"
+  },
+  "verbatim": {
+    "parts": [
+      {
+        "text": "verb",
+        "role": "root",
+        "gloss": "word",
+        "rootId": "verb"
+      },
+      {
+        "text": "atim",
+        "role": "suffix",
+        "gloss": "word for word"
+      }
+    ],
+    "literal": "word for word",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/verbatim"
+  },
+  "analogous": {
+    "parts": [
+      {
+        "text": "analog",
+        "role": "root",
+        "gloss": "proportionate, corresponding",
+        "rootId": "analog"
+      },
+      {
+        "text": "ous",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "having a corresponding proportion or likeness",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/analogous"
+  },
+  "antithesis": {
+    "parts": [
+      {
+        "text": "anti",
+        "role": "prefix",
+        "gloss": "against, opposite"
+      },
+      {
+        "text": "thes",
+        "role": "root",
+        "gloss": "placing",
+        "rootId": "thes"
+      },
+      {
+        "text": "is",
+        "role": "suffix",
+        "gloss": "condition"
+      }
+    ],
+    "literal": "opposite placing",
+    "drift": "Originally referred to the arrangement of opposing words in rhetoric; now means an idea or approach that directly opposes another.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/antithesis"
+  },
+  "arbitrary": {
+    "parts": [
+      {
+        "text": "arbitr",
+        "role": "root",
+        "gloss": "judge, decision",
+        "rootId": "arbitr"
+      },
+      {
+        "text": "ary",
+        "role": "suffix",
+        "gloss": "about"
+      }
+    ],
+    "literal": "depending on a judge or personal decision",
+    "drift": "Once meaning determined by a judge; now often means based on whim, chance, or an unexplained rule.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/arbitrary"
+  },
+  "chimerical": {
+    "parts": [
+      {
+        "text": "chimer",
+        "role": "root",
+        "gloss": "fanciful imagined thing",
+        "rootId": "chimer"
+      },
+      {
+        "text": "ical",
+        "role": "suffix",
+        "gloss": "about"
+      }
+    ],
+    "literal": "pertaining to fanciful imagined things",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/chimerical"
+  },
+  "coherent": {
+    "parts": [
+      {
+        "text": "co",
+        "role": "prefix",
+        "gloss": "together with"
+      },
+      {
+        "text": "her",
+        "role": "root",
+        "gloss": "stick, adhere",
+        "rootId": "her"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "one who"
+      }
+    ],
+    "literal": "sticking together",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/coherent"
+  },
+  "compatible": {
+    "parts": [
+      {
+        "text": "com",
+        "role": "prefix",
+        "gloss": "together"
+      },
+      {
+        "text": "pat",
+        "role": "root",
+        "gloss": "suffer",
+        "rootId": "pat"
+      },
+      {
+        "text": "ible",
+        "role": "suffix",
+        "gloss": "able to be"
+      }
+    ],
+    "literal": "able to be suffered together",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/compatible"
+  },
+  "complex": {
+    "parts": [
+      {
+        "text": "com",
+        "role": "prefix",
+        "gloss": "together"
+      },
+      {
+        "text": "plex",
+        "role": "root",
+        "gloss": "weave, braid",
+        "rootId": "plect"
+      }
+    ],
+    "literal": "woven together",
+    "drift": "Once meant woven or intertwined; now commonly means intricate or difficult.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/complex"
+  },
+  "concomitant": {
+    "parts": [
+      {
+        "text": "con",
+        "role": "prefix",
+        "gloss": "together with"
+      },
+      {
+        "text": "comit",
+        "role": "root",
+        "gloss": "accompany",
+        "rootId": "comit"
+      },
+      {
+        "text": "ant",
+        "role": "suffix",
+        "gloss": "one who does"
+      }
+    ],
+    "literal": "accompanying together",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/concomitant"
+  },
+  "conducive": {
+    "parts": [
+      {
+        "text": "con",
+        "role": "prefix",
+        "gloss": "with, together"
+      },
+      {
+        "text": "duc",
+        "role": "root",
+        "gloss": "lead, guide",
+        "rootId": "duc"
+      },
+      {
+        "text": "ive",
+        "role": "suffix",
+        "gloss": "tending to"
+      }
+    ],
+    "literal": "leading toward or making likely",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/conducive"
+  },
+  "concur": {
+    "parts": [
+      {
+        "text": "con",
+        "role": "prefix",
+        "gloss": "with, together"
+      },
+      {
+        "text": "cur",
+        "role": "root",
+        "gloss": "run",
+        "rootId": "cur"
+      }
+    ],
+    "literal": "run together",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/concur"
+  },
+  "construe": {
+    "parts": [
+      {
+        "text": "con",
+        "role": "prefix",
+        "gloss": "with, together"
+      },
+      {
+        "text": "stru",
+        "role": "root",
+        "gloss": "pile together, build",
+        "rootId": "stru"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "verb ending"
+      }
+    ],
+    "literal": "build together by interpreting",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/construe"
+  },
+  "criterion": {
+    "parts": [
+      {
+        "text": "cri",
+        "role": "root",
+        "gloss": "judge",
+        "rootId": "crit"
+      },
+      {
+        "text": "ter",
+        "role": "suffix",
+        "gloss": "instrument"
+      },
+      {
+        "text": "ion",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "instrument or means for judging",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/criterion"
+  },
+  "decisive": {
+    "parts": [
+      {
+        "text": "deci",
+        "role": "root",
+        "gloss": "decision, separation",
+        "rootId": "cis"
+      },
+      {
+        "text": "sive",
+        "role": "suffix",
+        "gloss": "able to be"
+      }
+    ],
+    "literal": "able to be decided",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/decisive"
+  },
+  "eclectic": {
+    "parts": [
+      {
+        "text": "ec",
+        "role": "prefix",
+        "gloss": "out of"
+      },
+      {
+        "text": "lect",
+        "role": "root",
+        "gloss": "choose, pick",
+        "rootId": "leg"
+      },
+      {
+        "text": "ic",
+        "role": "suffix",
+        "gloss": "marked by"
+      }
+    ],
+    "literal": "choosing from various sources",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/eclectic"
+  },
+  "erudite": {
+    "parts": [
+      {
+        "text": "e",
+        "role": "prefix",
+        "gloss": "out of"
+      },
+      {
+        "text": "rud",
+        "role": "root",
+        "gloss": "rude, unskilled",
+        "rootId": "rud"
+      },
+      {
+        "text": "ite",
+        "role": "suffix",
+        "gloss": "having been"
+      }
+    ],
+    "literal": "educated out of rudeness",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/erudite"
+  },
+  "elaborate": {
+    "parts": [
+      {
+        "text": "e",
+        "role": "prefix",
+        "gloss": "out, forth, fully"
+      },
+      {
+        "text": "labor",
+        "role": "root",
+        "gloss": "work, toil, exertion",
+        "rootId": "labor"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "having been"
+      }
+    ],
+    "literal": "worked out with care",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/elaborate"
+  },
+  "evaluate": {
+    "parts": [
+      {
+        "text": "e",
+        "role": "prefix",
+        "gloss": "out of"
+      },
+      {
+        "text": "val",
+        "role": "root",
+        "gloss": "strength, worth",
+        "rootId": "val"
+      },
+      {
+        "text": "uate",
+        "role": "suffix",
+        "gloss": "causing"
+      }
+    ],
+    "literal": "bring out the strength or worth of",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/evaluate"
+  },
+  "facile": {
+    "parts": [
+      {
+        "text": "fac",
+        "role": "root",
+        "gloss": "do, make",
+        "rootId": "fac"
+      },
+      {
+        "text": "ile",
+        "role": "suffix",
+        "gloss": "able to be"
+      }
+    ],
+    "literal": "able to be done or made",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/facile"
+  },
+  "imbibe": {
+    "parts": [
+      {
+        "text": "im",
+        "role": "prefix",
+        "gloss": "into, in"
+      },
+      {
+        "text": "bib",
+        "role": "root",
+        "gloss": "drink",
+        "rootId": "bib"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "intransitive verb"
+      }
+    ],
+    "literal": "drink into",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/imbibe"
+  },
+  "grandiose": {
+    "parts": [
+      {
+        "text": "grand",
+        "role": "root",
+        "gloss": "great, large",
+        "rootId": "grand"
+      },
+      {
+        "text": "i",
+        "role": "suffix",
+        "gloss": "marked"
+      },
+      {
+        "text": "ose",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "marked or characterized by greatness",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/grandiose"
+  },
+  "imprudent": {
+    "parts": [
+      {
+        "text": "im",
+        "role": "prefix",
+        "gloss": "not"
+      },
+      {
+        "text": "prudent",
+        "role": "root",
+        "gloss": "foreseeing, judicious",
+        "rootId": "prud"
+      }
+    ],
+    "literal": "not foreseeing; lacking judgment",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/imprudent"
+  },
+  "incongruous": {
+    "parts": [
+      {
+        "text": "in",
+        "role": "prefix",
+        "gloss": "not"
+      },
+      {
+        "text": "congru",
+        "role": "root",
+        "gloss": "fit together",
+        "rootId": "gru"
+      },
+      {
+        "text": "ous",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "not fitting together",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/incongruous"
+  },
+  "indiscriminate": {
+    "parts": [
+      {
+        "text": "in",
+        "role": "prefix",
+        "gloss": "not"
+      },
+      {
+        "text": "discrimin",
+        "role": "root",
+        "gloss": "distinguish",
+        "rootId": "crimin"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "like"
+      }
+    ],
+    "literal": "not distinguishing",
+    "drift": "Once meant not divided or separated; now means lacking careful distinctions.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/indiscriminate"
+  },
+  "ingenious": {
+    "parts": [
+      {
+        "text": "in",
+        "role": "prefix",
+        "gloss": "in"
+      },
+      {
+        "text": "gen",
+        "role": "root",
+        "gloss": "born; produced",
+        "rootId": "gen"
+      },
+      {
+        "text": "ious",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of productive or natural capacity",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/ingenious"
+  },
+  "integral": {
+    "parts": [
+      {
+        "text": "integr",
+        "role": "root",
+        "gloss": "whole, entire",
+        "rootId": "integr"
+      },
+      {
+        "text": "al",
+        "role": "suffix",
+        "gloss": "about"
+      }
+    ],
+    "literal": "pertaining to being whole",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/integral"
+  },
+  "leisurely": {
+    "parts": [
+      {
+        "text": "leisure",
+        "role": "root",
+        "gloss": "free time; ease",
+        "rootId": "leis"
+      },
+      {
+        "text": "ly",
+        "role": "suffix",
+        "gloss": "in a"
+      }
+    ],
+    "literal": "in a relaxed, unhurried manner",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/leisurely"
+  },
+  "lucid": {
+    "parts": [
+      {
+        "text": "luc",
+        "role": "root",
+        "gloss": "shine, light",
+        "rootId": "luc"
+      },
+      {
+        "text": "id",
+        "role": "suffix",
+        "gloss": "marked by"
+      }
+    ],
+    "literal": "characterized by light or clarity",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/lucid"
+  },
+  "nominal": {
+    "parts": [
+      {
+        "text": "nomin",
+        "role": "root",
+        "gloss": "name",
+        "rootId": "nomin"
+      },
+      {
+        "text": "al",
+        "role": "suffix",
+        "gloss": "about"
+      }
+    ],
+    "literal": "relating to names",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/nominal"
+  },
+  "obviate": {
+    "parts": [
+      {
+        "text": "obvi",
+        "role": "root",
+        "gloss": "block, hinder",
+        "rootId": "obvi"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "cause to be"
+      }
+    ],
+    "literal": "cause to be blocked or removed",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/obviate"
+  },
+  "perceive": {
+    "parts": [
+      {
+        "text": "per",
+        "role": "prefix",
+        "gloss": "through"
+      },
+      {
+        "text": "ceiv",
+        "role": "root",
+        "gloss": "take, seize",
+        "rootId": "cap"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "verb ending"
+      }
+    ],
+    "literal": "taking or receiving through",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/perceive"
+  },
+  "preclude": {
+    "parts": [
+      {
+        "text": "pre",
+        "role": "prefix",
+        "gloss": "before"
+      },
+      {
+        "text": "clud",
+        "role": "root",
+        "gloss": "close",
+        "rootId": "clud"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "cause to"
+      }
+    ],
+    "literal": "close beforehand",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/preclude"
+  },
+  "prescient": {
+    "parts": [
+      {
+        "text": "pre",
+        "role": "prefix",
+        "gloss": "before, in front"
+      },
+      {
+        "text": "sci",
+        "role": "root",
+        "gloss": "know, understand",
+        "rootId": "sci"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "one who does"
+      }
+    ],
+    "literal": "knowing beforehand",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/prescient"
+  },
+  "prognosticate": {
+    "parts": [
+      {
+        "text": "pro",
+        "role": "prefix",
+        "gloss": "before"
+      },
+      {
+        "text": "gnostic",
+        "role": "root",
+        "gloss": "knowing, perceiving",
+        "rootId": "gnostic"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "to act"
+      }
+    ],
+    "literal": "to perceive beforehand, hence predict",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/prognosticate"
+  },
+  "rationalize": {
+    "parts": [
+      {
+        "text": "ration",
+        "role": "root",
+        "gloss": "reason",
+        "rootId": "ration"
+      },
+      {
+        "text": "al",
+        "role": "suffix",
+        "gloss": "about"
+      },
+      {
+        "text": "ize",
+        "role": "suffix",
+        "gloss": "make"
+      }
+    ],
+    "literal": "reasoning; making rational",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/rationalize"
+  },
+  "rudimentary": {
+    "parts": [
+      {
+        "text": "rudiment",
+        "role": "root",
+        "gloss": "first attempt; beginning",
+        "rootId": "rud"
+      },
+      {
+        "text": "ary",
+        "role": "suffix",
+        "gloss": "relating to"
+      }
+    ],
+    "literal": "relating to a beginning or first attempt",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/rudimentary"
+  },
+  "ruminate": {
+    "parts": [
+      {
+        "text": "rumin",
+        "role": "root",
+        "gloss": "chew the cud",
+        "rootId": "rumin"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "like"
+      }
+    ],
+    "literal": "turning over repeatedly in the mind",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/ruminate"
+  },
+  "sagacious": {
+    "parts": [
+      {
+        "text": "sag",
+        "role": "root",
+        "gloss": "keen perception",
+        "rootId": "sag"
+      },
+      {
+        "text": "acious",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of keen perception",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/sagacious"
+  },
+  "salient": {
+    "parts": [
+      {
+        "text": "sali",
+        "role": "root",
+        "gloss": "leap, spring",
+        "rootId": "sal"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "one who"
+      }
+    ],
+    "literal": "leaping or projecting outward",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/salient"
+  },
+  "tolerate": {
+    "parts": [
+      {
+        "text": "toler",
+        "role": "root",
+        "gloss": "endure, bear",
+        "rootId": "toler"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "to act"
+      }
+    ],
+    "literal": "to endure or bear",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/tolerate"
+  },
+  "ultimate": {
+    "parts": [
+      {
+        "text": "ultim",
+        "role": "root",
+        "gloss": "last, final",
+        "rootId": "ultim"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "like"
+      }
+    ],
+    "literal": "being last or final",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/ultimate"
+  },
+  "volition": {
+    "parts": [
+      {
+        "text": "vol",
+        "role": "root",
+        "gloss": "wish, will",
+        "rootId": "vol"
+      },
+      {
+        "text": "ition",
+        "role": "suffix",
+        "gloss": "action"
+      }
+    ],
+    "literal": "willing; the act of wishing or intending",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/volition"
+  },
+  "vacillate": {
+    "parts": [
+      {
+        "text": "vacill",
+        "role": "root",
+        "gloss": "sway, waver",
+        "rootId": "vacill"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "to act"
+      }
+    ],
+    "literal": "to sway or waver",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/vacillate"
+  },
+  "allude": {
+    "parts": [
+      {
+        "text": "al",
+        "role": "prefix",
+        "gloss": "to, toward"
+      },
+      {
+        "text": "lud",
+        "role": "root",
+        "gloss": "play",
+        "rootId": "lud"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "verb"
+      }
+    ],
+    "literal": "play toward or to",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/allude"
+  },
+  "corroborate": {
+    "parts": [
+      {
+        "text": "cor",
+        "role": "prefix",
+        "gloss": "together"
+      },
+      {
+        "text": "robor",
+        "role": "root",
+        "gloss": "strength",
+        "rootId": "robor"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "to act"
+      }
+    ],
+    "literal": "to strengthen together, support jointly",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/corroborate"
+  },
+  "cryptic": {
+    "parts": [
+      {
+        "text": "cryp",
+        "role": "root",
+        "gloss": "hidden",
+        "rootId": "crypt"
+      },
+      {
+        "text": "tic",
+        "role": "suffix",
+        "gloss": "relating to"
+      }
+    ],
+    "literal": "relating to something hidden",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/cryptic"
+  },
+  "culpable": {
+    "parts": [
+      {
+        "text": "culp",
+        "role": "root",
+        "gloss": "blame; fault",
+        "rootId": "culp"
+      },
+      {
+        "text": "able",
+        "role": "suffix",
+        "gloss": "able to be"
+      }
+    ],
+    "literal": "blameworthy; able to be blamed",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/culpable"
+  },
+  "defamatory": {
+    "parts": [
+      {
+        "text": "de",
+        "role": "prefix",
+        "gloss": "removal, reversal"
+      },
+      {
+        "text": "fam",
+        "role": "root",
+        "gloss": "reputation, name",
+        "rootId": "fam"
+      },
+      {
+        "text": "atory",
+        "role": "suffix",
+        "gloss": "like"
+      }
+    ],
+    "literal": "damaging reputation",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/defamatory"
+  },
+  "delude": {
+    "parts": [
+      {
+        "text": "de",
+        "role": "prefix",
+        "gloss": "down, away"
+      },
+      {
+        "text": "lud",
+        "role": "root",
+        "gloss": "make sport of, mock",
+        "rootId": "lud"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "verb ending"
+      }
+    ],
+    "literal": "mock or deceive by playing someone false",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/delude"
+  },
+  "duplicity": {
+    "parts": [
+      {
+        "text": "dupl",
+        "role": "root",
+        "gloss": "double, twofold",
+        "rootId": "dupl"
+      },
+      {
+        "text": "icity",
+        "role": "suffix",
+        "gloss": "state"
+      }
+    ],
+    "literal": "the state or condition of being double or twofold",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/duplicity"
+  },
+  "embellish": {
+    "parts": [
+      {
+        "text": "em",
+        "role": "prefix",
+        "gloss": "into"
+      },
+      {
+        "text": "bel",
+        "role": "root",
+        "gloss": "beautiful",
+        "rootId": "bel"
+      },
+      {
+        "text": "lish",
+        "role": "suffix",
+        "gloss": "to make"
+      }
+    ],
+    "literal": "make more beautiful or attractive",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/embellish"
+  },
+  "exonerate": {
+    "parts": [
+      {
+        "text": "ex",
+        "role": "prefix",
+        "gloss": "out of"
+      },
+      {
+        "text": "oner",
+        "role": "root",
+        "gloss": "burden, load",
+        "rootId": "oner"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "to act"
+      }
+    ],
+    "literal": "to take a burden out",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/exonerate"
+  },
+  "expunge": {
+    "parts": [
+      {
+        "text": "ex",
+        "role": "prefix",
+        "gloss": "out of"
+      },
+      {
+        "text": "pung",
+        "role": "root",
+        "gloss": "prick, puncture",
+        "rootId": "pung"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "verb ending"
+      }
+    ],
+    "literal": "prick out; remove completely",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/expunge"
+  },
+  "evince": {
+    "parts": [
+      {
+        "text": "e",
+        "role": "prefix",
+        "gloss": "intensive prefix"
+      },
+      {
+        "text": "vinc",
+        "role": "root",
+        "gloss": "conquer",
+        "rootId": "vinc"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "verb infinitive"
+      }
+    ],
+    "literal": "conquer completely; prevail over or prove exhaustively",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/evince"
+  },
+  "factitious": {
+    "parts": [
+      {
+        "text": "fact",
+        "role": "root",
+        "gloss": "make, do",
+        "rootId": "fact"
+      },
+      {
+        "text": "itious",
+        "role": "suffix",
+        "gloss": "made"
+      }
+    ],
+    "literal": "artificially made",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/factitious"
+  },
+  "furtive": {
+    "parts": [
+      {
+        "text": "furt",
+        "role": "root",
+        "gloss": "theft; robbery",
+        "rootId": "furt"
+      },
+      {
+        "text": "ive",
+        "role": "suffix",
+        "gloss": "marked by"
+      }
+    ],
+    "literal": "characterized by theft or secrecy",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/furtive"
+  },
+  "insidious": {
+    "parts": [
+      {
+        "text": "in",
+        "role": "prefix",
+        "gloss": "in or upon"
+      },
+      {
+        "text": "sid",
+        "role": "root",
+        "gloss": "sit",
+        "rootId": "sed"
+      },
+      {
+        "text": "ious",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "sitting in wait, artful or deceitful",
+    "drift": "Originally meant cunning or deceitful; now emphasizes harm that develops gradually and remains hidden.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/insidious"
+  },
+  "plausible": {
+    "parts": [
+      {
+        "text": "plaus",
+        "role": "root",
+        "gloss": "applaud, praise",
+        "rootId": "plaus"
+      },
+      {
+        "text": "ible",
+        "role": "suffix",
+        "gloss": "able to be"
+      }
+    ],
+    "literal": "able to be applauded or accepted",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/plausible"
+  },
+  "prevaricate": {
+    "parts": [
+      {
+        "text": "pre",
+        "role": "prefix",
+        "gloss": "before"
+      },
+      {
+        "text": "varic",
+        "role": "root",
+        "gloss": "straddle, stand feet apart",
+        "rootId": "varic"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "verb"
+      }
+    ],
+    "literal": "to walk crookedly or play a false part",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/prevaricate"
+  },
+  "sophistry": {
+    "parts": [
+      {
+        "text": "sophist",
+        "role": "root",
+        "gloss": "wise one",
+        "rootId": "soph"
+      },
+      {
+        "text": "ry",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "the craft of a clever talker",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/sophistry"
+  },
+  "substantiate": {
+    "parts": [
+      {
+        "text": "sub",
+        "role": "prefix",
+        "gloss": "under"
+      },
+      {
+        "text": "stant",
+        "role": "root",
+        "gloss": "stand",
+        "rootId": "stat"
+      },
+      {
+        "text": "iate",
+        "role": "suffix",
+        "gloss": "make"
+      }
+    ],
+    "literal": "make stand under",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/substantiate"
+  },
+  "subterfuge": {
+    "parts": [
+      {
+        "text": "subter",
+        "role": "prefix",
+        "gloss": "under"
+      },
+      {
+        "text": "fug",
+        "role": "root",
+        "gloss": "flee",
+        "rootId": "fug"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "flying or fleeing under",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/subterfuge"
+  },
+  "refute": {
+    "parts": [
+      {
+        "text": "re",
+        "role": "prefix",
+        "gloss": "back, again"
+      },
+      {
+        "text": "fute",
+        "role": "root",
+        "gloss": "repel, reject",
+        "rootId": "fut"
+      }
+    ],
+    "literal": "drive back again",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/refute"
+  },
+  "tenable": {
+    "parts": [
+      {
+        "text": "ten",
+        "role": "root",
+        "gloss": "hold",
+        "rootId": "ten"
+      },
+      {
+        "text": "able",
+        "role": "suffix",
+        "gloss": "able to be"
+      }
+    ],
+    "literal": "able to be held",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/tenable"
+  },
+  "transparent": {
+    "parts": [
+      {
+        "text": "trans",
+        "role": "prefix",
+        "gloss": "across, through"
+      },
+      {
+        "text": "par",
+        "role": "root",
+        "gloss": "appear, be visible",
+        "rootId": "par"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "one who"
+      }
+    ],
+    "literal": "appearing through or across",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/transparent"
+  },
+  "vindicate": {
+    "parts": [
+      {
+        "text": "vind",
+        "role": "root",
+        "gloss": "force, power",
+        "rootId": "vind"
+      },
+      {
+        "text": "icate",
+        "role": "suffix",
+        "gloss": "make"
+      }
+    ],
+    "literal": "declare by force or power",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/vindicate"
+  },
+  "accountable": {
+    "parts": [
+      {
+        "text": "account",
+        "role": "root",
+        "gloss": "tell; count",
+        "rootId": "count"
+      },
+      {
+        "text": "able",
+        "role": "suffix",
+        "gloss": "able to be"
+      }
+    ],
+    "literal": "able to be held responsible",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/accountable"
+  },
+  "assiduous": {
+    "parts": [
+      {
+        "text": "as",
+        "role": "prefix",
+        "gloss": "toward"
+      },
+      {
+        "text": "sid",
+        "role": "root",
+        "gloss": "sit",
+        "rootId": "sed"
+      },
+      {
+        "text": "uous",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "sitting diligently to a task",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/assiduous"
+  },
+  "component": {
+    "parts": [
+      {
+        "text": "com",
+        "role": "prefix",
+        "gloss": "with, together"
+      },
+      {
+        "text": "pon",
+        "role": "root",
+        "gloss": "put, place",
+        "rootId": "pon"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "one who"
+      }
+    ],
+    "literal": "that which is put together",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/component"
+  },
+  "diligent": {
+    "parts": [
+      {
+        "text": "di",
+        "role": "prefix",
+        "gloss": "apart"
+      },
+      {
+        "text": "lig",
+        "role": "root",
+        "gloss": "choose, select",
+        "rootId": "leg"
+      },
+      {
+        "text": "ent",
+        "role": "suffix",
+        "gloss": "one who"
+      }
+    ],
+    "literal": "choosing apart",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/diligent"
+  },
+  "industrious": {
+    "parts": [
+      {
+        "text": "industr",
+        "role": "root",
+        "gloss": "diligent activity",
+        "rootId": "industr"
+      },
+      {
+        "text": "ious",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "full of diligent activity",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/industrious"
+  },
+  "liquidation": {
+    "parts": [
+      {
+        "text": "liquid",
+        "role": "root",
+        "gloss": "fluid, clear",
+        "rootId": "liquid"
+      },
+      {
+        "text": "ation",
+        "role": "suffix",
+        "gloss": "action"
+      }
+    ],
+    "literal": "making liquid; the process of turning into a liquid",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/liquidation"
+  },
+  "lucrative": {
+    "parts": [
+      {
+        "text": "lucr",
+        "role": "root",
+        "gloss": "gain, profit",
+        "rootId": "lucr"
+      },
+      {
+        "text": "ative",
+        "role": "suffix",
+        "gloss": "full of"
+      }
+    ],
+    "literal": "producing gain or profit",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/lucrative"
+  },
+  "pecuniary": {
+    "parts": [
+      {
+        "text": "pecuni",
+        "role": "root",
+        "gloss": "money",
+        "rootId": "pecun"
+      },
+      {
+        "text": "ary",
+        "role": "suffix",
+        "gloss": "relating to"
+      }
+    ],
+    "literal": "relating to money",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/pecuniary"
+  },
+  "neophyte": {
+    "parts": [
+      {
+        "text": "neo",
+        "role": "prefix",
+        "gloss": "new",
+        "rootId": "neo"
+      },
+      {
+        "text": "phyt",
+        "role": "root",
+        "gloss": "plant, child",
+        "rootId": "phyt"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "one who"
+      }
+    ],
+    "literal": "newly planted newcomer",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/neophyte"
+  },
+  "prolific": {
+    "parts": [
+      {
+        "text": "prol",
+        "role": "root",
+        "gloss": "offspring",
+        "rootId": "prol"
+      },
+      {
+        "text": "ific",
+        "role": "suffix",
+        "gloss": "making"
+      }
+    ],
+    "literal": "producing offspring",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/prolific"
+  },
+  "remote": {
+    "parts": [
+      {
+        "text": "re",
+        "role": "prefix",
+        "gloss": "back, again"
+      },
+      {
+        "text": "mot",
+        "role": "root",
+        "gloss": "move",
+        "rootId": "mot"
+      },
+      {
+        "text": "e",
+        "role": "suffix",
+        "gloss": "marked by"
+      }
+    ],
+    "literal": "moving back",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/remote"
+  },
+  "remuneration": {
+    "parts": [
+      {
+        "text": "re",
+        "role": "prefix",
+        "gloss": "back"
+      },
+      {
+        "text": "mun",
+        "role": "root",
+        "gloss": "payment",
+        "rootId": "mun"
+      },
+      {
+        "text": "eration",
+        "role": "suffix",
+        "gloss": "process of"
+      }
+    ],
+    "literal": "payment given back",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/remuneration"
+  },
+  "stipulate": {
+    "parts": [
+      {
+        "text": "stipul",
+        "role": "root",
+        "gloss": "demand a formal promise",
+        "rootId": "stipul"
+      },
+      {
+        "text": "ate",
+        "role": "suffix",
+        "gloss": "to act"
+      }
+    ],
+    "literal": "to state as a required condition or formal promise",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/stipulate"
+  },
+  "requisite": {
+    "parts": [
+      {
+        "text": "re",
+        "role": "prefix",
+        "gloss": "again, back"
+      },
+      {
+        "text": "qui",
+        "role": "root",
+        "gloss": "seek, ask for",
+        "rootId": "quir"
+      },
+      {
+        "text": "site",
+        "role": "suffix",
+        "gloss": "noun"
+      }
+    ],
+    "literal": "a thing needed; necessary because of the situation or purpose.",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/requisite"
+  },
+  "underwrite": {
+    "parts": [
+      {
+        "text": "under",
+        "role": "prefix",
+        "gloss": "beneath"
+      },
+      {
+        "text": "write",
+        "role": "root",
+        "gloss": "write",
+        "rootId": "script"
+      }
+    ],
+    "literal": "write under",
+    "confidence": "recorded",
+    "source": "https://en.wiktionary.org/wiki/underwrite"
+  }
+}

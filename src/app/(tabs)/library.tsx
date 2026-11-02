@@ -2,6 +2,7 @@ import { useFocusEffect, useRouter } from 'expo-router';
 import { useCallback, useMemo, useState } from 'react';
 import { Platform, StyleSheet, View } from 'react-native';
 import Animated, { FadeInDown, LinearTransition, useAnimatedStyle, withSpring } from 'react-native-reanimated';
+import { RootFamilyList } from '../../components/RootFamilyList';
 import { ScreenHeader, useScrollY } from '../../components/ScreenHeader';
 import { Icon, PressScale, Txt } from '../../components/ui';
 import { cardsById, decks } from '../../data';
@@ -13,11 +14,12 @@ import type { CardKind } from '../../lib/types';
 import { VOICES, type VoiceId } from '../../lib/voices';
 import { colors, kindStyle, radius, springs } from '../../theme';
 
-const FILTERS: { key: 'all' | CardKind; label: string }[] = [
+const FILTERS: { key: 'all' | CardKind | 'roots'; label: string }[] = [
   { key: 'all', label: 'All' },
   { key: 'word', label: 'Words' },
   { key: 'idiom', label: 'Idioms' },
   { key: 'phrase', label: 'Phrases' },
+  { key: 'roots', label: 'Roots' },
 ];
 
 function OfflineAudioButton({ deckId, cardIds }: { deckId: string; cardIds: string[] }) {
@@ -116,6 +118,7 @@ export default function Library() {
   };
 
   const filterKey = FILTERS[filter].key;
+  const isRoots = filterKey === 'roots';
 
   return (
     <View style={styles.screen}>
@@ -134,7 +137,7 @@ export default function Library() {
               accessibilityRole="tab"
               accessibilityState={{ selected: filter === i }}
             >
-              <Txt weight="medium" size={14} color={filter === i ? colors.ink : colors.textSoft}>
+              <Txt weight="medium" size={13.5} color={filter === i ? colors.ink : colors.textSoft} numberOfLines={1}>
                 {f.label}
               </Txt>
             </PressScale>
@@ -143,6 +146,10 @@ export default function Library() {
       </ScreenHeader>
 
       <Animated.ScrollView style={styles.screen} contentContainerStyle={{ paddingTop: 12, paddingBottom: 28 }} onScroll={onScroll} scrollEventThrottle={16}>
+        {isRoots && <RootFamilyList />}
+
+        {!isRoots && (
+          <>
         <PressScale style={[styles.mix, scope === filterKey && styles.mixActive]} scaleTo={0.98} onPress={() => study(filterKey)} accessibilityRole="button">
           <View style={styles.mixIcon}>
             <Icon name="shuffle" size={18} color={colors.ink} />
@@ -248,6 +255,8 @@ export default function Library() {
             );
           })}
         </View>
+          </>
+        )}
 
         {saved.length > 0 && (
           <>

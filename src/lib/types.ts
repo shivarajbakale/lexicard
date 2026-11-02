@@ -56,6 +56,46 @@ export interface Card {
   pitfall?: string;
 }
 
+// Root analysis for words (src/data/breakdowns.json, keyed by card id, and src/data/roots.json).
+// Kept out of the deck files so the content pipeline can regenerate decks without losing them.
+
+export type PartRole = 'prefix' | 'root' | 'suffix';
+
+export interface Part {
+  /** Exact slice of the term. All parts joined, in order, spell the term. */
+  text: string;
+  role: PartRole;
+  /** Short meaning of this part, e.g. "badly", "wish", "-ing" */
+  gloss: string;
+  /** Set when this part belongs to a root family in roots.json */
+  rootId?: string;
+}
+
+export interface Breakdown {
+  parts: Part[];
+  /** What the parts add up to, e.g. "wishing badly" */
+  literal: string;
+  /** Set when today's meaning has moved away from the literal one */
+  drift?: string;
+  confidence: Confidence;
+  /** Where the split was checked, e.g. a Wiktionary page */
+  source: string;
+}
+
+export interface Root {
+  id: string;
+  /** Spellings the root takes inside words, e.g. ["vert", "vers"] */
+  forms: string[];
+  meaning: string;
+  language: string;
+  /** The source word, e.g. "vertere" */
+  etymon: string;
+  /** Common English words with this root that are not cards */
+  elsewhere: string[];
+  /** Words that look like they share the root but don't */
+  lookalikes?: { term: string; note: string }[];
+}
+
 export interface Deck {
   id: string;
   kind: CardKind;

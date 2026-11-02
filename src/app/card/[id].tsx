@@ -14,10 +14,11 @@ import Animated, {
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { scheduleOnRN } from 'react-native-worklets';
 
+import { BuiltFrom, SameRoot } from '../../components/RootParts';
 import { SpeakerButton, SpeakerGlyph } from '../../components/Speaker';
 import { SETTING_ICON, SETTING_LABEL, UsedItSheet } from '../../components/UsedItSheet';
 import { Highlighted, Icon, PressScale, Txt } from '../../components/ui';
-import { allCards, cardsById, deckOfCard } from '../../data';
+import { allCards, breakdowns, cardsById, cardsOfRoot, deckOfCard } from '../../data';
 import { playClip } from '../../lib/audio';
 import { levelState } from '../../lib/levels';
 import { isDue, MAX_BOX, relativeDue } from '../../lib/srs';
@@ -307,7 +308,8 @@ export default function CardDetail() {
   const usedSettings = new Set((used ?? []).map((u) => u.setting));
   const allUsed = usedSettings.size >= 3;
   const slideStyle = (i: number) => [styles.slide, { backgroundColor: SLIDES[i].bg }];
-  const hasMore = !!card.forms?.length || !!card.similar?.length || !!card.opposite || !!card.pitfall;
+  const sameRoot = !!breakdowns[card.id]?.parts.some((p) => p.rootId && cardsOfRoot[p.rootId].length >= 2);
+  const hasMore = sameRoot || !!card.forms?.length || !!card.similar?.length || !!card.opposite || !!card.pitfall;
 
   return (
     <View style={styles.screen}>
@@ -515,6 +517,7 @@ export default function CardDetail() {
                   </Txt>
                 </View>
               </View>
+              <BuiltFrom card={card} phone={phone} />
               <Txt weight="medium" size={phone ? 15.5 : 17} color={colors.ink} style={{ lineHeight: phone ? 23 : 25 }}>
                 {card.origin.summary}
               </Txt>
@@ -545,7 +548,7 @@ export default function CardDetail() {
                   );
                 })}
               </View>
-              <NextHint label={hasMore ? 'close, but not the same' : 'next card'} color={SLIDES[2].sub} />
+              <NextHint label={sameRoot ? 'same root, close words' : hasMore ? 'close, but not the same' : 'next card'} color={SLIDES[2].sub} />
             </Page>
 
             {/* 4 · More, then on to the next card */}
@@ -570,8 +573,10 @@ export default function CardDetail() {
                 </View>
               )}
 
+              <SameRoot card={card} phone={phone} />
+
               {(!!card.similar?.length || !!card.opposite) && (
-                <View style={{ gap: 10, marginTop: card.forms?.length ? 8 : 0 }}>
+                <View style={{ gap: 10, marginTop: card.forms?.length || sameRoot ? 8 : 0 }}>
                   <Txt weight="semibold" size={phone ? 20 : 22} style={{ letterSpacing: -0.4 }} accessibilityRole="header">
                     Close, but not the same
                   </Txt>
