@@ -16,6 +16,20 @@ export function RootFamilyList() {
 
   return (
     <>
+      <PressScale style={styles.guess} scaleTo={0.98} onPress={() => router.push('/guess')} accessibilityRole="button">
+        <View style={styles.guessIcon}>
+          <Icon name="help-circle" size={18} color={colors.ink} />
+        </View>
+        <View style={{ flex: 1, gap: 2 }}>
+          <Txt weight="semibold" size={15}>
+            Guess from roots
+          </Txt>
+          <Txt size={13} color={colors.textMuted} numberOfLines={1}>
+            Work out new words from parts you know
+          </Txt>
+        </View>
+        <Icon name="arrow-right" size={18} color={colors.textMuted} />
+      </PressScale>
       <View style={styles.listHead}>
         <Txt weight="semibold" size={17}>
           Root families
@@ -103,7 +117,19 @@ export function RootFamilyList() {
 }
 
 const styles = StyleSheet.create({
-  listHead: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'baseline', paddingHorizontal: 20, paddingTop: 10, paddingBottom: 10 },
+  guess: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 14,
+    marginHorizontal: 16,
+    padding: 14,
+    borderRadius: 20,
+    backgroundColor: colors.surface,
+    borderWidth: 1,
+    borderColor: colors.border,
+  },
+  guessIcon: { width: 40, height: 40, borderRadius: 12, backgroundColor: colors.lime, alignItems: 'center', justifyContent: 'center' },
+  listHead: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'baseline', paddingHorizontal: 20, paddingTop: 22, paddingBottom: 10 },
   card: { padding: 16, borderRadius: 20, backgroundColor: colors.surface, borderWidth: 1, borderColor: colors.border, gap: 10 },
   head: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'baseline', gap: 10 },
   caps: { letterSpacing: 1, textTransform: 'uppercase' },

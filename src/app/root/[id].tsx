@@ -145,6 +145,16 @@ export default function RootPage() {
           </View>
         ))}
 
+        <PressScale
+          style={styles.guessBtn}
+          scaleTo={0.97}
+          onPress={() => router.push({ pathname: '/guess', params: { root: root.id } })}
+          accessibilityRole="button"
+        >
+          <Txt weight="semibold" size={15} color={colors.lime}>
+            Guess these words from their parts
+          </Txt>
+        </PressScale>
         <PressScale style={[styles.studyBtn, scope === studyScope && styles.studyActive]} scaleTo={0.97} onPress={study} accessibilityRole="button">
           <Txt weight="semibold" size={15} color={colors.ink}>
             Study all {cards.length}
@@ -172,5 +182,6 @@ const styles = StyleSheet.create({
   chip: { borderWidth: 1, borderColor: colors.border, borderRadius: radius.pill, paddingHorizontal: 12, paddingVertical: 6 },
   lookalike: { flexDirection: 'row', gap: 10, backgroundColor: colors.orangeDeep, borderRadius: radius.md, padding: 14 },
   studyBtn: { height: 52, borderRadius: radius.pill, backgroundColor: colors.lime, alignItems: 'center', justifyContent: 'center', marginTop: 4 },
+  guessBtn: { height: 52, borderRadius: radius.pill, borderWidth: 1, borderColor: colors.lime, alignItems: 'center', justifyContent: 'center' },
   studyActive: { borderWidth: 2, borderColor: colors.limeSoft },
 });
