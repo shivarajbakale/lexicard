@@ -164,19 +164,6 @@
     ]
   },
   {
-    "id": "ubiquit",
-    "forms": [
-      "ubiquit"
-    ],
-    "meaning": "everywhere",
-    "language": "Latin",
-    "etymon": "ubīque",
-    "elsewhere": [
-      "ubiquity",
-      "ubiquity"
-    ]
-  },
-  {
     "id": "hemer",
     "forms": [
       "hemer"
@@ -847,7 +834,8 @@
   {
     "id": "ami",
     "forms": [
-      "ami"
+      "ami",
+      "amic"
     ],
     "meaning": "friend",
     "language": "Latin",
@@ -861,7 +849,6 @@
   {
     "id": "rog",
     "forms": [
-      "arrog",
       "rog"
     ],
     "meaning": "ask, question",
@@ -985,34 +972,6 @@
       "egocentric",
       "egoism",
       "egotistical"
-    ]
-  },
-  {
-    "id": "erg",
-    "forms": [
-      "energet"
-    ],
-    "meaning": "active, powerful",
-    "language": "Latin",
-    "etymon": "ἐνεργητικός",
-    "elsewhere": [
-      "energy",
-      "energize",
-      "energetics"
-    ]
-  },
-  {
-    "id": "frivol",
-    "forms": [
-      "frivol"
-    ],
-    "meaning": "silly, empty",
-    "language": "Latin",
-    "etymon": "frīvolus",
-    "elsewhere": [
-      "frivolity",
-      "frivolously",
-      "fribble"
     ]
   },
   {
@@ -1803,23 +1762,8 @@
     ]
   },
   {
-    "id": "acrimoni",
-    "forms": [
-      "acrimoni"
-    ],
-    "meaning": "bitterness, sharpness of temper",
-    "language": "Latin",
-    "etymon": "ācrimōnia",
-    "elsewhere": [
-      "acrimony",
-      "acrimonies",
-      "acrimonical"
-    ]
-  },
-  {
     "id": "arbitr",
     "forms": [
-      "arb",
       "arbitr"
     ],
     "meaning": "judge",
@@ -1958,19 +1902,6 @@
     ]
   },
   {
-    "id": "fiat",
-    "forms": [
-      "fi"
-    ],
-    "meaning": "let it be done",
-    "language": "Latin",
-    "etymon": "fīat",
-    "elsewhere": [
-      "fiat lux",
-      "fiat justitia"
-    ]
-  },
-  {
     "id": "ped",
     "forms": [
       "ped"
@@ -2052,20 +1983,6 @@
       "violate",
       "violent",
       "violation"
-    ]
-  },
-  {
-    "id": "neut",
-    "forms": [
-      "neutral"
-    ],
-    "meaning": "neither (side), unbiased",
-    "language": "Latin",
-    "etymon": "neutralis",
-    "elsewhere": [
-      "neutral",
-      "neutrally",
-      "neutron"
     ]
   },
   {
@@ -2347,48 +2264,6 @@
     ]
   },
   {
-    "id": "fic",
-    "forms": [
-      "fic"
-    ],
-    "meaning": "make, create",
-    "language": "Latin",
-    "etymon": "-ficus",
-    "elsewhere": [
-      "factory",
-      "fashion",
-      "efficient"
-    ]
-  },
-  {
-    "id": "bat",
-    "forms": [
-      "ate"
-    ],
-    "meaning": "strike, beat down",
-    "language": "Latin",
-    "etymon": "battere",
-    "elsewhere": [
-      "battery",
-      "debate",
-      "rebate"
-    ]
-  },
-  {
-    "id": "acm",
-    "forms": [
-      "acm"
-    ],
-    "meaning": "peak",
-    "language": "Greek",
-    "etymon": "ἀκμή",
-    "elsewhere": [
-      "acumen",
-      "acrimonious",
-      "accompanies"
-    ]
-  },
-  {
     "id": "acu",
     "forms": [
       "acu"
@@ -2442,20 +2317,6 @@
       "prehend",
       "comprehend",
       "apprehend"
-    ]
-  },
-  {
-    "id": "curt",
-    "forms": [
-      "curt"
-    ],
-    "meaning": "short",
-    "language": "Latin",
-    "etymon": "curtus",
-    "elsewhere": [
-      "curt",
-      "curtsy",
-      "courteous"
     ]
   },
   {
@@ -2567,20 +2428,6 @@
       "saturated",
       "saturation",
       "satiety"
-    ]
-  },
-  {
-    "id": "sum",
-    "forms": [
-      "sump"
-    ],
-    "meaning": "take, acquire",
-    "language": "Latin",
-    "etymon": "sumō",
-    "elsewhere": [
-      "assume",
-      "consume",
-      "resume"
     ]
   },
   {
@@ -2809,20 +2656,6 @@
     ]
   },
   {
-    "id": "sit",
-    "forms": [
-      "sit"
-    ],
-    "meaning": "position, place",
-    "language": "Latin",
-    "etymon": "situs",
-    "elsewhere": [
-      "situation",
-      "situs",
-      "composition"
-    ]
-  },
-  {
     "id": "string",
     "forms": [
       "string"
@@ -2977,20 +2810,6 @@
     ]
   },
   {
-    "id": "pel",
-    "forms": [
-      "pel"
-    ],
-    "meaning": "drive",
-    "language": "Latin",
-    "etymon": "pellere",
-    "elsewhere": [
-      "expel",
-      "impel",
-      "repel"
-    ]
-  },
-  {
     "id": "not",
     "forms": [
       "not"
@@ -3105,8 +2924,7 @@
   {
     "id": "cis",
     "forms": [
-      "cis",
-      "deci"
+      "cis"
     ],
     "meaning": "cut",
     "language": "Latin",
@@ -3199,20 +3017,6 @@
       "stridor",
       "stridulate",
       "stridulous"
-    ]
-  },
-  {
-    "id": "sten",
-    "forms": [
-      "stentor"
-    ],
-    "meaning": "loud-voiced",
-    "language": "Greek",
-    "etymon": "στέντωρ",
-    "elsewhere": [
-      "stentorous",
-      "stentorianly",
-      "stentor"
     ]
   },
   {
@@ -3370,20 +3174,6 @@
     ]
   },
   {
-    "id": "crit",
-    "forms": [
-      "cri"
-    ],
-    "meaning": "judge",
-    "language": "Latin",
-    "etymon": "κρίνω",
-    "elsewhere": [
-      "critical",
-      "critic",
-      "crime"
-    ]
-  },
-  {
     "id": "leg",
     "forms": [
       "lect",
@@ -3526,19 +3316,6 @@
     ]
   },
   {
-    "id": "leis",
-    "forms": [
-      "leisure"
-    ],
-    "meaning": "free time",
-    "language": "Old French",
-    "etymon": "oisance",
-    "elsewhere": [
-      "leisure",
-      "leisureless"
-    ]
-  },
-  {
     "id": "luc",
     "forms": [
       "luc"
@@ -3564,19 +3341,6 @@
       "nomenclature",
       "nomination",
       "renomination"
-    ]
-  },
-  {
-    "id": "obvi",
-    "forms": [
-      "obvi"
-    ],
-    "meaning": "block",
-    "language": "Latin",
-    "etymon": "obviō",
-    "elsewhere": [
-      "obvious",
-      "obviousness"
     ]
   },
   {
@@ -3803,20 +3567,6 @@
     ]
   },
   {
-    "id": "bel",
-    "forms": [
-      "bel"
-    ],
-    "meaning": "beautiful, handsome",
-    "language": "Old French",
-    "etymon": "bel",
-    "elsewhere": [
-      "belly",
-      "belles-lettres",
-      "embellishment"
-    ]
-  },
-  {
     "id": "oner",
     "forms": [
       "oner"
@@ -3970,20 +3720,6 @@
     ]
   },
   {
-    "id": "count",
-    "forms": [
-      "account"
-    ],
-    "meaning": "count, tally",
-    "language": "English",
-    "etymon": "count",
-    "elsewhere": [
-      "counter",
-      "discount",
-      "account"
-    ]
-  },
-  {
     "id": "pon",
     "forms": [
       "pon"
@@ -4133,34 +3869,6 @@
       "stipulation",
       "stipulative",
       "prestipulate"
-    ]
-  },
-  {
-    "id": "quir",
-    "forms": [
-      "qui"
-    ],
-    "meaning": "seek",
-    "language": "Latin",
-    "etymon": "quaerere",
-    "elsewhere": [
-      "inquire",
-      "conquer",
-      "quest"
-    ]
-  },
-  {
-    "id": "script",
-    "forms": [
-      "write"
-    ],
-    "meaning": "write",
-    "language": "German",
-    "etymon": "writan",
-    "elsewhere": [
-      "write",
-      "rewrite",
-      "script"
     ]
   }
 ]
