@@ -1,6 +1,6 @@
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { useEffect, useRef, useState, type ReactNode } from 'react';
-import { Platform, StyleSheet, useWindowDimensions, View } from 'react-native';
+import { Image, Platform, StyleSheet, useWindowDimensions, View } from 'react-native';
 import { GestureDetector, usePanGesture } from 'react-native-gesture-handler';
 import Animated, {
   useAnimatedReaction,
@@ -19,6 +19,7 @@ import { SpeakerButton, SpeakerGlyph } from '../../components/Speaker';
 import { SETTING_ICON, SETTING_LABEL, UsedItSheet } from '../../components/UsedItSheet';
 import { Highlighted, Icon, PressScale, Txt } from '../../components/ui';
 import { allCards, breakdowns, cardsById, cardsOfRoot, deckOfCard } from '../../data';
+import { illustrations } from '../../data/illustrations';
 import { playClip } from '../../lib/audio';
 import { levelState } from '../../lib/levels';
 import { isDue, MAX_BOX, relativeDue } from '../../lib/srs';
@@ -76,11 +77,23 @@ const SLIDES = [
   },
 ] as const;
 
+/** Extra slide, shown right after Meaning on cards that have an illustration. */
+const SEE_SLIDE = {
+  name: 'See it',
+  bg: colors.bg,
+  fg: colors.text,
+  sub: colors.textMuted,
+  line: colors.borderStrong,
+  thumb: colors.lime,
+  track: colors.borderStrong,
+  tagBg: colors.lime,
+  tagFg: colors.ink,
+};
+
 const RAIL_H = 176;
 const THUMB_H = 44;
 const RAIL_GUTTER = 44; // room on the right so the rail never covers text
 
-const LAST = SLIDES.length - 1;
 // Reel-style paging: a swipe of a fifth of the screen, or a quick flick, moves exactly one slide. The move is a
 // spring that starts at the finger's speed, so a hard flick lands fast and a lazy one glides, with no hard stop.
 // (CSS scroll-snap can't do this: it runs at the browser's own pace.)
@@ -152,7 +165,12 @@ export default function CardDetail() {
   // On web this is the pager's DOM node, used for wheel and keyboard paging.
   const pagerRef = useRef<HTMLElement | null>(null);
 
-  const page = useSharedValue(0); // 0..3, fractional while dragging
+  const art: number | undefined = illustrations[id ?? ''];
+  const slides = art ? [SLIDES[0], SEE_SLIDE, SLIDES[1], SLIDES[2], SLIDES[3]] : SLIDES;
+  const LAST = slides.length - 1;
+  const last = useSharedValue(LAST); // the worklets' copy of LAST
+
+  const page = useSharedValue(0); // 0..LAST, fractional while dragging
   const dragFrom = useSharedValue(0);
   const height = useSharedValue(1);
   const lastActive = useSharedValue(0);
@@ -172,7 +190,7 @@ export default function CardDetail() {
       let p = dragFrom.value - e.translationY / height.value;
       // Rubber-band past the first and last slide.
       if (p < 0) p *= 0.45;
-      if (p > LAST) p = LAST + (p - LAST) * 0.45;
+      if (p > last.value) p = last.value + (p - last.value) * 0.45;
       page.set(p);
     },
     onDeactivate: (e) => {
@@ -183,7 +201,7 @@ export default function CardDetail() {
       let to = from;
       if (v > FLICK || moved > 0.2) to = from + 1;
       else if (v < -FLICK || moved < -0.2) to = from - 1;
-      to = Math.max(0, Math.min(LAST, to));
+      to = Math.max(0, Math.min(last.value, to));
       // Carry the finger's speed (in slides per second) into the spring.
       page.set(withSpring(to, pageSpring(Math.max(-8, Math.min(8, v / height.value)))));
     },
@@ -193,7 +211,7 @@ export default function CardDetail() {
   useAnimatedReaction(
     () => page.value,
     (cur, prev) => {
-      const a = Math.max(0, Math.min(LAST, Math.round(cur)));
+      const a = Math.max(0, Math.min(last.value, Math.round(cur)));
       if (a !== lastActive.value) {
         lastActive.value = a;
         scheduleOnRN(setActive, a);
@@ -208,13 +226,13 @@ export default function CardDetail() {
     transform: [{ translateY: -page.value * height.value }],
   }));
   const thumbStyle = useAnimatedStyle(() => ({
-    transform: [{ translateY: (page.value / LAST) * (RAIL_H - THUMB_H) }],
+    transform: [{ translateY: (page.value / last.value) * (RAIL_H - THUMB_H) }],
   }));
   const labelStyle = useAnimatedStyle(() => ({
     opacity: labelOpacity.value,
     transform: [
       {
-        translateY: (Math.max(0, Math.min(LAST, page.value)) / LAST) * (RAIL_H - THUMB_H) + 9,
+        translateY: (Math.max(0, Math.min(last.value, page.value)) / last.value) * (RAIL_H - THUMB_H) + 9,
       },
     ],
   }));
@@ -254,12 +272,15 @@ export default function CardDetail() {
       el.removeEventListener('wheel', onWheel);
       window.removeEventListener('keydown', onKey);
     };
-  }, [page, viewH]);
+  }, [page, viewH, LAST]);
 
   // Prev/next reuse this screen with a new id: start the new card at the top.
   useEffect(() => {
     page.set(0);
   }, [id, page]);
+  useEffect(() => {
+    last.set(LAST);
+  }, [LAST, last]);
 
   useEffect(() => {
     if (!toast) return;
@@ -288,7 +309,7 @@ export default function CardDetail() {
     );
   }
 
-  const theme = SLIDES[active];
+  const theme = slides[Math.min(active, LAST)];
   const heroSize = card.term.length > 16 ? (phone ? 26 : 34) : phone ? 30 : 42;
   const kind = kindStyle[card.kind];
   const conf = confidenceStyle[card.origin.confidence];
@@ -328,7 +349,7 @@ export default function CardDetail() {
             {card.term}
           </Txt>
           <Txt size={11} color={theme.sub}>
-            {theme.name} · {active + 1} of 4
+            {theme.name} · {active + 1} of {slides.length}
           </Txt>
         </View>
         <PressScale
@@ -426,8 +447,30 @@ export default function CardDetail() {
                   {card.nuance}
                 </Txt>
               </View>
-              <NextHint label="how to use it" color={SLIDES[0].sub} />
+              <NextHint label={art ? 'see it' : 'how to use it'} color={SLIDES[0].sub} />
             </Page>
+
+            {/* 1b · See it (only cards with an illustration) */}
+            {art && (
+              <Page height={viewH} bg={SEE_SLIDE.bg} style={[styles.slide, { backgroundColor: SEE_SLIDE.bg }]}>
+                <Txt weight="semibold" size={phone ? 22 : 24} color={SEE_SLIDE.fg} style={{ letterSpacing: -0.5 }} accessibilityRole="header">
+                  See it
+                </Txt>
+                <View style={styles.art}>
+                  <Image
+                    source={art}
+                    style={{ width: '100%', height: '100%' }}
+                    resizeMode="contain"
+                    accessible
+                    accessibilityLabel={`Cartoon of ${card.term}, with numbered thought bubbles that explain it`}
+                  />
+                </View>
+                <Txt size={12} color={SEE_SLIDE.sub}>
+                  Read the bubbles in number order.
+                </Txt>
+                <NextHint label="how to use it" color={SEE_SLIDE.sub} />
+              </Page>
+            )}
 
             {/* 2 · Use it */}
             <Page height={viewH} bg={SLIDES[1].bg} style={slideStyle(1)}>
@@ -666,10 +709,10 @@ export default function CardDetail() {
         <View style={styles.rail} accessibilityRole="tablist" accessibilityLabel="Sections">
           <View style={[styles.railTrack, { backgroundColor: theme.track }]} pointerEvents="none" />
           <Animated.View style={[styles.railThumb, { backgroundColor: theme.thumb }, thumbStyle]} pointerEvents="none" />
-          {SLIDES.map((s, i) => (
+          {slides.map((s, i) => (
             <PressScale
               key={s.name}
-              style={styles.railHit}
+              style={[styles.railHit, { height: RAIL_H / slides.length }]}
               scaleTo={1}
               onPress={() => goTo(i)}
               accessibilityRole="tab"
@@ -884,6 +927,15 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+  art: {
+    width: '100%',
+    maxWidth: 640,
+    aspectRatio: 4 / 3,
+    flexGrow: 0,
+    flexShrink: 0,
+    borderRadius: radius.lg,
+    overflow: 'hidden',
+  },
   rail: {
     position: 'absolute',
     right: 6,
@@ -908,7 +960,7 @@ const styles = StyleSheet.create({
     height: THUMB_H,
     borderRadius: 2,
   },
-  railHit: { width: 28, height: RAIL_H / 4 },
+  railHit: { width: 28 },
   railLabel: {
     position: 'absolute',
     right: 30,
