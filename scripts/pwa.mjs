@@ -68,8 +68,8 @@ function walk(dir) {
 const files = walk(DIST)
   .map((p) => relative(DIST, p).split(sep).join('/'))
   .filter((f) => !['sw.js', '404.html', '.nojekyll'].includes(f) && !f.endsWith('.map'));
-// Audio is large; it is cached on first play (or via "Download audio" in the Library), not at install.
-const precacheFiles = files.filter((f) => !f.endsWith('.mp3'));
+// Audio and card illustrations are large; they are cached on first use, not at install.
+const precacheFiles = files.filter((f) => !f.endsWith('.mp3') && !f.endsWith('.webp'));
 const hash = createHash('sha1');
 for (const f of precacheFiles.sort()) hash.update(f).update(readFileSync(join(DIST, f)));
 const version = hash.digest('hex').slice(0, 12);
