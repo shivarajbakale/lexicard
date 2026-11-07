@@ -52,7 +52,7 @@ export function CardStory({ card, art, scene, artW, artH, progress, onFullPage }
   return (
     <View style={{ gap: 14 }}>
       {art ? (
-        <View style={[styles.art, { width: artW, height: artH }]}>
+        <View nativeID={`art-back-${card.id}`} style={[styles.art, { width: artW, height: artH }]}>
           <Image
             source={art}
             style={{ width: '100%', height: '100%' }}

@@ -132,6 +132,8 @@ export default function Learn() {
     const onKey = (e: KeyboardEvent) => {
       const t = e.target as HTMLElement | null;
       if (t && (t.tagName === 'INPUT' || t.tagName === 'TEXTAREA')) return;
+      // The picture viewer has its own keys (Esc closes it).
+      if (document.querySelector('.pswp')) return;
       if (e.key === 'ArrowRight') topRef.current?.swipe(true);
       else if (e.key === 'ArrowLeft') topRef.current?.swipe(false);
       else if (e.key === ' ') {
