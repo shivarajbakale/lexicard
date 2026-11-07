@@ -86,8 +86,9 @@ export function DeckCard({ card, index, width, height, enterFrom, onSwiped, fram
   const isTop = index === 0;
   const art = illustrations[card.id];
   const scene = art ? scenes[card.id] : undefined;
-  const [viewing, setViewing] = useState(false);
-  const openViewer = () => setViewing(true);
+  // Which face's picture the zoom viewer opened from (it animates back into it).
+  const [viewing, setViewing] = useState<'front' | 'back' | null>(null);
+  const openViewer = (side: 'front' | 'back') => setViewing(side);
 
   // Cards behind rise smoothly into place when the top card leaves.
   useEffect(() => {
@@ -199,7 +200,7 @@ export function DeckCard({ card, index, width, height, enterFrom, onSwiped, fram
       // The picture opens full screen to zoom; the rest of the card flips.
       const artBottom = flip.value < 0.5 ? (showFrontArt ? frontArtH : 0) : art ? fullH : 0;
       if (e.y < artBottom) {
-        scheduleOnRN(openViewer);
+        scheduleOnRN(openViewer, flip.value < 0.5 ? 'front' : 'back');
         return;
       }
       toggleFlip();
@@ -278,7 +279,7 @@ export function DeckCard({ card, index, width, height, enterFrom, onSwiped, fram
         {/* Front */}
         <Animated.View style={[styles.face, styles.front, ink && styles.ink, frontStyle]}>
           {showFrontArt && art ? (
-            <View style={[styles.frontArt, { height: frontArtH }]}>
+            <View nativeID={`art-front-${card.id}`} style={[styles.frontArt, { height: frontArtH }]}>
               <Image source={art} style={{ width: '100%', height: '100%' }} resizeMode="contain" accessibilityIgnoresInvertColors />
               <SpeakerGlyph cardId={card.id} slot="term" style={styles.speakerOnArt} />
             </View>
@@ -368,7 +369,7 @@ export function DeckCard({ card, index, width, height, enterFrom, onSwiped, fram
       </Animated.View>
     </GestureDetector>
     {art && (
-      <ImageViewer source={art} label={scene ? scene.scene.replace(/\s*\[\d+\]/g, '') : `Cartoon of ${card.term}`} visible={viewing} onClose={() => setViewing(false)} />
+      <ImageViewer source={art} label={scene ? scene.scene.replace(/\s*\[\d+\]/g, '') : `Cartoon of ${card.term}`} visible={viewing !== null} fromId={viewing ? `art-${viewing}-${card.id}` : undefined} onClose={() => setViewing(null)} />
     )}
     </>
   );

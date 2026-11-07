@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import { Image, Modal, Platform, StyleSheet, useWindowDimensions, View, type ImageSourcePropType } from 'react-native';
+import { Image, Modal, Platform, StyleSheet, useWindowDimensions, View } from 'react-native';
 import {
   GestureDetector,
   GestureHandlerRootView,
@@ -14,6 +14,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { scheduleOnRN } from 'react-native-worklets';
 
 import { colors, PAPER, radius } from '../theme';
+import type { ImageViewerProps } from './ImageViewer.types';
 import { Icon, PressScale, Txt } from './ui';
 
 const MAX = 5;
@@ -21,7 +22,8 @@ const DOUBLE = 2.5;
 const EASE = { duration: 220 };
 
 /** Full-screen picture: pinch or double-tap to zoom, drag to look around. */
-export function ImageViewer({ source, label, visible, onClose }: { source: ImageSourcePropType; label: string; visible: boolean; onClose: () => void }) {
+/** Native (iOS / Android). The web build uses PhotoSwipe instead: ImageViewer.web.tsx. */
+export function ImageViewer({ source, label, visible, onClose }: ImageViewerProps) {
   const win = useWindowDimensions();
   const insets = useSafeAreaInsets();
   const w = Math.min(win.width, (win.height - 120) / 0.75);
