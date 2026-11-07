@@ -1,12 +1,12 @@
 import * as Haptics from 'expo-haptics';
 import { playClip, stopAudio } from '../../lib/audio';
 import { useRouter } from 'expo-router';
-import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
+import { useCallback, useEffect, useMemo, useRef, useState, type ComponentRef } from 'react';
 import { Platform, StyleSheet, useWindowDimensions, View } from 'react-native';
 import Animated, { FadeIn, useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
-import { DeckCard, type DeckCardHandle } from '../../components/DeckCard';
+import { DeckCard, type DeckCardHandle, type StoryFrame } from '../../components/DeckCard';
 import { LevelPill } from '../../components/LevelChip';
 import { Icon, PressScale, Txt } from '../../components/ui';
 import { cardsById, cardsForScope, openDeckIds, scopeLabel } from '../../data';
@@ -57,6 +57,22 @@ export default function Learn() {
   const [area, setArea] = useState({ width: 0, height: 0 });
   const width = area.width;
   const topRef = useRef<DeckCardHandle>(null);
+  // 0 = card, 1 = the top card's back has opened into story mode (header and stack fade, buttons stay).
+  const story = useSharedValue(0);
+  const rootRef = useRef<ComponentRef<typeof View>>(null);
+  const deckRef = useRef<ComponentRef<typeof View>>(null);
+  const [frame, setFrame] = useState<StoryFrame | undefined>(undefined);
+  const measureFrame = useCallback(() => {
+    const root = rootRef.current;
+    const deck = deckRef.current;
+    if (!root || !deck) return;
+    root.measureInWindow((rx: number, ry: number, rw: number, rh: number) => {
+      deck.measureInWindow((dx: number, dy: number, dw: number, dh: number) => {
+        if (!rw || !dw) return;
+        setFrame({ top: dy - ry, left: dx - rx, right: rx + rw - (dx + dw), bottom: ry + rh - (dy + dh), insetTop: insets.top });
+      });
+    });
+  }, [insets.top]);
 
   // (Re)build the session once storage is loaded and whenever the deck changes.
   if (hydrated && builtFor !== scope) {
@@ -69,6 +85,7 @@ export default function Learn() {
     (id: string, known: boolean) => {
       // Practice keeps the streak alive but never moves a card between boxes, so it can't farm points.
       answer(id, known, mode === 'practice');
+      story.set(withTiming(0, { duration: 220 }));
       stopAudio();
       if (Platform.OS !== 'web') Haptics.impactAsync(known ? Haptics.ImpactFeedbackStyle.Light : Haptics.ImpactFeedbackStyle.Soft);
       setSession((s) => {
@@ -87,10 +104,11 @@ export default function Learn() {
         };
       });
     },
-    [answer, mode],
+    [answer, mode, story],
   );
 
   const undo = useCallback(() => {
+    story.set(withTiming(0, { duration: 220 }));
     setSession((s) => {
       if (!s || s.log.length === 0) return s;
       const last = s.log[s.log.length - 1];
@@ -106,14 +124,10 @@ export default function Learn() {
         enterFrom: last.known ? 'right' : 'left',
       };
     });
-  }, [undoStore]);
+  }, [undoStore, story]);
 
   const top = session ? session.ids[session.pos] : undefined;
-  const openDetail = useCallback(() => {
-    if (top) router.push({ pathname: '/card/[id]', params: { id: top } });
-  }, [router, top]);
-
-  // Keyboard on web: ← still learning, → know it, space flip, enter details, z undo, s say it, shift+s hear the example.
+  // Keyboard on web: ← still learning, → know it, space flip, enter story, esc back to card, z undo, s say it, shift+s hear the example.
   useEffect(() => {
     if (Platform.OS !== 'web') return;
     const onKey = (e: KeyboardEvent) => {
@@ -124,7 +138,8 @@ export default function Learn() {
       else if (e.key === ' ') {
         e.preventDefault();
         topRef.current?.flip();
-      } else if (e.key === 'Enter') openDetail();
+      } else if (e.key === 'Enter') topRef.current?.openStory();
+      else if (e.key === 'Escape') topRef.current?.closeStory();
       else if (e.key.toLowerCase() === 'z') undo();
       else if (e.key.toLowerCase() === 's' && top) {
         const c = cardsById[top];
@@ -135,7 +150,7 @@ export default function Learn() {
     };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
-  }, [openDetail, undo, top]);
+  }, [undo, top]);
 
   const total = session?.ids.length ?? 0;
   const pos = session?.pos ?? 0;
@@ -154,6 +169,12 @@ export default function Learn() {
     progress.set(withTiming(total ? pos / total : 0, { duration: 320 }));
   }, [pos, total, progress]);
   const barStyle = useAnimatedStyle(() => ({ width: `${progress.value * 100}%` }));
+  const chromeStyle = useAnimatedStyle(() => ({ opacity: Math.max(0, 1 - story.value * 2.2), transform: [{ translateY: -24 * story.value }] }));
+  const actionsStyle = useAnimatedStyle(() => ({
+    backgroundColor: `rgba(14,15,13,${story.value.toFixed(3)})`,
+    borderTopColor: `rgba(46,50,42,${story.value.toFixed(3)})`,
+  }));
+  const undoStyle = useAnimatedStyle(() => ({ opacity: Math.max(0, 1 - story.value * 2) }));
 
   // The card fills the space between the progress bar and the buttons. The cap only matters on
   // unusually tall/narrow windows; short phones get a compact card (see DeckCard).
@@ -166,7 +187,8 @@ export default function Learn() {
   }, [session]);
 
   return (
-    <View style={[styles.screen, { paddingTop: insets.top + 12 }]}>
+    <View ref={rootRef} onLayout={measureFrame} style={[styles.screen, { paddingTop: insets.top + 12 }]}>
+      <Animated.View style={chromeStyle} pointerEvents="box-none">
       <View style={styles.header}>
         <View style={styles.brand}>
           <View style={styles.logo}>
@@ -207,13 +229,14 @@ export default function Learn() {
           <Animated.View style={[styles.bar, barStyle]} />
         </View>
       </View>
+      </Animated.View>
 
       <View
         style={[styles.deckArea, short && { marginTop: 10 }]}
         onLayout={(e) => setArea({ width: e.nativeEvent.layout.width, height: e.nativeEvent.layout.height })}
       >
         {session && !done && cardHeight > 0 && (
-          <View style={[styles.deck, { height: cardHeight }]}>
+          <View ref={deckRef} onLayout={measureFrame} style={[styles.deck, { height: cardHeight }]}>
             {visible
               .slice()
               .reverse()
@@ -227,6 +250,8 @@ export default function Learn() {
                   height={cardHeight}
                   enterFrom={index === 0 ? session.enterFrom : undefined}
                   onSwiped={onSwiped}
+                  frame={frame}
+                  story={story}
                 />
               ))}
           </View>
@@ -272,11 +297,13 @@ export default function Learn() {
       </View>
 
       {/* Same height whether or not the sort buttons show, so the deck doesn't jump when it's cleared. */}
-      <View style={[styles.actions, narrow && styles.actionsNarrow, { minHeight: 40 + 14 }]}>
+      <Animated.View style={[styles.actions, narrow && styles.actionsNarrow, { minHeight: 40 + 14 }, actionsStyle]}>
         {(!done || (session?.log.length ?? 0) > 0) ? (
-          <PressScale style={[styles.roundBtn, narrow && styles.roundNarrow]} scaleTo={0.92} onPress={undo} accessibilityRole="button" accessibilityLabel="Undo last swipe">
-            <Icon name="corner-up-left" size={16} color={colors.textMuted} />
-          </PressScale>
+          <Animated.View style={undoStyle}>
+            <PressScale style={[styles.roundBtn, narrow && styles.roundNarrow]} scaleTo={0.92} onPress={undo} accessibilityRole="button" accessibilityLabel="Undo last swipe">
+              <Icon name="corner-up-left" size={16} color={colors.textMuted} />
+            </PressScale>
+          </Animated.View>
         ) : (
           <View style={[styles.roundSlot, narrow && styles.roundNarrow]} />
         )}
@@ -306,13 +333,12 @@ export default function Learn() {
                 Know it
               </Txt>
             </PressScale>
-            <PressScale style={[styles.roundBtn, narrow && styles.roundNarrow]} scaleTo={0.92} onPress={openDetail} accessibilityRole="button" accessibilityLabel="Open full explanation">
-              <Icon name="book-open" size={16} color={colors.textSoft} />
-            </PressScale>
+            {/* Keeps the sort buttons centred under the card */}
+            <View style={[styles.roundSlot, narrow && styles.roundNarrow]} />
           </>
         )}
         {done && <View style={[styles.roundSlot, narrow && styles.roundNarrow]} />}
-      </View>
+      </Animated.View>
     </View>
   );
 }
@@ -339,7 +365,7 @@ const styles = StyleSheet.create({
   progressRow: { flexDirection: 'row', justifyContent: 'space-between', gap: 12 },
   track: { height: 6, borderRadius: radius.pill, backgroundColor: colors.chip, overflow: 'hidden' },
   bar: { height: 6, borderRadius: radius.pill, backgroundColor: colors.lime },
-  deckArea: { flex: 1, marginTop: 14, marginHorizontal: 20, marginBottom: 0, justifyContent: 'center' },
+  deckArea: { flex: 1, zIndex: 2, marginTop: 14, marginHorizontal: 20, marginBottom: 0, justifyContent: 'center' },
   deck: { width: '100%', marginBottom: 18 },
   doneCard: {
     marginBottom: 18,
@@ -364,7 +390,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
-  actions: { flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: 8, paddingHorizontal: 20, paddingTop: 8, paddingBottom: 10 },
+  actions: { zIndex: 3, borderTopWidth: 1, flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: 8, paddingHorizontal: 20, paddingTop: 8, paddingBottom: 10 },
   roundBtn: { width: 38, height: 38, borderRadius: 19, alignItems: 'center', justifyContent: 'center', backgroundColor: colors.surface, borderWidth: 1, borderColor: colors.border },
   roundSlot: { width: 38, height: 38 },
   roundNarrow: { width: 36, height: 36, borderRadius: 18 },
