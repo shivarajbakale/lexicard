@@ -1,5 +1,5 @@
 import { useRouter } from 'expo-router';
-import { useEffect, useImperativeHandle, type Ref } from 'react';
+import { useEffect, useImperativeHandle, useState, type Ref } from 'react';
 import { Image, Platform, StyleSheet, View } from 'react-native';
 import { GestureDetector, useExclusiveGestures, usePanGesture, useTapGesture } from 'react-native-gesture-handler';
 import Animated, {
@@ -24,6 +24,7 @@ import { colors, ipaFont, kindStyle, PAPER, radius, springs } from '../theme';
 import { playClip } from '../lib/audio';
 import { useStore } from '../lib/store';
 import { CardStory } from './CardStory';
+import { ImageViewer } from './ImageViewer';
 import { SpeakerGlyph } from './Speaker';
 import { Icon, Pill, PressScale, Txt } from './ui';
 
@@ -85,6 +86,8 @@ export function DeckCard({ card, index, width, height, enterFrom, onSwiped, fram
   const isTop = index === 0;
   const art = illustrations[card.id];
   const scene = art ? scenes[card.id] : undefined;
+  const [viewing, setViewing] = useState(false);
+  const openViewer = () => setViewing(true);
 
   // Cards behind rise smoothly into place when the top card leaves.
   useEffect(() => {
@@ -133,6 +136,22 @@ export function DeckCard({ card, index, width, height, enterFrom, onSwiped, fram
     closeStory: () => scheduleOnUI(closeStory),
   }));
 
+  const kind = kindStyle[card.kind];
+  const tight = height < 340;
+  const long = card.term.length > 14;
+
+  // Picture on the front runs edge to edge at 4:3. On short cards the hint line goes first, then the picture
+  // gets shorter (letterboxed in its own paper colour) so the term always fits under it.
+  const fullH = Math.round(width * 0.75);
+  const textRoom = card.sayIt ? 150 : 128;
+  const showFoot = !art || height - fullH - textRoom >= 44;
+  const frontArtH = art ? Math.max(0, Math.min(fullH, height - textRoom - (showFoot ? 44 : 0))) : 0;
+  const showFrontArt = frontArtH >= 120;
+  const base = long ? (tight ? 28 : 32) : tight ? 34 : 40;
+  const termBase = showFrontArt ? base - 4 : base;
+  // Sized to the card, not fixed: on a phone the card is ~350px wide and a fixed 46px term crowds it.
+  const termSize = Math.round(Math.max(long ? 24 : 28, Math.min(termBase, (width / 360) * termBase)));
+
   const onScroll = useAnimatedScrollHandler((e) => {
     scrollY.set(e.contentOffset.y);
     if (isTop) story.set(Math.min(1, Math.max(0, e.contentOffset.y / STORY_RUN)));
@@ -175,6 +194,12 @@ export function DeckCard({ card, index, width, height, enterFrom, onSwiped, fram
       // Top-right corner of either face is the speaker; everywhere else flips.
       if (e.x > width - SPEAKER_HIT && e.y < SPEAKER_HIT) {
         scheduleOnRN(flip.value < 0.5 ? playTerm : playExample);
+        return;
+      }
+      // The picture opens full screen to zoom; the rest of the card flips.
+      const artBottom = flip.value < 0.5 ? (showFrontArt ? frontArtH : 0) : art ? fullH : 0;
+      if (e.y < artBottom) {
+        scheduleOnRN(openViewer);
         return;
       }
       toggleFlip();
@@ -237,25 +262,10 @@ export function DeckCard({ card, index, width, height, enterFrom, onSwiped, fram
     transform: [{ rotate: '10deg' }, { scale: interpolate(x.value, [-SWIPE_DISTANCE, -20], [1, 0.8], Extrapolation.CLAMP) }],
   }));
 
-  const kind = kindStyle[card.kind];
-  const tight = height < 340;
-  const long = card.term.length > 14;
-
-  // Picture on the front runs edge to edge at 4:3. On short cards the hint line goes first, then the picture
-  // gets shorter (letterboxed in its own paper colour) so the term always fits under it.
-  const fullH = Math.round(width * 0.75);
-  const textRoom = card.sayIt ? 150 : 128;
-  const showFoot = !art || height - fullH - textRoom >= 44;
-  const frontArtH = art ? Math.max(0, Math.min(fullH, height - textRoom - (showFoot ? 44 : 0))) : 0;
-  const showFrontArt = frontArtH >= 120;
-  const base = long ? (tight ? 28 : 32) : tight ? 34 : 40;
-  const termBase = showFrontArt ? base - 4 : base;
-  // Sized to the card, not fixed: on a phone the card is ~350px wide and a fixed 46px term crowds it.
-  const termSize = Math.round(Math.max(long ? 24 : 28, Math.min(termBase, (width / 360) * termBase)));
-
   const openFullPage = () => router.push({ pathname: '/card/[id]', params: { id: card.id } });
 
   return (
+    <>
     <GestureDetector gesture={gesture} touchAction="pan-y">
       <Animated.View
         style={[styles.card, { zIndex: 10 - index, height }, cardStyle]}
@@ -357,6 +367,10 @@ export function DeckCard({ card, index, width, height, enterFrom, onSwiped, fram
         </Animated.View>
       </Animated.View>
     </GestureDetector>
+    {art && (
+      <ImageViewer source={art} label={scene ? scene.scene.replace(/\s*\[\d+\]/g, '') : `Cartoon of ${card.term}`} visible={viewing} onClose={() => setViewing(false)} />
+    )}
+    </>
   );
 }
 
