@@ -1,0 +1,28 @@
+image: outputs/take-something-in-stride/seed_1.png
+out: outputs/lexicard/take-something-in-stride.png
+bubbles:
+- text: A pot just fell near me!
+  at:
+  - 267
+  - 200
+  to:
+  - 428
+  - 204
+  width: 200
+- text: No big deal
+  at:
+  - 730
+  - 263
+  to:
+  - 428
+  - 204
+  width: 150
+  kind: speech
+- text: She takes it in stride
+  at:
+  - 855
+  - 440
+  to:
+  - 428
+  - 204
+  width: 200

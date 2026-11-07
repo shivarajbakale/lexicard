@@ -1,0 +1,20 @@
+image: outputs/sweep-something-under-the-rug/seed_1.png
+out: outputs/lexicard/sweep-something-under-the-rug.png
+bubbles:
+- text: Hurry, before anyone sees!
+  at:
+  - 206
+  - 134
+  to:
+  - 400
+  - 152
+  width: 200
+- text: 'Sweep it under the rug: hide a problem'
+  at:
+  - 572
+  - 96
+  to:
+  - 812
+  - 56
+  width: 259
+  size: 38

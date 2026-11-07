@@ -1,0 +1,21 @@
+image: outputs/too-much-of-a-good-thing/seed_1.png
+out: outputs/lexicard/too-much-of-a-good-thing.png
+bubbles:
+- text: Want some more?
+  at:
+  - 588
+  - 119
+  to:
+  - 760
+  - 160
+  width: 200
+  kind: speech
+- text: 'Too much of a good thing: enjoyable, then excessive'
+  at:
+  - 195
+  - 122
+  to:
+  - 264
+  - 204
+  width: 259
+  size: 38

@@ -1,0 +1,20 @@
+image: outputs/birds-eye-view/seed_2.png
+out: outputs/lexicard/birds-eye-view.png
+bubbles:
+- text: I can see everything from up here
+  at:
+  - 198
+  - 298
+  to:
+  - 516
+  - 184
+  width: 245
+  size: 36
+- text: 'Bird''s-eye view: seeing the whole thing from above'
+  at:
+  - 805
+  - 374
+  to:
+  - 516
+  - 184
+  width: 300

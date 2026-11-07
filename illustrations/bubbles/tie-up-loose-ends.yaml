@@ -1,0 +1,28 @@
+image: outputs/tie-up-loose-ends/seed_1.png
+out: outputs/lexicard/tie-up-loose-ends.png
+bubbles:
+- text: Almost finished the whole job
+  at:
+  - 334
+  - 134
+  to:
+  - 500
+  - 156
+  width: 200
+- text: The last loose rope end
+  at:
+  - 185
+  - 446
+  to:
+  - 416
+  - 624
+  width: 200
+- text: 'Tie up loose ends: finish leftovers'
+  at:
+  - 847
+  - 96
+  to:
+  - 500
+  - 156
+  width: 259
+  size: 38

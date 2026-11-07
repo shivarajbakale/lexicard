@@ -1,0 +1,20 @@
+image: outputs/behind-bars/seed_1.png
+out: outputs/lexicard/behind-bars.png
+bubbles:
+- text: I can't leave
+  at:
+  - 120
+  - 104
+  to:
+  - 700
+  - 80
+  width: 150
+- text: 'Behind bars: locked up in prison'
+  at:
+  - 467
+  - 96
+  to:
+  - 700
+  - 80
+  width: 259
+  size: 38

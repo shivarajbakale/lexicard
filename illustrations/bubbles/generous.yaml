@@ -1,0 +1,20 @@
+image: outputs/generous/seed_1.png
+out: outputs/lexicard/generous.png
+bubbles:
+- text: Here, take the bigger half!
+  at:
+  - 125
+  - 250
+  to:
+  - 260
+  - 168
+  width: 200
+  kind: speech
+- text: 'Generous: gives freely, even more than needed'
+  at:
+  - 765
+  - 206
+  to:
+  - 524
+  - 448
+  width: 300

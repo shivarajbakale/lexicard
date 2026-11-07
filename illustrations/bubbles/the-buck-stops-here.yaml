@@ -1,0 +1,20 @@
+image: outputs/the-buck-stops-here/seed_1.png
+out: outputs/lexicard/the-buck-stops-here.png
+bubbles:
+- text: The buck stops here.
+  at:
+  - 538
+  - 83
+  to:
+  - 796
+  - 128
+  width: 200
+  kind: speech
+- text: 'The buck stops here: I take responsibility'
+  at:
+  - 214
+  - 134
+  to:
+  - 796
+  - 128
+  width: 300

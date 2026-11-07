@@ -1,0 +1,20 @@
+image: outputs/burst-out-laughing/seed_1.png
+out: outputs/lexicard/burst-out-laughing.png
+bubbles:
+- text: Ha ha ha, stop it!
+  at:
+  - 172
+  - 119
+  to:
+  - 204
+  - 276
+  width: 200
+  kind: speech
+- text: 'Burst out laughing: suddenly laugh loudly'
+  at:
+  - 797
+  - 134
+  to:
+  - 888
+  - 284
+  width: 300

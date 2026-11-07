@@ -1,0 +1,28 @@
+image: outputs/get-ones-priorities-straight/seed_1.png
+out: outputs/lexicard/get-ones-priorities-straight.png
+bubbles:
+- text: Too much stuff competing
+  at:
+  - 476
+  - 134
+  to:
+  - 204
+  - 184
+  width: 200
+- text: Family first
+  at:
+  - 727
+  - 248
+  to:
+  - 492
+  - 592
+  width: 150
+- text: I got my priorities straight
+  at:
+  - 132
+  - 122
+  to:
+  - 204
+  - 184
+  width: 172
+  size: 38

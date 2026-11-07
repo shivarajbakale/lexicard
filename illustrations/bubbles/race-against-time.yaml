@@ -1,0 +1,28 @@
+image: outputs/race-against-time/seed_1.png
+out: outputs/lexicard/race-against-time.png
+bubbles:
+- text: Hurry, I must finish
+  at:
+  - 175
+  - 200
+  to:
+  - 276
+  - 324
+  width: 200
+- text: The clock is catching up
+  at:
+  - 492
+  - 152
+  to:
+  - 272
+  - 480
+  width: 200
+- text: 'Race against time: rush before time runs out'
+  at:
+  - 818
+  - 254
+  to:
+  - 276
+  - 324
+  width: 259
+  size: 38

@@ -1,0 +1,20 @@
+image: outputs/let-them-eat-cake/seed_1.png
+out: outputs/lexicard/let-them-eat-cake.png
+bubbles:
+- text: Let them eat cake!
+  at:
+  - 146
+  - 83
+  to:
+  - 304
+  - 88
+  width: 200
+  kind: speech
+- text: 'Let them eat cake: dismissing real needs with a poor answer'
+  at:
+  - 730
+  - 164
+  to:
+  - 492
+  - 412
+  width: 300

@@ -1,0 +1,21 @@
+image: outputs/you-can-lead-a-horse-to-water/seed_1.png
+out: outputs/lexicard/you-can-lead-a-horse-to-water.png
+bubbles:
+- text: Come on, just drink!
+  at:
+  - 148
+  - 83
+  to:
+  - 300
+  - 132
+  width: 200
+  kind: speech
+- text: 'You can lead a horse to water: can''t force a choice'
+  at:
+  - 500
+  - 122
+  to:
+  - 804
+  - 180
+  width: 259
+  size: 38

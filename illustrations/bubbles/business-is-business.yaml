@@ -1,0 +1,21 @@
+image: outputs/business-is-business/seed_1.png
+out: outputs/lexicard/business-is-business.png
+bubbles:
+- text: Sorry, business is business.
+  at:
+  - 548
+  - 106
+  to:
+  - 192
+  - 172
+  width: 200
+  kind: speech
+- text: But we're old friends!
+  at:
+  - 816
+  - 167
+  to:
+  - 684
+  - 256
+  width: 200
+  kind: speech

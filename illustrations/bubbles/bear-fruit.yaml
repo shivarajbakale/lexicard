@@ -1,0 +1,29 @@
+image: outputs/bear-fruit/seed_1.png
+out: outputs/lexicard/bear-fruit.png
+bubbles:
+- text: I watered it for years
+  at:
+  - 339
+  - 104
+  to:
+  - 548
+  - 108
+  width: 200
+- text: The fruit = results at last
+  at:
+  - 872
+  - 118
+  to:
+  - 616
+  - 312
+  width: 163
+  size: 36
+- text: 'Bear fruit: effort finally produces results'
+  at:
+  - 831
+  - 554
+  to:
+  - 548
+  - 108
+  width: 259
+  size: 38

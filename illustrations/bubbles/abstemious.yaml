@@ -1,0 +1,20 @@
+image: outputs/abstemious/seed_1.png
+out: outputs/lexicard/abstemious.png
+bubbles:
+- text: Just a little is plenty for me.
+  at:
+  - 249
+  - 83
+  to:
+  - 284
+  - 240
+  width: 300
+  kind: speech
+- text: 'Abstemious: eating and drinking only a little'
+  at:
+  - 631
+  - 134
+  to:
+  - 220
+  - 215
+  width: 300

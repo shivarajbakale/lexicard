@@ -1,0 +1,20 @@
+image: outputs/straight-from-the-horses-mouth/seed_1.png
+out: outputs/lexicard/straight-from-the-horses-mouth.png
+bubbles:
+- text: Tell me the real news
+  at:
+  - 235
+  - 239
+  to:
+  - 396
+  - 244
+  width: 200
+  kind: speech
+- text: 'Straight from the horse''s mouth: from the source'
+  at:
+  - 778
+  - 146
+  to:
+  - 604
+  - 264
+  width: 300

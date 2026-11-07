@@ -1,0 +1,28 @@
+image: outputs/light-at-the-end-of-the-tunnel/seed_1.png
+out: outputs/lexicard/light-at-the-end-of-the-tunnel.png
+bubbles:
+- text: Everything has been so hard
+  at:
+  - 190
+  - 254
+  to:
+  - 352
+  - 304
+  width: 200
+- text: Daylight far away = hope
+  at:
+  - 520
+  - 128
+  to:
+  - 720
+  - 440
+  width: 200
+- text: 'Light at the end of the tunnel: trouble will end'
+  at:
+  - 821
+  - 266
+  to:
+  - 720
+  - 440
+  width: 259
+  size: 38

@@ -1,0 +1,29 @@
+image: outputs/scope-out/seed_1.png
+out: outputs/lexicard/scope-out.png
+bubbles:
+- text: Let me check the place first
+  at:
+  - 231
+  - 202
+  to:
+  - 396
+  - 252
+  width: 200
+  kind: speech
+- text: The lime door is his target
+  at:
+  - 767
+  - 248
+  to:
+  - 772
+  - 440
+  width: 200
+- text: 'Scope out: look carefully before deciding'
+  at:
+  - 845
+  - 638
+  to:
+  - 868
+  - 356
+  width: 259
+  size: 38

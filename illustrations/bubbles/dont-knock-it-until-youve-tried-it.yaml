@@ -1,0 +1,21 @@
+image: outputs/dont-knock-it-until-youve-tried-it/seed_1.png
+out: outputs/lexicard/dont-knock-it-until-youve-tried-it.png
+bubbles:
+- text: Ew, that looks strange.
+  at:
+  - 114
+  - 106
+  to:
+  - 292
+  - 136
+  width: 200
+  kind: speech
+- text: Don't knock it till you've tried it.
+  at:
+  - 663
+  - 83
+  to:
+  - 804
+  - 164
+  width: 300
+  kind: speech

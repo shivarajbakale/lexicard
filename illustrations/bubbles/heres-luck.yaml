@@ -1,0 +1,31 @@
+image: outputs/heres-luck/seed_1.png
+out: outputs/lexicard/heres-luck.png
+bubbles:
+- text: Here's luck!
+  at:
+  - 523
+  - 131
+  to:
+  - 676
+  - 88
+  width: 150
+  kind: speech
+- text: A friendly good wish before the big moment.
+  at:
+  - 226
+  - 118
+  to:
+  - 676
+  - 88
+  width: 245
+  size: 36
+- text: Thanks, I need it.
+  at:
+  - 912
+  - 75
+  to:
+  - 796
+  - 120
+  width: 163
+  size: 36
+  kind: speech

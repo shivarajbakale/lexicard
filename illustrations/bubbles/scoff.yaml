@@ -1,0 +1,21 @@
+image: outputs/scoff/seed_1.png
+out: outputs/lexicard/scoff.png
+bubbles:
+- text: Ha! That silly boat will never float!
+  at:
+  - 168
+  - 75
+  to:
+  - 320
+  - 100
+  width: 245
+  size: 36
+  kind: speech
+- text: 'Scoff: mock something with contempt'
+  at:
+  - 637
+  - 134
+  to:
+  - 440
+  - 144
+  width: 300

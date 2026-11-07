@@ -1,0 +1,28 @@
+image: outputs/take-the-plunge/seed_1.png
+out: outputs/lexicard/take-the-plunge.png
+bubbles:
+- text: Come on, you can do it!
+  at:
+  - 360
+  - 155
+  to:
+  - 520
+  - 188
+  width: 200
+  kind: speech
+- text: Here I go, finally!
+  at:
+  - 659
+  - 104
+  to:
+  - 520
+  - 188
+  width: 200
+- text: 'Take the plunge: finally do it'
+  at:
+  - 846
+  - 314
+  to:
+  - 516
+  - 376
+  width: 200

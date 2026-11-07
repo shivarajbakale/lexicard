@@ -1,0 +1,11 @@
+image: outputs/obsequious/seed_1.png
+out: outputs/lexicard/obsequious.png
+bubbles:
+- text: 'Obsequious: flatters too eagerly to win favour'
+  at:
+  - 309
+  - 134
+  to:
+  - 540
+  - 140
+  width: 300

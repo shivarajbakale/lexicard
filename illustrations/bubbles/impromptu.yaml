@@ -1,0 +1,21 @@
+image: outputs/impromptu/seed_1.png
+out: outputs/lexicard/impromptu.png
+bubbles:
+- text: Say a few words!
+  at:
+  - 228
+  - 83
+  to:
+  - 316
+  - 212
+  width: 200
+  kind: speech
+- text: 'Impromptu: done with no preparation'
+  at:
+  - 542
+  - 122
+  to:
+  - 788
+  - 216
+  width: 259
+  size: 38

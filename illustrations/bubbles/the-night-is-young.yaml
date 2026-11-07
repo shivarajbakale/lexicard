@@ -1,0 +1,29 @@
+image: outputs/the-night-is-young/seed_1.png
+out: outputs/lexicard/the-night-is-young.png
+bubbles:
+- text: Let's head home.
+  at:
+  - 171
+  - 167
+  to:
+  - 286
+  - 282
+  width: 200
+  kind: speech
+- text: The night is young!
+  at:
+  - 548
+  - 131
+  to:
+  - 616
+  - 332
+  width: 200
+  kind: speech
+- text: Plenty of time left
+  at:
+  - 878
+  - 416
+  to:
+  - 892
+  - 84
+  width: 200

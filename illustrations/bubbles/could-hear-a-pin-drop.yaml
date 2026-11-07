@@ -1,0 +1,21 @@
+image: outputs/could-hear-a-pin-drop/seed_1.png
+out: outputs/lexicard/could-hear-a-pin-drop.png
+bubbles:
+- text: Shh... listen.
+  at:
+  - 342
+  - 83
+  to:
+  - 212
+  - 184
+  width: 150
+  kind: speech
+- text: 'You could hear a pin drop: total silence'
+  at:
+  - 624
+  - 122
+  to:
+  - 512
+  - 440
+  width: 259
+  size: 38

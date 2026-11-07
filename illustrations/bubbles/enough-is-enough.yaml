@@ -1,0 +1,28 @@
+image: outputs/enough-is-enough/seed_1.png
+out: outputs/lexicard/enough-is-enough.png
+bubbles:
+- text: Enough is enough!
+  at:
+  - 121
+  - 83
+  to:
+  - 192
+  - 192
+  width: 200
+  kind: speech
+- text: Stop right now
+  at:
+  - 560
+  - 104
+  to:
+  - 192
+  - 192
+  width: 150
+- text: The noise is too much
+  at:
+  - 780
+  - 260
+  to:
+  - 444
+  - 172
+  width: 200

@@ -1,0 +1,20 @@
+image: outputs/leisurely/seed_1.png
+out: outputs/lexicard/leisurely.png
+bubbles:
+- text: No hurry, enjoy the day.
+  at:
+  - 361
+  - 106
+  to:
+  - 212
+  - 180
+  width: 200
+  kind: speech
+- text: 'Leisurely: slow and relaxed, no rushing'
+  at:
+  - 689
+  - 164
+  to:
+  - 212
+  - 180
+  width: 300

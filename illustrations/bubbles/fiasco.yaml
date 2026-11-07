@@ -1,0 +1,21 @@
+image: outputs/fiasco/seed_1.png
+out: outputs/lexicard/fiasco.png
+bubbles:
+- text: The party has begun... like this?
+  at:
+  - 613
+  - 191
+  to:
+  - 760
+  - 256
+  width: 300
+  kind: speech
+- text: 'Fiasco: a total, embarrassing failure'
+  at:
+  - 266
+  - 122
+  to:
+  - 484
+  - 544
+  width: 259
+  size: 38

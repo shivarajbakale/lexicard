@@ -1,0 +1,21 @@
+image: outputs/altruistic/seed_2.png
+out: outputs/lexicard/altruistic.png
+bubbles:
+- text: But now you are getting wet!
+  at:
+  - 763
+  - 106
+  to:
+  - 664
+  - 228
+  width: 200
+  kind: speech
+- text: 'Altruistic: puts others'' needs before his own'
+  at:
+  - 203
+  - 122
+  to:
+  - 388
+  - 104
+  width: 259
+  size: 38

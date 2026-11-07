@@ -1,0 +1,30 @@
+image: outputs/prevaricate/seed_1.png
+out: outputs/lexicard/prevaricate.png
+bubbles:
+- text: Did you eat the cake?
+  at:
+  - 133
+  - 83
+  to:
+  - 236
+  - 208
+  width: 200
+  kind: speech
+- text: Nice weather today, isn't it?
+  at:
+  - 478
+  - 129
+  to:
+  - 752
+  - 140
+  width: 200
+  kind: speech
+- text: 'Prevaricate: dodge a question with vague talk'
+  at:
+  - 828
+  - 122
+  to:
+  - 236
+  - 208
+  width: 259
+  size: 38

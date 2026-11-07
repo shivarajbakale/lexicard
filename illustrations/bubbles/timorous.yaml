@@ -1,0 +1,20 @@
+image: outputs/timorous/seed_1.png
+out: outputs/lexicard/timorous.png
+bubbles:
+- text: What if it bites me?
+  at:
+  - 353
+  - 263
+  to:
+  - 460
+  - 386
+  width: 200
+  kind: speech
+- text: 'Timorous: easily frightened and shy'
+  at:
+  - 811
+  - 104
+  to:
+  - 460
+  - 386
+  width: 300

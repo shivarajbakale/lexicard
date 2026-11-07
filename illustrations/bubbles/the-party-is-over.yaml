@@ -1,0 +1,21 @@
+image: outputs/the-party-is-over/seed_1.png
+out: outputs/lexicard/the-party-is-over.png
+bubbles:
+- text: Well, the party is over.
+  at:
+  - 328
+  - 83
+  to:
+  - 812
+  - 12
+  width: 200
+  kind: speech
+- text: 'The party is over: the fun has ended'
+  at:
+  - 830
+  - 660
+  to:
+  - 680
+  - 356
+  width: 259
+  size: 38

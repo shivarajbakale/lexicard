@@ -1,0 +1,20 @@
+image: outputs/heres-to/seed_1.png
+out: outputs/lexicard/heres-to.png
+bubbles:
+- text: Here's to us!
+  at:
+  - 137
+  - 83
+  to:
+  - 272
+  - 176
+  width: 150
+  kind: speech
+- text: 'Here''s to: words said before a toast'
+  at:
+  - 762
+  - 212
+  to:
+  - 544
+  - 360
+  width: 300

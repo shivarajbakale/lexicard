@@ -1,0 +1,20 @@
+image: outputs/well-played/seed_1.png
+out: outputs/lexicard/well-played.png
+bubbles:
+- text: Well played!
+  at:
+  - 252
+  - 83
+  to:
+  - 248
+  - 232
+  width: 150
+  kind: speech
+- text: Respect for a smart move.
+  at:
+  - 487
+  - 194
+  to:
+  - 248
+  - 232
+  width: 200

@@ -1,0 +1,20 @@
+image: outputs/tolerate/seed_1.png
+out: outputs/lexicard/tolerate.png
+bubbles:
+- text: Bang away, I do not mind.
+  at:
+  - 159
+  - 118
+  to:
+  - 320
+  - 116
+  width: 200
+  kind: speech
+- text: 'Tolerate: put up with without complaining'
+  at:
+  - 648
+  - 134
+  to:
+  - 320
+  - 116
+  width: 300

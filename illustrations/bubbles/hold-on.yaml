@@ -1,0 +1,21 @@
+image: outputs/hold-on/seed_1.png
+out: outputs/lexicard/hold-on.png
+bubbles:
+- text: Hold on a moment.
+  at:
+  - 119
+  - 83
+  to:
+  - 184
+  - 176
+  width: 200
+  kind: speech
+- text: I'll wait here.
+  at:
+  - 738
+  - 61
+  to:
+  - 828
+  - 196
+  width: 200
+  kind: speech

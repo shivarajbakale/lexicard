@@ -1,0 +1,20 @@
+image: outputs/engrossed/seed_1.png
+out: outputs/lexicard/engrossed.png
+bubbles:
+- text: Dinner's ready! Hello? Anyone there?
+  at:
+  - 813
+  - 106
+  to:
+  - 788
+  - 268
+  width: 300
+  kind: speech
+- text: 'Engrossed: so focused you notice nothing else'
+  at:
+  - 415
+  - 134
+  to:
+  - 448
+  - 596
+  width: 300

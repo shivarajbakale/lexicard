@@ -1,0 +1,29 @@
+image: outputs/cup-of-tea/seed_1.png
+out: outputs/lexicard/cup-of-tea.png
+bubbles:
+- text: Do you like it?
+  at:
+  - 163
+  - 107
+  to:
+  - 224
+  - 256
+  width: 200
+  kind: speech
+- text: Not really my cup of tea.
+  at:
+  - 509
+  - 83
+  to:
+  - 344
+  - 288
+  width: 200
+  kind: speech
+- text: Not to his taste
+  at:
+  - 829
+  - 104
+  to:
+  - 552
+  - 316
+  width: 200

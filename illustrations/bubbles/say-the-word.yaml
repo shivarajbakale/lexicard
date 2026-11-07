@@ -1,0 +1,20 @@
+image: outputs/say-the-word/seed_1.png
+out: outputs/lexicard/say-the-word.png
+bubbles:
+- text: Just say the word.
+  at:
+  - 354
+  - 83
+  to:
+  - 596
+  - 64
+  width: 200
+  kind: speech
+- text: Waiting for the right moment.
+  at:
+  - 165
+  - 266
+  to:
+  - 836
+  - 188
+  width: 200

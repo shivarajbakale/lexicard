@@ -1,0 +1,29 @@
+image: outputs/tried-and-trusted/seed_1.png
+out: outputs/lexicard/tried-and-trusted.png
+bubbles:
+- text: My gadget broke down
+  at:
+  - 405
+  - 152
+  to:
+  - 792
+  - 232
+  width: 200
+- text: This hammer never fails!
+  at:
+  - 129
+  - 207
+  to:
+  - 288
+  - 240
+  width: 163
+  size: 36
+  kind: speech
+- text: 'Tried and trusted: proven reliable'
+  at:
+  - 766
+  - 116
+  to:
+  - 440
+  - 412
+  width: 300

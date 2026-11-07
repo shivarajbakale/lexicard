@@ -1,0 +1,21 @@
+image: outputs/no-deal/seed_1.png
+out: outputs/lexicard/no-deal.png
+bubbles:
+- text: No deal.
+  at:
+  - 647
+  - 121
+  to:
+  - 860
+  - 236
+  width: 150
+  kind: speech
+- text: 'No deal: I refuse your offer'
+  at:
+  - 492
+  - 278
+  to:
+  - 860
+  - 236
+  width: 172
+  size: 38

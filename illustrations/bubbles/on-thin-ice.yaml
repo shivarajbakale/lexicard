@@ -1,0 +1,20 @@
+image: outputs/on-thin-ice/seed_1.png
+out: outputs/lexicard/on-thin-ice.png
+bubbles:
+- text: Be careful, it's cracking!
+  at:
+  - 697
+  - 107
+  to:
+  - 764
+  - 260
+  width: 200
+  kind: speech
+- text: 'On thin ice: one mistake from trouble'
+  at:
+  - 352
+  - 158
+  to:
+  - 240
+  - 284
+  width: 300

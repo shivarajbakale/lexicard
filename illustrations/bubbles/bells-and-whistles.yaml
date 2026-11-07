@@ -1,0 +1,29 @@
+image: outputs/bells-and-whistles/seed_1.png
+out: outputs/lexicard/bells-and-whistles.png
+bubbles:
+- text: Look at all the extras!
+  at:
+  - 166
+  - 179
+  to:
+  - 292
+  - 276
+  width: 200
+  kind: speech
+- text: The whistle = a fancy extra feature
+  at:
+  - 514
+  - 140
+  to:
+  - 604
+  - 364
+  width: 300
+- text: 'Bells and whistles: extra fancy features'
+  at:
+  - 828
+  - 302
+  to:
+  - 292
+  - 276
+  width: 259
+  size: 38

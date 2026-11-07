@@ -1,0 +1,21 @@
+image: outputs/wheedle/seed_1.png
+out: outputs/lexicard/wheedle.png
+bubbles:
+- text: You are the best dad ever! Just one more?
+  at:
+  - 257
+  - 262
+  to:
+  - 300
+  - 492
+  width: 300
+  kind: speech
+- text: 'Wheedle: coax someone with charm and flattery'
+  at:
+  - 822
+  - 122
+  to:
+  - 568
+  - 64
+  width: 259
+  size: 38

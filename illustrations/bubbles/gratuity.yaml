@@ -1,0 +1,21 @@
+image: outputs/gratuity/seed_1.png
+out: outputs/lexicard/gratuity.png
+bubbles:
+- text: 'Gratuity: extra money for good service'
+  at:
+  - 261
+  - 134
+  to:
+  - 560
+  - 160
+  width: 300
+- text: Thank you for the generous tip!
+  at:
+  - 846
+  - 75
+  to:
+  - 680
+  - 108
+  width: 245
+  size: 36
+  kind: speech

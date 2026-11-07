@@ -1,0 +1,20 @@
+image: outputs/parsimonious/seed_1.png
+out: outputs/lexicard/parsimonious.png
+bubbles:
+- text: Too much food costs too much!
+  at:
+  - 135
+  - 106
+  to:
+  - 288
+  - 120
+  width: 200
+  kind: speech
+- text: 'Parsimonious: unwilling to spend or give'
+  at:
+  - 654
+  - 134
+  to:
+  - 288
+  - 120
+  width: 300

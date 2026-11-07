@@ -1,0 +1,29 @@
+image: outputs/no-hard-feelings/seed_1.png
+out: outputs/lexicard/no-hard-feelings.png
+bubbles:
+- text: Sorry I yelled earlier.
+  at:
+  - 171
+  - 83
+  to:
+  - 332
+  - 96
+  width: 200
+  kind: speech
+- text: No hard feelings.
+  at:
+  - 554
+  - 251
+  to:
+  - 452
+  - 128
+  width: 200
+  kind: speech
+- text: She isn't angry.
+  at:
+  - 722
+  - 104
+  to:
+  - 452
+  - 128
+  width: 200

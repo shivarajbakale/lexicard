@@ -1,0 +1,20 @@
+image: outputs/serendipity/seed_1.png
+out: outputs/lexicard/serendipity.png
+bubbles:
+- text: I only wanted my sock!
+  at:
+  - 201
+  - 106
+  to:
+  - 284
+  - 244
+  width: 200
+  kind: speech
+- text: 'Serendipity: finding something good by lucky chance'
+  at:
+  - 762
+  - 218
+  to:
+  - 408
+  - 592
+  width: 300

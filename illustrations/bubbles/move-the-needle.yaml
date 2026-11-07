@@ -1,0 +1,28 @@
+image: outputs/move-the-needle/seed_1.png
+out: outputs/lexicard/move-the-needle.png
+bubbles:
+- text: Look, it moved a lot!
+  at:
+  - 617
+  - 179
+  to:
+  - 732
+  - 296
+  width: 200
+  kind: speech
+- text: 'Move the needle: make a real, noticeable difference'
+  at:
+  - 259
+  - 164
+  to:
+  - 472
+  - 428
+  width: 300
+- text: Pushing hard
+  at:
+  - 870
+  - 104
+  to:
+  - 220
+  - 272
+  width: 150

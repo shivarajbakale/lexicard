@@ -1,0 +1,21 @@
+image: outputs/pugnacious/seed_1.png
+out: outputs/lexicard/pugnacious.png
+bubbles:
+- text: Wanna fight about it? Come on!
+  at:
+  - 265
+  - 214
+  to:
+  - 316
+  - 446
+  width: 200
+  kind: speech
+- text: 'Pugnacious: always ready to fight or argue'
+  at:
+  - 819
+  - 122
+  to:
+  - 316
+  - 446
+  width: 259
+  size: 38

@@ -1,0 +1,28 @@
+image: outputs/keep-ones-head-above-water/seed_1.png
+out: outputs/lexicard/keep-ones-head-above-water.png
+bubbles:
+- text: I'm just about staying afloat
+  at:
+  - 135
+  - 155
+  to:
+  - 224
+  - 288
+  width: 200
+- text: The ring = just enough to cope
+  at:
+  - 510
+  - 134
+  to:
+  - 616
+  - 468
+  width: 200
+- text: 'Head above water: barely coping'
+  at:
+  - 832
+  - 240
+  to:
+  - 224
+  - 288
+  width: 259
+  size: 38

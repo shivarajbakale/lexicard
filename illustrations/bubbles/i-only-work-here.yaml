@@ -1,0 +1,30 @@
+image: outputs/i-only-work-here/seed_1.png
+out: outputs/lexicard/i-only-work-here.png
+bubbles:
+- text: Why can't you change it?
+  at:
+  - 130
+  - 106
+  to:
+  - 20
+  - 240
+  width: 200
+  kind: speech
+- text: I only work here!
+  at:
+  - 733
+  - 83
+  to:
+  - 856
+  - 212
+  width: 200
+  kind: speech
+- text: 'I only work here: it''s not my decision'
+  at:
+  - 523
+  - 228
+  to:
+  - 856
+  - 212
+  width: 259
+  size: 38

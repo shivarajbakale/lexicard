@@ -1,0 +1,21 @@
+image: outputs/impregnable/seed_1.png
+out: outputs/lexicard/impregnable.png
+bubbles:
+- text: There is no way in!
+  at:
+  - 116
+  - 423
+  to:
+  - 232
+  - 280
+  width: 163
+  size: 36
+  kind: speech
+- text: 'Impregnable: impossible to break into'
+  at:
+  - 220
+  - 134
+  to:
+  - 448
+  - 464
+  width: 300

@@ -1,0 +1,21 @@
+image: outputs/insatiable/seed_1.png
+out: outputs/lexicard/insatiable.png
+bubbles:
+- text: More, please! I'm still hungry.
+  at:
+  - 250
+  - 83
+  to:
+  - 228
+  - 244
+  width: 300
+  kind: speech
+- text: 'Insatiable: can never get enough'
+  at:
+  - 485
+  - 228
+  to:
+  - 612
+  - 444
+  width: 259
+  size: 38

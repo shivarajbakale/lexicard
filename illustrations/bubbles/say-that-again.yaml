@@ -1,0 +1,20 @@
+image: outputs/say-that-again/seed_1.png
+out: outputs/lexicard/say-that-again.png
+bubbles:
+- text: Say that again?
+  at:
+  - 258
+  - 107
+  to:
+  - 330
+  - 280
+  width: 200
+  kind: speech
+- text: I couldn't hear over the noise.
+  at:
+  - 766
+  - 104
+  to:
+  - 660
+  - 290
+  width: 300

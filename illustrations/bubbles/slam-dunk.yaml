@@ -1,0 +1,29 @@
+image: outputs/slam-dunk/seed_1.png
+out: outputs/lexicard/slam-dunk.png
+bubbles:
+- text: The shot is already going in
+  at:
+  - 176
+  - 242
+  to:
+  - 360
+  - 268
+  width: 200
+- text: I don't even need to watch!
+  at:
+  - 785
+  - 238
+  to:
+  - 664
+  - 344
+  width: 200
+  kind: speech
+- text: 'Slam dunk: a sure thing'
+  at:
+  - 870
+  - 444
+  to:
+  - 508
+  - 160
+  width: 172
+  size: 38

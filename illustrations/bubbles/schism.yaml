@@ -1,0 +1,20 @@
+image: outputs/schism/seed_1.png
+out: outputs/lexicard/schism.png
+bubbles:
+- text: We should go this way!
+  at:
+  - 146
+  - 83
+  to:
+  - 292
+  - 116
+  width: 200
+  kind: speech
+- text: 'Schism: a group splits into two sides'
+  at:
+  - 575
+  - 116
+  to:
+  - 292
+  - 116
+  width: 300

@@ -1,0 +1,28 @@
+image: outputs/easy-money/seed_1.png
+out: outputs/lexicard/easy-money.png
+bubbles:
+- text: Nothing to do for this
+  at:
+  - 246
+  - 104
+  to:
+  - 432
+  - 148
+  width: 200
+- text: Free bag of coins
+  at:
+  - 669
+  - 176
+  to:
+  - 632
+  - 464
+  width: 200
+- text: Easy money!
+  at:
+  - 900
+  - 83
+  to:
+  - 432
+  - 148
+  width: 150
+  kind: speech

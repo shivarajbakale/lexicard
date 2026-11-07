@@ -1,0 +1,21 @@
+image: outputs/burly/seed_1.png
+out: outputs/lexicard/burly.png
+bubbles:
+- text: 'Burly: big, strong and solid'
+  at:
+  - 700
+  - 254
+  to:
+  - 700
+  - 416
+  width: 200
+- text: How do you carry that?
+  at:
+  - 900
+  - 423
+  to:
+  - 700
+  - 416
+  width: 163
+  size: 36
+  kind: speech

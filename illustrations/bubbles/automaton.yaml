@@ -1,0 +1,21 @@
+image: outputs/automaton/seed_1.png
+out: outputs/lexicard/automaton.png
+bubbles:
+- text: Hello! Can you hear me?
+  at:
+  - 567
+  - 107
+  to:
+  - 684
+  - 224
+  width: 200
+  kind: speech
+- text: 'Automaton: acts like a machine, without thinking'
+  at:
+  - 181
+  - 122
+  to:
+  - 344
+  - 140
+  width: 259
+  size: 38

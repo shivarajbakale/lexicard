@@ -1,0 +1,30 @@
+image: outputs/have-been-around-the-block/seed_1.png
+out: outputs/lexicard/have-been-around-the-block.png
+bubbles:
+- text: I'm so nervous about this.
+  at:
+  - 839
+  - 106
+  to:
+  - 680
+  - 124
+  width: 200
+  kind: speech
+- text: Don't worry, I've been around the block.
+  at:
+  - 369
+  - 106
+  to:
+  - 304
+  - 244
+  width: 300
+  kind: speech
+- text: She has lots of experience.
+  at:
+  - 154
+  - 290
+  to:
+  - 304
+  - 244
+  width: 172
+  size: 38

@@ -1,0 +1,29 @@
+image: outputs/eat-crow/seed_1.png
+out: outputs/lexicard/eat-crow.png
+bubbles:
+- text: I told you so!
+  at:
+  - 647
+  - 83
+  to:
+  - 816
+  - 172
+  width: 150
+  kind: speech
+- text: I was wrong...
+  at:
+  - 498
+  - 248
+  to:
+  - 268
+  - 172
+  width: 150
+- text: 'Eat crow: admit you were wrong'
+  at:
+  - 147
+  - 122
+  to:
+  - 448
+  - 632
+  width: 172
+  size: 38

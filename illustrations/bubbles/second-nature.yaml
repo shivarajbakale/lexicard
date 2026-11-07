@@ -1,0 +1,19 @@
+image: outputs/second-nature/seed_1.png
+out: outputs/lexicard/second-nature.png
+bubbles:
+- text: How does he do that?
+  at:
+  - 856
+  - 104
+  to:
+  - 564
+  - 84
+  width: 200
+- text: 'Second nature: so practised it is automatic'
+  at:
+  - 319
+  - 134
+  to:
+  - 576
+  - 136
+  width: 300

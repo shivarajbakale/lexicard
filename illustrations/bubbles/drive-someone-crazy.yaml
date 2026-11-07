@@ -1,0 +1,29 @@
+image: outputs/drive-someone-crazy/seed_1.png
+out: outputs/lexicard/drive-someone-crazy.png
+bubbles:
+- text: The noise never stops
+  at:
+  - 176
+  - 164
+  to:
+  - 332
+  - 200
+  width: 200
+- text: Ringing nonstop
+  at:
+  - 727
+  - 104
+  to:
+  - 312
+  - 536
+  width: 200
+- text: You're driving me crazy!
+  at:
+  - 436
+  - 97
+  to:
+  - 332
+  - 200
+  width: 172
+  size: 38
+  kind: speech

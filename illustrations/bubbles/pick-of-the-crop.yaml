@@ -1,0 +1,21 @@
+image: outputs/pick-of-the-crop/seed_1.png
+out: outputs/lexicard/pick-of-the-crop.png
+bubbles:
+- text: This one is the pick of the crop!
+  at:
+  - 450
+  - 83
+  to:
+  - 244
+  - 132
+  width: 300
+  kind: speech
+- text: 'Pick of the crop: the best of the group'
+  at:
+  - 840
+  - 122
+  to:
+  - 832
+  - 176
+  width: 259
+  size: 38

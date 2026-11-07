@@ -1,0 +1,20 @@
+image: outputs/impartial/seed_1.png
+out: outputs/lexicard/impartial.png
+bubbles:
+- text: Equal halves, nobody is favored.
+  at:
+  - 379
+  - 83
+  to:
+  - 252
+  - 184
+  width: 300
+  kind: speech
+- text: 'Impartial: fair, takes no side'
+  at:
+  - 540
+  - 290
+  to:
+  - 252
+  - 184
+  width: 200

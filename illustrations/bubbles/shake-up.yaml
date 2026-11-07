@@ -1,0 +1,29 @@
+image: outputs/shake-up/seed_1.png
+out: outputs/lexicard/shake-up.png
+bubbles:
+- text: Time to mix things up!
+  at:
+  - 301
+  - 155
+  to:
+  - 464
+  - 180
+  width: 200
+  kind: speech
+- text: Everyone gets a new seat
+  at:
+  - 828
+  - 230
+  to:
+  - 616
+  - 136
+  width: 200
+- text: 'A shake-up: big changes to a team'
+  at:
+  - 185
+  - 336
+  to:
+  - 464
+  - 180
+  width: 259
+  size: 38

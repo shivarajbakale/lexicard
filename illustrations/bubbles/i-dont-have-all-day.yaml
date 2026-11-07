@@ -1,0 +1,30 @@
+image: outputs/i-dont-have-all-day/seed_1.png
+out: outputs/lexicard/i-dont-have-all-day.png
+bubbles:
+- text: I don't have all day!
+  at:
+  - 140
+  - 83
+  to:
+  - 192
+  - 232
+  width: 200
+  kind: speech
+- text: She wants him to hurry
+  at:
+  - 527
+  - 93
+  to:
+  - 192
+  - 232
+  width: 163
+  size: 36
+- text: He keeps stacking slowly
+  at:
+  - 893
+  - 118
+  to:
+  - 820
+  - 172
+  width: 163
+  size: 36

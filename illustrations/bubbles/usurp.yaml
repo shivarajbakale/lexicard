@@ -1,0 +1,20 @@
+image: outputs/usurp/seed_1.png
+out: outputs/lexicard/usurp.png
+bubbles:
+- text: That is my chair and my crown!
+  at:
+  - 161
+  - 106
+  to:
+  - 312
+  - 152
+  width: 200
+  kind: speech
+- text: 'Usurp: take someone''s power without permission'
+  at:
+  - 794
+  - 134
+  to:
+  - 624
+  - 192
+  width: 300

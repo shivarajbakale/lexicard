@@ -1,0 +1,30 @@
+image: outputs/drive-a-hard-bargain/seed_1.png
+out: outputs/lexicard/drive-a-hard-bargain.png
+bubbles:
+- text: Could you lower the price?
+  at:
+  - 176
+  - 118
+  to:
+  - 284
+  - 244
+  width: 200
+  kind: speech
+- text: Not a penny less.
+  at:
+  - 525
+  - 83
+  to:
+  - 856
+  - 224
+  width: 200
+  kind: speech
+- text: She drives a hard bargain
+  at:
+  - 862
+  - 122
+  to:
+  - 388
+  - 552
+  width: 172
+  size: 38

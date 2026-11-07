@@ -1,0 +1,21 @@
+image: outputs/degrade/panels_seed_1.png
+out: outputs/lexicard/degrade.png
+bubbles:
+- text: 'Degrade: make something worse in quality'
+  at:
+  - 258
+  - 122
+  to:
+  - 258
+  - 300
+  width: 259
+  size: 38
+- text: It was perfect, and now look.
+  at:
+  - 764
+  - 130
+  to:
+  - 766
+  - 300
+  width: 200
+  kind: speech

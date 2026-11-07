@@ -1,0 +1,30 @@
+image: outputs/thats-news-to-me/seed_1.png
+out: outputs/lexicard/thats-news-to-me.png
+bubbles:
+- text: We're moving next week.
+  at:
+  - 159
+  - 83
+  to:
+  - 252
+  - 208
+  width: 200
+  kind: speech
+- text: That's news to me!
+  at:
+  - 571
+  - 119
+  to:
+  - 704
+  - 212
+  width: 200
+  kind: speech
+- text: First time hearing this.
+  at:
+  - 863
+  - 141
+  to:
+  - 704
+  - 212
+  width: 163
+  size: 36

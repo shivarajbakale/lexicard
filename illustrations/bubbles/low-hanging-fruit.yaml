@@ -1,0 +1,21 @@
+image: outputs/low-hanging-fruit/seed_1.png
+out: outputs/lexicard/low-hanging-fruit.png
+bubbles:
+- text: Start with the low-hanging fruit.
+  at:
+  - 463
+  - 83
+  to:
+  - 660
+  - 60
+  width: 300
+  kind: speech
+- text: 'Low-hanging fruit: the easiest gains come first'
+  at:
+  - 195
+  - 242
+  to:
+  - 496
+  - 356
+  width: 259
+  size: 38

@@ -1,0 +1,28 @@
+image: outputs/when-push-comes-to-shove/seed_1.png
+out: outputs/lexicard/when-push-comes-to-shove.png
+bubbles:
+- text: We were talking nicely...
+  at:
+  - 176
+  - 146
+  to:
+  - 276
+  - 272
+  width: 200
+- text: Give it to me!
+  at:
+  - 427
+  - 215
+  to:
+  - 276
+  - 272
+  width: 150
+  kind: speech
+- text: 'When push comes to shove: things get serious'
+  at:
+  - 788
+  - 134
+  to:
+  - 456
+  - 464
+  width: 300

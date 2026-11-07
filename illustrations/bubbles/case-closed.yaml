@@ -1,0 +1,21 @@
+image: outputs/case-closed/seed_1.png
+out: outputs/lexicard/case-closed.png
+bubbles:
+- text: Case closed.
+  at:
+  - 154
+  - 83
+  to:
+  - 312
+  - 116
+  width: 150
+  kind: speech
+- text: Great work, partner!
+  at:
+  - 880
+  - 83
+  to:
+  - 752
+  - 132
+  width: 200
+  kind: speech

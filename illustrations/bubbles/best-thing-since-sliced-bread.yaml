@@ -1,0 +1,21 @@
+image: outputs/best-thing-since-sliced-bread/seed_1.png
+out: outputs/lexicard/best-thing-since-sliced-bread.png
+bubbles:
+- text: Look, perfect slices already!
+  at:
+  - 894
+  - 94
+  to:
+  - 848
+  - 184
+  width: 163
+  size: 36
+  kind: speech
+- text: 'Best thing since sliced bread: a great invention'
+  at:
+  - 536
+  - 134
+  to:
+  - 456
+  - 492
+  width: 300

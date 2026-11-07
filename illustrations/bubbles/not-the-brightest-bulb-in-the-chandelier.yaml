@@ -1,0 +1,20 @@
+image: outputs/not-the-brightest-bulb-in-the-chandelier/seed_1.png
+out: outputs/lexicard/not-the-brightest-bulb-in-the-chandelier.png
+bubbles:
+- text: I'm not the brightest bulb in the chandelier.
+  at:
+  - 226
+  - 106
+  to:
+  - 480
+  - 16
+  width: 300
+  kind: speech
+- text: 'Not the brightest bulb: not very clever'
+  at:
+  - 805
+  - 104
+  to:
+  - 572
+  - 128
+  width: 300

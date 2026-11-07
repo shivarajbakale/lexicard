@@ -1,0 +1,21 @@
+image: outputs/decrepit/seed_1.png
+out: outputs/lexicard/decrepit.png
+bubbles:
+- text: This old shed is falling apart!
+  at:
+  - 395
+  - 83
+  to:
+  - 716
+  - 76
+  width: 300
+  kind: speech
+- text: 'Decrepit: old and falling apart'
+  at:
+  - 847
+  - 660
+  to:
+  - 716
+  - 76
+  width: 259
+  size: 38

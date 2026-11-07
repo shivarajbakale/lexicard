@@ -1,0 +1,27 @@
+image: outputs/time-flies/seed_1.png
+out: outputs/lexicard/time-flies.png
+bubbles:
+- text: This party is so fun!
+  at:
+  - 175
+  - 164
+  to:
+  - 280
+  - 284
+  width: 200
+- text: Where did the hours go?
+  at:
+  - 634
+  - 134
+  to:
+  - 640
+  - 324
+  width: 200
+- text: Time flies when you're having fun
+  at:
+  - 710
+  - 596
+  to:
+  - 280
+  - 284
+  width: 300

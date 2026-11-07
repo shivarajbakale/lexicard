@@ -1,0 +1,20 @@
+image: outputs/patient/seed_1.png
+out: outputs/lexicard/patient.png
+bubbles:
+- text: Why is nothing happening yet?!
+  at:
+  - 700
+  - 201
+  to:
+  - 716
+  - 362
+  width: 200
+  kind: speech
+- text: 'Patient: calmly willing to wait'
+  at:
+  - 347
+  - 104
+  to:
+  - 156
+  - 140
+  width: 300

@@ -1,0 +1,20 @@
+image: outputs/story-of-my-life/seed_1.png
+out: outputs/lexicard/story-of-my-life.png
+bubbles:
+- text: Story of my life!
+  at:
+  - 137
+  - 83
+  to:
+  - 212
+  - 168
+  width: 200
+  kind: speech
+- text: This kind of luck keeps happening.
+  at:
+  - 661
+  - 248
+  to:
+  - 212
+  - 168
+  width: 300

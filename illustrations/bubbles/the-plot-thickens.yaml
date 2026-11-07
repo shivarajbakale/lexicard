@@ -1,0 +1,21 @@
+image: outputs/the-plot-thickens/seed_1.png
+out: outputs/lexicard/the-plot-thickens.png
+bubbles:
+- text: The plot thickens!
+  at:
+  - 223
+  - 83
+  to:
+  - 284
+  - 232
+  width: 200
+  kind: speech
+- text: 'The plot thickens: things get more complicated'
+  at:
+  - 825
+  - 122
+  to:
+  - 520
+  - 620
+  width: 259
+  size: 38

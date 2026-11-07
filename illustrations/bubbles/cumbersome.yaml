@@ -1,0 +1,20 @@
+image: outputs/cumbersome/seed_1.png
+out: outputs/lexicard/cumbersome.png
+bubbles:
+- text: This is so big and awkward to carry!
+  at:
+  - 347
+  - 83
+  to:
+  - 232
+  - 196
+  width: 300
+  kind: speech
+- text: 'Cumbersome: hard to carry or handle'
+  at:
+  - 807
+  - 104
+  to:
+  - 716
+  - 164
+  width: 300

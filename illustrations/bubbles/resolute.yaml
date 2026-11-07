@@ -1,0 +1,21 @@
+image: outputs/resolute/seed_1.png
+out: outputs/lexicard/resolute.png
+bubbles:
+- text: Give up, it is too windy!
+  at:
+  - 607
+  - 251
+  to:
+  - 680
+  - 390
+  width: 200
+  kind: speech
+- text: 'Resolute: firmly decided, keeps going'
+  at:
+  - 803
+  - 96
+  to:
+  - 272
+  - 176
+  width: 259
+  size: 38

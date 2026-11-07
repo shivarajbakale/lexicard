@@ -1,0 +1,28 @@
+image: outputs/snake-oil/seed_1.png
+out: outputs/lexicard/snake-oil.png
+bubbles:
+- text: This cures everything! Buy now!
+  at:
+  - 285
+  - 238
+  to:
+  - 452
+  - 288
+  width: 300
+  kind: speech
+- text: 'Snake oil: a worthless cure-all'
+  at:
+  - 585
+  - 104
+  to:
+  - 628
+  - 304
+  width: 300
+- text: I don't believe a word
+  at:
+  - 883
+  - 242
+  to:
+  - 596
+  - 216
+  width: 200

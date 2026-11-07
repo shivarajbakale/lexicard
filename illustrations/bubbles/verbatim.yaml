@@ -1,0 +1,31 @@
+image: outputs/verbatim/seed_1.png
+out: outputs/lexicard/verbatim.png
+bubbles:
+- text: The meeting starts at noon sharp.
+  at:
+  - 169
+  - 75
+  to:
+  - 188
+  - 172
+  width: 245
+  size: 36
+  kind: speech
+- text: The meeting starts at noon sharp.
+  at:
+  - 545
+  - 83
+  to:
+  - 644
+  - 200
+  width: 300
+  kind: speech
+- text: 'Verbatim: using exactly the same words'
+  at:
+  - 840
+  - 230
+  to:
+  - 724
+  - 404
+  width: 259
+  size: 38

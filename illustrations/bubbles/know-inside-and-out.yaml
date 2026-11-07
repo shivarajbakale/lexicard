@@ -1,0 +1,21 @@
+image: outputs/know-inside-and-out/seed_1.png
+out: outputs/lexicard/know-inside-and-out.png
+bubbles:
+- text: I know every part inside
+  at:
+  - 142
+  - 93
+  to:
+  - 212
+  - 156
+  width: 163
+  size: 36
+- text: 'Know inside and out: understand completely'
+  at:
+  - 838
+  - 122
+  to:
+  - 212
+  - 156
+  width: 259
+  size: 38

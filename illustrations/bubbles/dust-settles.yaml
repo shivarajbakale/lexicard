@@ -1,0 +1,11 @@
+image: outputs/dust-settles/seed_1.png
+out: outputs/lexicard/dust-settles.png
+bubbles:
+- text: 'Dust settles: the chaos calms, things become clear'
+  at:
+  - 525
+  - 134
+  to:
+  - 708
+  - 212
+  width: 300

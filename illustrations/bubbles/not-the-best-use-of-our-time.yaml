@@ -1,0 +1,28 @@
+image: outputs/not-the-best-use-of-our-time/seed_1.png
+out: outputs/lexicard/not-the-best-use-of-our-time.png
+bubbles:
+- text: I'm not sure that's the best use of our time.
+  at:
+  - 194
+  - 106
+  to:
+  - 264
+  - 208
+  width: 300
+  kind: speech
+- text: Polite doubt
+  at:
+  - 494
+  - 176
+  to:
+  - 264
+  - 208
+  width: 150
+- text: Better things to do
+  at:
+  - 842
+  - 128
+  to:
+  - 704
+  - 216
+  width: 200

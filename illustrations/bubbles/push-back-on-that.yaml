@@ -1,0 +1,30 @@
+image: outputs/push-back-on-that/seed_1.png
+out: outputs/lexicard/push-back-on-that.png
+bubbles:
+- text: Let's add three more features!
+  at:
+  - 129
+  - 106
+  to:
+  - 296
+  - 132
+  width: 200
+  kind: speech
+- text: Let me push back on that.
+  at:
+  - 583
+  - 106
+  to:
+  - 832
+  - 184
+  width: 200
+  kind: speech
+- text: 'Push back: politely challenge an idea'
+  at:
+  - 507
+  - 312
+  to:
+  - 832
+  - 184
+  width: 259
+  size: 38

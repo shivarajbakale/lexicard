@@ -1,0 +1,21 @@
+image: outputs/hyperbole/seed_1.png
+out: outputs/lexicard/hyperbole.png
+bubbles:
+- text: This bag weighs a ton!
+  at:
+  - 256
+  - 203
+  to:
+  - 286
+  - 426
+  width: 200
+  kind: speech
+- text: 'Hyperbole: wild exaggeration for effect'
+  at:
+  - 575
+  - 122
+  to:
+  - 496
+  - 416
+  width: 259
+  size: 38

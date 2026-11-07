@@ -1,0 +1,29 @@
+image: outputs/each-to-their-own/seed_1.png
+out: outputs/lexicard/each-to-their-own.png
+bubbles:
+- text: You like that? Weird!
+  at:
+  - 171
+  - 83
+  to:
+  - 176
+  - 232
+  width: 200
+  kind: speech
+- text: Well, each to their own.
+  at:
+  - 458
+  - 143
+  to:
+  - 300
+  - 196
+  width: 200
+  kind: speech
+- text: People choose their own taste.
+  at:
+  - 837
+  - 134
+  to:
+  - 300
+  - 196
+  width: 200

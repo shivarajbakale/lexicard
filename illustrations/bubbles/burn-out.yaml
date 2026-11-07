@@ -1,0 +1,19 @@
+image: outputs/burn-out/seed_1.png
+out: outputs/lexicard/burn-out.png
+bubbles:
+- text: Too much work for too long
+  at:
+  - 301
+  - 206
+  to:
+  - 576
+  - 304
+  width: 200
+- text: 'Burn out: exhausted from overwork'
+  at:
+  - 697
+  - 164
+  to:
+  - 576
+  - 304
+  width: 300

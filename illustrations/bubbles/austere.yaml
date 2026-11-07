@@ -1,0 +1,21 @@
+image: outputs/austere/seed_1.png
+out: outputs/lexicard/austere.png
+bubbles:
+- text: Where is all the furniture?
+  at:
+  - 535
+  - 130
+  to:
+  - 684
+  - 184
+  width: 200
+  kind: speech
+- text: 'Austere: plain and strict, no comforts'
+  at:
+  - 199
+  - 96
+  to:
+  - 340
+  - 172
+  width: 259
+  size: 38

@@ -1,0 +1,29 @@
+image: outputs/tough-love/seed_1.png
+out: outputs/lexicard/tough-love.png
+bubbles:
+- text: Please fix it for me
+  at:
+  - 578
+  - 203
+  to:
+  - 636
+  - 356
+  width: 200
+  kind: speech
+- text: No, you try it
+  at:
+  - 197
+  - 83
+  to:
+  - 396
+  - 166
+  width: 150
+  kind: speech
+- text: 'Tough love: firm but caring'
+  at:
+  - 864
+  - 278
+  to:
+  - 448
+  - 632
+  width: 200

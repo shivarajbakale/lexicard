@@ -1,0 +1,20 @@
+image: outputs/expedite/seed_1.png
+out: outputs/lexicard/expedite.png
+bubbles:
+- text: 'Expedite: make something happen faster'
+  at:
+  - 298
+  - 134
+  to:
+  - 240
+  - 280
+  width: 300
+- text: Hurry, please speed that delivery up!
+  at:
+  - 771
+  - 83
+  to:
+  - 768
+  - 212
+  width: 300
+  kind: speech

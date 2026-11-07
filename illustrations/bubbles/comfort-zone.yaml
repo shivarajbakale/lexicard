@@ -1,0 +1,28 @@
+image: outputs/comfort-zone/seed_1.png
+out: outputs/lexicard/comfort-zone.png
+bubbles:
+- text: It's safe and familiar here
+  at:
+  - 166
+  - 104
+  to:
+  - 304
+  - 144
+  width: 200
+- text: The armchair = what you know
+  at:
+  - 714
+  - 164
+  to:
+  - 324
+  - 468
+  width: 200
+- text: 'Comfort zone: where you feel safe'
+  at:
+  - 834
+  - 420
+  to:
+  - 304
+  - 144
+  width: 259
+  size: 38

@@ -1,0 +1,21 @@
+image: outputs/quit-while-one-is-ahead/seed_1.png
+out: outputs/lexicard/quit-while-one-is-ahead.png
+bubbles:
+- text: I'll quit while I'm ahead.
+  at:
+  - 144
+  - 83
+  to:
+  - 192
+  - 168
+  width: 200
+  kind: speech
+- text: Stay one more round!
+  at:
+  - 606
+  - 83
+  to:
+  - 816
+  - 168
+  width: 200
+  kind: speech

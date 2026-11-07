@@ -1,0 +1,28 @@
+image: outputs/have-ones-cake-and-eat-it-too/seed_1.png
+out: outputs/lexicard/have-ones-cake-and-eat-it-too.png
+bubbles:
+- text: Yum, and I still have it!
+  at:
+  - 347
+  - 104
+  to:
+  - 608
+  - 116
+  width: 200
+- text: The cake is both eaten and kept
+  at:
+  - 192
+  - 308
+  to:
+  - 444
+  - 536
+  width: 300
+- text: 'Have your cake and eat it: enjoy both options'
+  at:
+  - 823
+  - 122
+  to:
+  - 608
+  - 116
+  width: 259
+  size: 38

@@ -1,0 +1,29 @@
+image: outputs/to-die-for/seed_1.png
+out: outputs/lexicard/to-die-for.png
+bubbles:
+- text: How is it?
+  at:
+  - 626
+  - 181
+  to:
+  - 760
+  - 272
+  width: 150
+  kind: speech
+- text: This cake is to die for!
+  at:
+  - 401
+  - 95
+  to:
+  - 324
+  - 240
+  width: 200
+  kind: speech
+- text: Amazingly good
+  at:
+  - 874
+  - 104
+  to:
+  - 476
+  - 452
+  width: 150

@@ -1,0 +1,29 @@
+image: outputs/drop-the-ball/seed_2.png
+out: outputs/lexicard/drop-the-ball.png
+bubbles:
+- text: Oops, it slipped out of my hands
+  at:
+  - 228
+  - 155
+  to:
+  - 392
+  - 208
+  width: 300
+  kind: speech
+- text: The ball falls, the job fails
+  at:
+  - 795
+  - 278
+  to:
+  - 660
+  - 124
+  width: 200
+- text: 'Drop the ball: fail at an important duty'
+  at:
+  - 189
+  - 374
+  to:
+  - 660
+  - 124
+  width: 259
+  size: 38

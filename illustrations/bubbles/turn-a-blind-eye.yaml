@@ -1,0 +1,28 @@
+image: outputs/turn-a-blind-eye/seed_1.png
+out: outputs/lexicard/turn-a-blind-eye.png
+bubbles:
+- text: Shh, sneak out quietly...
+  at:
+  - 180
+  - 116
+  to:
+  - 372
+  - 264
+  width: 200
+- text: The stolen bag goes right past
+  at:
+  - 539
+  - 230
+  to:
+  - 804
+  - 516
+  width: 200
+- text: 'Turn a blind eye: ignore on purpose'
+  at:
+  - 825
+  - 96
+  to:
+  - 252
+  - 208
+  width: 259
+  size: 38

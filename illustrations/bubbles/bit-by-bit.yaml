@@ -1,0 +1,27 @@
+image: outputs/bit-by-bit/seed_1.png
+out: outputs/lexicard/bit-by-bit.png
+bubbles:
+- text: One brick at a time
+  at:
+  - 198
+  - 128
+  to:
+  - 388
+  - 148
+  width: 200
+- text: This brick = one small step
+  at:
+  - 781
+  - 338
+  to:
+  - 576
+  - 460
+  width: 200
+- text: 'Bit by bit: little by little, gradually'
+  at:
+  - 639
+  - 104
+  to:
+  - 388
+  - 148
+  width: 300

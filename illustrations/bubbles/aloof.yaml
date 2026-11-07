@@ -1,0 +1,21 @@
+image: outputs/aloof/seed_1.png
+out: outputs/lexicard/aloof.png
+bubbles:
+- text: Come join us!
+  at:
+  - 634
+  - 155
+  to:
+  - 764
+  - 252
+  width: 150
+  kind: speech
+- text: 'Aloof: staying distant from other people'
+  at:
+  - 316
+  - 122
+  to:
+  - 208
+  - 184
+  width: 259
+  size: 38

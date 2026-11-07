@@ -1,0 +1,28 @@
+image: outputs/jump-through-hoops/seed_1.png
+out: outputs/lexicard/jump-through-hoops.png
+bubbles:
+- text: Another one? I just did three
+  at:
+  - 290
+  - 206
+  to:
+  - 516
+  - 240
+  width: 200
+- text: Prize waits at the end
+  at:
+  - 606
+  - 140
+  to:
+  - 832
+  - 256
+  width: 200
+- text: 'Jump through hoops: do many annoying steps to succeed'
+  at:
+  - 820
+  - 616
+  to:
+  - 516
+  - 240
+  width: 259
+  size: 38

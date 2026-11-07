@@ -1,0 +1,21 @@
+image: outputs/make-the-best-of/seed_1.png
+out: outputs/lexicard/make-the-best-of.png
+bubbles:
+- text: The tent leaks, but we're fine!
+  at:
+  - 364
+  - 83
+  to:
+  - 688
+  - 96
+  width: 300
+  kind: speech
+- text: 'Make the best of it: enjoy a bad situation'
+  at:
+  - 833
+  - 122
+  to:
+  - 464
+  - 288
+  width: 259
+  size: 38

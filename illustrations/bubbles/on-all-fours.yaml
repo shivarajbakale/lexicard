@@ -1,0 +1,28 @@
+image: outputs/on-all-fours/seed_1.png
+out: outputs/lexicard/on-all-fours.png
+bubbles:
+- text: Come on, crawl to it!
+  at:
+  - 887
+  - 83
+  to:
+  - 796
+  - 144
+  width: 200
+  kind: speech
+- text: 'On all fours: on hands and knees'
+  at:
+  - 398
+  - 248
+  to:
+  - 624
+  - 60
+  width: 300
+- text: The goal
+  at:
+  - 121
+  - 422
+  to:
+  - 492
+  - 628
+  width: 150

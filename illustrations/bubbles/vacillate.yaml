@@ -1,0 +1,21 @@
+image: outputs/vacillate/seed_1.png
+out: outputs/lexicard/vacillate.png
+bubbles:
+- text: Hmm, this one... no, that one...
+  at:
+  - 371
+  - 83
+  to:
+  - 260
+  - 192
+  width: 300
+  kind: speech
+- text: 'Vacillate: keep changing your mind'
+  at:
+  - 780
+  - 96
+  to:
+  - 856
+  - 192
+  width: 259
+  size: 38

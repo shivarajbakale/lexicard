@@ -1,0 +1,20 @@
+image: outputs/dilettante/seed_1.png
+out: outputs/lexicard/dilettante.png
+bubbles:
+- text: Which one will you finish?
+  at:
+  - 644
+  - 118
+  to:
+  - 788
+  - 192
+  width: 200
+  kind: speech
+- text: 'Dilettante: dabbles for fun, never serious'
+  at:
+  - 222
+  - 134
+  to:
+  - 400
+  - 180
+  width: 300

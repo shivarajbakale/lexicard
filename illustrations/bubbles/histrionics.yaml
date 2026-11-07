@@ -1,0 +1,20 @@
+image: outputs/histrionics/seed_1.png
+out: outputs/lexicard/histrionics.png
+bubbles:
+- text: My life is ruined forever!
+  at:
+  - 235
+  - 250
+  to:
+  - 190
+  - 406
+  width: 200
+  kind: speech
+- text: 'Histrionics: over-the-top dramatic fuss'
+  at:
+  - 505
+  - 134
+  to:
+  - 190
+  - 406
+  width: 300

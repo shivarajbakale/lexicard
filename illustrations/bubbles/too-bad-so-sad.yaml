@@ -1,0 +1,20 @@
+image: outputs/too-bad-so-sad/seed_1.png
+out: outputs/lexicard/too-bad-so-sad.png
+bubbles:
+- text: Too bad, so sad!
+  at:
+  - 155
+  - 83
+  to:
+  - 304
+  - 136
+  width: 200
+  kind: speech
+- text: Mocking, not sympathetic.
+  at:
+  - 597
+  - 104
+  to:
+  - 304
+  - 136
+  width: 200

@@ -1,0 +1,28 @@
+image: outputs/day-in-day-out/panels_seed_1.png
+out: outputs/lexicard/day-in-day-out.png
+bubbles:
+- text: Monday, same walk, same bus
+  at:
+  - 174
+  - 118
+  to:
+  - 258
+  - 300
+  width: 163
+  size: 36
+- text: Rain or shine, again
+  at:
+  - 482
+  - 128
+  to:
+  - 766
+  - 300
+  width: 200
+- text: 'Day in, day out: every single day'
+  at:
+  - 834
+  - 128
+  to:
+  - 766
+  - 300
+  width: 300

@@ -1,0 +1,28 @@
+image: outputs/put-ones-foot-in-ones-mouth/seed_2.png
+out: outputs/lexicard/put-ones-foot-in-ones-mouth.png
+bubbles:
+- text: He asked when her baby is due
+  at:
+  - 161
+  - 134
+  to:
+  - 300
+  - 204
+  width: 200
+- text: I'm not pregnant.
+  at:
+  - 468
+  - 83
+  to:
+  - 820
+  - 296
+  width: 200
+  kind: speech
+- text: 'Foot in mouth: say something embarrassing'
+  at:
+  - 804
+  - 134
+  to:
+  - 504
+  - 532
+  width: 300

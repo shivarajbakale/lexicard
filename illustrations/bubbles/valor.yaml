@@ -1,0 +1,21 @@
+image: outputs/valor/seed_1.png
+out: outputs/lexicard/valor.png
+bubbles:
+- text: Stand back, I will face it!
+  at:
+  - 421
+  - 83
+  to:
+  - 584
+  - 84
+  width: 200
+  kind: speech
+- text: 'Valor: great courage facing danger'
+  at:
+  - 167
+  - 218
+  to:
+  - 584
+  - 84
+  width: 259
+  size: 38

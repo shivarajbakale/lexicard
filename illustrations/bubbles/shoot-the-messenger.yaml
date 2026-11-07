@@ -1,0 +1,22 @@
+image: outputs/shoot-the-messenger/seed_1.png
+out: outputs/lexicard/shoot-the-messenger.png
+bubbles:
+- text: I only brought the news!
+  at:
+  - 529
+  - 670
+  to:
+  - 860
+  - 124
+  width: 163
+  size: 36
+  kind: speech
+- text: 'Shoot the messenger: blame who delivers bad news'
+  at:
+  - 493
+  - 148
+  to:
+  - 548
+  - 476
+  width: 259
+  size: 38

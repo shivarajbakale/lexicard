@@ -1,0 +1,20 @@
+image: outputs/on-the-receiving-end/seed_1.png
+out: outputs/lexicard/on-the-receiving-end.png
+bubbles:
+- text: You were wrong!
+  at:
+  - 172
+  - 131
+  to:
+  - 72
+  - 256
+  width: 200
+  kind: speech
+- text: 'On the receiving end: taking the blame'
+  at:
+  - 619
+  - 146
+  to:
+  - 324
+  - 324
+  width: 300

@@ -1,0 +1,20 @@
+image: outputs/clandestine/seed_1.png
+out: outputs/lexicard/clandestine.png
+bubbles:
+- text: Quiet! Nobody must know we met.
+  at:
+  - 210
+  - 83
+  to:
+  - 348
+  - 168
+  width: 300
+  kind: speech
+- text: 'Clandestine: done in secret, hidden from others'
+  at:
+  - 677
+  - 170
+  to:
+  - 468
+  - 200
+  width: 300

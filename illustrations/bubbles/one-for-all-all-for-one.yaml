@@ -1,0 +1,21 @@
+image: outputs/one-for-all-all-for-one/seed_1.png
+out: outputs/lexicard/one-for-all-all-for-one.png
+bubbles:
+- text: One for all, all for one!
+  at:
+  - 251
+  - 83
+  to:
+  - 408
+  - 48
+  width: 200
+  kind: speech
+- text: 'One for all, all for one: everyone supports everyone'
+  at:
+  - 825
+  - 122
+  to:
+  - 524
+  - 140
+  width: 259
+  size: 38

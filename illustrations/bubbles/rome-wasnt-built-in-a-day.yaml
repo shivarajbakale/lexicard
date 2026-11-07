@@ -1,0 +1,21 @@
+image: outputs/rome-wasnt-built-in-a-day/seed_1.png
+out: outputs/lexicard/rome-wasnt-built-in-a-day.png
+bubbles:
+- text: Rome wasn't built in a day.
+  at:
+  - 550
+  - 118
+  to:
+  - 768
+  - 236
+  width: 200
+  kind: speech
+- text: Big results take time and steady effort
+  at:
+  - 176
+  - 122
+  to:
+  - 512
+  - 432
+  width: 259
+  size: 38

@@ -1,0 +1,20 @@
+image: outputs/i-rest-my-case/seed_2.png
+out: outputs/lexicard/i-rest-my-case.png
+bubbles:
+- text: Crumbs on the jar, crumbs on you. I rest my case.
+  at:
+  - 196
+  - 106
+  to:
+  - 324
+  - 188
+  width: 300
+  kind: speech
+- text: 'I rest my case: the proof says it all'
+  at:
+  - 763
+  - 200
+  to:
+  - 508
+  - 632
+  width: 300

@@ -1,0 +1,21 @@
+image: outputs/dead-on/seed_1.png
+out: outputs/lexicard/dead-on.png
+bubbles:
+- text: One throw, right in the middle!
+  at:
+  - 319
+  - 83
+  to:
+  - 204
+  - 188
+  width: 300
+  kind: speech
+- text: 'Dead on: exactly accurate'
+  at:
+  - 767
+  - 122
+  to:
+  - 572
+  - 348
+  width: 172
+  size: 38

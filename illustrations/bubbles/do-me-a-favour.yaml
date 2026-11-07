@@ -1,0 +1,21 @@
+image: outputs/do-me-a-favour/seed_1.png
+out: outputs/lexicard/do-me-a-favour.png
+bubbles:
+- text: Could you do me a favour?
+  at:
+  - 336
+  - 83
+  to:
+  - 248
+  - 212
+  width: 200
+  kind: speech
+- text: 'Do me a favour: politely asking for help'
+  at:
+  - 523
+  - 266
+  to:
+  - 524
+  - 448
+  width: 259
+  size: 38

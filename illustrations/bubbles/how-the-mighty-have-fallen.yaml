@@ -1,0 +1,21 @@
+image: outputs/how-the-mighty-have-fallen/seed_1.png
+out: outputs/lexicard/how-the-mighty-have-fallen.png
+bubbles:
+- text: How the mighty have fallen!
+  at:
+  - 522
+  - 166
+  to:
+  - 848
+  - 212
+  width: 200
+  kind: speech
+- text: Someone powerful has been brought down
+  at:
+  - 188
+  - 134
+  to:
+  - 728
+  - 132
+  width: 259
+  size: 38

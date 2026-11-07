@@ -1,0 +1,12 @@
+image: outputs/die-hard/seed_2.png
+out: outputs/lexicard/die-hard.png
+bubbles:
+- text: 'Die-hard: loyal and never gives up'
+  at:
+  - 190
+  - 96
+  to:
+  - 700
+  - 176
+  width: 259
+  size: 38

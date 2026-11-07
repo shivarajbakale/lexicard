@@ -1,0 +1,28 @@
+image: outputs/turn-a-profit/seed_1.png
+out: outputs/lexicard/turn-a-profit.png
+bubbles:
+- text: I spent a little
+  at:
+  - 377
+  - 188
+  to:
+  - 544
+  - 216
+  width: 200
+- text: This pitcher made the money
+  at:
+  - 805
+  - 626
+  to:
+  - 312
+  - 488
+  width: 200
+- text: I turned a profit!
+  at:
+  - 690
+  - 143
+  to:
+  - 544
+  - 216
+  width: 200
+  kind: speech

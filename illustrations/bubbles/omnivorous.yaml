@@ -1,0 +1,20 @@
+image: outputs/omnivorous/seed_1.png
+out: outputs/lexicard/omnivorous.png
+bubbles:
+- text: I eat plants and animals!
+  at:
+  - 265
+  - 191
+  to:
+  - 280
+  - 352
+  width: 200
+  kind: speech
+- text: 'Omnivorous: eats both plants and meat'
+  at:
+  - 768
+  - 158
+  to:
+  - 608
+  - 508
+  width: 300

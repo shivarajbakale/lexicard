@@ -1,0 +1,21 @@
+image: outputs/bad-apple/seed_1.png
+out: outputs/lexicard/bad-apple.png
+bubbles:
+- text: Something smells off in here
+  at:
+  - 137
+  - 106
+  to:
+  - 184
+  - 204
+  width: 200
+  kind: speech
+- text: 'Bad apple: a troublemaker who spoils the group'
+  at:
+  - 825
+  - 122
+  to:
+  - 508
+  - 532
+  width: 259
+  size: 38

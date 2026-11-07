@@ -1,0 +1,28 @@
+image: outputs/burst-into-tears/seed_1.png
+out: outputs/lexicard/burst-into-tears.png
+bubbles:
+- text: Oh no, my ice cream!
+  at:
+  - 371
+  - 104
+  to:
+  - 528
+  - 156
+  width: 200
+- text: Waaah!
+  at:
+  - 657
+  - 61
+  to:
+  - 528
+  - 156
+  width: 150
+  kind: speech
+- text: 'Burst into tears: suddenly start crying'
+  at:
+  - 204
+  - 326
+  to:
+  - 384
+  - 576
+  width: 300

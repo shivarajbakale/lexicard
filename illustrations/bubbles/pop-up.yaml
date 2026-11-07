@@ -1,0 +1,29 @@
+image: outputs/pop-up/seed_1.png
+out: outputs/lexicard/pop-up.png
+bubbles:
+- text: Something just appeared!
+  at:
+  - 348
+  - 182
+  to:
+  - 532
+  - 228
+  width: 200
+- text: Surprise!
+  at:
+  - 666
+  - 205
+  to:
+  - 760
+  - 348
+  width: 150
+  kind: speech
+- text: 'Pop up: appear suddenly'
+  at:
+  - 895
+  - 290
+  to:
+  - 520
+  - 400
+  width: 172
+  size: 38

@@ -1,0 +1,21 @@
+image: outputs/wrest/seed_1.png
+out: outputs/lexicard/wrest.png
+bubbles:
+- text: Let go, it's mine!
+  at:
+  - 269
+  - 119
+  to:
+  - 216
+  - 270
+  width: 200
+  kind: speech
+- text: 'Wrest: pull away by force'
+  at:
+  - 502
+  - 242
+  to:
+  - 440
+  - 424
+  width: 172
+  size: 38

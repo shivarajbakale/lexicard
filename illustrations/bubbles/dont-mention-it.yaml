@@ -1,0 +1,29 @@
+image: outputs/dont-mention-it/seed_1.png
+out: outputs/lexicard/dont-mention-it.png
+bubbles:
+- text: Thanks so much for this!
+  at:
+  - 126
+  - 106
+  to:
+  - 312
+  - 56
+  width: 200
+  kind: speech
+- text: Don't mention it!
+  at:
+  - 633
+  - 155
+  to:
+  - 730
+  - 294
+  width: 200
+  kind: speech
+- text: No big deal
+  at:
+  - 885
+  - 104
+  to:
+  - 312
+  - 56
+  width: 150

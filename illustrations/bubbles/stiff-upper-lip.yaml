@@ -1,0 +1,28 @@
+image: outputs/stiff-upper-lip/seed_1.png
+out: outputs/lexicard/stiff-upper-lip.png
+bubbles:
+- text: I am so sad
+  at:
+  - 893
+  - 536
+  to:
+  - 686
+  - 536
+  width: 150
+- text: He holds firm
+  at:
+  - 744
+  - 104
+  to:
+  - 388
+  - 152
+  width: 150
+- text: Keep a stiff upper lip
+  at:
+  - 864
+  - 287
+  to:
+  - 372
+  - 28
+  width: 200
+  kind: speech

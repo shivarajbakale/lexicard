@@ -1,0 +1,20 @@
+image: outputs/indolent/seed_1.png
+out: outputs/lexicard/indolent.png
+bubbles:
+- text: Can you help with the leaves?
+  at:
+  - 600
+  - 106
+  to:
+  - 848
+  - 216
+  width: 200
+  kind: speech
+- text: 'Indolent: lazy, avoids any effort'
+  at:
+  - 253
+  - 128
+  to:
+  - 248
+  - 296
+  width: 300

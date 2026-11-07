@@ -1,0 +1,21 @@
+image: outputs/admonish/seed_1.png
+out: outputs/lexicard/admonish.png
+bubbles:
+- text: No drawing on walls. Never again!
+  at:
+  - 362
+  - 83
+  to:
+  - 636
+  - 52
+  width: 300
+  kind: speech
+- text: 'Admonish: firmly say behaviour is wrong'
+  at:
+  - 831
+  - 122
+  to:
+  - 636
+  - 52
+  width: 259
+  size: 38

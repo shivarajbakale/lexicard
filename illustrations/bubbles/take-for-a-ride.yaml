@@ -1,0 +1,28 @@
+image: outputs/take-for-a-ride/seed_1.png
+out: outputs/lexicard/take-for-a-ride.png
+bubbles:
+- text: Wait, where did my money go?
+  at:
+  - 500
+  - 134
+  to:
+  - 584
+  - 268
+  width: 200
+- text: The car ride = the trick
+  at:
+  - 844
+  - 344
+  to:
+  - 532
+  - 520
+  width: 200
+- text: 'Take for a ride: deceive someone'
+  at:
+  - 851
+  - 108
+  to:
+  - 328
+  - 220
+  width: 259
+  size: 38

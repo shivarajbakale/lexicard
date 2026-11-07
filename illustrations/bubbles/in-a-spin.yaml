@@ -1,0 +1,21 @@
+image: outputs/in-a-spin/seed_1.png
+out: outputs/lexicard/in-a-spin.png
+bubbles:
+- text: What happened?
+  at:
+  - 343
+  - 83
+  to:
+  - 740
+  - 192
+  width: 150
+  kind: speech
+- text: 'In a spin: confused by sudden change'
+  at:
+  - 826
+  - 96
+  to:
+  - 328
+  - 472
+  width: 259
+  size: 38

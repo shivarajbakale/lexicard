@@ -1,0 +1,21 @@
+image: outputs/malleable/seed_1.png
+out: outputs/lexicard/malleable.png
+bubbles:
+- text: Can it be any shape?
+  at:
+  - 672
+  - 263
+  to:
+  - 700
+  - 500
+  width: 200
+  kind: speech
+- text: 'Malleable: easy to shape and bend'
+  at:
+  - 828
+  - 96
+  to:
+  - 476
+  - 608
+  width: 259
+  size: 38

@@ -1,0 +1,21 @@
+image: outputs/inundate/seed_1.png
+out: outputs/lexicard/inundate.png
+bubbles:
+- text: Stop, I'm swamped with letters!
+  at:
+  - 721
+  - 179
+  to:
+  - 696
+  - 346
+  width: 300
+  kind: speech
+- text: 'Inundate: overwhelm with too much at once'
+  at:
+  - 197
+  - 122
+  to:
+  - 596
+  - 472
+  width: 259
+  size: 38

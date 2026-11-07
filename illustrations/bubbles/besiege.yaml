@@ -1,0 +1,20 @@
+image: outputs/besiege/seed_1.png
+out: outputs/lexicard/besiege.png
+bubbles:
+- text: Please, one at a time!
+  at:
+  - 249
+  - 83
+  to:
+  - 300
+  - 236
+  width: 200
+  kind: speech
+- text: 'Besiege: crowd around so you cannot move'
+  at:
+  - 569
+  - 134
+  to:
+  - 300
+  - 236
+  width: 300

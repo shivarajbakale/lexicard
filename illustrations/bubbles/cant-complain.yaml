@@ -1,0 +1,29 @@
+image: outputs/cant-complain/seed_1.png
+out: outputs/lexicard/cant-complain.png
+bubbles:
+- text: How's life treating you?
+  at:
+  - 544
+  - 83
+  to:
+  - 800
+  - 184
+  width: 200
+  kind: speech
+- text: Can't complain!
+  at:
+  - 237
+  - 83
+  to:
+  - 320
+  - 216
+  width: 200
+  kind: speech
+- text: Things are pretty good
+  at:
+  - 871
+  - 104
+  to:
+  - 320
+  - 216
+  width: 200

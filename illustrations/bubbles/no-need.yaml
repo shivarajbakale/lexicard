@@ -1,0 +1,29 @@
+image: outputs/no-need/seed_1.png
+out: outputs/lexicard/no-need.png
+bubbles:
+- text: Let me pay for dinner!
+  at:
+  - 165
+  - 95
+  to:
+  - 216
+  - 244
+  width: 200
+  kind: speech
+- text: No need, it's on me.
+  at:
+  - 777
+  - 119
+  to:
+  - 832
+  - 272
+  width: 200
+  kind: speech
+- text: It's not necessary.
+  at:
+  - 505
+  - 200
+  to:
+  - 832
+  - 272
+  width: 200

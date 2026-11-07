@@ -1,0 +1,29 @@
+image: outputs/strike-while-the-iron-is-hot/seed_1.png
+out: outputs/lexicard/strike-while-the-iron-is-hot.png
+bubbles:
+- text: Hit it now, it's glowing!
+  at:
+  - 566
+  - 143
+  to:
+  - 684
+  - 256
+  width: 200
+  kind: speech
+- text: The hot iron bends easily
+  at:
+  - 198
+  - 104
+  to:
+  - 516
+  - 516
+  width: 200
+- text: 'Strike while the iron is hot: act now'
+  at:
+  - 829
+  - 264
+  to:
+  - 348
+  - 164
+  width: 259
+  size: 38

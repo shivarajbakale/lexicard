@@ -1,0 +1,27 @@
+image: outputs/show-your-true-colors/seed_2.png
+out: outputs/lexicard/show-your-true-colors.png
+bubbles:
+- text: I thought he was so nice
+  at:
+  - 284
+  - 104
+  to:
+  - 684
+  - 260
+  width: 200
+- text: The nice face was a mask
+  at:
+  - 158
+  - 338
+  to:
+  - 528
+  - 324
+  width: 200
+- text: 'Show your true colors: reveal who you really are'
+  at:
+  - 700
+  - 134
+  to:
+  - 408
+  - 192
+  width: 300

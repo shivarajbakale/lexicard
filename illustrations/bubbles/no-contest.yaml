@@ -1,0 +1,20 @@
+image: outputs/no-contest/seed_1.png
+out: outputs/lexicard/no-contest.png
+bubbles:
+- text: No contest!
+  at:
+  - 251
+  - 119
+  to:
+  - 276
+  - 276
+  width: 150
+  kind: speech
+- text: 'No contest: one option is clearly better'
+  at:
+  - 567
+  - 134
+  to:
+  - 436
+  - 356
+  width: 300

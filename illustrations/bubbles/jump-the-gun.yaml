@@ -1,0 +1,29 @@
+image: outputs/jump-the-gun/seed_1.png
+out: outputs/lexicard/jump-the-gun.png
+bubbles:
+- text: Hey, we haven't started yet!
+  at:
+  - 389
+  - 238
+  to:
+  - 548
+  - 268
+  width: 200
+  kind: speech
+- text: The pistol hasn't fired yet
+  at:
+  - 849
+  - 134
+  to:
+  - 740
+  - 276
+  width: 200
+- text: 'Jump the gun: start too early'
+  at:
+  - 139
+  - 122
+  to:
+  - 264
+  - 352
+  width: 172
+  size: 38

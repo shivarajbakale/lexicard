@@ -1,0 +1,29 @@
+image: outputs/not-to-worry/seed_1.png
+out: outputs/lexicard/not-to-worry.png
+bubbles:
+- text: Is it badly damaged?
+  at:
+  - 174
+  - 119
+  to:
+  - 252
+  - 260
+  width: 200
+  kind: speech
+- text: Not to worry.
+  at:
+  - 923
+  - 155
+  to:
+  - 908
+  - 320
+  width: 150
+  kind: speech
+- text: There's no need to be concerned.
+  at:
+  - 624
+  - 104
+  to:
+  - 908
+  - 320
+  width: 300

@@ -1,0 +1,29 @@
+image: outputs/first-things-first/seed_1.png
+out: outputs/lexicard/first-things-first.png
+bubbles:
+- text: First things first.
+  at:
+  - 139
+  - 83
+  to:
+  - 216
+  - 184
+  width: 200
+  kind: speech
+- text: Do the key task before anything else.
+  at:
+  - 485
+  - 134
+  to:
+  - 216
+  - 184
+  width: 300
+- text: Fine, the rest can wait.
+  at:
+  - 870
+  - 106
+  to:
+  - 724
+  - 172
+  width: 200
+  kind: speech

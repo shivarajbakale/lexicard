@@ -1,0 +1,20 @@
+image: outputs/reproach/seed_1.png
+out: outputs/lexicard/reproach.png
+bubbles:
+- text: You should not have done this!
+  at:
+  - 126
+  - 106
+  to:
+  - 192
+  - 204
+  width: 200
+  kind: speech
+- text: 'Reproach: express strong disapproval'
+  at:
+  - 625
+  - 104
+  to:
+  - 192
+  - 204
+  width: 300

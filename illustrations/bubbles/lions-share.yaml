@@ -1,0 +1,28 @@
+image: outputs/lions-share/seed_1.png
+out: outputs/lexicard/lions-share.png
+bubbles:
+- text: Hey, that's most of it!
+  at:
+  - 354
+  - 116
+  to:
+  - 528
+  - 156
+  width: 200
+- text: The big melon = the whole prize
+  at:
+  - 780
+  - 104
+  to:
+  - 496
+  - 516
+  width: 300
+- text: 'Lion''s share: the biggest part'
+  at:
+  - 863
+  - 338
+  to:
+  - 528
+  - 156
+  width: 172
+  size: 38

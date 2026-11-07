@@ -1,0 +1,29 @@
+image: outputs/take-a-back-seat/seed_1.png
+out: outputs/lexicard/take-a-back-seat.png
+bubbles:
+- text: You drive, I'll just relax
+  at:
+  - 445
+  - 143
+  to:
+  - 716
+  - 296
+  width: 200
+  kind: speech
+- text: She takes control of the wheel
+  at:
+  - 157
+  - 154
+  to:
+  - 708
+  - 440
+  width: 163
+  size: 36
+- text: 'Take a back seat: let someone else lead'
+  at:
+  - 808
+  - 158
+  to:
+  - 716
+  - 296
+  width: 300

@@ -1,0 +1,20 @@
+image: outputs/in-the-snap-of-ones-fingers/seed_1.png
+out: outputs/lexicard/in-the-snap-of-ones-fingers.png
+bubbles:
+- text: Done in a snap of my fingers!
+  at:
+  - 418
+  - 106
+  to:
+  - 256
+  - 140
+  width: 200
+  kind: speech
+- text: 'In a snap: instantly, with no delay'
+  at:
+  - 775
+  - 134
+  to:
+  - 544
+  - 520
+  width: 300

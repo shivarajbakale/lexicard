@@ -1,0 +1,21 @@
+image: outputs/contrite/seed_1.png
+out: outputs/lexicard/contrite.png
+bubbles:
+- text: I broke it. I will pay for it.
+  at:
+  - 260
+  - 250
+  to:
+  - 360
+  - 442
+  width: 200
+  kind: speech
+- text: 'Contrite: truly sorry and owning it'
+  at:
+  - 827
+  - 96
+  to:
+  - 360
+  - 442
+  width: 259
+  size: 38

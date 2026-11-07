@@ -1,0 +1,19 @@
+image: outputs/selling-point/seed_1.png
+out: outputs/lexicard/selling-point.png
+bubbles:
+- text: It is whisper quiet!
+  at:
+  - 344
+  - 104
+  to:
+  - 204
+  - 192
+  width: 200
+- text: 'The selling point: what makes buyers want it.'
+  at:
+  - 760
+  - 134
+  to:
+  - 500
+  - 440
+  width: 300

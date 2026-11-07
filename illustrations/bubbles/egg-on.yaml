@@ -1,0 +1,29 @@
+image: outputs/egg-on/seed_1.png
+out: outputs/lexicard/egg-on.png
+bubbles:
+- text: Go on, jump! You can do it!
+  at:
+  - 572
+  - 106
+  to:
+  - 708
+  - 204
+  width: 200
+  kind: speech
+- text: Cheering him on
+  at:
+  - 310
+  - 236
+  to:
+  - 456
+  - 376
+  width: 200
+- text: 'Egg on: urge someone to do something'
+  at:
+  - 848
+  - 410
+  to:
+  - 568
+  - 212
+  width: 259
+  size: 38

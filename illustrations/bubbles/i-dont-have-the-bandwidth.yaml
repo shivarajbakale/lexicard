@@ -1,0 +1,30 @@
+image: outputs/i-dont-have-the-bandwidth/seed_1.png
+out: outputs/lexicard/i-dont-have-the-bandwidth.png
+bubbles:
+- text: Can you take this too?
+  at:
+  - 567
+  - 83
+  to:
+  - 824
+  - 168
+  width: 200
+  kind: speech
+- text: I don't have the bandwidth.
+  at:
+  - 176
+  - 106
+  to:
+  - 332
+  - 168
+  width: 200
+  kind: speech
+- text: Already too much
+  at:
+  - 889
+  - 93
+  to:
+  - 332
+  - 168
+  width: 163
+  size: 36

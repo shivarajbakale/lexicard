@@ -1,0 +1,20 @@
+image: outputs/pave-the-way/seed_1.png
+out: outputs/lexicard/pave-the-way.png
+bubbles:
+- text: I am preparing a smooth path
+  at:
+  - 150
+  - 298
+  to:
+  - 684
+  - 76
+  width: 163
+  size: 36
+- text: 'Pave the way: prepare for what follows'
+  at:
+  - 433
+  - 134
+  to:
+  - 684
+  - 76
+  width: 300

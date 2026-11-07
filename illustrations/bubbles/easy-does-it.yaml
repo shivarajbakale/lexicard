@@ -1,0 +1,29 @@
+image: outputs/easy-does-it/seed_1.png
+out: outputs/lexicard/easy-does-it.png
+bubbles:
+- text: Easy does it.
+  at:
+  - 193
+  - 83
+  to:
+  - 348
+  - 120
+  width: 150
+  kind: speech
+- text: Slow and gentle, no rush.
+  at:
+  - 617
+  - 134
+  to:
+  - 348
+  - 120
+  width: 200
+- text: Got it, careful now.
+  at:
+  - 870
+  - 261
+  to:
+  - 468
+  - 152
+  width: 163
+  size: 36

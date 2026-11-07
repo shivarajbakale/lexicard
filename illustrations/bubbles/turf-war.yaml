@@ -1,0 +1,29 @@
+image: outputs/turf-war/seed_1.png
+out: outputs/lexicard/turf-war.png
+bubbles:
+- text: This yard is ours!
+  at:
+  - 390
+  - 251
+  to:
+  - 512
+  - 384
+  width: 200
+  kind: speech
+- text: No, it's ours!
+  at:
+  - 507
+  - 95
+  to:
+  - 512
+  - 384
+  width: 150
+  kind: speech
+- text: 'Turf war: rivals fight for the same ground'
+  at:
+  - 801
+  - 218
+  to:
+  - 492
+  - 604
+  width: 300

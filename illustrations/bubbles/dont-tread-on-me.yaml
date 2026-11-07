@@ -1,0 +1,21 @@
+image: outputs/dont-tread-on-me/seed_1.png
+out: outputs/lexicard/dont-tread-on-me.png
+bubbles:
+- text: Don't tread on me!
+  at:
+  - 255
+  - 263
+  to:
+  - 366
+  - 380
+  width: 200
+  kind: speech
+- text: 'Don''t tread on me: back off, don''t provoke me'
+  at:
+  - 518
+  - 122
+  to:
+  - 280
+  - 540
+  width: 259
+  size: 38

@@ -1,0 +1,29 @@
+image: outputs/steal-someones-thunder/seed_1.png
+out: outputs/lexicard/steal-someones-thunder.png
+bubbles:
+- text: I have big news!
+  at:
+  - 412
+  - 167
+  to:
+  - 568
+  - 208
+  width: 200
+  kind: speech
+- text: He steals her thunder
+  at:
+  - 695
+  - 104
+  to:
+  - 576
+  - 276
+  width: 200
+- text: 'Steal her thunder: take her moment'
+  at:
+  - 833
+  - 300
+  to:
+  - 692
+  - 328
+  width: 259
+  size: 38

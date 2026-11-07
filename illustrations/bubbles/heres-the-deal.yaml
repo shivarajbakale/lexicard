@@ -1,0 +1,29 @@
+image: outputs/heres-the-deal/seed_1.png
+out: outputs/lexicard/heres-the-deal.png
+bubbles:
+- text: Here's the deal.
+  at:
+  - 195
+  - 167
+  to:
+  - 356
+  - 180
+  width: 200
+  kind: speech
+- text: Let me explain the main point.
+  at:
+  - 594
+  - 134
+  to:
+  - 356
+  - 180
+  width: 200
+- text: Okay, go on.
+  at:
+  - 865
+  - 215
+  to:
+  - 688
+  - 256
+  width: 150
+  kind: speech

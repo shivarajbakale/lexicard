@@ -1,0 +1,28 @@
+image: outputs/bite-the-dust/seed_1.png
+out: outputs/lexicard/bite-the-dust.png
+bubbles:
+- text: Whoa! Thud!
+  at:
+  - 430
+  - 179
+  to:
+  - 592
+  - 184
+  width: 150
+  kind: speech
+- text: The horse threw him off
+  at:
+  - 850
+  - 134
+  to:
+  - 712
+  - 212
+  width: 200
+- text: 'Bite the dust: fall down, fail'
+  at:
+  - 198
+  - 290
+  to:
+  - 140
+  - 568
+  width: 200

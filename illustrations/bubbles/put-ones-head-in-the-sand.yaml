@@ -1,0 +1,20 @@
+image: outputs/put-ones-head-in-the-sand/seed_1.png
+out: outputs/lexicard/put-ones-head-in-the-sand.png
+bubbles:
+- text: Look out, danger is coming!
+  at:
+  - 897
+  - 358
+  to:
+  - 696
+  - 76
+  width: 200
+  kind: speech
+- text: 'Head in the sand: ignore the problem'
+  at:
+  - 327
+  - 104
+  to:
+  - 680
+  - 176
+  width: 300

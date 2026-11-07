@@ -1,0 +1,21 @@
+image: outputs/permeate/panels_seed_1.png
+out: outputs/lexicard/permeate.png
+bubbles:
+- text: Watch the color travel!
+  at:
+  - 258
+  - 143
+  to:
+  - 258
+  - 300
+  width: 200
+  kind: speech
+- text: 'Permeate: spread through the whole thing'
+  at:
+  - 767
+  - 122
+  to:
+  - 766
+  - 300
+  width: 259
+  size: 38

@@ -1,0 +1,21 @@
+image: outputs/on-the-same-page/seed_1.png
+out: outputs/lexicard/on-the-same-page.png
+bubbles:
+- text: Are we on the same page?
+  at:
+  - 121
+  - 106
+  to:
+  - 280
+  - 116
+  width: 200
+  kind: speech
+- text: Yes, same plan!
+  at:
+  - 900
+  - 83
+  to:
+  - 820
+  - 172
+  width: 200
+  kind: speech

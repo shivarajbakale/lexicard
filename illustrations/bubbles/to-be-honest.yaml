@@ -1,0 +1,21 @@
+image: outputs/to-be-honest/seed_1.png
+out: outputs/lexicard/to-be-honest.png
+bubbles:
+- text: How does this look?
+  at:
+  - 538
+  - 131
+  to:
+  - 820
+  - 180
+  width: 200
+  kind: speech
+- text: To be honest, not great.
+  at:
+  - 160
+  - 95
+  to:
+  - 312
+  - 144
+  width: 200
+  kind: speech

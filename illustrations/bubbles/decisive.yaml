@@ -1,0 +1,20 @@
+image: outputs/decisive/seed_1.png
+out: outputs/lexicard/decisive.png
+bubbles:
+- text: That one, the chocolate. Done!
+  at:
+  - 314
+  - 129
+  to:
+  - 212
+  - 248
+  width: 200
+  kind: speech
+- text: 'Decisive: chooses quickly and firmly'
+  at:
+  - 641
+  - 104
+  to:
+  - 212
+  - 248
+  width: 300

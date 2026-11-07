@@ -1,0 +1,20 @@
+image: outputs/abate/panels_seed_1.png
+out: outputs/lexicard/abate.png
+bubbles:
+- text: 'Abate: becomes weaker over time'
+  at:
+  - 252
+  - 128
+  to:
+  - 258
+  - 300
+  width: 300
+- text: The rain is easing off.
+  at:
+  - 766
+  - 143
+  to:
+  - 766
+  - 300
+  width: 200
+  kind: speech

@@ -1,0 +1,29 @@
+image: outputs/vindicate/panels_seed_1.png
+out: outputs/lexicard/vindicate.png
+bubbles:
+- text: It will rain today.
+  at:
+  - 190
+  - 155
+  to:
+  - 258
+  - 300
+  width: 200
+  kind: speech
+- text: See? I was right!
+  at:
+  - 466
+  - 95
+  to:
+  - 766
+  - 300
+  width: 200
+  kind: speech
+- text: 'Vindicate: prove someone was right'
+  at:
+  - 806
+  - 128
+  to:
+  - 766
+  - 300
+  width: 300

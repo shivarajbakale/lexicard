@@ -1,0 +1,28 @@
+image: outputs/out-of-nowhere/seed_1.png
+out: outputs/lexicard/out-of-nowhere.png
+bubbles:
+- text: A calm, quiet afternoon
+  at:
+  - 355
+  - 104
+  to:
+  - 548
+  - 88
+  width: 200
+- text: The ball appears from nowhere
+  at:
+  - 788
+  - 182
+  to:
+  - 568
+  - 132
+  width: 200
+- text: Out of nowhere! Where did that come from?
+  at:
+  - 170
+  - 298
+  to:
+  - 548
+  - 88
+  width: 300
+  kind: speech

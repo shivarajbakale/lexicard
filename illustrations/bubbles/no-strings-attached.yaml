@@ -1,0 +1,20 @@
+image: outputs/no-strings-attached/seed_2.png
+out: outputs/lexicard/no-strings-attached.png
+bubbles:
+- text: It's yours, no strings attached.
+  at:
+  - 183
+  - 83
+  to:
+  - 344
+  - 120
+  width: 300
+  kind: speech
+- text: 'No strings attached: nothing owed in return'
+  at:
+  - 669
+  - 134
+  to:
+  - 464
+  - 232
+  width: 300

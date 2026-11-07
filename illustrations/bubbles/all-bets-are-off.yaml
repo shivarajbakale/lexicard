@@ -1,0 +1,20 @@
+image: outputs/all-bets-are-off/seed_1.png
+out: outputs/lexicard/all-bets-are-off.png
+bubbles:
+- text: Never mind, all bets are off!
+  at:
+  - 390
+  - 106
+  to:
+  - 252
+  - 196
+  width: 200
+  kind: speech
+- text: 'All bets are off: the situation changed'
+  at:
+  - 753
+  - 104
+  to:
+  - 824
+  - 228
+  width: 300

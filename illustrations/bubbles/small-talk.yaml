@@ -1,0 +1,30 @@
+image: outputs/small-talk/seed_1.png
+out: outputs/lexicard/small-talk.png
+bubbles:
+- text: Nice weather today, isn't it?
+  at:
+  - 130
+  - 309
+  to:
+  - 252
+  - 64
+  width: 200
+  kind: speech
+- text: It sure is.
+  at:
+  - 470
+  - 61
+  to:
+  - 252
+  - 64
+  width: 150
+  kind: speech
+- text: 'Small talk: light chat about nothing important'
+  at:
+  - 812
+  - 422
+  to:
+  - 696
+  - 184
+  width: 259
+  size: 38

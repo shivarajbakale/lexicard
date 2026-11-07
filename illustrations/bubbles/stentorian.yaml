@@ -1,0 +1,20 @@
+image: outputs/stentorian/seed_1.png
+out: outputs/lexicard/stentorian.png
+bubbles:
+- text: GOOD MORNING, EVERYONE!
+  at:
+  - 336
+  - 106
+  to:
+  - 160
+  - 148
+  width: 200
+  kind: speech
+- text: 'Stentorian: extremely loud and powerful voice'
+  at:
+  - 766
+  - 134
+  to:
+  - 596
+  - 224
+  width: 300

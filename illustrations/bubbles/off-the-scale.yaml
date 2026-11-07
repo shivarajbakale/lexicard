@@ -1,0 +1,20 @@
+image: outputs/off-the-scale/seed_1.png
+out: outputs/lexicard/off-the-scale.png
+bubbles:
+- text: That's off the scale!
+  at:
+  - 528
+  - 83
+  to:
+  - 696
+  - 36
+  width: 200
+  kind: speech
+- text: 'Off the scale: beyond normal limits'
+  at:
+  - 211
+  - 134
+  to:
+  - 744
+  - 412
+  width: 300

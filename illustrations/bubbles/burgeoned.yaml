@@ -1,0 +1,20 @@
+image: outputs/burgeoned/panels_seed_2.png
+out: outputs/lexicard/burgeoned.png
+bubbles:
+- text: It's so small!
+  at:
+  - 261
+  - 143
+  to:
+  - 258
+  - 300
+  width: 150
+  kind: speech
+- text: 'Burgeoned: grew quickly and strongly'
+  at:
+  - 767
+  - 128
+  to:
+  - 766
+  - 300
+  width: 300

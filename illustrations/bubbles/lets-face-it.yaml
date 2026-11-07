@@ -1,0 +1,21 @@
+image: outputs/lets-face-it/seed_1.png
+out: outputs/lexicard/lets-face-it.png
+bubbles:
+- text: Let's face it. We can't ignore this.
+  at:
+  - 252
+  - 167
+  to:
+  - 288
+  - 320
+  width: 300
+  kind: speech
+- text: 'Let''s face it: admit the obvious truth'
+  at:
+  - 824
+  - 96
+  to:
+  - 692
+  - 296
+  width: 259
+  size: 38

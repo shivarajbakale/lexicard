@@ -1,0 +1,21 @@
+image: outputs/pretentious/seed_1.png
+out: outputs/lexicard/pretentious.png
+bubbles:
+- text: I dine only on the finest things.
+  at:
+  - 159
+  - 75
+  to:
+  - 184
+  - 172
+  width: 245
+  size: 36
+  kind: speech
+- text: 'Pretentious: acting fancier than you are'
+  at:
+  - 604
+  - 134
+  to:
+  - 304
+  - 120
+  width: 300

@@ -1,0 +1,20 @@
+image: outputs/feint/seed_1.png
+out: outputs/lexicard/feint.png
+bubbles:
+- text: 'Feint: a fake move to fool someone'
+  at:
+  - 263
+  - 176
+  to:
+  - 408
+  - 252
+  width: 300
+- text: Ha! He's going that way!
+  at:
+  - 773
+  - 106
+  to:
+  - 720
+  - 256
+  width: 200
+  kind: speech

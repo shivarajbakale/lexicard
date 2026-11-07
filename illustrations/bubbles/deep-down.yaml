@@ -1,0 +1,28 @@
+image: outputs/deep-down/seed_1.png
+out: outputs/lexicard/deep-down.png
+bubbles:
+- text: I'm fine, really!
+  at:
+  - 324
+  - 83
+  to:
+  - 488
+  - 92
+  width: 200
+  kind: speech
+- text: The heart = his hidden true feelings
+  at:
+  - 214
+  - 656
+  to:
+  - 576
+  - 524
+  width: 300
+- text: 'Deep down: your real inner feelings'
+  at:
+  - 814
+  - 104
+  to:
+  - 488
+  - 92
+  width: 300

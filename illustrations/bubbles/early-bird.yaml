@@ -1,0 +1,27 @@
+image: outputs/early-bird/seed_1.png
+out: outputs/lexicard/early-bird.png
+bubbles:
+- text: Up before the sun!
+  at:
+  - 391
+  - 200
+  to:
+  - 556
+  - 240
+  width: 200
+- text: The worm = the prize for being first
+  at:
+  - 213
+  - 392
+  to:
+  - 436
+  - 432
+  width: 300
+- text: 'Early bird: gets there before everyone else'
+  at:
+  - 819
+  - 194
+  to:
+  - 676
+  - 304
+  width: 300

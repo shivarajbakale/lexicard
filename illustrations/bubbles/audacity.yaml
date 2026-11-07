@@ -1,0 +1,21 @@
+image: outputs/audacity/seed_1.png
+out: outputs/lexicard/audacity.png
+bubbles:
+- text: 'Audacity: bold, rude confidence'
+  at:
+  - 394
+  - 140
+  to:
+  - 592
+  - 180
+  width: 300
+- text: You took my chair and my apple!
+  at:
+  - 856
+  - 75
+  to:
+  - 732
+  - 120
+  width: 245
+  size: 36
+  kind: speech

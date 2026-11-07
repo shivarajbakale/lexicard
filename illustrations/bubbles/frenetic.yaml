@@ -1,0 +1,21 @@
+image: outputs/frenetic/seed_1.png
+out: outputs/lexicard/frenetic.png
+bubbles:
+- text: No time, no time, so much to do!
+  at:
+  - 200
+  - 250
+  to:
+  - 330
+  - 370
+  width: 280
+  kind: speech
+- text: 'Frenetic: wildly, frantically busy'
+  at:
+  - 470
+  - 90
+  to:
+  - 350
+  - 330
+  width: 259
+  size: 38

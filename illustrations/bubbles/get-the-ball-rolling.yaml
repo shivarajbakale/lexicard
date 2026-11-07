@@ -1,0 +1,29 @@
+image: outputs/get-the-ball-rolling/seed_1.png
+out: outputs/lexicard/get-the-ball-rolling.png
+bubbles:
+- text: Let us start!
+  at:
+  - 174
+  - 179
+  to:
+  - 320
+  - 244
+  width: 150
+  kind: speech
+- text: The first push starts the motion
+  at:
+  - 514
+  - 152
+  to:
+  - 500
+  - 428
+  width: 300
+- text: 'Get the ball rolling: begin something'
+  at:
+  - 825
+  - 288
+  to:
+  - 708
+  - 348
+  width: 259
+  size: 38

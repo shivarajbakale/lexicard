@@ -1,0 +1,19 @@
+image: outputs/snowball-effect/seed_2.png
+out: outputs/lexicard/snowball-effect.png
+bubbles:
+- text: It starts tiny
+  at:
+  - 137
+  - 320
+  to:
+  - 60
+  - 84
+  width: 150
+- text: 'Snowball effect: a small thing grows huge'
+  at:
+  - 810
+  - 182
+  to:
+  - 744
+  - 460
+  width: 300

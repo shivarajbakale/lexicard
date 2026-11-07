@@ -1,0 +1,20 @@
+image: outputs/dont-tell-me/seed_1.png
+out: outputs/lexicard/dont-tell-me.png
+bubbles:
+- text: Don't tell me you crashed it!
+  at:
+  - 348
+  - 106
+  to:
+  - 208
+  - 184
+  width: 200
+  kind: speech
+- text: Hoping it isn't true
+  at:
+  - 880
+  - 104
+  to:
+  - 208
+  - 184
+  width: 200

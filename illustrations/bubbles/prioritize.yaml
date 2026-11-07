@@ -1,0 +1,20 @@
+image: outputs/prioritize/seed_1.png
+out: outputs/lexicard/prioritize.png
+bubbles:
+- text: The biggest one comes first.
+  at:
+  - 146
+  - 106
+  to:
+  - 308
+  - 116
+  width: 200
+  kind: speech
+- text: 'Prioritize: do the most important first'
+  at:
+  - 635
+  - 170
+  to:
+  - 428
+  - 172
+  width: 300

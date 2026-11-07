@@ -1,0 +1,12 @@
+image: outputs/behind-closed-doors/seed_1.png
+out: outputs/lexicard/behind-closed-doors.png
+bubbles:
+- text: 'Behind closed doors: in private, unseen'
+  at:
+  - 830
+  - 122
+  to:
+  - 512
+  - 384
+  width: 259
+  size: 38

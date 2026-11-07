@@ -1,0 +1,29 @@
+image: outputs/yada-yada-yada/seed_1.png
+out: outputs/lexicard/yada-yada-yada.png
+bubbles:
+- text: Then this, then that, yada yada yada.
+  at:
+  - 171
+  - 106
+  to:
+  - 200
+  - 192
+  width: 300
+  kind: speech
+- text: 'Yada yada yada: skipping boring details'
+  at:
+  - 560
+  - 134
+  to:
+  - 200
+  - 192
+  width: 300
+- text: Okay, so what happened?
+  at:
+  - 895
+  - 106
+  to:
+  - 800
+  - 196
+  width: 200
+  kind: speech

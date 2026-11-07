@@ -1,0 +1,20 @@
+image: outputs/cynic/seed_1.png
+out: outputs/lexicard/cynic.png
+bubbles:
+- text: What is the catch?
+  at:
+  - 512
+  - 83
+  to:
+  - 704
+  - 64
+  width: 200
+  kind: speech
+- text: 'Cynic: expects people to be selfish'
+  at:
+  - 242
+  - 212
+  to:
+  - 704
+  - 64
+  width: 300

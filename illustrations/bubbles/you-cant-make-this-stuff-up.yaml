@@ -1,0 +1,30 @@
+image: outputs/you-cant-make-this-stuff-up/seed_1.png
+out: outputs/lexicard/you-cant-make-this-stuff-up.png
+bubbles:
+- text: A cow in a tree?!
+  at:
+  - 234
+  - 155
+  to:
+  - 396
+  - 152
+  width: 200
+  kind: speech
+- text: You can't make this stuff up.
+  at:
+  - 900
+  - 106
+  to:
+  - 560
+  - 52
+  width: 200
+  kind: speech
+- text: Too weird to invent
+  at:
+  - 138
+  - 609
+  to:
+  - 368
+  - 464
+  width: 163
+  size: 36

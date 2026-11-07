@@ -1,0 +1,29 @@
+image: outputs/it-takes-two-to-tango/seed_2.png
+out: outputs/lexicard/it-takes-two-to-tango.png
+bubbles:
+- text: I can't tango on my own
+  at:
+  - 418
+  - 106
+  to:
+  - 540
+  - 212
+  width: 200
+  kind: speech
+- text: Both partners must move together
+  at:
+  - 781
+  - 152
+  to:
+  - 240
+  - 292
+  width: 300
+- text: 'It takes two to tango: both people are involved'
+  at:
+  - 827
+  - 506
+  to:
+  - 540
+  - 212
+  width: 259
+  size: 38

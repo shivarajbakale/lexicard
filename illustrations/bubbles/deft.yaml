@@ -1,0 +1,21 @@
+image: outputs/deft/seed_1.png
+out: outputs/lexicard/deft.png
+bubbles:
+- text: How do you do that so smoothly?
+  at:
+  - 257
+  - 83
+  to:
+  - 284
+  - 244
+  width: 300
+  kind: speech
+- text: 'Deft: quick and skillful with her hands'
+  at:
+  - 846
+  - 122
+  to:
+  - 580
+  - 180
+  width: 259
+  size: 38

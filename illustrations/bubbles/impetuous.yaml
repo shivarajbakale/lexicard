@@ -1,0 +1,20 @@
+image: outputs/impetuous/seed_1.png
+out: outputs/lexicard/impetuous.png
+bubbles:
+- text: Wait, think first!
+  at:
+  - 712
+  - 263
+  to:
+  - 790
+  - 404
+  width: 200
+  kind: speech
+- text: 'Impetuous: acts fast without thinking'
+  at:
+  - 196
+  - 134
+  to:
+  - 392
+  - 148
+  width: 300

@@ -1,0 +1,28 @@
+image: outputs/against-all-odds/seed_1.png
+out: outputs/lexicard/against-all-odds.png
+bubbles:
+- text: Nobody expected this to happen
+  at:
+  - 175
+  - 206
+  to:
+  - 444
+  - 520
+  width: 200
+- text: The ribbon = a win nobody expected
+  at:
+  - 572
+  - 248
+  to:
+  - 444
+  - 520
+  width: 300
+- text: 'Against all odds: succeeding despite great difficulty'
+  at:
+  - 802
+  - 638
+  to:
+  - 444
+  - 520
+  width: 259
+  size: 38

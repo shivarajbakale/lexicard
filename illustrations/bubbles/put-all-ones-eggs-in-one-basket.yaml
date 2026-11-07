@@ -1,0 +1,19 @@
+image: outputs/put-all-ones-eggs-in-one-basket/seed_1.png
+out: outputs/lexicard/put-all-ones-eggs-in-one-basket.png
+bubbles:
+- text: Why carry them all at once?
+  at:
+  - 819
+  - 134
+  to:
+  - 704
+  - 252
+  width: 200
+- text: 'Eggs in one basket: risking everything'
+  at:
+  - 369
+  - 128
+  to:
+  - 280
+  - 268
+  width: 300

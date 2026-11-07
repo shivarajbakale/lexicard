@@ -1,0 +1,21 @@
+image: outputs/i-stand-corrected/seed_1.png
+out: outputs/lexicard/i-stand-corrected.png
+bubbles:
+- text: I stand corrected, it is raining.
+  at:
+  - 164
+  - 75
+  to:
+  - 352
+  - 100
+  width: 245
+  size: 36
+  kind: speech
+- text: 'I stand corrected: you were right, I was wrong'
+  at:
+  - 768
+  - 134
+  to:
+  - 352
+  - 100
+  width: 300

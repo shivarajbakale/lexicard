@@ -1,0 +1,27 @@
+image: outputs/cover-ones-bases/seed_1.png
+out: outputs/lexicard/cover-ones-bases.png
+bubbles:
+- text: I'm ready for anything
+  at:
+  - 346
+  - 104
+  to:
+  - 676
+  - 80
+  width: 200
+- text: The umbrella = protection for any outcome
+  at:
+  - 214
+  - 338
+  to:
+  - 676
+  - 184
+  width: 300
+- text: 'Cover your bases: prepare for every possibility'
+  at:
+  - 807
+  - 602
+  to:
+  - 676
+  - 80
+  width: 300

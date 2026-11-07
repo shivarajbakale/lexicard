@@ -1,0 +1,20 @@
+image: outputs/set-foot/seed_1.png
+out: outputs/lexicard/set-foot.png
+bubbles:
+- text: I've never set foot here before!
+  at:
+  - 211
+  - 83
+  to:
+  - 352
+  - 164
+  width: 300
+  kind: speech
+- text: 'Set foot: enter a place'
+  at:
+  - 813
+  - 104
+  to:
+  - 548
+  - 108
+  width: 200

@@ -1,0 +1,21 @@
+image: outputs/red-herring/seed_1.png
+out: outputs/lexicard/red-herring.png
+bubbles:
+- text: The thief went this way!
+  at:
+  - 562
+  - 118
+  to:
+  - 724
+  - 132
+  width: 200
+  kind: speech
+- text: 'Red herring: a false clue'
+  at:
+  - 866
+  - 96
+  to:
+  - 736
+  - 244
+  width: 172
+  size: 38

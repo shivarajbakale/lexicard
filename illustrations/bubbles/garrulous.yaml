@@ -1,0 +1,20 @@
+image: outputs/garrulous/seed_1.png
+out: outputs/lexicard/garrulous.png
+bubbles:
+- text: And another thing, and another thing...
+  at:
+  - 211
+  - 106
+  to:
+  - 284
+  - 244
+  width: 300
+  kind: speech
+- text: 'Garrulous: talks too much, too long'
+  at:
+  - 767
+  - 176
+  to:
+  - 816
+  - 352
+  width: 300

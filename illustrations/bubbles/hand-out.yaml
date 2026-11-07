@@ -1,0 +1,20 @@
+image: outputs/hand-out/seed_1.png
+out: outputs/lexicard/hand-out.png
+bubbles:
+- text: Please hand out the cups.
+  at:
+  - 337
+  - 83
+  to:
+  - 212
+  - 184
+  width: 200
+  kind: speech
+- text: 'Hand out: give things to each person'
+  at:
+  - 750
+  - 206
+  to:
+  - 504
+  - 252
+  width: 300

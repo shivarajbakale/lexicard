@@ -1,0 +1,29 @@
+image: outputs/far-cry/panels_seed_1.png
+out: outputs/lexicard/far-cry.png
+bubbles:
+- text: His home today is small
+  at:
+  - 176
+  - 118
+  to:
+  - 258
+  - 300
+  width: 163
+  size: 36
+- text: His dream is far away
+  at:
+  - 593
+  - 128
+  to:
+  - 766
+  - 300
+  width: 200
+- text: This is a far cry from home
+  at:
+  - 875
+  - 610
+  to:
+  - 766
+  - 300
+  width: 200
+  kind: speech

@@ -1,0 +1,20 @@
+image: outputs/elusive/seed_1.png
+out: outputs/lexicard/elusive.png
+bubbles:
+- text: It escaped again!
+  at:
+  - 499
+  - 167
+  to:
+  - 624
+  - 264
+  width: 200
+  kind: speech
+- text: 'Elusive: hard to catch or find'
+  at:
+  - 811
+  - 170
+  to:
+  - 196
+  - 168
+  width: 200

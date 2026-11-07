@@ -1,0 +1,30 @@
+image: outputs/test-the-waters/seed_1.png
+out: outputs/lexicard/test-the-waters.png
+bubbles:
+- text: Is it cold?
+  at:
+  - 165
+  - 83
+  to:
+  - 708
+  - 76
+  width: 150
+  kind: speech
+- text: Just a toe, not a dive
+  at:
+  - 895
+  - 93
+  to:
+  - 480
+  - 512
+  width: 163
+  size: 36
+- text: 'Test the waters: try before committing'
+  at:
+  - 470
+  - 96
+  to:
+  - 248
+  - 132
+  width: 259
+  size: 38

@@ -1,0 +1,20 @@
+image: outputs/duty-calls/seed_1.png
+out: outputs/lexicard/duty-calls.png
+bubbles:
+- text: Already leaving?
+  at:
+  - 438
+  - 116
+  to:
+  - 600
+  - 116
+  width: 200
+- text: Sorry, duty calls! I promised to help.
+  at:
+  - 829
+  - 83
+  to:
+  - 720
+  - 228
+  width: 300
+  kind: speech

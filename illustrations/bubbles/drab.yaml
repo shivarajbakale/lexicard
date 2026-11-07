@@ -1,0 +1,20 @@
+image: outputs/drab/seed_1.png
+out: outputs/lexicard/drab.png
+bubbles:
+- text: Why is everything so grey here?
+  at:
+  - 439
+  - 239
+  to:
+  - 512
+  - 384
+  width: 300
+  kind: speech
+- text: 'Drab: dull, with no colour or life'
+  at:
+  - 773
+  - 128
+  to:
+  - 480
+  - 420
+  width: 300

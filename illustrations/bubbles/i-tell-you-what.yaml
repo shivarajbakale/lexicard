@@ -1,0 +1,21 @@
+image: outputs/i-tell-you-what/seed_1.png
+out: outputs/lexicard/i-tell-you-what.png
+bubbles:
+- text: I tell you what, let's go to the café!
+  at:
+  - 173
+  - 75
+  to:
+  - 300
+  - 116
+  width: 245
+  size: 36
+  kind: speech
+- text: 'I tell you what: introducing my idea'
+  at:
+  - 598
+  - 104
+  to:
+  - 300
+  - 116
+  width: 300

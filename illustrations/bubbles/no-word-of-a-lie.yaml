@@ -1,0 +1,29 @@
+image: outputs/no-word-of-a-lie/seed_1.png
+out: outputs/lexicard/no-word-of-a-lie.png
+bubbles:
+- text: It was this big!
+  at:
+  - 170
+  - 119
+  to:
+  - 272
+  - 240
+  width: 200
+  kind: speech
+- text: No word of a lie!
+  at:
+  - 447
+  - 179
+  to:
+  - 272
+  - 240
+  width: 200
+  kind: speech
+- text: He insists it's completely true.
+  at:
+  - 771
+  - 104
+  to:
+  - 272
+  - 240
+  width: 300

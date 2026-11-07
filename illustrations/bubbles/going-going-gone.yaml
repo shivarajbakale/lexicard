@@ -1,0 +1,20 @@
+image: outputs/going-going-gone/seed_1.png
+out: outputs/lexicard/going-going-gone.png
+bubbles:
+- text: Going, going, gone!
+  at:
+  - 359
+  - 83
+  to:
+  - 260
+  - 208
+  width: 200
+  kind: speech
+- text: 'Sold: the chance is over'
+  at:
+  - 760
+  - 218
+  to:
+  - 512
+  - 488
+  width: 200

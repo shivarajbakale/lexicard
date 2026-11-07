@@ -1,0 +1,20 @@
+image: outputs/terminate/seed_1.png
+out: outputs/lexicard/terminate.png
+bubbles:
+- text: Time to end it.
+  at:
+  - 159
+  - 83
+  to:
+  - 156
+  - 244
+  width: 200
+  kind: speech
+- text: 'Terminate: bring to an end'
+  at:
+  - 571
+  - 134
+  to:
+  - 396
+  - 164
+  width: 200

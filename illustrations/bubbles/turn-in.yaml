@@ -1,0 +1,21 @@
+image: outputs/turn-in/seed_1.png
+out: outputs/lexicard/turn-in.png
+bubbles:
+- text: Here is my homework
+  at:
+  - 122
+  - 207
+  to:
+  - 236
+  - 352
+  width: 163
+  size: 36
+  kind: speech
+- text: 'Turn in: hand in your work'
+  at:
+  - 401
+  - 134
+  to:
+  - 772
+  - 76
+  width: 200

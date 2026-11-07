@@ -1,0 +1,29 @@
+image: outputs/take-this-offline/seed_1.png
+out: outputs/lexicard/take-this-offline.png
+bubbles:
+- text: Let's take this offline.
+  at:
+  - 708
+  - 83
+  to:
+  - 740
+  - 240
+  width: 200
+  kind: speech
+- text: 'Take this offline: talk later, in private'
+  at:
+  - 320
+  - 134
+  to:
+  - 740
+  - 240
+  width: 300
+- text: Still arguing
+  at:
+  - 902
+  - 213
+  to:
+  - 500
+  - 160
+  width: 122
+  size: 36

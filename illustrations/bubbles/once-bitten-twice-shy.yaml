@@ -1,0 +1,27 @@
+image: outputs/once-bitten-twice-shy/seed_2.png
+out: outputs/lexicard/once-bitten-twice-shy.png
+bubbles:
+- text: Bitten once before
+  at:
+  - 166
+  - 308
+  to:
+  - 184
+  - 500
+  width: 200
+- text: Now even a kitten scares it
+  at:
+  - 512
+  - 170
+  to:
+  - 404
+  - 304
+  width: 200
+- text: 'Once bitten, twice shy: careful after one bad time'
+  at:
+  - 802
+  - 362
+  to:
+  - 160
+  - 412
+  width: 300

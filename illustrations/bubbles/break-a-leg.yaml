@@ -1,0 +1,21 @@
+image: outputs/break-a-leg/seed_1.png
+out: outputs/lexicard/break-a-leg.png
+bubbles:
+- text: I'm so nervous!
+  at:
+  - 264
+  - 179
+  to:
+  - 332
+  - 324
+  width: 200
+  kind: speech
+- text: Break a leg!
+  at:
+  - 765
+  - 191
+  to:
+  - 692
+  - 332
+  width: 150
+  kind: speech

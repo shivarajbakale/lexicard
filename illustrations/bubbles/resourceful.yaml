@@ -1,0 +1,12 @@
+image: outputs/resourceful/seed_1.png
+out: outputs/lexicard/resourceful.png
+bubbles:
+- text: 'Resourceful: finds clever ways to solve problems'
+  at:
+  - 821
+  - 122
+  to:
+  - 128
+  - 108
+  width: 259
+  size: 38

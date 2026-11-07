@@ -1,0 +1,30 @@
+image: outputs/talk-of-the-devil/seed_1.png
+out: outputs/lexicard/talk-of-the-devil.png
+bubbles:
+- text: Where is Sam today?
+  at:
+  - 136
+  - 263
+  to:
+  - 268
+  - 272
+  width: 200
+  kind: speech
+- text: Talk of the devil!
+  at:
+  - 470
+  - 120
+  to:
+  - 524
+  - 302
+  width: 200
+  kind: speech
+- text: 'Talk of the devil: said when someone appears right after being mentioned'
+  at:
+  - 800
+  - 110
+  to:
+  - 772
+  - 260
+  width: 259
+  size: 38

@@ -1,0 +1,29 @@
+image: outputs/tread-on-someones-toes/seed_1.png
+out: outputs/lexicard/tread-on-someones-toes.png
+bubbles:
+- text: Ouch! That is my job!
+  at:
+  - 434
+  - 83
+  to:
+  - 712
+  - 248
+  width: 200
+  kind: speech
+- text: I did not mean to step in
+  at:
+  - 150
+  - 166
+  to:
+  - 356
+  - 168
+  width: 163
+  size: 36
+- text: 'Tread on someone''s toes: interfere in their work'
+  at:
+  - 796
+  - 134
+  to:
+  - 500
+  - 436
+  width: 300

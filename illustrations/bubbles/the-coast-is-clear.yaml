@@ -1,0 +1,20 @@
+image: outputs/the-coast-is-clear/seed_1.png
+out: outputs/lexicard/the-coast-is-clear.png
+bubbles:
+- text: The coast is clear!
+  at:
+  - 140
+  - 83
+  to:
+  - 280
+  - 128
+  width: 200
+  kind: speech
+- text: 'The coast is clear: it''s safe to go'
+  at:
+  - 613
+  - 164
+  to:
+  - 348
+  - 496
+  width: 300

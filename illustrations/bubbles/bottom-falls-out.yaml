@@ -1,0 +1,21 @@
+image: outputs/bottom-falls-out/seed_1.png
+out: outputs/lexicard/bottom-falls-out.png
+bubbles:
+- text: Oh no, your box!
+  at:
+  - 555
+  - 143
+  to:
+  - 800
+  - 248
+  width: 200
+  kind: speech
+- text: 'The bottom falls out: plans collapse suddenly'
+  at:
+  - 190
+  - 122
+  to:
+  - 336
+  - 156
+  width: 259
+  size: 38

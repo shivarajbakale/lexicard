@@ -1,0 +1,21 @@
+image: outputs/persevere/panels_seed_1.png
+out: outputs/lexicard/persevere.png
+bubbles:
+- text: I'll keep trying until I make it!
+  at:
+  - 691
+  - 155
+  to:
+  - 766
+  - 300
+  width: 300
+  kind: speech
+- text: 'Persevere: keep trying despite difficulty'
+  at:
+  - 313
+  - 122
+  to:
+  - 766
+  - 300
+  width: 259
+  size: 38

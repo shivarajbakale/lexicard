@@ -1,0 +1,29 @@
+image: outputs/you-got-this/seed_1.png
+out: outputs/lexicard/you-got-this.png
+bubbles:
+- text: I'm so nervous...
+  at:
+  - 645
+  - 215
+  to:
+  - 706
+  - 362
+  width: 200
+  kind: speech
+- text: You got this!
+  at:
+  - 292
+  - 83
+  to:
+  - 446
+  - 172
+  width: 150
+  kind: speech
+- text: You can handle it
+  at:
+  - 867
+  - 104
+  to:
+  - 412
+  - 108
+  width: 200

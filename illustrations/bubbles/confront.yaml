@@ -1,0 +1,21 @@
+image: outputs/confront/seed_1.png
+out: outputs/lexicard/confront.png
+bubbles:
+- text: Excuse me, that bone is mine.
+  at:
+  - 465
+  - 106
+  to:
+  - 656
+  - 104
+  width: 200
+  kind: speech
+- text: 'Confront: face a problem head on'
+  at:
+  - 844
+  - 96
+  to:
+  - 656
+  - 104
+  width: 259
+  size: 38

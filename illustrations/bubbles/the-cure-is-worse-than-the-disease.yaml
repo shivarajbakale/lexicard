@@ -1,0 +1,21 @@
+image: outputs/the-cure-is-worse-than-the-disease/panels_seed_1.png
+out: outputs/lexicard/the-cure-is-worse-than-the-disease.png
+bubbles:
+- text: Just drink this, it will help.
+  at:
+  - 260
+  - 130
+  to:
+  - 258
+  - 300
+  width: 200
+  kind: speech
+- text: 'The cure is worse than the disease: the fix made things worse'
+  at:
+  - 770
+  - 148
+  to:
+  - 766
+  - 300
+  width: 259
+  size: 38

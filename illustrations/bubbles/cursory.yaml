@@ -1,0 +1,20 @@
+image: outputs/cursory/seed_1.png
+out: outputs/lexicard/cursory.png
+bubbles:
+- text: Looks fine to me.
+  at:
+  - 192
+  - 83
+  to:
+  - 336
+  - 156
+  width: 200
+  kind: speech
+- text: 'Cursory: quick look, not careful'
+  at:
+  - 569
+  - 104
+  to:
+  - 336
+  - 156
+  width: 300

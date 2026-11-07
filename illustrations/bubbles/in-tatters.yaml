@@ -1,0 +1,20 @@
+image: outputs/in-tatters/seed_1.png
+out: outputs/lexicard/in-tatters.png
+bubbles:
+- text: My jacket is in tatters!
+  at:
+  - 141
+  - 83
+  to:
+  - 188
+  - 172
+  width: 200
+  kind: speech
+- text: 'In tatters: badly damaged'
+  at:
+  - 545
+  - 146
+  to:
+  - 456
+  - 536
+  width: 200

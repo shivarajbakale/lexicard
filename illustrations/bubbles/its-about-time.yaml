@@ -1,0 +1,20 @@
+image: outputs/its-about-time/seed_1.png
+out: outputs/lexicard/its-about-time.png
+bubbles:
+- text: It's about time!
+  at:
+  - 495
+  - 275
+  to:
+  - 306
+  - 412
+  width: 200
+  kind: speech
+- text: The bus arrived very late
+  at:
+  - 790
+  - 218
+  to:
+  - 644
+  - 468
+  width: 200

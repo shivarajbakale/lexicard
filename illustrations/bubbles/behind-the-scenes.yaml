@@ -1,0 +1,12 @@
+image: outputs/behind-the-scenes/seed_2.png
+out: outputs/lexicard/behind-the-scenes.png
+bubbles:
+- text: 'Behind the scenes: out of public view'
+  at:
+  - 834
+  - 96
+  to:
+  - 408
+  - 296
+  width: 259
+  size: 38

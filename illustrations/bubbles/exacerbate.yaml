@@ -1,0 +1,20 @@
+image: outputs/exacerbate/seed_1.png
+out: outputs/lexicard/exacerbate.png
+bubbles:
+- text: You made the spill even worse!
+  at:
+  - 773
+  - 130
+  to:
+  - 816
+  - 284
+  width: 200
+  kind: speech
+- text: 'Exacerbate: make a problem worse'
+  at:
+  - 396
+  - 104
+  to:
+  - 308
+  - 220
+  width: 300

@@ -1,0 +1,21 @@
+image: outputs/more-than-meets-the-eye/seed_1.png
+out: outputs/lexicard/more-than-meets-the-eye.png
+bubbles:
+- text: He looks so ordinary.
+  at:
+  - 166
+  - 95
+  to:
+  - 324
+  - 128
+  width: 200
+  kind: speech
+- text: 'More than meets the eye: hidden depth'
+  at:
+  - 834
+  - 122
+  to:
+  - 712
+  - 404
+  width: 259
+  size: 38

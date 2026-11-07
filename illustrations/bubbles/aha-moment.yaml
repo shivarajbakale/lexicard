@@ -1,0 +1,11 @@
+image: outputs/aha-moment/seed_1.png
+out: outputs/lexicard/aha-moment.png
+bubbles:
+- text: 'Aha moment: suddenly everything makes sense'
+  at:
+  - 474
+  - 134
+  to:
+  - 752
+  - 140
+  width: 300

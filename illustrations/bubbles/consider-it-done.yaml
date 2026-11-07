@@ -1,0 +1,29 @@
+image: outputs/consider-it-done/seed_1.png
+out: outputs/lexicard/consider-it-done.png
+bubbles:
+- text: Can you finish this today?
+  at:
+  - 125
+  - 106
+  to:
+  - 200
+  - 176
+  width: 200
+  kind: speech
+- text: Consider it done.
+  at:
+  - 862
+  - 83
+  to:
+  - 848
+  - 204
+  width: 200
+  kind: speech
+- text: He promises it will be completed.
+  at:
+  - 515
+  - 104
+  to:
+  - 848
+  - 204
+  width: 300

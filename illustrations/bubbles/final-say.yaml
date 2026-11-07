@@ -1,0 +1,20 @@
+image: outputs/final-say/seed_1.png
+out: outputs/lexicard/final-say.png
+bubbles:
+- text: I have the final say.
+  at:
+  - 259
+  - 95
+  to:
+  - 224
+  - 256
+  width: 200
+  kind: speech
+- text: Fine, you decide.
+  at:
+  - 721
+  - 104
+  to:
+  - 824
+  - 228
+  width: 200

@@ -1,0 +1,30 @@
+image: outputs/you-and-whose-army/seed_1.png
+out: outputs/lexicard/you-and-whose-army.png
+bubbles:
+- text: Move out of my way!
+  at:
+  - 460
+  - 95
+  to:
+  - 624
+  - 108
+  width: 200
+  kind: speech
+- text: You and whose army?
+  at:
+  - 866
+  - 83
+  to:
+  - 744
+  - 144
+  width: 200
+  kind: speech
+- text: 'You and whose army: who do you think you are?'
+  at:
+  - 185
+  - 218
+  to:
+  - 744
+  - 144
+  width: 259
+  size: 38

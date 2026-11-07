@@ -1,0 +1,20 @@
+image: outputs/dregs/seed_1.png
+out: outputs/lexicard/dregs.png
+bubbles:
+- text: Is that all that is left?
+  at:
+  - 678
+  - 299
+  to:
+  - 766
+  - 580
+  width: 200
+  kind: speech
+- text: 'Dregs: the leftover bits at the bottom'
+  at:
+  - 759
+  - 104
+  to:
+  - 476
+  - 484
+  width: 300

@@ -1,0 +1,28 @@
+image: outputs/call-it-a-day/seed_1.png
+out: outputs/lexicard/call-it-a-day.png
+bubbles:
+- text: That's enough for today!
+  at:
+  - 163
+  - 226
+  to:
+  - 292
+  - 320
+  width: 200
+  kind: speech
+- text: Hat on the hook = work is over
+  at:
+  - 456
+  - 134
+  to:
+  - 428
+  - 444
+  width: 200
+- text: 'Call it a day: stop working for now'
+  at:
+  - 812
+  - 224
+  to:
+  - 292
+  - 320
+  width: 300

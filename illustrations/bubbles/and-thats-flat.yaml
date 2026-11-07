@@ -1,0 +1,21 @@
+image: outputs/and-thats-flat/seed_1.png
+out: outputs/lexicard/and-thats-flat.png
+bubbles:
+- text: Please, one more toy?
+  at:
+  - 261
+  - 299
+  to:
+  - 350
+  - 440
+  width: 200
+  kind: speech
+- text: No more toys, and that's flat.
+  at:
+  - 370
+  - 106
+  to:
+  - 660
+  - 120
+  width: 200
+  kind: speech

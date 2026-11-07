@@ -1,0 +1,21 @@
+image: outputs/blow-the-whistle/seed_1.png
+out: outputs/lexicard/blow-the-whistle.png
+bubbles:
+- text: Something wrong is happening here!
+  at:
+  - 807
+  - 87
+  to:
+  - 224
+  - 256
+  width: 245
+  size: 36
+  kind: speech
+- text: 'Blow the whistle: report wrongdoing to those in charge'
+  at:
+  - 431
+  - 158
+  to:
+  - 308
+  - 348
+  width: 300

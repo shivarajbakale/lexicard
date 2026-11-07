@@ -1,0 +1,19 @@
+image: outputs/scratch-the-surface/seed_1.png
+out: outputs/lexicard/scratch-the-surface.png
+bubbles:
+- text: She digs only the top layer
+  at:
+  - 250
+  - 104
+  to:
+  - 444
+  - 120
+  width: 200
+- text: 'Scratch the surface: barely start exploring'
+  at:
+  - 752
+  - 194
+  to:
+  - 564
+  - 240
+  width: 300

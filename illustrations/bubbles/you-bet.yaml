@@ -1,0 +1,29 @@
+image: outputs/you-bet/seed_1.png
+out: outputs/lexicard/you-bet.png
+bubbles:
+- text: Are you coming to the party?
+  at:
+  - 174
+  - 106
+  to:
+  - 244
+  - 248
+  width: 200
+  kind: speech
+- text: You bet I will!
+  at:
+  - 657
+  - 83
+  to:
+  - 828
+  - 188
+  width: 200
+  kind: speech
+- text: Yes, absolutely, no doubt
+  at:
+  - 491
+  - 266
+  to:
+  - 468
+  - 448
+  width: 200

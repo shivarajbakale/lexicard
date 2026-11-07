@@ -1,0 +1,28 @@
+image: outputs/pot-calling-the-kettle-black/seed_1.png
+out: outputs/lexicard/pot-calling-the-kettle-black.png
+bubbles:
+- text: You're so dirty!
+  at:
+  - 519
+  - 251
+  to:
+  - 680
+  - 256
+  width: 200
+  kind: speech
+- text: But look at yourself!
+  at:
+  - 750
+  - 140
+  to:
+  - 800
+  - 300
+  width: 200
+- text: 'Pot calling kettle black: same fault as you'
+  at:
+  - 230
+  - 146
+  to:
+  - 700
+  - 360
+  width: 300

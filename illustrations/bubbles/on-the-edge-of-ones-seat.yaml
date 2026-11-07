@@ -1,0 +1,27 @@
+image: outputs/on-the-edge-of-ones-seat/seed_1.png
+out: outputs/lexicard/on-the-edge-of-ones-seat.png
+bubbles:
+- text: Something big is about to happen
+  at:
+  - 239
+  - 212
+  to:
+  - 384
+  - 284
+  width: 300
+- text: He barely touches the chair
+  at:
+  - 812
+  - 566
+  to:
+  - 604
+  - 464
+  width: 200
+- text: 'On the edge of your seat: very excited'
+  at:
+  - 801
+  - 116
+  to:
+  - 384
+  - 284
+  width: 300

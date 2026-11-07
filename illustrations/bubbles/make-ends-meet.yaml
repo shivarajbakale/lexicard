@@ -1,0 +1,29 @@
+image: outputs/make-ends-meet/seed_1.png
+out: outputs/lexicard/make-ends-meet.png
+bubbles:
+- text: The money is too short
+  at:
+  - 225
+  - 224
+  to:
+  - 380
+  - 268
+  width: 200
+- text: Barely reaches around
+  at:
+  - 795
+  - 194
+  to:
+  - 524
+  - 556
+  width: 200
+- text: I can barely make ends meet
+  at:
+  - 884
+  - 661
+  to:
+  - 380
+  - 268
+  width: 172
+  size: 38
+  kind: speech

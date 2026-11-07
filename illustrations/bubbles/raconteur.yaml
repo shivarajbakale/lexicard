@@ -1,0 +1,20 @@
+image: outputs/raconteur/seed_1.png
+out: outputs/lexicard/raconteur.png
+bubbles:
+- text: And then the giant bear sneezed!
+  at:
+  - 367
+  - 83
+  to:
+  - 256
+  - 196
+  width: 300
+  kind: speech
+- text: 'Raconteur: someone who tells great stories'
+  at:
+  - 743
+  - 206
+  to:
+  - 376
+  - 232
+  width: 300

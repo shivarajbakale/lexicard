@@ -1,0 +1,29 @@
+image: outputs/apples-to-apples/seed_1.png
+out: outputs/lexicard/apples-to-apples.png
+bubbles:
+- text: 'Two apples: a fair test'
+  at:
+  - 143
+  - 93
+  to:
+  - 208
+  - 184
+  width: 163
+  size: 36
+- text: My orange doesn't count
+  at:
+  - 877
+  - 93
+  to:
+  - 780
+  - 192
+  width: 163
+  size: 36
+- text: 'Apples to apples: compare like with like'
+  at:
+  - 519
+  - 134
+  to:
+  - 392
+  - 468
+  width: 300

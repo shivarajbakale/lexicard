@@ -1,0 +1,19 @@
+image: outputs/hedge-ones-bets/seed_2.png
+out: outputs/lexicard/hedge-ones-bets.png
+bubbles:
+- text: Which bed will grow best?
+  at:
+  - 206
+  - 170
+  to:
+  - 388
+  - 196
+  width: 200
+- text: 'Hedge your bets: back more than one option'
+  at:
+  - 812
+  - 146
+  to:
+  - 388
+  - 196
+  width: 300

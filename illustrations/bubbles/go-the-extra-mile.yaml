@@ -1,0 +1,29 @@
+image: outputs/go-the-extra-mile/seed_2.png
+out: outputs/lexicard/go-the-extra-mile.png
+bubbles:
+- text: You can stop now!
+  at:
+  - 180
+  - 131
+  to:
+  - 132
+  - 284
+  width: 200
+  kind: speech
+- text: He keeps going past the finish
+  at:
+  - 459
+  - 202
+  to:
+  - 848
+  - 336
+  width: 163
+  size: 36
+- text: 'Go the extra mile: do more than asked'
+  at:
+  - 804
+  - 128
+  to:
+  - 888
+  - 284
+  width: 300

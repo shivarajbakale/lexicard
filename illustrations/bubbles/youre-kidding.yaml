@@ -1,0 +1,30 @@
+image: outputs/youre-kidding/seed_1.png
+out: outputs/lexicard/youre-kidding.png
+bubbles:
+- text: I won a big prize!
+  at:
+  - 866
+  - 83
+  to:
+  - 704
+  - 108
+  width: 200
+  kind: speech
+- text: You're kidding!
+  at:
+  - 428
+  - 143
+  to:
+  - 584
+  - 108
+  width: 200
+  kind: speech
+- text: Hard to believe
+  at:
+  - 905
+  - 273
+  to:
+  - 528
+  - 460
+  width: 163
+  size: 36

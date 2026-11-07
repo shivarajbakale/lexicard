@@ -1,0 +1,21 @@
+image: outputs/take-to-heart/seed_1.png
+out: outputs/lexicard/take-to-heart.png
+bubbles:
+- text: Always double-check your work.
+  at:
+  - 565
+  - 106
+  to:
+  - 308
+  - 112
+  width: 200
+  kind: speech
+- text: I'll take that to heart.
+  at:
+  - 854
+  - 179
+  to:
+  - 668
+  - 240
+  width: 200
+  kind: speech

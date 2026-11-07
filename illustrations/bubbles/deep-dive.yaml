@@ -1,0 +1,29 @@
+image: outputs/deep-dive/seed_1.png
+out: outputs/lexicard/deep-dive.png
+bubbles:
+- text: How deep will you go?
+  at:
+  - 279
+  - 83
+  to:
+  - 108
+  - 128
+  width: 200
+  kind: speech
+- text: Down to the very bottom
+  at:
+  - 593
+  - 116
+  to:
+  - 352
+  - 204
+  width: 200
+- text: 'A deep dive: study it in detail'
+  at:
+  - 829
+  - 276
+  to:
+  - 348
+  - 620
+  width: 259
+  size: 38

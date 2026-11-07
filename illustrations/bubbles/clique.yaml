@@ -1,0 +1,20 @@
+image: outputs/clique/seed_1.png
+out: outputs/lexicard/clique.png
+bubbles:
+- text: Can I play too?
+  at:
+  - 727
+  - 215
+  to:
+  - 796
+  - 360
+  width: 200
+  kind: speech
+- text: 'Clique: a tight group that shuts others out'
+  at:
+  - 203
+  - 134
+  to:
+  - 204
+  - 328
+  width: 300

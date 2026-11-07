@@ -1,0 +1,20 @@
+image: outputs/paragon/seed_1.png
+out: outputs/lexicard/paragon.png
+bubbles:
+- text: Be like her. She is perfect.
+  at:
+  - 371
+  - 106
+  to:
+  - 232
+  - 192
+  width: 200
+  kind: speech
+- text: 'Paragon: a perfect example to copy'
+  at:
+  - 724
+  - 104
+  to:
+  - 232
+  - 192
+  width: 300

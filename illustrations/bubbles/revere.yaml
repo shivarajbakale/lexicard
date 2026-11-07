@@ -1,0 +1,20 @@
+image: outputs/revere/seed_1.png
+out: outputs/lexicard/revere.png
+bubbles:
+- text: We respect you so much.
+  at:
+  - 658
+  - 131
+  to:
+  - 704
+  - 284
+  width: 200
+  kind: speech
+- text: 'Revere: deeply respect and admire'
+  at:
+  - 295
+  - 104
+  to:
+  - 704
+  - 284
+  width: 300

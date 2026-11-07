@@ -1,0 +1,20 @@
+image: outputs/eruption/seed_1.png
+out: outputs/lexicard/eruption.png
+bubbles:
+- text: Whoa, it just burst out!
+  at:
+  - 532
+  - 83
+  to:
+  - 792
+  - 24
+  width: 200
+  kind: speech
+- text: 'Eruption: a sudden bursting out of force'
+  at:
+  - 231
+  - 218
+  to:
+  - 756
+  - 184
+  width: 300

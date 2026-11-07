@@ -1,0 +1,20 @@
+image: outputs/exhort/seed_1.png
+out: outputs/lexicard/exhort.png
+bubbles:
+- text: Run harder! You can win this!
+  at:
+  - 140
+  - 106
+  to:
+  - 296
+  - 116
+  width: 200
+  kind: speech
+- text: 'Exhort: urge someone strongly to act'
+  at:
+  - 694
+  - 134
+  to:
+  - 296
+  - 116
+  width: 300

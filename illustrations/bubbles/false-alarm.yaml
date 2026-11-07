@@ -1,0 +1,30 @@
+image: outputs/false-alarm/seed_1.png
+out: outputs/lexicard/false-alarm.png
+bubbles:
+- text: What's happening?! Is it a fire?
+  at:
+  - 322
+  - 83
+  to:
+  - 104
+  - 128
+  width: 300
+  kind: speech
+- text: It was only burnt toast
+  at:
+  - 556
+  - 225
+  to:
+  - 496
+  - 420
+  width: 163
+  size: 36
+- text: 'False alarm: danger that wasn''t real'
+  at:
+  - 818
+  - 96
+  to:
+  - 716
+  - 212
+  width: 259
+  size: 38

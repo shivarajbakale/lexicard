@@ -1,0 +1,22 @@
+image: outputs/belligerent/seed_1.png
+out: outputs/lexicard/belligerent.png
+bubbles:
+- text: Do you want to argue with me?
+  at:
+  - 130
+  - 94
+  to:
+  - 256
+  - 184
+  width: 163
+  size: 36
+  kind: speech
+- text: 'Belligerent: always ready to quarrel or fight'
+  at:
+  - 459
+  - 122
+  to:
+  - 256
+  - 184
+  width: 259
+  size: 38

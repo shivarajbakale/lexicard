@@ -1,0 +1,30 @@
+image: outputs/not-feeling-it/seed_1.png
+out: outputs/lexicard/not-feeling-it.png
+bubbles:
+- text: Want to play?
+  at:
+  - 170
+  - 143
+  to:
+  - 168
+  - 304
+  width: 150
+  kind: speech
+- text: Not feeling it tonight.
+  at:
+  - 568
+  - 191
+  to:
+  - 720
+  - 244
+  width: 200
+  kind: speech
+- text: I'm not interested right now.
+  at:
+  - 855
+  - 154
+  to:
+  - 720
+  - 244
+  width: 163
+  size: 36

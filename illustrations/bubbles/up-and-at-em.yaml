@@ -1,0 +1,12 @@
+image: outputs/up-and-at-em/seed_1.png
+out: outputs/lexicard/up-and-at-em.png
+bubbles:
+- text: Up and at 'em!
+  at:
+  - 518
+  - 83
+  to:
+  - 656
+  - 156
+  width: 150
+  kind: speech

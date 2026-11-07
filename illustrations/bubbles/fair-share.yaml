@@ -1,0 +1,28 @@
+image: outputs/fair-share/seed_1.png
+out: outputs/lexicard/fair-share.png
+bubbles:
+- text: Mine is the same size
+  at:
+  - 369
+  - 104
+  to:
+  - 528
+  - 128
+  width: 200
+- text: Three equal slices
+  at:
+  - 861
+  - 104
+  to:
+  - 500
+  - 636
+  width: 200
+- text: Everyone gets a fair share
+  at:
+  - 126
+  - 226
+  to:
+  - 648
+  - 88
+  width: 200
+  kind: speech

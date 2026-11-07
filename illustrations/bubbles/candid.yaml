@@ -1,0 +1,20 @@
+image: outputs/candid/seed_1.png
+out: outputs/lexicard/candid.png
+bubbles:
+- text: Honestly, your cake is leaning.
+  at:
+  - 860
+  - 330
+  to:
+  - 730
+  - 410
+  width: 250
+  kind: speech
+- text: 'Candid: honest, even when it is hard'
+  at:
+  - 540
+  - 95
+  to:
+  - 700
+  - 380
+  width: 300

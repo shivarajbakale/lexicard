@@ -1,0 +1,21 @@
+image: outputs/mastiff/seed_1.png
+out: outputs/lexicard/mastiff.png
+bubbles:
+- text: He is big but very gentle.
+  at:
+  - 252
+  - 167
+  to:
+  - 268
+  - 324
+  width: 200
+  kind: speech
+- text: 'Mastiff: a very large, strong, calm dog'
+  at:
+  - 818
+  - 122
+  to:
+  - 392
+  - 544
+  width: 259
+  size: 38

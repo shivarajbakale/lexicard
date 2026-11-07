@@ -1,0 +1,28 @@
+image: outputs/save-face/seed_2.png
+out: outputs/lexicard/save-face.png
+bubbles:
+- text: Did he just fall?
+  at:
+  - 186
+  - 128
+  to:
+  - 424
+  - 300
+  width: 200
+- text: I meant to do that!
+  at:
+  - 465
+  - 191
+  to:
+  - 304
+  - 220
+  width: 200
+  kind: speech
+- text: 'Save face: avoid looking foolish'
+  at:
+  - 787
+  - 164
+  to:
+  - 304
+  - 220
+  width: 300

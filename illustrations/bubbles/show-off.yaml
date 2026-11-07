@@ -1,0 +1,20 @@
+image: outputs/show-off/seed_1.png
+out: outputs/lexicard/show-off.png
+bubbles:
+- text: Look at me! Look at my trophy
+  at:
+  - 278
+  - 106
+  to:
+  - 504
+  - 80
+  width: 200
+  kind: speech
+- text: 'Show off: display to get attention'
+  at:
+  - 801
+  - 212
+  to:
+  - 624
+  - 104
+  width: 300

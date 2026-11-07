@@ -1,0 +1,20 @@
+image: outputs/dexterity/seed_1.png
+out: outputs/lexicard/dexterity.png
+bubbles:
+- text: 'Dexterity: skillful, quick use of hands'
+  at:
+  - 324
+  - 104
+  to:
+  - 180
+  - 172
+  width: 300
+- text: My hands are all thumbs!
+  at:
+  - 783
+  - 154
+  to:
+  - 720
+  - 300
+  width: 200
+  kind: speech

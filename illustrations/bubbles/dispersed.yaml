@@ -1,0 +1,11 @@
+image: outputs/dispersed/seed_1.png
+out: outputs/lexicard/dispersed.png
+bubbles:
+- text: 'Dispersed: spread out over a wide area'
+  at:
+  - 293
+  - 134
+  to:
+  - 552
+  - 68
+  width: 300

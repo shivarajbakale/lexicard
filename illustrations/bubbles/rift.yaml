@@ -1,0 +1,20 @@
+image: outputs/rift/seed_1.png
+out: outputs/lexicard/rift.png
+bubbles:
+- text: We can't reach each other now!
+  at:
+  - 167
+  - 106
+  to:
+  - 260
+  - 232
+  width: 200
+  kind: speech
+- text: 'Rift: a deep break between two sides'
+  at:
+  - 765
+  - 152
+  to:
+  - 520
+  - 496
+  width: 300

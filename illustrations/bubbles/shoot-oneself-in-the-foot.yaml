@@ -1,0 +1,27 @@
+image: outputs/shoot-oneself-in-the-foot/seed_1.png
+out: outputs/lexicard/shoot-oneself-in-the-foot.png
+bubbles:
+- text: I just ruined my own chances
+  at:
+  - 171
+  - 242
+  to:
+  - 296
+  - 348
+  width: 200
+- text: The pistol = his careless choice
+  at:
+  - 508
+  - 140
+  to:
+  - 364
+  - 444
+  width: 300
+- text: 'Shoot yourself in the foot: hurt yourself'
+  at:
+  - 817
+  - 302
+  to:
+  - 296
+  - 348
+  width: 300

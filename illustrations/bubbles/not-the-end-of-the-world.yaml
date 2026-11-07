@@ -1,0 +1,28 @@
+image: outputs/not-the-end-of-the-world/seed_1.png
+out: outputs/lexicard/not-the-end-of-the-world.png
+bubbles:
+- text: I ruined everything!
+  at:
+  - 402
+  - 104
+  to:
+  - 612
+  - 48
+  width: 200
+- text: It's not the end of the world.
+  at:
+  - 880
+  - 166
+  to:
+  - 732
+  - 128
+  width: 200
+  kind: speech
+- text: The problem is small.
+  at:
+  - 195
+  - 272
+  to:
+  - 732
+  - 128
+  width: 200

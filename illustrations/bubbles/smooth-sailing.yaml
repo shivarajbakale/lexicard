@@ -1,0 +1,28 @@
+image: outputs/smooth-sailing/seed_1.png
+out: outputs/lexicard/smooth-sailing.png
+bubbles:
+- text: No wind, no waves, no worries
+  at:
+  - 335
+  - 134
+  to:
+  - 500
+  - 92
+  width: 200
+- text: The sail glides on calm water
+  at:
+  - 784
+  - 134
+  to:
+  - 588
+  - 340
+  width: 200
+- text: 'Smooth sailing: everything goes easily'
+  at:
+  - 844
+  - 398
+  to:
+  - 500
+  - 92
+  width: 259
+  size: 38

@@ -1,0 +1,21 @@
+image: outputs/the-heavens-open/seed_1.png
+out: outputs/lexicard/the-heavens-open.png
+bubbles:
+- text: Oh no, here it comes!
+  at:
+  - 136
+  - 83
+  to:
+  - 300
+  - 112
+  width: 200
+  kind: speech
+- text: 'The heavens open: sudden, heavy rain'
+  at:
+  - 833
+  - 96
+  to:
+  - 668
+  - 100
+  width: 259
+  size: 38

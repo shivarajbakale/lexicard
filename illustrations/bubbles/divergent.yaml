@@ -1,0 +1,20 @@
+image: outputs/divergent/seed_1.png
+out: outputs/lexicard/divergent.png
+bubbles:
+- text: See you later, I am going this way.
+  at:
+  - 254
+  - 131
+  to:
+  - 280
+  - 288
+  width: 300
+  kind: speech
+- text: 'Divergent: going in different directions apart'
+  at:
+  - 773
+  - 182
+  to:
+  - 684
+  - 316
+  width: 300

@@ -1,0 +1,21 @@
+image: outputs/conciliatory/seed_1.png
+out: outputs/lexicard/conciliatory.png
+bubbles:
+- text: Let us meet halfway and make peace.
+  at:
+  - 706
+  - 179
+  to:
+  - 746
+  - 362
+  width: 300
+  kind: speech
+- text: 'Conciliatory: ready to make peace'
+  at:
+  - 186
+  - 96
+  to:
+  - 508
+  - 444
+  width: 259
+  size: 38

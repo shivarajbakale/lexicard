@@ -1,0 +1,20 @@
+image: outputs/everything-but-the-kitchen-sink/seed_1.png
+out: outputs/lexicard/everything-but-the-kitchen-sink.png
+bubbles:
+- text: Did you pack everything?
+  at:
+  - 456
+  - 155
+  to:
+  - 696
+  - 232
+  width: 200
+  kind: speech
+- text: 'The sink: the only thing left out'
+  at:
+  - 813
+  - 128
+  to:
+  - 676
+  - 476
+  width: 300

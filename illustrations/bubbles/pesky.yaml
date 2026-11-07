@@ -1,0 +1,20 @@
+image: outputs/pesky/seed_1.png
+out: outputs/lexicard/pesky.png
+bubbles:
+- text: Not you again!
+  at:
+  - 248
+  - 119
+  to:
+  - 188
+  - 268
+  width: 150
+  kind: speech
+- text: 'Pesky: small and annoying, keeps coming back'
+  at:
+  - 764
+  - 194
+  to:
+  - 524
+  - 296
+  width: 300

@@ -1,0 +1,21 @@
+image: outputs/say-the-quiet-part-loud/seed_1.png
+out: outputs/lexicard/say-the-quiet-part-loud.png
+bubbles:
+- text: Uncle's hair is fake!
+  at:
+  - 256
+  - 119
+  to:
+  - 256
+  - 280
+  width: 200
+  kind: speech
+- text: 'Said the quiet part loud: awkward truth'
+  at:
+  - 821
+  - 122
+  to:
+  - 728
+  - 240
+  width: 259
+  size: 38

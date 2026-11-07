@@ -1,0 +1,21 @@
+image: outputs/not-ones-first-rodeo/seed_1.png
+out: outputs/lexicard/not-ones-first-rodeo.png
+bubbles:
+- text: Aren't you nervous?
+  at:
+  - 735
+  - 155
+  to:
+  - 844
+  - 276
+  width: 200
+  kind: speech
+- text: Not my first rodeo.
+  at:
+  - 395
+  - 143
+  to:
+  - 248
+  - 208
+  width: 200
+  kind: speech

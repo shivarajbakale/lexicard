@@ -1,0 +1,30 @@
+image: outputs/with-all-due-respect/seed_1.png
+out: outputs/lexicard/with-all-due-respect.png
+bubbles:
+- text: With all due respect, I disagree.
+  at:
+  - 196
+  - 83
+  to:
+  - 232
+  - 240
+  width: 300
+  kind: speech
+- text: Polite but firm
+  at:
+  - 446
+  - 213
+  to:
+  - 232
+  - 240
+  width: 163
+  size: 36
+- text: Disagreeing with the boss
+  at:
+  - 876
+  - 118
+  to:
+  - 728
+  - 148
+  width: 163
+  size: 36

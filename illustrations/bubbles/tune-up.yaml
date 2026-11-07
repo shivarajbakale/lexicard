@@ -1,0 +1,29 @@
+image: outputs/tune-up/seed_1.png
+out: outputs/lexicard/tune-up.png
+bubbles:
+- text: It sounds rough lately.
+  at:
+  - 140
+  - 83
+  to:
+  - 228
+  - 172
+  width: 200
+  kind: speech
+- text: A small part gets adjusted
+  at:
+  - 489
+  - 140
+  to:
+  - 604
+  - 460
+  width: 200
+- text: 'Tune-up: adjust so it works better'
+  at:
+  - 841
+  - 96
+  to:
+  - 820
+  - 252
+  width: 259
+  size: 38

@@ -1,0 +1,20 @@
+image: outputs/now-youre-cooking/seed_1.png
+out: outputs/lexicard/now-youre-cooking.png
+bubbles:
+- text: Now you're cooking!
+  at:
+  - 475
+  - 155
+  to:
+  - 144
+  - 84
+  width: 200
+  kind: speech
+- text: You found the right way.
+  at:
+  - 870
+  - 134
+  to:
+  - 144
+  - 84
+  width: 200

@@ -1,0 +1,29 @@
+image: outputs/dont-get-me-wrong/seed_1.png
+out: outputs/lexicard/dont-get-me-wrong.png
+bubbles:
+- text: Don't get me wrong, it's lovely!
+  at:
+  - 203
+  - 155
+  to:
+  - 204
+  - 320
+  width: 300
+  kind: speech
+- text: Clearing up a possible misunderstanding
+  at:
+  - 631
+  - 134
+  to:
+  - 204
+  - 320
+  width: 300
+- text: I just like less sugar
+  at:
+  - 120
+  - 443
+  to:
+  - 204
+  - 320
+  width: 200
+  kind: speech

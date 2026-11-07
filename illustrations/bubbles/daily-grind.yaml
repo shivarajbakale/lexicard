@@ -1,0 +1,28 @@
+image: outputs/daily-grind/seed_1.png
+out: outputs/lexicard/daily-grind.png
+bubbles:
+- text: Same crank, same mill
+  at:
+  - 161
+  - 104
+  to:
+  - 340
+  - 128
+  width: 200
+- text: Coffee just keeps him going
+  at:
+  - 879
+  - 286
+  to:
+  - 380
+  - 656
+  width: 163
+  size: 36
+- text: 'The daily grind: dull routine every day'
+  at:
+  - 646
+  - 104
+  to:
+  - 340
+  - 128
+  width: 300

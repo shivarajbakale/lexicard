@@ -1,0 +1,29 @@
+image: outputs/gloss-over/seed_1.png
+out: outputs/lexicard/gloss-over.png
+bubbles:
+- text: What about that crack?
+  at:
+  - 728
+  - 83
+  to:
+  - 750
+  - 242
+  width: 200
+  kind: speech
+- text: Just cover it quickly
+  at:
+  - 254
+  - 104
+  to:
+  - 300
+  - 322
+  width: 200
+- text: 'Gloss over: hide the details'
+  at:
+  - 561
+  - 590
+  to:
+  - 516
+  - 292
+  width: 172
+  size: 38

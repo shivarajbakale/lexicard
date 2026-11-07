@@ -1,0 +1,21 @@
+image: outputs/pandoras-box/seed_1.png
+out: outputs/lexicard/pandoras-box.png
+bubbles:
+- text: Don't open that!
+  at:
+  - 848
+  - 83
+  to:
+  - 892
+  - 224
+  width: 200
+  kind: speech
+- text: 'Pandora''s box: opening it creates many problems'
+  at:
+  - 189
+  - 122
+  to:
+  - 204
+  - 184
+  width: 259
+  size: 38

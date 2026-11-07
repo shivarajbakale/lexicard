@@ -1,0 +1,27 @@
+image: outputs/fine-line/seed_1.png
+out: outputs/lexicard/fine-line.png
+bubbles:
+- text: Be brave, but not reckless
+  at:
+  - 339
+  - 146
+  to:
+  - 564
+  - 148
+  width: 200
+- text: One slip changes everything
+  at:
+  - 839
+  - 230
+  to:
+  - 632
+  - 196
+  width: 200
+- text: 'A fine line: tiny gap between two things'
+  at:
+  - 729
+  - 656
+  to:
+  - 564
+  - 148
+  width: 300

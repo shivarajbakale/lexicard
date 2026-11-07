@@ -1,0 +1,21 @@
+image: outputs/belated/seed_1.png
+out: outputs/lexicard/belated.png
+bubbles:
+- text: Sorry, my gift is very late!
+  at:
+  - 498
+  - 130
+  to:
+  - 656
+  - 108
+  width: 200
+  kind: speech
+- text: 'Belated: arriving later than expected'
+  at:
+  - 827
+  - 96
+  to:
+  - 900
+  - 216
+  width: 259
+  size: 38

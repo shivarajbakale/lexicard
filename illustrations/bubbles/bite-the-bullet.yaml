@@ -1,0 +1,21 @@
+image: outputs/bite-the-bullet/seed_1.png
+out: outputs/lexicard/bite-the-bullet.png
+bubbles:
+- text: Just bite the bullet and jump in.
+  at:
+  - 636
+  - 251
+  to:
+  - 730
+  - 424
+  width: 300
+  kind: speech
+- text: 'Bite the bullet: do the hard thing'
+  at:
+  - 180
+  - 96
+  to:
+  - 196
+  - 180
+  width: 259
+  size: 38

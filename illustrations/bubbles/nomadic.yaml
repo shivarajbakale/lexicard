@@ -1,0 +1,20 @@
+image: outputs/nomadic/seed_1.png
+out: outputs/lexicard/nomadic.png
+bubbles:
+- text: Time to move on again!
+  at:
+  - 145
+  - 83
+  to:
+  - 296
+  - 136
+  width: 200
+  kind: speech
+- text: 'Nomadic: moving from place to place, never settling'
+  at:
+  - 690
+  - 134
+  to:
+  - 800
+  - 248
+  width: 300

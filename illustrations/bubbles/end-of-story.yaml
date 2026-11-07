@@ -1,0 +1,20 @@
+image: outputs/end-of-story/seed_1.png
+out: outputs/lexicard/end-of-story.png
+bubbles:
+- text: No more cookies. End of story.
+  at:
+  - 141
+  - 106
+  to:
+  - 300
+  - 116
+  width: 200
+  kind: speech
+- text: 'End of story: the matter is settled, no more talk'
+  at:
+  - 758
+  - 194
+  to:
+  - 548
+  - 376
+  width: 300

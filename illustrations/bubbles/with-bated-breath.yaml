@@ -1,0 +1,11 @@
+image: outputs/with-bated-breath/seed_1.png
+out: outputs/lexicard/with-bated-breath.png
+bubbles:
+- text: 'With bated breath: waiting in tense excitement'
+  at:
+  - 429
+  - 134
+  to:
+  - 748
+  - 44
+  width: 300

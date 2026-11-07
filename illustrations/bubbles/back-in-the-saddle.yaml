@@ -1,0 +1,20 @@
+image: outputs/back-in-the-saddle/seed_1.png
+out: outputs/lexicard/back-in-the-saddle.png
+bubbles:
+- text: I'm back in the saddle!
+  at:
+  - 170
+  - 107
+  to:
+  - 328
+  - 132
+  width: 200
+  kind: speech
+- text: 'Back in the saddle: returning after time away'
+  at:
+  - 665
+  - 134
+  to:
+  - 328
+  - 132
+  width: 300

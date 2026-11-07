@@ -1,0 +1,20 @@
+image: outputs/back-to-the-drawing-board/panels_seed_1.png
+out: outputs/lexicard/back-to-the-drawing-board.png
+bubbles:
+- text: The plan crashed
+  at:
+  - 253
+  - 128
+  to:
+  - 258
+  - 300
+  width: 200
+- text: 'Back to the drawing board: start again from scratch'
+  at:
+  - 767
+  - 148
+  to:
+  - 766
+  - 300
+  width: 259
+  size: 38

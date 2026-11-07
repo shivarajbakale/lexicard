@@ -1,0 +1,20 @@
+image: outputs/the-die-is-cast/seed_1.png
+out: outputs/lexicard/the-die-is-cast.png
+bubbles:
+- text: The die is cast!
+  at:
+  - 143
+  - 83
+  to:
+  - 268
+  - 180
+  width: 200
+  kind: speech
+- text: 'The die is cast: the choice can''t be undone'
+  at:
+  - 545
+  - 134
+  to:
+  - 500
+  - 428
+  width: 300

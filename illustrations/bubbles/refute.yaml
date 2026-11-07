@@ -1,0 +1,30 @@
+image: outputs/refute/seed_1.png
+out: outputs/lexicard/refute.png
+bubbles:
+- text: Cats can't swim!
+  at:
+  - 126
+  - 83
+  to:
+  - 188
+  - 204
+  width: 200
+  kind: speech
+- text: Look, this one does!
+  at:
+  - 576
+  - 95
+  to:
+  - 724
+  - 160
+  width: 200
+  kind: speech
+- text: 'Refute: prove a claim is false'
+  at:
+  - 865
+  - 122
+  to:
+  - 724
+  - 160
+  width: 172
+  size: 38

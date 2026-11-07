@@ -1,0 +1,21 @@
+image: outputs/i-told-you-so/seed_2.png
+out: outputs/lexicard/i-told-you-so.png
+bubbles:
+- text: I told you so!
+  at:
+  - 215
+  - 83
+  to:
+  - 328
+  - 188
+  width: 150
+  kind: speech
+- text: 'I told you so: I warned you, I was right'
+  at:
+  - 828
+  - 122
+  to:
+  - 684
+  - 140
+  width: 259
+  size: 38

@@ -1,0 +1,21 @@
+image: outputs/am-i-right/seed_1.png
+out: outputs/lexicard/am-i-right.png
+bubbles:
+- text: It's too hot, am I right?
+  at:
+  - 139
+  - 83
+  to:
+  - 180
+  - 208
+  width: 200
+  kind: speech
+- text: Yeah, totally.
+  at:
+  - 925
+  - 83
+  to:
+  - 852
+  - 220
+  width: 150
+  kind: speech

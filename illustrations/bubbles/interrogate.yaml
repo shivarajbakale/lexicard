@@ -1,0 +1,21 @@
+image: outputs/interrogate/seed_1.png
+out: outputs/lexicard/interrogate.png
+bubbles:
+- text: Where were you? Who saw you? Why?
+  at:
+  - 178
+  - 106
+  to:
+  - 256
+  - 208
+  width: 300
+  kind: speech
+- text: 'Interrogate: question someone closely and thoroughly'
+  at:
+  - 672
+  - 148
+  to:
+  - 376
+  - 84
+  width: 259
+  size: 38

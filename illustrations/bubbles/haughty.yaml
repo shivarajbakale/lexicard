@@ -1,0 +1,20 @@
+image: outputs/haughty/seed_1.png
+out: outputs/lexicard/haughty.png
+bubbles:
+- text: You are beneath my notice.
+  at:
+  - 136
+  - 106
+  to:
+  - 256
+  - 136
+  width: 200
+  kind: speech
+- text: 'Haughty: acts better than everyone else'
+  at:
+  - 675
+  - 134
+  to:
+  - 256
+  - 136
+  width: 300

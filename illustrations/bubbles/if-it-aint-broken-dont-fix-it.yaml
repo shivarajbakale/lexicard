@@ -1,0 +1,22 @@
+image: outputs/if-it-aint-broken-dont-fix-it/seed_1.png
+out: outputs/lexicard/if-it-aint-broken-dont-fix-it.png
+bubbles:
+- text: If it ain't broken, don't fix it!
+  at:
+  - 195
+  - 75
+  to:
+  - 692
+  - 176
+  width: 245
+  size: 36
+  kind: speech
+- text: 'If it ain''t broken: leave working things alone'
+  at:
+  - 548
+  - 122
+  to:
+  - 596
+  - 508
+  width: 259
+  size: 38

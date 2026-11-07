@@ -1,0 +1,21 @@
+image: outputs/inclement/seed_1.png
+out: outputs/lexicard/inclement.png
+bubbles:
+- text: What terrible weather today!
+  at:
+  - 311
+  - 112
+  to:
+  - 124
+  - 124
+  width: 163
+  size: 36
+  kind: speech
+- text: 'Inclement: harsh, stormy weather'
+  at:
+  - 623
+  - 140
+  to:
+  - 328
+  - 300
+  width: 300

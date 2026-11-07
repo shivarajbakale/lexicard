@@ -1,0 +1,28 @@
+image: outputs/scrape-the-bottom-of-the-barrel/seed_1.png
+out: outputs/lexicard/scrape-the-bottom-of-the-barrel.png
+bubbles:
+- text: All the good stuff is gone
+  at:
+  - 338
+  - 104
+  to:
+  - 528
+  - 152
+  width: 200
+- text: Only scraps are left
+  at:
+  - 136
+  - 261
+  to:
+  - 592
+  - 468
+  width: 163
+  size: 36
+- text: 'Scrape the bottom of the barrel: use leftovers'
+  at:
+  - 794
+  - 134
+  to:
+  - 528
+  - 152
+  width: 300

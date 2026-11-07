@@ -1,0 +1,20 @@
+image: outputs/taut/seed_1.png
+out: outputs/lexicard/taut.png
+bubbles:
+- text: Pull it until it is tight!
+  at:
+  - 544
+  - 203
+  to:
+  - 696
+  - 256
+  width: 200
+  kind: speech
+- text: 'Taut: stretched tight, no slack'
+  at:
+  - 243
+  - 104
+  to:
+  - 456
+  - 512
+  width: 300

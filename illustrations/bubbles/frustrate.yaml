@@ -1,0 +1,21 @@
+image: outputs/frustrate/seed_1.png
+out: outputs/lexicard/frustrate.png
+bubbles:
+- text: Please! I almost have it!
+  at:
+  - 702
+  - 190
+  to:
+  - 706
+  - 352
+  width: 200
+  kind: speech
+- text: 'Frustrate: stop someone reaching their goal'
+  at:
+  - 188
+  - 122
+  to:
+  - 492
+  - 116
+  width: 259
+  size: 38

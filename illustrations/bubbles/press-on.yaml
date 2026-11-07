@@ -1,0 +1,28 @@
+image: outputs/press-on/seed_1.png
+out: outputs/lexicard/press-on.png
+bubbles:
+- text: The storm is strong
+  at:
+  - 343
+  - 104
+  to:
+  - 148
+  - 120
+  width: 200
+- text: One step at a time
+  at:
+  - 646
+  - 188
+  to:
+  - 548
+  - 520
+  width: 200
+- text: 'Press on: keep going despite difficulty'
+  at:
+  - 818
+  - 372
+  to:
+  - 148
+  - 120
+  width: 259
+  size: 38

@@ -1,0 +1,28 @@
+image: outputs/fall-short/seed_1.png
+out: outputs/lexicard/fall-short.png
+bubbles:
+- text: Oh no, almost!
+  at:
+  - 614
+  - 140
+  to:
+  - 868
+  - 184
+  width: 150
+- text: The flag was just out of reach
+  at:
+  - 304
+  - 134
+  to:
+  - 820
+  - 232
+  width: 200
+- text: 'Fall short: fail to reach the goal'
+  at:
+  - 548
+  - 612
+  to:
+  - 528
+  - 244
+  width: 259
+  size: 38

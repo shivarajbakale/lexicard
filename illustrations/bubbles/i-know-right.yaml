@@ -1,0 +1,29 @@
+image: outputs/i-know-right/seed_1.png
+out: outputs/lexicard/i-know-right.png
+bubbles:
+- text: This weather is awful!
+  at:
+  - 148
+  - 95
+  to:
+  - 304
+  - 132
+  width: 200
+  kind: speech
+- text: I know, right?
+  at:
+  - 870
+  - 83
+  to:
+  - 680
+  - 84
+  width: 150
+  kind: speech
+- text: Totally agree with you
+  at:
+  - 857
+  - 656
+  to:
+  - 680
+  - 84
+  width: 200

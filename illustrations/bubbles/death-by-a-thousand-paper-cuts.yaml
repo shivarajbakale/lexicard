@@ -1,0 +1,28 @@
+image: outputs/death-by-a-thousand-paper-cuts/seed_1.png
+out: outputs/lexicard/death-by-a-thousand-paper-cuts.png
+bubbles:
+- text: So many tiny annoyances
+  at:
+  - 273
+  - 104
+  to:
+  - 500
+  - 144
+  width: 200
+- text: Each cut is small
+  at:
+  - 778
+  - 248
+  to:
+  - 460
+  - 660
+  width: 200
+- text: Death by a thousand paper cuts
+  at:
+  - 147
+  - 326
+  to:
+  - 500
+  - 144
+  width: 172
+  size: 38

@@ -1,0 +1,28 @@
+image: outputs/best-of-both-worlds/seed_1.png
+out: outputs/lexicard/best-of-both-worlds.png
+bubbles:
+- text: Beach on one side
+  at:
+  - 317
+  - 152
+  to:
+  - 476
+  - 212
+  width: 200
+- text: Snow on the other
+  at:
+  - 617
+  - 104
+  to:
+  - 476
+  - 212
+  width: 200
+- text: 'The best of both worlds: enjoy both at once'
+  at:
+  - 826
+  - 302
+  to:
+  - 264
+  - 344
+  width: 259
+  size: 38

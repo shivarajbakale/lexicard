@@ -1,0 +1,29 @@
+image: outputs/get-out-of-here/seed_1.png
+out: outputs/lexicard/get-out-of-here.png
+bubbles:
+- text: Get out of here!
+  at:
+  - 170
+  - 179
+  to:
+  - 300
+  - 268
+  width: 200
+  kind: speech
+- text: Leave immediately
+  at:
+  - 411
+  - 93
+  to:
+  - 300
+  - 268
+  width: 163
+  size: 36
+- text: He hurries out
+  at:
+  - 814
+  - 133
+  to:
+  - 616
+  - 168
+  width: 150

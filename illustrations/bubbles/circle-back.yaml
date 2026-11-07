@@ -1,0 +1,20 @@
+image: outputs/circle-back/seed_1.png
+out: outputs/lexicard/circle-back.png
+bubbles:
+- text: Let's circle back later.
+  at:
+  - 177
+  - 83
+  to:
+  - 220
+  - 240
+  width: 200
+  kind: speech
+- text: Return to it later
+  at:
+  - 602
+  - 152
+  to:
+  - 892
+  - 244
+  width: 200

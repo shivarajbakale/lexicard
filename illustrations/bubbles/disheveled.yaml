@@ -1,0 +1,21 @@
+image: outputs/disheveled/seed_1.png
+out: outputs/lexicard/disheveled.png
+bubbles:
+- text: Did you just wake up?
+  at:
+  - 581
+  - 107
+  to:
+  - 712
+  - 200
+  width: 200
+  kind: speech
+- text: 'Disheveled: messy and untidy in looks'
+  at:
+  - 187
+  - 96
+  to:
+  - 316
+  - 112
+  width: 259
+  size: 38

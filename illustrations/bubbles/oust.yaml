@@ -1,0 +1,20 @@
+image: outputs/oust/seed_1.png
+out: outputs/lexicard/oust.png
+bubbles:
+- text: This chair is mine now.
+  at:
+  - 637
+  - 83
+  to:
+  - 728
+  - 216
+  width: 200
+  kind: speech
+- text: 'Oust: force someone out of their place'
+  at:
+  - 217
+  - 104
+  to:
+  - 408
+  - 556
+  width: 300

@@ -1,0 +1,20 @@
+image: outputs/lethargic/seed_1.png
+out: outputs/lexicard/lethargic.png
+bubbles:
+- text: Come and play ball with me!
+  at:
+  - 762
+  - 106
+  to:
+  - 848
+  - 240
+  width: 200
+  kind: speech
+- text: 'Lethargic: no energy, barely moving'
+  at:
+  - 445
+  - 194
+  to:
+  - 604
+  - 356
+  width: 300

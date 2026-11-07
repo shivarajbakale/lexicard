@@ -1,0 +1,21 @@
+image: outputs/bizarre/seed_1.png
+out: outputs/lexicard/bizarre.png
+bubbles:
+- text: Um, what is going on here?
+  at:
+  - 546
+  - 118
+  to:
+  - 692
+  - 184
+  width: 200
+  kind: speech
+- text: 'Bizarre: very strange and odd'
+  at:
+  - 863
+  - 122
+  to:
+  - 348
+  - 120
+  width: 172
+  size: 38

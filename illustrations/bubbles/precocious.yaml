@@ -1,0 +1,11 @@
+image: outputs/precocious/seed_1.png
+out: outputs/lexicard/precocious.png
+bubbles:
+- text: 'Precocious: skilled at an unusually young age'
+  at:
+  - 437
+  - 134
+  to:
+  - 708
+  - 76
+  width: 300

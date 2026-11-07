@@ -1,0 +1,21 @@
+image: outputs/a-deal-is-a-deal/seed_1.png
+out: outputs/lexicard/a-deal-is-a-deal.png
+bubbles:
+- text: Can I change my mind?
+  at:
+  - 128
+  - 106
+  to:
+  - 188
+  - 204
+  width: 200
+  kind: speech
+- text: A deal is a deal.
+  at:
+  - 666
+  - 83
+  to:
+  - 796
+  - 184
+  width: 200
+  kind: speech

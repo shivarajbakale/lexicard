@@ -1,0 +1,20 @@
+image: outputs/evanescent/seed_1.png
+out: outputs/lexicard/evanescent.png
+bubbles:
+- text: Wait, it's gone already!
+  at:
+  - 626
+  - 167
+  to:
+  - 744
+  - 276
+  width: 200
+  kind: speech
+- text: 'Evanescent: lasting only a very short time'
+  at:
+  - 225
+  - 134
+  to:
+  - 296
+  - 268
+  width: 300

@@ -1,0 +1,19 @@
+image: outputs/lock-horns/seed_1.png
+out: outputs/lexicard/lock-horns.png
+bubbles:
+- text: Neither will back down
+  at:
+  - 323
+  - 224
+  to:
+  - 492
+  - 228
+  width: 200
+- text: 'Lock horns: argue or fight head to head'
+  at:
+  - 811
+  - 194
+  to:
+  - 556
+  - 296
+  width: 300

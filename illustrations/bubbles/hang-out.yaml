@@ -1,0 +1,20 @@
+image: outputs/hang-out/seed_1.png
+out: outputs/lexicard/hang-out.png
+bubbles:
+- text: Nothing planned today?
+  at:
+  - 223
+  - 134
+  to:
+  - 284
+  - 280
+  width: 200
+- text: No, let's just hang out.
+  at:
+  - 766
+  - 179
+  to:
+  - 868
+  - 376
+  width: 200
+  kind: speech

@@ -1,0 +1,21 @@
+image: outputs/drudgery/seed_1.png
+out: outputs/lexicard/drudgery.png
+bubbles:
+- text: 'Drudgery: dull, tiring work, over and over'
+  at:
+  - 453
+  - 134
+  to:
+  - 704
+  - 76
+  width: 300
+- text: Here's the next basket!
+  at:
+  - 891
+  - 75
+  to:
+  - 824
+  - 128
+  width: 163
+  size: 36
+  kind: speech

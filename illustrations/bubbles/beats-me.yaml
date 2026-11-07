@@ -1,0 +1,29 @@
+image: outputs/beats-me/seed_1.png
+out: outputs/lexicard/beats-me.png
+bubbles:
+- text: Why won't it work?
+  at:
+  - 637
+  - 131
+  to:
+  - 784
+  - 196
+  width: 200
+  kind: speech
+- text: Beats me!
+  at:
+  - 180
+  - 133
+  to:
+  - 140
+  - 288
+  width: 150
+  kind: speech
+- text: He has no idea
+  at:
+  - 553
+  - 320
+  to:
+  - 140
+  - 288
+  width: 150

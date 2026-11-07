@@ -1,0 +1,20 @@
+image: outputs/reckless/seed_1.png
+out: outputs/lexicard/reckless.png
+bubbles:
+- text: Slow down, you will crash!
+  at:
+  - 515
+  - 142
+  to:
+  - 816
+  - 168
+  width: 200
+  kind: speech
+- text: 'Reckless: ignores the risk of danger'
+  at:
+  - 203
+  - 236
+  to:
+  - 696
+  - 76
+  width: 300

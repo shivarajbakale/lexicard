@@ -1,0 +1,20 @@
+image: outputs/opulence/seed_1.png
+out: outputs/lexicard/opulence.png
+bubbles:
+- text: More gold for madam, as always.
+  at:
+  - 335
+  - 83
+  to:
+  - 188
+  - 136
+  width: 300
+  kind: speech
+- text: 'Opulence: great wealth and luxury'
+  at:
+  - 559
+  - 248
+  to:
+  - 308
+  - 252
+  width: 300

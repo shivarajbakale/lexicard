@@ -1,0 +1,21 @@
+image: outputs/thwart/seed_1.png
+out: outputs/lexicard/thwart.png
+bubbles:
+- text: Nice try, but not today.
+  at:
+  - 470
+  - 83
+  to:
+  - 664
+  - 88
+  width: 200
+  kind: speech
+- text: 'Thwart: stop someone from getting what they want'
+  at:
+  - 197
+  - 244
+  to:
+  - 456
+  - 248
+  width: 259
+  size: 38

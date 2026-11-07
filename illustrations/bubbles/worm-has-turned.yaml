@@ -1,0 +1,20 @@
+image: outputs/worm-has-turned/seed_1.png
+out: outputs/lexicard/worm-has-turned.png
+bubbles:
+- text: Help, the worm has turned!
+  at:
+  - 240
+  - 106
+  to:
+  - 308
+  - 248
+  width: 200
+  kind: speech
+- text: 'The worm has turned: the weak now fight back'
+  at:
+  - 767
+  - 362
+  to:
+  - 784
+  - 568
+  width: 300

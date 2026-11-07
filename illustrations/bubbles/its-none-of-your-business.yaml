@@ -1,0 +1,21 @@
+image: outputs/its-none-of-your-business/seed_1.png
+out: outputs/lexicard/its-none-of-your-business.png
+bubbles:
+- text: What's in the box?
+  at:
+  - 254
+  - 143
+  to:
+  - 376
+  - 252
+  width: 200
+  kind: speech
+- text: It's none of your business.
+  at:
+  - 880
+  - 106
+  to:
+  - 792
+  - 216
+  width: 200
+  kind: speech

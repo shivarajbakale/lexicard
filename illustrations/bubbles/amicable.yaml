@@ -1,0 +1,20 @@
+image: outputs/amicable/seed_1.png
+out: outputs/lexicard/amicable.png
+bubbles:
+- text: 'Amicable: friendly, without anger'
+  at:
+  - 648
+  - 104
+  to:
+  - 316
+  - 120
+  width: 300
+- text: No hard feelings, we agree.
+  at:
+  - 180
+  - 106
+  to:
+  - 436
+  - 132
+  width: 200
+  kind: speech

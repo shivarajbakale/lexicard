@@ -1,0 +1,29 @@
+image: outputs/on-the-verge/seed_1.png
+out: outputs/lexicard/on-the-verge.png
+bubbles:
+- text: I'm on the verge of jumping!
+  at:
+  - 126
+  - 106
+  to:
+  - 372
+  - 28
+  width: 200
+  kind: speech
+- text: Are you going to jump?
+  at:
+  - 659
+  - 104
+  to:
+  - 492
+  - 60
+  width: 200
+- text: 'On the verge: very close to acting'
+  at:
+  - 841
+  - 288
+  to:
+  - 228
+  - 584
+  width: 259
+  size: 38

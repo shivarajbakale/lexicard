@@ -1,0 +1,21 @@
+image: outputs/impede/seed_1.png
+out: outputs/lexicard/impede.png
+bubbles:
+- text: Now I can barely move forward!
+  at:
+  - 688
+  - 238
+  to:
+  - 730
+  - 426
+  width: 200
+  kind: speech
+- text: 'Impede: makes progress slower or harder'
+  at:
+  - 191
+  - 122
+  to:
+  - 316
+  - 120
+  width: 259
+  size: 38

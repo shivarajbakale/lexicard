@@ -1,0 +1,29 @@
+image: outputs/the-penny-drops/seed_1.png
+out: outputs/lexicard/the-penny-drops.png
+bubbles:
+- text: So that is why it broke!
+  at:
+  - 146
+  - 227
+  to:
+  - 300
+  - 264
+  width: 200
+  kind: speech
+- text: Ohh, I get it now!
+  at:
+  - 877
+  - 83
+  to:
+  - 820
+  - 176
+  width: 200
+  kind: speech
+- text: 'The penny drops: sudden understanding'
+  at:
+  - 481
+  - 134
+  to:
+  - 840
+  - 240
+  width: 300

@@ -1,0 +1,21 @@
+image: outputs/between-a-rock-and-a-hard-place/seed_1.png
+out: outputs/lexicard/between-a-rock-and-a-hard-place.png
+bubbles:
+- text: I am stuck, both ways are bad
+  at:
+  - 117
+  - 226
+  to:
+  - 700
+  - 88
+  width: 163
+  size: 36
+  kind: speech
+- text: 'Between a rock and a hard place: two bad choices'
+  at:
+  - 442
+  - 134
+  to:
+  - 792
+  - 380
+  width: 300

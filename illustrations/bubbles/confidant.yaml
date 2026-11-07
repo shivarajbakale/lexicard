@@ -1,0 +1,21 @@
+image: outputs/confidant/seed_1.png
+out: outputs/lexicard/confidant.png
+bubbles:
+- text: Can I tell you a secret?
+  at:
+  - 243
+  - 83
+  to:
+  - 380
+  - 160
+  width: 200
+  kind: speech
+- text: 'Confidant: someone you trust with secrets'
+  at:
+  - 823
+  - 122
+  to:
+  - 684
+  - 160
+  width: 259
+  size: 38

@@ -1,0 +1,29 @@
+image: outputs/you-can-say-that-again/seed_1.png
+out: outputs/lexicard/you-can-say-that-again.png
+bubbles:
+- text: It's so hot!
+  at:
+  - 177
+  - 203
+  to:
+  - 332
+  - 248
+  width: 150
+  kind: speech
+- text: You can say that again!
+  at:
+  - 629
+  - 191
+  to:
+  - 756
+  - 292
+  width: 200
+  kind: speech
+- text: I totally agree.
+  at:
+  - 885
+  - 272
+  to:
+  - 604
+  - 456
+  width: 200

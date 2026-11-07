@@ -1,0 +1,22 @@
+image: outputs/tip-off/seed_1.png
+out: outputs/lexicard/tip-off.png
+bubbles:
+- text: Psst, the boss is coming!
+  at:
+  - 101
+  - 346
+  to:
+  - 188
+  - 148
+  width: 163
+  size: 36
+  kind: speech
+- text: 'A tip-off: a quiet warning to be ready'
+  at:
+  - 180
+  - 122
+  to:
+  - 256
+  - 588
+  width: 259
+  size: 38

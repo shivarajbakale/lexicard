@@ -1,0 +1,21 @@
+image: outputs/exult/seed_1.png
+out: outputs/lexicard/exult.png
+bubbles:
+- text: We won! We actually won!
+  at:
+  - 651
+  - 83
+  to:
+  - 792
+  - 180
+  width: 200
+  kind: speech
+- text: 'Exult: celebrate with great joy'
+  at:
+  - 166
+  - 660
+  to:
+  - 252
+  - 136
+  width: 259
+  size: 38

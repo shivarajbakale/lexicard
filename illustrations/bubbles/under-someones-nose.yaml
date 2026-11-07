@@ -1,0 +1,30 @@
+image: outputs/under-someones-nose/seed_2.png
+out: outputs/lexicard/under-someones-nose.png
+bubbles:
+- text: Where are my glasses?!
+  at:
+  - 187
+  - 191
+  to:
+  - 348
+  - 192
+  width: 200
+  kind: speech
+- text: Right in front of you!
+  at:
+  - 514
+  - 119
+  to:
+  - 656
+  - 200
+  width: 200
+  kind: speech
+- text: 'Under your nose: close but unnoticed'
+  at:
+  - 825
+  - 204
+  to:
+  - 552
+  - 524
+  width: 259
+  size: 38

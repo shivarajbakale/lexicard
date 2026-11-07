@@ -1,0 +1,29 @@
+image: outputs/keep-a-cool-head/seed_1.png
+out: outputs/lexicard/keep-a-cool-head.png
+bubbles:
+- text: We're all going to crash!
+  at:
+  - 681
+  - 134
+  to:
+  - 792
+  - 300
+  width: 200
+- text: Stay calm and think
+  at:
+  - 264
+  - 176
+  to:
+  - 152
+  - 328
+  width: 200
+- text: Keep a cool head
+  at:
+  - 897
+  - 269
+  to:
+  - 152
+  - 328
+  width: 172
+  size: 38
+  kind: speech

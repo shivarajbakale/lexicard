@@ -1,0 +1,30 @@
+image: outputs/have-i-got-news-for-you/seed_1.png
+out: outputs/lexicard/have-i-got-news-for-you.png
+bubbles:
+- text: Have I got news for you!
+  at:
+  - 190
+  - 120
+  to:
+  - 320
+  - 300
+  width: 260
+  kind: speech
+- text: 'Have I got news for you: I have big news'
+  at:
+  - 520
+  - 105
+  to:
+  - 330
+  - 300
+  width: 280
+  size: 36
+- text: Tell me everything!
+  at:
+  - 870
+  - 150
+  to:
+  - 660
+  - 300
+  width: 230
+  kind: speech

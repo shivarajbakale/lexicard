@@ -1,0 +1,21 @@
+image: outputs/white-lie/seed_1.png
+out: outputs/lexicard/white-lie.png
+bubbles:
+- text: I love it!
+  at:
+  - 709
+  - 133
+  to:
+  - 832
+  - 236
+  width: 150
+  kind: speech
+- text: 'White lie: small harmless untruth to be kind'
+  at:
+  - 511
+  - 278
+  to:
+  - 832
+  - 236
+  width: 259
+  size: 38

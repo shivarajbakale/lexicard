@@ -1,0 +1,20 @@
+image: outputs/no-picnic/seed_1.png
+out: outputs/lexicard/no-picnic.png
+bubbles:
+- text: This is no picnic!
+  at:
+  - 289
+  - 83
+  to:
+  - 232
+  - 232
+  width: 200
+  kind: speech
+- text: 'No picnic: hard and unpleasant work'
+  at:
+  - 769
+  - 104
+  to:
+  - 540
+  - 604
+  width: 300

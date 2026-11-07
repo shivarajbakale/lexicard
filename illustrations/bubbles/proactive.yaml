@@ -1,0 +1,22 @@
+image: outputs/proactive/seed_1.png
+out: outputs/lexicard/proactive.png
+bubbles:
+- text: Better to prepare before it rains.
+  at:
+  - 157
+  - 279
+  to:
+  - 116
+  - 124
+  width: 245
+  size: 36
+  kind: speech
+- text: 'Proactive: act early, before trouble comes'
+  at:
+  - 815
+  - 230
+  to:
+  - 116
+  - 124
+  width: 259
+  size: 38

@@ -1,0 +1,29 @@
+image: outputs/ill-believe-it-when-i-see-it/seed_1.png
+out: outputs/lexicard/ill-believe-it-when-i-see-it.png
+bubbles:
+- text: I'll run a marathon!
+  at:
+  - 572
+  - 227
+  to:
+  - 436
+  - 140
+  width: 200
+  kind: speech
+- text: I'll believe it when I see it.
+  at:
+  - 138
+  - 106
+  to:
+  - 316
+  - 104
+  width: 200
+  kind: speech
+- text: Needs proof first
+  at:
+  - 805
+  - 104
+  to:
+  - 316
+  - 104
+  width: 200

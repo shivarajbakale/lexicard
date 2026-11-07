@@ -1,0 +1,20 @@
+image: outputs/cynical/seed_1.png
+out: outputs/lexicard/cynical.png
+bubbles:
+- text: What does she want from me?
+  at:
+  - 573
+  - 106
+  to:
+  - 828
+  - 184
+  width: 200
+  kind: speech
+- text: 'Cynical: sure people act selfishly'
+  at:
+  - 223
+  - 140
+  to:
+  - 468
+  - 408
+  width: 300

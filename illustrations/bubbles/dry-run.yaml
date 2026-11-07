@@ -1,0 +1,19 @@
+image: outputs/dry-run/seed_1.png
+out: outputs/lexicard/dry-run.png
+bubbles:
+- text: We practise without the real thing.
+  at:
+  - 198
+  - 134
+  to:
+  - 280
+  - 272
+  width: 300
+- text: 'Dry run: a practice rehearsal'
+  at:
+  - 853
+  - 134
+  to:
+  - 720
+  - 252
+  width: 200

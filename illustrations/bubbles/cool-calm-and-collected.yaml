@@ -1,0 +1,20 @@
+image: outputs/cool-calm-and-collected/seed_1.png
+out: outputs/lexicard/cool-calm-and-collected.png
+bubbles:
+- text: Everything is falling apart!
+  at:
+  - 772
+  - 251
+  to:
+  - 892
+  - 356
+  width: 200
+  kind: speech
+- text: 'Cool, calm and collected: steady under pressure'
+  at:
+  - 425
+  - 170
+  to:
+  - 96
+  - 376
+  width: 300

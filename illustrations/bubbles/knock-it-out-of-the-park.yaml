@@ -1,0 +1,28 @@
+image: outputs/knock-it-out-of-the-park/seed_1.png
+out: outputs/lexicard/knock-it-out-of-the-park.png
+bubbles:
+- text: Wow, what a hit!
+  at:
+  - 567
+  - 83
+  to:
+  - 884
+  - 76
+  width: 200
+  kind: speech
+- text: The ball leaves the park
+  at:
+  - 870
+  - 350
+  to:
+  - 796
+  - 104
+  width: 200
+- text: 'Knock it out of the park: do great'
+  at:
+  - 808
+  - 596
+  to:
+  - 764
+  - 24
+  width: 300

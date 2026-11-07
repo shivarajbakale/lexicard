@@ -1,0 +1,28 @@
+image: outputs/fly-by-the-seat-of-ones-pants/seed_1.png
+out: outputs/lexicard/fly-by-the-seat-of-ones-pants.png
+bubbles:
+- text: No map, no tools.
+  at:
+  - 176
+  - 176
+  to:
+  - 188
+  - 340
+  width: 200
+- text: The pants = flying by feel
+  at:
+  - 509
+  - 116
+  to:
+  - 356
+  - 520
+  width: 200
+- text: 'Fly by the seat of your pants: improvise'
+  at:
+  - 835
+  - 218
+  to:
+  - 712
+  - 328
+  width: 259
+  size: 38

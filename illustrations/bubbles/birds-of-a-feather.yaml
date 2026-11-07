@@ -1,0 +1,28 @@
+image: outputs/birds-of-a-feather/seed_1.png
+out: outputs/lexicard/birds-of-a-feather.png
+bubbles:
+- text: We all like the same things
+  at:
+  - 176
+  - 218
+  to:
+  - 280
+  - 340
+  width: 200
+- text: Matching feathers = shared traits
+  at:
+  - 559
+  - 212
+  to:
+  - 428
+  - 460
+  width: 300
+- text: 'Birds of a feather: similar people bond'
+  at:
+  - 835
+  - 660
+  to:
+  - 572
+  - 324
+  width: 259
+  size: 38

@@ -1,0 +1,20 @@
+image: outputs/raze/seed_1.png
+out: outputs/lexicard/raze.png
+bubbles:
+- text: Nothing is left of the old house.
+  at:
+  - 264
+  - 119
+  to:
+  - 228
+  - 272
+  width: 300
+  kind: speech
+- text: 'Raze: knock a building completely flat'
+  at:
+  - 670
+  - 134
+  to:
+  - 424
+  - 456
+  width: 300

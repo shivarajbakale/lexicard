@@ -1,0 +1,20 @@
+image: outputs/composed/seed_1.png
+out: outputs/lexicard/composed.png
+bubbles:
+- text: Everything is going wrong!
+  at:
+  - 616
+  - 167
+  to:
+  - 652
+  - 324
+  width: 200
+  kind: speech
+- text: 'Composed: calm even in chaos'
+  at:
+  - 289
+  - 134
+  to:
+  - 392
+  - 472
+  width: 200

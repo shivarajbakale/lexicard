@@ -1,0 +1,21 @@
+image: outputs/pick-on-someone-your-own-size/seed_1.png
+out: outputs/lexicard/pick-on-someone-your-own-size.png
+bubbles:
+- text: Pick on someone your own size!
+  at:
+  - 712
+  - 250
+  to:
+  - 810
+  - 404
+  width: 200
+  kind: speech
+- text: 'Pick on someone your size: don''t bully the weak'
+  at:
+  - 405
+  - 122
+  to:
+  - 260
+  - 188
+  width: 259
+  size: 38

@@ -1,0 +1,28 @@
+image: outputs/see-red/seed_1.png
+out: outputs/lexicard/see-red.png
+bubbles:
+- text: My coffee spilled again
+  at:
+  - 171
+  - 128
+  to:
+  - 308
+  - 208
+  width: 200
+- text: The last straw
+  at:
+  - 141
+  - 488
+  to:
+  - 504
+  - 624
+  width: 150
+- text: I see red! I'm furious!
+  at:
+  - 637
+  - 83
+  to:
+  - 308
+  - 208
+  width: 200
+  kind: speech

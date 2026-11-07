@@ -1,0 +1,28 @@
+image: outputs/touch-base/seed_1.png
+out: outputs/lexicard/touch-base.png
+bubbles:
+- text: Just touching base.
+  at:
+  - 160
+  - 83
+  to:
+  - 316
+  - 124
+  width: 200
+  kind: speech
+- text: A quick check-in
+  at:
+  - 551
+  - 140
+  to:
+  - 696
+  - 212
+  width: 200
+- text: How is it going?
+  at:
+  - 830
+  - 128
+  to:
+  - 316
+  - 124
+  width: 200

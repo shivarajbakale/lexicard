@@ -1,0 +1,21 @@
+image: outputs/your-reputation-precedes-you/seed_1.png
+out: outputs/lexicard/your-reputation-precedes-you.png
+bubbles:
+- text: Your reputation precedes you.
+  at:
+  - 398
+  - 142
+  to:
+  - 280
+  - 256
+  width: 200
+  kind: speech
+- text: Known before meeting
+  at:
+  - 119
+  - 118
+  to:
+  - 780
+  - 36
+  width: 163
+  size: 36

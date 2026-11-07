@@ -1,0 +1,28 @@
+image: outputs/big-break/seed_1.png
+out: outputs/lexicard/big-break.png
+bubbles:
+- text: I just sing for coins
+  at:
+  - 169
+  - 140
+  to:
+  - 260
+  - 276
+  width: 200
+- text: Come with me! You're a star
+  at:
+  - 496
+  - 106
+  to:
+  - 584
+  - 240
+  width: 200
+  kind: speech
+- text: 'Big break: a lucky chance at success'
+  at:
+  - 815
+  - 200
+  to:
+  - 344
+  - 424
+  width: 300

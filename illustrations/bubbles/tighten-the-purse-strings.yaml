@@ -1,0 +1,20 @@
+image: outputs/tighten-the-purse-strings/seed_1.png
+out: outputs/lexicard/tighten-the-purse-strings.png
+bubbles:
+- text: Can I have a new toy?
+  at:
+  - 850
+  - 360
+  to:
+  - 686
+  - 560
+  width: 200
+  kind: speech
+- text: 'Tighten the purse strings: spend less money'
+  at:
+  - 620
+  - 120
+  to:
+  - 204
+  - 160
+  width: 300

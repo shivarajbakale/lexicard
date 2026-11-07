@@ -1,0 +1,20 @@
+image: outputs/get-well-soon/seed_1.png
+out: outputs/lexicard/get-well-soon.png
+bubbles:
+- text: Get well soon!
+  at:
+  - 260
+  - 83
+  to:
+  - 284
+  - 244
+  width: 150
+  kind: speech
+- text: 'Get well soon: a wish for recovery'
+  at:
+  - 544
+  - 236
+  to:
+  - 420
+  - 344
+  width: 300

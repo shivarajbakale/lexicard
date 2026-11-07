@@ -1,0 +1,29 @@
+image: outputs/ballpark-estimate/seed_1.png
+out: outputs/lexicard/ballpark-estimate.png
+bubbles:
+- text: How many boxes?
+  at:
+  - 617
+  - 179
+  to:
+  - 784
+  - 196
+  width: 200
+  kind: speech
+- text: Roughly a hundred, give or take.
+  at:
+  - 340
+  - 83
+  to:
+  - 268
+  - 168
+  width: 300
+  kind: speech
+- text: Close, not exact
+  at:
+  - 872
+  - 104
+  to:
+  - 532
+  - 528
+  width: 200

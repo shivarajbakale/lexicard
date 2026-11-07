@@ -1,0 +1,20 @@
+image: outputs/cabal/seed_1.png
+out: outputs/lexicard/cabal.png
+bubbles:
+- text: Quiet! Nobody must know our plan.
+  at:
+  - 294
+  - 107
+  to:
+  - 436
+  - 180
+  width: 300
+  kind: speech
+- text: 'Cabal: small secret group making plans'
+  at:
+  - 763
+  - 164
+  to:
+  - 552
+  - 504
+  width: 300

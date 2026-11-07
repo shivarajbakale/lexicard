@@ -1,0 +1,21 @@
+image: outputs/fair-is-fair/seed_1.png
+out: outputs/lexicard/fair-is-fair.png
+bubbles:
+- text: Half for you, half for me.
+  at:
+  - 167
+  - 83
+  to:
+  - 304
+  - 168
+  width: 200
+  kind: speech
+- text: 'Fair is fair: the same rule for everyone'
+  at:
+  - 847
+  - 122
+  to:
+  - 512
+  - 636
+  width: 259
+  size: 38

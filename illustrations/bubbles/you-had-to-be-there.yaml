@@ -1,0 +1,29 @@
+image: outputs/you-had-to-be-there/seed_1.png
+out: outputs/lexicard/you-had-to-be-there.png
+bubbles:
+- text: It was hilarious!
+  at:
+  - 115
+  - 83
+  to:
+  - 188
+  - 168
+  width: 200
+  kind: speech
+- text: You had to be there.
+  at:
+  - 464
+  - 83
+  to:
+  - 188
+  - 168
+  width: 200
+  kind: speech
+- text: Hard to explain later
+  at:
+  - 856
+  - 104
+  to:
+  - 756
+  - 192
+  width: 200

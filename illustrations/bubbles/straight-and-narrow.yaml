@@ -1,0 +1,19 @@
+image: outputs/straight-and-narrow/seed_1.png
+out: outputs/lexicard/straight-and-narrow.png
+bubbles:
+- text: Messy temptations on both sides
+  at:
+  - 786
+  - 248
+  to:
+  - 112
+  - 124
+  width: 300
+- text: 'Straight and narrow: live honestly'
+  at:
+  - 429
+  - 134
+  to:
+  - 112
+  - 124
+  width: 300

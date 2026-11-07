@@ -1,0 +1,20 @@
+image: outputs/allay/seed_1.png
+out: outputs/lexicard/allay.png
+bubbles:
+- text: See? Nothing is under there.
+  at:
+  - 825
+  - 106
+  to:
+  - 704
+  - 208
+  width: 200
+  kind: speech
+- text: 'Allay: make a fear feel smaller'
+  at:
+  - 346
+  - 104
+  to:
+  - 584
+  - 112
+  width: 300

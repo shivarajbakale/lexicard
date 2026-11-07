@@ -1,0 +1,28 @@
+image: outputs/take-stock/seed_1.png
+out: outputs/lexicard/take-stock.png
+bubbles:
+- text: Let's see what we have left
+  at:
+  - 166
+  - 134
+  to:
+  - 52
+  - 244
+  width: 200
+- text: Half the shelves are empty!
+  at:
+  - 513
+  - 118
+  to:
+  - 832
+  - 356
+  width: 200
+  kind: speech
+- text: 'Take stock: check what you have'
+  at:
+  - 822
+  - 212
+  to:
+  - 456
+  - 636
+  width: 300

@@ -1,0 +1,28 @@
+image: outputs/in-the-blink-of-an-eye/panels_seed_1.png
+out: outputs/lexicard/in-the-blink-of-an-eye.png
+bubbles:
+- text: Here comes my bus
+  at:
+  - 176
+  - 128
+  to:
+  - 258
+  - 300
+  width: 200
+- text: It left while I blinked
+  at:
+  - 473
+  - 93
+  to:
+  - 766
+  - 300
+  width: 163
+  size: 36
+- text: 'In the blink of an eye: instantly'
+  at:
+  - 815
+  - 128
+  to:
+  - 766
+  - 300
+  width: 300

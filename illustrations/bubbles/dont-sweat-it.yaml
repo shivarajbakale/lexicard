@@ -1,0 +1,21 @@
+image: outputs/dont-sweat-it/seed_1.png
+out: outputs/lexicard/dont-sweat-it.png
+bubbles:
+- text: I'm so sorry about that!
+  at:
+  - 162
+  - 155
+  to:
+  - 268
+  - 276
+  width: 200
+  kind: speech
+- text: Don't sweat it.
+  at:
+  - 702
+  - 95
+  to:
+  - 812
+  - 208
+  width: 200
+  kind: speech

@@ -1,0 +1,21 @@
+image: outputs/connoisseur/seed_1.png
+out: outputs/lexicard/connoisseur.png
+bubbles:
+- text: Ah, a fine aged cheese from the hills.
+  at:
+  - 146
+  - 94
+  to:
+  - 192
+  - 196
+  width: 245
+  size: 36
+  kind: speech
+- text: 'Connoisseur: expert who judges quality well'
+  at:
+  - 679
+  - 146
+  to:
+  - 444
+  - 156
+  width: 300

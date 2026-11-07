@@ -1,0 +1,21 @@
+image: outputs/none-of-your-beeswax/seed_1.png
+out: outputs/lexicard/none-of-your-beeswax.png
+bubbles:
+- text: None of your beeswax!
+  at:
+  - 577
+  - 83
+  to:
+  - 660
+  - 224
+  width: 200
+  kind: speech
+- text: 'None of your beeswax: it''s not your business'
+  at:
+  - 839
+  - 218
+  to:
+  - 808
+  - 492
+  width: 259
+  size: 38

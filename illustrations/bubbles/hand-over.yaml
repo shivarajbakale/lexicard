@@ -1,0 +1,29 @@
+image: outputs/hand-over/seed_1.png
+out: outputs/lexicard/hand-over.png
+bubbles:
+- text: I'm done for today
+  at:
+  - 411
+  - 104
+  to:
+  - 204
+  - 164
+  width: 200
+- text: Here, it's all yours
+  at:
+  - 511
+  - 299
+  to:
+  - 204
+  - 164
+  width: 200
+  kind: speech
+- text: 'Handed over: now it''s my job'
+  at:
+  - 854
+  - 122
+  to:
+  - 876
+  - 236
+  width: 172
+  size: 38

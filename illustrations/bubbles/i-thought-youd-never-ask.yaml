@@ -1,0 +1,29 @@
+image: outputs/i-thought-youd-never-ask/seed_1.png
+out: outputs/lexicard/i-thought-youd-never-ask.png
+bubbles:
+- text: Would you dance with me?
+  at:
+  - 155
+  - 106
+  to:
+  - 316
+  - 124
+  width: 200
+  kind: speech
+- text: I thought you'd never ask!
+  at:
+  - 536
+  - 106
+  to:
+  - 792
+  - 184
+  width: 200
+  kind: speech
+- text: She waited happily
+  at:
+  - 870
+  - 104
+  to:
+  - 568
+  - 316
+  width: 200

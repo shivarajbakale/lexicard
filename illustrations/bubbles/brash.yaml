@@ -1,0 +1,20 @@
+image: outputs/brash/seed_1.png
+out: outputs/lexicard/brash.png
+bubbles:
+- text: Make way! I'm the best here!
+  at:
+  - 333
+  - 106
+  to:
+  - 168
+  - 148
+  width: 200
+  kind: speech
+- text: 'Brash: loud and boldly overconfident'
+  at:
+  - 743
+  - 128
+  to:
+  - 596
+  - 216
+  width: 300

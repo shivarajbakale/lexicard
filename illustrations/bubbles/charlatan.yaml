@@ -1,0 +1,20 @@
+image: outputs/charlatan/seed_1.png
+out: outputs/lexicard/charlatan.png
+bubbles:
+- text: This cures everything, madam!
+  at:
+  - 130
+  - 106
+  to:
+  - 252
+  - 208
+  width: 200
+  kind: speech
+- text: 'Charlatan: fakes skill he doesn''t have'
+  at:
+  - 768
+  - 116
+  to:
+  - 692
+  - 256
+  width: 300

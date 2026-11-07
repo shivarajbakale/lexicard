@@ -1,0 +1,20 @@
+image: outputs/dearth/seed_1.png
+out: outputs/lexicard/dearth.png
+bubbles:
+- text: Is that all there is?
+  at:
+  - 582
+  - 263
+  to:
+  - 716
+  - 354
+  width: 200
+  kind: speech
+- text: 'Dearth: a shortage of what is needed'
+  at:
+  - 369
+  - 104
+  to:
+  - 216
+  - 184
+  width: 300

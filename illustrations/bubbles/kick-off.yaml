@@ -1,0 +1,28 @@
+image: outputs/kick-off/seed_1.png
+out: outputs/lexicard/kick-off.png
+bubbles:
+- text: Everybody ready?
+  at:
+  - 171
+  - 155
+  to:
+  - 216
+  - 312
+  width: 200
+  kind: speech
+- text: The first kick starts the game
+  at:
+  - 519
+  - 218
+  to:
+  - 544
+  - 612
+  width: 200
+- text: 'Kick off: begin an event'
+  at:
+  - 838
+  - 206
+  to:
+  - 548
+  - 408
+  width: 200

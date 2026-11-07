@@ -1,0 +1,20 @@
+image: outputs/whimsical/seed_1.png
+out: outputs/lexicard/whimsical.png
+bubbles:
+- text: Isn't my snail a darling?
+  at:
+  - 181
+  - 106
+  to:
+  - 276
+  - 232
+  width: 200
+  kind: speech
+- text: 'Whimsical: playfully odd and charming'
+  at:
+  - 515
+  - 152
+  to:
+  - 276
+  - 232
+  width: 300

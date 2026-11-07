@@ -1,0 +1,29 @@
+image: outputs/hear-through-the-grapevine/seed_1.png
+out: outputs/lexicard/hear-through-the-grapevine.png
+bubbles:
+- text: I heard something.
+  at:
+  - 130
+  - 561
+  to:
+  - 392
+  - 152
+  width: 163
+  size: 36
+- text: The grapes carry whispers
+  at:
+  - 883
+  - 646
+  to:
+  - 668
+  - 328
+  width: 163
+  size: 36
+- text: 'Hear through the grapevine: learn from gossip'
+  at:
+  - 210
+  - 134
+  to:
+  - 392
+  - 152
+  width: 300

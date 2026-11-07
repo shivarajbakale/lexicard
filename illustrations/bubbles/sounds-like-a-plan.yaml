@@ -1,0 +1,30 @@
+image: outputs/sounds-like-a-plan/seed_1.png
+out: outputs/lexicard/sounds-like-a-plan.png
+bubbles:
+- text: We cook, you bring drinks?
+  at:
+  - 167
+  - 106
+  to:
+  - 240
+  - 248
+  width: 200
+  kind: speech
+- text: Sounds like a plan!
+  at:
+  - 895
+  - 159
+  to:
+  - 832
+  - 216
+  width: 163
+  size: 36
+  kind: speech
+- text: 'Sounds like a plan: I approve of that'
+  at:
+  - 566
+  - 104
+  to:
+  - 832
+  - 216
+  width: 300

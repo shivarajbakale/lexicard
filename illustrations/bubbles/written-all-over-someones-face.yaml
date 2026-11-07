@@ -1,0 +1,28 @@
+image: outputs/written-all-over-someones-face/seed_1.png
+out: outputs/lexicard/written-all-over-someones-face.png
+bubbles:
+- text: What are you hiding?
+  at:
+  - 175
+  - 164
+  to:
+  - 312
+  - 252
+  width: 200
+- text: The cake gave it away
+  at:
+  - 844
+  - 260
+  to:
+  - 788
+  - 452
+  width: 200
+- text: It's written all over your face!
+  at:
+  - 535
+  - 131
+  to:
+  - 312
+  - 252
+  width: 300
+  kind: speech

@@ -1,0 +1,30 @@
+image: outputs/no-sooner-said-than-done/seed_1.png
+out: outputs/lexicard/no-sooner-said-than-done.png
+bubbles:
+- text: Could I have a drink?
+  at:
+  - 166
+  - 179
+  to:
+  - 280
+  - 288
+  width: 200
+  kind: speech
+- text: No sooner said than done!
+  at:
+  - 784
+  - 106
+  to:
+  - 720
+  - 252
+  width: 200
+  kind: speech
+- text: It was brought almost instantly.
+  at:
+  - 475
+  - 108
+  to:
+  - 720
+  - 252
+  width: 259
+  size: 38

@@ -1,0 +1,19 @@
+image: outputs/out-of-the-blue/seed_1.png
+out: outputs/lexicard/out-of-the-blue.png
+bubbles:
+- text: Just a quiet, ordinary day
+  at:
+  - 258
+  - 116
+  to:
+  - 288
+  - 276
+  width: 200
+- text: 'Out of the blue: totally unexpected'
+  at:
+  - 765
+  - 248
+  to:
+  - 724
+  - 456
+  width: 300

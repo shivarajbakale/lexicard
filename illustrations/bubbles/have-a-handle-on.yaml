@@ -1,0 +1,29 @@
+image: outputs/have-a-handle-on/seed_1.png
+out: outputs/lexicard/have-a-handle-on.png
+bubbles:
+- text: Got it, no problem!
+  at:
+  - 166
+  - 83
+  to:
+  - 312
+  - 148
+  width: 200
+  kind: speech
+- text: How is he lifting that?
+  at:
+  - 555
+  - 164
+  to:
+  - 708
+  - 212
+  width: 200
+- text: 'Have a handle on it: fully in control'
+  at:
+  - 177
+  - 660
+  to:
+  - 408
+  - 496
+  width: 259
+  size: 38

@@ -1,0 +1,20 @@
+image: outputs/consensus/seed_1.png
+out: outputs/lexicard/consensus.png
+bubbles:
+- text: We all agree!
+  at:
+  - 271
+  - 119
+  to:
+  - 212
+  - 268
+  width: 150
+  kind: speech
+- text: 'Consensus: everyone agrees together'
+  at:
+  - 649
+  - 140
+  to:
+  - 520
+  - 236
+  width: 300

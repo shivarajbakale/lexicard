@@ -1,0 +1,30 @@
+image: outputs/too-good-to-be-true/seed_1.png
+out: outputs/lexicard/too-good-to-be-true.png
+bubbles:
+- text: It's yours, totally free!
+  at:
+  - 135
+  - 83
+  to:
+  - 252
+  - 132
+  width: 200
+  kind: speech
+- text: Too good to be true.
+  at:
+  - 647
+  - 143
+  to:
+  - 800
+  - 184
+  width: 200
+  kind: speech
+- text: 'Too good to be true: suspiciously perfect'
+  at:
+  - 551
+  - 324
+  to:
+  - 800
+  - 184
+  width: 259
+  size: 38

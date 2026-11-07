@@ -1,0 +1,28 @@
+image: outputs/im-sorry/seed_1.png
+out: outputs/lexicard/im-sorry.png
+bubbles:
+- text: I'm sorry!
+  at:
+  - 240
+  - 157
+  to:
+  - 396
+  - 200
+  width: 150
+  kind: speech
+- text: He feels bad
+  at:
+  - 522
+  - 104
+  to:
+  - 396
+  - 200
+  width: 150
+- text: Her ice cream fell
+  at:
+  - 848
+  - 236
+  to:
+  - 712
+  - 320
+  width: 200

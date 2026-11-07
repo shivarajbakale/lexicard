@@ -1,0 +1,20 @@
+image: outputs/subterranean/seed_2.png
+out: outputs/lexicard/subterranean.png
+bubbles:
+- text: What is under my feet?
+  at:
+  - 259
+  - 106
+  to:
+  - 448
+  - 64
+  width: 200
+  kind: speech
+- text: 'Subterranean: below the ground'
+  at:
+  - 810
+  - 194
+  to:
+  - 492
+  - 488
+  width: 200

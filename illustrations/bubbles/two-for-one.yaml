@@ -1,0 +1,21 @@
+image: outputs/two-for-one/seed_1.png
+out: outputs/lexicard/two-for-one.png
+bubbles:
+- text: Two for one today!
+  at:
+  - 446
+  - 215
+  to:
+  - 828
+  - 212
+  width: 200
+  kind: speech
+- text: 'Two for one: two items, price of one'
+  at:
+  - 831
+  - 96
+  to:
+  - 696
+  - 124
+  width: 259
+  size: 38

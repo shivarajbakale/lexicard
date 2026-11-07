@@ -1,0 +1,21 @@
+image: outputs/ones-bark-is-worse-than-ones-bite/seed_1.png
+out: outputs/lexicard/ones-bark-is-worse-than-ones-bite.png
+bubbles:
+- text: Don't worry, he's all noise.
+  at:
+  - 424
+  - 83
+  to:
+  - 616
+  - 104
+  width: 200
+  kind: speech
+- text: 'His bark is worse than his bite: all talk, no action'
+  at:
+  - 834
+  - 122
+  to:
+  - 736
+  - 144
+  width: 259
+  size: 38

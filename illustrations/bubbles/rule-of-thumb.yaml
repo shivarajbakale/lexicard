@@ -1,0 +1,19 @@
+image: outputs/rule-of-thumb/seed_2.png
+out: outputs/lexicard/rule-of-thumb.png
+bubbles:
+- text: No ruler needed?
+  at:
+  - 322
+  - 140
+  to:
+  - 480
+  - 176
+  width: 200
+- text: 'Rule of thumb: a rough way to judge'
+  at:
+  - 698
+  - 128
+  to:
+  - 248
+  - 292
+  width: 300

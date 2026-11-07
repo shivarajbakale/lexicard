@@ -1,0 +1,28 @@
+image: outputs/cry-ones-eyes-out/seed_1.png
+out: outputs/lexicard/cry-ones-eyes-out.png
+bubbles:
+- text: Such a sad movie
+  at:
+  - 342
+  - 104
+  to:
+  - 500
+  - 156
+  width: 200
+- text: This soaked pillow shows it
+  at:
+  - 791
+  - 194
+  to:
+  - 500
+  - 552
+  width: 200
+- text: I cried my eyes out!
+  at:
+  - 208
+  - 287
+  to:
+  - 500
+  - 156
+  width: 200
+  kind: speech

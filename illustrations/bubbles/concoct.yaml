@@ -1,0 +1,20 @@
+image: outputs/concoct/seed_1.png
+out: outputs/lexicard/concoct.png
+bubbles:
+- text: What are you making?
+  at:
+  - 871
+  - 311
+  to:
+  - 706
+  - 476
+  width: 200
+  kind: speech
+- text: 'Concoct: mix odd things into something new'
+  at:
+  - 647
+  - 134
+  to:
+  - 332
+  - 36
+  width: 300

@@ -1,0 +1,29 @@
+image: outputs/chin-up/seed_1.png
+out: outputs/lexicard/chin-up.png
+bubbles:
+- text: Chin up!
+  at:
+  - 168
+  - 133
+  to:
+  - 156
+  - 296
+  width: 150
+  kind: speech
+- text: Don't give up
+  at:
+  - 849
+  - 104
+  to:
+  - 596
+  - 104
+  width: 150
+- text: He feels a little better
+  at:
+  - 411
+  - 93
+  to:
+  - 596
+  - 104
+  width: 163
+  size: 36

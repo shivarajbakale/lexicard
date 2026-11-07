@@ -1,0 +1,19 @@
+image: outputs/eagle-eye/seed_1.png
+out: outputs/lexicard/eagle-eye.png
+bubbles:
+- text: I spotted it instantly.
+  at:
+  - 154
+  - 608
+  to:
+  - 588
+  - 60
+  width: 200
+- text: 'Eagle eye: sharp at noticing small details'
+  at:
+  - 233
+  - 134
+  to:
+  - 708
+  - 96
+  width: 300

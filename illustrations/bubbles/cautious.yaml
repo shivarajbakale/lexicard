@@ -1,0 +1,20 @@
+image: outputs/cautious/seed_1.png
+out: outputs/lexicard/cautious.png
+bubbles:
+- text: Why so slowly?
+  at:
+  - 893
+  - 83
+  to:
+  - 892
+  - 228
+  width: 150
+  kind: speech
+- text: 'Cautious: careful to avoid risk'
+  at:
+  - 562
+  - 104
+  to:
+  - 180
+  - 212
+  width: 300

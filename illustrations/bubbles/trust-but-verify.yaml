@@ -1,0 +1,30 @@
+image: outputs/trust-but-verify/seed_1.png
+out: outputs/lexicard/trust-but-verify.png
+bubbles:
+- text: I trust you...
+  at:
+  - 110
+  - 95
+  to:
+  - 248
+  - 172
+  width: 150
+  kind: speech
+- text: But I'll check anyway.
+  at:
+  - 389
+  - 95
+  to:
+  - 248
+  - 172
+  width: 200
+  kind: speech
+- text: Trust, then confirm.
+  at:
+  - 517
+  - 321
+  to:
+  - 248
+  - 172
+  width: 163
+  size: 36

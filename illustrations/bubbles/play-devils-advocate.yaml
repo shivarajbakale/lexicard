@@ -1,0 +1,20 @@
+image: outputs/play-devils-advocate/seed_1.png
+out: outputs/lexicard/play-devils-advocate.png
+bubbles:
+- text: Let's paint the whole house pink!
+  at:
+  - 840
+  - 83
+  to:
+  - 260
+  - 276
+  width: 300
+  kind: speech
+- text: 'Devil''s advocate: arguing the other side to test an idea'
+  at:
+  - 448
+  - 158
+  to:
+  - 516
+  - 588
+  width: 300

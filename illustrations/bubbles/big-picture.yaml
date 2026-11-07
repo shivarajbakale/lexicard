@@ -1,0 +1,22 @@
+image: outputs/big-picture/seed_1.png
+out: outputs/lexicard/big-picture.png
+bubbles:
+- text: Step back and look at all of it
+  at:
+  - 851
+  - 75
+  to:
+  - 756
+  - 124
+  width: 245
+  size: 36
+  kind: speech
+- text: 'The big picture: the whole situation, not one part'
+  at:
+  - 465
+  - 122
+  to:
+  - 260
+  - 172
+  width: 259
+  size: 38

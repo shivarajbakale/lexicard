@@ -1,0 +1,21 @@
+image: outputs/resentful/seed_1.png
+out: outputs/lexicard/resentful.png
+bubbles:
+- text: She got more! That's not fair!
+  at:
+  - 125
+  - 550
+  to:
+  - 286
+  - 416
+  width: 163
+  size: 36
+  kind: speech
+- text: 'Resentful: bitter about unfair treatment'
+  at:
+  - 309
+  - 146
+  to:
+  - 286
+  - 416
+  width: 300

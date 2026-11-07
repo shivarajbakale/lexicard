@@ -1,0 +1,20 @@
+image: outputs/take-someones-breath-away/seed_1.png
+out: outputs/lexicard/take-someones-breath-away.png
+bubbles:
+- text: What a view
+  at:
+  - 222
+  - 140
+  to:
+  - 388
+  - 156
+  width: 150
+- text: It takes my breath away!
+  at:
+  - 545
+  - 83
+  to:
+  - 388
+  - 156
+  width: 200
+  kind: speech

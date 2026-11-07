@@ -1,0 +1,28 @@
+image: outputs/worst-of-both-worlds/panels_seed_2.png
+out: outputs/lexicard/worst-of-both-worlds.png
+bubbles:
+- text: Too slow as a car
+  at:
+  - 177
+  - 128
+  to:
+  - 258
+  - 300
+  width: 200
+- text: Sinks as a boat
+  at:
+  - 602
+  - 128
+  to:
+  - 766
+  - 300
+  width: 200
+- text: 'Worst of both worlds: the bad parts of each'
+  at:
+  - 329
+  - 362
+  to:
+  - 484
+  - 240
+  width: 259
+  size: 38

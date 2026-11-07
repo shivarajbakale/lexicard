@@ -1,0 +1,19 @@
+image: outputs/dig-deep/seed_1.png
+out: outputs/lexicard/dig-deep.png
+bubbles:
+- text: I'm exhausted but not stopping
+  at:
+  - 759
+  - 162
+  to:
+  - 204
+  - 344
+  width: 200
+- text: 'Dig deep: find more strength and effort'
+  at:
+  - 238
+  - 176
+  to:
+  - 204
+  - 344
+  width: 300

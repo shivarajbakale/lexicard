@@ -1,0 +1,28 @@
+image: outputs/go-bananas/seed_1.png
+out: outputs/lexicard/go-bananas.png
+bubbles:
+- text: The band is on stage
+  at:
+  - 372
+  - 104
+  to:
+  - 556
+  - 60
+  width: 200
+- text: Even the banana flies
+  at:
+  - 760
+  - 200
+  to:
+  - 568
+  - 140
+  width: 200
+- text: I'm going bananas!
+  at:
+  - 201
+  - 263
+  to:
+  - 556
+  - 60
+  width: 200
+  kind: speech
