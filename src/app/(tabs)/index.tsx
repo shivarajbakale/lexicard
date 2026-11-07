@@ -3,14 +3,13 @@ import { playClip, stopAudio } from '../../lib/audio';
 import { useRouter } from 'expo-router';
 import { useCallback, useEffect, useMemo, useRef, useState, type ComponentRef } from 'react';
 import { Platform, StyleSheet, useWindowDimensions, View } from 'react-native';
-import Animated, { FadeIn, useAnimatedReaction, useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated';
-import { scheduleOnRN } from 'react-native-worklets';
+import Animated, { FadeIn, useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { DeckCard, type DeckCardHandle, type StoryFrame } from '../../components/DeckCard';
 import { LevelPill } from '../../components/LevelChip';
 import { Icon, PressScale, Txt } from '../../components/ui';
-import { cardsById, cardsForScope, openDeckIds, scopeLabel } from '../../data';
+import { cardsById, cardsForScope, openDeckIds } from '../../data';
 import { levelState } from '../../lib/levels';
 import { buildQueue, practiceQueue } from '../../lib/srs';
 import { levelInput, liveStreak, useLevel, useStore } from '../../lib/store';
@@ -52,7 +51,6 @@ export default function Learn() {
 
   const win = useWindowDimensions();
   const short = win.height < 700;
-  const narrow = win.width < 360;
   const [session, setSession] = useState<Session | null>(null);
   const [builtFor, setBuiltFor] = useState<string | null>(null);
   const [area, setArea] = useState({ width: 0, height: 0 });
@@ -165,26 +163,10 @@ export default function Learn() {
     if (done && swiped > 0 && level.n > levelSeen) router.push('/level-up');
   }, [done, swiped, level.n, levelSeen, router]);
 
-  const progress = useSharedValue(0);
-  useEffect(() => {
-    progress.set(withTiming(total ? pos / total : 0, { duration: 320 }));
-  }, [pos, total, progress]);
-  const barStyle = useAnimatedStyle(() => ({ width: `${progress.value * 100}%` }));
   const chromeStyle = useAnimatedStyle(() => ({ opacity: Math.max(0, 1 - story.value * 2.2), transform: [{ translateY: -24 * story.value }] }));
-  // The sort buttons step out of the way in story mode; the story gets the whole screen.
-  const actionsStyle = useAnimatedStyle(() => ({
-    opacity: Math.max(0, 1 - story.value * 2.5),
-    transform: [{ translateY: 48 * Math.min(1, story.value * 2) }],
-  }));
-  const [storyOpen, setStoryOpen] = useState(false);
-  useAnimatedReaction(
-    () => story.value > 0.3,
-    (open, was) => {
-      if (open !== was) scheduleOnRN(setStoryOpen, open);
-    },
-  );
 
-  // The card fills the space between the progress bar and the buttons. The cap only matters on
+
+  // The card fills the space between the header and the tab bar; swiping is how cards are sorted. The cap only matters on
   // unusually tall/narrow windows; short phones get a compact card (see DeckCard).
   const PEEK = 18; // room under the top card for the two behind it
   const cardHeight = Math.max(0, Math.min(area.height - PEEK, Math.round(width * 1.9)));
@@ -223,20 +205,6 @@ export default function Learn() {
       </View>
 
 
-      <View style={styles.progressWrap}>
-        <View style={styles.progressRow}>
-          <Txt size={13} color={colors.textMuted} numberOfLines={1} style={{ flex: 1 }}>
-            {session?.mode === 'practice' ? 'Practice · ' : 'Today · '}
-            {scopeLabel(scope)}
-          </Txt>
-          <Txt weight="mono" size={13} color={colors.textMuted}>
-            {Math.min(pos + 1, total)} / {total}
-          </Txt>
-        </View>
-        <View style={styles.track}>
-          <Animated.View style={[styles.bar, barStyle]} />
-        </View>
-      </View>
       </Animated.View>
 
       <View
@@ -304,47 +272,7 @@ export default function Learn() {
         )}
       </View>
 
-      {/* Same height whether or not the sort buttons show, so the deck doesn't jump when it's cleared. */}
-      <Animated.View style={[styles.actions, narrow && styles.actionsNarrow, { minHeight: 40 + 14 }, actionsStyle]} pointerEvents={storyOpen ? 'none' : 'auto'}>
-        {(!done || (session?.log.length ?? 0) > 0) ? (
-          <PressScale style={[styles.roundBtn, narrow && styles.roundNarrow]} scaleTo={0.92} onPress={undo} accessibilityRole="button" accessibilityLabel="Undo last swipe">
-            <Icon name="corner-up-left" size={16} color={colors.textMuted} />
-          </PressScale>
-        ) : (
-          <View style={[styles.roundSlot, narrow && styles.roundNarrow]} />
-        )}
-        {!done && (
-          <>
-            <PressScale
-              style={[styles.sortBtn, styles.sortLearn, short && styles.sortShort, narrow && styles.sortNarrow]}
-              scaleTo={0.96}
-              onPress={() => topRef.current?.swipe(false)}
-              accessibilityRole="button"
-              accessibilityLabel="Still learning"
-            >
-              <Icon name="x" size={15} color={colors.orange} />
-              <Txt weight="semibold" size={14} numberOfLines={1}>
-                Not yet
-              </Txt>
-            </PressScale>
-            <PressScale
-              style={[styles.sortBtn, styles.sortKnow, short && styles.sortShort, narrow && styles.sortNarrow]}
-              scaleTo={0.96}
-              onPress={() => topRef.current?.swipe(true)}
-              accessibilityRole="button"
-              accessibilityLabel="I know it"
-            >
-              <Icon name="check" size={15} color={colors.ink} />
-              <Txt weight="semibold" size={14} color={colors.ink} numberOfLines={1}>
-                Know it
-              </Txt>
-            </PressScale>
-            {/* Keeps the sort buttons centred under the card */}
-            <View style={[styles.roundSlot, narrow && styles.roundNarrow]} />
-          </>
-        )}
-        {done && <View style={[styles.roundSlot, narrow && styles.roundNarrow]} />}
-      </Animated.View>
+      <View style={{ height: 12 }} />
     </View>
   );
 }
@@ -367,10 +295,6 @@ const styles = StyleSheet.create({
   },
   freeze: { flexDirection: 'row', alignItems: 'center', gap: 3, marginLeft: 4, paddingLeft: 8, borderLeftWidth: 1, borderLeftColor: colors.borderStrong },
   gained: { paddingHorizontal: 12, paddingVertical: 5, borderRadius: radius.pill, backgroundColor: colors.limeDeep },
-  progressWrap: { paddingHorizontal: 20, paddingTop: 10, gap: 8 },
-  progressRow: { flexDirection: 'row', justifyContent: 'space-between', gap: 12 },
-  track: { height: 6, borderRadius: radius.pill, backgroundColor: colors.chip, overflow: 'hidden' },
-  bar: { height: 6, borderRadius: radius.pill, backgroundColor: colors.lime },
   deckArea: { flex: 1, zIndex: 2, marginTop: 14, marginHorizontal: 20, marginBottom: 0, justifyContent: 'center' },
   deck: { width: '100%', marginBottom: 18 },
   doneCard: {
@@ -396,14 +320,4 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
-  actions: { zIndex: 3, flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: 8, paddingHorizontal: 20, paddingTop: 8, paddingBottom: 10 },
-  roundBtn: { width: 38, height: 38, borderRadius: 19, alignItems: 'center', justifyContent: 'center', backgroundColor: colors.surface, borderWidth: 1, borderColor: colors.border },
-  roundSlot: { width: 38, height: 38 },
-  roundNarrow: { width: 36, height: 36, borderRadius: 18 },
-  actionsNarrow: { gap: 6, paddingHorizontal: 16 },
-  sortNarrow: { gap: 6 },
-  sortBtn: { flex: 1, maxWidth: 128, height: 40, borderRadius: radius.pill, flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: 6 },
-  sortShort: { height: 38 },
-  sortLearn: { backgroundColor: colors.surface2, borderWidth: 1, borderColor: '#3A3E35' },
-  sortKnow: { backgroundColor: colors.lime },
 });
