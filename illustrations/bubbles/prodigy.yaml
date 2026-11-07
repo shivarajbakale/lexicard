@@ -1,0 +1,20 @@
+image: outputs/prodigy/seed_1.png
+out: outputs/lexicard/prodigy.png
+bubbles:
+- text: That small child plays like a master!
+  at:
+  - 340
+  - 83
+  to:
+  - 220
+  - 180
+  width: 300
+  kind: speech
+- text: 'Prodigy: a very young person with amazing talent'
+  at:
+  - 801
+  - 134
+  to:
+  - 716
+  - 244
+  width: 300

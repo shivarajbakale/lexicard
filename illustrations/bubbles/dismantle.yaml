@@ -1,0 +1,21 @@
+image: outputs/dismantle/seed_1.png
+out: outputs/lexicard/dismantle.png
+bubbles:
+- text: Where did the bike go?
+  at:
+  - 594
+  - 143
+  to:
+  - 724
+  - 240
+  width: 200
+  kind: speech
+- text: 'Dismantle: take apart into pieces'
+  at:
+  - 174
+  - 96
+  to:
+  - 320
+  - 116
+  width: 259
+  size: 38

@@ -1,0 +1,20 @@
+image: outputs/sit-on-the-fence/seed_1.png
+out: outputs/lexicard/sit-on-the-fence.png
+bubbles:
+- text: Honestly, I can see both sides
+  at:
+  - 325
+  - 154
+  to:
+  - 492
+  - 172
+  width: 200
+  kind: speech
+- text: 'Sit on the fence: refuse to pick a side'
+  at:
+  - 696
+  - 104
+  to:
+  - 492
+  - 172
+  width: 300

@@ -1,0 +1,20 @@
+image: outputs/on-your-mark-get-set-go/seed_1.png
+out: outputs/lexicard/on-your-mark-get-set-go.png
+bubbles:
+- text: On your mark, get set, go!
+  at:
+  - 490
+  - 106
+  to:
+  - 144
+  - 52
+  width: 200
+  kind: speech
+- text: 'On your mark, get set, go: the start command'
+  at:
+  - 787
+  - 230
+  to:
+  - 264
+  - 132
+  width: 300

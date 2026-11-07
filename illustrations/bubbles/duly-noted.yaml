@@ -1,0 +1,21 @@
+image: outputs/duly-noted/seed_1.png
+out: outputs/lexicard/duly-noted.png
+bubbles:
+- text: This schedule is too tough.
+  at:
+  - 665
+  - 83
+  to:
+  - 804
+  - 164
+  width: 200
+  kind: speech
+- text: Duly noted.
+  at:
+  - 463
+  - 215
+  to:
+  - 292
+  - 136
+  width: 150
+  kind: speech

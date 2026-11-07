@@ -1,0 +1,20 @@
+image: outputs/bang-for-the-buck/seed_1.png
+out: outputs/lexicard/bang-for-the-buck.png
+bubbles:
+- text: I paid one coin only
+  at:
+  - 168
+  - 104
+  to:
+  - 512
+  - 292
+  width: 200
+- text: 'Bang for the buck: great value for money'
+  at:
+  - 819
+  - 122
+  to:
+  - 512
+  - 292
+  width: 259
+  size: 38

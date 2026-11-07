@@ -1,0 +1,19 @@
+image: outputs/the-feathers-fly/seed_1.png
+out: outputs/lexicard/the-feathers-fly.png
+bubbles:
+- text: Total chaos
+  at:
+  - 363
+  - 104
+  to:
+  - 232
+  - 196
+  width: 150
+- text: 'The feathers fly: an argument turns heated'
+  at:
+  - 719
+  - 134
+  to:
+  - 520
+  - 348
+  width: 300

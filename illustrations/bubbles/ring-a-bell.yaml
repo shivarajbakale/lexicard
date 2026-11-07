@@ -1,0 +1,29 @@
+image: outputs/ring-a-bell/seed_1.png
+out: outputs/lexicard/ring-a-bell.png
+bubbles:
+- text: Do you remember Mr. Brown?
+  at:
+  - 188
+  - 166
+  to:
+  - 336
+  - 236
+  width: 200
+  kind: speech
+- text: Hmm, that rings a bell.
+  at:
+  - 556
+  - 203
+  to:
+  - 696
+  - 280
+  width: 200
+  kind: speech
+- text: 'Ring a bell: sounds familiar'
+  at:
+  - 857
+  - 158
+  to:
+  - 696
+  - 280
+  width: 200

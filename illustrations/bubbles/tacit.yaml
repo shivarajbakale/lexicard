@@ -1,0 +1,21 @@
+image: outputs/tacit/seed_1.png
+out: outputs/lexicard/tacit.png
+bubbles:
+- text: You poured before I even asked!
+  at:
+  - 452
+  - 83
+  to:
+  - 296
+  - 136
+  width: 300
+  kind: speech
+- text: 'Tacit: understood without being said'
+  at:
+  - 519
+  - 276
+  to:
+  - 856
+  - 196
+  width: 259
+  size: 38

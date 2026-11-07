@@ -1,0 +1,20 @@
+image: outputs/inanimate/seed_1.png
+out: outputs/lexicard/inanimate.png
+bubbles:
+- text: The puppy moves, the gnome never does.
+  at:
+  - 694
+  - 154
+  to:
+  - 792
+  - 280
+  width: 300
+  kind: speech
+- text: 'Inanimate: not alive, so it can''t move'
+  at:
+  - 315
+  - 134
+  to:
+  - 260
+  - 320
+  width: 300

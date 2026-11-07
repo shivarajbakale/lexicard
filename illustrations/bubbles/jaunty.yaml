@@ -1,0 +1,20 @@
+image: outputs/jaunty/seed_1.png
+out: outputs/lexicard/jaunty.png
+bubbles:
+- text: What a fine day for a stroll!
+  at:
+  - 344
+  - 106
+  to:
+  - 200
+  - 184
+  width: 200
+  kind: speech
+- text: 'Jaunty: cheerful, lively, a bit swaggering'
+  at:
+  - 681
+  - 182
+  to:
+  - 200
+  - 184
+  width: 300

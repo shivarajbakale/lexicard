@@ -1,0 +1,28 @@
+image: outputs/piece-of-cake/seed_1.png
+out: outputs/lexicard/piece-of-cake.png
+bubbles:
+- text: That was a piece of cake!
+  at:
+  - 171
+  - 143
+  to:
+  - 272
+  - 276
+  width: 200
+  kind: speech
+- text: Eating cake takes no effort
+  at:
+  - 527
+  - 230
+  to:
+  - 568
+  - 500
+  width: 200
+- text: 'Piece of cake: very easy'
+  at:
+  - 859
+  - 242
+  to:
+  - 788
+  - 396
+  width: 200

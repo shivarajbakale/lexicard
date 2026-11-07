@@ -1,0 +1,20 @@
+image: outputs/under-the-weather/seed_1.png
+out: outputs/lexicard/under-the-weather.png
+bubbles:
+- text: I'm a bit under the weather.
+  at:
+  - 120
+  - 106
+  to:
+  - 300
+  - 112
+  width: 200
+  kind: speech
+- text: 'Under the weather: slightly ill'
+  at:
+  - 646
+  - 104
+  to:
+  - 300
+  - 112
+  width: 300

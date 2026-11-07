@@ -1,0 +1,27 @@
+image: outputs/in-a-rut/seed_1.png
+out: outputs/lexicard/in-a-rut.png
+bubbles:
+- text: Same road every single time
+  at:
+  - 162
+  - 134
+  to:
+  - 220
+  - 272
+  width: 200
+- text: The deep track traps the wheel
+  at:
+  - 489
+  - 242
+  to:
+  - 248
+  - 312
+  width: 200
+- text: 'In a rut: stuck in routine'
+  at:
+  - 876
+  - 134
+  to:
+  - 800
+  - 264
+  width: 200

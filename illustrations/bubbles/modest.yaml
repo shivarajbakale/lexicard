@@ -1,0 +1,20 @@
+image: outputs/modest/seed_1.png
+out: outputs/lexicard/modest.png
+bubbles:
+- text: I couldn't have done it without you.
+  at:
+  - 260
+  - 95
+  to:
+  - 176
+  - 232
+  width: 300
+  kind: speech
+- text: 'Modest: doesn''t boast about success'
+  at:
+  - 709
+  - 140
+  to:
+  - 408
+  - 444
+  width: 300

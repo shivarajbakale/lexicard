@@ -1,0 +1,21 @@
+image: outputs/capricious/panels_seed_1.png
+out: outputs/lexicard/capricious.png
+bubbles:
+- text: We go left!
+  at:
+  - 258
+  - 143
+  to:
+  - 258
+  - 300
+  width: 150
+  kind: speech
+- text: 'Capricious: changing her mind for no reason'
+  at:
+  - 771
+  - 122
+  to:
+  - 766
+  - 300
+  width: 259
+  size: 38

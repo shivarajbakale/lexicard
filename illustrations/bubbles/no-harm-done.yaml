@@ -1,0 +1,30 @@
+image: outputs/no-harm-done/seed_1.png
+out: outputs/lexicard/no-harm-done.png
+bubbles:
+- text: Oh no, sorry!
+  at:
+  - 155
+  - 203
+  to:
+  - 304
+  - 144
+  width: 150
+  kind: speech
+- text: No harm done.
+  at:
+  - 762
+  - 119
+  to:
+  - 828
+  - 264
+  width: 150
+  kind: speech
+- text: Nothing was damaged.
+  at:
+  - 502
+  - 93
+  to:
+  - 828
+  - 264
+  width: 163
+  size: 36

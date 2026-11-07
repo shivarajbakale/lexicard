@@ -1,0 +1,20 @@
+image: outputs/tantalize/seed_1.png
+out: outputs/lexicard/tantalize.png
+bubbles:
+- text: You can almost have it!
+  at:
+  - 366
+  - 106
+  to:
+  - 524
+  - 80
+  width: 200
+  kind: speech
+- text: 'Tantalize: tease with something just out of reach'
+  at:
+  - 790
+  - 206
+  to:
+  - 548
+  - 132
+  width: 300

@@ -1,0 +1,12 @@
+image: outputs/when-life-gives-you-lemons/seed_1.png
+out: outputs/lexicard/when-life-gives-you-lemons.png
+bubbles:
+- text: 'When life gives you lemons: make the best of a bad situation'
+  at:
+  - 815
+  - 148
+  to:
+  - 460
+  - 460
+  width: 259
+  size: 38

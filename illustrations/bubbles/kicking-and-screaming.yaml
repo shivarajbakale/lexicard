@@ -1,0 +1,20 @@
+image: outputs/kicking-and-screaming/seed_2.png
+out: outputs/lexicard/kicking-and-screaming.png
+bubbles:
+- text: Time to go home!
+  at:
+  - 484
+  - 155
+  to:
+  - 644
+  - 168
+  width: 200
+  kind: speech
+- text: 'Kicking and screaming: very unwillingly'
+  at:
+  - 192
+  - 254
+  to:
+  - 336
+  - 572
+  width: 300

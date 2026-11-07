@@ -1,0 +1,21 @@
+image: outputs/interject/seed_1.png
+out: outputs/lexicard/interject.png
+bubbles:
+- text: Sorry, one quick thing!
+  at:
+  - 651
+  - 155
+  to:
+  - 776
+  - 260
+  width: 200
+  kind: speech
+- text: 'Interject: suddenly cut in with a remark'
+  at:
+  - 195
+  - 122
+  to:
+  - 776
+  - 260
+  width: 259
+  size: 38

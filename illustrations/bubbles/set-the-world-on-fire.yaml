@@ -1,0 +1,29 @@
+image: outputs/set-the-world-on-fire/seed_1.png
+out: outputs/lexicard/set-the-world-on-fire.png
+bubbles:
+- text: Wow, what a performance!
+  at:
+  - 352
+  - 191
+  to:
+  - 520
+  - 212
+  width: 200
+  kind: speech
+- text: Her playing is on fire
+  at:
+  - 656
+  - 140
+  to:
+  - 568
+  - 412
+  width: 200
+- text: 'Set the world on fire: wow everyone'
+  at:
+  - 841
+  - 324
+  to:
+  - 232
+  - 272
+  width: 259
+  size: 38

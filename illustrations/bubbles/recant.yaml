@@ -1,0 +1,31 @@
+image: outputs/recant/panels_seed_1.png
+out: outputs/lexicard/recant.png
+bubbles:
+- text: The moon is made of cheese!
+  at:
+  - 223
+  - 130
+  to:
+  - 258
+  - 300
+  width: 200
+  kind: speech
+- text: I take that back. I was wrong.
+  at:
+  - 504
+  - 142
+  to:
+  - 766
+  - 300
+  width: 163
+  size: 36
+  kind: speech
+- text: 'Recant: withdraw what you said earlier'
+  at:
+  - 825
+  - 122
+  to:
+  - 766
+  - 300
+  width: 259
+  size: 38

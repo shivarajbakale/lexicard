@@ -1,0 +1,20 @@
+image: outputs/circuitous/seed_1.png
+out: outputs/lexicard/circuitous.png
+bubbles:
+- text: Why not just go straight across?
+  at:
+  - 704
+  - 155
+  to:
+  - 750
+  - 362
+  width: 300
+  kind: speech
+- text: 'Circuitous: a long, roundabout way'
+  at:
+  - 321
+  - 116
+  to:
+  - 276
+  - 272
+  width: 300

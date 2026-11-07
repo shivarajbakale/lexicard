@@ -1,0 +1,20 @@
+image: outputs/go-to-bat/seed_1.png
+out: outputs/lexicard/go-to-bat.png
+bubbles:
+- text: I'll go to bat for him!
+  at:
+  - 154
+  - 95
+  to:
+  - 312
+  - 128
+  width: 200
+  kind: speech
+- text: 'Go to bat: defend someone'
+  at:
+  - 537
+  - 134
+  to:
+  - 700
+  - 152
+  width: 200

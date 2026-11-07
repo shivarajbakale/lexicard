@@ -1,0 +1,21 @@
+image: outputs/artifact/seed_1.png
+out: outputs/lexicard/artifact.png
+bubbles:
+- text: Who made that pot long ago?
+  at:
+  - 616
+  - 106
+  to:
+  - 456
+  - 116
+  width: 200
+  kind: speech
+- text: 'Artifact: an old object made by people'
+  at:
+  - 175
+  - 122
+  to:
+  - 188
+  - 200
+  width: 259
+  size: 38

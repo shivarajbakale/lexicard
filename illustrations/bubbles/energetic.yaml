@@ -1,0 +1,20 @@
+image: outputs/energetic/seed_1.png
+out: outputs/lexicard/energetic.png
+bubbles:
+- text: How are you still bouncing?
+  at:
+  - 343
+  - 106
+  to:
+  - 244
+  - 228
+  width: 200
+  kind: speech
+- text: 'Energetic: full of lively energy'
+  at:
+  - 780
+  - 248
+  to:
+  - 904
+  - 356
+  width: 300

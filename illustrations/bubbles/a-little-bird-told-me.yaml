@@ -1,0 +1,29 @@
+image: outputs/a-little-bird-told-me/seed_1.png
+out: outputs/lexicard/a-little-bird-told-me.png
+bubbles:
+- text: Who told you about my party?
+  at:
+  - 170
+  - 178
+  to:
+  - 324
+  - 240
+  width: 200
+  kind: speech
+- text: A little bird told me!
+  at:
+  - 820
+  - 260
+  to:
+  - 626
+  - 340
+  width: 200
+  kind: speech
+- text: 'A little bird told me: I won''t say who told me'
+  at:
+  - 560
+  - 90
+  to:
+  - 626
+  - 340
+  width: 300

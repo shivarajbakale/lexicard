@@ -1,0 +1,28 @@
+image: outputs/fall-behind/seed_1.png
+out: outputs/lexicard/fall-behind.png
+bubbles:
+- text: Wait for me!
+  at:
+  - 553
+  - 104
+  to:
+  - 796
+  - 160
+  width: 150
+- text: Keep up!
+  at:
+  - 910
+  - 61
+  to:
+  - 796
+  - 160
+  width: 150
+  kind: speech
+- text: 'Fall behind: be slower than others'
+  at:
+  - 798
+  - 620
+  to:
+  - 388
+  - 404
+  width: 300

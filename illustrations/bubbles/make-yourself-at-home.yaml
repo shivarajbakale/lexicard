@@ -1,0 +1,20 @@
+image: outputs/make-yourself-at-home/seed_1.png
+out: outputs/lexicard/make-yourself-at-home.png
+bubbles:
+- text: Come in, make yourself at home.
+  at:
+  - 552
+  - 83
+  to:
+  - 152
+  - 132
+  width: 300
+  kind: speech
+- text: Thank you!
+  at:
+  - 537
+  - 284
+  to:
+  - 344
+  - 104
+  width: 150

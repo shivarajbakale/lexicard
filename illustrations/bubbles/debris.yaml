@@ -1,0 +1,20 @@
+image: outputs/debris/seed_1.png
+out: outputs/lexicard/debris.png
+bubbles:
+- text: What a mess after the crash!
+  at:
+  - 148
+  - 106
+  to:
+  - 308
+  - 116
+  width: 200
+  kind: speech
+- text: 'Debris: scattered broken pieces left behind'
+  at:
+  - 749
+  - 338
+  to:
+  - 440
+  - 552
+  width: 300

@@ -1,0 +1,20 @@
+image: outputs/commodious/seed_1.png
+out: outputs/lexicard/commodious.png
+bubbles:
+- text: There's plenty of room in here!
+  at:
+  - 787
+  - 155
+  to:
+  - 908
+  - 268
+  width: 300
+  kind: speech
+- text: 'Commodious: roomy and comfortable inside'
+  at:
+  - 269
+  - 134
+  to:
+  - 180
+  - 268
+  width: 300

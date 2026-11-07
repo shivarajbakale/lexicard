@@ -1,0 +1,21 @@
+image: outputs/dont-throw-the-baby-out-with-the-bathwater/seed_1.png
+out: outputs/lexicard/dont-throw-the-baby-out-with-the-bathwater.png
+bubbles:
+- text: Wait, keep the baby!
+  at:
+  - 210
+  - 83
+  to:
+  - 740
+  - 220
+  width: 200
+  kind: speech
+- text: 'Don''t throw the baby out with the bathwater: keep what works'
+  at:
+  - 534
+  - 148
+  to:
+  - 564
+  - 484
+  width: 259
+  size: 38

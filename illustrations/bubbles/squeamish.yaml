@@ -1,0 +1,21 @@
+image: outputs/squeamish/seed_1.png
+out: outputs/lexicard/squeamish.png
+bubbles:
+- text: Ew, I cannot look!
+  at:
+  - 542
+  - 687
+  to:
+  - 740
+  - 536
+  width: 163
+  size: 36
+  kind: speech
+- text: 'Squeamish: easily upset by yucky things'
+  at:
+  - 770
+  - 134
+  to:
+  - 740
+  - 536
+  width: 300

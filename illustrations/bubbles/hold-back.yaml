@@ -1,0 +1,27 @@
+image: outputs/hold-back/seed_1.png
+out: outputs/lexicard/hold-back.png
+bubbles:
+- text: Whoa, stay!
+  at:
+  - 296
+  - 104
+  to:
+  - 168
+  - 200
+  width: 150
+- text: I want to chase it
+  at:
+  - 489
+  - 260
+  to:
+  - 288
+  - 308
+  width: 200
+- text: 'Hold back: stop yourself from acting'
+  at:
+  - 828
+  - 218
+  to:
+  - 516
+  - 456
+  width: 300

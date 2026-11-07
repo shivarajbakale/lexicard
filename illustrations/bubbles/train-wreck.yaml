@@ -1,0 +1,19 @@
+image: outputs/train-wreck/seed_1.png
+out: outputs/lexicard/train-wreck.png
+bubbles:
+- text: How did that happen?!
+  at:
+  - 166
+  - 104
+  to:
+  - 276
+  - 204
+  width: 200
+- text: 'Train wreck: a chaotic disastrous failure'
+  at:
+  - 791
+  - 230
+  to:
+  - 612
+  - 328
+  width: 300

@@ -1,0 +1,28 @@
+image: outputs/middle-of-nowhere/seed_1.png
+out: outputs/lexicard/middle-of-nowhere.png
+bubbles:
+- text: I see nothing in any direction
+  at:
+  - 512
+  - 230
+  to:
+  - 676
+  - 288
+  width: 200
+- text: Only one lonely cactus around
+  at:
+  - 172
+  - 314
+  to:
+  - 200
+  - 508
+  width: 200
+- text: 'Middle of nowhere: very remote place'
+  at:
+  - 835
+  - 108
+  to:
+  - 676
+  - 288
+  width: 259
+  size: 38

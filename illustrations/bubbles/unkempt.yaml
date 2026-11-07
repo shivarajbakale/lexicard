@@ -1,0 +1,21 @@
+image: outputs/unkempt/seed_1.png
+out: outputs/lexicard/unkempt.png
+bubbles:
+- text: Did you get dressed in a hurry?
+  at:
+  - 605
+  - 83
+  to:
+  - 756
+  - 148
+  width: 300
+  kind: speech
+- text: 'Unkempt: not neat or tidy'
+  at:
+  - 151
+  - 96
+  to:
+  - 188
+  - 204
+  width: 172
+  size: 38

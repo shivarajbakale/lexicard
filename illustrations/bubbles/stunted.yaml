@@ -1,0 +1,20 @@
+image: outputs/stunted/seed_1.png
+out: outputs/lexicard/stunted.png
+bubbles:
+- text: Mine grew big and strong!
+  at:
+  - 138
+  - 106
+  to:
+  - 296
+  - 116
+  width: 200
+  kind: speech
+- text: 'Stunted: kept from growing fully'
+  at:
+  - 725
+  - 176
+  to:
+  - 536
+  - 224
+  width: 300

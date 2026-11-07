@@ -1,0 +1,20 @@
+image: outputs/down-on-ones-knees/seed_1.png
+out: outputs/lexicard/down-on-ones-knees.png
+bubbles:
+- text: Please, I'm begging you!
+  at:
+  - 138
+  - 347
+  to:
+  - 410
+  - 302
+  width: 200
+  kind: speech
+- text: 'Down on one''s knees: begging very earnestly'
+  at:
+  - 303
+  - 134
+  to:
+  - 410
+  - 302
+  width: 300

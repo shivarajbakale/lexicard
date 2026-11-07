@@ -1,0 +1,12 @@
+image: outputs/the-dog-ate-my-homework/seed_1.png
+out: outputs/lexicard/the-dog-ate-my-homework.png
+bubbles:
+- text: The dog ate my homework!
+  at:
+  - 256
+  - 142
+  to:
+  - 346
+  - 300
+  width: 200
+  kind: speech

@@ -1,0 +1,28 @@
+image: outputs/around-the-clock/panels_seed_1.png
+out: outputs/lexicard/around-the-clock.png
+bubbles:
+- text: Baking all morning
+  at:
+  - 178
+  - 128
+  to:
+  - 258
+  - 300
+  width: 200
+- text: Still baking at midnight
+  at:
+  - 601
+  - 128
+  to:
+  - 766
+  - 300
+  width: 200
+- text: 'Around the clock: all day and night'
+  at:
+  - 490
+  - 360
+  to:
+  - 766
+  - 300
+  width: 259
+  size: 38

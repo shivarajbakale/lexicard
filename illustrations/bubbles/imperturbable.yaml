@@ -1,0 +1,11 @@
+image: outputs/imperturbable/seed_1.png
+out: outputs/lexicard/imperturbable.png
+bubbles:
+- text: 'Imperturbable: stays calm whatever happens'
+  at:
+  - 225
+  - 134
+  to:
+  - 300
+  - 272
+  width: 300

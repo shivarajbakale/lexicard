@@ -1,0 +1,28 @@
+image: outputs/no-pun-intended/seed_1.png
+out: outputs/lexicard/no-pun-intended.png
+bubbles:
+- text: I'm hooked on fishing! No pun intended.
+  at:
+  - 176
+  - 106
+  to:
+  - 260
+  - 244
+  width: 300
+  kind: speech
+- text: 'No pun intended: I did not mean a joke'
+  at:
+  - 610
+  - 176
+  to:
+  - 740
+  - 280
+  width: 300
+- text: Hooked is the pun
+  at:
+  - 138
+  - 656
+  to:
+  - 260
+  - 244
+  width: 200

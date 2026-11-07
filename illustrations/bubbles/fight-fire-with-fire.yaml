@@ -1,0 +1,29 @@
+image: outputs/fight-fire-with-fire/seed_1.png
+out: outputs/lexicard/fight-fire-with-fire.png
+bubbles:
+- text: Use flame against flame?
+  at:
+  - 485
+  - 134
+  to:
+  - 824
+  - 172
+  width: 200
+- text: The lime fire = matching force with force
+  at:
+  - 166
+  - 202
+  to:
+  - 504
+  - 440
+  width: 245
+  size: 36
+- text: 'Fight fire with fire: use equally aggressive methods'
+  at:
+  - 822
+  - 638
+  to:
+  - 704
+  - 116
+  width: 259
+  size: 38

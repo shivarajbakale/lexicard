@@ -1,0 +1,20 @@
+image: outputs/condescend/seed_1.png
+out: outputs/lexicard/condescend.png
+bubbles:
+- text: Let me explain this very slowly, dear.
+  at:
+  - 303
+  - 83
+  to:
+  - 452
+  - 136
+  width: 300
+  kind: speech
+- text: 'Condescend: talk down as if you know better'
+  at:
+  - 790
+  - 134
+  to:
+  - 696
+  - 248
+  width: 300

@@ -1,0 +1,30 @@
+image: outputs/in-hindsight/seed_1.png
+out: outputs/lexicard/in-hindsight.png
+bubbles:
+- text: In hindsight, I should have checked.
+  at:
+  - 200
+  - 280
+  to:
+  - 400
+  - 300
+  width: 280
+  kind: speech
+- text: 'In hindsight: looking back, knowing what you know now'
+  at:
+  - 440
+  - 95
+  to:
+  - 426
+  - 270
+  width: 330
+  size: 34
+- text: I did warn you.
+  at:
+  - 900
+  - 330
+  to:
+  - 740
+  - 180
+  width: 200
+  kind: speech

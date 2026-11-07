@@ -1,0 +1,21 @@
+image: outputs/easy-come-easy-go/panels_seed_1.png
+out: outputs/lexicard/easy-come-easy-go.png
+bubbles:
+- text: Free money, just like that!
+  at:
+  - 257
+  - 130
+  to:
+  - 258
+  - 300
+  width: 200
+  kind: speech
+- text: 'Easy come, easy go: lost as easily as gained'
+  at:
+  - 762
+  - 130
+  to:
+  - 766
+  - 300
+  width: 300
+  kind: speech

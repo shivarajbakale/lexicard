@@ -1,0 +1,20 @@
+image: outputs/stumbling-block/seed_1.png
+out: outputs/lexicard/stumbling-block.png
+bubbles:
+- text: Whoa! What was that?!
+  at:
+  - 147
+  - 83
+  to:
+  - 212
+  - 188
+  width: 200
+  kind: speech
+- text: 'Stumbling block: an obstacle that slows progress'
+  at:
+  - 635
+  - 134
+  to:
+  - 748
+  - 252
+  width: 300

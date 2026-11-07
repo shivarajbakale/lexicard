@@ -1,0 +1,28 @@
+image: outputs/daylight-robbery/seed_1.png
+out: outputs/lexicard/daylight-robbery.png
+bubbles:
+- text: All this for one apple?
+  at:
+  - 366
+  - 104
+  to:
+  - 600
+  - 72
+  width: 200
+- text: Pay up, please!
+  at:
+  - 528
+  - 284
+  to:
+  - 840
+  - 200
+  width: 200
+- text: 'Daylight robbery: ridiculous overcharging'
+  at:
+  - 835
+  - 122
+  to:
+  - 516
+  - 440
+  width: 259
+  size: 38

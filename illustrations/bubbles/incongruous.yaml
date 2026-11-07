@@ -1,0 +1,21 @@
+image: outputs/incongruous/seed_1.png
+out: outputs/lexicard/incongruous.png
+bubbles:
+- text: Why the fancy suit at the beach?
+  at:
+  - 725
+  - 287
+  to:
+  - 796
+  - 434
+  width: 300
+  kind: speech
+- text: 'Incongruous: looks out of place'
+  at:
+  - 592
+  - 96
+  to:
+  - 324
+  - 48
+  width: 259
+  size: 38

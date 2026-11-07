@@ -1,0 +1,30 @@
+image: outputs/concur/seed_1.png
+out: outputs/lexicard/concur.png
+bubbles:
+- text: Let's climb that hill.
+  at:
+  - 162
+  - 83
+  to:
+  - 320
+  - 120
+  width: 200
+  kind: speech
+- text: I agree completely.
+  at:
+  - 547
+  - 179
+  to:
+  - 740
+  - 424
+  width: 200
+  kind: speech
+- text: 'Concur: agree with someone'
+  at:
+  - 874
+  - 122
+  to:
+  - 740
+  - 424
+  width: 172
+  size: 38

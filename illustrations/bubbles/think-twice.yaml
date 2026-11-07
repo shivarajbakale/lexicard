@@ -1,0 +1,21 @@
+image: outputs/think-twice/seed_1.png
+out: outputs/lexicard/think-twice.png
+bubbles:
+- text: Think twice before you do that!
+  at:
+  - 241
+  - 83
+  to:
+  - 324
+  - 220
+  width: 300
+  kind: speech
+- text: Maybe I should wait.
+  at:
+  - 689
+  - 95
+  to:
+  - 528
+  - 156
+  width: 200
+  kind: speech

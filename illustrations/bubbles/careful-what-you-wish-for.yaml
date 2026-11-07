@@ -1,0 +1,30 @@
+image: outputs/careful-what-you-wish-for/seed_1.png
+out: outputs/lexicard/careful-what-you-wish-for.png
+bubbles:
+- text: I wish for gold!
+  at:
+  - 124
+  - 83
+  to:
+  - 228
+  - 196
+  width: 200
+  kind: speech
+- text: Careful what you wish for.
+  at:
+  - 784
+  - 119
+  to:
+  - 904
+  - 236
+  width: 200
+  kind: speech
+- text: 'Careful what you wish for: you may regret getting it'
+  at:
+  - 438
+  - 122
+  to:
+  - 904
+  - 236
+  width: 259
+  size: 38

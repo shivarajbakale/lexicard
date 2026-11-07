@@ -1,0 +1,20 @@
+image: outputs/solace/seed_1.png
+out: outputs/lexicard/solace.png
+bubbles:
+- text: I am here with you.
+  at:
+  - 854
+  - 95
+  to:
+  - 700
+  - 144
+  width: 200
+  kind: speech
+- text: 'Solace: comfort when you feel sad'
+  at:
+  - 305
+  - 152
+  to:
+  - 428
+  - 520
+  width: 300

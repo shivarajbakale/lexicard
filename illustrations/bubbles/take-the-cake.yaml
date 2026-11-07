@@ -1,0 +1,28 @@
+image: outputs/take-the-cake/seed_1.png
+out: outputs/lexicard/take-the-cake.png
+bubbles:
+- text: That was the silliest thing ever
+  at:
+  - 387
+  - 236
+  to:
+  - 908
+  - 344
+  width: 300
+- text: You really take the cake!
+  at:
+  - 119
+  - 106
+  to:
+  - 84
+  - 348
+  width: 200
+  kind: speech
+- text: 'The cake: prize for outrageous behaviour'
+  at:
+  - 804
+  - 194
+  to:
+  - 592
+  - 420
+  width: 300

@@ -1,0 +1,21 @@
+image: outputs/discreet/seed_1.png
+out: outputs/lexicard/discreet.png
+bubbles:
+- text: Keep this between us.
+  at:
+  - 255
+  - 83
+  to:
+  - 368
+  - 192
+  width: 200
+  kind: speech
+- text: 'Discreet: careful to keep things private'
+  at:
+  - 826
+  - 96
+  to:
+  - 368
+  - 192
+  width: 259
+  size: 38

@@ -1,0 +1,20 @@
+image: outputs/vouch-for/seed_1.png
+out: outputs/lexicard/vouch-for.png
+bubbles:
+- text: Is he reliable?
+  at:
+  - 262
+  - 104
+  to:
+  - 204
+  - 252
+  width: 200
+- text: I can vouch for him!
+  at:
+  - 774
+  - 95
+  to:
+  - 900
+  - 252
+  width: 200
+  kind: speech

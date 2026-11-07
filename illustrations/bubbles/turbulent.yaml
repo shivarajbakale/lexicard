@@ -1,0 +1,21 @@
+image: outputs/turbulent/seed_1.png
+out: outputs/lexicard/turbulent.png
+bubbles:
+- text: Come back, the sea is wild!
+  at:
+  - 252
+  - 190
+  to:
+  - 266
+  - 354
+  width: 200
+  kind: speech
+- text: 'Turbulent: rough, stormy, full of sudden changes'
+  at:
+  - 831
+  - 122
+  to:
+  - 676
+  - 76
+  width: 259
+  size: 38

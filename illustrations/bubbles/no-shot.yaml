@@ -1,0 +1,29 @@
+image: outputs/no-shot/seed_1.png
+out: outputs/lexicard/no-shot.png
+bubbles:
+- text: Can I make it?
+  at:
+  - 290
+  - 95
+  to:
+  - 156
+  - 180
+  width: 150
+  kind: speech
+- text: No shot.
+  at:
+  - 783
+  - 61
+  to:
+  - 884
+  - 184
+  width: 150
+  kind: speech
+- text: Almost no chance.
+  at:
+  - 443
+  - 260
+  to:
+  - 884
+  - 184
+  width: 200

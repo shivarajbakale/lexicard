@@ -1,0 +1,20 @@
+image: outputs/strident/seed_1.png
+out: outputs/lexicard/strident.png
+bubbles:
+- text: I want it done right now!
+  at:
+  - 125
+  - 106
+  to:
+  - 280
+  - 120
+  width: 200
+  kind: speech
+- text: 'Strident: harsh, loud and demanding'
+  at:
+  - 802
+  - 104
+  to:
+  - 280
+  - 120
+  width: 300

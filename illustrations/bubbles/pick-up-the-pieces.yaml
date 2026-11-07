@@ -1,0 +1,19 @@
+image: outputs/pick-up-the-pieces/seed_1.png
+out: outputs/lexicard/pick-up-the-pieces.png
+bubbles:
+- text: Something fell and smashed
+  at:
+  - 312
+  - 146
+  to:
+  - 528
+  - 152
+  width: 200
+- text: 'Pick up the pieces: recover after a failure'
+  at:
+  - 801
+  - 134
+  to:
+  - 528
+  - 152
+  width: 300

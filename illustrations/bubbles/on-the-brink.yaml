@@ -1,0 +1,21 @@
+image: outputs/on-the-brink/seed_1.png
+out: outputs/lexicard/on-the-brink.png
+bubbles:
+- text: Careful, you're about to fall!
+  at:
+  - 606
+  - 106
+  to:
+  - 712
+  - 232
+  width: 200
+  kind: speech
+- text: 'On the brink: very close to a crisis'
+  at:
+  - 183
+  - 96
+  to:
+  - 168
+  - 148
+  width: 259
+  size: 38

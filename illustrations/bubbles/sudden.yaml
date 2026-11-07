@@ -1,0 +1,20 @@
+image: outputs/sudden/seed_1.png
+out: outputs/lexicard/sudden.png
+bubbles:
+- text: Surprise!
+  at:
+  - 162
+  - 169
+  to:
+  - 316
+  - 124
+  width: 150
+  kind: speech
+- text: 'Sudden: quick, with no warning'
+  at:
+  - 714
+  - 182
+  to:
+  - 556
+  - 228
+  width: 200

@@ -1,0 +1,21 @@
+image: outputs/alacrity/seed_1.png
+out: outputs/lexicard/alacrity.png
+bubbles:
+- text: Could someone carry this, please?
+  at:
+  - 175
+  - 75
+  to:
+  - 356
+  - 92
+  width: 245
+  size: 36
+  kind: speech
+- text: 'Alacrity: eager, quick willingness to act'
+  at:
+  - 687
+  - 134
+  to:
+  - 356
+  - 92
+  width: 300

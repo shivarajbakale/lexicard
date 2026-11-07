@@ -1,0 +1,12 @@
+image: outputs/not-the-sharpest-crayon-in-the-box/seed_1.png
+out: outputs/lexicard/not-the-sharpest-crayon-in-the-box.png
+bubbles:
+- text: 'Not the sharpest crayon: not very clever'
+  at:
+  - 474
+  - 122
+  to:
+  - 508
+  - 488
+  width: 259
+  size: 38

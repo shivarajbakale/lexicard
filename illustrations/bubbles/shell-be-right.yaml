@@ -1,0 +1,29 @@
+image: outputs/shell-be-right/seed_1.png
+out: outputs/lexicard/shell-be-right.png
+bubbles:
+- text: Is it broken for good?
+  at:
+  - 343
+  - 119
+  to:
+  - 500
+  - 156
+  width: 200
+  kind: speech
+- text: Don't worry, she'll be right!
+  at:
+  - 838
+  - 106
+  to:
+  - 712
+  - 200
+  width: 200
+  kind: speech
+- text: It will work out fine
+  at:
+  - 154
+  - 272
+  to:
+  - 712
+  - 200
+  width: 200

@@ -1,0 +1,28 @@
+image: outputs/dead-end/seed_1.png
+out: outputs/lexicard/dead-end.png
+bubbles:
+- text: There's nowhere left to go
+  at:
+  - 349
+  - 206
+  to:
+  - 536
+  - 260
+  width: 200
+- text: The cone marks where the road stops
+  at:
+  - 712
+  - 134
+  to:
+  - 240
+  - 552
+  width: 300
+- text: 'Dead end: no way forward'
+  at:
+  - 869
+  - 660
+  to:
+  - 536
+  - 260
+  width: 172
+  size: 38

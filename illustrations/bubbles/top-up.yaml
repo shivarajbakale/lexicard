@@ -1,0 +1,29 @@
+image: outputs/top-up/seed_1.png
+out: outputs/lexicard/top-up.png
+bubbles:
+- text: Can I top you up?
+  at:
+  - 169
+  - 83
+  to:
+  - 324
+  - 96
+  width: 200
+  kind: speech
+- text: Yes please, a little more.
+  at:
+  - 599
+  - 83
+  to:
+  - 444
+  - 128
+  width: 200
+  kind: speech
+- text: Adding to what is low
+  at:
+  - 860
+  - 188
+  to:
+  - 532
+  - 616
+  width: 200

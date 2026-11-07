@@ -1,0 +1,20 @@
+image: outputs/edifice/seed_1.png
+out: outputs/lexicard/edifice.png
+bubbles:
+- text: That building is enormous!
+  at:
+  - 554
+  - 106
+  to:
+  - 704
+  - 24
+  width: 200
+  kind: speech
+- text: 'Edifice: a large, impressive building'
+  at:
+  - 289
+  - 248
+  to:
+  - 704
+  - 24
+  width: 300

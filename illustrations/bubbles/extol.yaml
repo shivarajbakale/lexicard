@@ -1,0 +1,20 @@
+image: outputs/extol/seed_1.png
+out: outputs/lexicard/extol.png
+bubbles:
+- text: The greatest baker in the world!
+  at:
+  - 256
+  - 119
+  to:
+  - 272
+  - 276
+  width: 300
+  kind: speech
+- text: 'Extol: praise very highly'
+  at:
+  - 629
+  - 164
+  to:
+  - 272
+  - 276
+  width: 200

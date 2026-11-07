@@ -1,0 +1,20 @@
+image: outputs/cross-my-heart/seed_1.png
+out: outputs/lexicard/cross-my-heart.png
+bubbles:
+- text: Cross my heart, it's true!
+  at:
+  - 193
+  - 106
+  to:
+  - 300
+  - 228
+  width: 200
+  kind: speech
+- text: 'Cross my heart: I promise it''s true'
+  at:
+  - 525
+  - 104
+  to:
+  - 300
+  - 228
+  width: 300

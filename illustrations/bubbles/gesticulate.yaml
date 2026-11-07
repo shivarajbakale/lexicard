@@ -1,0 +1,20 @@
+image: outputs/gesticulate/seed_1.png
+out: outputs/lexicard/gesticulate.png
+bubbles:
+- text: And then it was this big, and this high!
+  at:
+  - 254
+  - 106
+  to:
+  - 156
+  - 236
+  width: 300
+  kind: speech
+- text: 'Gesticulate: move your hands and arms while talking'
+  at:
+  - 767
+  - 170
+  to:
+  - 712
+  - 348
+  width: 300

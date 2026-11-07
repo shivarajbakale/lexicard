@@ -1,0 +1,29 @@
+image: outputs/terse/seed_1.png
+out: outputs/lexicard/terse.png
+bubbles:
+- text: How was your long trip? Tell me everything!
+  at:
+  - 190
+  - 130
+  to:
+  - 296
+  - 248
+  width: 300
+  kind: speech
+- text: Fine.
+  at:
+  - 525
+  - 193
+  to:
+  - 684
+  - 212
+  width: 150
+  kind: speech
+- text: 'Terse: short and direct, using few words'
+  at:
+  - 812
+  - 134
+  to:
+  - 684
+  - 212
+  width: 300

@@ -1,0 +1,29 @@
+image: outputs/mums-the-word/seed_1.png
+out: outputs/lexicard/mums-the-word.png
+bubbles:
+- text: It's a secret, okay?
+  at:
+  - 147
+  - 83
+  to:
+  - 276
+  - 184
+  width: 200
+  kind: speech
+- text: Mum's the word.
+  at:
+  - 449
+  - 83
+  to:
+  - 792
+  - 232
+  width: 200
+  kind: speech
+- text: 'Mum''s the word: I''ll keep it secret'
+  at:
+  - 803
+  - 104
+  to:
+  - 512
+  - 384
+  width: 300

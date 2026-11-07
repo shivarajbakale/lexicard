@@ -1,0 +1,21 @@
+image: outputs/acknowledge/seed_1.png
+out: outputs/lexicard/acknowledge.png
+bubbles:
+- text: Got it, thank you!
+  at:
+  - 508
+  - 683
+  to:
+  - 836
+  - 188
+  width: 200
+  kind: speech
+- text: 'Acknowledge: confirm you received something'
+  at:
+  - 610
+  - 122
+  to:
+  - 836
+  - 188
+  width: 259
+  size: 38

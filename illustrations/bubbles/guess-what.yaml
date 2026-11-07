@@ -1,0 +1,30 @@
+image: outputs/guess-what/seed_1.png
+out: outputs/lexicard/guess-what.png
+bubbles:
+- text: Guess what!
+  at:
+  - 460
+  - 83
+  to:
+  - 616
+  - 92
+  width: 150
+  kind: speech
+- text: I've got big news!
+  at:
+  - 850
+  - 83
+  to:
+  - 616
+  - 92
+  width: 200
+  kind: speech
+- text: He leans in, curious
+  at:
+  - 880
+  - 273
+  to:
+  - 736
+  - 116
+  width: 163
+  size: 36

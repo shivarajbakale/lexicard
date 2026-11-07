@@ -1,0 +1,29 @@
+image: outputs/take-the-wind-out-of-someones-sails/seed_1.png
+out: outputs/lexicard/take-the-wind-out-of-someones-sails.png
+bubbles:
+- text: Sorry, the trip is cancelled
+  at:
+  - 304
+  - 226
+  to:
+  - 668
+  - 344
+  width: 200
+  kind: speech
+- text: The sail collapses, wind gone
+  at:
+  - 571
+  - 134
+  to:
+  - 496
+  - 420
+  width: 200
+- text: 'Take the wind out of his sails: kill his enthusiasm'
+  at:
+  - 829
+  - 326
+  to:
+  - 288
+  - 336
+  width: 259
+  size: 38

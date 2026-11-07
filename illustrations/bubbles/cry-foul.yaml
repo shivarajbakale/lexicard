@@ -1,0 +1,29 @@
+image: outputs/cry-foul/seed_1.png
+out: outputs/lexicard/cry-foul.png
+bubbles:
+- text: He tripped him!
+  at:
+  - 173
+  - 119
+  to:
+  - 280
+  - 244
+  width: 200
+  kind: speech
+- text: What happened?
+  at:
+  - 429
+  - 189
+  to:
+  - 820
+  - 356
+  width: 122
+  size: 36
+- text: 'Cry foul: complain it was unfair'
+  at:
+  - 769
+  - 128
+  to:
+  - 592
+  - 308
+  width: 300

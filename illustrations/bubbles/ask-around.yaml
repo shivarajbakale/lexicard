@@ -1,0 +1,21 @@
+image: outputs/ask-around/seed_1.png
+out: outputs/lexicard/ask-around.png
+bubbles:
+- text: I'll ask around.
+  at:
+  - 175
+  - 119
+  to:
+  - 208
+  - 276
+  width: 200
+  kind: speech
+- text: Looking for a lost dog
+  at:
+  - 432
+  - 93
+  to:
+  - 392
+  - 448
+  width: 163
+  size: 36

@@ -1,0 +1,20 @@
+image: outputs/accomplice/seed_1.png
+out: outputs/lexicard/accomplice.png
+bubbles:
+- text: Hurry up, nobody is coming!
+  at:
+  - 117
+  - 382
+  to:
+  - 192
+  - 168
+  width: 200
+  kind: speech
+- text: 'Accomplice: helper in doing something wrong'
+  at:
+  - 685
+  - 134
+  to:
+  - 192
+  - 168
+  width: 300

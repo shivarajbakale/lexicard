@@ -1,0 +1,29 @@
+image: outputs/go-with-the-flow/seed_1.png
+out: outputs/lexicard/go-with-the-flow.png
+bubbles:
+- text: I am not fighting the current.
+  at:
+  - 166
+  - 218
+  to:
+  - 288
+  - 320
+  width: 200
+- text: The ring carries him along
+  at:
+  - 490
+  - 190
+  to:
+  - 352
+  - 600
+  width: 163
+  size: 36
+- text: 'Go with the flow: accept events as they come'
+  at:
+  - 831
+  - 122
+  to:
+  - 824
+  - 264
+  width: 259
+  size: 38

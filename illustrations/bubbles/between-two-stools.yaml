@@ -1,0 +1,21 @@
+image: outputs/between-two-stools/seed_1.png
+out: outputs/lexicard/between-two-stools.png
+bubbles:
+- text: Pick one, you can't sit on both!
+  at:
+  - 562
+  - 83
+  to:
+  - 808
+  - 244
+  width: 300
+  kind: speech
+- text: 'Between two stools: torn between two choices'
+  at:
+  - 200
+  - 182
+  to:
+  - 412
+  - 548
+  width: 259
+  size: 38

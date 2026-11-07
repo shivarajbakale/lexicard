@@ -1,0 +1,21 @@
+image: outputs/respite/seed_1.png
+out: outputs/lexicard/respite.png
+bubbles:
+- text: Take a break now.
+  at:
+  - 426
+  - 279
+  to:
+  - 828
+  - 276
+  width: 163
+  size: 36
+  kind: speech
+- text: 'Respite: a short rest from hard work'
+  at:
+  - 677
+  - 134
+  to:
+  - 556
+  - 260
+  width: 300

@@ -1,0 +1,28 @@
+image: outputs/bite-off-more-than-one-can-chew/seed_1.png
+out: outputs/lexicard/bite-off-more-than-one-can-chew.png
+bubbles:
+- text: This is way too big
+  at:
+  - 175
+  - 176
+  to:
+  - 320
+  - 252
+  width: 200
+- text: The sandwich = a huge task
+  at:
+  - 513
+  - 134
+  to:
+  - 460
+  - 504
+  width: 200
+- text: Bite off more than you can chew
+  at:
+  - 833
+  - 252
+  to:
+  - 320
+  - 252
+  width: 259
+  size: 38

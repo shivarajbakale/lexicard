@@ -1,0 +1,20 @@
+image: outputs/step-into-someones-shoes/seed_1.png
+out: outputs/lexicard/step-into-someones-shoes.png
+bubbles:
+- text: What is it like to be Dad?
+  at:
+  - 396
+  - 134
+  to:
+  - 628
+  - 84
+  width: 200
+- text: 'Step into someone''s shoes: see their view'
+  at:
+  - 823
+  - 122
+  to:
+  - 628
+  - 84
+  width: 259
+  size: 38

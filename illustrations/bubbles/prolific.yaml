@@ -1,0 +1,21 @@
+image: outputs/prolific/seed_1.png
+out: outputs/lexicard/prolific.png
+bubbles:
+- text: Another hundred eggs this week!
+  at:
+  - 155
+  - 75
+  to:
+  - 188
+  - 204
+  width: 245
+  size: 36
+  kind: speech
+- text: 'Prolific: produces a great amount'
+  at:
+  - 654
+  - 104
+  to:
+  - 312
+  - 96
+  width: 300

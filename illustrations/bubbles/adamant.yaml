@@ -1,0 +1,20 @@
+image: outputs/adamant/seed_1.png
+out: outputs/lexicard/adamant.png
+bubbles:
+- text: Please, just come along!
+  at:
+  - 134
+  - 191
+  to:
+  - 264
+  - 32
+  width: 200
+  kind: speech
+- text: 'Adamant: will not change his mind'
+  at:
+  - 550
+  - 104
+  to:
+  - 264
+  - 32
+  width: 300

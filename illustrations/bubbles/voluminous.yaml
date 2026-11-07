@@ -1,0 +1,20 @@
+image: outputs/voluminous/seed_1.png
+out: outputs/lexicard/voluminous.png
+bubbles:
+- text: There is so much fabric in that cloak!
+  at:
+  - 647
+  - 274
+  to:
+  - 686
+  - 430
+  width: 300
+  kind: speech
+- text: 'Voluminous: very large in size or amount'
+  at:
+  - 319
+  - 134
+  to:
+  - 492
+  - 516
+  width: 300

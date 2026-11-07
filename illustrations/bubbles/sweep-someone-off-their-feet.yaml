@@ -1,0 +1,28 @@
+image: outputs/sweep-someone-off-their-feet/seed_1.png
+out: outputs/lexicard/sweep-someone-off-their-feet.png
+bubbles:
+- text: I got you these flowers!
+  at:
+  - 305
+  - 106
+  to:
+  - 500
+  - 148
+  width: 200
+  kind: speech
+- text: The flowers charm her instantly
+  at:
+  - 808
+  - 260
+  to:
+  - 696
+  - 96
+  width: 300
+- text: 'Swept off her feet: won by love'
+  at:
+  - 806
+  - 656
+  to:
+  - 784
+  - 68
+  width: 300

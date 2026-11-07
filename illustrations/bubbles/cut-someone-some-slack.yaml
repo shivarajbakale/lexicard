@@ -1,0 +1,21 @@
+image: outputs/cut-someone-some-slack/panels_seed_1.png
+out: outputs/lexicard/cut-someone-some-slack.png
+bubbles:
+- text: Cut him some slack.
+  at:
+  - 701
+  - 155
+  to:
+  - 766
+  - 300
+  width: 200
+  kind: speech
+- text: 'Cut some slack: be less strict'
+  at:
+  - 385
+  - 122
+  to:
+  - 766
+  - 300
+  width: 172
+  size: 38

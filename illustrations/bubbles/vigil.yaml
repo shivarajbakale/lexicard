@@ -1,0 +1,21 @@
+image: outputs/vigil/seed_1.png
+out: outputs/lexicard/vigil.png
+bubbles:
+- text: You have been awake all night?
+  at:
+  - 542
+  - 190
+  to:
+  - 700
+  - 216
+  width: 200
+  kind: speech
+- text: 'Vigil: staying awake to keep watch'
+  at:
+  - 240
+  - 96
+  to:
+  - 100
+  - 132
+  width: 259
+  size: 38

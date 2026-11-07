@@ -1,0 +1,28 @@
+image: outputs/break-even/seed_1.png
+out: outputs/lexicard/break-even.png
+bubbles:
+- text: Money earned
+  at:
+  - 178
+  - 188
+  to:
+  - 200
+  - 352
+  width: 150
+- text: Money spent
+  at:
+  - 717
+  - 260
+  to:
+  - 768
+  - 424
+  width: 150
+- text: We just broke even
+  at:
+  - 439
+  - 167
+  to:
+  - 200
+  - 352
+  width: 200
+  kind: speech

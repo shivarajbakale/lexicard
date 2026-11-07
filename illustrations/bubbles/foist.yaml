@@ -1,0 +1,21 @@
+image: outputs/foist/seed_1.png
+out: outputs/lexicard/foist.png
+bubbles:
+- text: Take it, you will love it!
+  at:
+  - 132
+  - 83
+  to:
+  - 188
+  - 168
+  width: 200
+  kind: speech
+- text: 'Foist: push something unwanted onto someone'
+  at:
+  - 538
+  - 148
+  to:
+  - 860
+  - 200
+  width: 259
+  size: 38

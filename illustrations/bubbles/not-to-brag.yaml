@@ -1,0 +1,12 @@
+image: outputs/not-to-brag/seed_1.png
+out: outputs/lexicard/not-to-brag.png
+bubbles:
+- text: Not to brag, but I won!
+  at:
+  - 191
+  - 83
+  to:
+  - 264
+  - 224
+  width: 200
+  kind: speech

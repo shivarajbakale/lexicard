@@ -1,0 +1,29 @@
+image: outputs/roll-out-the-red-carpet/seed_1.png
+out: outputs/lexicard/roll-out-the-red-carpet.png
+bubbles:
+- text: Welcome! This way, please
+  at:
+  - 166
+  - 118
+  to:
+  - 216
+  - 272
+  width: 200
+  kind: speech
+- text: Special carpet only for her
+  at:
+  - 509
+  - 134
+  to:
+  - 428
+  - 600
+  width: 200
+- text: 'Roll out the red carpet: welcome with honor'
+  at:
+  - 847
+  - 194
+  to:
+  - 216
+  - 272
+  width: 259
+  size: 38

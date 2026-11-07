@@ -1,0 +1,20 @@
+image: outputs/the-show-must-go-on/seed_1.png
+out: outputs/lexicard/the-show-must-go-on.png
+bubbles:
+- text: Keep going!
+  at:
+  - 556
+  - 155
+  to:
+  - 700
+  - 232
+  width: 150
+  kind: speech
+- text: 'The show must go on: continue despite problems'
+  at:
+  - 237
+  - 134
+  to:
+  - 348
+  - 448
+  width: 300

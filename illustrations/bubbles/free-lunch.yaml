@@ -1,0 +1,27 @@
+image: outputs/free-lunch/seed_1.png
+out: outputs/lexicard/free-lunch.png
+bubbles:
+- text: It looks completely free!
+  at:
+  - 177
+  - 194
+  to:
+  - 280
+  - 320
+  width: 200
+- text: The cheese hides a trap
+  at:
+  - 483
+  - 272
+  to:
+  - 444
+  - 584
+  width: 200
+- text: 'No free lunch: nothing costs nothing'
+  at:
+  - 832
+  - 218
+  to:
+  - 900
+  - 360
+  width: 300

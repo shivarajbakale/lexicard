@@ -1,0 +1,29 @@
+image: outputs/whatever-floats-your-boat/seed_1.png
+out: outputs/lexicard/whatever-floats-your-boat.png
+bubbles:
+- text: I'm going out in a duck!
+  at:
+  - 602
+  - 143
+  to:
+  - 616
+  - 372
+  width: 200
+  kind: speech
+- text: Whatever floats your boat.
+  at:
+  - 151
+  - 106
+  to:
+  - 336
+  - 192
+  width: 200
+  kind: speech
+- text: Do what makes you happy.
+  at:
+  - 860
+  - 266
+  to:
+  - 304
+  - 128
+  width: 200

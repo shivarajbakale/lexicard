@@ -1,0 +1,29 @@
+image: outputs/sweat-the-small-stuff/seed_1.png
+out: outputs/lexicard/sweat-the-small-stuff.png
+bubbles:
+- text: One tiny speck bothers him
+  at:
+  - 396
+  - 134
+  to:
+  - 204
+  - 168
+  width: 200
+- text: The kitchen is on fire!
+  at:
+  - 900
+  - 375
+  to:
+  - 568
+  - 216
+  width: 163
+  size: 36
+  kind: speech
+- text: 'Sweat the small stuff: fuss over trifles'
+  at:
+  - 820
+  - 158
+  to:
+  - 472
+  - 628
+  width: 300

@@ -1,0 +1,22 @@
+image: outputs/rustic/seed_1.png
+out: outputs/lexicard/rustic.png
+bubbles:
+- text: Simple wood, fields and fresh air.
+  at:
+  - 439
+  - 75
+  to:
+  - 512
+  - 384
+  width: 245
+  size: 36
+  kind: speech
+- text: 'Rustic: simple and natural, like the countryside'
+  at:
+  - 826
+  - 638
+  to:
+  - 700
+  - 364
+  width: 259
+  size: 38

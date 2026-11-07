@@ -1,0 +1,28 @@
+image: outputs/neck-and-neck/seed_1.png
+out: outputs/lexicard/neck-and-neck.png
+bubbles:
+- text: I'm winning!
+  at:
+  - 167
+  - 128
+  to:
+  - 216
+  - 284
+  width: 150
+- text: No, I am!
+  at:
+  - 514
+  - 146
+  to:
+  - 644
+  - 252
+  width: 150
+- text: 'Neck and neck: no one is clearly ahead'
+  at:
+  - 827
+  - 660
+  to:
+  - 528
+  - 396
+  width: 259
+  size: 38

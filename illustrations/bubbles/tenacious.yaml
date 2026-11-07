@@ -1,0 +1,20 @@
+image: outputs/tenacious/seed_1.png
+out: outputs/lexicard/tenacious.png
+bubbles:
+- text: Let go already!
+  at:
+  - 141
+  - 155
+  to:
+  - 296
+  - 116
+  width: 200
+  kind: speech
+- text: 'Tenacious: refuses to give up or let go'
+  at:
+  - 635
+  - 320
+  to:
+  - 452
+  - 452
+  width: 300

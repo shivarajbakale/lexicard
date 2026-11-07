@@ -1,0 +1,28 @@
+image: outputs/hard-to-swallow/seed_1.png
+out: outputs/lexicard/hard-to-swallow.png
+bubbles:
+- text: This pill is huge
+  at:
+  - 144
+  - 104
+  to:
+  - 248
+  - 208
+  width: 200
+- text: Here, wash it down
+  at:
+  - 524
+  - 200
+  to:
+  - 824
+  - 252
+  width: 200
+- text: 'Hard to swallow: tough to accept'
+  at:
+  - 845
+  - 132
+  to:
+  - 392
+  - 388
+  width: 259
+  size: 38

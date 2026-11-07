@@ -1,0 +1,20 @@
+image: outputs/transparent/seed_1.png
+out: outputs/lexicard/transparent.png
+bubbles:
+- text: 'Transparent: easy to see through'
+  at:
+  - 527
+  - 104
+  to:
+  - 284
+  - 160
+  width: 300
+- text: What's inside yours?
+  at:
+  - 853
+  - 191
+  to:
+  - 692
+  - 256
+  width: 200
+  kind: speech

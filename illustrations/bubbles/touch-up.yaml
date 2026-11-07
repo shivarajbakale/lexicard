@@ -1,0 +1,29 @@
+image: outputs/touch-up/seed_1.png
+out: outputs/lexicard/touch-up.png
+bubbles:
+- text: The room looks great
+  at:
+  - 629
+  - 200
+  to:
+  - 716
+  - 348
+  width: 200
+- text: Just one little spot left!
+  at:
+  - 365
+  - 95
+  to:
+  - 284
+  - 244
+  width: 200
+  kind: speech
+- text: 'Touch up: small final fixes'
+  at:
+  - 872
+  - 338
+  to:
+  - 496
+  - 284
+  width: 172
+  size: 38

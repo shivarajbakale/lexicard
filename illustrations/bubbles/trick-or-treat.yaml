@@ -1,0 +1,21 @@
+image: outputs/trick-or-treat/seed_1.png
+out: outputs/lexicard/trick-or-treat.png
+bubbles:
+- text: Trick or treat!
+  at:
+  - 260
+  - 83
+  to:
+  - 426
+  - 374
+  width: 200
+  kind: speech
+- text: 'Trick or treat: give candy or get a trick'
+  at:
+  - 818
+  - 96
+  to:
+  - 772
+  - 160
+  width: 259
+  size: 38

@@ -1,0 +1,20 @@
+image: outputs/soups-on/seed_1.png
+out: outputs/lexicard/soups-on.png
+bubbles:
+- text: Soup's on!
+  at:
+  - 697
+  - 61
+  to:
+  - 848
+  - 124
+  width: 150
+  kind: speech
+- text: 'Soup''s on: the food is ready, come eat'
+  at:
+  - 400
+  - 152
+  to:
+  - 464
+  - 512
+  width: 300

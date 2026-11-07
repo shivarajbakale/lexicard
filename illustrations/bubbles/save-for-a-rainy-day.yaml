@@ -1,0 +1,28 @@
+image: outputs/save-for-a-rainy-day/seed_1.png
+out: outputs/lexicard/save-for-a-rainy-day.png
+bubbles:
+- text: I'll keep some money aside
+  at:
+  - 692
+  - 104
+  to:
+  - 580
+  - 220
+  width: 200
+- text: The jar = savings for later
+  at:
+  - 856
+  - 326
+  to:
+  - 436
+  - 624
+  width: 200
+- text: 'Save for a rainy day: for later'
+  at:
+  - 350
+  - 96
+  to:
+  - 580
+  - 220
+  width: 259
+  size: 38

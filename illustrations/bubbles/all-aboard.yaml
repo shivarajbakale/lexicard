@@ -1,0 +1,21 @@
+image: outputs/all-aboard/seed_1.png
+out: outputs/lexicard/all-aboard.png
+bubbles:
+- text: All aboard!
+  at:
+  - 248
+  - 83
+  to:
+  - 280
+  - 240
+  width: 150
+  kind: speech
+- text: 'All aboard: everyone get on, we''re leaving'
+  at:
+  - 536
+  - 122
+  to:
+  - 712
+  - 352
+  width: 259
+  size: 38

@@ -1,0 +1,29 @@
+image: outputs/track-down/seed_1.png
+out: outputs/lexicard/track-down.png
+bubbles:
+- text: Follow the footprints, one by one
+  at:
+  - 511
+  - 134
+  to:
+  - 264
+  - 184
+  width: 300
+- text: The trail leads to the target
+  at:
+  - 852
+  - 238
+  to:
+  - 488
+  - 596
+  width: 163
+  size: 36
+- text: 'Track down: find after searching'
+  at:
+  - 844
+  - 660
+  to:
+  - 384
+  - 256
+  width: 259
+  size: 38

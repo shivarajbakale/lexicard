@@ -1,0 +1,21 @@
+image: outputs/hard-at-work/seed_1.png
+out: outputs/lexicard/hard-at-work.png
+bubbles:
+- text: Where's Ana?
+  at:
+  - 598
+  - 107
+  to:
+  - 760
+  - 208
+  width: 150
+  kind: speech
+- text: Hard at work, don't disturb me!
+  at:
+  - 225
+  - 95
+  to:
+  - 364
+  - 172
+  width: 300
+  kind: speech

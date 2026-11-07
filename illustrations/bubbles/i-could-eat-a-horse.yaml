@@ -1,0 +1,20 @@
+image: outputs/i-could-eat-a-horse/seed_1.png
+out: outputs/lexicard/i-could-eat-a-horse.png
+bubbles:
+- text: I could eat a horse!
+  at:
+  - 337
+  - 83
+  to:
+  - 208
+  - 184
+  width: 200
+  kind: speech
+- text: 'Extremely hungry: could eat a huge amount'
+  at:
+  - 777
+  - 218
+  to:
+  - 780
+  - 472
+  width: 300

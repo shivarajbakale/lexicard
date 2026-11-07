@@ -1,0 +1,29 @@
+image: outputs/set-in-stone/seed_1.png
+out: outputs/lexicard/set-in-stone.png
+bubbles:
+- text: Can we change it later?
+  at:
+  - 850
+  - 106
+  to:
+  - 680
+  - 100
+  width: 200
+  kind: speech
+- text: No, it is carved already
+  at:
+  - 121
+  - 310
+  to:
+  - 560
+  - 124
+  width: 163
+  size: 36
+- text: 'Set in stone: fixed and cannot change'
+  at:
+  - 309
+  - 104
+  to:
+  - 444
+  - 404
+  width: 300

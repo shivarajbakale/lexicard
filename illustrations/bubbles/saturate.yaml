@@ -1,0 +1,21 @@
+image: outputs/saturate/seed_1.png
+out: outputs/lexicard/saturate.png
+bubbles:
+- text: It can't hold even one more drop!
+  at:
+  - 569
+  - 95
+  to:
+  - 420
+  - 148
+  width: 300
+  kind: speech
+- text: 'Saturate: soak until nothing more fits'
+  at:
+  - 818
+  - 240
+  to:
+  - 300
+  - 132
+  width: 259
+  size: 38

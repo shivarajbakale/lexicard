@@ -1,0 +1,20 @@
+image: outputs/a-for-effort/seed_1.png
+out: outputs/lexicard/a-for-effort.png
+bubbles:
+- text: It's wobbly, but A for effort!
+  at:
+  - 135
+  - 106
+  to:
+  - 304
+  - 100
+  width: 200
+  kind: speech
+- text: Credit for trying so hard
+  at:
+  - 631
+  - 146
+  to:
+  - 472
+  - 168
+  width: 200

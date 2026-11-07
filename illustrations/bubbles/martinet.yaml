@@ -1,0 +1,20 @@
+image: outputs/martinet/seed_1.png
+out: outputs/lexicard/martinet.png
+bubbles:
+- text: Stand straight! Rules are rules!
+  at:
+  - 171
+  - 83
+  to:
+  - 292
+  - 156
+  width: 300
+  kind: speech
+- text: 'Martinet: demands strict obedience to rules'
+  at:
+  - 571
+  - 134
+  to:
+  - 292
+  - 156
+  width: 300

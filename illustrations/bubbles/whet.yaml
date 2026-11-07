@@ -1,0 +1,20 @@
+image: outputs/whet/seed_1.png
+out: outputs/lexicard/whet.png
+bubbles:
+- text: Are they sharp enough yet?
+  at:
+  - 592
+  - 106
+  to:
+  - 440
+  - 132
+  width: 200
+  kind: speech
+- text: 'Whet: sharpen a blade on a stone'
+  at:
+  - 819
+  - 272
+  to:
+  - 320
+  - 120
+  width: 300

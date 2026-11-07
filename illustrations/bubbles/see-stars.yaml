@@ -1,0 +1,28 @@
+image: outputs/see-stars/seed_1.png
+out: outputs/lexicard/see-stars.png
+bubbles:
+- text: Ouch, he hit the beam hard
+  at:
+  - 193
+  - 170
+  to:
+  - 348
+  - 252
+  width: 200
+- text: The beam caused the blow
+  at:
+  - 865
+  - 350
+  to:
+  - 560
+  - 612
+  width: 200
+- text: 'See stars: dizzy after a sudden knock'
+  at:
+  - 688
+  - 122
+  to:
+  - 348
+  - 252
+  width: 259
+  size: 38

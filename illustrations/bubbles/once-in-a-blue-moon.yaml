@@ -1,0 +1,21 @@
+image: outputs/once-in-a-blue-moon/seed_1.png
+out: outputs/lexicard/once-in-a-blue-moon.png
+bubbles:
+- text: Look up! The moon is different
+  at:
+  - 143
+  - 106
+  to:
+  - 336
+  - 76
+  width: 200
+  kind: speech
+- text: 'Once in a blue moon: very rarely'
+  at:
+  - 847
+  - 96
+  to:
+  - 792
+  - 172
+  width: 259
+  size: 38

@@ -1,0 +1,21 @@
+image: outputs/succumb/panels_seed_1.png
+out: outputs/lexicard/succumb.png
+bubbles:
+- text: I will not eat it!
+  at:
+  - 256
+  - 143
+  to:
+  - 258
+  - 300
+  width: 200
+  kind: speech
+- text: 'Succumb: give in to temptation'
+  at:
+  - 769
+  - 122
+  to:
+  - 766
+  - 300
+  width: 172
+  size: 38

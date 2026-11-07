@@ -1,0 +1,30 @@
+image: outputs/dont-quote-me/seed_1.png
+out: outputs/lexicard/dont-quote-me.png
+bubbles:
+- text: I'm not sure, but...
+  at:
+  - 193
+  - 107
+  to:
+  - 348
+  - 160
+  width: 200
+  kind: speech
+- text: Don't quote me!
+  at:
+  - 494
+  - 95
+  to:
+  - 348
+  - 160
+  width: 200
+  kind: speech
+- text: Keep my words private
+  at:
+  - 901
+  - 118
+  to:
+  - 348
+  - 160
+  width: 163
+  size: 36

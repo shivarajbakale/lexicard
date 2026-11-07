@@ -1,0 +1,30 @@
+image: outputs/tune-out/seed_1.png
+out: outputs/lexicard/tune-out.png
+bubbles:
+- text: Are you even listening to me?
+  at:
+  - 142
+  - 106
+  to:
+  - 240
+  - 208
+  width: 200
+  kind: speech
+- text: The headphones block her voice
+  at:
+  - 464
+  - 142
+  to:
+  - 768
+  - 256
+  width: 163
+  size: 36
+- text: 'Tune out: stop paying attention'
+  at:
+  - 844
+  - 96
+  to:
+  - 732
+  - 120
+  width: 259
+  size: 38

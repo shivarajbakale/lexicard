@@ -1,0 +1,29 @@
+image: outputs/die-out/panels_seed_1.png
+out: outputs/lexicard/die-out.png
+bubbles:
+- text: Many dinosaurs live here
+  at:
+  - 179
+  - 118
+  to:
+  - 258
+  - 300
+  width: 163
+  size: 36
+- text: They begin to disappear
+  at:
+  - 603
+  - 128
+  to:
+  - 766
+  - 300
+  width: 200
+- text: 'Die out: vanish until none are left'
+  at:
+  - 516
+  - 360
+  to:
+  - 766
+  - 300
+  width: 259
+  size: 38

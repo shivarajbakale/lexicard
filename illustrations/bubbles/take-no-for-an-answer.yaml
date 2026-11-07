@@ -1,0 +1,20 @@
+image: outputs/take-no-for-an-answer/seed_1.png
+out: outputs/lexicard/take-no-for-an-answer.png
+bubbles:
+- text: No, thank you.
+  at:
+  - 526
+  - 177
+  to:
+  - 776
+  - 204
+  width: 150
+- text: I won't take no for an answer!
+  at:
+  - 141
+  - 106
+  to:
+  - 296
+  - 136
+  width: 200
+  kind: speech

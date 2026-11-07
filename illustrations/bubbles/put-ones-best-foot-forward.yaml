@@ -1,0 +1,27 @@
+image: outputs/put-ones-best-foot-forward/seed_1.png
+out: outputs/lexicard/put-ones-best-foot-forward.png
+bubbles:
+- text: A new meeting starts now
+  at:
+  - 268
+  - 134
+  to:
+  - 444
+  - 152
+  width: 200
+- text: The lime shoe leads the way
+  at:
+  - 154
+  - 518
+  to:
+  - 372
+  - 624
+  width: 200
+- text: 'Best foot forward: make a good first impression'
+  at:
+  - 768
+  - 146
+  to:
+  - 444
+  - 152
+  width: 300

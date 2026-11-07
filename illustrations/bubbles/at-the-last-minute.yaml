@@ -1,0 +1,28 @@
+image: outputs/at-the-last-minute/seed_1.png
+out: outputs/lexicard/at-the-last-minute.png
+bubbles:
+- text: I stayed up all night!
+  at:
+  - 133
+  - 525
+  to:
+  - 188
+  - 168
+  width: 163
+  size: 36
+- text: The wobbly tower = rushed work
+  at:
+  - 816
+  - 242
+  to:
+  - 324
+  - 468
+  width: 200
+- text: 'At the last minute: just before the deadline'
+  at:
+  - 447
+  - 134
+  to:
+  - 188
+  - 168
+  width: 300

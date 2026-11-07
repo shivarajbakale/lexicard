@@ -1,0 +1,29 @@
+image: outputs/in-your-dreams/seed_1.png
+out: outputs/lexicard/in-your-dreams.png
+bubbles:
+- text: Will you go out with me?
+  at:
+  - 170
+  - 143
+  to:
+  - 212
+  - 300
+  width: 200
+  kind: speech
+- text: In your dreams!
+  at:
+  - 740
+  - 167
+  to:
+  - 804
+  - 316
+  width: 200
+  kind: speech
+- text: Never going to happen
+  at:
+  - 479
+  - 128
+  to:
+  - 804
+  - 316
+  width: 200

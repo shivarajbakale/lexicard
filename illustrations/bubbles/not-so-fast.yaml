@@ -1,0 +1,20 @@
+image: outputs/not-so-fast/seed_1.png
+out: outputs/lexicard/not-so-fast.png
+bubbles:
+- text: Not so fast!
+  at:
+  - 599
+  - 203
+  to:
+  - 752
+  - 244
+  width: 150
+  kind: speech
+- text: Wait, don't act too quickly.
+  at:
+  - 857
+  - 134
+  to:
+  - 752
+  - 244
+  width: 200

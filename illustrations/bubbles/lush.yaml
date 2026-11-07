@@ -1,0 +1,20 @@
+image: outputs/lush/seed_1.png
+out: outputs/lexicard/lush.png
+bubbles:
+- text: This one grows thick and full!
+  at:
+  - 411
+  - 106
+  to:
+  - 776
+  - 40
+  width: 200
+  kind: speech
+- text: 'Lush: thick, healthy, rich growth'
+  at:
+  - 173
+  - 278
+  to:
+  - 716
+  - 336
+  width: 300

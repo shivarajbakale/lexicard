@@ -1,0 +1,21 @@
+image: outputs/pittance/seed_1.png
+out: outputs/lexicard/pittance.png
+bubbles:
+- text: Just one coin for all that work?
+  at:
+  - 200
+  - 83
+  to:
+  - 292
+  - 180
+  width: 300
+  kind: speech
+- text: 'Pittance: a tiny, unfair amount'
+  at:
+  - 531
+  - 180
+  to:
+  - 824
+  - 176
+  width: 259
+  size: 38

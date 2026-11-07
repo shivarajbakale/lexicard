@@ -1,0 +1,19 @@
+image: outputs/take-the-initiative/seed_1.png
+out: outputs/lexicard/take-the-initiative.png
+bubbles:
+- text: Nobody told us to start
+  at:
+  - 853
+  - 164
+  to:
+  - 292
+  - 248
+  width: 200
+- text: 'Take the initiative: act without being asked'
+  at:
+  - 469
+  - 134
+  to:
+  - 108
+  - 128
+  width: 300

@@ -1,0 +1,21 @@
+image: outputs/sell-oneself-short/seed_1.png
+out: outputs/lexicard/sell-oneself-short.png
+bubbles:
+- text: Just one coin for that?
+  at:
+  - 661
+  - 83
+  to:
+  - 792
+  - 184
+  width: 200
+  kind: speech
+- text: 'Sell yourself short: value yourself too low'
+  at:
+  - 194
+  - 122
+  to:
+  - 252
+  - 184
+  width: 259
+  size: 38

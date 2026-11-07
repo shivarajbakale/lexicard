@@ -1,0 +1,29 @@
+image: outputs/ax-to-grind/seed_1.png
+out: outputs/lexicard/ax-to-grind.png
+bubbles:
+- text: That fence blocks my view
+  at:
+  - 484
+  - 134
+  to:
+  - 256
+  - 192
+  width: 200
+- text: Hello, neighbour!
+  at:
+  - 810
+  - 83
+  to:
+  - 704
+  - 204
+  width: 200
+  kind: speech
+- text: I have an ax to grind with him
+  at:
+  - 158
+  - 122
+  to:
+  - 256
+  - 192
+  width: 172
+  size: 38

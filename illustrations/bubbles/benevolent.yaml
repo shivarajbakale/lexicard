@@ -1,0 +1,20 @@
+image: outputs/benevolent/seed_2.png
+out: outputs/lexicard/benevolent.png
+bubbles:
+- text: 'Benevolent: kind and wanting to help'
+  at:
+  - 218
+  - 104
+  to:
+  - 368
+  - 148
+  width: 300
+- text: Thank you, sir!
+  at:
+  - 575
+  - 131
+  to:
+  - 368
+  - 148
+  width: 200
+  kind: speech

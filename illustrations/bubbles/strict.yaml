@@ -1,0 +1,20 @@
+image: outputs/strict/seed_1.png
+out: outputs/lexicard/strict.png
+bubbles:
+- text: Not one step over the line!
+  at:
+  - 158
+  - 83
+  to:
+  - 328
+  - 96
+  width: 200
+  kind: speech
+- text: 'Strict: demands that rules be followed exactly'
+  at:
+  - 667
+  - 134
+  to:
+  - 328
+  - 96
+  width: 300

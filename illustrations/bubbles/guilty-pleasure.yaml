@@ -1,0 +1,29 @@
+image: outputs/guilty-pleasure/seed_1.png
+out: outputs/lexicard/guilty-pleasure.png
+bubbles:
+- text: What are you doing?
+  at:
+  - 628
+  - 83
+  to:
+  - 610
+  - 282
+  width: 200
+  kind: speech
+- text: It's my guilty pleasure!
+  at:
+  - 351
+  - 83
+  to:
+  - 410
+  - 332
+  width: 200
+  kind: speech
+- text: Enjoyed in secret
+  at:
+  - 854
+  - 296
+  to:
+  - 460
+  - 384
+  width: 200

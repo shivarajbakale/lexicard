@@ -1,0 +1,21 @@
+image: outputs/cost-an-arm-and-a-leg/seed_1.png
+out: outputs/lexicard/cost-an-arm-and-a-leg.png
+bubbles:
+- text: This jacket costs an arm and a leg!
+  at:
+  - 485
+  - 83
+  to:
+  - 708
+  - 76
+  width: 300
+  kind: speech
+- text: 'Cost an arm and a leg: very expensive'
+  at:
+  - 488
+  - 276
+  to:
+  - 708
+  - 76
+  width: 259
+  size: 38

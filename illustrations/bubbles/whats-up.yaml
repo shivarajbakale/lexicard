@@ -1,0 +1,20 @@
+image: outputs/whats-up/seed_1.png
+out: outputs/lexicard/whats-up.png
+bubbles:
+- text: Hey, what's up?
+  at:
+  - 243
+  - 95
+  to:
+  - 396
+  - 144
+  width: 200
+  kind: speech
+- text: Hi! Not much, you?
+  at:
+  - 772
+  - 116
+  to:
+  - 636
+  - 204
+  width: 200

@@ -1,0 +1,30 @@
+image: outputs/run-riot/seed_1.png
+out: outputs/lexicard/run-riot.png
+bubbles:
+- text: Stop, you two!
+  at:
+  - 595
+  - 119
+  to:
+  - 790
+  - 144
+  width: 150
+  kind: speech
+- text: Whee, no rules!
+  at:
+  - 380
+  - 251
+  to:
+  - 300
+  - 424
+  width: 200
+  kind: speech
+- text: 'Run riot: behave wildly out of control'
+  at:
+  - 192
+  - 96
+  to:
+  - 364
+  - 524
+  width: 259
+  size: 38

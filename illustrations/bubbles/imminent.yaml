@@ -1,0 +1,21 @@
+image: outputs/imminent/seed_2.png
+out: outputs/lexicard/imminent.png
+bubbles:
+- text: Watch out, it's falling!
+  at:
+  - 660
+  - 95
+  to:
+  - 496
+  - 100
+  width: 200
+  kind: speech
+- text: 'Imminent: about to happen very soon'
+  at:
+  - 828
+  - 264
+  to:
+  - 436
+  - 164
+  width: 259
+  size: 38

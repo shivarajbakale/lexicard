@@ -1,0 +1,20 @@
+image: outputs/beat-around-the-bush/seed_1.png
+out: outputs/lexicard/beat-around-the-bush.png
+bubbles:
+- text: Just get to the point!
+  at:
+  - 690
+  - 191
+  to:
+  - 744
+  - 348
+  width: 200
+  kind: speech
+- text: 'Beat around the bush: avoid the point'
+  at:
+  - 332
+  - 146
+  to:
+  - 264
+  - 292
+  width: 300

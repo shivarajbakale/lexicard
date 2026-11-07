@@ -1,0 +1,20 @@
+image: outputs/all-systems-go/seed_1.png
+out: outputs/lexicard/all-systems-go.png
+bubbles:
+- text: All systems go!
+  at:
+  - 334
+  - 95
+  to:
+  - 500
+  - 96
+  width: 200
+  kind: speech
+- text: 'All systems go: everything is ready'
+  at:
+  - 748
+  - 104
+  to:
+  - 500
+  - 96
+  width: 300

@@ -1,0 +1,20 @@
+image: outputs/raucous/seed_1.png
+out: outputs/lexicard/raucous.png
+bubbles:
+- text: What a loud, wild racket!
+  at:
+  - 266
+  - 107
+  to:
+  - 216
+  - 256
+  width: 200
+  kind: speech
+- text: 'Raucous: loud, rough and noisy'
+  at:
+  - 578
+  - 134
+  to:
+  - 272
+  - 448
+  width: 200

@@ -1,0 +1,31 @@
+image: outputs/irrelevant/seed_1.png
+out: outputs/lexicard/irrelevant.png
+bubbles:
+- text: Should I take my umbrella?
+  at:
+  - 118
+  - 106
+  to:
+  - 340
+  - 96
+  width: 200
+  kind: speech
+- text: I love sandwiches!
+  at:
+  - 517
+  - 75
+  to:
+  - 688
+  - 212
+  width: 163
+  size: 36
+  kind: speech
+- text: 'Irrelevant: not connected to the question'
+  at:
+  - 830
+  - 122
+  to:
+  - 688
+  - 212
+  width: 259
+  size: 38

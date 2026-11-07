@@ -1,0 +1,30 @@
+image: outputs/now-were-talking/seed_1.png
+out: outputs/lexicard/now-were-talking.png
+bubbles:
+- text: Pizza and a movie tonight?
+  at:
+  - 135
+  - 106
+  to:
+  - 296
+  - 120
+  width: 200
+  kind: speech
+- text: Now we're talking!
+  at:
+  - 734
+  - 83
+  to:
+  - 860
+  - 208
+  width: 200
+  kind: speech
+- text: 'Now we''re talking: finally a great idea'
+  at:
+  - 547
+  - 240
+  to:
+  - 860
+  - 208
+  width: 259
+  size: 38

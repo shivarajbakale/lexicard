@@ -1,0 +1,20 @@
+image: outputs/bulwark/seed_1.png
+out: outputs/lexicard/bulwark.png
+bubbles:
+- text: The wall keeps me safe.
+  at:
+  - 903
+  - 394
+  to:
+  - 720
+  - 352
+  width: 200
+  kind: speech
+- text: 'Bulwark: strong barrier that protects you'
+  at:
+  - 772
+  - 158
+  to:
+  - 524
+  - 480
+  width: 300

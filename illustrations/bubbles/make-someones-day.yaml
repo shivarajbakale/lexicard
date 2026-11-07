@@ -1,0 +1,21 @@
+image: outputs/make-someones-day/seed_1.png
+out: outputs/lexicard/make-someones-day.png
+bubbles:
+- text: You made my day!
+  at:
+  - 252
+  - 83
+  to:
+  - 252
+  - 248
+  width: 200
+  kind: speech
+- text: A small kind surprise
+  at:
+  - 452
+  - 225
+  to:
+  - 496
+  - 420
+  width: 163
+  size: 36

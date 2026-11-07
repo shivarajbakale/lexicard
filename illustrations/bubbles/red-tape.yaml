@@ -1,0 +1,21 @@
+image: outputs/red-tape/seed_1.png
+out: outputs/lexicard/red-tape.png
+bubbles:
+- text: Can I just get my form?
+  at:
+  - 518
+  - 83
+  to:
+  - 836
+  - 108
+  width: 200
+  kind: speech
+- text: 'Red tape: slow, annoying official procedures'
+  at:
+  - 178
+  - 122
+  to:
+  - 396
+  - 152
+  width: 259
+  size: 38

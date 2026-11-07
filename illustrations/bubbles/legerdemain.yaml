@@ -1,0 +1,20 @@
+image: outputs/legerdemain/seed_1.png
+out: outputs/lexicard/legerdemain.png
+bubbles:
+- text: 'Legerdemain: tricky hand moves that fool you'
+  at:
+  - 680
+  - 134
+  to:
+  - 312
+  - 48
+  width: 300
+- text: Wow, where did that come from?
+  at:
+  - 882
+  - 346
+  to:
+  - 706
+  - 430
+  width: 200
+  kind: speech

@@ -1,0 +1,21 @@
+image: outputs/you-got-it/seed_1.png
+out: outputs/lexicard/you-got-it.png
+bubbles:
+- text: Could I get a coffee?
+  at:
+  - 649
+  - 191
+  to:
+  - 730
+  - 372
+  width: 200
+  kind: speech
+- text: You got it!
+  at:
+  - 172
+  - 95
+  to:
+  - 330
+  - 132
+  width: 150
+  kind: speech

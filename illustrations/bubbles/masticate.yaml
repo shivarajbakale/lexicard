@@ -1,0 +1,21 @@
+image: outputs/masticate/seed_1.png
+out: outputs/lexicard/masticate.png
+bubbles:
+- text: You are chewing so slowly!
+  at:
+  - 584
+  - 106
+  to:
+  - 732
+  - 172
+  width: 200
+  kind: speech
+- text: 'Masticate: chew food well'
+  at:
+  - 876
+  - 122
+  to:
+  - 400
+  - 504
+  width: 172
+  size: 38

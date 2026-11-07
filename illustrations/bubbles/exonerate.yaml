@@ -1,0 +1,20 @@
+image: outputs/exonerate/seed_1.png
+out: outputs/lexicard/exonerate.png
+bubbles:
+- text: Sorry, it was the dog, not you.
+  at:
+  - 263
+  - 155
+  to:
+  - 384
+  - 260
+  width: 300
+  kind: speech
+- text: 'Exonerate: clear someone of blame'
+  at:
+  - 762
+  - 116
+  to:
+  - 624
+  - 216
+  width: 300

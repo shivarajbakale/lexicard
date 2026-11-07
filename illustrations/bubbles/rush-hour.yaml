@@ -1,0 +1,28 @@
+image: outputs/rush-hour/seed_1.png
+out: outputs/lexicard/rush-hour.png
+bubbles:
+- text: Late, late, late!
+  at:
+  - 168
+  - 272
+  to:
+  - 312
+  - 344
+  width: 200
+- text: Honk honk! Not moving
+  at:
+  - 458
+  - 263
+  to:
+  - 312
+  - 344
+  width: 200
+  kind: speech
+- text: 'Rush hour: everyone hurrying, roads packed'
+  at:
+  - 791
+  - 158
+  to:
+  - 664
+  - 484
+  width: 300

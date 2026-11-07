@@ -1,0 +1,21 @@
+image: outputs/prescient/seed_1.png
+out: outputs/lexicard/prescient.png
+bubbles:
+- text: How did you know rain was coming?
+  at:
+  - 459
+  - 83
+  to:
+  - 796
+  - 168
+  width: 300
+  kind: speech
+- text: 'Prescient: knows what will happen before'
+  at:
+  - 183
+  - 638
+  to:
+  - 248
+  - 212
+  width: 259
+  size: 38

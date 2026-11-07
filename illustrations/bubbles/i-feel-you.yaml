@@ -1,0 +1,21 @@
+image: outputs/i-feel-you/seed_1.png
+out: outputs/lexicard/i-feel-you.png
+bubbles:
+- text: Work was awful today.
+  at:
+  - 656
+  - 83
+  to:
+  - 704
+  - 236
+  width: 200
+  kind: speech
+- text: I feel you.
+  at:
+  - 348
+  - 97
+  to:
+  - 308
+  - 256
+  width: 150
+  kind: speech

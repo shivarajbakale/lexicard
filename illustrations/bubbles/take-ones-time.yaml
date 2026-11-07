@@ -1,0 +1,21 @@
+image: outputs/take-ones-time/seed_1.png
+out: outputs/lexicard/take-ones-time.png
+bubbles:
+- text: Are you almost done?
+  at:
+  - 255
+  - 155
+  to:
+  - 164
+  - 308
+  width: 200
+  kind: speech
+- text: Take your time, no rush.
+  at:
+  - 850
+  - 106
+  to:
+  - 732
+  - 216
+  width: 200
+  kind: speech

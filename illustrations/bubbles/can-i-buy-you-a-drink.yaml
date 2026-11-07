@@ -1,0 +1,20 @@
+image: outputs/can-i-buy-you-a-drink/seed_1.png
+out: outputs/lexicard/can-i-buy-you-a-drink.png
+bubbles:
+- text: Can I buy you a drink?
+  at:
+  - 140
+  - 83
+  to:
+  - 188
+  - 168
+  width: 200
+  kind: speech
+- text: 'Can I buy you a drink: a friendly offer'
+  at:
+  - 582
+  - 134
+  to:
+  - 508
+  - 488
+  width: 300

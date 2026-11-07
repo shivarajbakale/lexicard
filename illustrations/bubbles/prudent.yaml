@@ -1,0 +1,20 @@
+image: outputs/prudent/seed_1.png
+out: outputs/lexicard/prudent.png
+bubbles:
+- text: Better safe than sorry.
+  at:
+  - 255
+  - 95
+  to:
+  - 300
+  - 248
+  width: 200
+  kind: speech
+- text: 'Prudent: careful, thinks about risks first'
+  at:
+  - 706
+  - 134
+  to:
+  - 300
+  - 248
+  width: 300

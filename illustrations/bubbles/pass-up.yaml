@@ -1,0 +1,20 @@
+image: outputs/pass-up/seed_1.png
+out: outputs/lexicard/pass-up.png
+bubbles:
+- text: Cake for you, sir?
+  at:
+  - 489
+  - 104
+  to:
+  - 272
+  - 128
+  width: 200
+- text: I'll pass up this treat.
+  at:
+  - 800
+  - 83
+  to:
+  - 716
+  - 216
+  width: 200
+  kind: speech

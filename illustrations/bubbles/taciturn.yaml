@@ -1,0 +1,21 @@
+image: outputs/taciturn/seed_1.png
+out: outputs/lexicard/taciturn.png
+bubbles:
+- text: And then I said, and then...
+  at:
+  - 265
+  - 142
+  to:
+  - 320
+  - 372
+  width: 200
+  kind: speech
+- text: 'Taciturn: says very little'
+  at:
+  - 888
+  - 122
+  to:
+  - 660
+  - 160
+  width: 172
+  size: 38

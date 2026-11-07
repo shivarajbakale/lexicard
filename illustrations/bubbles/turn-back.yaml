@@ -1,0 +1,30 @@
+image: outputs/turn-back/seed_1.png
+out: outputs/lexicard/turn-back.png
+bubbles:
+- text: That storm looks dangerous!
+  at:
+  - 351
+  - 118
+  to:
+  - 512
+  - 152
+  width: 200
+  kind: speech
+- text: The stick points back down
+  at:
+  - 143
+  - 286
+  to:
+  - 508
+  - 444
+  width: 163
+  size: 36
+- text: 'Turn back: return the way you came'
+  at:
+  - 840
+  - 96
+  to:
+  - 512
+  - 152
+  width: 259
+  size: 38

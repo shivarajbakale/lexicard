@@ -1,0 +1,21 @@
+image: outputs/labyrinth/seed_1.png
+out: outputs/lexicard/labyrinth.png
+bubbles:
+- text: I keep hitting the same dead end!
+  at:
+  - 425
+  - 83
+  to:
+  - 512
+  - 384
+  width: 300
+  kind: speech
+- text: 'Labyrinth: a maze of twisting paths'
+  at:
+  - 831
+  - 96
+  to:
+  - 528
+  - 512
+  width: 259
+  size: 38

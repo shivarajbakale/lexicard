@@ -1,0 +1,21 @@
+image: outputs/contort/seed_1.png
+out: outputs/lexicard/contort.png
+bubbles:
+- text: How does she fit in there?
+  at:
+  - 521
+  - 191
+  to:
+  - 832
+  - 204
+  width: 200
+  kind: speech
+- text: 'Contort: twist out of normal shape'
+  at:
+  - 182
+  - 180
+  to:
+  - 448
+  - 632
+  width: 259
+  size: 38

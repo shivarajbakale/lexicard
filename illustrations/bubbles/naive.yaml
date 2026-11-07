@@ -1,0 +1,30 @@
+image: outputs/naive/seed_1.png
+out: outputs/lexicard/naive.png
+bubbles:
+- text: Give it to me and I'll double it.
+  at:
+  - 840
+  - 100
+  to:
+  - 640
+  - 160
+  width: 300
+  kind: speech
+- text: Oh, thank you, how kind!
+  at:
+  - 497
+  - 634
+  to:
+  - 256
+  - 344
+  width: 200
+  kind: speech
+- text: 'Naive: too trusting, lacks experience'
+  at:
+  - 220
+  - 140
+  to:
+  - 256
+  - 330
+  width: 259
+  size: 38

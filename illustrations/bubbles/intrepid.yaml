@@ -1,0 +1,21 @@
+image: outputs/intrepid/seed_1.png
+out: outputs/lexicard/intrepid.png
+bubbles:
+- text: I will go in first!
+  at:
+  - 187
+  - 83
+  to:
+  - 512
+  - 384
+  width: 200
+  kind: speech
+- text: 'Intrepid: bravely faces the unknown'
+  at:
+  - 834
+  - 96
+  to:
+  - 548
+  - 304
+  width: 259
+  size: 38

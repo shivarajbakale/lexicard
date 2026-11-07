@@ -1,0 +1,21 @@
+image: outputs/be-left-holding-the-baby/seed_2.png
+out: outputs/lexicard/be-left-holding-the-baby.png
+bubbles:
+- text: Good luck with that!
+  at:
+  - 413
+  - 107
+  to:
+  - 540
+  - 232
+  width: 200
+  kind: speech
+- text: 'Left holding the baby: stuck with the job'
+  at:
+  - 733
+  - 122
+  to:
+  - 328
+  - 188
+  width: 259
+  size: 38

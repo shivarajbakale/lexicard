@@ -1,0 +1,21 @@
+image: outputs/rock-bottom/seed_1.png
+out: outputs/lexicard/rock-bottom.png
+bubbles:
+- text: I can't get any lower than this
+  at:
+  - 159
+  - 669
+  to:
+  - 400
+  - 548
+  width: 245
+  size: 36
+- text: 'Rock bottom: your lowest point'
+  at:
+  - 854
+  - 638
+  to:
+  - 400
+  - 548
+  width: 172
+  size: 38

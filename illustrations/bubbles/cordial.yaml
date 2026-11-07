@@ -1,0 +1,21 @@
+image: outputs/cordial/seed_1.png
+out: outputs/lexicard/cordial.png
+bubbles:
+- text: Welcome! Come in, make yourself at home.
+  at:
+  - 644
+  - 106
+  to:
+  - 480
+  - 152
+  width: 300
+  kind: speech
+- text: 'Cordial: warm and friendly welcome'
+  at:
+  - 832
+  - 300
+  to:
+  - 480
+  - 152
+  width: 259
+  size: 38

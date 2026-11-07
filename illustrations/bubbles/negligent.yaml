@@ -1,0 +1,20 @@
+image: outputs/negligent/seed_1.png
+out: outputs/lexicard/negligent.png
+bubbles:
+- text: Oh, the flowers will be fine.
+  at:
+  - 393
+  - 106
+  to:
+  - 256
+  - 180
+  width: 200
+  kind: speech
+- text: 'Negligent: fails to take proper care'
+  at:
+  - 764
+  - 284
+  to:
+  - 832
+  - 548
+  width: 300

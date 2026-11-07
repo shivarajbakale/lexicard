@@ -1,0 +1,20 @@
+image: outputs/mammoth/seed_1.png
+out: outputs/lexicard/mammoth.png
+bubbles:
+- text: That pumpkin is enormous!
+  at:
+  - 402
+  - 142
+  to:
+  - 560
+  - 116
+  width: 200
+  kind: speech
+- text: 'Mammoth: extremely large'
+  at:
+  - 855
+  - 134
+  to:
+  - 680
+  - 164
+  width: 200

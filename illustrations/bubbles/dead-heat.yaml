@@ -1,0 +1,28 @@
+image: outputs/dead-heat/seed_1.png
+out: outputs/lexicard/dead-heat.png
+bubbles:
+- text: We crossed together!
+  at:
+  - 212
+  - 236
+  to:
+  - 372
+  - 268
+  width: 200
+- text: One ribbon, two winners
+  at:
+  - 210
+  - 669
+  to:
+  - 500
+  - 420
+  width: 163
+  size: 36
+- text: 'Dead heat: a tie, finishing at the same time'
+  at:
+  - 612
+  - 134
+  to:
+  - 912
+  - 284
+  width: 300

@@ -1,0 +1,12 @@
+image: outputs/harbinger/seed_1.png
+out: outputs/lexicard/harbinger.png
+bubbles:
+- text: 'Harbinger: a sign something is coming'
+  at:
+  - 824
+  - 122
+  to:
+  - 676
+  - 148
+  width: 259
+  size: 38

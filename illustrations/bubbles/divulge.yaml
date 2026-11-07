@@ -1,0 +1,12 @@
+image: outputs/divulge/seed_1.png
+out: outputs/lexicard/divulge.png
+bubbles:
+- text: 'Divulge: reveal something that was secret'
+  at:
+  - 203
+  - 122
+  to:
+  - 676
+  - 60
+  width: 259
+  size: 38

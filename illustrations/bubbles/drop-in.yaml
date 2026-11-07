@@ -1,0 +1,20 @@
+image: outputs/drop-in/seed_1.png
+out: outputs/lexicard/drop-in.png
+bubbles:
+- text: I was nearby, so I dropped in!
+  at:
+  - 224
+  - 154
+  to:
+  - 512
+  - 384
+  width: 200
+  kind: speech
+- text: What a nice surprise!
+  at:
+  - 857
+  - 284
+  to:
+  - 396
+  - 444
+  width: 200

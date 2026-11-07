@@ -1,0 +1,21 @@
+image: outputs/world-of-difference/panels_seed_1.png
+out: outputs/lexicard/world-of-difference.png
+bubbles:
+- text: This is how it used to look
+  at:
+  - 178
+  - 118
+  to:
+  - 258
+  - 300
+  width: 163
+  size: 36
+- text: 'A world of difference: a huge change'
+  at:
+  - 835
+  - 122
+  to:
+  - 766
+  - 300
+  width: 259
+  size: 38

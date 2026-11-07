@@ -1,0 +1,20 @@
+image: outputs/irascible/seed_1.png
+out: outputs/lexicard/irascible.png
+bubbles:
+- text: Could you pass the salt, please?
+  at:
+  - 609
+  - 191
+  to:
+  - 756
+  - 256
+  width: 300
+  kind: speech
+- text: 'Irascible: quick to anger over tiny things'
+  at:
+  - 212
+  - 134
+  to:
+  - 524
+  - 472
+  width: 300

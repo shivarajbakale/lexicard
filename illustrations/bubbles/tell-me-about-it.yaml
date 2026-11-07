@@ -1,0 +1,29 @@
+image: outputs/tell-me-about-it/seed_1.png
+out: outputs/lexicard/tell-me-about-it.png
+bubbles:
+- text: This commute is awful!
+  at:
+  - 202
+  - 298
+  to:
+  - 356
+  - 336
+  width: 200
+  kind: speech
+- text: Tell me about it!
+  at:
+  - 710
+  - 155
+  to:
+  - 712
+  - 320
+  width: 200
+  kind: speech
+- text: I share your pain
+  at:
+  - 858
+  - 428
+  to:
+  - 588
+  - 300
+  width: 200

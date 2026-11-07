@@ -1,0 +1,20 @@
+image: outputs/drift-off/seed_1.png
+out: outputs/lexicard/drift-off.png
+bubbles:
+- text: '...and then the report...'
+  at:
+  - 139
+  - 83
+  to:
+  - 276
+  - 120
+  width: 200
+  kind: speech
+- text: 'Drift off: slowly fall asleep'
+  at:
+  - 845
+  - 134
+  to:
+  - 664
+  - 216
+  width: 200

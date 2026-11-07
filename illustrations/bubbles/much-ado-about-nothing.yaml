@@ -1,0 +1,30 @@
+image: outputs/much-ado-about-nothing/seed_1.png
+out: outputs/lexicard/much-ado-about-nothing.png
+bubbles:
+- text: It's mine!
+  at:
+  - 167
+  - 121
+  to:
+  - 216
+  - 276
+  width: 150
+  kind: speech
+- text: No, mine!
+  at:
+  - 729
+  - 205
+  to:
+  - 872
+  - 296
+  width: 150
+  kind: speech
+- text: 'Much ado about nothing: big fuss, tiny matter'
+  at:
+  - 413
+  - 242
+  to:
+  - 492
+  - 304
+  width: 259
+  size: 38

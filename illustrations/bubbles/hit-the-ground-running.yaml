@@ -1,0 +1,12 @@
+image: outputs/hit-the-ground-running/seed_1.png
+out: outputs/lexicard/hit-the-ground-running.png
+bubbles:
+- text: 'Hit the ground running: start fast and energetic'
+  at:
+  - 414
+  - 122
+  to:
+  - 172
+  - 180
+  width: 259
+  size: 38

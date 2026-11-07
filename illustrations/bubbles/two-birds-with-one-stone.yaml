@@ -1,0 +1,20 @@
+image: outputs/two-birds-with-one-stone/seed_1.png
+out: outputs/lexicard/two-birds-with-one-stone.png
+bubbles:
+- text: One throw, and both are hit!
+  at:
+  - 641
+  - 430
+  to:
+  - 556
+  - 116
+  width: 200
+  kind: speech
+- text: 'Two birds with one stone: solve two problems with one action'
+  at:
+  - 312
+  - 164
+  to:
+  - 576
+  - 288
+  width: 300

@@ -1,0 +1,20 @@
+image: outputs/capitulate/seed_1.png
+out: outputs/lexicard/capitulate.png
+bubbles:
+- text: Okay, okay, you win!
+  at:
+  - 168
+  - 563
+  to:
+  - 346
+  - 580
+  width: 200
+  kind: speech
+- text: 'Capitulate: give up and surrender after resisting'
+  at:
+  - 311
+  - 134
+  to:
+  - 346
+  - 580
+  width: 300

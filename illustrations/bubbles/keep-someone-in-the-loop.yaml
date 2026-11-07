@@ -1,0 +1,21 @@
+image: outputs/keep-someone-in-the-loop/seed_1.png
+out: outputs/lexicard/keep-someone-in-the-loop.png
+bubbles:
+- text: I'll keep you in the loop.
+  at:
+  - 145
+  - 83
+  to:
+  - 304
+  - 116
+  width: 200
+  kind: speech
+- text: Great, tell me every update.
+  at:
+  - 833
+  - 83
+  to:
+  - 696
+  - 172
+  width: 200
+  kind: speech

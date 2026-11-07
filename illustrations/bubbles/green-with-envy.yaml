@@ -1,0 +1,20 @@
+image: outputs/green-with-envy/seed_1.png
+out: outputs/lexicard/green-with-envy.png
+bubbles:
+- text: Look at my new car!
+  at:
+  - 429
+  - 167
+  to:
+  - 586
+  - 260
+  width: 200
+  kind: speech
+- text: 'Green with envy: jealous of what they have'
+  at:
+  - 791
+  - 134
+  to:
+  - 244
+  - 200
+  width: 300

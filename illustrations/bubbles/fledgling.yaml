@@ -1,0 +1,20 @@
+image: outputs/fledgling/seed_1.png
+out: outputs/lexicard/fledgling.png
+bubbles:
+- text: Just try, you're learning to fly!
+  at:
+  - 267
+  - 95
+  to:
+  - 184
+  - 232
+  width: 300
+  kind: speech
+- text: 'Fledgling: a young beginner still learning'
+  at:
+  - 773
+  - 194
+  to:
+  - 788
+  - 356
+  width: 300

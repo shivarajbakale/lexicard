@@ -1,0 +1,28 @@
+image: outputs/throw-to-the-wolves/seed_1.png
+out: outputs/lexicard/throw-to-the-wolves.png
+bubbles:
+- text: Not my problem. I'm leaving!
+  at:
+  - 170
+  - 134
+  to:
+  - 288
+  - 192
+  width: 200
+- text: The manager protects himself
+  at:
+  - 536
+  - 134
+  to:
+  - 156
+  - 540
+  width: 200
+- text: 'Thrown to the wolves: sacrificed'
+  at:
+  - 847
+  - 264
+  to:
+  - 500
+  - 248
+  width: 259
+  size: 38

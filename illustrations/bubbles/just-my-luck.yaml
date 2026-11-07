@@ -1,0 +1,20 @@
+image: outputs/just-my-luck/seed_1.png
+out: outputs/lexicard/just-my-luck.png
+bubbles:
+- text: Just my luck!
+  at:
+  - 161
+  - 347
+  to:
+  - 136
+  - 188
+  width: 150
+  kind: speech
+- text: Everything goes wrong at the worst moment.
+  at:
+  - 726
+  - 146
+  to:
+  - 136
+  - 188
+  width: 300

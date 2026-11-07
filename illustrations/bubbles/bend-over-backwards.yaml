@@ -1,0 +1,30 @@
+image: outputs/bend-over-backwards/seed_1.png
+out: outputs/lexicard/bend-over-backwards.png
+bubbles:
+- text: Anything for you, sir!
+  at:
+  - 854
+  - 83
+  to:
+  - 664
+  - 92
+  width: 200
+  kind: speech
+- text: He bends so far, just to serve
+  at:
+  - 866
+  - 646
+  to:
+  - 592
+  - 168
+  width: 163
+  size: 36
+- text: 'Bend over backwards: try extremely hard to help'
+  at:
+  - 196
+  - 148
+  to:
+  - 396
+  - 180
+  width: 259
+  size: 38

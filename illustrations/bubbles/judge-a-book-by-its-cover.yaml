@@ -1,0 +1,30 @@
+image: outputs/judge-a-book-by-its-cover/panels_seed_1.png
+out: outputs/lexicard/judge-a-book-by-its-cover.png
+bubbles:
+- text: This one looks boring
+  at:
+  - 174
+  - 155
+  to:
+  - 258
+  - 300
+  width: 200
+  kind: speech
+- text: The fancy cover tempts her
+  at:
+  - 582
+  - 118
+  to:
+  - 766
+  - 300
+  width: 163
+  size: 36
+- text: 'Judge a book by its cover: go by looks'
+  at:
+  - 486
+  - 636
+  to:
+  - 766
+  - 300
+  width: 259
+  size: 38

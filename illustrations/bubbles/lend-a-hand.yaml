@@ -1,0 +1,20 @@
+image: outputs/lend-a-hand/seed_1.png
+out: outputs/lexicard/lend-a-hand.png
+bubbles:
+- text: This is so heavy!
+  at:
+  - 199
+  - 104
+  to:
+  - 284
+  - 236
+  width: 200
+- text: Let me lend a hand.
+  at:
+  - 758
+  - 83
+  to:
+  - 832
+  - 224
+  width: 200
+  kind: speech

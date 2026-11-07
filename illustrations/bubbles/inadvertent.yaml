@@ -1,0 +1,20 @@
+image: outputs/inadvertent/seed_2.png
+out: outputs/lexicard/inadvertent.png
+bubbles:
+- text: Oops, I didn't see that!
+  at:
+  - 189
+  - 106
+  to:
+  - 328
+  - 188
+  width: 200
+  kind: speech
+- text: 'Inadvertent: by accident, not on purpose'
+  at:
+  - 763
+  - 134
+  to:
+  - 540
+  - 388
+  width: 300

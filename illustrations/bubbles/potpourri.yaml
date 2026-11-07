@@ -1,0 +1,22 @@
+image: outputs/potpourri/seed_1.png
+out: outputs/lexicard/potpourri.png
+bubbles:
+- text: Petals, cones, shells, all mixed together!
+  at:
+  - 142
+  - 94
+  to:
+  - 192
+  - 168
+  width: 245
+  size: 36
+  kind: speech
+- text: 'Potpourri: a mixture of many different things'
+  at:
+  - 587
+  - 122
+  to:
+  - 840
+  - 208
+  width: 259
+  size: 38

@@ -1,0 +1,20 @@
+image: outputs/mendacious/seed_1.png
+out: outputs/lexicard/mendacious.png
+bubbles:
+- text: I never touched the cake.
+  at:
+  - 256
+  - 130
+  to:
+  - 288
+  - 284
+  width: 200
+  kind: speech
+- text: 'Mendacious: tells lies on purpose'
+  at:
+  - 819
+  - 104
+  to:
+  - 748
+  - 188
+  width: 300

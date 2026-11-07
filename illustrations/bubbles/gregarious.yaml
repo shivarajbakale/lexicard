@@ -1,0 +1,20 @@
+image: outputs/gregarious/seed_1.png
+out: outputs/lexicard/gregarious.png
+bubbles:
+- text: Come sit with us, everyone!
+  at:
+  - 294
+  - 106
+  to:
+  - 192
+  - 232
+  width: 200
+  kind: speech
+- text: 'Gregarious: loves being around people'
+  at:
+  - 645
+  - 152
+  to:
+  - 328
+  - 416
+  width: 300

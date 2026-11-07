@@ -1,0 +1,28 @@
+image: outputs/round-up/seed_1.png
+out: outputs/lexicard/round-up.png
+bubbles:
+- text: Cows are everywhere
+  at:
+  - 149
+  - 104
+  to:
+  - 244
+  - 228
+  width: 200
+- text: The rope pulls them together
+  at:
+  - 512
+  - 230
+  to:
+  - 512
+  - 512
+  width: 200
+- text: 'Round up: gather scattered things together'
+  at:
+  - 833
+  - 122
+  to:
+  - 244
+  - 228
+  width: 259
+  size: 38

@@ -1,0 +1,28 @@
+image: outputs/take-the-lead/seed_1.png
+out: outputs/lexicard/take-the-lead.png
+bubbles:
+- text: We are all running together
+  at:
+  - 165
+  - 170
+  to:
+  - 204
+  - 324
+  width: 200
+- text: One runner pulls ahead first
+  at:
+  - 523
+  - 146
+  to:
+  - 800
+  - 412
+  width: 200
+- text: 'Take the lead: go first, guide others'
+  at:
+  - 840
+  - 252
+  to:
+  - 740
+  - 292
+  width: 259
+  size: 38

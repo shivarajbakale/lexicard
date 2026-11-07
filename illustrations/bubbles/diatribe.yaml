@@ -1,0 +1,20 @@
+image: outputs/diatribe/seed_1.png
+out: outputs/lexicard/diatribe.png
+bubbles:
+- text: And another thing! And another!
+  at:
+  - 271
+  - 83
+  to:
+  - 428
+  - 136
+  width: 300
+  kind: speech
+- text: 'Diatribe: long, angry rant against something'
+  at:
+  - 774
+  - 134
+  to:
+  - 548
+  - 148
+  width: 300

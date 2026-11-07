@@ -1,0 +1,28 @@
+image: outputs/sort-out/seed_1.png
+out: outputs/lexicard/sort-out.png
+bubbles:
+- text: Cars here, animals there
+  at:
+  - 288
+  - 134
+  to:
+  - 488
+  - 136
+  width: 200
+- text: Everything has its place now!
+  at:
+  - 708
+  - 106
+  to:
+  - 488
+  - 136
+  width: 200
+  kind: speech
+- text: 'Sort out: put things in order'
+  at:
+  - 845
+  - 338
+  to:
+  - 440
+  - 548
+  width: 200

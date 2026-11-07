@@ -1,0 +1,29 @@
+image: outputs/fall-for/seed_1.png
+out: outputs/lexicard/fall-for.png
+bubbles:
+- text: Ha, you fell for it!
+  at:
+  - 599
+  - 131
+  to:
+  - 720
+  - 244
+  width: 200
+  kind: speech
+- text: Tricked by a prank
+  at:
+  - 230
+  - 104
+  to:
+  - 328
+  - 228
+  width: 200
+- text: The trick that fooled him
+  at:
+  - 872
+  - 178
+  to:
+  - 552
+  - 296
+  width: 163
+  size: 36

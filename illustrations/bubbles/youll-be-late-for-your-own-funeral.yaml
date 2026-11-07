@@ -1,0 +1,21 @@
+image: outputs/youll-be-late-for-your-own-funeral/seed_1.png
+out: outputs/lexicard/youll-be-late-for-your-own-funeral.png
+bubbles:
+- text: You'll be late for your own funeral!
+  at:
+  - 697
+  - 107
+  to:
+  - 316
+  - 104
+  width: 300
+  kind: speech
+- text: Way too slow, hurry up
+  at:
+  - 872
+  - 298
+  to:
+  - 472
+  - 40
+  width: 163
+  size: 36

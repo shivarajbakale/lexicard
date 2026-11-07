@@ -1,0 +1,28 @@
+image: outputs/cloud-nine/seed_1.png
+out: outputs/lexicard/cloud-nine.png
+bubbles:
+- text: He just got wonderful news
+  at:
+  - 267
+  - 134
+  to:
+  - 496
+  - 152
+  width: 200
+- text: I can't stop smiling!
+  at:
+  - 641
+  - 83
+  to:
+  - 496
+  - 152
+  width: 200
+  kind: speech
+- text: 'Cloud nine: extremely happy'
+  at:
+  - 842
+  - 302
+  to:
+  - 500
+  - 476
+  width: 200

@@ -1,0 +1,20 @@
+image: outputs/pedantic/seed_1.png
+out: outputs/lexicard/pedantic.png
+bubbles:
+- text: This slice is a millimeter too big!
+  at:
+  - 184
+  - 83
+  to:
+  - 312
+  - 124
+  width: 300
+  kind: speech
+- text: 'Pedantic: obsessed with tiny details'
+  at:
+  - 651
+  - 104
+  to:
+  - 312
+  - 124
+  width: 300

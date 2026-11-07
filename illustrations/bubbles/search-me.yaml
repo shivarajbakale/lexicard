@@ -1,0 +1,30 @@
+image: outputs/search-me/seed_1.png
+out: outputs/lexicard/search-me.png
+bubbles:
+- text: Who took the marker?
+  at:
+  - 140
+  - 83
+  to:
+  - 296
+  - 116
+  width: 200
+  kind: speech
+- text: Search me!
+  at:
+  - 639
+  - 107
+  to:
+  - 760
+  - 212
+  width: 150
+  kind: speech
+- text: He truly has no idea.
+  at:
+  - 872
+  - 177
+  to:
+  - 760
+  - 212
+  width: 163
+  size: 36

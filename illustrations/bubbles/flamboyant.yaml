@@ -1,0 +1,20 @@
+image: outputs/flamboyant/seed_1.png
+out: outputs/lexicard/flamboyant.png
+bubbles:
+- text: You really like being noticed.
+  at:
+  - 899
+  - 454
+  to:
+  - 710
+  - 424
+  width: 200
+  kind: speech
+- text: 'Flamboyant: bold, showy and dramatic'
+  at:
+  - 704
+  - 134
+  to:
+  - 320
+  - 112
+  width: 300

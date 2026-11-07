@@ -1,0 +1,20 @@
+image: outputs/frenzy/seed_1.png
+out: outputs/lexicard/frenzy.png
+bubbles:
+- text: Orders everywhere! Run, run, run!
+  at:
+  - 255
+  - 203
+  to:
+  - 164
+  - 340
+  width: 300
+  kind: speech
+- text: 'Frenzy: wild, frantic rush of activity'
+  at:
+  - 767
+  - 218
+  to:
+  - 828
+  - 488
+  width: 300

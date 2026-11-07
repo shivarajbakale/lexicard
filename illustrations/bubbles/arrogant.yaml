@@ -1,0 +1,20 @@
+image: outputs/arrogant/seed_1.png
+out: outputs/lexicard/arrogant.png
+bubbles:
+- text: I'm better than all of you.
+  at:
+  - 247
+  - 106
+  to:
+  - 332
+  - 236
+  width: 200
+  kind: speech
+- text: 'Arrogant: acts superior to others'
+  at:
+  - 694
+  - 104
+  to:
+  - 452
+  - 116
+  width: 300

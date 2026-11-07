@@ -1,0 +1,20 @@
+image: outputs/sedentary/seed_1.png
+out: outputs/lexicard/sedentary.png
+bubbles:
+- text: Come run with me!
+  at:
+  - 561
+  - 299
+  to:
+  - 692
+  - 394
+  width: 200
+  kind: speech
+- text: 'Sedentary: sitting a lot, moving little'
+  at:
+  - 397
+  - 104
+  to:
+  - 212
+  - 192
+  width: 300

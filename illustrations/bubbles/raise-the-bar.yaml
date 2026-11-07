@@ -1,0 +1,29 @@
+image: outputs/raise-the-bar/panels_seed_1.png
+out: outputs/lexicard/raise-the-bar.png
+bubbles:
+- text: The bar was low before
+  at:
+  - 174
+  - 128
+  to:
+  - 258
+  - 300
+  width: 200
+- text: Now the bar is much higher
+  at:
+  - 522
+  - 118
+  to:
+  - 766
+  - 300
+  width: 163
+  size: 36
+- text: 'Raise the bar: expect higher standards'
+  at:
+  - 850
+  - 122
+  to:
+  - 766
+  - 300
+  width: 259
+  size: 38

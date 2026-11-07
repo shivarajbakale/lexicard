@@ -1,0 +1,28 @@
+image: outputs/mad-as-a-hatter/seed_1.png
+out: outputs/lexicard/mad-as-a-hatter.png
+bubbles:
+- text: He's gone crazy!
+  at:
+  - 176
+  - 107
+  to:
+  - 328
+  - 160
+  width: 200
+  kind: speech
+- text: Tea time on my head!
+  at:
+  - 525
+  - 104
+  to:
+  - 328
+  - 160
+  width: 200
+- text: 'Mad as a hatter: wildly eccentric'
+  at:
+  - 822
+  - 236
+  to:
+  - 344
+  - 260
+  width: 300

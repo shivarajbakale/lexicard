@@ -1,0 +1,21 @@
+image: outputs/accost/seed_1.png
+out: outputs/lexicard/accost.png
+bubbles:
+- text: 'Accost: walk up and speak to a stranger'
+  at:
+  - 193
+  - 96
+  to:
+  - 876
+  - 252
+  width: 259
+  size: 38
+- text: Excuse me, miss, got a minute?
+  at:
+  - 860
+  - 418
+  to:
+  - 876
+  - 252
+  width: 200
+  kind: speech

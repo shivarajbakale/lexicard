@@ -1,0 +1,21 @@
+image: outputs/jettison/seed_1.png
+out: outputs/lexicard/jettison.png
+bubbles:
+- text: Too heavy, throw it out!
+  at:
+  - 641
+  - 75
+  to:
+  - 636
+  - 416
+  width: 163
+  size: 36
+  kind: speech
+- text: 'Jettison: throw away to lighten up'
+  at:
+  - 768
+  - 260
+  to:
+  - 756
+  - 424
+  width: 300

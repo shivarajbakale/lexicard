@@ -1,0 +1,30 @@
+image: outputs/trim-the-fat/seed_1.png
+out: outputs/lexicard/trim-the-fat.png
+bubbles:
+- text: Cut away everything we don't need
+  at:
+  - 496
+  - 118
+  to:
+  - 824
+  - 212
+  width: 300
+  kind: speech
+- text: The knife removes the fat
+  at:
+  - 145
+  - 166
+  to:
+  - 392
+  - 572
+  width: 163
+  size: 36
+- text: 'Trim the fat: remove costly, useless extras'
+  at:
+  - 859
+  - 158
+  to:
+  - 288
+  - 240
+  width: 259
+  size: 38

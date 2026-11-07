@@ -1,0 +1,20 @@
+image: outputs/diminutive/seed_1.png
+out: outputs/lexicard/diminutive.png
+bubbles:
+- text: What a tiny kitten!
+  at:
+  - 250
+  - 95
+  to:
+  - 396
+  - 156
+  width: 200
+  kind: speech
+- text: 'Diminutive: very small in size'
+  at:
+  - 699
+  - 134
+  to:
+  - 396
+  - 156
+  width: 200

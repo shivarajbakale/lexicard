@@ -1,0 +1,20 @@
+image: outputs/recalcitrant/seed_1.png
+out: outputs/lexicard/recalcitrant.png
+bubbles:
+- text: Please, just take one step!
+  at:
+  - 371
+  - 106
+  to:
+  - 224
+  - 180
+  width: 200
+  kind: speech
+- text: 'Recalcitrant: stubbornly refuses to obey'
+  at:
+  - 768
+  - 134
+  to:
+  - 700
+  - 284
+  width: 300

@@ -1,0 +1,29 @@
+image: outputs/when-the-chips-are-down/seed_1.png
+out: outputs/lexicard/when-the-chips-are-down.png
+bubbles:
+- text: I've lost everything.
+  at:
+  - 178
+  - 191
+  to:
+  - 336
+  - 236
+  width: 200
+  kind: speech
+- text: When the chips are down, I'm here.
+  at:
+  - 526
+  - 83
+  to:
+  - 676
+  - 152
+  width: 300
+  kind: speech
+- text: Help in a hard time
+  at:
+  - 874
+  - 140
+  to:
+  - 496
+  - 664
+  width: 200

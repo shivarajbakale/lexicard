@@ -1,0 +1,29 @@
+image: outputs/who-knew/seed_1.png
+out: outputs/lexicard/who-knew.png
+bubbles:
+- text: It's actually tasty!
+  at:
+  - 175
+  - 83
+  to:
+  - 364
+  - 92
+  width: 200
+  kind: speech
+- text: Who knew?
+  at:
+  - 570
+  - 251
+  to:
+  - 484
+  - 120
+  width: 150
+  kind: speech
+- text: A pleasant surprise
+  at:
+  - 819
+  - 236
+  to:
+  - 504
+  - 480
+  width: 200

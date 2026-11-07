@@ -1,0 +1,20 @@
+image: outputs/turn-down/seed_1.png
+out: outputs/lexicard/turn-down.png
+bubbles:
+- text: Will you marry me?
+  at:
+  - 556
+  - 104
+  to:
+  - 192
+  - 176
+  width: 200
+- text: I must turn it down.
+  at:
+  - 857
+  - 143
+  to:
+  - 696
+  - 208
+  width: 200
+  kind: speech

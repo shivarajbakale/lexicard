@@ -1,0 +1,27 @@
+image: outputs/in-droves/seed_1.png
+out: outputs/lexicard/in-droves.png
+bubbles:
+- text: Everyone is coming!
+  at:
+  - 512
+  - 248
+  to:
+  - 672
+  - 460
+  width: 200
+- text: The truck attracts the crowd
+  at:
+  - 844
+  - 218
+  to:
+  - 672
+  - 460
+  width: 200
+- text: 'In droves: in large numbers'
+  at:
+  - 209
+  - 134
+  to:
+  - 672
+  - 460
+  width: 200

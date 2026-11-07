@@ -1,0 +1,21 @@
+image: outputs/ascend/seed_1.png
+out: outputs/lexicard/ascend.png
+bubbles:
+- text: I ascend one rung at a time!
+  at:
+  - 146
+  - 214
+  to:
+  - 286
+  - 314
+  width: 200
+  kind: speech
+- text: How far up are you going?
+  at:
+  - 791
+  - 262
+  to:
+  - 726
+  - 494
+  width: 200
+  kind: speech

@@ -1,0 +1,20 @@
+image: outputs/constrict/seed_1.png
+out: outputs/lexicard/constrict.png
+bubbles:
+- text: Pulling it tighter and tighter!
+  at:
+  - 174
+  - 83
+  to:
+  - 316
+  - 112
+  width: 300
+  kind: speech
+- text: 'Constrict: make narrower or tighter'
+  at:
+  - 697
+  - 104
+  to:
+  - 436
+  - 156
+  width: 300

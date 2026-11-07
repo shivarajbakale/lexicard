@@ -1,0 +1,21 @@
+image: outputs/hammer-and-tongs/seed_1.png
+out: outputs/lexicard/hammer-and-tongs.png
+bubbles:
+- text: Going at it hammer and tongs!
+  at:
+  - 893
+  - 94
+  to:
+  - 692
+  - 104
+  width: 163
+  size: 36
+  kind: speech
+- text: 'Hammer and tongs: with great force and energy'
+  at:
+  - 309
+  - 170
+  to:
+  - 468
+  - 500
+  width: 300

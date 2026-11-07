@@ -1,0 +1,28 @@
+image: outputs/take-its-toll/seed_1.png
+out: outputs/lexicard/take-its-toll.png
+bubbles:
+- text: Another long night
+  at:
+  - 165
+  - 188
+  to:
+  - 220
+  - 340
+  width: 200
+- text: Coffee can't fix it now
+  at:
+  - 515
+  - 116
+  to:
+  - 440
+  - 396
+  width: 200
+- text: The long hours take their toll
+  at:
+  - 811
+  - 262
+  to:
+  - 220
+  - 340
+  width: 200
+  kind: speech

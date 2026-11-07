@@ -1,0 +1,21 @@
+image: outputs/believe-it-or-not/seed_1.png
+out: outputs/lexicard/believe-it-or-not.png
+bubbles:
+- text: Believe it or not, I caught it!
+  at:
+  - 501
+  - 83
+  to:
+  - 716
+  - 60
+  width: 300
+  kind: speech
+- text: 'Believe it or not: surprising but true'
+  at:
+  - 187
+  - 192
+  to:
+  - 716
+  - 60
+  width: 259
+  size: 38

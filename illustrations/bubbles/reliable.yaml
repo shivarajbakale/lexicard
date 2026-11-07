@@ -1,0 +1,22 @@
+image: outputs/reliable/seed_1.png
+out: outputs/lexicard/reliable.png
+bubbles:
+- text: You always come, rain or shine.
+  at:
+  - 513
+  - 75
+  to:
+  - 680
+  - 100
+  width: 245
+  size: 36
+  kind: speech
+- text: 'Reliable: you can count on him'
+  at:
+  - 159
+  - 122
+  to:
+  - 320
+  - 104
+  width: 172
+  size: 38

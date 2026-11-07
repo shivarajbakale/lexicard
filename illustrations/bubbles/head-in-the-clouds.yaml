@@ -1,0 +1,21 @@
+image: outputs/head-in-the-clouds/seed_1.png
+out: outputs/lexicard/head-in-the-clouds.png
+bubbles:
+- text: Your head's in the clouds!
+  at:
+  - 773
+  - 83
+  to:
+  - 690
+  - 216
+  width: 200
+  kind: speech
+- text: 'Head in the clouds: unrealistic, not paying attention'
+  at:
+  - 820
+  - 302
+  to:
+  - 400
+  - 172
+  width: 259
+  size: 38

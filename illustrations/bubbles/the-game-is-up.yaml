@@ -1,0 +1,21 @@
+image: outputs/the-game-is-up/seed_1.png
+out: outputs/lexicard/the-game-is-up.png
+bubbles:
+- text: The game is up!
+  at:
+  - 532
+  - 215
+  to:
+  - 700
+  - 212
+  width: 200
+  kind: speech
+- text: 'The game is up: you are caught and it is over'
+  at:
+  - 202
+  - 146
+  to:
+  - 200
+  - 540
+  width: 259
+  size: 38

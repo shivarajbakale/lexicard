@@ -1,0 +1,20 @@
+image: outputs/nuts-and-bolts/seed_1.png
+out: outputs/lexicard/nuts-and-bolts.png
+bubbles:
+- text: How does it really work?
+  at:
+  - 173
+  - 83
+  to:
+  - 436
+  - 156
+  width: 200
+  kind: speech
+- text: 'Nuts and bolts: the basic practical details'
+  at:
+  - 692
+  - 134
+  to:
+  - 316
+  - 112
+  width: 300

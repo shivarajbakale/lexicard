@@ -1,0 +1,29 @@
+image: outputs/wild-goose-chase/seed_1.png
+out: outputs/lexicard/wild-goose-chase.png
+bubbles:
+- text: Where are you running?
+  at:
+  - 553
+  - 83
+  to:
+  - 840
+  - 56
+  width: 200
+  kind: speech
+- text: The net can't reach the goose
+  at:
+  - 260
+  - 170
+  to:
+  - 620
+  - 328
+  width: 200
+- text: 'Wild-goose chase: a pointless search'
+  at:
+  - 577
+  - 540
+  to:
+  - 704
+  - 116
+  width: 259
+  size: 38

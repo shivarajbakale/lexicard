@@ -1,0 +1,20 @@
+image: outputs/the-oldest-trick-in-the-book/seed_1.png
+out: outputs/lexicard/the-oldest-trick-in-the-book.png
+bubbles:
+- text: Oh, the oldest trick in the book!
+  at:
+  - 259
+  - 119
+  to:
+  - 280
+  - 284
+  width: 300
+  kind: speech
+- text: 'The oldest trick in the book: a trick everyone knows'
+  at:
+  - 767
+  - 194
+  to:
+  - 412
+  - 604
+  width: 300

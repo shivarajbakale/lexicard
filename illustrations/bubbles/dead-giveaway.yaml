@@ -1,0 +1,30 @@
+image: outputs/dead-giveaway/seed_1.png
+out: outputs/lexicard/dead-giveaway.png
+bubbles:
+- text: I didn't eat any!
+  at:
+  - 182
+  - 179
+  to:
+  - 340
+  - 236
+  width: 200
+  kind: speech
+- text: That's a dead giveaway.
+  at:
+  - 500
+  - 106
+  to:
+  - 796
+  - 208
+  width: 200
+  kind: speech
+- text: The clue that reveals the truth
+  at:
+  - 852
+  - 93
+  to:
+  - 228
+  - 476
+  width: 245
+  size: 36

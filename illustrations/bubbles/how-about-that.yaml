@@ -1,0 +1,29 @@
+image: outputs/how-about-that/seed_1.png
+out: outputs/lexicard/how-about-that.png
+bubbles:
+- text: How about that!
+  at:
+  - 163
+  - 83
+  to:
+  - 308
+  - 156
+  width: 200
+  kind: speech
+- text: Pleasantly surprised
+  at:
+  - 504
+  - 104
+  to:
+  - 308
+  - 156
+  width: 200
+- text: Nothing but net!
+  at:
+  - 873
+  - 371
+  to:
+  - 848
+  - 48
+  width: 200
+  kind: speech

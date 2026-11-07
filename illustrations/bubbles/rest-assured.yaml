@@ -1,0 +1,20 @@
+image: outputs/rest-assured/seed_1.png
+out: outputs/lexicard/rest-assured.png
+bubbles:
+- text: Rest assured, you'll be fine.
+  at:
+  - 143
+  - 106
+  to:
+  - 328
+  - 92
+  width: 200
+  kind: speech
+- text: That helps, thank you.
+  at:
+  - 861
+  - 104
+  to:
+  - 752
+  - 212
+  width: 200

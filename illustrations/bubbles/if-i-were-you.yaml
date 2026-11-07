@@ -1,0 +1,20 @@
+image: outputs/if-i-were-you/seed_2.png
+out: outputs/lexicard/if-i-were-you.png
+bubbles:
+- text: If I were you, I'd leave it.
+  at:
+  - 143
+  - 106
+  to:
+  - 232
+  - 180
+  width: 200
+  kind: speech
+- text: 'If I were you: friendly advice'
+  at:
+  - 623
+  - 134
+  to:
+  - 352
+  - 108
+  width: 200

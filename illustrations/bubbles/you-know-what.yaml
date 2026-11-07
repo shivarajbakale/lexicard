@@ -1,0 +1,30 @@
+image: outputs/you-know-what/seed_1.png
+out: outputs/lexicard/you-know-what.png
+bubbles:
+- text: You know what? I'll take this one.
+  at:
+  - 199
+  - 83
+  to:
+  - 308
+  - 128
+  width: 300
+  kind: speech
+- text: 'You know what: introduces a new thought or change'
+  at:
+  - 602
+  - 122
+  to:
+  - 308
+  - 128
+  width: 259
+  size: 38
+- text: Nods politely
+  at:
+  - 909
+  - 93
+  to:
+  - 800
+  - 196
+  width: 122
+  size: 36

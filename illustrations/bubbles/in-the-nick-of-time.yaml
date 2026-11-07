@@ -1,0 +1,20 @@
+image: outputs/in-the-nick-of-time/seed_1.png
+out: outputs/lexicard/in-the-nick-of-time.png
+bubbles:
+- text: Oh my goodness, careful!
+  at:
+  - 297
+  - 286
+  to:
+  - 864
+  - 228
+  width: 200
+  kind: speech
+- text: 'In the nick of time: just barely in time'
+  at:
+  - 490
+  - 104
+  to:
+  - 744
+  - 116
+  width: 300

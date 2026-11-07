@@ -1,0 +1,30 @@
+image: outputs/no-big-deal/seed_1.png
+out: outputs/lexicard/no-big-deal.png
+bubbles:
+- text: I'm so sorry!
+  at:
+  - 174
+  - 215
+  to:
+  - 266
+  - 344
+  width: 150
+  kind: speech
+- text: No big deal.
+  at:
+  - 442
+  - 83
+  to:
+  - 636
+  - 124
+  width: 150
+  kind: speech
+- text: It's not important.
+  at:
+  - 885
+  - 93
+  to:
+  - 752
+  - 124
+  width: 163
+  size: 36

@@ -1,0 +1,29 @@
+image: outputs/youve-got-to-be-kidding-me/seed_1.png
+out: outputs/lexicard/youve-got-to-be-kidding-me.png
+bubbles:
+- text: The tire is flat again.
+  at:
+  - 318
+  - 95
+  to:
+  - 388
+  - 240
+  width: 200
+  kind: speech
+- text: You've got to be kidding me!
+  at:
+  - 549
+  - 214
+  to:
+  - 148
+  - 244
+  width: 200
+  kind: speech
+- text: Frustrated disbelief
+  at:
+  - 845
+  - 272
+  to:
+  - 536
+  - 492
+  width: 200

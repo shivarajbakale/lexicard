@@ -1,0 +1,30 @@
+image: outputs/not-to-be-outdone/seed_1.png
+out: outputs/lexicard/not-to-be-outdone.png
+bubbles:
+- text: Look at my cupcake!
+  at:
+  - 130
+  - 165
+  to:
+  - 264
+  - 260
+  width: 163
+  size: 36
+- text: Not to be outdone!
+  at:
+  - 827
+  - 83
+  to:
+  - 736
+  - 216
+  width: 200
+  kind: speech
+- text: 'Not to be outdone: matching with something even bigger'
+  at:
+  - 478
+  - 148
+  to:
+  - 604
+  - 404
+  width: 259
+  size: 38

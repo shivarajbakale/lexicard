@@ -1,0 +1,20 @@
+image: outputs/game-over/seed_1.png
+out: outputs/lexicard/game-over.png
+bubbles:
+- text: Game over!
+  at:
+  - 277
+  - 83
+  to:
+  - 116
+  - 140
+  width: 150
+  kind: speech
+- text: The match is decided, no hope left
+  at:
+  - 721
+  - 164
+  to:
+  - 596
+  - 268
+  width: 300

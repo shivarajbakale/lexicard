@@ -1,0 +1,21 @@
+image: outputs/complacent/seed_1.png
+out: outputs/lexicard/complacent.png
+bubbles:
+- text: Everything is fine, no worries!
+  at:
+  - 249
+  - 131
+  to:
+  - 268
+  - 288
+  width: 300
+  kind: speech
+- text: 'Complacent: too satisfied to notice problems'
+  at:
+  - 825
+  - 122
+  to:
+  - 712
+  - 200
+  width: 259
+  size: 38

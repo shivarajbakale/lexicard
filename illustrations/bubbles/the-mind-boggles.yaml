@@ -1,0 +1,21 @@
+image: outputs/the-mind-boggles/seed_1.png
+out: outputs/lexicard/the-mind-boggles.png
+bubbles:
+- text: The mind boggles!
+  at:
+  - 286
+  - 95
+  to:
+  - 124
+  - 120
+  width: 200
+  kind: speech
+- text: 'The mind boggles: too strange or complicated to imagine'
+  at:
+  - 605
+  - 148
+  to:
+  - 508
+  - 432
+  width: 259
+  size: 38

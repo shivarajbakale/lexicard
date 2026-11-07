@@ -1,0 +1,20 @@
+image: outputs/if-these-walls-could-talk/seed_2.png
+out: outputs/lexicard/if-these-walls-could-talk.png
+bubbles:
+- text: So much happened in this room.
+  at:
+  - 235
+  - 118
+  to:
+  - 372
+  - 200
+  width: 200
+  kind: speech
+- text: 'If these walls could talk: they''d tell many stories'
+  at:
+  - 643
+  - 134
+  to:
+  - 272
+  - 492
+  width: 300

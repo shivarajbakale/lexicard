@@ -1,0 +1,28 @@
+image: outputs/full-blast/seed_1.png
+out: outputs/lexicard/full-blast.png
+bubbles:
+- text: Turn it up!
+  at:
+  - 491
+  - 104
+  to:
+  - 656
+  - 104
+  width: 150
+- text: The hat flew off
+  at:
+  - 210
+  - 164
+  to:
+  - 312
+  - 324
+  width: 200
+- text: 'Full blast: maximum volume and power'
+  at:
+  - 827
+  - 96
+  to:
+  - 656
+  - 104
+  width: 259
+  size: 38

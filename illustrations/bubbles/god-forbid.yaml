@@ -1,0 +1,20 @@
+image: outputs/god-forbid/seed_1.png
+out: outputs/lexicard/god-forbid.png
+bubbles:
+- text: God forbid he falls!
+  at:
+  - 138
+  - 83
+  to:
+  - 260
+  - 188
+  width: 200
+  kind: speech
+- text: Hoping nothing bad happens
+  at:
+  - 637
+  - 134
+  to:
+  - 380
+  - 132
+  width: 200

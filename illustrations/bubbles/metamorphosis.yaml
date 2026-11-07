@@ -1,0 +1,21 @@
+image: outputs/metamorphosis/panels_seed_1.png
+out: outputs/lexicard/metamorphosis.png
+bubbles:
+- text: Is it asleep?
+  at:
+  - 254
+  - 143
+  to:
+  - 258
+  - 300
+  width: 150
+  kind: speech
+- text: 'Metamorphosis: a complete change of form'
+  at:
+  - 773
+  - 122
+  to:
+  - 766
+  - 300
+  width: 259
+  size: 38

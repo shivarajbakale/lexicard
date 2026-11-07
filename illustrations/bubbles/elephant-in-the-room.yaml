@@ -1,0 +1,20 @@
+image: outputs/elephant-in-the-room/seed_1.png
+out: outputs/lexicard/elephant-in-the-room.png
+bubbles:
+- text: More tea, anyone?
+  at:
+  - 877
+  - 83
+  to:
+  - 172
+  - 336
+  width: 200
+  kind: speech
+- text: 'Elephant in the room: obvious issue everyone avoids'
+  at:
+  - 278
+  - 170
+  to:
+  - 296
+  - 336
+  width: 300

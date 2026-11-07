@@ -1,0 +1,21 @@
+image: outputs/read-the-room/seed_1.png
+out: outputs/lexicard/read-the-room.png
+bubbles:
+- text: So a horse walks into a bar...
+  at:
+  - 260
+  - 106
+  to:
+  - 272
+  - 272
+  width: 200
+  kind: speech
+- text: Read the room!
+  at:
+  - 774
+  - 167
+  to:
+  - 708
+  - 316
+  width: 150
+  kind: speech

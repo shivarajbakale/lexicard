@@ -1,0 +1,30 @@
+image: outputs/cut-a-deal/seed_1.png
+out: outputs/lexicard/cut-a-deal.png
+bubbles:
+- text: Fine, I'll do that.
+  at:
+  - 144
+  - 83
+  to:
+  - 304
+  - 116
+  width: 200
+  kind: speech
+- text: Deal! We have an agreement.
+  at:
+  - 586
+  - 106
+  to:
+  - 840
+  - 200
+  width: 200
+  kind: speech
+- text: Both sides gave something
+  at:
+  - 520
+  - 382
+  to:
+  - 476
+  - 664
+  width: 163
+  size: 36

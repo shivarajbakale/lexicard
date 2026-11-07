@@ -1,0 +1,21 @@
+image: outputs/flippant/seed_1.png
+out: outputs/lexicard/flippant.png
+bubbles:
+- text: 'Flippant: not serious about serious things'
+  at:
+  - 451
+  - 122
+  to:
+  - 252
+  - 196
+  width: 259
+  size: 38
+- text: Meh, it is no big deal.
+  at:
+  - 769
+  - 83
+  to:
+  - 824
+  - 228
+  width: 200
+  kind: speech

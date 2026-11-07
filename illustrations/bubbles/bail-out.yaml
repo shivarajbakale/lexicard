@@ -1,0 +1,28 @@
+image: outputs/bail-out/seed_1.png
+out: outputs/lexicard/bail-out.png
+bubbles:
+- text: The engine is on fire
+  at:
+  - 814
+  - 152
+  to:
+  - 660
+  - 328
+  width: 200
+- text: My parachute opens
+  at:
+  - 154
+  - 134
+  to:
+  - 444
+  - 152
+  width: 200
+- text: Time to bail out!
+  at:
+  - 857
+  - 647
+  to:
+  - 660
+  - 328
+  width: 200
+  kind: speech

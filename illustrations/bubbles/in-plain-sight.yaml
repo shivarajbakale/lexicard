@@ -1,0 +1,28 @@
+image: outputs/in-plain-sight/seed_1.png
+out: outputs/lexicard/in-plain-sight.png
+bubbles:
+- text: Where could that key be?
+  at:
+  - 161
+  - 104
+  to:
+  - 324
+  - 96
+  width: 200
+- text: It's right there!
+  at:
+  - 573
+  - 83
+  to:
+  - 444
+  - 184
+  width: 200
+  kind: speech
+- text: 'In plain sight: visible but overlooked'
+  at:
+  - 834
+  - 242
+  to:
+  - 552
+  - 496
+  width: 300

@@ -1,0 +1,21 @@
+image: outputs/fruitless/seed_1.png
+out: outputs/lexicard/fruitless.png
+bubbles:
+- text: 'Fruitless: all the effort, no result'
+  at:
+  - 562
+  - 104
+  to:
+  - 184
+  - 220
+  width: 300
+- text: Still nothing after all day?
+  at:
+  - 893
+  - 94
+  to:
+  - 840
+  - 196
+  width: 163
+  size: 36
+  kind: speech

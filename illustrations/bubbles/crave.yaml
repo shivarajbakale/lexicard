@@ -1,0 +1,21 @@
+image: outputs/crave/seed_1.png
+out: outputs/lexicard/crave.png
+bubbles:
+- text: I need that cupcake right now!
+  at:
+  - 256
+  - 226
+  to:
+  - 266
+  - 390
+  width: 200
+  kind: speech
+- text: 'Crave: a strong urge for something'
+  at:
+  - 522
+  - 96
+  to:
+  - 480
+  - 440
+  width: 259
+  size: 38

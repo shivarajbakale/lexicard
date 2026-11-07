@@ -1,0 +1,20 @@
+image: outputs/lucrative/seed_1.png
+out: outputs/lexicard/lucrative.png
+bubbles:
+- text: 'Lucrative: earns a lot of money'
+  at:
+  - 214
+  - 104
+  to:
+  - 284
+  - 248
+  width: 300
+- text: Business is booming, huh?
+  at:
+  - 862
+  - 106
+  to:
+  - 756
+  - 220
+  width: 200
+  kind: speech

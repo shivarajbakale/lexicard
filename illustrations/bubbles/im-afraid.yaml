@@ -1,0 +1,28 @@
+image: outputs/im-afraid/seed_1.png
+out: outputs/lexicard/im-afraid.png
+bubbles:
+- text: I'm afraid we're sold out.
+  at:
+  - 136
+  - 118
+  to:
+  - 272
+  - 200
+  width: 200
+  kind: speech
+- text: Delivering bad news politely
+  at:
+  - 499
+  - 158
+  to:
+  - 272
+  - 200
+  width: 200
+- text: The customer is disappointed
+  at:
+  - 830
+  - 206
+  to:
+  - 656
+  - 304
+  width: 200

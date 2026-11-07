@@ -1,0 +1,19 @@
+image: outputs/live-rent-free-in-someones-head/seed_1.png
+out: outputs/lexicard/live-rent-free-in-someones-head.png
+bubbles:
+- text: I can't stop thinking about it
+  at:
+  - 166
+  - 134
+  to:
+  - 324
+  - 148
+  width: 200
+- text: 'Live rent-free in your head: can''t forget'
+  at:
+  - 812
+  - 314
+  to:
+  - 324
+  - 148
+  width: 300

@@ -1,0 +1,21 @@
+image: outputs/fastidious/seed_1.png
+out: outputs/lexicard/fastidious.png
+bubbles:
+- text: It looks fine already!
+  at:
+  - 703
+  - 119
+  to:
+  - 820
+  - 232
+  width: 200
+  kind: speech
+- text: 'Fastidious: very careful about every tiny detail'
+  at:
+  - 197
+  - 122
+  to:
+  - 312
+  - 128
+  width: 259
+  size: 38

@@ -1,0 +1,21 @@
+image: outputs/read-my-lips/seed_1.png
+out: outputs/lexicard/read-my-lips.png
+bubbles:
+- text: 'Read my lips: watch my mouth to understand'
+  at:
+  - 203
+  - 122
+  to:
+  - 308
+  - 164
+  width: 259
+  size: 38
+- text: Too loud to hear
+  at:
+  - 885
+  - 93
+  to:
+  - 720
+  - 128
+  width: 163
+  size: 36

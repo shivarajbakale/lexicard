@@ -1,0 +1,21 @@
+image: outputs/enunciate/seed_1.png
+out: outputs/lexicard/enunciate.png
+bubbles:
+- text: Ba-na-na. Say every part clearly!
+  at:
+  - 581
+  - 83
+  to:
+  - 448
+  - 168
+  width: 300
+  kind: speech
+- text: 'Enunciate: speak each sound clearly and distinctly'
+  at:
+  - 827
+  - 254
+  to:
+  - 448
+  - 168
+  width: 259
+  size: 38

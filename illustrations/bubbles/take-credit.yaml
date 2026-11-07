@@ -1,0 +1,19 @@
+image: outputs/take-credit/seed_1.png
+out: outputs/lexicard/take-credit.png
+bubbles:
+- text: I did all the work
+  at:
+  - 156
+  - 584
+  to:
+  - 312
+  - 64
+  width: 200
+- text: 'Take credit: claim praise for something'
+  at:
+  - 580
+  - 134
+  to:
+  - 192
+  - 60
+  width: 300

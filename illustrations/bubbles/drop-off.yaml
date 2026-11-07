@@ -1,0 +1,20 @@
+image: outputs/drop-off/seed_1.png
+out: outputs/lexicard/drop-off.png
+bubbles:
+- text: Bye! See you later!
+  at:
+  - 259
+  - 191
+  to:
+  - 404
+  - 256
+  width: 200
+  kind: speech
+- text: 'Drop off: leave someone somewhere'
+  at:
+  - 792
+  - 236
+  to:
+  - 768
+  - 508
+  width: 300

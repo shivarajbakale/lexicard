@@ -1,0 +1,30 @@
+image: outputs/says-who/seed_1.png
+out: outputs/lexicard/says-who.png
+bubbles:
+- text: I'm the strongest in town!
+  at:
+  - 140
+  - 454
+  to:
+  - 192
+  - 200
+  width: 200
+  kind: speech
+- text: Says who?
+  at:
+  - 586
+  - 143
+  to:
+  - 832
+  - 260
+  width: 150
+  kind: speech
+- text: 'Says who: challenging his claim'
+  at:
+  - 842
+  - 122
+  to:
+  - 832
+  - 260
+  width: 259
+  size: 38

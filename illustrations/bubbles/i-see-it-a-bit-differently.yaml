@@ -1,0 +1,28 @@
+image: outputs/i-see-it-a-bit-differently/seed_1.png
+out: outputs/lexicard/i-see-it-a-bit-differently.png
+bubbles:
+- text: I loved this plan.
+  at:
+  - 512
+  - 104
+  to:
+  - 760
+  - 212
+  width: 200
+- text: I see it a bit differently.
+  at:
+  - 205
+  - 119
+  to:
+  - 308
+  - 244
+  width: 200
+  kind: speech
+- text: A polite disagreement
+  at:
+  - 850
+  - 116
+  to:
+  - 308
+  - 244
+  width: 200

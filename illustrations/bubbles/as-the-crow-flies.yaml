@@ -1,0 +1,21 @@
+image: outputs/as-the-crow-flies/seed_1.png
+out: outputs/lexicard/as-the-crow-flies.png
+bubbles:
+- text: The crow goes straight there
+  at:
+  - 153
+  - 118
+  to:
+  - 384
+  - 84
+  width: 163
+  size: 36
+- text: 'As the crow flies: straight-line distance'
+  at:
+  - 737
+  - 122
+  to:
+  - 384
+  - 84
+  width: 259
+  size: 38

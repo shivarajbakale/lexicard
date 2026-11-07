@@ -1,0 +1,28 @@
+image: outputs/smash-hit/seed_1.png
+out: outputs/lexicard/smash-hit.png
+bubbles:
+- text: We love this song!
+  at:
+  - 475
+  - 179
+  to:
+  - 864
+  - 360
+  width: 200
+  kind: speech
+- text: Everyone wants to hear us
+  at:
+  - 180
+  - 158
+  to:
+  - 204
+  - 320
+  width: 200
+- text: 'Smash hit: instantly very popular'
+  at:
+  - 804
+  - 218
+  to:
+  - 368
+  - 464
+  width: 300

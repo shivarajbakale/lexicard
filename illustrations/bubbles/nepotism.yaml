@@ -1,0 +1,21 @@
+image: outputs/nepotism/seed_1.png
+out: outputs/lexicard/nepotism.png
+bubbles:
+- text: Welcome to the job, my nephew!
+  at:
+  - 132
+  - 106
+  to:
+  - 244
+  - 172
+  width: 200
+  kind: speech
+- text: 'Nepotism: giving jobs to your own relatives'
+  at:
+  - 695
+  - 122
+  to:
+  - 844
+  - 196
+  width: 259
+  size: 38

@@ -1,0 +1,20 @@
+image: outputs/here-you-go/seed_1.png
+out: outputs/lexicard/here-you-go.png
+bubbles:
+- text: Here you go!
+  at:
+  - 111
+  - 83
+  to:
+  - 240
+  - 132
+  width: 150
+  kind: speech
+- text: 'Here you go: handing something to someone'
+  at:
+  - 580
+  - 134
+  to:
+  - 508
+  - 532
+  width: 300

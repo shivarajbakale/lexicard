@@ -1,0 +1,20 @@
+image: outputs/rapacious/seed_1.png
+out: outputs/lexicard/rapacious.png
+bubbles:
+- text: Could I have just one?
+  at:
+  - 766
+  - 287
+  to:
+  - 830
+  - 440
+  width: 200
+  kind: speech
+- text: 'Rapacious: grabs far more than his share'
+  at:
+  - 489
+  - 134
+  to:
+  - 264
+  - 184
+  width: 300

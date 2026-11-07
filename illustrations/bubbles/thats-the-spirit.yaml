@@ -1,0 +1,20 @@
+image: outputs/thats-the-spirit/seed_1.png
+out: outputs/lexicard/thats-the-spirit.png
+bubbles:
+- text: I'll try again!
+  at:
+  - 169
+  - 134
+  to:
+  - 316
+  - 196
+  width: 200
+- text: That's the spirit!
+  at:
+  - 522
+  - 167
+  to:
+  - 828
+  - 208
+  width: 200
+  kind: speech

@@ -1,0 +1,20 @@
+image: outputs/feel-free/seed_1.png
+out: outputs/lexicard/feel-free.png
+bubbles:
+- text: Feel free to help yourself.
+  at:
+  - 254
+  - 83
+  to:
+  - 248
+  - 248
+  width: 200
+  kind: speech
+- text: Thank you!
+  at:
+  - 765
+  - 104
+  to:
+  - 712
+  - 256
+  width: 150

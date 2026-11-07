@@ -1,0 +1,29 @@
+image: outputs/ballpark-figure/seed_1.png
+out: outputs/lexicard/ballpark-figure.png
+bubbles:
+- text: How many people are here?
+  at:
+  - 857
+  - 238
+  to:
+  - 996
+  - 316
+  width: 200
+  kind: speech
+- text: About a thousand, I guess.
+  at:
+  - 161
+  - 226
+  to:
+  - 16
+  - 300
+  width: 200
+  kind: speech
+- text: 'Ballpark figure: a rough guess, not exact'
+  at:
+  - 494
+  - 134
+  to:
+  - 16
+  - 300
+  width: 300

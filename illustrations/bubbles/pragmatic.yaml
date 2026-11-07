@@ -1,0 +1,20 @@
+image: outputs/pragmatic/seed_1.png
+out: outputs/lexicard/pragmatic.png
+bubbles:
+- text: First, let us design a perfect plan.
+  at:
+  - 527
+  - 83
+  to:
+  - 320
+  - 96
+  width: 300
+  kind: speech
+- text: 'Pragmatic: does what works'
+  at:
+  - 807
+  - 230
+  to:
+  - 512
+  - 488
+  width: 200

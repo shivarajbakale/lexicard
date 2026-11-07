@@ -1,0 +1,21 @@
+image: outputs/superficial/seed_1.png
+out: outputs/lexicard/superficial.png
+bubbles:
+- text: But the crack is still there!
+  at:
+  - 741
+  - 106
+  to:
+  - 504
+  - 76
+  width: 200
+  kind: speech
+- text: 'Superficial: fixes only the surface'
+  at:
+  - 170
+  - 96
+  to:
+  - 336
+  - 140
+  width: 259
+  size: 38

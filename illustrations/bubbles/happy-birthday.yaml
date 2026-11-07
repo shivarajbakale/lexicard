@@ -1,0 +1,20 @@
+image: outputs/happy-birthday/seed_1.png
+out: outputs/lexicard/happy-birthday.png
+bubbles:
+- text: Happy birthday!
+  at:
+  - 621
+  - 179
+  to:
+  - 780
+  - 200
+  width: 200
+  kind: speech
+- text: 'Happy birthday: good wishes on someone''s birthday'
+  at:
+  - 280
+  - 134
+  to:
+  - 448
+  - 636
+  width: 300

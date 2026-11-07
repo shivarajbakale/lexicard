@@ -1,0 +1,29 @@
+image: outputs/hit-the-nail-on-the-head/seed_1.png
+out: outputs/lexicard/hit-the-nail-on-the-head.png
+bubbles:
+- text: You found the exact problem!
+  at:
+  - 552
+  - 106
+  to:
+  - 780
+  - 240
+  width: 200
+  kind: speech
+- text: One perfect hit
+  at:
+  - 838
+  - 104
+  to:
+  - 552
+  - 532
+  width: 200
+- text: 'Hit the nail on the head: exactly right'
+  at:
+  - 187
+  - 96
+  to:
+  - 328
+  - 124
+  width: 259
+  size: 38

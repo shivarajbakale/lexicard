@@ -1,0 +1,29 @@
+image: outputs/on-the-radar/seed_1.png
+out: outputs/lexicard/on-the-radar.png
+bubbles:
+- text: What is that dot?
+  at:
+  - 168
+  - 167
+  to:
+  - 304
+  - 252
+  width: 200
+  kind: speech
+- text: The blip = something noticed
+  at:
+  - 454
+  - 134
+  to:
+  - 392
+  - 380
+  width: 200
+- text: 'On the radar: noticed or considered'
+  at:
+  - 859
+  - 122
+  to:
+  - 304
+  - 252
+  width: 259
+  size: 38

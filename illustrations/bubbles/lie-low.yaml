@@ -1,0 +1,28 @@
+image: outputs/lie-low/seed_1.png
+out: outputs/lexicard/lie-low.png
+bubbles:
+- text: Stay very still, stay quiet
+  at:
+  - 485
+  - 146
+  to:
+  - 692
+  - 144
+  width: 200
+- text: The bush hides him
+  at:
+  - 212
+  - 272
+  to:
+  - 384
+  - 512
+  width: 200
+- text: 'Lie low: stay out of sight'
+  at:
+  - 876
+  - 96
+  to:
+  - 692
+  - 144
+  width: 172
+  size: 38

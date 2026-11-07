@@ -1,0 +1,20 @@
+image: outputs/show-up/seed_1.png
+out: outputs/lexicard/show-up.png
+bubbles:
+- text: We have been waiting!
+  at:
+  - 251
+  - 140
+  to:
+  - 256
+  - 344
+  width: 200
+- text: Sorry, I'm here, I showed up!
+  at:
+  - 560
+  - 106
+  to:
+  - 686
+  - 194
+  width: 200
+  kind: speech

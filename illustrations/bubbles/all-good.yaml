@@ -1,0 +1,29 @@
+image: outputs/all-good/seed_1.png
+out: outputs/lexicard/all-good.png
+bubbles:
+- text: Oh no, did I break it?
+  at:
+  - 632
+  - 251
+  to:
+  - 690
+  - 492
+  width: 200
+  kind: speech
+- text: All good, no harm done!
+  at:
+  - 529
+  - 83
+  to:
+  - 370
+  - 212
+  width: 200
+  kind: speech
+- text: Everything is fine
+  at:
+  - 850
+  - 104
+  to:
+  - 328
+  - 132
+  width: 200

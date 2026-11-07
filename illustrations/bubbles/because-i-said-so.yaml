@@ -1,0 +1,21 @@
+image: outputs/because-i-said-so/seed_1.png
+out: outputs/lexicard/because-i-said-so.png
+bubbles:
+- text: Why do I have to eat it?
+  at:
+  - 337
+  - 154
+  to:
+  - 496
+  - 172
+  width: 200
+  kind: speech
+- text: Because I said so.
+  at:
+  - 901
+  - 83
+  to:
+  - 820
+  - 200
+  width: 200
+  kind: speech

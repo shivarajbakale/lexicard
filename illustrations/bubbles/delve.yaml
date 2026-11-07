@@ -1,0 +1,21 @@
+image: outputs/delve/seed_1.png
+out: outputs/lexicard/delve.png
+bubbles:
+- text: How deep are you going?
+  at:
+  - 413
+  - 83
+  to:
+  - 732
+  - 64
+  width: 200
+  kind: speech
+- text: 'Delve: dig deep to investigate'
+  at:
+  - 491
+  - 290
+  to:
+  - 612
+  - 48
+  width: 172
+  size: 38

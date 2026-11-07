@@ -1,0 +1,28 @@
+image: outputs/keep-a-low-profile/seed_1.png
+out: outputs/lexicard/keep-a-low-profile.png
+bubbles:
+- text: Do not let them notice me.
+  at:
+  - 178
+  - 206
+  to:
+  - 288
+  - 332
+  width: 200
+- text: The plant as a hiding spot
+  at:
+  - 513
+  - 164
+  to:
+  - 360
+  - 536
+  width: 200
+- text: 'Keep a low profile: avoid attention'
+  at:
+  - 839
+  - 252
+  to:
+  - 288
+  - 332
+  width: 259
+  size: 38

@@ -1,0 +1,20 @@
+image: outputs/interloper/seed_1.png
+out: outputs/lexicard/interloper.png
+bubbles:
+- text: Excuse me, who invited you?
+  at:
+  - 361
+  - 106
+  to:
+  - 236
+  - 208
+  width: 200
+  kind: speech
+- text: 'Interloper: enters without being invited'
+  at:
+  - 800
+  - 134
+  to:
+  - 684
+  - 264
+  width: 300

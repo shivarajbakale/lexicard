@@ -1,0 +1,21 @@
+image: outputs/dont-do-anything-i-wouldnt-do/seed_1.png
+out: outputs/lexicard/dont-do-anything-i-wouldnt-do.png
+bubbles:
+- text: Don't do anything I wouldn't do!
+  at:
+  - 479
+  - 83
+  to:
+  - 668
+  - 100
+  width: 300
+  kind: speech
+- text: 'A joking send-off: stay out of trouble.'
+  at:
+  - 188
+  - 216
+  to:
+  - 668
+  - 100
+  width: 259
+  size: 38

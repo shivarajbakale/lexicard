@@ -1,0 +1,20 @@
+image: outputs/desist/seed_1.png
+out: outputs/lexicard/desist.png
+bubbles:
+- text: 'Desist: stop doing it'
+  at:
+  - 252
+  - 116
+  to:
+  - 212
+  - 272
+  width: 200
+- text: Please stop bouncing that now.
+  at:
+  - 767
+  - 106
+  to:
+  - 772
+  - 260
+  width: 200
+  kind: speech

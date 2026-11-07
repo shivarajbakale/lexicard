@@ -1,0 +1,30 @@
+image: outputs/bridge-the-gap/seed_1.png
+out: outputs/lexicard/bridge-the-gap.png
+bubbles:
+- text: Can we ever meet in the middle?
+  at:
+  - 326
+  - 83
+  to:
+  - 196
+  - 180
+  width: 300
+  kind: speech
+- text: A new bridge joins both sides
+  at:
+  - 511
+  - 262
+  to:
+  - 520
+  - 476
+  width: 163
+  size: 36
+- text: 'Bridge the gap: connect two different sides'
+  at:
+  - 844
+  - 122
+  to:
+  - 780
+  - 180
+  width: 259
+  size: 38

@@ -1,0 +1,21 @@
+image: outputs/arms-length/seed_1.png
+out: outputs/lexicard/arms-length.png
+bubbles:
+- text: Why are you holding it like that?
+  at:
+  - 501
+  - 191
+  to:
+  - 736
+  - 356
+  width: 300
+  kind: speech
+- text: 'Arm''s length: keep it distant'
+  at:
+  - 855
+  - 122
+  to:
+  - 276
+  - 284
+  width: 172
+  size: 38

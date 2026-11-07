@@ -1,0 +1,20 @@
+image: outputs/out-on-a-limb/seed_1.png
+out: outputs/lexicard/out-on-a-limb.png
+bubbles:
+- text: You're out on a limb up there!
+  at:
+  - 373
+  - 118
+  to:
+  - 528
+  - 156
+  width: 200
+  kind: speech
+- text: 'Out on a limb: in a risky, exposed position'
+  at:
+  - 768
+  - 626
+  to:
+  - 800
+  - 88
+  width: 300

@@ -1,0 +1,28 @@
+image: outputs/wishful-thinking/seed_2.png
+out: outputs/lexicard/wishful-thinking.png
+bubbles:
+- text: I'll own that yacht someday
+  at:
+  - 195
+  - 218
+  to:
+  - 408
+  - 260
+  width: 200
+- text: Bailing out a leaky rowboat
+  at:
+  - 870
+  - 538
+  to:
+  - 420
+  - 636
+  width: 163
+  size: 36
+- text: 'Wishful thinking: hoping for the unlikely'
+  at:
+  - 807
+  - 134
+  to:
+  - 408
+  - 260
+  width: 300

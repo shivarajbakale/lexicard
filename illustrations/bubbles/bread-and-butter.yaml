@@ -1,0 +1,28 @@
+image: outputs/bread-and-butter/seed_1.png
+out: outputs/lexicard/bread-and-butter.png
+bubbles:
+- text: Bread sells every day
+  at:
+  - 340
+  - 104
+  to:
+  - 204
+  - 192
+  width: 200
+- text: This loaf pays the bills
+  at:
+  - 586
+  - 248
+  to:
+  - 376
+  - 548
+  width: 200
+- text: It's my bread and butter!
+  at:
+  - 820
+  - 106
+  to:
+  - 204
+  - 192
+  width: 200
+  kind: speech

@@ -1,0 +1,21 @@
+image: outputs/swear-by/seed_1.png
+out: outputs/lexicard/swear-by.png
+bubbles:
+- text: Does that really work?
+  at:
+  - 509
+  - 83
+  to:
+  - 692
+  - 120
+  width: 200
+  kind: speech
+- text: I swear by this stuff!
+  at:
+  - 884
+  - 83
+  to:
+  - 812
+  - 212
+  width: 200
+  kind: speech

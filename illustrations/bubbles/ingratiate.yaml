@@ -1,0 +1,21 @@
+image: outputs/ingratiate/seed_1.png
+out: outputs/lexicard/ingratiate.png
+bubbles:
+- text: Lovely tie, sir! More coffee?
+  at:
+  - 131
+  - 118
+  to:
+  - 272
+  - 188
+  width: 200
+  kind: speech
+- text: 'Ingratiate: flatter someone to win favour'
+  at:
+  - 482
+  - 122
+  to:
+  - 796
+  - 256
+  width: 259
+  size: 38

@@ -1,0 +1,20 @@
+image: outputs/arbiter/seed_1.png
+out: outputs/lexicard/arbiter.png
+bubbles:
+- text: I will decide who gets it.
+  at:
+  - 137
+  - 83
+  to:
+  - 188
+  - 224
+  width: 200
+  kind: speech
+- text: 'Arbiter: person who judges and settles disputes'
+  at:
+  - 647
+  - 134
+  to:
+  - 188
+  - 224
+  width: 300

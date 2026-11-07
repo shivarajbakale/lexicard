@@ -1,0 +1,20 @@
+image: outputs/guise/seed_1.png
+out: outputs/lexicard/guise.png
+bubbles:
+- text: 'Guise: a disguise hiding what''s real'
+  at:
+  - 201
+  - 104
+  to:
+  - 276
+  - 268
+  width: 300
+- text: What big teeth you have, friend!
+  at:
+  - 787
+  - 299
+  to:
+  - 710
+  - 530
+  width: 300
+  kind: speech

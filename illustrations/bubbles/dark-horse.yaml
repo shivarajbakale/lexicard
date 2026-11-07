@@ -1,0 +1,20 @@
+image: outputs/dark-horse/seed_1.png
+out: outputs/lexicard/dark-horse.png
+bubbles:
+- text: Nobody saw that coming!
+  at:
+  - 170
+  - 215
+  to:
+  - 72
+  - 348
+  width: 200
+  kind: speech
+- text: 'Dark horse: an unexpected winner nobody favored'
+  at:
+  - 802
+  - 206
+  to:
+  - 660
+  - 328
+  width: 300

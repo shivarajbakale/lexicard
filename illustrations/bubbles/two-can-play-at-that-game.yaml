@@ -1,0 +1,30 @@
+image: outputs/two-can-play-at-that-game/seed_1.png
+out: outputs/lexicard/two-can-play-at-that-game.png
+bubbles:
+- text: Ha, I got you!
+  at:
+  - 165
+  - 143
+  to:
+  - 216
+  - 296
+  width: 150
+  kind: speech
+- text: Two can play at that game!
+  at:
+  - 515
+  - 106
+  to:
+  - 696
+  - 116
+  width: 200
+  kind: speech
+- text: I'll do the same.
+  at:
+  - 891
+  - 93
+  to:
+  - 704
+  - 76
+  width: 163
+  size: 36

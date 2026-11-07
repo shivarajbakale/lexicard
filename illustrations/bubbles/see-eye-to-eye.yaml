@@ -1,0 +1,27 @@
+image: outputs/see-eye-to-eye/seed_1.png
+out: outputs/lexicard/see-eye-to-eye.png
+bubbles:
+- text: Now we look at the same level
+  at:
+  - 168
+  - 134
+  to:
+  - 396
+  - 148
+  width: 200
+- text: The box makes them equal
+  at:
+  - 166
+  - 482
+  to:
+  - 380
+  - 652
+  width: 200
+- text: 'See eye to eye: fully agree'
+  at:
+  - 871
+  - 134
+  to:
+  - 716
+  - 112
+  width: 200

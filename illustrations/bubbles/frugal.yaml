@@ -1,0 +1,20 @@
+image: outputs/frugal/seed_1.png
+out: outputs/lexicard/frugal.png
+bubbles:
+- text: I use every last bit.
+  at:
+  - 128
+  - 83
+  to:
+  - 252
+  - 184
+  width: 200
+  kind: speech
+- text: 'Frugal: careful, wastes nothing'
+  at:
+  - 446
+  - 104
+  to:
+  - 252
+  - 184
+  width: 300

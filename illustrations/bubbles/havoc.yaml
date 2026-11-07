@@ -1,0 +1,20 @@
+image: outputs/havoc/seed_1.png
+out: outputs/lexicard/havoc.png
+bubbles:
+- text: Who turned the room upside down?
+  at:
+  - 192
+  - 83
+  to:
+  - 304
+  - 128
+  width: 300
+  kind: speech
+- text: 'Havoc: widespread mess and disorder'
+  at:
+  - 601
+  - 104
+  to:
+  - 424
+  - 156
+  width: 300

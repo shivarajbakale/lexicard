@@ -1,0 +1,29 @@
+image: outputs/no-dice/seed_1.png
+out: outputs/lexicard/no-dice.png
+bubbles:
+- text: Can I get a loan?
+  at:
+  - 172
+  - 83
+  to:
+  - 288
+  - 196
+  width: 200
+  kind: speech
+- text: No dice.
+  at:
+  - 622
+  - 121
+  to:
+  - 760
+  - 212
+  width: 150
+  kind: speech
+- text: Request refused.
+  at:
+  - 882
+  - 104
+  to:
+  - 760
+  - 212
+  width: 200

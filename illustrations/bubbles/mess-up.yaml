@@ -1,0 +1,20 @@
+image: outputs/mess-up/seed_1.png
+out: outputs/lexicard/mess-up.png
+bubbles:
+- text: Oh no, the cake is ruined!
+  at:
+  - 308
+  - 106
+  to:
+  - 484
+  - 136
+  width: 200
+  kind: speech
+- text: 'Mess up: make a mistake and spoil it'
+  at:
+  - 801
+  - 344
+  to:
+  - 716
+  - 588
+  width: 300

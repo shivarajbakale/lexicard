@@ -1,0 +1,20 @@
+image: outputs/it-is-what-it-is/seed_1.png
+out: outputs/lexicard/it-is-what-it-is.png
+bubbles:
+- text: Oh well, it is what it is.
+  at:
+  - 261
+  - 83
+  to:
+  - 408
+  - 152
+  width: 200
+  kind: speech
+- text: Let's fix it.
+  at:
+  - 833
+  - 104
+  to:
+  - 696
+  - 184
+  width: 150

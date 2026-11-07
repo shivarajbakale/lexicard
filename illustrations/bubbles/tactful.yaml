@@ -1,0 +1,30 @@
+image: outputs/tactful/seed_1.png
+out: outputs/lexicard/tactful.png
+bubbles:
+- text: Yuck, this is awful!
+  at:
+  - 175
+  - 167
+  to:
+  - 292
+  - 280
+  width: 200
+  kind: speech
+- text: Lovely effort! Maybe a bit less sugar?
+  at:
+  - 559
+  - 670
+  to:
+  - 790
+  - 412
+  width: 245
+  size: 36
+  kind: speech
+- text: 'Tactful: kind and careful with feelings'
+  at:
+  - 816
+  - 218
+  to:
+  - 790
+  - 412
+  width: 300

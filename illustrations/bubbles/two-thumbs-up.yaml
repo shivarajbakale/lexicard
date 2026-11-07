@@ -1,0 +1,20 @@
+image: outputs/two-thumbs-up/seed_1.png
+out: outputs/lexicard/two-thumbs-up.png
+bubbles:
+- text: Do you like my painting?
+  at:
+  - 757
+  - 95
+  to:
+  - 900
+  - 240
+  width: 200
+  kind: speech
+- text: 'Two thumbs up: strong approval'
+  at:
+  - 406
+  - 134
+  to:
+  - 288
+  - 240
+  width: 200

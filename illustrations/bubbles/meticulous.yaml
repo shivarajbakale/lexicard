@@ -1,0 +1,20 @@
+image: outputs/meticulous/seed_1.png
+out: outputs/lexicard/meticulous.png
+bubbles:
+- text: Every single bead must line up exactly.
+  at:
+  - 262
+  - 83
+  to:
+  - 420
+  - 136
+  width: 300
+  kind: speech
+- text: 'Meticulous: careful about every tiny detail'
+  at:
+  - 782
+  - 398
+  to:
+  - 580
+  - 632
+  width: 300

@@ -1,0 +1,31 @@
+image: outputs/put-ones-cards-on-the-table/seed_1.png
+out: outputs/lexicard/put-ones-cards-on-the-table.png
+bubbles:
+- text: Here is everything I have
+  at:
+  - 123
+  - 94
+  to:
+  - 188
+  - 200
+  width: 163
+  size: 36
+  kind: speech
+- text: 'Cards face up: nothing hidden'
+  at:
+  - 873
+  - 118
+  to:
+  - 508
+  - 608
+  width: 163
+  size: 36
+- text: 'Put your cards on the table: be open'
+  at:
+  - 528
+  - 96
+  to:
+  - 188
+  - 200
+  width: 259
+  size: 38

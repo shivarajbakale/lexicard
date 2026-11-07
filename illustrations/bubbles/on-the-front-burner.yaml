@@ -1,0 +1,28 @@
+image: outputs/on-the-front-burner/seed_1.png
+out: outputs/lexicard/on-the-front-burner.png
+bubbles:
+- text: This one needs me right now
+  at:
+  - 420
+  - 154
+  to:
+  - 580
+  - 188
+  width: 200
+  kind: speech
+- text: Front burner = top priority
+  at:
+  - 179
+  - 284
+  to:
+  - 440
+  - 624
+  width: 200
+- text: 'On the front burner: high priority now'
+  at:
+  - 846
+  - 146
+  to:
+  - 580
+  - 188
+  width: 300

@@ -1,0 +1,21 @@
+image: outputs/for-old-times-sake/seed_1.png
+out: outputs/lexicard/for-old-times-sake.png
+bubbles:
+- text: Let's swing like kids!
+  at:
+  - 729
+  - 83
+  to:
+  - 840
+  - 196
+  width: 200
+  kind: speech
+- text: Sure, for old times' sake.
+  at:
+  - 297
+  - 83
+  to:
+  - 176
+  - 192
+  width: 200
+  kind: speech

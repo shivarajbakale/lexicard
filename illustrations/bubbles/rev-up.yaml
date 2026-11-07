@@ -1,0 +1,20 @@
+image: outputs/rev-up/seed_1.png
+out: outputs/lexicard/rev-up.png
+bubbles:
+- text: That engine sounds so loud
+  at:
+  - 355
+  - 226
+  to:
+  - 896
+  - 284
+  width: 200
+  kind: speech
+- text: 'Rev up: build speed and energy'
+  at:
+  - 650
+  - 134
+  to:
+  - 544
+  - 244
+  width: 200

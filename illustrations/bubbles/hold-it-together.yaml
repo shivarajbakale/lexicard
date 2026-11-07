@@ -1,0 +1,28 @@
+image: outputs/hold-it-together/seed_1.png
+out: outputs/lexicard/hold-it-together.png
+bubbles:
+- text: Do not fall apart now!
+  at:
+  - 173
+  - 200
+  to:
+  - 328
+  - 260
+  width: 200
+- text: The cracking vase = pressure
+  at:
+  - 499
+  - 134
+  to:
+  - 416
+  - 448
+  width: 200
+- text: 'Hold it together: stay composed under pressure'
+  at:
+  - 840
+  - 230
+  to:
+  - 328
+  - 260
+  width: 259
+  size: 38

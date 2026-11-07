@@ -1,0 +1,21 @@
+image: outputs/have-it-your-way/seed_1.png
+out: outputs/lexicard/have-it-your-way.png
+bubbles:
+- text: Have it your way!
+  at:
+  - 139
+  - 83
+  to:
+  - 252
+  - 132
+  width: 200
+  kind: speech
+- text: 'Have it your way: choose what you prefer'
+  at:
+  - 544
+  - 122
+  to:
+  - 452
+  - 492
+  width: 259
+  size: 38

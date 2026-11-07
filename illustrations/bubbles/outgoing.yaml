@@ -1,0 +1,21 @@
+image: outputs/outgoing/seed_1.png
+out: outputs/lexicard/outgoing.png
+bubbles:
+- text: Hello, neighbour! Let's be friends!
+  at:
+  - 500
+  - 83
+  to:
+  - 700
+  - 64
+  width: 300
+  kind: speech
+- text: 'Outgoing: friendly, easy with people'
+  at:
+  - 182
+  - 180
+  to:
+  - 700
+  - 64
+  width: 259
+  size: 38

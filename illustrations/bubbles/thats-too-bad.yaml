@@ -1,0 +1,28 @@
+image: outputs/thats-too-bad/seed_1.png
+out: outputs/lexicard/thats-too-bad.png
+bubbles:
+- text: My guitar broke.
+  at:
+  - 165
+  - 104
+  to:
+  - 646
+  - 260
+  width: 200
+- text: That's too bad.
+  at:
+  - 449
+  - 83
+  to:
+  - 356
+  - 220
+  width: 200
+  kind: speech
+- text: Showing sympathy.
+  at:
+  - 851
+  - 104
+  to:
+  - 328
+  - 144
+  width: 200

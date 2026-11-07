@@ -1,0 +1,20 @@
+image: outputs/intimidate/seed_1.png
+out: outputs/lexicard/intimidate.png
+bubbles:
+- text: Give me that ball.
+  at:
+  - 326
+  - 83
+  to:
+  - 504
+  - 76
+  width: 200
+  kind: speech
+- text: 'Intimidate: scare someone by size or power'
+  at:
+  - 215
+  - 302
+  to:
+  - 504
+  - 76
+  width: 300

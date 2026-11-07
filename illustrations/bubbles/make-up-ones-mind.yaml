@@ -1,0 +1,20 @@
+image: outputs/make-up-ones-mind/seed_1.png
+out: outputs/lexicard/make-up-ones-mind.png
+bubbles:
+- text: Which one do you want?
+  at:
+  - 406
+  - 104
+  to:
+  - 236
+  - 172
+  width: 200
+- text: 'I''ve made up my mind: this one!'
+  at:
+  - 757
+  - 83
+  to:
+  - 844
+  - 184
+  width: 300
+  kind: speech

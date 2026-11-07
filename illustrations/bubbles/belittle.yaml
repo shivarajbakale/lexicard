@@ -1,0 +1,21 @@
+image: outputs/belittle/seed_1.png
+out: outputs/lexicard/belittle.png
+bubbles:
+- text: Ha, that tiny thing? Anyone can do that.
+  at:
+  - 313
+  - 250
+  to:
+  - 796
+  - 396
+  width: 300
+  kind: speech
+- text: 'Belittle: make something seem unimportant'
+  at:
+  - 847
+  - 122
+  to:
+  - 232
+  - 416
+  width: 259
+  size: 38

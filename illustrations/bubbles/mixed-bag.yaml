@@ -1,0 +1,27 @@
+image: outputs/mixed-bag/seed_1.png
+out: outputs/lexicard/mixed-bag.png
+bubbles:
+- text: Let us see what is inside
+  at:
+  - 174
+  - 146
+  to:
+  - 300
+  - 256
+  width: 200
+- text: The bag holds good and bad things
+  at:
+  - 750
+  - 104
+  to:
+  - 460
+  - 556
+  width: 300
+- text: 'Mixed bag: some good, some bad'
+  at:
+  - 182
+  - 578
+  to:
+  - 300
+  - 256
+  width: 200

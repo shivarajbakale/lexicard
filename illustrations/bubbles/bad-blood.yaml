@@ -1,0 +1,20 @@
+image: outputs/bad-blood/seed_1.png
+out: outputs/lexicard/bad-blood.png
+bubbles:
+- text: You broke my pot years ago!
+  at:
+  - 187
+  - 134
+  to:
+  - 520
+  - 72
+  width: 200
+- text: 'Bad blood: old anger that never ends'
+  at:
+  - 832
+  - 122
+  to:
+  - 516
+  - 608
+  width: 259
+  size: 38

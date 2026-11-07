@@ -1,0 +1,20 @@
+image: outputs/magnanimous/seed_1.png
+out: outputs/lexicard/magnanimous.png
+bubbles:
+- text: Accidents happen. You are forgiven.
+  at:
+  - 249
+  - 83
+  to:
+  - 416
+  - 116
+  width: 300
+  kind: speech
+- text: 'Magnanimous: generously forgiving'
+  at:
+  - 730
+  - 104
+  to:
+  - 416
+  - 116
+  width: 300

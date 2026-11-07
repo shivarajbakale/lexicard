@@ -1,0 +1,28 @@
+image: outputs/drum-into/seed_1.png
+out: outputs/lexicard/drum-into.png
+bubbles:
+- text: Say it again and again.
+  at:
+  - 183
+  - 104
+  to:
+  - 356
+  - 136
+  width: 200
+- text: The parrot repeats the lesson
+  at:
+  - 874
+  - 646
+  to:
+  - 536
+  - 464
+  width: 163
+  size: 36
+- text: 'Drum into: repeat until it is remembered'
+  at:
+  - 668
+  - 134
+  to:
+  - 356
+  - 136
+  width: 300

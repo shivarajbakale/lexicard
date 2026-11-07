@@ -1,0 +1,30 @@
+image: outputs/been-there-done-that/seed_1.png
+out: outputs/lexicard/been-there-done-that.png
+bubbles:
+- text: Want to ride again?
+  at:
+  - 171
+  - 155
+  to:
+  - 280
+  - 272
+  width: 200
+  kind: speech
+- text: Been there, done that.
+  at:
+  - 819
+  - 215
+  to:
+  - 824
+  - 376
+  width: 200
+  kind: speech
+- text: 'Been there, done that: already did it'
+  at:
+  - 561
+  - 96
+  to:
+  - 824
+  - 376
+  width: 259
+  size: 38

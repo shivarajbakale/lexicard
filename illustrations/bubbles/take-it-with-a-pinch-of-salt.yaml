@@ -1,0 +1,20 @@
+image: outputs/take-it-with-a-pinch-of-salt/seed_1.png
+out: outputs/lexicard/take-it-with-a-pinch-of-salt.png
+bubbles:
+- text: The fish was this big!
+  at:
+  - 145
+  - 83
+  to:
+  - 256
+  - 196
+  width: 200
+  kind: speech
+- text: 'Take it with a pinch of salt: don''t fully believe it'
+  at:
+  - 563
+  - 134
+  to:
+  - 584
+  - 348
+  width: 300

@@ -1,0 +1,28 @@
+image: outputs/common-ground/seed_1.png
+out: outputs/lexicard/common-ground.png
+bubbles:
+- text: You like hiking too?
+  at:
+  - 198
+  - 200
+  to:
+  - 356
+  - 244
+  width: 200
+- text: Yes! We agree on that
+  at:
+  - 489
+  - 134
+  to:
+  - 640
+  - 200
+  width: 200
+- text: 'Common ground: something we share'
+  at:
+  - 829
+  - 96
+  to:
+  - 520
+  - 616
+  width: 259
+  size: 38

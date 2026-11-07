@@ -1,0 +1,20 @@
+image: outputs/drag-ones-feet/seed_2.png
+out: outputs/lexicard/drag-ones-feet.png
+bubbles:
+- text: Come on, we are late!
+  at:
+  - 631
+  - 83
+  to:
+  - 900
+  - 36
+  width: 200
+  kind: speech
+- text: 'Drag your feet: delay on purpose'
+  at:
+  - 357
+  - 200
+  to:
+  - 616
+  - 164
+  width: 300

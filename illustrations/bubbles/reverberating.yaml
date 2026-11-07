@@ -1,0 +1,20 @@
+image: outputs/reverberating/seed_1.png
+out: outputs/lexicard/reverberating.png
+bubbles:
+- text: Hello!
+  at:
+  - 169
+  - 61
+  to:
+  - 268
+  - 184
+  width: 150
+  kind: speech
+- text: 'Reverberating: echoing back and slowly fading away'
+  at:
+  - 791
+  - 134
+  to:
+  - 432
+  - 256
+  width: 300

@@ -1,0 +1,20 @@
+image: outputs/fed-up/seed_1.png
+out: outputs/lexicard/fed-up.png
+bubbles:
+- text: I'm fed up with waiting!
+  at:
+  - 255
+  - 95
+  to:
+  - 404
+  - 156
+  width: 200
+  kind: speech
+- text: Patience is gone
+  at:
+  - 845
+  - 212
+  to:
+  - 700
+  - 144
+  width: 200

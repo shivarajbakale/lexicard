@@ -1,0 +1,30 @@
+image: outputs/whatever-it-takes/seed_1.png
+out: outputs/lexicard/whatever-it-takes.png
+bubbles:
+- text: Is this even possible?
+  at:
+  - 629
+  - 167
+  to:
+  - 788
+  - 184
+  width: 200
+  kind: speech
+- text: Whatever it takes.
+  at:
+  - 368
+  - 95
+  to:
+  - 228
+  - 176
+  width: 200
+  kind: speech
+- text: I'll do all that is needed
+  at:
+  - 892
+  - 118
+  to:
+  - 432
+  - 636
+  width: 163
+  size: 36

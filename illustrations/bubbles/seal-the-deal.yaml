@@ -1,0 +1,21 @@
+image: outputs/seal-the-deal/seed_1.png
+out: outputs/lexicard/seal-the-deal.png
+bubbles:
+- text: We agree on everything
+  at:
+  - 139
+  - 93
+  to:
+  - 152
+  - 236
+  width: 163
+  size: 36
+- text: 'Seal the deal: make an agreement final'
+  at:
+  - 548
+  - 96
+  to:
+  - 396
+  - 144
+  width: 259
+  size: 38

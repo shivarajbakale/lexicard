@@ -1,0 +1,11 @@
+image: outputs/fly-under-the-radar/seed_1.png
+out: outputs/lexicard/fly-under-the-radar.png
+bubbles:
+- text: 'Fly under the radar: stay unnoticed'
+  at:
+  - 838
+  - 506
+  to:
+  - 832
+  - 84
+  width: 300

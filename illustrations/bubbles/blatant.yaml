@@ -1,0 +1,21 @@
+image: outputs/blatant/seed_1.png
+out: outputs/lexicard/blatant.png
+bubbles:
+- text: I can see you perfectly!
+  at:
+  - 688
+  - 203
+  to:
+  - 726
+  - 366
+  width: 200
+  kind: speech
+- text: 'Blatant: so obvious you cannot miss it'
+  at:
+  - 188
+  - 240
+  to:
+  - 348
+  - 40
+  width: 259
+  size: 38

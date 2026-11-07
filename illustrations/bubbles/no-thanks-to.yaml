@@ -1,0 +1,20 @@
+image: outputs/no-thanks-to/seed_1.png
+out: outputs/lexicard/no-thanks-to.png
+bubbles:
+- text: We made it, no thanks to you!
+  at:
+  - 242
+  - 106
+  to:
+  - 308
+  - 248
+  width: 200
+  kind: speech
+- text: 'Sarcastic: he caused the trouble.'
+  at:
+  - 594
+  - 164
+  to:
+  - 308
+  - 248
+  width: 300

@@ -1,0 +1,20 @@
+image: outputs/behind-someones-back/seed_1.png
+out: outputs/lexicard/behind-someones-back.png
+bubbles:
+- text: Shh, don't let him see
+  at:
+  - 158
+  - 104
+  to:
+  - 384
+  - 132
+  width: 200
+- text: 'Behind someone''s back: done secretly without them knowing'
+  at:
+  - 816
+  - 148
+  to:
+  - 384
+  - 132
+  width: 259
+  size: 38

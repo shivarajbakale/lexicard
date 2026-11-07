@@ -1,0 +1,19 @@
+image: outputs/cut-corners/seed_2.png
+out: outputs/lexicard/cut-corners.png
+bubbles:
+- text: I folded every corner
+  at:
+  - 172
+  - 104
+  to:
+  - 684
+  - 212
+  width: 200
+- text: 'Cut corners: skip steps to save time'
+  at:
+  - 620
+  - 104
+  to:
+  - 344
+  - 148
+  width: 300

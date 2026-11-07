@@ -1,0 +1,27 @@
+image: outputs/on-the-go/seed_1.png
+out: outputs/lexicard/on-the-go.png
+bubbles:
+- text: Always moving, never stopping
+  at:
+  - 214
+  - 241
+  to:
+  - 376
+  - 240
+  width: 200
+- text: Coffee in hand while she rushes
+  at:
+  - 746
+  - 104
+  to:
+  - 656
+  - 344
+  width: 300
+- text: 'On the go: busy and constantly moving'
+  at:
+  - 804
+  - 476
+  to:
+  - 376
+  - 240
+  width: 300

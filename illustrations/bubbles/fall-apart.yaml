@@ -1,0 +1,28 @@
+image: outputs/fall-apart/seed_1.png
+out: outputs/lexicard/fall-apart.png
+bubbles:
+- text: He only sat down...
+  at:
+  - 188
+  - 164
+  to:
+  - 336
+  - 232
+  width: 200
+- text: '...and it all fell apart'
+  at:
+  - 497
+  - 140
+  to:
+  - 356
+  - 568
+  width: 200
+- text: 'Fall apart: break down, stop working'
+  at:
+  - 824
+  - 660
+  to:
+  - 716
+  - 260
+  width: 259
+  size: 38

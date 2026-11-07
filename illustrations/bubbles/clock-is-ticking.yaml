@@ -1,0 +1,19 @@
+image: outputs/clock-is-ticking/seed_1.png
+out: outputs/lexicard/clock-is-ticking.png
+bubbles:
+- text: I'm almost out of time!
+  at:
+  - 368
+  - 236
+  to:
+  - 576
+  - 300
+  width: 200
+- text: 'The clock is ticking: hurry, time is short'
+  at:
+  - 743
+  - 212
+  to:
+  - 576
+  - 300
+  width: 300

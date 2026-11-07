@@ -1,0 +1,20 @@
+image: outputs/who-am-i-kidding/seed_1.png
+out: outputs/lexicard/who-am-i-kidding.png
+bubbles:
+- text: Who am I kidding?
+  at:
+  - 293
+  - 83
+  to:
+  - 164
+  - 172
+  width: 200
+  kind: speech
+- text: Fooling myself, facing the truth.
+  at:
+  - 651
+  - 104
+  to:
+  - 164
+  - 172
+  width: 300

@@ -1,0 +1,20 @@
+image: outputs/cache/seed_1.png
+out: outputs/lexicard/cache.png
+bubbles:
+- text: 'Cache: a hidden store kept for later'
+  at:
+  - 319
+  - 104
+  to:
+  - 172
+  - 184
+  width: 300
+- text: Wow, what a big stash!
+  at:
+  - 603
+  - 239
+  to:
+  - 432
+  - 256
+  width: 200
+  kind: speech

@@ -1,0 +1,20 @@
+image: outputs/ephemeral/panels_seed_1.png
+out: outputs/lexicard/ephemeral.png
+bubbles:
+- text: 'Ephemeral: lasts only a short time'
+  at:
+  - 255
+  - 128
+  to:
+  - 258
+  - 300
+  width: 300
+- text: It was here a second ago!
+  at:
+  - 762
+  - 130
+  to:
+  - 766
+  - 300
+  width: 200
+  kind: speech

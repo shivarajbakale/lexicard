@@ -1,0 +1,20 @@
+image: outputs/face-the-music/seed_1.png
+out: outputs/lexicard/face-the-music.png
+bubbles:
+- text: I broke it. I must own up.
+  at:
+  - 368
+  - 224
+  to:
+  - 532
+  - 240
+  width: 200
+- text: 'Face the music: accept results of your actions'
+  at:
+  - 841
+  - 122
+  to:
+  - 784
+  - 284
+  width: 259
+  size: 38

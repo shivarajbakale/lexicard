@@ -1,0 +1,20 @@
+image: outputs/culprit/seed_1.png
+out: outputs/lexicard/culprit.png
+bubbles:
+- text: Who broke my flowerpot?
+  at:
+  - 178
+  - 106
+  to:
+  - 340
+  - 128
+  width: 200
+  kind: speech
+- text: 'Culprit: the one who did the wrong thing'
+  at:
+  - 671
+  - 170
+  to:
+  - 460
+  - 192
+  width: 300

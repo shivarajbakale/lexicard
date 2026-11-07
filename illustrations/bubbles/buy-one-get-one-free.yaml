@@ -1,0 +1,21 @@
+image: outputs/buy-one-get-one-free/seed_1.png
+out: outputs/lexicard/buy-one-get-one-free.png
+bubbles:
+- text: Buy one, get one free!
+  at:
+  - 571
+  - 83
+  to:
+  - 748
+  - 128
+  width: 200
+  kind: speech
+- text: 'Buy one, get one free: pay for one, get two'
+  at:
+  - 484
+  - 290
+  to:
+  - 544
+  - 500
+  width: 259
+  size: 38

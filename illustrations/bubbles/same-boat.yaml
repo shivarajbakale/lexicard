@@ -1,0 +1,20 @@
+image: outputs/same-boat/seed_1.png
+out: outputs/lexicard/same-boat.png
+bubbles:
+- text: We're in the same boat!
+  at:
+  - 248
+  - 83
+  to:
+  - 320
+  - 224
+  width: 200
+  kind: speech
+- text: 'In the same boat: sharing the same trouble'
+  at:
+  - 801
+  - 134
+  to:
+  - 736
+  - 232
+  width: 300

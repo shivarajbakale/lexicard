@@ -1,0 +1,21 @@
+image: outputs/the-boot-is-on-the-other-foot/seed_1.png
+out: outputs/lexicard/the-boot-is-on-the-other-foot.png
+bubbles:
+- text: Now it's your turn, boss!
+  at:
+  - 530
+  - 83
+  to:
+  - 892
+  - 192
+  width: 200
+  kind: speech
+- text: 'The boot is on the other foot: the roles have reversed'
+  at:
+  - 196
+  - 158
+  to:
+  - 476
+  - 620
+  width: 259
+  size: 38

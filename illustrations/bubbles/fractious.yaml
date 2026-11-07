@@ -1,0 +1,30 @@
+image: outputs/fractious/seed_1.png
+out: outputs/lexicard/fractious.png
+bubbles:
+- text: It's mine, give it back!
+  at:
+  - 174
+  - 83
+  to:
+  - 156
+  - 240
+  width: 200
+  kind: speech
+- text: No, you always grab!
+  at:
+  - 587
+  - 299
+  to:
+  - 720
+  - 390
+  width: 200
+  kind: speech
+- text: 'Fractious: easily annoyed, quick to quarrel'
+  at:
+  - 833
+  - 146
+  to:
+  - 516
+  - 504
+  width: 259
+  size: 38

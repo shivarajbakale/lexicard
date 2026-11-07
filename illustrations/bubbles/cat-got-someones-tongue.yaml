@@ -1,0 +1,21 @@
+image: outputs/cat-got-someones-tongue/seed_1.png
+out: outputs/lexicard/cat-got-someones-tongue.png
+bubbles:
+- text: Cat got your tongue?
+  at:
+  - 442
+  - 131
+  to:
+  - 666
+  - 212
+  width: 200
+  kind: speech
+- text: 'Cat got your tongue: unable to speak'
+  at:
+  - 831
+  - 122
+  to:
+  - 756
+  - 160
+  width: 259
+  size: 38

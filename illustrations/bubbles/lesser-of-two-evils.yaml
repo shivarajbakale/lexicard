@@ -1,0 +1,28 @@
+image: outputs/lesser-of-two-evils/seed_1.png
+out: outputs/lexicard/lesser-of-two-evils.png
+bubbles:
+- text: Both paths are bad
+  at:
+  - 152
+  - 104
+  to:
+  - 316
+  - 124
+  width: 200
+- text: That swamp is much worse
+  at:
+  - 603
+  - 134
+  to:
+  - 684
+  - 540
+  width: 200
+- text: The lesser of two evils
+  at:
+  - 867
+  - 276
+  to:
+  - 316
+  - 124
+  width: 172
+  size: 38

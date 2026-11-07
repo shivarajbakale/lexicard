@@ -1,0 +1,30 @@
+image: outputs/the-jokes-on-someone/panels_seed_1.png
+out: outputs/lexicard/the-jokes-on-someone.png
+bubbles:
+- text: Watch this prank!
+  at:
+  - 182
+  - 155
+  to:
+  - 258
+  - 300
+  width: 200
+  kind: speech
+- text: Looks like the joke's on me.
+  at:
+  - 729
+  - 130
+  to:
+  - 766
+  - 300
+  width: 200
+  kind: speech
+- text: His own trick backfired
+  at:
+  - 453
+  - 118
+  to:
+  - 766
+  - 300
+  width: 163
+  size: 36

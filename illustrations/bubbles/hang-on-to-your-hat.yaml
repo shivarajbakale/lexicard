@@ -1,0 +1,20 @@
+image: outputs/hang-on-to-your-hat/seed_1.png
+out: outputs/lexicard/hang-on-to-your-hat.png
+bubbles:
+- text: Hang on to your hat!
+  at:
+  - 205
+  - 191
+  to:
+  - 140
+  - 352
+  width: 200
+  kind: speech
+- text: 'Hang on to your hat: something fast is coming'
+  at:
+  - 643
+  - 194
+  to:
+  - 348
+  - 312
+  width: 300

@@ -1,0 +1,20 @@
+image: outputs/mile-a-minute/seed_1.png
+out: outputs/lexicard/mile-a-minute.png
+bubbles:
+- text: Talking a mile a minute!
+  at:
+  - 258
+  - 130
+  to:
+  - 344
+  - 268
+  width: 200
+  kind: speech
+- text: 'A mile a minute: very fast'
+  at:
+  - 551
+  - 134
+  to:
+  - 500
+  - 344
+  width: 200

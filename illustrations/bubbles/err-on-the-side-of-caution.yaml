@@ -1,0 +1,30 @@
+image: outputs/err-on-the-side-of-caution/seed_1.png
+out: outputs/lexicard/err-on-the-side-of-caution.png
+bubbles:
+- text: It's sunny, why the umbrella?
+  at:
+  - 572
+  - 106
+  to:
+  - 816
+  - 184
+  width: 200
+  kind: speech
+- text: Better safe than sorry.
+  at:
+  - 303
+  - 83
+  to:
+  - 272
+  - 224
+  width: 200
+  kind: speech
+- text: Choosing the safer option
+  at:
+  - 852
+  - 93
+  to:
+  - 296
+  - 300
+  width: 163
+  size: 36

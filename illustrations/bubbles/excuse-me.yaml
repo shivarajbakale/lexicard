@@ -1,0 +1,20 @@
+image: outputs/excuse-me/seed_1.png
+out: outputs/lexicard/excuse-me.png
+bubbles:
+- text: Excuse me, may I pass?
+  at:
+  - 871
+  - 83
+  to:
+  - 776
+  - 212
+  width: 200
+  kind: speech
+- text: Polite way to get attention
+  at:
+  - 442
+  - 152
+  to:
+  - 472
+  - 552
+  width: 200

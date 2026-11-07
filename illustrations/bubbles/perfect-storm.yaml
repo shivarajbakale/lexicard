@@ -1,0 +1,31 @@
+image: outputs/perfect-storm/seed_1.png
+out: outputs/lexicard/perfect-storm.png
+bubbles:
+- text: Waves, wind and lightning
+  at:
+  - 147
+  - 118
+  to:
+  - 160
+  - 140
+  width: 163
+  size: 36
+- text: The sail rips too
+  at:
+  - 872
+  - 93
+  to:
+  - 588
+  - 292
+  width: 163
+  size: 36
+- text: It's a perfect storm!
+  at:
+  - 919
+  - 337
+  to:
+  - 160
+  - 140
+  width: 172
+  size: 38
+  kind: speech

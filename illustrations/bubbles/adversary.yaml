@@ -1,0 +1,20 @@
+image: outputs/adversary/seed_1.png
+out: outputs/lexicard/adversary.png
+bubbles:
+- text: I will beat you this time.
+  at:
+  - 593
+  - 203
+  to:
+  - 748
+  - 244
+  width: 200
+  kind: speech
+- text: 'Adversary: opponent who works against you'
+  at:
+  - 235
+  - 134
+  to:
+  - 748
+  - 244
+  width: 300

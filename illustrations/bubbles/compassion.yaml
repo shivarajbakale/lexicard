@@ -1,0 +1,20 @@
+image: outputs/compassion/seed_1.png
+out: outputs/lexicard/compassion.png
+bubbles:
+- text: Here, have mine.
+  at:
+  - 188
+  - 83
+  to:
+  - 308
+  - 188
+  width: 200
+  kind: speech
+- text: 'Compassion: caring about someone''s trouble'
+  at:
+  - 773
+  - 134
+  to:
+  - 580
+  - 516
+  width: 300

@@ -1,0 +1,21 @@
+image: outputs/abound/seed_1.png
+out: outputs/lexicard/abound.png
+bubbles:
+- text: Look, fish are everywhere!
+  at:
+  - 615
+  - 106
+  to:
+  - 500
+  - 212
+  width: 200
+  kind: speech
+- text: 'Abound: exist in huge numbers'
+  at:
+  - 154
+  - 122
+  to:
+  - 272
+  - 116
+  width: 172
+  size: 38

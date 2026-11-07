@@ -1,0 +1,21 @@
+image: outputs/let-the-grass-grow-under-ones-feet/seed_1.png
+out: outputs/lexicard/let-the-grass-grow-under-ones-feet.png
+bubbles:
+- text: Come on, move!
+  at:
+  - 209
+  - 191
+  to:
+  - 804
+  - 248
+  width: 150
+  kind: speech
+- text: 'Let the grass grow under your feet: waste time'
+  at:
+  - 819
+  - 122
+  to:
+  - 384
+  - 128
+  width: 259
+  size: 38

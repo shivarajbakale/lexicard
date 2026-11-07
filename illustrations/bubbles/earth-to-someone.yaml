@@ -1,0 +1,21 @@
+image: outputs/earth-to-someone/seed_1.png
+out: outputs/lexicard/earth-to-someone.png
+bubbles:
+- text: Earth to Sam!
+  at:
+  - 162
+  - 83
+  to:
+  - 260
+  - 208
+  width: 150
+  kind: speech
+- text: 'Earth to someone: get a distracted person''s attention'
+  at:
+  - 481
+  - 122
+  to:
+  - 688
+  - 120
+  width: 259
+  size: 38

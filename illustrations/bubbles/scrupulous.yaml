@@ -1,0 +1,21 @@
+image: outputs/scrupulous/seed_1.png
+out: outputs/lexicard/scrupulous.png
+bubbles:
+- text: You gave me too much. Here you go.
+  at:
+  - 383
+  - 83
+  to:
+  - 256
+  - 184
+  width: 300
+  kind: speech
+- text: 'Scrupulous: very careful to be honest'
+  at:
+  - 500
+  - 290
+  to:
+  - 256
+  - 184
+  width: 259
+  size: 38

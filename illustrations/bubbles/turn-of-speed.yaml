@@ -1,0 +1,20 @@
+image: outputs/turn-of-speed/panels_seed_1.png
+out: outputs/lexicard/turn-of-speed.png
+bubbles:
+- text: Just a gentle jog.
+  at:
+  - 257
+  - 128
+  to:
+  - 258
+  - 300
+  width: 200
+- text: 'Turn of speed: a sudden burst of fast running'
+  at:
+  - 764
+  - 122
+  to:
+  - 766
+  - 300
+  width: 259
+  size: 38

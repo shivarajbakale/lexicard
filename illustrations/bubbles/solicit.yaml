@@ -1,0 +1,21 @@
+image: outputs/solicit/seed_1.png
+out: outputs/lexicard/solicit.png
+bubbles:
+- text: Please share your ideas with us!
+  at:
+  - 375
+  - 83
+  to:
+  - 252
+  - 184
+  width: 300
+  kind: speech
+- text: 'Solicit: formally ask for opinions or input'
+  at:
+  - 763
+  - 122
+  to:
+  - 252
+  - 184
+  width: 259
+  size: 38

@@ -1,0 +1,30 @@
+image: outputs/line-in-the-sand/seed_1.png
+out: outputs/lexicard/line-in-the-sand.png
+bubbles:
+- text: No further than this line
+  at:
+  - 527
+  - 106
+  to:
+  - 708
+  - 100
+  width: 200
+  kind: speech
+- text: A boundary drawn on the ground
+  at:
+  - 490
+  - 394
+  to:
+  - 436
+  - 556
+  width: 163
+  size: 36
+- text: 'Line in the sand: a limit you will not allow crossing'
+  at:
+  - 196
+  - 146
+  to:
+  - 436
+  - 556
+  width: 259
+  size: 38

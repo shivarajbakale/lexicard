@@ -1,0 +1,29 @@
+image: outputs/forget-it/seed_1.png
+out: outputs/lexicard/forget-it.png
+bubbles:
+- text: Can I borrow your car?
+  at:
+  - 175
+  - 166
+  to:
+  - 328
+  - 220
+  width: 200
+  kind: speech
+- text: Forget it!
+  at:
+  - 513
+  - 109
+  to:
+  - 576
+  - 256
+  width: 150
+  kind: speech
+- text: Request refused
+  at:
+  - 786
+  - 236
+  to:
+  - 576
+  - 256
+  width: 200

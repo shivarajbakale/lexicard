@@ -1,0 +1,22 @@
+image: outputs/butter-would-not-melt-in-someones-mouth/seed_1.png
+out: outputs/lexicard/butter-would-not-melt-in-someones-mouth.png
+bubbles:
+- text: You're the best teacher ever!
+  at:
+  - 125
+  - 250
+  to:
+  - 320
+  - 204
+  width: 163
+  size: 36
+  kind: speech
+- text: 'Butter would not melt in her mouth: sweetly insincere'
+  at:
+  - 396
+  - 122
+  to:
+  - 760
+  - 124
+  width: 259
+  size: 38

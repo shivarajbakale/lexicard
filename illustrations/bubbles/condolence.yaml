@@ -1,0 +1,21 @@
+image: outputs/condolence/seed_1.png
+out: outputs/lexicard/condolence.png
+bubbles:
+- text: I am so sorry for your loss.
+  at:
+  - 248
+  - 106
+  to:
+  - 404
+  - 116
+  width: 200
+  kind: speech
+- text: 'Condolence: words of sympathy after a loss'
+  at:
+  - 814
+  - 122
+  to:
+  - 744
+  - 224
+  width: 259
+  size: 38

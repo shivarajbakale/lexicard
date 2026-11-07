@@ -1,0 +1,21 @@
+image: outputs/emulate/seed_1.png
+out: outputs/lexicard/emulate.png
+bubbles:
+- text: I want to be just like you!
+  at:
+  - 661
+  - 263
+  to:
+  - 716
+  - 516
+  width: 200
+  kind: speech
+- text: 'Emulate: copy someone you admire'
+  at:
+  - 828
+  - 96
+  to:
+  - 356
+  - 32
+  width: 259
+  size: 38

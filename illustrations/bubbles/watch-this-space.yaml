@@ -1,0 +1,29 @@
+image: outputs/watch-this-space/seed_1.png
+out: outputs/lexicard/watch-this-space.png
+bubbles:
+- text: Watch this space!
+  at:
+  - 446
+  - 179
+  to:
+  - 708
+  - 228
+  width: 200
+  kind: speech
+- text: What is under there?
+  at:
+  - 169
+  - 227
+  to:
+  - 308
+  - 312
+  width: 200
+  kind: speech
+- text: 'Watch this space: something new is coming soon'
+  at:
+  - 802
+  - 134
+  to:
+  - 708
+  - 228
+  width: 300

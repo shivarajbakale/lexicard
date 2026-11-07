@@ -1,0 +1,28 @@
+image: outputs/take-matters-into-ones-own-hands/seed_1.png
+out: outputs/lexicard/take-matters-into-ones-own-hands.png
+bubbles:
+- text: I'll get to it eventually...
+  at:
+  - 501
+  - 104
+  to:
+  - 280
+  - 120
+  width: 200
+- text: She grabs the tool herself
+  at:
+  - 850
+  - 218
+  to:
+  - 744
+  - 412
+  width: 200
+- text: Take matters into your own hands
+  at:
+  - 841
+  - 660
+  to:
+  - 704
+  - 240
+  width: 259
+  size: 38

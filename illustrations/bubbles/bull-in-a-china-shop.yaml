@@ -1,0 +1,20 @@
+image: outputs/bull-in-a-china-shop/seed_1.png
+out: outputs/lexicard/bull-in-a-china-shop.png
+bubbles:
+- text: Careful, everything here breaks!
+  at:
+  - 341
+  - 104
+  to:
+  - 200
+  - 180
+  width: 300
+- text: 'Bull in a china shop: clumsy, careless'
+  at:
+  - 852
+  - 122
+  to:
+  - 664
+  - 200
+  width: 259
+  size: 38

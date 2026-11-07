@@ -1,0 +1,21 @@
+image: outputs/close-but-no-cigar/seed_1.png
+out: outputs/lexicard/close-but-no-cigar.png
+bubbles:
+- text: Close, but no cigar!
+  at:
+  - 517
+  - 83
+  to:
+  - 808
+  - 152
+  width: 200
+  kind: speech
+- text: 'Close, but no cigar: nearly succeeded, but missed'
+  at:
+  - 197
+  - 182
+  to:
+  - 808
+  - 152
+  width: 259
+  size: 38

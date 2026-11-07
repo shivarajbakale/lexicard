@@ -1,0 +1,20 @@
+image: outputs/mission-accomplished/seed_1.png
+out: outputs/lexicard/mission-accomplished.png
+bubbles:
+- text: Mission accomplished!
+  at:
+  - 151
+  - 83
+  to:
+  - 296
+  - 148
+  width: 200
+  kind: speech
+- text: 'Mission accomplished: the task is done'
+  at:
+  - 761
+  - 134
+  to:
+  - 536
+  - 484
+  width: 300

@@ -1,0 +1,21 @@
+image: outputs/mark-my-words/panels_seed_1.png
+out: outputs/lexicard/mark-my-words.png
+bubbles:
+- text: Mark my words, it'll pour.
+  at:
+  - 255
+  - 130
+  to:
+  - 258
+  - 300
+  width: 200
+  kind: speech
+- text: He predicted it and was right.
+  at:
+  - 766
+  - 122
+  to:
+  - 766
+  - 300
+  width: 172
+  size: 38

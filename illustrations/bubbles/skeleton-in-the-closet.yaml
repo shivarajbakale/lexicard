@@ -1,0 +1,29 @@
+image: outputs/skeleton-in-the-closet/seed_1.png
+out: outputs/lexicard/skeleton-in-the-closet.png
+bubbles:
+- text: Nice place! Can I see upstairs?
+  at:
+  - 183
+  - 83
+  to:
+  - 780
+  - 392
+  width: 300
+  kind: speech
+- text: The skeleton hides in the closet
+  at:
+  - 817
+  - 104
+  to:
+  - 540
+  - 292
+  width: 300
+- text: 'Skeleton in the closet: a hidden secret'
+  at:
+  - 846
+  - 350
+  to:
+  - 780
+  - 392
+  width: 259
+  size: 38

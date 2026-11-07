@@ -1,0 +1,21 @@
+image: outputs/entourage/seed_1.png
+out: outputs/lexicard/entourage.png
+bubbles:
+- text: Keep up, everyone!
+  at:
+  - 258
+  - 119
+  to:
+  - 288
+  - 280
+  width: 200
+  kind: speech
+- text: 'Entourage: people who follow an important person'
+  at:
+  - 834
+  - 122
+  to:
+  - 672
+  - 164
+  width: 259
+  size: 38

@@ -1,0 +1,30 @@
+image: outputs/at-odds/seed_1.png
+out: outputs/lexicard/at-odds.png
+bubbles:
+- text: Apples are better!
+  at:
+  - 220
+  - 143
+  to:
+  - 388
+  - 144
+  width: 200
+  kind: speech
+- text: No, bananas!
+  at:
+  - 849
+  - 131
+  to:
+  - 688
+  - 132
+  width: 150
+  kind: speech
+- text: 'We''re at odds: we disagree'
+  at:
+  - 884
+  - 386
+  to:
+  - 460
+  - 332
+  width: 172
+  size: 38

@@ -1,0 +1,20 @@
+image: outputs/no-offence/seed_1.png
+out: outputs/lexicard/no-offence.png
+bubbles:
+- text: No offence, but I'm full.
+  at:
+  - 327
+  - 83
+  to:
+  - 208
+  - 184
+  width: 200
+  kind: speech
+- text: 'No offence: I don''t mean to hurt you'
+  at:
+  - 687
+  - 104
+  to:
+  - 208
+  - 184
+  width: 300

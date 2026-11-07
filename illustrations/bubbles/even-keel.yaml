@@ -1,0 +1,27 @@
+image: outputs/even-keel/seed_1.png
+out: outputs/lexicard/even-keel.png
+bubbles:
+- text: Calm and steady today.
+  at:
+  - 274
+  - 104
+  to:
+  - 456
+  - 108
+  width: 200
+- text: The keel keeps the boat level
+  at:
+  - 639
+  - 134
+  to:
+  - 500
+  - 624
+  width: 200
+- text: 'Even keel: stable and balanced'
+  at:
+  - 865
+  - 326
+  to:
+  - 456
+  - 108
+  width: 200

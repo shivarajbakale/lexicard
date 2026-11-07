@@ -1,0 +1,30 @@
+image: outputs/skeptical/seed_1.png
+out: outputs/lexicard/skeptical.png
+bubbles:
+- text: I caught one this big!
+  at:
+  - 127
+  - 267
+  to:
+  - 532
+  - 140
+  width: 163
+  size: 36
+  kind: speech
+- text: Hmm, I doubt that.
+  at:
+  - 878
+  - 83
+  to:
+  - 696
+  - 60
+  width: 200
+  kind: speech
+- text: 'Skeptical: not easily convinced'
+  at:
+  - 336
+  - 104
+  to:
+  - 696
+  - 60
+  width: 300

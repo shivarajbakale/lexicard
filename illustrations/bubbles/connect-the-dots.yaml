@@ -1,0 +1,29 @@
+image: outputs/connect-the-dots/seed_1.png
+out: outputs/lexicard/connect-the-dots.png
+bubbles:
+- text: These pieces seem unrelated
+  at:
+  - 147
+  - 646
+  to:
+  - 200
+  - 156
+  width: 163
+  size: 36
+- text: The string = the link between facts
+  at:
+  - 636
+  - 644
+  to:
+  - 568
+  - 264
+  width: 300
+- text: 'Connect the dots: see how things relate'
+  at:
+  - 825
+  - 122
+  to:
+  - 200
+  - 156
+  width: 259
+  size: 38

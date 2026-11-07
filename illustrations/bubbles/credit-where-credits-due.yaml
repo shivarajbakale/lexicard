@@ -1,0 +1,21 @@
+image: outputs/credit-where-credits-due/seed_1.png
+out: outputs/lexicard/credit-where-credits-due.png
+bubbles:
+- text: Credit where credit's due!
+  at:
+  - 481
+  - 83
+  to:
+  - 188
+  - 168
+  width: 200
+  kind: speech
+- text: Thank you, everyone.
+  at:
+  - 767
+  - 107
+  to:
+  - 848
+  - 244
+  width: 200
+  kind: speech

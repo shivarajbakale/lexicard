@@ -1,0 +1,20 @@
+image: outputs/antiquated/seed_1.png
+out: outputs/lexicard/antiquated.png
+bubbles:
+- text: Nice bike, grandpa!
+  at:
+  - 156
+  - 95
+  to:
+  - 320
+  - 96
+  width: 200
+  kind: speech
+- text: 'Antiquated: too old-fashioned for today'
+  at:
+  - 626
+  - 134
+  to:
+  - 320
+  - 96
+  width: 300

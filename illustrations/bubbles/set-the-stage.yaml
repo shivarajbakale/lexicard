@@ -1,0 +1,12 @@
+image: outputs/set-the-stage/seed_1.png
+out: outputs/lexicard/set-the-stage.png
+bubbles:
+- text: 'Set the stage: prepare for what comes next'
+  at:
+  - 831
+  - 638
+  to:
+  - 520
+  - 504
+  width: 259
+  size: 38

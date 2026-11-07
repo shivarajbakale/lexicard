@@ -1,0 +1,20 @@
+image: outputs/implore/seed_1.png
+out: outputs/lexicard/implore.png
+bubbles:
+- text: Please, please, can we keep the puppy?
+  at:
+  - 300
+  - 275
+  to:
+  - 370
+  - 434
+  width: 300
+  kind: speech
+- text: 'Implore: beg urgently and sincerely'
+  at:
+  - 831
+  - 134
+  to:
+  - 636
+  - 120
+  width: 300

@@ -1,0 +1,29 @@
+image: outputs/green-light/seed_1.png
+out: outputs/lexicard/green-light.png
+bubbles:
+- text: Go ahead, you may start now
+  at:
+  - 146
+  - 106
+  to:
+  - 268
+  - 204
+  width: 200
+  kind: speech
+- text: The signal says go
+  at:
+  - 613
+  - 104
+  to:
+  - 480
+  - 248
+  width: 200
+- text: 'Green light: official permission to proceed'
+  at:
+  - 818
+  - 302
+  to:
+  - 480
+  - 248
+  width: 259
+  size: 38

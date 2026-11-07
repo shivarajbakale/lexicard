@@ -1,0 +1,20 @@
+image: outputs/glass-ceiling/seed_1.png
+out: outputs/lexicard/glass-ceiling.png
+bubbles:
+- text: Ow! What did I hit?
+  at:
+  - 124
+  - 623
+  to:
+  - 564
+  - 64
+  width: 200
+  kind: speech
+- text: 'Glass ceiling: invisible barrier blocking promotion'
+  at:
+  - 266
+  - 134
+  to:
+  - 576
+  - 332
+  width: 300

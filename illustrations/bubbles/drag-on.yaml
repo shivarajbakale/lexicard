@@ -1,0 +1,27 @@
+image: outputs/drag-on/seed_1.png
+out: outputs/lexicard/drag-on.png
+bubbles:
+- text: My beard grew during this talk
+  at:
+  - 165
+  - 134
+  to:
+  - 208
+  - 260
+  width: 200
+- text: When will it end?
+  at:
+  - 518
+  - 140
+  to:
+  - 412
+  - 260
+  width: 200
+- text: It will drag on and on
+  at:
+  - 860
+  - 116
+  to:
+  - 764
+  - 248
+  width: 200

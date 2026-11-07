@@ -1,0 +1,28 @@
+image: outputs/run-the-gauntlet/seed_1.png
+out: outputs/lexicard/run-the-gauntlet.png
+bubbles:
+- text: Pillows from every side
+  at:
+  - 170
+  - 176
+  to:
+  - 212
+  - 328
+  width: 200
+- text: My shield barely helps
+  at:
+  - 517
+  - 248
+  to:
+  - 476
+  - 412
+  width: 200
+- text: 'Run the gauntlet: face attack after attack'
+  at:
+  - 834
+  - 146
+  to:
+  - 864
+  - 348
+  width: 259
+  size: 38

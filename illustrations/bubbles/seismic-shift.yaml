@@ -1,0 +1,27 @@
+image: outputs/seismic-shift/seed_1.png
+out: outputs/lexicard/seismic-shift.png
+bubbles:
+- text: The ground is moving!
+  at:
+  - 152
+  - 212
+  to:
+  - 16
+  - 308
+  width: 200
+- text: Everything has changed
+  at:
+  - 511
+  - 116
+  to:
+  - 508
+  - 388
+  width: 200
+- text: 'A seismic shift: a huge change'
+  at:
+  - 843
+  - 194
+  to:
+  - 1004
+  - 304
+  width: 200

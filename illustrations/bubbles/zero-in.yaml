@@ -1,0 +1,27 @@
+image: outputs/zero-in/seed_1.png
+out: outputs/lexicard/zero-in.png
+bubbles:
+- text: Ignore all the others
+  at:
+  - 146
+  - 104
+  to:
+  - 328
+  - 96
+  width: 200
+- text: Only this one matters
+  at:
+  - 658
+  - 296
+  to:
+  - 516
+  - 616
+  width: 200
+- text: Zero in on one detail
+  at:
+  - 817
+  - 104
+  to:
+  - 328
+  - 96
+  width: 200

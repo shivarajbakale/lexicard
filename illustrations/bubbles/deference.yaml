@@ -1,0 +1,21 @@
+image: outputs/deference/seed_1.png
+out: outputs/lexicard/deference.png
+bubbles:
+- text: After you. Whatever you decide.
+  at:
+  - 213
+  - 250
+  to:
+  - 286
+  - 414
+  width: 300
+  kind: speech
+- text: 'Deference: respect for someone''s authority'
+  at:
+  - 829
+  - 122
+  to:
+  - 286
+  - 414
+  width: 259
+  size: 38

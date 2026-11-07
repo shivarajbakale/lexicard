@@ -1,0 +1,21 @@
+image: outputs/covet/seed_1.png
+out: outputs/lexicard/covet.png
+bubbles:
+- text: I wish that bike were mine.
+  at:
+  - 256
+  - 118
+  to:
+  - 276
+  - 272
+  width: 200
+  kind: speech
+- text: 'Covet: want what belongs to someone else'
+  at:
+  - 821
+  - 122
+  to:
+  - 696
+  - 564
+  width: 259
+  size: 38

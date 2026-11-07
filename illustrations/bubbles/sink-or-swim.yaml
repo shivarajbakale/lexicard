@@ -1,0 +1,28 @@
+image: outputs/sink-or-swim/seed_1.png
+out: outputs/lexicard/sink-or-swim.png
+bubbles:
+- text: Help! I can't touch the bottom!
+  at:
+  - 207
+  - 347
+  to:
+  - 720
+  - 64
+  width: 300
+  kind: speech
+- text: The float is out of reach
+  at:
+  - 159
+  - 116
+  to:
+  - 132
+  - 556
+  width: 200
+- text: 'Sink or swim: succeed alone or fail'
+  at:
+  - 511
+  - 194
+  to:
+  - 840
+  - 104
+  width: 300

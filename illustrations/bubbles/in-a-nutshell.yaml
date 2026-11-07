@@ -1,0 +1,29 @@
+image: outputs/in-a-nutshell/seed_2.png
+out: outputs/lexicard/in-a-nutshell.png
+bubbles:
+- text: Just give me the short version
+  at:
+  - 173
+  - 118
+  to:
+  - 628
+  - 212
+  width: 200
+  kind: speech
+- text: The whole story fits in a nut
+  at:
+  - 838
+  - 134
+  to:
+  - 504
+  - 484
+  width: 200
+- text: 'In a nutshell: in very few words'
+  at:
+  - 494
+  - 96
+  to:
+  - 364
+  - 128
+  width: 259
+  size: 38

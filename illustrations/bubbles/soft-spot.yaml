@@ -1,0 +1,28 @@
+image: outputs/soft-spot/seed_1.png
+out: outputs/lexicard/soft-spot.png
+bubbles:
+- text: Tough on the outside...
+  at:
+  - 164
+  - 104
+  to:
+  - 364
+  - 88
+  width: 200
+- text: The kitten melts his heart
+  at:
+  - 660
+  - 170
+  to:
+  - 632
+  - 560
+  width: 200
+- text: 'Soft spot: a tender liking for someone'
+  at:
+  - 835
+  - 384
+  to:
+  - 364
+  - 88
+  width: 259
+  size: 38

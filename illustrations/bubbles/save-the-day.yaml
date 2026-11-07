@@ -1,0 +1,30 @@
+image: outputs/save-the-day/seed_1.png
+out: outputs/lexicard/save-the-day.png
+bubbles:
+- text: Oh no, the cake!
+  at:
+  - 536
+  - 299
+  to:
+  - 904
+  - 312
+  width: 200
+  kind: speech
+- text: The tray catches it in time
+  at:
+  - 390
+  - 118
+  to:
+  - 420
+  - 508
+  width: 163
+  size: 36
+- text: 'Save the day: rescue a bad situation'
+  at:
+  - 712
+  - 122
+  to:
+  - 228
+  - 184
+  width: 259
+  size: 38

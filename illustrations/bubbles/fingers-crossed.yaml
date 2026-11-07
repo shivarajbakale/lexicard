@@ -1,0 +1,28 @@
+image: outputs/fingers-crossed/seed_1.png
+out: outputs/lexicard/fingers-crossed.png
+bubbles:
+- text: Please let me get the job.
+  at:
+  - 164
+  - 248
+  to:
+  - 284
+  - 360
+  width: 200
+- text: Luck charm for hoping
+  at:
+  - 862
+  - 296
+  to:
+  - 664
+  - 412
+  width: 200
+- text: 'Fingers crossed: hoping it turns out well'
+  at:
+  - 195
+  - 638
+  to:
+  - 284
+  - 360
+  width: 259
+  size: 38

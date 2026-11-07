@@ -1,0 +1,29 @@
+image: outputs/head-over-heels/seed_1.png
+out: outputs/lexicard/head-over-heels.png
+bubbles:
+- text: The world feels upside down
+  at:
+  - 484
+  - 134
+  to:
+  - 272
+  - 180
+  width: 200
+- text: The flower from her = love begins
+  at:
+  - 799
+  - 249
+  to:
+  - 452
+  - 404
+  width: 245
+  size: 36
+- text: 'Head over heels: madly in love'
+  at:
+  - 870
+  - 638
+  to:
+  - 556
+  - 284
+  width: 172
+  size: 38

@@ -1,0 +1,29 @@
+image: outputs/check-you-out/seed_1.png
+out: outputs/lexicard/check-you-out.png
+bubbles:
+- text: Check you out!
+  at:
+  - 157
+  - 107
+  to:
+  - 292
+  - 192
+  width: 150
+  kind: speech
+- text: Admiring your new look
+  at:
+  - 563
+  - 140
+  to:
+  - 800
+  - 240
+  width: 200
+- text: Impressed by style
+  at:
+  - 877
+  - 93
+  to:
+  - 728
+  - 552
+  width: 163
+  size: 36

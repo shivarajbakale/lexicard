@@ -1,0 +1,20 @@
+image: outputs/down-the-drain/seed_1.png
+out: outputs/lexicard/down-the-drain.png
+bubbles:
+- text: My money is going down there!
+  at:
+  - 868
+  - 118
+  to:
+  - 404
+  - 256
+  width: 163
+  size: 36
+- text: 'Down the drain: wasted, gone'
+  at:
+  - 281
+  - 134
+  to:
+  - 404
+  - 256
+  width: 200

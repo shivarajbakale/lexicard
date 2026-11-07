@@ -1,0 +1,20 @@
+image: outputs/pay-attention/seed_1.png
+out: outputs/lexicard/pay-attention.png
+bubbles:
+- text: Please pay attention!
+  at:
+  - 124
+  - 83
+  to:
+  - 272
+  - 120
+  width: 200
+  kind: speech
+- text: Oh, sorry, I'm listening.
+  at:
+  - 813
+  - 104
+  to:
+  - 272
+  - 120
+  width: 200

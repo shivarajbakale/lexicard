@@ -1,0 +1,21 @@
+image: outputs/procrastinate/seed_1.png
+out: outputs/lexicard/procrastinate.png
+bubbles:
+- text: Those dishes won't wash themselves!
+  at:
+  - 745
+  - 95
+  to:
+  - 852
+  - 220
+  width: 300
+  kind: speech
+- text: 'Procrastinate: put off what you should do'
+  at:
+  - 341
+  - 122
+  to:
+  - 260
+  - 180
+  width: 259
+  size: 38

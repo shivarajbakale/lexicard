@@ -1,0 +1,21 @@
+image: outputs/futility/seed_1.png
+out: outputs/lexicard/futility.png
+bubbles:
+- text: More are falling already!
+  at:
+  - 116
+  - 106
+  to:
+  - 440
+  - 56
+  width: 200
+  kind: speech
+- text: 'Futility: a task that can never succeed'
+  at:
+  - 818
+  - 96
+  to:
+  - 440
+  - 56
+  width: 259
+  size: 38

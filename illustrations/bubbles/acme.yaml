@@ -1,0 +1,20 @@
+image: outputs/acme/seed_1.png
+out: outputs/lexicard/acme.png
+bubbles:
+- text: Nothing is higher than this!
+  at:
+  - 139
+  - 106
+  to:
+  - 296
+  - 116
+  width: 200
+  kind: speech
+- text: 'Acme: the very highest point'
+  at:
+  - 768
+  - 134
+  to:
+  - 296
+  - 116
+  width: 200

@@ -1,0 +1,20 @@
+image: outputs/impasse/seed_1.png
+out: outputs/lexicard/impasse.png
+bubbles:
+- text: You go back first!
+  at:
+  - 281
+  - 95
+  to:
+  - 432
+  - 152
+  width: 200
+  kind: speech
+- text: 'Impasse: stuck, no way forward'
+  at:
+  - 819
+  - 134
+  to:
+  - 584
+  - 152
+  width: 200

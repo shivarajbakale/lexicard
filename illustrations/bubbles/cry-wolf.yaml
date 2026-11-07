@@ -1,0 +1,28 @@
+image: outputs/cry-wolf/seed_1.png
+out: outputs/lexicard/cry-wolf.png
+bubbles:
+- text: Wolf! Wolf! Help me!
+  at:
+  - 227
+  - 299
+  to:
+  - 392
+  - 320
+  width: 200
+  kind: speech
+- text: They ignored him, so no one comes
+  at:
+  - 297
+  - 104
+  to:
+  - 772
+  - 260
+  width: 300
+- text: 'Cry wolf: false warnings nobody believes'
+  at:
+  - 708
+  - 134
+  to:
+  - 400
+  - 496
+  width: 300

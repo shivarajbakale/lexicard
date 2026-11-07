@@ -1,0 +1,21 @@
+image: outputs/whats-in-it-for-me/seed_1.png
+out: outputs/lexicard/whats-in-it-for-me.png
+bubbles:
+- text: What's in it for me?
+  at:
+  - 560
+  - 83
+  to:
+  - 816
+  - 144
+  width: 200
+  kind: speech
+- text: 'What''s in it for me: what do I gain?'
+  at:
+  - 217
+  - 96
+  to:
+  - 816
+  - 144
+  width: 259
+  size: 38

@@ -1,0 +1,29 @@
+image: outputs/agree-to-disagree/seed_1.png
+out: outputs/lexicard/agree-to-disagree.png
+bubbles:
+- text: Let's agree to disagree.
+  at:
+  - 194
+  - 83
+  to:
+  - 348
+  - 120
+  width: 200
+  kind: speech
+- text: Different opinions stay
+  at:
+  - 621
+  - 104
+  to:
+  - 468
+  - 140
+  width: 200
+- text: Stop arguing over it
+  at:
+  - 868
+  - 240
+  to:
+  - 528
+  - 616
+  width: 172
+  size: 38
