@@ -20,7 +20,7 @@ import { scheduleOnRN, scheduleOnUI } from 'react-native-worklets';
 import { illustrations } from '../data/illustrations';
 import { scenes } from '../data/scenes';
 import type { Card } from '../lib/types';
-import { colors, ipaFont, kindStyle, radius, springs } from '../theme';
+import { colors, ipaFont, kindStyle, PAPER, radius, springs } from '../theme';
 import { playClip } from '../lib/audio';
 import { useStore } from '../lib/store';
 import { CardStory } from './CardStory';
@@ -241,12 +241,13 @@ export function DeckCard({ card, index, width, height, enterFrom, onSwiped, fram
   const tight = height < 340;
   const long = card.term.length > 14;
 
-  // Picture on the front: full width at 4:3, smaller on short cards so the term still fits under it.
-  const fullW = width - 24;
-  const textRoom = card.sayIt ? 170 : 150;
-  const frontArtH = art ? Math.max(0, Math.min(fullW * 0.75, height - 12 - 46 - textRoom)) : 0;
+  // Picture on the front runs edge to edge at 4:3. On short cards the hint line goes first, then the picture
+  // gets shorter (letterboxed in its own paper colour) so the term always fits under it.
+  const fullH = Math.round(width * 0.75);
+  const textRoom = card.sayIt ? 150 : 128;
+  const showFoot = !art || height - fullH - textRoom >= 44;
+  const frontArtH = art ? Math.max(0, Math.min(fullH, height - textRoom - (showFoot ? 44 : 0))) : 0;
   const showFrontArt = frontArtH >= 120;
-  const frontArtW = Math.round(frontArtH / 0.75);
   const base = long ? (tight ? 28 : 32) : tight ? 34 : 40;
   const termBase = showFrontArt ? base - 4 : base;
   // Sized to the card, not fixed: on a phone the card is ~350px wide and a fixed 46px term crowds it.
@@ -267,8 +268,8 @@ export function DeckCard({ card, index, width, height, enterFrom, onSwiped, fram
         {/* Front */}
         <Animated.View style={[styles.face, styles.front, ink && styles.ink, frontStyle]}>
           {showFrontArt && art ? (
-            <View style={[styles.frontArt, { width: frontArtW, height: frontArtH }]}>
-              <Image source={art} style={{ width: '100%', height: '100%' }} resizeMode="cover" accessibilityIgnoresInvertColors />
+            <View style={[styles.frontArt, { height: frontArtH }]}>
+              <Image source={art} style={{ width: '100%', height: '100%' }} resizeMode="contain" accessibilityIgnoresInvertColors />
               <SpeakerGlyph cardId={card.id} slot="term" style={styles.speakerOnArt} />
             </View>
           ) : (
@@ -294,12 +295,16 @@ export function DeckCard({ card, index, width, height, enterFrom, onSwiped, fram
               </Txt>
             )}
           </View>
+          {showFoot ? (
           <View style={styles.frontFoot}>
             <Icon name="refresh-cw" size={14} color={colors.textFaint} />
             <Txt size={13} color={colors.textFaint}>
               Tap to explain · swipe to sort
             </Txt>
           </View>
+          ) : (
+            <View style={{ height: 16 }} />
+          )}
         </Animated.View>
 
         {/* Back: scrolls on into the story */}
@@ -319,7 +324,7 @@ export function DeckCard({ card, index, width, height, enterFrom, onSwiped, fram
                 paddingBottom: frame.bottom + 24,
               }}
             >
-              <CardStory card={card} art={art} scene={scene} artW={fullW} artH={Math.round(fullW * 0.75)} progress={story} onFullPage={openFullPage} />
+              <CardStory card={card} art={art} scene={scene} artW={width} artH={fullH} progress={story} onFullPage={openFullPage} />
             </Animated.ScrollView>
           </Animated.View>
 
@@ -373,7 +378,7 @@ const styles = StyleSheet.create({
   },
   front: { justifyContent: 'space-between' },
   ink: { backgroundColor: '#050604', borderColor: colors.lime, borderWidth: 1.5 },
-  frontArt: { alignSelf: 'center', marginTop: 12, borderRadius: radius.lg, overflow: 'hidden', backgroundColor: '#F3F2EC' },
+  frontArt: { width: '100%', backgroundColor: PAPER },
   speakerOnArt: { position: 'absolute', top: 10, right: 10 },
   frontBody: { flex: 1, alignItems: 'center', justifyContent: 'center', gap: 12, paddingHorizontal: 28, paddingTop: 28 },
   frontBodyArt: { gap: 8, paddingTop: 8, paddingHorizontal: 20 },

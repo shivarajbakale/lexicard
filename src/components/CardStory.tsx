@@ -3,7 +3,7 @@ import Animated, { useAnimatedStyle, type SharedValue } from 'react-native-reani
 
 import type { Scene } from '../data/scenes';
 import type { Card } from '../lib/types';
-import { colors, confidenceStyle, radius } from '../theme';
+import { colors, confidenceStyle, PAPER, radius } from '../theme';
 import { SpeakerGlyph } from './Speaker';
 import { SETTING_LABEL } from './UsedItSheet';
 import { Highlighted, Icon, Label, Pill, PressScale, Txt } from './ui';
@@ -219,7 +219,8 @@ function Section({ label, color = colors.textMuted, children }: { label: string;
 }
 
 const styles = StyleSheet.create({
-  art: { alignSelf: 'center', borderRadius: radius.lg, overflow: 'hidden', backgroundColor: '#F3F2EC' },
+  // Edge to edge on the card: cancels the scroll content's 12px inset.
+  art: { marginHorizontal: -12, marginTop: -12, overflow: 'hidden', backgroundColor: PAPER },
   speaker: { position: 'absolute', top: 10, right: 10 },
   body: { gap: 14, paddingHorizontal: 8 },
   badge: { backgroundColor: colors.ink, borderRadius: 9, overflow: 'hidden' },
