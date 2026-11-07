@@ -3,7 +3,8 @@ import { playClip, stopAudio } from '../../lib/audio';
 import { useRouter } from 'expo-router';
 import { useCallback, useEffect, useMemo, useRef, useState, type ComponentRef } from 'react';
 import { Platform, StyleSheet, useWindowDimensions, View } from 'react-native';
-import Animated, { FadeIn, useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated';
+import Animated, { FadeIn, useAnimatedReaction, useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated';
+import { scheduleOnRN } from 'react-native-worklets';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { DeckCard, type DeckCardHandle, type StoryFrame } from '../../components/DeckCard';
@@ -170,11 +171,18 @@ export default function Learn() {
   }, [pos, total, progress]);
   const barStyle = useAnimatedStyle(() => ({ width: `${progress.value * 100}%` }));
   const chromeStyle = useAnimatedStyle(() => ({ opacity: Math.max(0, 1 - story.value * 2.2), transform: [{ translateY: -24 * story.value }] }));
+  // The sort buttons step out of the way in story mode; the story gets the whole screen.
   const actionsStyle = useAnimatedStyle(() => ({
-    backgroundColor: `rgba(14,15,13,${story.value.toFixed(3)})`,
-    borderTopColor: `rgba(46,50,42,${story.value.toFixed(3)})`,
+    opacity: Math.max(0, 1 - story.value * 2.5),
+    transform: [{ translateY: 48 * Math.min(1, story.value * 2) }],
   }));
-  const undoStyle = useAnimatedStyle(() => ({ opacity: Math.max(0, 1 - story.value * 2) }));
+  const [storyOpen, setStoryOpen] = useState(false);
+  useAnimatedReaction(
+    () => story.value > 0.3,
+    (open, was) => {
+      if (open !== was) scheduleOnRN(setStoryOpen, open);
+    },
+  );
 
   // The card fills the space between the progress bar and the buttons. The cap only matters on
   // unusually tall/narrow windows; short phones get a compact card (see DeckCard).
@@ -297,13 +305,11 @@ export default function Learn() {
       </View>
 
       {/* Same height whether or not the sort buttons show, so the deck doesn't jump when it's cleared. */}
-      <Animated.View style={[styles.actions, narrow && styles.actionsNarrow, { minHeight: 40 + 14 }, actionsStyle]}>
+      <Animated.View style={[styles.actions, narrow && styles.actionsNarrow, { minHeight: 40 + 14 }, actionsStyle]} pointerEvents={storyOpen ? 'none' : 'auto'}>
         {(!done || (session?.log.length ?? 0) > 0) ? (
-          <Animated.View style={undoStyle}>
-            <PressScale style={[styles.roundBtn, narrow && styles.roundNarrow]} scaleTo={0.92} onPress={undo} accessibilityRole="button" accessibilityLabel="Undo last swipe">
-              <Icon name="corner-up-left" size={16} color={colors.textMuted} />
-            </PressScale>
-          </Animated.View>
+          <PressScale style={[styles.roundBtn, narrow && styles.roundNarrow]} scaleTo={0.92} onPress={undo} accessibilityRole="button" accessibilityLabel="Undo last swipe">
+            <Icon name="corner-up-left" size={16} color={colors.textMuted} />
+          </PressScale>
         ) : (
           <View style={[styles.roundSlot, narrow && styles.roundNarrow]} />
         )}
@@ -390,7 +396,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
-  actions: { zIndex: 3, borderTopWidth: 1, flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: 8, paddingHorizontal: 20, paddingTop: 8, paddingBottom: 10 },
+  actions: { zIndex: 3, flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: 8, paddingHorizontal: 20, paddingTop: 8, paddingBottom: 10 },
   roundBtn: { width: 38, height: 38, borderRadius: 19, alignItems: 'center', justifyContent: 'center', backgroundColor: colors.surface, borderWidth: 1, borderColor: colors.border },
   roundSlot: { width: 38, height: 38 },
   roundNarrow: { width: 36, height: 36, borderRadius: 18 },

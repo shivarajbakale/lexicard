@@ -321,7 +321,7 @@ export function DeckCard({ card, index, width, height, enterFrom, onSwiped, fram
                 paddingTop: frame.top + 12,
                 paddingLeft: frame.left + 12,
                 paddingRight: frame.right + 12,
-                paddingBottom: frame.bottom + 24,
+                paddingBottom: frame.insetTop + 40,
               }}
             >
               <CardStory card={card} art={art} scene={scene} artW={width} artH={fullH} progress={story} onFullPage={openFullPage} />
