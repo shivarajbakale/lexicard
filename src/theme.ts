@@ -25,6 +25,9 @@ export const colors = {
   ink: '#0B0C0A',
 } as const;
 
+/** The card pictures' own off-white, so a letterboxed picture blends into its box. */
+export const PAPER = '#FCF6E9';
+
 export const fonts = {
   regular: 'Geist_400Regular',
   medium: 'Geist_500Medium',
