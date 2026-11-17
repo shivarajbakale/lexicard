@@ -14,12 +14,14 @@ import Animated, {
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { scheduleOnRN } from 'react-native-worklets';
 
+import { SceneText } from '../../components/CardStory';
 import { BuiltFrom, SameRoot } from '../../components/RootParts';
 import { SpeakerButton, SpeakerGlyph } from '../../components/Speaker';
 import { SETTING_ICON, SETTING_LABEL, UsedItSheet } from '../../components/UsedItSheet';
 import { Highlighted, Icon, PressScale, Txt } from '../../components/ui';
 import { allCards, breakdowns, cardsById, cardsOfRoot, deckOfCard } from '../../data';
 import { illustrations } from '../../data/illustrations';
+import { scenes } from '../../data/scenes';
 import { playClip } from '../../lib/audio';
 import { levelState } from '../../lib/levels';
 import { isDue, MAX_BOX, relativeDue } from '../../lib/srs';
@@ -93,6 +95,7 @@ const SEE_SLIDE = {
 const RAIL_H = 176;
 const THUMB_H = 44;
 const RAIL_GUTTER = 44; // room on the right so the rail never covers text
+const PHONE_GUTTER = 22; // phones have no rail, so the text gets the full width
 
 // Reel-style paging: a swipe of a fifth of the screen, or a quick flick, moves exactly one slide. The move is a
 // spring that starts at the finger's speed, so a hard flick lands fast and a lazy one glides, with no hard stop.
@@ -166,6 +169,7 @@ export default function CardDetail() {
   const pagerRef = useRef<HTMLElement | null>(null);
 
   const art: number | undefined = illustrations[id ?? ''];
+  const scene = scenes[id ?? ''];
   const slides = art ? [SLIDES[0], SEE_SLIDE, SLIDES[1], SLIDES[2], SLIDES[3]] : SLIDES;
   const LAST = slides.length - 1;
   const last = useSharedValue(LAST); // the worklets' copy of LAST
@@ -328,7 +332,8 @@ export default function CardDetail() {
   const canLog = !!review && Math.max(review.box, review.bestBox ?? 1) >= 2;
   const usedSettings = new Set((used ?? []).map((u) => u.setting));
   const allUsed = usedSettings.size >= 3;
-  const slideStyle = (i: number) => [styles.slide, { backgroundColor: SLIDES[i].bg }];
+  const gutter = { paddingRight: phone ? PHONE_GUTTER : RAIL_GUTTER };
+  const slideStyle = (i: number) => [styles.slide, gutter, { backgroundColor: SLIDES[i].bg }];
   const sameRoot = !!breakdowns[card.id]?.parts.some((p) => p.rootId && cardsOfRoot[p.rootId].length >= 2);
   const hasMore = sameRoot || !!card.forms?.length || !!card.similar?.length || !!card.opposite || !!card.pitfall;
 
@@ -351,6 +356,14 @@ export default function CardDetail() {
           <Txt size={11} color={theme.sub}>
             {theme.name} · {active + 1} of {slides.length}
           </Txt>
+          {/* Phones have no side rail: these dots show where you are in the card. */}
+          {phone && (
+            <View style={styles.dots} pointerEvents="none" importantForAccessibility="no-hide-descendants">
+              {slides.map((s, i) => (
+                <View key={s.name} style={[styles.dotStep, { backgroundColor: i === active ? theme.fg : theme.track }, i === active && styles.dotStepOn]} />
+              ))}
+            </View>
+          )}
         </View>
         <PressScale
           style={[styles.headBtn, { borderColor: theme.line }, saved && { backgroundColor: theme.tagBg, borderColor: theme.tagBg }]}
@@ -452,7 +465,7 @@ export default function CardDetail() {
 
             {/* 1b · See it (only cards with an illustration) */}
             {art && (
-              <Page height={viewH} bg={SEE_SLIDE.bg} style={[styles.slide, { backgroundColor: SEE_SLIDE.bg }]}>
+              <Page height={viewH} bg={SEE_SLIDE.bg} style={[styles.slide, gutter, { backgroundColor: SEE_SLIDE.bg }]}>
                 <Txt weight="semibold" size={phone ? 22 : 24} color={SEE_SLIDE.fg} style={{ letterSpacing: -0.5 }} accessibilityRole="header">
                   See it
                 </Txt>
@@ -465,9 +478,35 @@ export default function CardDetail() {
                     accessibilityLabel={`Cartoon of ${card.term}, with numbered thought bubbles that explain it`}
                   />
                 </View>
-                <Txt size={12} color={SEE_SLIDE.sub}>
-                  Read the bubbles in number order.
-                </Txt>
+                {scene ? (
+                  <>
+                    <SceneText
+                      text={scene.bubbles.length > 1 ? scene.scene : scene.scene.replace(/\s*\[\d+\]/g, '')}
+                      size={phone ? 15 : 16}
+                      color={colors.textSoft}
+                    />
+                    {scene.bubbles.length > 1 && (
+                      <View style={{ gap: 8 }}>
+                        {scene.bubbles.map((b, i) => (
+                          <View key={i} style={styles.bubbleRow}>
+                            <View style={styles.bubbleNum}>
+                              <Txt weight="bold" size={11} color={colors.lime}>
+                                {i + 1}
+                              </Txt>
+                            </View>
+                            <Txt size={14} color={colors.textSoft} style={{ flex: 1, lineHeight: 20 }}>
+                              {b}
+                            </Txt>
+                          </View>
+                        ))}
+                      </View>
+                    )}
+                  </>
+                ) : (
+                  <Txt size={12} color={SEE_SLIDE.sub}>
+                    Read the bubbles in number order.
+                  </Txt>
+                )}
                 <NextHint label="how to use it" color={SEE_SLIDE.sub} />
               </Page>
             )}
@@ -705,7 +744,8 @@ export default function CardDetail() {
           </Animated.View>
         </GestureDetector>
 
-        {/* Section rail: shows where you are, tap a segment to jump. */}
+        {/* Section rail: shows where you are, tap a segment to jump. Too small a target on phones, which get header dots instead. */}
+        {!phone && (
         <View style={styles.rail} accessibilityRole="tablist" accessibilityLabel="Sections">
           <View style={[styles.railTrack, { backgroundColor: theme.track }]} pointerEvents="none" />
           <Animated.View style={[styles.railThumb, { backgroundColor: theme.thumb }, thumbStyle]} pointerEvents="none" />
@@ -726,6 +766,7 @@ export default function CardDetail() {
             </Txt>
           </Animated.View>
         </View>
+        )}
       </View>
 
       {toast?.id === card.id && (
@@ -797,14 +838,19 @@ const styles = StyleSheet.create({
     zIndex: 2,
   },
   headBtn: {
-    width: 40,
-    height: 40,
-    borderRadius: 20,
+    width: 44,
+    height: 44,
+    borderRadius: 22,
     borderWidth: 1,
     alignItems: 'center',
     justifyContent: 'center',
   },
   headTitle: { flex: 1, alignItems: 'center', gap: 1, minWidth: 0 },
+  dots: { flexDirection: 'row', gap: 4, marginTop: 4 },
+  dotStep: { width: 6, height: 3, borderRadius: 1.5 },
+  dotStepOn: { width: 16 },
+  bubbleRow: { flexDirection: 'row', gap: 10, alignItems: 'flex-start', paddingVertical: 10, paddingHorizontal: 12, borderRadius: radius.md, backgroundColor: colors.cardInner },
+  bubbleNum: { width: 22, height: 22, borderRadius: 11, backgroundColor: colors.ink, alignItems: 'center', justifyContent: 'center' },
   slide: {
     paddingTop: 14,
     paddingBottom: 16,
@@ -997,7 +1043,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     gap: 4,
-    height: 40,
+    height: 44,
     paddingHorizontal: 10,
     borderRadius: radius.md,
     backgroundColor: colors.surface2,
