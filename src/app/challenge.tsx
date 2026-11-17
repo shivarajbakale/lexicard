@@ -1,13 +1,13 @@
-import * as Haptics from 'expo-haptics';
 import { useRouter } from 'expo-router';
 import { useEffect, useState } from 'react';
-import { Platform, StyleSheet, View } from 'react-native';
+import { StyleSheet, View } from 'react-native';
 import Animated, { FadeIn, FadeInDown } from 'react-native-reanimated';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { ProgressTrack } from '../components/LevelChip';
 import { Icon, IconButton, Pill, PressScale, Txt } from '../components/ui';
 import { allCards, deckOfCard, openDeckIds } from '../data';
+import { feedback } from '../lib/haptics';
 import { hasFeature } from '../lib/levels';
 import { useLevel, useStore } from '../lib/store';
 import type { Card } from '../lib/types';
@@ -112,7 +112,7 @@ export default function Challenge() {
     const right = id === q.card.id;
     setPicked(id);
     if (right) setScore((n) => n + 1);
-    if (Platform.OS !== 'web') Haptics.impactAsync(right ? Haptics.ImpactFeedbackStyle.Light : Haptics.ImpactFeedbackStyle.Heavy);
+    feedback(right ? 'light' : 'heavy');
     setTimeout(
       () => {
         setPicked(null);

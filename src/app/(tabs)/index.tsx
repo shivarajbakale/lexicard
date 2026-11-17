@@ -1,5 +1,3 @@
-import * as Haptics from 'expo-haptics';
-import { playClip, stopAudio } from '../../lib/audio';
 import { useRouter } from 'expo-router';
 import { useCallback, useEffect, useMemo, useRef, useState, type ComponentRef } from 'react';
 import { Platform, StyleSheet, useWindowDimensions, View } from 'react-native';
@@ -10,6 +8,8 @@ import { DeckCard, type DeckCardHandle, type StoryFrame } from '../../components
 import { LevelPill } from '../../components/LevelChip';
 import { Icon, PressScale, Txt } from '../../components/ui';
 import { cardsById, cardsForScope, openDeckIds } from '../../data';
+import { playClip, stopAudio } from '../../lib/audio';
+import { feedback } from '../../lib/haptics';
 import { levelState } from '../../lib/levels';
 import { buildQueue, practiceQueue } from '../../lib/srs';
 import { levelInput, liveStreak, useLevel, useStore } from '../../lib/store';
@@ -86,7 +86,7 @@ export default function Learn() {
       answer(id, known, mode === 'practice');
       story.set(withTiming(0, { duration: 220 }));
       stopAudio();
-      if (Platform.OS !== 'web') Haptics.impactAsync(known ? Haptics.ImpactFeedbackStyle.Light : Haptics.ImpactFeedbackStyle.Soft);
+      feedback(known ? 'light' : 'soft');
       setSession((s) => {
         if (!s) return s;
         // Missed cards come back once more at the end of this session.
