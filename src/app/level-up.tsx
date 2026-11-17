@@ -1,12 +1,12 @@
-import * as Haptics from 'expo-haptics';
 import { useRouter } from 'expo-router';
 import { useEffect, useState } from 'react';
-import { Platform, StyleSheet, View } from 'react-native';
+import { StyleSheet, View } from 'react-native';
 import Animated, { FadeInDown, ZoomIn } from 'react-native-reanimated';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { Icon, PressScale, Txt, type IconName } from '../components/ui';
 import { decks } from '../data';
+import { feedback } from '../lib/haptics';
 import { LEVELS, type Unlock } from '../lib/levels';
 import { useLevel, useStore } from '../lib/store';
 import { colors, radius } from '../theme';
@@ -62,7 +62,7 @@ export default function LevelUp() {
 
   useEffect(() => {
     claimLevel(level.n);
-    if (Platform.OS !== 'web') Haptics.notificationAsync(Haptics.NotificationFeedbackType.Success);
+    feedback('success');
   }, [claimLevel, level.n]);
 
   const gained = LEVELS.filter((l) => l.n > from && l.n <= level.n);
