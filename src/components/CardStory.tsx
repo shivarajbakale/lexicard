@@ -1,10 +1,9 @@
-import { Image, StyleSheet, View, type ImageSourcePropType } from 'react-native';
+import { StyleSheet, View } from 'react-native';
 import type { SharedValue } from 'react-native-reanimated';
 
 import { explanations } from '../data';
-import type { Scene } from '../data/scenes';
 import type { Card } from '../lib/types';
-import { colors, confidenceStyle, PAPER, radius } from '../theme';
+import { colors, confidenceStyle, radius } from '../theme';
 import { SpeakerGlyph } from './Speaker';
 import { SETTING_LABEL } from './UsedItSheet';
 import { Highlighted, Icon, Label, Pill, PressScale, Txt } from './ui';
@@ -30,11 +29,6 @@ export function SceneText({ text, size = 15, color = colors.text }: { text: stri
 
 interface Props {
   card: Card;
-  art?: ImageSourcePropType;
-  scene?: Scene;
-  /** picture box size on the card */
-  artW: number;
-  artH: number;
   /** 0 = card, 1 = story mode */
   progress: SharedValue<number>;
   onFullPage: () => void;
@@ -44,29 +38,16 @@ interface Props {
  * Everything on the back of the card, top to bottom. The first screenful is the card back
  * (picture, the explanation, meaning); scrolling on carries straight on into the story.
  */
-export function CardStory({ card, art, scene, artW, artH, onFullPage }: Props) {
+export function CardStory({ card, onFullPage }: Props) {
   const daily = card.uses.find((u) => u.setting === 'social') ?? card.uses[0];
   const conf = confidenceStyle[card.origin.confidence];
-  const numbered = (scene?.bubbles.length ?? 0) > 1;
 
   return (
     <View style={{ gap: 14 }}>
-      {art ? (
-        <View nativeID={`art-back-${card.id}`} style={[styles.art, { width: artW, height: artH }]}>
-          <Image
-            source={art}
-            style={{ width: '100%', height: '100%' }}
-            resizeMode="cover"
-            accessible
-            accessibilityLabel={scene ? scene.scene.replace(/\s*\[\d+\]/g, '') : `Cartoon of ${card.term}`}
-          />
-          <SpeakerGlyph cardId={card.id} slot="social" style={styles.speaker} />
-        </View>
-      ) : (
-        <View style={{ height: 30 }}>
-          <SpeakerGlyph cardId={card.id} slot="social" style={[styles.speaker, { top: -4, right: -4 }]} />
-        </View>
-      )}
+      {/* No picture on the back: the front already showed it, and the back's job is the answer. */}
+      <View style={{ height: 30 }}>
+        <SpeakerGlyph cardId={card.id} slot="social" style={[styles.speaker, { top: -4, right: -4 }]} />
+      </View>
 
       <View style={styles.body}>
         <View style={{ flexDirection: 'row', alignItems: 'baseline', gap: 10, flexWrap: 'wrap' }}>
@@ -93,40 +74,21 @@ export function CardStory({ card, art, scene, artW, artH, onFullPage }: Props) {
           </Txt>
         </View>
 
-        {!art && (
-          <View style={styles.daily}>
-            <Label color={colors.textMuted}>In daily life</Label>
-            <Txt size={15} style={{ lineHeight: 21 }}>
-              “{daily.sentence}”
-            </Txt>
-            <Txt size={12} color={colors.textMuted}>
-              {daily.where}
-            </Txt>
-          </View>
-        )}
+        <View style={styles.daily}>
+          <Label color={colors.textMuted}>In daily life</Label>
+          <Txt size={15} style={{ lineHeight: 21 }}>
+            “{daily.sentence}”
+          </Txt>
+          <Txt size={12} color={colors.textMuted}>
+            {daily.where}
+          </Txt>
+        </View>
 
         {/* Room for the card's "Full story" pill, which floats over the foot of the back (see DeckCard). */}
         <View style={{ height: 56 }} />
 
         {/* ── Story mode ── */}
         <View style={{ gap: 28, paddingTop: 6 }}>
-          {scene && numbered && (
-            <Section label="In the picture" color={colors.lime}>
-              {scene.bubbles.map((b, i) => (
-                <View key={i} style={styles.bubbleRow}>
-                  <View style={styles.bubbleNum}>
-                    <Txt weight="bold" size={12} color={colors.lime}>
-                      {i + 1}
-                    </Txt>
-                  </View>
-                  <Txt size={15} color={colors.textSoft} style={{ flex: 1, lineHeight: 22 }}>
-                    {b}
-                  </Txt>
-                </View>
-              ))}
-            </Section>
-          )}
-
           <Section label="How it feels">
             <Txt size={16} color={colors.textSoft} style={{ lineHeight: 24 }}>
               {card.nuance}
@@ -217,7 +179,6 @@ function Section({ label, color = colors.textMuted, children }: { label: string;
 
 const styles = StyleSheet.create({
   // Edge to edge on the card: cancels the scroll content's 12px inset.
-  art: { marginHorizontal: -12, marginTop: -12, overflow: 'hidden', backgroundColor: PAPER },
   speaker: { position: 'absolute', top: 10, right: 10 },
   body: { gap: 14, paddingHorizontal: 8 },
   badge: { backgroundColor: colors.ink, borderRadius: 9, overflow: 'hidden' },

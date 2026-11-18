@@ -209,9 +209,10 @@ export function DeckCard({ card, index, width, height, enterFrom, onSwiped, fram
         return;
       }
       // The picture opens full screen to zoom; the rest of the card flips.
-      const artBottom = flip.value < 0.5 ? (showFrontArt ? frontArtH : 0) : art ? fullH : 0;
+      // Only the front has a picture.
+      const artBottom = flip.value < 0.5 && showFrontArt ? frontArtH : 0;
       if (e.y < artBottom) {
-        scheduleOnRN(openViewer, flip.value < 0.5 ? 'front' : 'back');
+        scheduleOnRN(openViewer, 'front');
         return;
       }
       toggleFlip();
@@ -347,7 +348,7 @@ export function DeckCard({ card, index, width, height, enterFrom, onSwiped, fram
                 paddingBottom: frame.insetTop + 40,
               }}
             >
-              <CardStory card={card} art={art} scene={scene} artW={width} artH={fullH} progress={story} onFullPage={openFullPage} />
+              <CardStory card={card} progress={story} onFullPage={openFullPage} />
             </Animated.ScrollView>
           </Animated.View>
 
