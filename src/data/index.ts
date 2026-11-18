@@ -3,6 +3,7 @@ import type { Review } from '../lib/srs';
 import type { Breakdown, Card, CardKind, Deck, Root } from '../lib/types';
 
 import breakdownsJson from './breakdowns.json';
+import explanationsJson from './explanations.json';
 import rootsJson from './roots.json';
 
 import everydayEloquence from './decks/everyday-eloquence.json';
@@ -41,6 +42,9 @@ export const cardsById: Record<string, Card> = Object.fromEntries(allCards.map((
 export const deckOfCard: Record<string, Deck> = Object.fromEntries(
   decks.flatMap((d) => d.cards.map((c) => [c.id, d] as const)),
 );
+
+/** Plain-English "Explained" notes, keyed by card id (written by scripts/content/explain.mjs). Not every card has one yet. */
+export const explanations = explanationsJson as Record<string, string>;
 
 // Root analysis. Breakdowns are keyed by card id; root families are worked out from them here.
 export const breakdowns = breakdownsJson as Record<string, Breakdown>;

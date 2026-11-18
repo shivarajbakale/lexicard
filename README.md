@@ -134,6 +134,10 @@ What it does:
    and retries with the errors when a card doesn't pass.
 5. Groups the cards into topic decks under `src/data/decks/generated/` and registers them in `src/data/generated.ts`.
 
+`npm run explain` writes the short "Explained" note each card shows (2–3 simple sentences: what the term is really
+about, when people use it, and one useful extra) into `src/data/explanations.json`. It only fills in cards that don't
+have one yet, so run it after adding cards. It reads `MINIMAX_API_KEY` from the environment or from `.env.local`.
+
 Working files (PDF headwords, the Wiktionary lists, the per-card cache) live in `content/`, which is not committed.
 Origins are model output: spot-check them before shipping. Audio for new cards comes from
 `node scripts/generate-audio.mjs`.

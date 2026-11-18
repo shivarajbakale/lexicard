@@ -1,6 +1,7 @@
 import { Image, StyleSheet, View, type ImageSourcePropType } from 'react-native';
 import type { SharedValue } from 'react-native-reanimated';
 
+import { explanations } from '../data';
 import type { Scene } from '../data/scenes';
 import type { Card } from '../lib/types';
 import { colors, confidenceStyle, PAPER, radius } from '../theme';
@@ -41,7 +42,7 @@ interface Props {
 
 /**
  * Everything on the back of the card, top to bottom. The first screenful is the card back
- * (picture, what's happening, meaning); scrolling on carries straight on into the story.
+ * (picture, the explanation, meaning); scrolling on carries straight on into the story.
  */
 export function CardStory({ card, art, scene, artW, artH, onFullPage }: Props) {
   const daily = card.uses.find((u) => u.setting === 'social') ?? card.uses[0];
@@ -77,12 +78,13 @@ export function CardStory({ card, art, scene, artW, artH, onFullPage }: Props) {
           </Txt>
         </View>
 
-        {scene && (
-          <View style={{ gap: 6 }}>
-            <Label>What’s happening</Label>
-            <SceneText text={numbered ? scene.scene : scene.scene.replace(/\s*\[\d+\]/g, '')} />
-          </View>
-        )}
+        {/* What the term is really about. Cards still waiting for one fall back to how it feels. */}
+        <View style={{ gap: 6 }}>
+          <Label>Explained</Label>
+          <Txt size={15} style={{ lineHeight: 22 }}>
+            {explanations[card.id] ?? card.nuance}
+          </Txt>
+        </View>
 
         <View style={{ gap: 6 }}>
           <Label color={colors.textMuted}>Meaning</Label>

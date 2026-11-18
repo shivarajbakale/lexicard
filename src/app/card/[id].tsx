@@ -11,7 +11,7 @@ import { BuiltFrom, SameRoot } from '../../components/RootParts';
 import { SpeakerButton, SpeakerGlyph } from '../../components/Speaker';
 import { SETTING_ICON, SETTING_LABEL, UsedItSheet } from '../../components/UsedItSheet';
 import { Highlighted, Icon, PressScale, Txt } from '../../components/ui';
-import { allCards, breakdowns, cardsById, cardsOfRoot } from '../../data';
+import { allCards, breakdowns, cardsById, cardsOfRoot, explanations } from '../../data';
 import { illustrations } from '../../data/illustrations';
 import { scenes } from '../../data/scenes';
 import { playClip } from '../../lib/audio';
@@ -307,6 +307,15 @@ export default function CardDetail() {
                 {card.meaning}
               </Txt>
             </View>
+
+            {explanations[card.id] && (
+              <View style={styles.block}>
+                <Label>Explained</Label>
+                <Txt size={16} color={colors.text} style={{ lineHeight: 24 }}>
+                  {explanations[card.id]}
+                </Txt>
+              </View>
+            )}
 
             <View style={styles.block}>
               <Label>How it feels</Label>
