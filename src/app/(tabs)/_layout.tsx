@@ -8,8 +8,8 @@ import { Icon, PressScale, Txt, type IconName } from '../../components/ui';
 import { colors, springs } from '../../theme';
 
 const TABS: Record<string, { label: string; icon: IconName }> = {
-  index: { label: 'Learn', icon: 'layers' },
-  library: { label: 'Library', icon: 'book' },
+  index: { label: 'Today', icon: 'layers' },
+  library: { label: 'Path', icon: 'map' },
   progress: { label: 'Progress', icon: 'bar-chart-2' },
 };
 
@@ -61,8 +61,8 @@ export default function TabLayout() {
       tabBar={(props) => <TabBar {...props} />}
       screenOptions={{ headerShown: false, sceneStyle: { backgroundColor: colors.bg }, animation: 'shift' }}
     >
-      <Tabs.Screen name="index" options={{ title: 'Learn' }} />
-      <Tabs.Screen name="library" options={{ title: 'Library' }} />
+      <Tabs.Screen name="index" options={{ title: 'Today' }} />
+      <Tabs.Screen name="library" options={{ title: 'Path' }} />
       <Tabs.Screen name="progress" options={{ title: 'Progress' }} />
     </Tabs>
   );

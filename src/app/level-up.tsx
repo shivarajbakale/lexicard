@@ -56,7 +56,6 @@ export default function LevelUp() {
   const level = useLevel();
   const levelSeen = useStore((s) => s.levelSeen);
   const claimLevel = useStore((s) => s.claimLevel);
-  const setScope = useStore((s) => s.setScope);
   // Remember where we came from before claiming, so a jump of two levels lists everything it opened.
   const [from] = useState(levelSeen);
 
@@ -74,13 +73,7 @@ export default function LevelUp() {
 
   const close = () => (router.canGoBack() ? router.back() : router.replace('/'));
   const primary = newDeck
-    ? {
-        label: 'Open the new deck',
-        go: () => {
-          setScope(newDeck.deckId);
-          router.dismissTo('/');
-        },
-      }
+    ? { label: 'Keep going', go: close }
     : challenge
       ? { label: 'Try Challenge mode', go: () => router.replace('/challenge') }
       : quiz
