@@ -28,12 +28,14 @@ and where it comes from, with an honest *Well recorded / Likely / Myth* tag on e
 ## Features
 
 - **Swipe to sort.** Right if you know it, left if you don't. Tap to flip, undo with one tap.
-- **2,051 cards in 98 decks:** 1,024 words, 524 idioms and 503 phrases, from *pragmatic* to *spill the beans*.
-- **Four slides per card,** paged like reels: Meaning, Use it (work, social, writing), Origin, and More.
+- **2,051 cards in 112 packs** across three tracks: 1,024 words, 524 idioms and 503 phrases, from *pragmatic* to *spill the beans*.
+- **Packs you finish.** Each pack is 10–21 cards. A pack is done when you've known every card once; then the next one opens.
+  Today shows your current pack and one button: reviews due from every pack plus new cards from the current one.
+- **A full page per card:** meaning, a "watch out", three real uses (work, social, writing), the origin and related words.
 - **Honest origins.** Each origin story has a timeline and a confidence tag, so folk etymology is called out as a myth.
 - **Spaced repetition** with Leitner boxes (1, 2, 4, 8 and 16 days).
 - **Ten levels,** from Listener to Lexicon. Points only come from real progress and from logging real-world uses ("I used it").
-  Levels unlock decks, streak freezes, an origin quiz, a weekly recap, challenge mode and a card style.
+  Levels unlock streak freezes, an origin quiz, a weekly recap, challenge mode and a card style.
 - **Audio** for the original decks, recorded locally with [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M).
 - **Installable and offline.** A PWA with a service worker that precaches the whole app. Progress stays on your device.
 
@@ -87,7 +89,7 @@ npm run check:decks
 ## Project layout
 
 ```text
-src/app/          screens (Expo Router): Learn, Library, Progress, card pages, levels, quiz, challenge
+src/app/          screens (Expo Router): Today, Path, Progress, onboarding, session, pack and card pages, levels, quiz
 src/components/   deck cards, speaker, level chips, the "I used it" sheet
 src/lib/          store, spaced repetition (srs.ts), levels, audio, types
 src/data/decks/   one JSON file per deck (generated/ holds the generated ones)
@@ -105,6 +107,11 @@ npm run check:decks    # validates every card (ids, 3 uses, highlights, origin)
 ```
 
 Card ids are the slug of the term, so review history survives edits to a card.
+
+Packs are cut from the decks by `scripts/content/build-path.mjs`, which writes `src/data/path.json`: three tracks
+(Words, Idioms, Phrases), each a starter unit of the hand-written decks followed by one unit per theme, split into
+packs of at most 21 cards. Run `npm run path` after changing decks (the content pipeline does it for you);
+`npm run check:decks` fails if the path is out of date or a card is missing from it.
 
 ## Generating more content
 
@@ -148,9 +155,9 @@ Ten levels, from Listener to Lexicon (`src/lib/levels.ts`). Points come only fro
 
 Practice-mode swipes keep the streak alive but never move boxes, so they earn nothing. A level opens when you have
 its points and have passed its trial (for example "Master 5 cards" or "Use 3 different terms at work"). Levels never
-go down. Each level unlocks something: extra decks (Idioms you'll hear weekly at 2, Polite pushback at 4, Strange
-origins at 5), streak freezes (3, 6, 9), the Origin quiz (5), the weekly recap (6), Challenge mode (7), the Ink card
-style (8), and a star every 150 points after level 10. Decks you already have history in stay open.
+go down. Levels unlock features: streak freezes (3, 6, 9), the Origin quiz (5), the weekly recap (6), Challenge mode
+(7), the Ink card style (8), and a star every 150 points after level 10. Content isn't gated by level: packs open
+one after another instead.
 
 The level-up screen shows once per level, at the end of a session or right after logging a use. All of it is
 computed from on-device state; stored data migrated to version 1 (best boxes backfilled, existing learners start

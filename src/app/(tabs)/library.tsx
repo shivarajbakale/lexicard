@@ -1,57 +1,25 @@
-import { useFocusEffect, useRouter } from 'expo-router';
-import { useCallback, useMemo, useState } from 'react';
-import { Platform, StyleSheet, View } from 'react-native';
-import Animated, { FadeInDown, LinearTransition, useAnimatedStyle, withSpring } from 'react-native-reanimated';
+import { useRouter } from 'expo-router';
+import { useMemo, useState } from 'react';
+import { Image, StyleSheet, View } from 'react-native';
+import Animated, { useAnimatedStyle, withSpring } from 'react-native-reanimated';
+
+import { PackNode } from '../../components/packs';
 import { RootFamilyList } from '../../components/RootFamilyList';
 import { ScreenHeader, useScrollY } from '../../components/ScreenHeader';
 import { Icon, PressScale, Txt } from '../../components/ui';
-import { cardsById, decks } from '../../data';
-import { clipCount, downloadClips, playClip, useIsPlaying } from '../../lib/audio';
-import { deckLevel, deckOpen, LEVELS } from '../../lib/levels';
-import { isDue } from '../../lib/srs';
-import { useLevel, useStore } from '../../lib/store';
-import type { CardKind } from '../../lib/types';
+import { cardsById } from '../../data';
+import { illustrations } from '../../data/illustrations';
+import { playClip, useIsPlaying } from '../../lib/audio';
+import { packInfo, packProgress, packState, tracks, type PackState } from '../../lib/packs';
+import { useStore } from '../../lib/store';
+import type { Pack, TrackId } from '../../lib/types';
 import { VOICES, type VoiceId } from '../../lib/voices';
-import { colors, kindStyle, radius, springs } from '../../theme';
+import { colors, kindStyle, PAPER, radius, springs } from '../../theme';
 
-const FILTERS: { key: 'all' | CardKind | 'roots'; label: string }[] = [
-  { key: 'all', label: 'All' },
-  { key: 'word', label: 'Words' },
-  { key: 'idiom', label: 'Idioms' },
-  { key: 'phrase', label: 'Phrases' },
-  { key: 'roots', label: 'Roots' },
-];
-
-function OfflineAudioButton({ deckId, cardIds }: { deckId: string; cardIds: string[] }) {
-  const voice = useStore((s) => s.voice);
-  const done = useStore((s) => s.offlineAudio.includes(`${s.voice}:${deckId}`));
-  const mark = useStore((s) => s.markOfflineAudio);
-  const [progress, setProgress] = useState<string | null>(null);
-  const label = done ? 'Audio saved offline' : (progress ?? 'Save audio offline');
-  return (
-    <PressScale
-      style={[styles.offline, done && { borderColor: colors.limeDeep, backgroundColor: colors.limeDeep }]}
-      scaleTo={0.95}
-      disabled={done || progress != null}
-      accessibilityRole="button"
-      accessibilityLabel={label}
-      onPress={async () => {
-        setProgress('0%');
-        await downloadClips(cardIds, (n, total) => setProgress(`${Math.round((n / total) * 100)}%`));
-        mark(`${voice}:${deckId}`);
-        setProgress(null);
-      }}
-    >
-      <Icon name={done ? 'check' : 'download'} size={13} color={done ? colors.limeSoft : colors.textMuted} />
-      <Txt weight="medium" size={11} color={done ? colors.limeSoft : colors.textMuted}>
-        {done ? 'Offline' : (progress ?? 'Audio')}
-      </Txt>
-    </PressScale>
-  );
-}
+type Segment = TrackId | 'roots';
+const SEGMENTS: { key: Segment; label: string }[] = [...tracks.map((t) => ({ key: t.id as Segment, label: t.title })), { key: 'roots', label: 'Roots' }];
 
 const PREVIEW_CARD = 'candid';
-const OFFLINE_W = 80;
 
 function VoiceOption({ id, name, blurb }: { id: VoiceId; name: string; blurb: string }) {
   const selected = useStore((s) => s.voice === id);
@@ -84,178 +52,144 @@ function VoiceOption({ id, name, blurb }: { id: VoiceId; name: string; blurb: st
   );
 }
 
-export default function Library() {
-  const { y, onScroll } = useScrollY();
-  const [now, setNow] = useState(Date.now);
-  useFocusEffect(useCallback(() => setNow(Date.now()), []));
+const STATUS_TEXT: Record<PackState, string> = { done: 'Done', current: '', open: 'Open', locked: '' };
+
+function PackRow({ pack, state }: { pack: Pack; state: PackState }) {
   const router = useRouter();
   const reviews = useStore((s) => s.reviews);
-  const scope = useStore((s) => s.scope);
+  const info = packInfo[pack.id];
+  const p = packProgress(pack.id, reviews);
+  const art = pack.cardIds.map((id) => illustrations[id]).find(Boolean);
+  const status = state === 'current' ? `${p.known}/${p.total}` : state === 'open' && info.number === 1 && !p.started ? 'Start here' : STATUS_TEXT[state];
+  return (
+    <PressScale
+      style={[styles.row, state === 'current' && styles.rowCurrent]}
+      scaleTo={0.98}
+      onPress={() => router.push({ pathname: '/pack/[id]', params: { id: pack.id } })}
+      accessibilityRole="link"
+      accessibilityLabel={`Pack ${info.number}, ${pack.title}. ${state === 'current' ? `Current, ${p.known} of ${p.total} known` : state}.`}
+    >
+      <PackNode state={state} />
+      <View style={{ flex: 1, gap: 3, minWidth: 0 }}>
+        <Txt weight="mono" size={11} color={state === 'current' ? colors.limeSoft : colors.textFaint}>
+          PACK {info.number} · {pack.cardIds.length} CARDS
+        </Txt>
+        <Txt weight="semibold" size={16} color={state === 'locked' ? colors.textMuted : colors.text} numberOfLines={1}>
+          {pack.title}
+        </Txt>
+        <Txt size={12} color={colors.textFaint} numberOfLines={1}>
+          {pack.blurb}
+        </Txt>
+      </View>
+      <View style={{ alignItems: 'flex-end', gap: 6 }}>
+        {art && <Image source={art} resizeMode="cover" style={[styles.rowArt, state === 'locked' && { opacity: 0.45 }]} />}
+        {!!status && (
+          <Txt size={12} color={state === 'done' ? colors.lime : state === 'current' ? colors.limeSoft : colors.textMuted}>
+            {status}
+          </Txt>
+        )}
+      </View>
+    </PressScale>
+  );
+}
+
+/** The learning path: tracks → units → packs. Packs open one after another; every track is open from the start. */
+export default function PathTab() {
+  const { y, onScroll } = useScrollY();
+  const router = useRouter();
+  const reviews = useStore((s) => s.reviews);
+  const currentPack = useStore((s) => s.currentPack);
   const saved = useStore((s) => s.saved);
-  const setScope = useStore((s) => s.setScope);
-  const level = useLevel();
-  const [filter, setFilter] = useState(0);
+  const [segment, setSegment] = useState<Segment>(() => packInfo[currentPack]?.track.id ?? 'words');
+  const index = SEGMENTS.findIndex((s) => s.key === segment);
   const [segW, setSegW] = useState(0);
+  const indicator = useAnimatedStyle(() => ({ transform: [{ translateX: withSpring(index * segW, springs.snappy) }] }), [index, segW]);
 
-  const indicator = useAnimatedStyle(() => ({ transform: [{ translateX: withSpring(filter * segW, springs.snappy) }] }), [filter, segW]);
-
-  const shown = useMemo(() => {
-    const key = FILTERS[filter].key;
-    return decks
-      .filter((d) => key === 'all' || d.kind === key)
-      .map((d) => {
-        const known = d.cards.filter((c) => (reviews[c.id]?.box ?? 0) >= 2).length;
-        const due = d.cards.filter((c) => isDue(reviews[c.id], now)).length;
-        const fresh = d.cards.filter((c) => !reviews[c.id]).length;
-        const open = deckOpen(d.id, d.cards.map((c) => c.id), level.n, reviews);
-        return { deck: d, known, due, fresh, open };
-      });
-  }, [filter, reviews, now, level.n]);
-
-  const study = (s: string) => {
-    setScope(s);
-    router.navigate('/');
-  };
-
-  const filterKey = FILTERS[filter].key;
-  const isRoots = filterKey === 'roots';
+  const track = segment === 'roots' ? null : tracks.find((t) => t.id === segment)!;
+  const units = useMemo(() => {
+    if (!track) return [];
+    return track.units.map((unit) => {
+      const packs = unit.packs.map((p) => ({ pack: p, state: packState(p.id, reviews, currentPack) }));
+      return { unit, packs, cards: unit.packs.reduce((n, p) => n + p.cardIds.length, 0), locked: packs.every((x) => x.state === 'locked') };
+    });
+  }, [track, reviews, currentPack]);
+  const allPacks = units.flatMap((u) => u.packs);
+  const done = allPacks.filter((x) => x.state === 'done').length;
+  const cards = units.reduce((n, u) => n + u.cards, 0);
+  // Fully locked units collapse to one line; only the first of them says what opens it.
+  const firstLocked = units.findIndex((u) => u.locked);
 
   return (
     <View style={styles.screen}>
       <ScreenHeader y={y}>
         <Txt weight="semibold" size={28} style={styles.title} accessibilityRole="header">
-          Library
+          Path
         </Txt>
-        <View style={styles.segment} onLayout={(e) => setSegW((e.nativeEvent.layout.width - 8) / FILTERS.length)} accessibilityRole="tablist">
+        <View style={styles.segment} onLayout={(e) => setSegW((e.nativeEvent.layout.width - 8) / SEGMENTS.length)} accessibilityRole="tablist">
           {segW > 0 && <Animated.View style={[styles.segIndicator, { width: segW }, indicator]} />}
-          {FILTERS.map((f, i) => (
+          {SEGMENTS.map((s) => (
             <PressScale
-              key={f.key}
+              key={s.key}
               style={styles.segBtn}
               scaleTo={0.96}
-              onPress={() => setFilter(i)}
+              onPress={() => setSegment(s.key)}
               accessibilityRole="tab"
-              accessibilityState={{ selected: filter === i }}
+              accessibilityState={{ selected: segment === s.key }}
             >
-              <Txt weight="medium" size={13.5} color={filter === i ? colors.ink : colors.textSoft} numberOfLines={1}>
-                {f.label}
+              <Txt weight="medium" size={13.5} color={segment === s.key ? colors.ink : colors.textSoft} numberOfLines={1}>
+                {s.label}
               </Txt>
             </PressScale>
           ))}
         </View>
       </ScreenHeader>
 
-      <Animated.ScrollView style={styles.screen} contentContainerStyle={{ paddingTop: 12, paddingBottom: 28 }} onScroll={onScroll} scrollEventThrottle={16}>
-        {isRoots && <RootFamilyList />}
+      <Animated.ScrollView style={styles.screen} contentContainerStyle={{ paddingTop: 8, paddingBottom: 28 }} onScroll={onScroll} scrollEventThrottle={16}>
+        {segment === 'roots' && <RootFamilyList />}
 
-        {!isRoots && (
-          <>
-        <PressScale style={[styles.mix, scope === filterKey && styles.mixActive]} scaleTo={0.98} onPress={() => study(filterKey)} accessibilityRole="button">
-          <View style={styles.mixIcon}>
-            <Icon name="shuffle" size={18} color={colors.ink} />
-          </View>
-          <View style={{ flex: 1, gap: 2 }}>
-            <Txt weight="semibold" size={15}>
-              {filterKey === 'all' ? 'Study everything' : `Study all ${FILTERS[filter].label.toLowerCase()}`}
-            </Txt>
-            <Txt size={13} color={colors.textMuted} numberOfLines={1}>
-              Due cards first, then new
-            </Txt>
-          </View>
-          <Icon name="arrow-right" size={18} color={colors.textMuted} />
-        </PressScale>
+        {track && (
+          <View style={{ paddingHorizontal: 16 }}>
+            <View style={styles.summary}>
+              <View style={{ flexDirection: 'row', justifyContent: 'space-between', gap: 10 }}>
+                <Txt size={13} color={colors.textMuted}>
+                  {done} of {allPacks.length} packs done
+                </Txt>
+                <Txt weight="mono" size={12} color={colors.textMuted}>
+                  {cards} {kindStyle[track.kind].label.toLowerCase()}s
+                </Txt>
+              </View>
+              <View style={styles.summaryTrack}>
+                <View style={[styles.summaryFill, { width: `${(done / Math.max(1, allPacks.length)) * 100}%` }]} />
+              </View>
+            </View>
 
-        <View style={styles.listHead}>
-          <Txt weight="semibold" size={17}>
-            Decks
-          </Txt>
-          <Txt size={13} color={colors.textMuted}>
-            {shown.length} {shown.length === 1 ? 'deck' : 'decks'}
-          </Txt>
-        </View>
-
-        <View style={{ paddingHorizontal: 16, gap: 10 }}>
-          {shown.map(({ deck, known, due, fresh, open }, i) => {
-            if (!open) {
-              const at = LEVELS[deckLevel(deck.id) - 1];
-              const away = Math.max(0, at.points - level.points);
-              return (
-                <Animated.View key={deck.id} entering={FadeInDown.duration(260).delay(i * 40)} layout={LinearTransition.springify().damping(20)}>
-                  <PressScale
-                    style={styles.locked}
-                    scaleTo={0.98}
-                    onPress={() => router.push('/levels')}
-                    accessibilityRole="link"
-                    accessibilityLabel={`${deck.name} is locked. Opens at level ${at.n}, ${at.name}. See your level path.`}
-                  >
-                    <View style={styles.lockIcon}>
-                      <Icon name="lock" size={16} color={colors.textMuted} />
-                    </View>
-                    <View style={{ flex: 1, gap: 3 }}>
-                      <Txt weight="semibold" size={16} color={colors.textSoft}>
-                        {deck.name}
-                      </Txt>
-                      <Txt size={12} color={colors.textMuted}>
-                        Opens at level {at.n} · {at.name}
-                        {away > 0 ? ` · ${away} points away` : ' · finish the trial'}
-                      </Txt>
-                    </View>
-                    <Icon name="chevron-right" size={16} color={colors.textFaint} />
-                  </PressScale>
-                </Animated.View>
-              );
-            }
-            const active = scope === deck.id;
-            const k = kindStyle[deck.kind];
-          const offline = Platform.OS === 'web' && clipCount(deck.cards.map((c) => c.id)) > 0;
-            return (
-              <Animated.View key={deck.id} entering={FadeInDown.duration(260).delay(i * 40)} layout={LinearTransition.springify().damping(20)}>
-                <PressScale
-                  style={[styles.deck, active && styles.deckActive]}
-                  scaleTo={0.98}
-                  onPress={() => study(deck.id)}
-                  accessibilityRole="button"
-                  accessibilityLabel={`Study ${deck.name}`}
-                >
-                  <View style={{ flexDirection: 'row', justifyContent: 'space-between', gap: 12 }}>
-                    <View style={{ flex: 1, gap: 3 }}>
-                      <Txt weight="semibold" size={11} color={colors.textMuted} style={{ letterSpacing: 1, textTransform: 'uppercase' }}>
-                        {k.label}s · {deck.cards.length} cards
-                      </Txt>
-                      <Txt weight="semibold" size={16}>
-                        {deck.name}
-                      </Txt>
-                      <Txt size={13} color={colors.textMuted}>
-                        {deck.blurb}
-                      </Txt>
-                    </View>
-                    <View style={[styles.badge, { backgroundColor: due > 0 ? colors.lime : '#2A2D27' }]}>
-                      <Txt weight="semibold" size={12} color={due > 0 ? colors.ink : colors.textSoft}>
-                        {due > 0 ? `${due} due` : `${fresh} new`}
-                      </Txt>
-                    </View>
-                  </View>
-                  <View style={{ flexDirection: 'row', alignItems: 'center', gap: 10 }}>
-                    {offline && <View style={styles.offlineSlot} />}
-                    <View style={styles.track}>
-                      <View style={[styles.bar, { width: `${(known / deck.cards.length) * 100}%` }]} />
-                    </View>
-                    <Txt weight="mono" size={12} color={colors.textMuted}>
-                      {known}/{deck.cards.length}
+            {units.map(({ unit, packs, cards: n, locked }, i) => (
+              <View key={unit.id} style={{ marginTop: 18 }}>
+                <View style={styles.unitHead}>
+                  <Txt weight="semibold" size={12} color={locked ? colors.textFaint : colors.textSoft} style={styles.caps} numberOfLines={1}>
+                    Unit {i + 1} · {unit.title}
+                  </Txt>
+                  <Txt weight="mono" size={11} color={colors.textFaint}>
+                    {packs.length} {packs.length === 1 ? 'pack' : 'packs'} · {n} cards
+                  </Txt>
+                </View>
+                {locked ? (
+                  <View style={styles.lockedUnit}>
+                    <Icon name="lock" size={13} color={colors.textFaint} />
+                    <Txt size={13} color={colors.textFaint} numberOfLines={2} style={{ flex: 1 }}>
+                      {i === firstLocked ? `Opens when you finish ${packInfo[packs[0].pack.id].prev ? packInfo[packInfo[packs[0].pack.id].prev!].pack.title : 'the unit before'}` : packs[0].pack.blurb}
                     </Txt>
                   </View>
-                </PressScale>
-                {/* Sits on top of the card rather than inside it: a button can't contain another button. */}
-                {offline && (
-                  <View style={styles.offlineSpot}>
-                    <OfflineAudioButton deckId={deck.id} cardIds={deck.cards.map((c) => c.id)} />
+                ) : (
+                  <View style={{ gap: 8 }}>
+                    {packs.map(({ pack, state }) => (
+                      <PackRow key={pack.id} pack={pack} state={state} />
+                    ))}
                   </View>
                 )}
-              </Animated.View>
-            );
-          })}
-        </View>
-          </>
+              </View>
+            ))}
+          </View>
         )}
 
         {saved.length > 0 && (
@@ -274,7 +208,7 @@ export default function Library() {
                 .map((id) => (
                   <PressScale
                     key={id}
-                    style={styles.row}
+                    style={styles.savedRow}
                     scaleTo={0.98}
                     onPress={() => router.push({ pathname: '/card/[id]', params: { id } })}
                     accessibilityRole="link"
@@ -325,52 +259,35 @@ const styles = StyleSheet.create({
   },
   segIndicator: { position: 'absolute', top: 4, bottom: 4, left: 4, borderRadius: 12, backgroundColor: colors.lime },
   segBtn: { flex: 1, height: 42, alignItems: 'center', justifyContent: 'center' },
-  mix: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: 12,
-    marginHorizontal: 16,
-    padding: 14,
-    borderRadius: radius.xl,
-    backgroundColor: colors.surface2,
-    borderWidth: 1,
-    borderColor: '#2A2D27',
-  },
-  mixActive: { borderColor: colors.lime },
-  mixIcon: { width: 40, height: 40, borderRadius: 12, backgroundColor: colors.lime, alignItems: 'center', justifyContent: 'center' },
-  listHead: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'baseline', paddingHorizontal: 20, paddingTop: 22, paddingBottom: 10 },
-  deck: { padding: 16, borderRadius: 20, backgroundColor: colors.surface, borderWidth: 1, borderColor: colors.border, gap: 12 },
-  deckActive: { backgroundColor: colors.card, borderColor: colors.lime },
-  locked: {
+  summary: { gap: 8, paddingHorizontal: 4 },
+  summaryTrack: { height: 4, borderRadius: 2, backgroundColor: colors.border, overflow: 'hidden' },
+  summaryFill: { height: 4, backgroundColor: colors.lime },
+  unitHead: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'baseline', gap: 10, paddingHorizontal: 4, marginBottom: 8 },
+  caps: { letterSpacing: 0.8, textTransform: 'uppercase', flexShrink: 1 },
+  row: {
     flexDirection: 'row',
     alignItems: 'center',
     gap: 14,
-    padding: 14,
-    paddingHorizontal: 16,
-    borderRadius: 20,
+    padding: 12,
+    paddingHorizontal: 14,
+    borderRadius: 18,
     backgroundColor: colors.bgRaised,
+    borderWidth: 1,
+    borderColor: '#222520',
+  },
+  rowCurrent: { backgroundColor: colors.surface2, borderColor: '#4A5530' },
+  rowArt: { width: 44, height: 33, borderRadius: 8, backgroundColor: PAPER },
+  lockedUnit: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 10,
+    padding: 14,
+    borderRadius: 18,
     borderWidth: 1,
     borderStyle: 'dashed',
     borderColor: colors.borderStrong,
   },
-  lockIcon: { width: 36, height: 36, borderRadius: 12, backgroundColor: colors.surface, borderWidth: 1, borderColor: colors.borderStrong, alignItems: 'center', justifyContent: 'center' },
-  badge: { alignSelf: 'flex-start', paddingHorizontal: 10, paddingVertical: 4, borderRadius: radius.pill },
-  offlineSlot: { width: OFFLINE_W, height: 32 },
-  offlineSpot: { position: 'absolute', left: 16, bottom: 13 },
-  offline: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    justifyContent: 'center',
-    gap: 4,
-    width: OFFLINE_W,
-    height: 32,
-    paddingHorizontal: 8,
-    borderRadius: radius.pill,
-    borderWidth: 1,
-    borderColor: colors.border,
-  },
-  track: { flex: 1, height: 5, borderRadius: radius.pill, backgroundColor: '#2A2D27', overflow: 'hidden' },
-  bar: { height: 5, borderRadius: radius.pill, backgroundColor: colors.lime },
+  listHead: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'baseline', paddingHorizontal: 20, paddingTop: 26, paddingBottom: 10 },
   voice: {
     flexDirection: 'row',
     alignItems: 'center',
@@ -383,7 +300,7 @@ const styles = StyleSheet.create({
   },
   voiceActive: { backgroundColor: colors.card, borderColor: colors.lime },
   voiceIcon: { width: 34, height: 34, borderRadius: 11, backgroundColor: '#2A2D27', alignItems: 'center', justifyContent: 'center' },
-  row: {
+  savedRow: {
     minHeight: 52,
     paddingHorizontal: 16,
     borderRadius: 16,

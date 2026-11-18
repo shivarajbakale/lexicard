@@ -4,6 +4,7 @@
 //   - a card's best box ever (spaced repetition sets the pace, forgetting never takes points away)
 //   - real-world uses the learner logs (+3 per setting, once per card per setting)
 // A level opens when you have its points AND have passed its trial.
+// Content is no longer gated by level: packs open one after another (see lib/packs). Levels unlock features.
 // Everything here is pure and derived from stored state, so it works offline with no backend.
 
 import type { Review } from './srs';
@@ -99,7 +100,7 @@ export const LEVELS: LevelDef[] = [
     tier: 'Foundation',
     points: 20,
     trial: { label: 'Study on 3 different days', progress: (s) => cap(daysStudied(s), 3), hint: 'review' },
-    unlocks: [{ kind: 'deck', deckId: 'idioms-weekly', label: 'Idioms you’ll hear weekly' }],
+    unlocks: [],
   },
   {
     n: 3,
@@ -115,7 +116,7 @@ export const LEVELS: LevelDef[] = [
     tier: 'Fluent',
     points: 100,
     trial: { label: 'Log your first real use', progress: (s) => cap(totalUses(s), 1), hint: 'use-any' },
-    unlocks: [{ kind: 'deck', deckId: 'polite-pushback', label: 'Polite pushback' }],
+    unlocks: [],
   },
   {
     n: 5,
@@ -123,10 +124,7 @@ export const LEVELS: LevelDef[] = [
     tier: 'Fluent',
     points: 170,
     trial: { label: 'Master 5 cards', progress: (s) => cap(countBestBox(s, 5), 5), hint: 'master' },
-    unlocks: [
-      { kind: 'deck', deckId: 'idioms-strange-origins', label: 'Idioms with strange origins' },
-      { kind: 'feature', feature: 'quiz', label: 'Origin quiz' },
-    ],
+    unlocks: [{ kind: 'feature', feature: 'quiz', label: 'Origin quiz' }],
   },
   {
     n: 6,

@@ -17,8 +17,6 @@ export default function RootPage() {
   const insets = useSafeAreaInsets();
   const { y, onScroll } = useScrollY();
   const reviews = useStore((s) => s.reviews);
-  const scope = useStore((s) => s.scope);
-  const setScope = useStore((s) => s.setScope);
 
   const back = () => (router.canGoBack() ? router.back() : router.replace('/library'));
   const root = rootsById[id ?? ''];
@@ -39,10 +37,7 @@ export default function RootPage() {
 
   const known = cards.filter((c) => (reviews[c.id]?.box ?? 0) >= 2).length;
   const studyScope = `${ROOT_SCOPE}${root.id}`;
-  const study = () => {
-    setScope(studyScope);
-    router.navigate('/');
-  };
+  const study = () => router.push({ pathname: '/session', params: { scope: studyScope } });
 
   return (
     <View style={styles.screen}>
@@ -155,7 +150,7 @@ export default function RootPage() {
             Guess these words from their parts
           </Txt>
         </PressScale>
-        <PressScale style={[styles.studyBtn, scope === studyScope && styles.studyActive]} scaleTo={0.97} onPress={study} accessibilityRole="button">
+        <PressScale style={[styles.studyBtn]} scaleTo={0.97} onPress={study} accessibilityRole="button">
           <Txt weight="semibold" size={15} color={colors.ink}>
             Study all {cards.length}
           </Txt>

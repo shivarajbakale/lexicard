@@ -1,149 +1,43 @@
 import { useLocalSearchParams, useRouter } from 'expo-router';
-import { useEffect, useRef, useState, type ReactNode } from 'react';
-import { Image, Platform, StyleSheet, useWindowDimensions, View } from 'react-native';
-import { GestureDetector, usePanGesture } from 'react-native-gesture-handler';
-import Animated, {
-  useAnimatedReaction,
-  useAnimatedStyle,
-  useSharedValue,
-  withDelay,
-  withSequence,
-  withSpring,
-  withTiming,
-} from 'react-native-reanimated';
+import { useEffect, useState, type ReactNode } from 'react';
+import { Image, StyleSheet, useWindowDimensions, View } from 'react-native';
+import Animated, { useAnimatedRef, useAnimatedScrollHandler, useSharedValue } from 'react-native-reanimated';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { scheduleOnRN } from 'react-native-worklets';
 
 import { SceneText } from '../../components/CardStory';
+import { ImageViewer } from '../../components/ImageViewer';
 import { BuiltFrom, SameRoot } from '../../components/RootParts';
 import { SpeakerButton, SpeakerGlyph } from '../../components/Speaker';
 import { SETTING_ICON, SETTING_LABEL, UsedItSheet } from '../../components/UsedItSheet';
 import { Highlighted, Icon, PressScale, Txt } from '../../components/ui';
-import { allCards, breakdowns, cardsById, cardsOfRoot, deckOfCard } from '../../data';
+import { allCards, breakdowns, cardsById, cardsOfRoot } from '../../data';
 import { illustrations } from '../../data/illustrations';
 import { scenes } from '../../data/scenes';
 import { playClip } from '../../lib/audio';
 import { levelState } from '../../lib/levels';
+import { packInfo, packOfCard } from '../../lib/packs';
 import { isDue, MAX_BOX, relativeDue } from '../../lib/srs';
 import { levelInput, useStore } from '../../lib/store';
-import { colors, confidenceStyle, ipaFont, kindStyle, radius } from '../../theme';
+import { colors, confidenceStyle, ipaFont, kindStyle, PAPER, radius } from '../../theme';
 
 /** Other cards whose term matches one of this card's "similar" entries, so they can be opened directly. */
 const termToId: Record<string, string> = Object.fromEntries(allCards.map((c) => [c.term.toLowerCase(), c.id]));
 
-// The card page is four full-color slides. The header and rail take on the current slide's colors.
-const SLIDES = [
-  {
-    name: 'Meaning',
-    bg: colors.lime,
-    fg: colors.ink,
-    sub: '#2E3326',
-    line: 'rgba(11,12,10,0.22)',
-    thumb: colors.ink,
-    track: 'rgba(11,12,10,0.18)',
-    tagBg: colors.ink,
-    tagFg: colors.lime,
-  },
-  {
-    name: 'Use it',
-    bg: '#F4F5F0',
-    fg: colors.ink,
-    sub: '#4A4F44',
-    line: 'rgba(11,12,10,0.16)',
-    thumb: colors.ink,
-    track: 'rgba(11,12,10,0.14)',
-    tagBg: colors.ink,
-    tagFg: '#F4F5F0',
-  },
-  {
-    name: 'Origin',
-    bg: colors.orangeSoft,
-    fg: colors.ink,
-    sub: '#3A2A1C',
-    line: 'rgba(11,12,10,0.22)',
-    thumb: colors.ink,
-    track: 'rgba(11,12,10,0.18)',
-    tagBg: colors.ink,
-    tagFg: colors.orangeText,
-  },
-  {
-    name: 'More',
-    bg: colors.card,
-    fg: colors.text,
-    sub: colors.textMuted,
-    line: colors.borderStrong,
-    thumb: colors.lime,
-    track: colors.borderStrong,
-    tagBg: colors.lime,
-    tagFg: colors.ink,
-  },
+// One dark, continuous page. Each section keeps a colour of its own as an accent (its label and tab), so the
+// page reads as part of the app rather than four full-screen colour blocks.
+const SECTIONS = [
+  { key: 'meaning', label: 'Meaning', accent: colors.lime },
+  { key: 'use', label: 'Use it', accent: colors.text },
+  { key: 'origin', label: 'Origin', accent: colors.orangeSoft },
+  { key: 'related', label: 'Related', accent: colors.limeSoft },
 ] as const;
+type SectionKey = (typeof SECTIONS)[number]['key'];
 
-/** Extra slide, shown right after Meaning on cards that have an illustration. */
-const SEE_SLIDE = {
-  name: 'See it',
-  bg: colors.bg,
-  fg: colors.text,
-  sub: colors.textMuted,
-  line: colors.borderStrong,
-  thumb: colors.lime,
-  track: colors.borderStrong,
-  tagBg: colors.lime,
-  tagFg: colors.ink,
-};
+/** A section counts as the one you're reading once its top passes this far down the screen. */
+const READ_LINE = 0.3;
 
-const RAIL_H = 176;
-const THUMB_H = 44;
-const RAIL_GUTTER = 44; // room on the right so the rail never covers text
-const PHONE_GUTTER = 22; // phones have no rail, so the text gets the full width
-
-// Reel-style paging: a swipe of a fifth of the screen, or a quick flick, moves exactly one slide. The move is a
-// spring that starts at the finger's speed, so a hard flick lands fast and a lazy one glides, with no hard stop.
-// (CSS scroll-snap can't do this: it runs at the browser's own pace.)
-const FLICK = 450; // px/s
-const WHEEL_LOCK_MS = 420;
-const pageSpring = (velocity = 0) => {
-  'worklet';
-  // Underdamped (about 0.65 of critical): the slide overshoots a little and bounces back into place.
-  return { damping: 19, stiffness: 240, mass: 0.9, velocity };
-};
-
-/** One slide: exactly one screen tall. Content that would run over is scaled down slightly to fit, never cut. */
-function Page({ height, bg, children, style }: { height: number; bg: string; children: ReactNode; style: object }) {
-  const [natural, setNatural] = useState(0);
-  // Width stays fixed so the text never reflows while scaling; the result is a hair narrower, which is invisible.
-  const scale = height && natural > height ? height / natural : 1;
-  return (
-    <View style={{ height, overflow: 'hidden', backgroundColor: bg }}>
-      <View
-        style={[
-          style,
-          {
-            minHeight: height,
-            transform: [{ scale }],
-            transformOrigin: 'top center',
-          },
-        ]}
-        onLayout={(e) => setNatural(e.nativeEvent.layout.height)}
-      >
-        {children}
-      </View>
-    </View>
-  );
-}
-
-function NextHint({ label, color }: { label: string; color: string }) {
-  return (
-    <View style={styles.nextHint}>
-      <Icon name="chevron-down" size={14} color={color} />
-      <Txt weight="medium" size={12} color={color}>
-        Next: {label}
-      </Txt>
-    </View>
-  );
-}
-
-function Caps({ children, color }: { children: ReactNode; color: string }) {
+function Label({ children, color = colors.textMuted }: { children: ReactNode; color?: string }) {
   return (
     <Txt weight="semibold" size={11} color={color} style={{ letterSpacing: 1, textTransform: 'uppercase' }}>
       {children}
@@ -163,128 +57,57 @@ export default function CardDetail() {
   const used = useStore((s) => s.uses[id ?? '']);
   const [sheet, setSheet] = useState(log === '1');
   const [toast, setToast] = useState<{ id: string; text: string } | null>(null);
-  const [viewH, setViewH] = useState(0);
+  const [viewing, setViewing] = useState(false);
+  const [timeline, setTimeline] = useState(false);
   const [active, setActive] = useState(0);
-  // On web this is the pager's DOM node, used for wheel and keyboard paging.
-  const pagerRef = useRef<HTMLElement | null>(null);
+  const [pageH, setPageH] = useState(0);
+
+  const scrollRef = useAnimatedRef<Animated.ScrollView>();
+  // Where each section starts; the scroll position picks the tab to highlight.
+  const [starts, setStarts] = useState<Partial<Record<SectionKey, number>>>({});
+  const offsets = useSharedValue<number[]>([]);
+  const viewH = useSharedValue(1);
+  const lastActive = useSharedValue(0);
+  // While a tab tap is scrolling the page, the tapped tab stays lit (the page may not be able to bring a short
+  // last section to the top, which would otherwise light the one below it).
+  const pinned = useSharedValue(false);
 
   const art: number | undefined = illustrations[id ?? ''];
   const scene = scenes[id ?? ''];
-  const slides = art ? [SLIDES[0], SEE_SLIDE, SLIDES[1], SLIDES[2], SLIDES[3]] : SLIDES;
-  const LAST = slides.length - 1;
-  const last = useSharedValue(LAST); // the worklets' copy of LAST
 
-  const page = useSharedValue(0); // 0..LAST, fractional while dragging
-  const dragFrom = useSharedValue(0);
-  const height = useSharedValue(1);
-  const lastActive = useSharedValue(0);
-  const labelOpacity = useSharedValue(0);
+  const sectionStart = (key: SectionKey) => (y: number) => setStarts((prev) => (prev[key] === y ? prev : { ...prev, [key]: y }));
+  useEffect(() => {
+    offsets.set(SECTIONS.map((s) => starts[s.key] ?? Number.MAX_SAFE_INTEGER));
+  }, [starts, offsets]);
 
-  const goTo = (i: number) => page.set(withSpring(Math.max(0, Math.min(LAST, i)), pageSpring()));
-
-  const pan = usePanGesture({
-    activeOffsetY: [-10, 10],
-    failOffsetX: [-24, 24],
-    onBegin: () => {
-      'worklet';
-      dragFrom.set(Math.round(page.value));
-    },
-    onUpdate: (e) => {
-      'worklet';
-      let p = dragFrom.value - e.translationY / height.value;
-      // Rubber-band past the first and last slide.
-      if (p < 0) p *= 0.45;
-      if (p > last.value) p = last.value + (p - last.value) * 0.45;
-      page.set(p);
-    },
-    onDeactivate: (e) => {
-      'worklet';
-      const from = dragFrom.value;
-      const moved = -e.translationY / height.value;
-      const v = -e.velocityY;
-      let to = from;
-      if (v > FLICK || moved > 0.2) to = from + 1;
-      else if (v < -FLICK || moved < -0.2) to = from - 1;
-      to = Math.max(0, Math.min(last.value, to));
-      // Carry the finger's speed (in slides per second) into the spring.
-      page.set(withSpring(to, pageSpring(Math.max(-8, Math.min(8, v / height.value)))));
-    },
+  const onScroll = useAnimatedScrollHandler((e) => {
+    if (pinned.value) return;
+    const ys = offsets.value;
+    const at = e.contentOffset.y + viewH.value * READ_LINE;
+    let i = 0;
+    while (i < ys.length - 1 && ys[i + 1] <= at) i++;
+    if (i !== lastActive.value) {
+      lastActive.value = i;
+      scheduleOnRN(setActive, i);
+    }
   });
 
-  // Current slide for the header and rail; flash the rail label whenever the page moves.
-  useAnimatedReaction(
-    () => page.value,
-    (cur, prev) => {
-      const a = Math.max(0, Math.min(last.value, Math.round(cur)));
-      if (a !== lastActive.value) {
-        lastActive.value = a;
-        scheduleOnRN(setActive, a);
-      }
-      if (prev != null && Math.abs(cur - prev) > 0.001) {
-        labelOpacity.value = withSequence(withTiming(1, { duration: 90 }), withDelay(800, withTiming(0, { duration: 220 })));
-      }
-    },
-  );
-
-  const stackStyle = useAnimatedStyle(() => ({
-    transform: [{ translateY: -page.value * height.value }],
-  }));
-  const thumbStyle = useAnimatedStyle(() => ({
-    transform: [{ translateY: (page.value / last.value) * (RAIL_H - THUMB_H) }],
-  }));
-  const labelStyle = useAnimatedStyle(() => ({
-    opacity: labelOpacity.value,
-    transform: [
-      {
-        translateY: (Math.max(0, Math.min(last.value, page.value)) / last.value) * (RAIL_H - THUMB_H) + 9,
-      },
-    ],
-  }));
-
-  // Web: a mouse wheel or trackpad swipe turns one slide, then waits for the gesture's inertia to die down.
-  useEffect(() => {
-    if (Platform.OS !== 'web') return;
-    const el = pagerRef.current;
-    if (!el?.addEventListener) return;
-    let acc = 0;
-    let lockedUntil = 0;
-    const onWheel = (e: WheelEvent) => {
-      e.preventDefault();
-      const now = performance.now();
-      if (now < lockedUntil) {
-        lockedUntil = now + 220; // still coasting: keep waiting
-        return;
-      }
-      acc += e.deltaY;
-      if (Math.abs(acc) < 30) return;
-      const dir = acc > 0 ? 1 : -1;
-      acc = 0;
-      lockedUntil = now + WHEEL_LOCK_MS;
-      page.set(withSpring(Math.max(0, Math.min(LAST, Math.round(page.value) + dir)), pageSpring()));
-    };
-    const onKey = (e: KeyboardEvent) => {
-      const t = e.target as HTMLElement | null;
-      if (t && (t.tagName === 'INPUT' || t.tagName === 'TEXTAREA')) return;
-      const dir = e.key === 'ArrowDown' || e.key === 'PageDown' ? 1 : e.key === 'ArrowUp' || e.key === 'PageUp' ? -1 : 0;
-      if (!dir) return;
-      e.preventDefault();
-      page.set(withSpring(Math.max(0, Math.min(LAST, Math.round(page.value) + dir)), pageSpring()));
-    };
-    el.addEventListener('wheel', onWheel, { passive: false });
-    window.addEventListener('keydown', onKey);
-    return () => {
-      el.removeEventListener('wheel', onWheel);
-      window.removeEventListener('keydown', onKey);
-    };
-  }, [page, viewH, LAST]);
+  const goTo = (key: SectionKey) => {
+    const y = starts[key];
+    if (y == null) return;
+    const i = SECTIONS.findIndex((s) => s.key === key);
+    pinned.set(true);
+    lastActive.set(i);
+    setActive(i);
+    scrollRef.current?.scrollTo({ y: Math.max(0, y - 8), animated: true });
+    setTimeout(() => pinned.set(false), 700);
+  };
 
   // Prev/next reuse this screen with a new id: start the new card at the top.
   useEffect(() => {
-    page.set(0);
-  }, [id, page]);
-  useEffect(() => {
-    last.set(LAST);
-  }, [LAST, last]);
+    scrollRef.current?.scrollTo({ y: 0, animated: false });
+    lastActive.set(0);
+  }, [id, scrollRef, lastActive]);
 
   useEffect(() => {
     if (!toast) return;
@@ -307,290 +130,295 @@ export default function CardDetail() {
       <View style={[styles.screen, styles.center]}>
         <Txt size={18}>Card not found.</Txt>
         <PressScale onPress={back} style={styles.ghostBtn} accessibilityRole="button">
-          <Txt weight="semibold">Back to deck</Txt>
+          <Txt weight="semibold">Back</Txt>
         </PressScale>
       </View>
     );
   }
 
-  const theme = slides[Math.min(active, LAST)];
-  const heroSize = card.term.length > 16 ? (phone ? 26 : 34) : phone ? 30 : 42;
   const kind = kindStyle[card.kind];
   const conf = confidenceStyle[card.origin.confidence];
-  const deck = deckOfCard[card.id];
-  const at = deck ? deck.cards.findIndex((c) => c.id === card.id) : -1;
-  const prev = at > 0 ? deck.cards[at - 1] : undefined;
-  const next = deck && at >= 0 && at < deck.cards.length - 1 ? deck.cards[at + 1] : undefined;
+  const pack = packInfo[packOfCard[card.id]];
+  const ids = pack?.pack.cardIds ?? [];
+  const at = ids.indexOf(card.id);
+  const prev = at > 0 ? cardsById[ids[at - 1]] : undefined;
+  const next = at >= 0 && at < ids.length - 1 ? cardsById[ids[at + 1]] : undefined;
   const open = (cardId: string) => router.replace({ pathname: '/card/[id]', params: { id: cardId } });
+
   const status = !review
     ? 'New card'
     : isDue(review)
-      ? 'Due for review'
+      ? `Box ${review.box} · due now`
       : review.box >= MAX_BOX
         ? `Mastered · back ${relativeDue(review.dueAt)}`
-        : `Box ${review.box} of ${MAX_BOX} · back ${relativeDue(review.dueAt)}`;
+        : `Box ${review.box} · back ${relativeDue(review.dueAt)}`;
   const canLog = !!review && Math.max(review.box, review.bestBox ?? 1) >= 2;
   const usedSettings = new Set((used ?? []).map((u) => u.setting));
   const allUsed = usedSettings.size >= 3;
-  const gutter = { paddingRight: phone ? PHONE_GUTTER : RAIL_GUTTER };
-  const slideStyle = (i: number) => [styles.slide, gutter, { backgroundColor: SLIDES[i].bg }];
   const sameRoot = !!breakdowns[card.id]?.parts.some((p) => p.rootId && cardsOfRoot[p.rootId].length >= 2);
-  const hasMore = sameRoot || !!card.forms?.length || !!card.similar?.length || !!card.opposite || !!card.pitfall;
+  const hasRelated = sameRoot || !!card.forms?.length || !!card.similar?.length || !!card.opposite;
+  const tabs = SECTIONS.filter((s) => s.key !== 'related' || hasRelated);
+  const heroSize = card.term.length > 16 ? (phone ? 30 : 36) : phone ? 36 : 44;
+  const bubbles = scene && scene.bubbles.length > 1 ? scene.bubbles : [];
 
   return (
     <View style={styles.screen}>
-      <View style={[styles.header, { paddingTop: insets.top + 10, backgroundColor: theme.bg }]}>
-        <PressScale
-          style={[styles.headBtn, { borderColor: theme.line }]}
-          scaleTo={0.92}
-          onPress={back}
-          accessibilityRole="button"
-          accessibilityLabel="Back"
-        >
-          <Icon name="chevron-left" size={20} color={theme.fg} />
-        </PressScale>
-        <View style={styles.headTitle}>
-          <Txt weight="semibold" size={14} color={theme.fg} numberOfLines={1}>
+      {/* Fixed header: back, the term, save; then section tabs that follow the scroll and jump on tap. */}
+      <View style={[styles.header, { paddingTop: insets.top + 8 }]}>
+        <View style={styles.headRow}>
+          <PressScale style={styles.headBtn} scaleTo={0.92} onPress={back} accessibilityRole="button" accessibilityLabel="Back">
+            <Icon name="chevron-left" size={20} />
+          </PressScale>
+          <Txt weight="semibold" size={15} numberOfLines={1} style={{ flex: 1, textAlign: 'center' }}>
             {card.term}
           </Txt>
-          <Txt size={11} color={theme.sub}>
-            {theme.name} · {active + 1} of {slides.length}
-          </Txt>
-          {/* Phones have no side rail: these dots show where you are in the card. */}
-          {phone && (
-            <View style={styles.dots} pointerEvents="none" importantForAccessibility="no-hide-descendants">
-              {slides.map((s, i) => (
-                <View key={s.name} style={[styles.dotStep, { backgroundColor: i === active ? theme.fg : theme.track }, i === active && styles.dotStepOn]} />
-              ))}
-            </View>
-          )}
+          <PressScale
+            style={[styles.headBtn, saved && { backgroundColor: colors.lime, borderColor: colors.lime }]}
+            scaleTo={0.92}
+            onPress={() => toggleSaved(card.id)}
+            accessibilityRole="button"
+            accessibilityLabel={saved ? 'Remove from saved' : 'Save'}
+            accessibilityState={{ selected: saved }}
+          >
+            <Icon name="bookmark" size={18} color={saved ? colors.ink : colors.text} />
+          </PressScale>
         </View>
-        <PressScale
-          style={[styles.headBtn, { borderColor: theme.line }, saved && { backgroundColor: theme.tagBg, borderColor: theme.tagBg }]}
-          scaleTo={0.92}
-          onPress={() => toggleSaved(card.id)}
-          accessibilityRole="button"
-          accessibilityLabel={saved ? 'Remove from saved' : 'Save'}
-          accessibilityState={{ selected: saved }}
-        >
-          <Icon name="bookmark" size={18} color={saved ? theme.tagFg : theme.fg} />
-        </PressScale>
+        <View style={styles.tabs} accessibilityRole="tablist">
+          {tabs.map((s) => {
+            const on = SECTIONS[active]?.key === s.key;
+            return (
+              <PressScale
+                key={s.key}
+                style={styles.tab}
+                scaleTo={0.96}
+                onPress={() => goTo(s.key)}
+                accessibilityRole="tab"
+                accessibilityState={{ selected: on }}
+              >
+                <Txt weight={on ? 'semibold' : 'medium'} size={13} color={on ? colors.text : colors.textMuted}>
+                  {s.label}
+                </Txt>
+                <View style={[styles.tabBar, { backgroundColor: on ? s.accent : 'transparent' }]} />
+              </PressScale>
+            );
+          })}
+        </View>
       </View>
 
       <View
-        ref={pagerRef as never}
-        style={[{ flex: 1, overflow: 'hidden' }, Platform.OS === 'web' && ({ userSelect: 'none', touchAction: 'none' } as object)]}
+        style={{ flex: 1 }}
         onLayout={(e) => {
-          setViewH(e.nativeEvent.layout.height);
-          height.set(e.nativeEvent.layout.height);
+          viewH.set(e.nativeEvent.layout.height);
+          setPageH(e.nativeEvent.layout.height);
         }}
       >
-        <GestureDetector gesture={pan}>
-          <Animated.View style={stackStyle}>
-            {/* 1 · Meaning */}
-            <Page height={viewH} bg={SLIDES[0].bg} style={slideStyle(0)}>
-              <View style={styles.row}>
-                <View style={[styles.tag, { backgroundColor: colors.ink }]}>
-                  <Txt weight="semibold" size={11} color={colors.lime} style={{ letterSpacing: 0.5 }}>
-                    {kind.label.toUpperCase()}
-                  </Txt>
-                </View>
-                <View style={[styles.tag, styles.tagOutline]}>
-                  <Txt weight="medium" size={11} color={colors.ink}>
-                    {card.register}
-                  </Txt>
-                </View>
-              </View>
-              <Txt
-                weight="semibold"
-                size={heroSize}
-                color={colors.ink}
-                style={{
-                  letterSpacing: heroSize > 32 ? -1.1 : -0.8,
-                  lineHeight: Math.round(heroSize * 1.1),
-                }}
-              >
-                {card.term}
-              </Txt>
-              <View style={[styles.row, { flexWrap: 'wrap' }]}>
-                <PressScale
-                  onPress={() => playClip(card.id, 'term', card.term)}
-                  scaleTo={0.97}
-                  style={styles.sayIt}
-                  accessibilityRole="button"
-                  accessibilityLabel={card.sayIt ? `Say it: ${card.sayIt}. Tap to hear it.` : `Hear ${card.term}`}
-                >
-                  <SpeakerGlyph cardId={card.id} slot="term" size={26} />
-                  <Txt weight="medium" size={14} color={colors.text} numberOfLines={1} style={{ letterSpacing: 0.4, flexShrink: 0 }}>
-                    {card.sayIt ?? 'Hear it'}
-                  </Txt>
-                  {card.phonetic && (
-                    <Txt size={12} color={colors.textFaint} numberOfLines={1} style={{ fontFamily: ipaFont, flexShrink: 1 }}>
-                      {card.phonetic}
-                    </Txt>
-                  )}
-                </PressScale>
-              </View>
-              <Txt size={12} color={SLIDES[0].sub}>
-                {deck ? `${deck.name} · ${status}` : status}
-              </Txt>
-
-              <View style={[styles.block, { marginTop: 14 }]}>
-                <View style={styles.rowBetween}>
-                  <Caps color={SLIDES[0].sub}>What it means</Caps>
-                  <SpeakerButton cardId={card.id} slot="meaning" fallback={card.meaning} label="Hear the meaning" size={32} tone="onColor" />
-                </View>
-                <Txt weight="medium" size={phone ? 19 : 21} color={colors.ink} style={{ lineHeight: phone ? 26 : 29, letterSpacing: -0.2 }}>
-                  {card.meaning}
-                </Txt>
-              </View>
-
-              {card.literal && (
-                <View style={[styles.block, styles.rule, { borderTopColor: SLIDES[0].line }]}>
-                  <Caps color={SLIDES[0].sub}>Taken literally</Caps>
-                  <Txt size={14} color={colors.ink} style={{ lineHeight: 21 }}>
-                    {card.literal}
-                  </Txt>
-                </View>
-              )}
-
-              <View style={[styles.block, styles.rule, { borderTopColor: SLIDES[0].line }]}>
-                <Caps color={SLIDES[0].sub}>The feel of it</Caps>
-                <Txt size={14} color={colors.ink} style={{ lineHeight: 22 }}>
-                  {card.nuance}
-                </Txt>
-              </View>
-              <NextHint label={art ? 'see it' : 'how to use it'} color={SLIDES[0].sub} />
-            </Page>
-
-            {/* 1b · See it (only cards with an illustration) */}
+        <Animated.ScrollView
+          ref={scrollRef}
+          onScroll={onScroll}
+          scrollEventThrottle={16}
+          showsVerticalScrollIndicator={false}
+          // Room below the last section so every tab can bring its section up to the top.
+          contentContainerStyle={{ paddingBottom: Math.max(32, Math.round(pageH * 0.5)) }}
+        >
+          {/* ── Meaning ── */}
+          <View style={styles.section} onLayout={(e) => sectionStart('meaning')(e.nativeEvent.layout.y)}>
             {art && (
-              <Page height={viewH} bg={SEE_SLIDE.bg} style={[styles.slide, gutter, { backgroundColor: SEE_SLIDE.bg }]}>
-                <Txt weight="semibold" size={phone ? 22 : 24} color={SEE_SLIDE.fg} style={{ letterSpacing: -0.5 }} accessibilityRole="header">
-                  See it
-                </Txt>
-                <View style={styles.art}>
-                  <Image
-                    source={art}
-                    style={{ width: '100%', height: '100%' }}
-                    resizeMode="contain"
-                    accessible
-                    accessibilityLabel={`Cartoon of ${card.term}, with numbered thought bubbles that explain it`}
-                  />
-                </View>
-                {scene ? (
-                  <>
-                    <SceneText
-                      text={scene.bubbles.length > 1 ? scene.scene : scene.scene.replace(/\s*\[\d+\]/g, '')}
-                      size={phone ? 15 : 16}
-                      color={colors.textSoft}
-                    />
-                    {scene.bubbles.length > 1 && (
-                      <View style={{ gap: 8 }}>
-                        {scene.bubbles.map((b, i) => (
-                          <View key={i} style={styles.bubbleRow}>
-                            <View style={styles.bubbleNum}>
-                              <Txt weight="bold" size={11} color={colors.lime}>
-                                {i + 1}
-                              </Txt>
-                            </View>
-                            <Txt size={14} color={colors.textSoft} style={{ flex: 1, lineHeight: 20 }}>
-                              {b}
-                            </Txt>
-                          </View>
-                        ))}
-                      </View>
-                    )}
-                  </>
-                ) : (
-                  <Txt size={12} color={SEE_SLIDE.sub}>
-                    Read the bubbles in number order.
-                  </Txt>
-                )}
-                <NextHint label="how to use it" color={SEE_SLIDE.sub} />
-              </Page>
+              <PressScale
+                nativeID={`art-page-${card.id}`}
+                style={styles.art}
+                scaleTo={0.99}
+                onPress={() => setViewing(true)}
+                accessibilityRole="imagebutton"
+                accessibilityLabel={`Cartoon of ${card.term}. Open full screen`}
+              >
+                <Image source={art} style={{ width: '100%', height: '100%' }} resizeMode="contain" />
+              </PressScale>
             )}
 
-            {/* 2 · Use it */}
-            <Page height={viewH} bg={SLIDES[1].bg} style={slideStyle(1)}>
-              <View style={styles.rowBetween}>
-                <Txt weight="semibold" size={phone ? 22 : 24} color={colors.ink} style={{ letterSpacing: -0.5 }} accessibilityRole="header">
-                  Use it today
+            <View style={styles.row}>
+              <View style={[styles.tag, { backgroundColor: kind.bg }]}>
+                <Txt weight="semibold" size={11} color={kind.fg} style={{ letterSpacing: 0.5 }}>
+                  {kind.label.toUpperCase()}
                 </Txt>
-                <PressScale
-                  style={[styles.usedBtn, (!canLog || allUsed) && styles.usedBtnOff]}
-                  scaleTo={0.95}
-                  disabled={!canLog || allUsed}
-                  onPress={() => setSheet(true)}
-                  accessibilityRole="button"
-                  accessibilityLabel={canLog ? 'I used it: log a real use' : 'Know this card once before logging real uses'}
-                >
-                  <Icon name={allUsed ? 'check' : 'plus'} size={14} color={canLog && !allUsed ? colors.lime : '#6B7064'} />
-                  <Txt weight="semibold" size={12} color={canLog && !allUsed ? '#F4F5F0' : '#6B7064'}>
-                    {allUsed ? 'Used everywhere' : 'I used it'}
-                  </Txt>
-                </PressScale>
               </View>
-              {!canLog && (
-                <Txt size={12} color={SLIDES[1].sub} style={{ marginTop: 4 }}>
-                  Know it once to start logging real uses.
+              <View style={[styles.tag, styles.tagOutline]}>
+                <Txt weight="medium" size={11} color={colors.textSoft}>
+                  {card.register}
+                </Txt>
+              </View>
+            </View>
+            <Txt weight="semibold" size={heroSize} style={{ letterSpacing: -1.1, lineHeight: Math.round(heroSize * 1.08) }} accessibilityRole="header">
+              {card.term}
+            </Txt>
+            <PressScale
+              onPress={() => playClip(card.id, 'term', card.term)}
+              scaleTo={0.97}
+              style={styles.sayIt}
+              accessibilityRole="button"
+              accessibilityLabel={card.sayIt ? `Say it: ${card.sayIt}. Tap to hear it.` : `Hear ${card.term}`}
+            >
+              <SpeakerGlyph cardId={card.id} slot="term" size={30} />
+              <Txt weight="medium" size={15} numberOfLines={1} style={{ letterSpacing: 0.4, flexShrink: 0 }}>
+                {card.sayIt ?? card.hint ?? 'Hear it'}
+              </Txt>
+              {card.phonetic && (
+                <Txt size={12} color={colors.textFaint} numberOfLines={1} style={{ fontFamily: ipaFont, flexShrink: 1 }}>
+                  {card.phonetic}
                 </Txt>
               )}
-              <View>
-                {card.uses.map((u) => (
-                  <View key={u.setting} style={[styles.useRow, { borderTopColor: SLIDES[1].line }]}>
-                    <View style={styles.rowBetween}>
-                      <View style={{ flex: 1, gap: 2 }}>
-                        <View style={[styles.row, { gap: 6, flexWrap: 'wrap' }]}>
-                          <Icon name={SETTING_ICON[u.setting]} size={12} color={colors.ink} />
-                          <Txt
-                            weight="bold"
-                            size={11}
-                            color={colors.ink}
-                            numberOfLines={1}
-                            style={{
-                              letterSpacing: 1,
-                              textTransform: 'uppercase',
-                            }}
-                          >
-                            {SETTING_LABEL[u.setting]}
-                          </Txt>
-                          {usedSettings.has(u.setting) && (
-                            <View style={styles.usedTag}>
-                              <Icon name="check" size={10} color={colors.lime} />
-                              <Txt weight="medium" size={10} color={colors.lime}>
-                                You used it
-                              </Txt>
-                            </View>
-                          )}
-                        </View>
-                        <Txt size={12} color={SLIDES[1].sub} numberOfLines={1}>
-                          {u.where}
-                        </Txt>
-                      </View>
-                      <SpeakerButton
-                        cardId={card.id}
-                        slot={u.setting}
-                        fallback={u.sentence}
-                        label={`Hear the ${SETTING_LABEL[u.setting].toLowerCase()} example`}
-                        size={30}
-                        tone="onColor"
-                      />
+            </PressScale>
+
+            {/* Where this card stands in your learning, and the pack it belongs to. */}
+            <PressScale
+              style={styles.status}
+              scaleTo={0.98}
+              disabled={!pack}
+              onPress={() => pack && router.push({ pathname: '/pack/[id]', params: { id: pack.pack.id } })}
+              accessibilityRole={pack ? 'link' : undefined}
+              accessibilityLabel={`${status}${pack ? `. In ${pack.pack.title}, pack ${pack.number}. Open pack` : ''}`}
+            >
+              <View style={styles.boxDots}>
+                {Array.from({ length: MAX_BOX }, (_, i) => (
+                  <View key={i} style={[styles.boxDot, review && i < review.box && { backgroundColor: review.box === 1 ? colors.orange : colors.lime }]} />
+                ))}
+              </View>
+              <Txt size={13} color={colors.textSoft} numberOfLines={1} style={{ flexShrink: 1 }}>
+                {status}
+              </Txt>
+              {pack && (
+                <>
+                  <Txt size={13} color={colors.textFaint}>
+                    ·
+                  </Txt>
+                  <Txt size={13} color={colors.textMuted} numberOfLines={1} style={{ flex: 1 }}>
+                    Pack {pack.number} · {pack.pack.title}
+                  </Txt>
+                  <Icon name="chevron-right" size={15} color={colors.textFaint} />
+                </>
+              )}
+            </PressScale>
+
+            <View style={styles.block}>
+              <View style={styles.rowBetween}>
+                <Label color={colors.lime}>What it means</Label>
+                <SpeakerButton cardId={card.id} slot="meaning" fallback={card.meaning} label="Hear the meaning" size={32} />
+              </View>
+              <Txt weight="medium" size={phone ? 20 : 22} style={{ lineHeight: phone ? 28 : 31, letterSpacing: -0.2 }}>
+                {card.meaning}
+              </Txt>
+            </View>
+
+            <View style={styles.block}>
+              <Label>How it feels</Label>
+              <Txt size={15} color={colors.textSoft} style={{ lineHeight: 23 }}>
+                {card.nuance}
+              </Txt>
+            </View>
+
+            {card.literal && (
+              <View style={styles.block}>
+                <Label>Taken literally</Label>
+                <Txt size={15} color={colors.textSoft} style={{ lineHeight: 23 }}>
+                  {card.literal}
+                </Txt>
+              </View>
+            )}
+
+            {card.pitfall && (
+              <View style={styles.watch}>
+                <View style={styles.row}>
+                  <Icon name="alert-triangle" size={14} color={colors.orangeSoft} />
+                  <Label color={colors.orangeSoft}>Watch out</Label>
+                </View>
+                <Txt size={14} color={colors.orangeText} style={{ lineHeight: 21 }}>
+                  {card.pitfall}
+                </Txt>
+              </View>
+            )}
+
+            {scene && (
+              <View style={styles.block}>
+                <Label>In the picture</Label>
+                <SceneText text={bubbles.length ? scene.scene : scene.scene.replace(/\s*\[\d+\]/g, '')} size={15} color={colors.textSoft} />
+                {bubbles.map((b, i) => (
+                  <View key={i} style={styles.bubbleRow}>
+                    <View style={styles.bubbleNum}>
+                      <Txt weight="bold" size={11} color={colors.lime}>
+                        {i + 1}
+                      </Txt>
                     </View>
-                    <Highlighted sentence={u.sentence} highlight={u.highlight} size={phone ? 15.5 : 17} color={colors.ink} marker />
-                    <Txt size={12} color={SLIDES[1].sub} style={{ lineHeight: 17 }}>
-                      {u.tip}
+                    <Txt size={14} color={colors.textSoft} style={{ flex: 1, lineHeight: 20 }}>
+                      {b}
                     </Txt>
                   </View>
                 ))}
               </View>
-              <NextHint label="where it comes from" color={SLIDES[1].sub} />
-            </Page>
+            )}
+          </View>
 
-            {/* 3 · Origin */}
-            <Page height={viewH} bg={SLIDES[2].bg} style={slideStyle(2)}>
+          {/* ── Use it ── */}
+          <View style={styles.section} onLayout={(e) => sectionStart('use')(e.nativeEvent.layout.y)}>
+            <View style={styles.rowBetween}>
+              <Txt weight="semibold" size={22} style={{ letterSpacing: -0.5 }} accessibilityRole="header">
+                Use it
+              </Txt>
+              {canLog && (
+                <PressScale
+                  style={[styles.usedBtn, allUsed && styles.usedBtnDone]}
+                  scaleTo={0.95}
+                  disabled={allUsed}
+                  onPress={() => setSheet(true)}
+                  accessibilityRole="button"
+                  accessibilityLabel={allUsed ? 'Used in every setting' : 'I used it: log a real use'}
+                >
+                  <Icon name={allUsed ? 'check' : 'plus'} size={14} color={allUsed ? colors.limeSoft : colors.ink} />
+                  <Txt weight="semibold" size={13} color={allUsed ? colors.limeSoft : colors.ink}>
+                    {allUsed ? 'Used everywhere' : 'I used it'}
+                  </Txt>
+                </PressScale>
+              )}
+            </View>
+            {card.uses.map((u) => (
+              <View key={u.setting} style={styles.useCard}>
+                <View style={styles.rowBetween}>
+                  <View style={{ flex: 1, gap: 3 }}>
+                    <View style={[styles.row, { gap: 6, flexWrap: 'wrap' }]}>
+                      <Icon name={SETTING_ICON[u.setting]} size={12} color={colors.limeSoft} />
+                      <Label color={colors.limeSoft}>{SETTING_LABEL[u.setting]}</Label>
+                      {usedSettings.has(u.setting) && (
+                        <View style={styles.usedTag}>
+                          <Icon name="check" size={10} color={colors.ink} />
+                          <Txt weight="semibold" size={10} color={colors.ink}>
+                            You used it
+                          </Txt>
+                        </View>
+                      )}
+                    </View>
+                    <Txt size={12} color={colors.textMuted} numberOfLines={1}>
+                      {u.where}
+                    </Txt>
+                  </View>
+                  <SpeakerButton
+                    cardId={card.id}
+                    slot={u.setting}
+                    fallback={u.sentence}
+                    label={`Hear the ${SETTING_LABEL[u.setting].toLowerCase()} example`}
+                    size={32}
+                  />
+                </View>
+                <Highlighted sentence={u.sentence} highlight={u.highlight} size={phone ? 16 : 17} />
+                <Txt size={13} color={colors.textMuted} style={{ lineHeight: 19 }}>
+                  {u.tip}
+                </Txt>
+              </View>
+            ))}
+          </View>
+
+          {/* ── Origin: an orange card, so the root breakdown keeps its colours ── */}
+          <View style={styles.section} onLayout={(e) => sectionStart('origin')(e.nativeEvent.layout.y)}>
+            <View style={styles.originCard}>
               <View style={styles.rowBetween}>
-                <Txt weight="semibold" size={phone ? 22 : 24} color={colors.ink} style={{ letterSpacing: -0.5, flex: 1 }} accessibilityRole="header">
+                <Txt weight="semibold" size={20} color={colors.ink} style={{ letterSpacing: -0.4, flex: 1 }} accessibilityRole="header">
                   Where it comes from
                 </Txt>
                 <View style={[styles.tag, { backgroundColor: colors.ink }]}>
@@ -600,44 +428,54 @@ export default function CardDetail() {
                 </View>
               </View>
               <BuiltFrom card={card} phone={phone} />
-              <Txt weight="medium" size={phone ? 15.5 : 17} color={colors.ink} style={{ lineHeight: phone ? 23 : 25 }}>
+              <Txt weight="medium" size={16} color={colors.ink} style={{ lineHeight: 24 }}>
                 {card.origin.summary}
               </Txt>
-              <View style={[styles.rule, { borderTopColor: SLIDES[2].line, paddingTop: 18 }]}>
-                {card.origin.timeline.map((t, i) => {
-                  const last = i === card.origin.timeline.length - 1;
-                  return (
-                    <View key={i} style={{ flexDirection: 'row', gap: 14 }}>
-                      <View style={{ width: 12, alignItems: 'center' }}>
-                        <View style={[styles.dot, last && { backgroundColor: colors.ink }]} />
-                        {!last && <View style={styles.vline} />}
-                      </View>
-                      <View
-                        style={{
-                          flex: 1,
-                          paddingBottom: last ? 0 : 16,
-                          gap: 3,
-                        }}
-                      >
-                        <Txt weight="mono" size={12} color={colors.ink}>
-                          {t.when}
-                        </Txt>
-                        <Txt size={13.5} color="#2A1E14" style={{ lineHeight: 20 }}>
-                          {t.text}
-                        </Txt>
-                      </View>
-                    </View>
-                  );
-                })}
-              </View>
-              <NextHint label={sameRoot ? 'same root, close words' : hasMore ? 'close, but not the same' : 'next card'} color={SLIDES[2].sub} />
-            </Page>
+              {card.origin.timeline.length > 0 && (
+                <>
+                  <PressScale
+                    style={styles.timelineBtn}
+                    scaleTo={0.98}
+                    onPress={() => setTimeline((t) => !t)}
+                    accessibilityRole="button"
+                    accessibilityState={{ expanded: timeline }}
+                  >
+                    <Txt weight="semibold" size={13} color={colors.ink}>
+                      {timeline ? 'Hide the timeline' : `Show the timeline · ${card.origin.timeline.length} steps`}
+                    </Txt>
+                    <Icon name={timeline ? 'chevron-up' : 'chevron-down'} size={15} color={colors.ink} />
+                  </PressScale>
+                  {timeline &&
+                    card.origin.timeline.map((t, i) => {
+                      const last = i === card.origin.timeline.length - 1;
+                      return (
+                        <View key={i} style={{ flexDirection: 'row', gap: 14 }}>
+                          <View style={{ width: 12, alignItems: 'center' }}>
+                            <View style={[styles.dot, last && { backgroundColor: colors.ink }]} />
+                            {!last && <View style={styles.vline} />}
+                          </View>
+                          <View style={{ flex: 1, paddingBottom: last ? 0 : 14, gap: 3 }}>
+                            <Txt weight="mono" size={12} color={colors.ink}>
+                              {t.when}
+                            </Txt>
+                            <Txt size={13.5} color="#2A1E14" style={{ lineHeight: 20 }}>
+                              {t.text}
+                            </Txt>
+                          </View>
+                        </View>
+                      );
+                    })}
+                </>
+              )}
+            </View>
+          </View>
 
-            {/* 4 · More, then on to the next card */}
-            <Page height={viewH} bg={SLIDES[3].bg} style={[slideStyle(3), { paddingBottom: 24 }]}>
+          {/* ── Related ── */}
+          {hasRelated && (
+            <View style={styles.section} onLayout={(e) => sectionStart('related')(e.nativeEvent.layout.y)}>
               {!!card.forms?.length && (
                 <View style={{ gap: 10 }}>
-                  <Txt weight="semibold" size={phone ? 20 : 22} style={{ letterSpacing: -0.4 }} accessibilityRole="header">
+                  <Txt weight="semibold" size={20} style={{ letterSpacing: -0.4 }} accessibilityRole="header">
                     {card.kind === 'word' ? 'Word family' : 'Forms you’ll hear'}
                   </Txt>
                   <View style={styles.wrap}>
@@ -658,8 +496,8 @@ export default function CardDetail() {
               <SameRoot card={card} phone={phone} />
 
               {(!!card.similar?.length || !!card.opposite) && (
-                <View style={{ gap: 10, marginTop: card.forms?.length || sameRoot ? 8 : 0 }}>
-                  <Txt weight="semibold" size={phone ? 20 : 22} style={{ letterSpacing: -0.4 }} accessibilityRole="header">
+                <View style={{ gap: 10 }}>
+                  <Txt weight="semibold" size={20} style={{ letterSpacing: -0.4 }} accessibilityRole="header">
                     Close, but not the same
                   </Txt>
                   <View style={styles.wrap}>
@@ -670,12 +508,7 @@ export default function CardDetail() {
                           key={s}
                           style={[styles.chip, styles.linkChip]}
                           scaleTo={0.95}
-                          onPress={() =>
-                            router.push({
-                              pathname: '/card/[id]',
-                              params: { id: linked },
-                            })
-                          }
+                          onPress={() => router.push({ pathname: '/card/[id]', params: { id: linked } })}
                           accessibilityRole="link"
                           accessibilityLabel={`Open ${s}`}
                         >
@@ -698,79 +531,13 @@ export default function CardDetail() {
                   </View>
                 </View>
               )}
-
-              {card.pitfall && (
-                <View style={[styles.pitfall, styles.rule, { borderTopColor: SLIDES[3].line }]}>
-                  <Icon name="alert-triangle" size={16} color={colors.orangeText} />
-                  <Txt size={14} color={colors.orangeText} style={{ flex: 1, lineHeight: 21 }}>
-                    {card.pitfall}
-                  </Txt>
-                </View>
-              )}
-
-              <View style={styles.endBlock}>
-                {deck && (
-                  <Txt size={12} color={colors.textMuted}>
-                    End of this card · {at + 1} of {deck.cards.length} in {deck.name}
-                  </Txt>
-                )}
-                {next ? (
-                  <PressScale
-                    style={styles.nextBtn}
-                    scaleTo={0.97}
-                    onPress={() => open(next.id)}
-                    accessibilityRole="link"
-                    accessibilityLabel={`Next card: ${next.term}`}
-                  >
-                    <Txt weight="semibold" size={15} color={colors.ink} numberOfLines={1} style={{ flexShrink: 1 }}>
-                      Next card: {next.term}
-                    </Txt>
-                    <Icon name="chevron-right" size={17} color={colors.ink} />
-                  </PressScale>
-                ) : (
-                  <PressScale style={styles.nextBtn} scaleTo={0.97} onPress={back} accessibilityRole="button">
-                    <Txt weight="semibold" size={15} color={colors.ink}>
-                      End of deck · back
-                    </Txt>
-                  </PressScale>
-                )}
-                <PressScale style={styles.topBtn} scaleTo={0.97} onPress={() => goTo(0)} accessibilityRole="button">
-                  <Txt weight="semibold" size={14}>
-                    Back to the top
-                  </Txt>
-                </PressScale>
-              </View>
-            </Page>
-          </Animated.View>
-        </GestureDetector>
-
-        {/* Section rail: shows where you are, tap a segment to jump. Too small a target on phones, which get header dots instead. */}
-        {!phone && (
-        <View style={styles.rail} accessibilityRole="tablist" accessibilityLabel="Sections">
-          <View style={[styles.railTrack, { backgroundColor: theme.track }]} pointerEvents="none" />
-          <Animated.View style={[styles.railThumb, { backgroundColor: theme.thumb }, thumbStyle]} pointerEvents="none" />
-          {slides.map((s, i) => (
-            <PressScale
-              key={s.name}
-              style={[styles.railHit, { height: RAIL_H / slides.length }]}
-              scaleTo={1}
-              onPress={() => goTo(i)}
-              accessibilityRole="tab"
-              accessibilityState={{ selected: active === i }}
-              accessibilityLabel={`Go to ${s.name}`}
-            />
-          ))}
-          <Animated.View style={[styles.railLabel, { backgroundColor: theme.tagBg }, labelStyle]} pointerEvents="none">
-            <Txt weight="semibold" size={12} color={theme.tagFg} numberOfLines={1}>
-              {theme.name}
-            </Txt>
-          </Animated.View>
-        </View>
-        )}
+            </View>
+          )}
+        </Animated.ScrollView>
       </View>
 
       {toast?.id === card.id && (
-        <View style={[styles.toast, { bottom: (deck ? 64 : 16) + insets.bottom }]} pointerEvents="none" accessibilityLiveRegion="polite">
+        <View style={[styles.toast, { bottom: (pack ? 64 : 16) + insets.bottom }]} pointerEvents="none" accessibilityLiveRegion="polite">
           <Icon name="check" size={15} color={colors.ink} />
           <Txt weight="semibold" size={14} color={colors.ink}>
             {toast.text}
@@ -778,8 +545,8 @@ export default function CardDetail() {
         </View>
       )}
 
-      {/* Pinned deck navigation: step through the deck without scrolling to the end. */}
-      {deck && (
+      {/* Step through the pack without scrolling to the end. */}
+      {pack && (
         <View style={[styles.pager, { paddingBottom: Math.max(insets.bottom, 10) }]}>
           <PressScale
             style={[styles.pageBtn, !prev && styles.pageBtnOff]}
@@ -787,15 +554,15 @@ export default function CardDetail() {
             disabled={!prev}
             onPress={() => prev && open(prev.id)}
             accessibilityRole="link"
-            accessibilityLabel={prev ? `Previous card: ${prev.term}` : 'No previous card'}
+            accessibilityLabel={prev ? `Previous card: ${prev.term}` : 'First card in the pack'}
           >
             <Icon name="chevron-left" size={16} color={prev ? colors.text : colors.textFaint} />
             <Txt weight="medium" size={13} numberOfLines={1} color={prev ? colors.textSoft : colors.textFaint} style={{ flexShrink: 1 }}>
               {prev?.term ?? 'Start'}
             </Txt>
           </PressScale>
-          <Txt weight="mono" size={12} color={colors.textMuted} accessibilityLabel={`Card ${at + 1} of ${deck.cards.length}`}>
-            {at + 1}/{deck.cards.length}
+          <Txt weight="mono" size={12} color={colors.textMuted} accessibilityLabel={`Card ${at + 1} of ${ids.length} in ${pack.pack.title}`}>
+            {at + 1}/{ids.length}
           </Txt>
           <PressScale
             style={[styles.pageBtn, { justifyContent: 'flex-end' }, !next && styles.pageBtnOff]}
@@ -803,16 +570,25 @@ export default function CardDetail() {
             disabled={!next}
             onPress={() => next && open(next.id)}
             accessibilityRole="link"
-            accessibilityLabel={next ? `Next card: ${next.term}` : 'No next card'}
+            accessibilityLabel={next ? `Next card: ${next.term}` : 'Last card in the pack'}
           >
             <Txt weight="medium" size={13} numberOfLines={1} color={next ? colors.text : colors.textFaint} style={{ flexShrink: 1 }}>
-              {next?.term ?? 'End of deck'}
+              {next?.term ?? 'End of pack'}
             </Txt>
             <Icon name="chevron-right" size={16} color={next ? colors.lime : colors.textFaint} />
           </PressScale>
         </View>
       )}
 
+      {art && (
+        <ImageViewer
+          source={art}
+          label={scene ? scene.scene.replace(/\s*\[\d+\]/g, '') : `Cartoon of ${card.term}`}
+          visible={viewing}
+          fromId={`art-page-${card.id}`}
+          onClose={() => setViewing(false)}
+        />
+      )}
       {sheet && <UsedItSheet card={card} onClose={() => setSheet(false)} onLogged={onLogged} />}
     </View>
   );
@@ -821,202 +597,72 @@ export default function CardDetail() {
 const styles = StyleSheet.create({
   screen: { flex: 1, backgroundColor: colors.bg },
   center: { alignItems: 'center', justifyContent: 'center', gap: 16 },
-  ghostBtn: {
-    height: 48,
-    paddingHorizontal: 22,
-    borderRadius: radius.pill,
-    borderWidth: 1,
-    borderColor: '#3A3E35',
-    justifyContent: 'center',
-  },
-  header: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: 12,
-    paddingHorizontal: 16,
-    paddingBottom: 10,
-    zIndex: 2,
-  },
-  headBtn: {
-    width: 44,
-    height: 44,
-    borderRadius: 22,
-    borderWidth: 1,
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  headTitle: { flex: 1, alignItems: 'center', gap: 1, minWidth: 0 },
-  dots: { flexDirection: 'row', gap: 4, marginTop: 4 },
-  dotStep: { width: 6, height: 3, borderRadius: 1.5 },
-  dotStepOn: { width: 16 },
-  bubbleRow: { flexDirection: 'row', gap: 10, alignItems: 'flex-start', paddingVertical: 10, paddingHorizontal: 12, borderRadius: radius.md, backgroundColor: colors.cardInner },
-  bubbleNum: { width: 22, height: 22, borderRadius: 11, backgroundColor: colors.ink, alignItems: 'center', justifyContent: 'center' },
-  slide: {
-    paddingTop: 14,
-    paddingBottom: 16,
-    paddingLeft: 22,
-    paddingRight: RAIL_GUTTER,
-    gap: 12,
-  },
+  ghostBtn: { height: 48, paddingHorizontal: 22, borderRadius: radius.pill, borderWidth: 1, borderColor: '#3A3E35', justifyContent: 'center' },
+  header: { backgroundColor: colors.bg, borderBottomWidth: 1, borderBottomColor: colors.border, zIndex: 2 },
+  headRow: { flexDirection: 'row', alignItems: 'center', gap: 12, paddingHorizontal: 16 },
+  headBtn: { width: 44, height: 44, borderRadius: 22, borderWidth: 1, borderColor: colors.borderStrong, alignItems: 'center', justifyContent: 'center' },
+  tabs: { flexDirection: 'row', paddingHorizontal: 12, marginTop: 6 },
+  tab: { flex: 1, minHeight: 44, alignItems: 'center', justifyContent: 'center', gap: 6, paddingTop: 6 },
+  tabBar: { height: 2, width: '60%', borderRadius: 1 },
+  section: { paddingHorizontal: 20, paddingTop: 24, gap: 14, maxWidth: 680, width: '100%', alignSelf: 'center' },
+  art: { width: '100%', aspectRatio: 4 / 3, borderRadius: radius.xl, overflow: 'hidden', backgroundColor: PAPER },
   row: { flexDirection: 'row', alignItems: 'center', gap: 8 },
-  rowBetween: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    justifyContent: 'space-between',
-    gap: 12,
-  },
-  tag: {
-    paddingHorizontal: 10,
-    paddingVertical: 4,
-    borderRadius: radius.pill,
-    alignSelf: 'flex-start',
-  },
-  tagOutline: {
-    borderWidth: 1,
-    borderColor: 'rgba(11,12,10,0.3)',
-    paddingVertical: 3,
-  },
+  rowBetween: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', gap: 12 },
+  tag: { paddingHorizontal: 10, paddingVertical: 4, borderRadius: radius.pill },
+  tagOutline: { borderWidth: 1, borderColor: colors.borderStrong },
   sayIt: {
     flexDirection: 'row',
     alignItems: 'center',
-    gap: 8,
+    alignSelf: 'flex-start',
+    gap: 10,
     paddingLeft: 5,
-    paddingRight: 14,
+    paddingRight: 16,
     paddingVertical: 5,
     maxWidth: '100%',
     borderRadius: radius.pill,
-    backgroundColor: colors.ink,
-  },
-  block: { gap: 8 },
-  rule: { borderTopWidth: 1, paddingTop: 14, marginTop: 4 },
-  nextHint: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: 6,
-    marginTop: 'auto',
-    paddingTop: 10,
-  },
-  usedBtn: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: 5,
-    height: 34,
-    paddingHorizontal: 13,
-    borderRadius: radius.pill,
-    backgroundColor: colors.ink,
-  },
-  usedBtnOff: {
-    backgroundColor: 'transparent',
+    backgroundColor: colors.surface2,
     borderWidth: 1,
-    borderColor: 'rgba(11,12,10,0.2)',
+    borderColor: colors.borderStrong,
   },
-  usedTag: {
+  status: {
     flexDirection: 'row',
     alignItems: 'center',
-    gap: 3,
-    paddingHorizontal: 7,
-    paddingVertical: 2,
-    borderRadius: radius.pill,
-    backgroundColor: colors.ink,
-  },
-  useRow: { paddingVertical: 10, borderTopWidth: 1, gap: 6 },
-  dot: {
-    width: 12,
-    height: 12,
-    borderRadius: 6,
-    marginTop: 3,
-    borderWidth: 2,
-    borderColor: colors.ink,
-  },
-  vline: { width: 2, flex: 1, backgroundColor: 'rgba(11,12,10,0.3)' },
-  wrap: { flexDirection: 'row', flexWrap: 'wrap', gap: 8 },
-  formChip: {
+    gap: 8,
+    minHeight: 44,
     paddingHorizontal: 12,
-    paddingVertical: 8,
+    borderRadius: radius.md,
+    backgroundColor: colors.surface,
+    borderWidth: 1,
+    borderColor: colors.border,
+  },
+  boxDots: { flexDirection: 'row', gap: 3 },
+  boxDot: { width: 7, height: 7, borderRadius: 4, backgroundColor: '#2E322A' },
+  block: { gap: 8, paddingTop: 4 },
+  watch: { gap: 6, padding: 14, borderRadius: radius.lg, backgroundColor: colors.orangeDeep, borderWidth: 1, borderColor: '#4A3320' },
+  bubbleRow: { flexDirection: 'row', gap: 10, alignItems: 'flex-start', paddingVertical: 10, paddingHorizontal: 12, borderRadius: radius.md, backgroundColor: colors.surface2 },
+  bubbleNum: { width: 22, height: 22, borderRadius: 11, backgroundColor: colors.ink, alignItems: 'center', justifyContent: 'center' },
+  useCard: { gap: 10, padding: 16, borderRadius: radius.xl, backgroundColor: colors.surface2, borderWidth: 1, borderColor: '#2A2D27' },
+  usedBtn: { flexDirection: 'row', alignItems: 'center', gap: 5, height: 36, paddingHorizontal: 14, borderRadius: radius.pill, backgroundColor: colors.lime },
+  usedBtnDone: { backgroundColor: colors.limeDeep },
+  usedTag: { flexDirection: 'row', alignItems: 'center', gap: 3, paddingHorizontal: 7, paddingVertical: 2, borderRadius: radius.pill, backgroundColor: colors.lime },
+  originCard: { gap: 12, padding: 18, borderRadius: radius.xl, backgroundColor: colors.orangeSoft },
+  timelineBtn: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    minHeight: 44,
+    paddingHorizontal: 14,
     borderRadius: radius.md,
     borderWidth: 1,
-    borderColor: '#4A4F44',
-    gap: 1,
+    borderColor: 'rgba(11,12,10,0.22)',
   },
-  chip: {
-    paddingHorizontal: 12,
-    paddingVertical: 7,
-    borderRadius: radius.pill,
-    borderWidth: 1,
-    borderColor: '#4A4F44',
-  },
-  linkChip: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: 6,
-    borderColor: colors.limeDeep,
-    backgroundColor: colors.limeDeep,
-  },
+  dot: { width: 12, height: 12, borderRadius: 6, marginTop: 3, borderWidth: 2, borderColor: colors.ink },
+  vline: { width: 2, flex: 1, backgroundColor: 'rgba(11,12,10,0.3)' },
+  wrap: { flexDirection: 'row', flexWrap: 'wrap', gap: 8 },
+  formChip: { paddingHorizontal: 12, paddingVertical: 8, borderRadius: radius.md, borderWidth: 1, borderColor: '#4A4F44', gap: 1 },
+  chip: { paddingHorizontal: 12, paddingVertical: 7, borderRadius: radius.pill, borderWidth: 1, borderColor: '#4A4F44' },
+  linkChip: { flexDirection: 'row', alignItems: 'center', gap: 6, borderColor: colors.limeDeep, backgroundColor: colors.limeDeep },
   oppChip: { borderStyle: 'dashed', borderColor: colors.orange },
-  pitfall: { flexDirection: 'row', gap: 10 },
-  endBlock: { marginTop: 'auto', paddingTop: 24, gap: 10 },
-  nextBtn: {
-    height: 50,
-    borderRadius: radius.pill,
-    backgroundColor: colors.lime,
-    flexDirection: 'row',
-    alignItems: 'center',
-    justifyContent: 'center',
-    gap: 6,
-    paddingHorizontal: 18,
-  },
-  topBtn: {
-    height: 44,
-    borderRadius: radius.pill,
-    borderWidth: 1,
-    borderColor: '#4A4F44',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  art: {
-    width: '100%',
-    maxWidth: 640,
-    aspectRatio: 4 / 3,
-    flexGrow: 0,
-    flexShrink: 0,
-    borderRadius: radius.lg,
-    overflow: 'hidden',
-  },
-  rail: {
-    position: 'absolute',
-    right: 6,
-    top: '50%',
-    marginTop: -RAIL_H / 2,
-    width: 28,
-    height: RAIL_H,
-  },
-  railTrack: {
-    position: 'absolute',
-    left: 12,
-    top: 0,
-    bottom: 0,
-    width: 4,
-    borderRadius: 2,
-  },
-  railThumb: {
-    position: 'absolute',
-    left: 12,
-    top: 0,
-    width: 4,
-    height: THUMB_H,
-    borderRadius: 2,
-  },
-  railHit: { width: 28 },
-  railLabel: {
-    position: 'absolute',
-    right: 30,
-    top: 0,
-    height: 26,
-    paddingHorizontal: 10,
-    borderRadius: radius.pill,
-    justifyContent: 'center',
-    boxShadow: '0 6px 16px rgba(0,0,0,0.25)',
-  },
   toast: {
     position: 'absolute',
     alignSelf: 'center',
@@ -1038,15 +684,6 @@ const styles = StyleSheet.create({
     borderTopWidth: 1,
     borderTopColor: colors.border,
   },
-  pageBtn: {
-    flex: 1,
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: 4,
-    height: 44,
-    paddingHorizontal: 10,
-    borderRadius: radius.md,
-    backgroundColor: colors.surface2,
-  },
+  pageBtn: { flex: 1, flexDirection: 'row', alignItems: 'center', gap: 4, height: 44, paddingHorizontal: 10, borderRadius: radius.md, backgroundColor: colors.surface2 },
   pageBtnOff: { backgroundColor: 'transparent' },
 });

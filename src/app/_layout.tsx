@@ -1,13 +1,72 @@
 import { Geist_400Regular, Geist_500Medium, Geist_600SemiBold, Geist_700Bold } from '@expo-google-fonts/geist';
 import { GeistMono_400Regular } from '@expo-google-fonts/geist-mono';
 import { useFonts } from 'expo-font';
+import { Stack as JSStack, type StackNavigationOptions } from 'expo-router/js-stack';
 import { Stack } from 'expo-router/stack';
 import { StatusBar } from 'expo-status-bar';
 import { Platform, StyleSheet, View } from 'react-native';
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 
+import { forBloom, forPush, forRise, transitionSpec } from '../lib/transitions';
 import { colors } from '../theme';
+
+/**
+ * Every screen and how it arrives. Native builds use the platform animations; the web uses the JavaScript stack
+ * with the matching soft transitions in lib/transitions (the native stack doesn't animate in a browser).
+ */
+type Motion = 'push' | 'rise' | 'bloom';
+const SCREENS: { name: string; motion: Motion; locked?: boolean }[] = [
+  { name: '(tabs)', motion: 'push' },
+  { name: 'onboarding', motion: 'bloom', locked: true },
+  { name: 'session', motion: 'rise', locked: true },
+  { name: 'pack-complete', motion: 'bloom', locked: true },
+  { name: 'pack/[id]', motion: 'push' },
+  { name: 'card/[id]', motion: 'rise' },
+  { name: 'levels', motion: 'push' },
+  { name: 'root/[id]', motion: 'push' },
+  { name: 'level-up', motion: 'bloom', locked: true },
+  { name: 'quiz', motion: 'rise' },
+  { name: 'guess', motion: 'rise' },
+  { name: 'challenge', motion: 'rise' },
+];
+
+const NATIVE_ANIMATION = { push: 'slide_from_right', rise: 'slide_from_bottom', bloom: 'fade_from_bottom' } as const;
+const WEB_INTERPOLATOR = { push: forPush, rise: forRise, bloom: forBloom } as const;
+
+const webScreenOptions: StackNavigationOptions = {
+  headerShown: false,
+  // The JS stack turns transitions off on web unless asked; ours are set below.
+  animation: 'default',
+  // When the stack fills the window, the JS stack lets the whole document scroll instead of the screen
+  // ('page overflow'), which stops every ScrollView inside from scrolling. A floating header mode turns that
+  // off; there's no header to show either way.
+  headerMode: 'float',
+  cardStyle: { backgroundColor: colors.bg },
+  cardOverlayEnabled: false,
+  gestureEnabled: false,
+  transitionSpec,
+  cardStyleInterpolator: forPush,
+};
+
+function Navigator() {
+  if (Platform.OS === 'web') {
+    return (
+      <JSStack screenOptions={webScreenOptions}>
+        {SCREENS.map((s) => (
+          <JSStack.Screen key={s.name} name={s.name} options={{ cardStyleInterpolator: WEB_INTERPOLATOR[s.motion] }} />
+        ))}
+      </JSStack>
+    );
+  }
+  return (
+    <Stack screenOptions={{ headerShown: false, contentStyle: { backgroundColor: colors.bg }, animation: 'slide_from_right' }}>
+      {SCREENS.map((s) => (
+        <Stack.Screen key={s.name} name={s.name} options={{ animation: NATIVE_ANIMATION[s.motion], ...(s.locked ? { gestureEnabled: false } : null) }} />
+      ))}
+    </Stack>
+  );
+}
 
 if (Platform.OS === 'web' && typeof document !== 'undefined' && !document.getElementById('lexicard-global')) {
   const style = document.createElement('style');
@@ -33,16 +92,7 @@ export default function RootLayout() {
         <StatusBar style="light" />
         <View style={styles.root}>
           <View style={styles.column}>
-            <Stack screenOptions={{ headerShown: false, contentStyle: { backgroundColor: colors.bg }, animation: 'slide_from_right' }}>
-              <Stack.Screen name="(tabs)" />
-              <Stack.Screen name="card/[id]" options={{ animation: 'slide_from_bottom' }} />
-              <Stack.Screen name="levels" />
-              <Stack.Screen name="root/[id]" />
-              <Stack.Screen name="level-up" options={{ animation: 'fade_from_bottom', gestureEnabled: false }} />
-              <Stack.Screen name="quiz" options={{ animation: 'slide_from_bottom' }} />
-              <Stack.Screen name="guess" options={{ animation: 'slide_from_bottom' }} />
-              <Stack.Screen name="challenge" options={{ animation: 'slide_from_bottom' }} />
-            </Stack>
+            <Navigator />
           </View>
         </View>
       </SafeAreaProvider>

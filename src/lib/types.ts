@@ -103,3 +103,29 @@ export interface Deck {
   blurb: string;
   cards: Card[];
 }
+
+// The learning path (src/data/path.json, built by scripts/content/build-path.mjs).
+// A pack is the unit a learner finishes; units group packs by theme; tracks group units by card kind.
+
+export type TrackId = 'words' | 'idioms' | 'phrases';
+
+export interface Pack {
+  id: string;
+  title: string;
+  blurb: string;
+  cardIds: string[];
+}
+
+export interface Unit {
+  id: string;
+  title: string;
+  packs: Pack[];
+}
+
+export interface Track {
+  id: TrackId;
+  kind: CardKind;
+  title: string;
+  blurb: string;
+  units: Unit[];
+}

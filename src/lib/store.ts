@@ -4,8 +4,9 @@ import { create } from 'zustand';
 import { createJSONStorage, persist } from 'zustand/middleware';
 
 import { freezeSlots, LEVELS, levelState, type LevelInput, type UseLog } from './levels';
+import { allPackIds, firstPack, packInfo, packProgress, pickCurrentPack } from './packs';
 import { dayKey, nextReview, type Review } from './srs';
-import type { Setting } from './types';
+import type { Setting, TrackId } from './types';
 import { DEFAULT_VOICE, VOICES, type VoiceId } from './voices';
 
 interface Undo {
@@ -45,6 +46,19 @@ interface State {
   undoStack: Undo[];
   hydrated: boolean;
 
+  /** first-run onboarding has been finished (or skipped by someone with history) */
+  onboarded: boolean;
+  /** the pack new cards come from */
+  currentPack: string;
+  /** new cards per day, from the current pack */
+  dailyNew: number;
+  /** new cards already introduced on `day` */
+  newToday: { day: string; count: number };
+  /** packs whose "pack complete" screen has been shown */
+  packsCelebrated: string[];
+  /** day each pack was first made current, for the "done in N days" line */
+  packStarted: Record<string, string>;
+
   /** `practice` swipes keep the streak alive but never move a card between boxes (and so earn no points). */
   answer: (cardId: string, known: boolean, practice?: boolean) => void;
   undo: () => string | null;
@@ -59,6 +73,18 @@ interface State {
   toggleSaved: (cardId: string) => void;
   markOfflineAudio: (deckId: string) => void;
   resetProgress: () => void;
+  finishOnboarding: (track: TrackId, dailyNew: number) => void;
+  setCurrentPack: (packId: string) => void;
+  setDailyNew: (n: number) => void;
+  celebratePack: (packId: string) => void;
+}
+
+export const DAILY_NEW_OPTIONS = [5, 10, 15] as const;
+export const DEFAULT_DAILY_NEW = 10;
+
+/** New cards still allowed today. */
+export function newLeftToday(s: Pick<State, 'dailyNew' | 'newToday'>) {
+  return Math.max(0, s.dailyNew - (s.newToday.day === dayKey() ? s.newToday.count : 0));
 }
 
 const DAY = 24 * 60 * 60 * 1000;
@@ -110,6 +136,10 @@ const FRESH = {
   uses: {} as Record<string, UseLog[]>,
   levelSeen: 1,
   undoStack: [] as Undo[],
+  currentPack: firstPack('words'),
+  newToday: { day: '', count: 0 },
+  packsCelebrated: [] as string[],
+  packStarted: {} as Record<string, string>,
 };
 
 export const useStore = create<State>()(
@@ -123,13 +153,18 @@ export const useStore = create<State>()(
       voice: DEFAULT_VOICE,
       offlineAudio: [],
       hydrated: false,
+      onboarded: false,
+      dailyNew: DEFAULT_DAILY_NEW,
 
       answer: (cardId, known, practice = false) => {
         const s = get();
         const today = dayKey();
         const prev = s.reviews[cardId];
+        // A card seen for the first time counts against today's new-card goal, whichever session it came from.
+        const firstSeen = !prev && !practice;
         set({
           ...bumpStreak(s),
+          newToday: firstSeen ? { day: today, count: (s.newToday.day === today ? s.newToday.count : 0) + 1 } : s.newToday,
           reviews: practice ? s.reviews : { ...s.reviews, [cardId]: nextReview(prev, known) },
           history: { ...s.history, [today]: (s.history[today] ?? 0) + 1 },
           undoStack: [...s.undoStack.slice(-19), { cardId, prev, day: today }],
@@ -137,7 +172,7 @@ export const useStore = create<State>()(
       },
 
       undo: () => {
-        const { undoStack, reviews, history } = get();
+        const { undoStack, reviews, history, newToday } = get();
         const last = undoStack[undoStack.length - 1];
         if (!last) return null;
         const nextReviews = { ...reviews };
@@ -147,6 +182,8 @@ export const useStore = create<State>()(
           reviews: nextReviews,
           history: { ...history, [last.day]: Math.max(0, (history[last.day] ?? 1) - 1) },
           undoStack: undoStack.slice(0, -1),
+          // Undoing a first sighting gives the new-card slot back.
+          newToday: !last.prev && reviews[last.cardId] && newToday.day === last.day ? { ...newToday, count: Math.max(0, newToday.count - 1) } : newToday,
         });
         return last.cardId;
       },
@@ -194,11 +231,32 @@ export const useStore = create<State>()(
         if (!offlineAudio.includes(deckId)) set({ offlineAudio: [...offlineAudio, deckId] });
       },
 
-      resetProgress: () => set({ ...FRESH, scope: 'all', cardStyle: 'classic', challengeBest: 0 }),
+      resetProgress: () => {
+        const track = packInfo[get().currentPack]?.track.id ?? 'words';
+        set({ ...FRESH, scope: 'all', cardStyle: 'classic', challengeBest: 0, currentPack: firstPack(track), packStarted: { [firstPack(track)]: dayKey() } });
+      },
+
+      finishOnboarding: (track, dailyNew) => {
+        const pack = firstPack(track);
+        set({ onboarded: true, dailyNew, currentPack: pack, packStarted: { ...get().packStarted, [pack]: get().packStarted[pack] ?? dayKey() } });
+      },
+
+      setCurrentPack: (packId) => {
+        if (!packInfo[packId]) return;
+        const { packStarted } = get();
+        set({ currentPack: packId, packStarted: packStarted[packId] ? packStarted : { ...packStarted, [packId]: dayKey() } });
+      },
+
+      setDailyNew: (dailyNew) => set({ dailyNew }),
+
+      celebratePack: (packId) => {
+        const { packsCelebrated } = get();
+        if (!packsCelebrated.includes(packId)) set({ packsCelebrated: [...packsCelebrated, packId] });
+      },
     }),
     {
       name: 'lexicard-v1',
-      version: 1,
+      version: 2,
       storage: createJSONStorage(() => AsyncStorage),
       partialize: (s) => ({
         reviews: s.reviews,
@@ -214,9 +272,15 @@ export const useStore = create<State>()(
         saved: s.saved,
         voice: s.voice,
         offlineAudio: s.offlineAudio,
+        onboarded: s.onboarded,
+        currentPack: s.currentPack,
+        dailyNew: s.dailyNew,
+        newToday: s.newToday,
+        packsCelebrated: s.packsCelebrated,
+        packStarted: s.packStarted,
       }),
       migrate: (persisted, version) => {
-        const p = (persisted ?? {}) as Partial<State>;
+        let p = (persisted ?? {}) as Partial<State>;
         if (version < 1) {
           // Before levels: backfill best boxes, and start people at the level they've already earned
           // without throwing a level-up screen at them for progress made before levels existed.
@@ -224,16 +288,37 @@ export const useStore = create<State>()(
             Object.entries(p.reviews ?? {}).map(([id, r]) => [id, { ...r, bestBox: Math.max(r.box, r.bestBox ?? 1) }]),
           );
           const base = { reviews, uses: {}, history: p.history ?? {}, bestStreak: p.streak?.count ?? 0 };
-          return { ...p, ...base, freezes: 0, levelSeen: levelState(base).n, cardStyle: 'classic', challengeBest: 0 } as State;
+          p = { ...p, ...base, freezes: 0, levelSeen: levelState(base).n, cardStyle: 'classic', challengeBest: 0 };
+        }
+        if (version < 2) {
+          // Packs arrive. People with history skip onboarding and land on the pack they've done most in;
+          // packs they had already finished count as celebrated, so no burst of "pack complete" screens.
+          const reviews = p.reviews ?? {};
+          const currentPack = pickCurrentPack(reviews);
+          p = {
+            ...p,
+            onboarded: Object.keys(reviews).length > 0,
+            currentPack,
+            dailyNew: DEFAULT_DAILY_NEW,
+            newToday: { day: '', count: 0 },
+            packsCelebrated: allPackIds.filter((id) => packProgress(id, reviews).done),
+            packStarted: { [currentPack]: dayKey() },
+          };
         }
         return p as State;
       },
       onRehydrateStorage: () => () => {
         // A saved voice that has since been dropped from VOICES falls back to the default.
-        const { voice, uses } = useStore.getState();
+        const { voice, uses, currentPack } = useStore.getState();
         // The app never keeps free text the learner wrote: drop notes saved by an earlier build.
         const clean = Object.fromEntries(Object.entries(uses).map(([id, list]) => [id, list.map(({ setting, at }) => ({ setting, at }))]));
-        useStore.setState({ hydrated: true, uses: clean, voice: VOICES.some((v) => v.id === voice) ? voice : DEFAULT_VOICE });
+        useStore.setState({
+          hydrated: true,
+          uses: clean,
+          voice: VOICES.some((v) => v.id === voice) ? voice : DEFAULT_VOICE,
+          // A pack that a content rebuild has since renamed or dropped falls back to the first pack.
+          ...(packInfo[currentPack] ? null : { currentPack: firstPack('words') }),
+        });
       },
     },
   ),

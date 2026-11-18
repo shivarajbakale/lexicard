@@ -1,5 +1,5 @@
 import { Image, StyleSheet, View, type ImageSourcePropType } from 'react-native';
-import Animated, { useAnimatedStyle, type SharedValue } from 'react-native-reanimated';
+import type { SharedValue } from 'react-native-reanimated';
 
 import type { Scene } from '../data/scenes';
 import type { Card } from '../lib/types';
@@ -43,10 +43,9 @@ interface Props {
  * Everything on the back of the card, top to bottom. The first screenful is the card back
  * (picture, what's happening, meaning); scrolling on carries straight on into the story.
  */
-export function CardStory({ card, art, scene, artW, artH, progress, onFullPage }: Props) {
+export function CardStory({ card, art, scene, artW, artH, onFullPage }: Props) {
   const daily = card.uses.find((u) => u.setting === 'social') ?? card.uses[0];
   const conf = confidenceStyle[card.origin.confidence];
-  const cueStyle = useAnimatedStyle(() => ({ opacity: Math.max(0, 1 - progress.value * 3) }));
   const numbered = (scene?.bubbles.length ?? 0) > 1;
 
   return (
@@ -104,12 +103,8 @@ export function CardStory({ card, art, scene, artW, artH, progress, onFullPage }
           </View>
         )}
 
-        <Animated.View style={[styles.cue, cueStyle]} pointerEvents="none">
-          <Icon name="chevron-up" size={18} color={colors.limeSoft} />
-          <Txt weight="medium" size={13} color={colors.limeSoft}>
-            Scroll for the story
-          </Txt>
-        </Animated.View>
+        {/* Room for the card's "Full story" pill, which floats over the foot of the back (see DeckCard). */}
+        <View style={{ height: 56 }} />
 
         {/* ── Story mode ── */}
         <View style={{ gap: 28, paddingTop: 6 }}>
@@ -225,7 +220,6 @@ const styles = StyleSheet.create({
   body: { gap: 14, paddingHorizontal: 8 },
   badge: { backgroundColor: colors.ink, borderRadius: 9, overflow: 'hidden' },
   daily: { gap: 6, padding: 14, borderRadius: radius.lg, backgroundColor: colors.cardInner },
-  cue: { alignItems: 'center', gap: 4, paddingVertical: 8 },
   bubbleRow: { flexDirection: 'row', gap: 12, alignItems: 'flex-start', padding: 12, paddingHorizontal: 14, borderRadius: radius.md, backgroundColor: colors.cardInner },
   bubbleNum: { width: 24, height: 24, borderRadius: 12, backgroundColor: colors.ink, alignItems: 'center', justifyContent: 'center' },
   literal: { gap: 4, padding: 12, paddingHorizontal: 14, borderRadius: radius.md, borderWidth: 1, borderColor: colors.borderStrong },

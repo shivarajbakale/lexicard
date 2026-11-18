@@ -66,6 +66,8 @@ interface Props {
 const SWIPE_DISTANCE = 110;
 const SWIPE_VELOCITY = 900;
 const SPEAKER_HIT = 72;
+/** "Full story" pill at the foot of the back: a visible way into story mode (scrolling the back also works). */
+const STORY_PILL = { width: 230, height: 44, bottom: 14 };
 const FLIP_TIMING = { duration: 460, easing: Easing.bezier(0.2, 0.8, 0.2, 1) };
 /** Scroll distance over which the card opens into story mode. */
 const STORY_RUN = 220;
@@ -197,6 +199,15 @@ export function DeckCard({ card, index, width, height, enterFrom, onSwiped, fram
         scheduleOnRN(flip.value < 0.5 ? playTerm : playExample);
         return;
       }
+      // On the back, the "Full story" pill opens the story instead of flipping.
+      if (
+        flip.value >= 0.5 &&
+        e.y > height - STORY_PILL.bottom - STORY_PILL.height - 6 &&
+        Math.abs(e.x - width / 2) < STORY_PILL.width / 2 + 6
+      ) {
+        openStory();
+        return;
+      }
       // The picture opens full screen to zoom; the rest of the card flips.
       const artBottom = flip.value < 0.5 ? (showFrontArt ? frontArtH : 0) : art ? fullH : 0;
       if (e.y < artBottom) {
@@ -249,6 +260,7 @@ export function DeckCard({ card, index, width, height, enterFrom, onSwiped, fram
     const e = t * t * (3 - 2 * t);
     return { top: -(frame.top - Math.min(s, frame.top)), left: -frame.left * (1 - e) };
   });
+  const pillStyle = useAnimatedStyle(() => ({ opacity: isTop ? Math.max(0, 1 - scrollY.value / 60) : 0 }));
   const barStyle = useAnimatedStyle(() => {
     const b = isTop ? Math.max(0, (story.value - 0.65) / 0.35) : 0;
     return { opacity: b, transform: [{ translateY: -12 * (1 - b) }] };
@@ -339,6 +351,14 @@ export function DeckCard({ card, index, width, height, enterFrom, onSwiped, fram
             </Animated.ScrollView>
           </Animated.View>
 
+          {/* Drawn only; taps on it are handled by the card's tap gesture above (a button can't sit inside it). */}
+          <Animated.View style={[styles.storyPill, pillStyle]} pointerEvents="none">
+            <Txt weight="medium" size={14} color={colors.textSoft}>
+              Full story · origin, uses, family
+            </Txt>
+            <Icon name="chevron-down" size={15} color={colors.textMuted} />
+          </Animated.View>
+
           {/* Slim bar that slides in once the card has opened up */}
           <Animated.View style={[styles.storyBar, { paddingTop: frame.insetTop + 10 }, barStyle]} pointerEvents="box-none">
             <PressScale style={styles.barBtn} scaleTo={0.94} onPress={() => scheduleOnUI(closeStory)} accessibilityRole="button" accessibilityLabel="Back to the card">
@@ -400,6 +420,23 @@ const styles = StyleSheet.create({
   term: { textAlign: 'center', letterSpacing: -1.4 },
   frontFoot: { flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: 8, paddingBottom: 22 },
   speaker: { position: 'absolute', top: 16, right: 16, zIndex: 2 },
+  storyPill: {
+    position: 'absolute',
+    bottom: STORY_PILL.bottom,
+    left: '50%',
+    marginLeft: -STORY_PILL.width / 2,
+    width: STORY_PILL.width,
+    height: STORY_PILL.height,
+    borderRadius: radius.pill,
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    gap: 6,
+    backgroundColor: colors.surface,
+    borderWidth: 1,
+    borderColor: colors.borderStrong,
+    boxShadow: '0 8px 24px rgba(0,0,0,0.45)',
+  },
   storyBar: {
     position: 'absolute',
     top: 0,
