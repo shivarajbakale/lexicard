@@ -11,7 +11,7 @@ import { cardsById, cardsForScope } from '../data';
 import { playClip, stopAudio } from '../lib/audio';
 import { feedback } from '../lib/haptics';
 import { levelState } from '../lib/levels';
-import { packInfo, packOfCard, packProgress, todayQueue } from '../lib/packs';
+import { cardsToGo, listTerms, packInfo, packOfCard, packProgress, todayQueue } from '../lib/packs';
 import { buildQueue, practiceQueue } from '../lib/srs';
 import { levelInput, newLeftToday, useLevel, useStore } from '../lib/store';
 import { colors, radius } from '../theme';
@@ -28,6 +28,8 @@ interface Session {
   mode: 'review' | 'practice';
   /** the pack this session reports on at the end */
   packId: string | null;
+  /** the next pack, when this session's spare new cards came from it (started early) */
+  earlyId: string | null;
   /** cards that were new when the session started */
   fresh: string[];
   known: number;
@@ -45,16 +47,19 @@ function newSession(params: { practice?: string; scope?: string }): Session {
   const level = levelState(levelInput(state), state.levelSeen);
   const base = { pos: 0, known: 0, learning: 0, log: [], requeued: [], pointsAtStart: level.points };
   if (params.practice && packInfo[params.practice]) {
-    const cards = packInfo[params.practice].pack.cardIds.map((id) => cardsById[id]).filter(Boolean);
-    return { ...base, ids: practiceQueue(cards), mode: 'practice', packId: params.practice, fresh: [] };
+    const all = packInfo[params.practice].pack.cardIds.map((id) => cardsById[id]).filter(Boolean);
+    // Practice is for cards you've met; a pack nobody has started yet practises all of them.
+    const seen = all.filter((c) => state.reviews[c.id]);
+    return { ...base, ids: practiceQueue(seen.length ? seen : all), mode: 'practice', packId: params.practice, earlyId: null, fresh: [] };
   }
   if (params.scope) {
     const ids = buildQueue(cardsForScope(params.scope), state.reviews);
     const fresh = ids.filter((id) => !state.reviews[id]);
-    return { ...base, ids, mode: 'review', packId: null, fresh };
+    return { ...base, ids, mode: 'review', packId: null, earlyId: null, fresh };
   }
-  const { due, fresh } = todayQueue(state.reviews, state.currentPack, newLeftToday(state));
-  return { ...base, ids: [...due, ...fresh], mode: 'review', packId: state.currentPack, fresh };
+  const q = todayQueue(state.reviews, state.currentPack, newLeftToday(state));
+  const fresh = [...q.fresh, ...q.early];
+  return { ...base, ids: [...q.due, ...fresh], mode: 'review', packId: state.currentPack, earlyId: q.earlyPack, fresh };
 }
 
 export default function SessionScreen() {
@@ -191,6 +196,8 @@ export default function SessionScreen() {
   const packId = session?.packId ?? null;
   const pack = packId ? packInfo[packId] : undefined;
   const progress = packId ? packProgress(packId, reviews) : null;
+  const early = session?.earlyId ? packInfo[session.earlyId] : undefined;
+  const earlyProgress = early ? packProgress(early.pack.id, reviews) : null;
   // A pack finished in this session gets its own screen, once, before any level-up.
   const packJustDone = !!packId && session?.mode === 'review' && !!progress?.done && !celebrated.includes(packId);
 
@@ -222,13 +229,16 @@ export default function SessionScreen() {
   const tagColors = tag === 'New' ? [colors.limeDeep, colors.limeSoft] : tag === 'Again' ? [colors.orangeDeep, colors.orangeText] : [colors.chip, colors.textSoft];
   const contextLabel = topCard ? (packInfo[packOfCard[topCard.id]]?.pack.title ?? '') : '';
 
+  const toGo = packId ? cardsToGo(packId, reviews) : [];
   const summaryLine = !progress
     ? ''
     : session?.mode === 'practice'
       ? 'Practice keeps your streak going. Boxes only move on due cards, so this pack’s progress is unchanged.'
       : progress.done
         ? 'Every card known at least once. That completes the pack.'
-        : `${progress.learning ? `${progress.learning} to retry tomorrow` : 'Nothing to retry'}${
+        : progress.fresh === 0 && toGo.length
+          ? `${toGo.length} to go: ${listTerms(toGo.map((id) => cardsById[id]?.term ?? id))}. Know ${toGo.length === 1 ? 'it' : 'them'} once and the pack is done.`
+          : `${progress.learning ? `${progress.learning} to retry tomorrow` : 'Nothing to retry'}${
             progress.fresh ? `, and ${progress.fresh} new ${progress.fresh === 1 ? 'card' : 'cards'} left.` : '.'
           } Know them all once and the pack is done.`;
 
@@ -315,6 +325,21 @@ export default function SessionScreen() {
                 <PackBar packId={pack.pack.id} reviews={reviews} />
                 <Txt size={14} color={colors.textSoft} style={{ lineHeight: 21 }}>
                   {empty ? 'Come back tomorrow, or practise this pack.' : summaryLine}
+                </Txt>
+              </View>
+            )}
+            {early && earlyProgress && !empty && (
+              <View style={[styles.packCard, { gap: 6, paddingVertical: 14 }]}>
+                <View style={styles.packHead}>
+                  <Txt weight="medium" size={14} color={colors.textSoft} style={{ flex: 1 }} numberOfLines={1}>
+                    {early.pack.title}
+                  </Txt>
+                  <Txt weight="mono" size={12} color={colors.textMuted}>
+                    {earlyProgress.total - earlyProgress.fresh}/{earlyProgress.total} seen
+                  </Txt>
+                </View>
+                <Txt size={13} color={colors.textMuted}>
+                  {packJustDone ? 'Started early. It’s up next.' : `Started early · today’s new cards came from Pack ${early.number}`}
                 </Txt>
               </View>
             )}

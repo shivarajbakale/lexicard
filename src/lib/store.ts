@@ -54,6 +54,8 @@ interface State {
   dailyNew: number;
   /** new cards already introduced on `day` */
   newToday: { day: string; count: number };
+  /** extra new cards asked for on `day` ("Learn 5 more today"); the daily goal itself doesn't change */
+  bonusNew: { day: string; count: number };
   /** packs whose "pack complete" screen has been shown */
   packsCelebrated: string[];
   /** day each pack was first made current, for the "done in N days" line */
@@ -76,16 +78,23 @@ interface State {
   finishOnboarding: (track: TrackId, dailyNew: number) => void;
   setCurrentPack: (packId: string) => void;
   setDailyNew: (n: number) => void;
+  /** Allow `n` more new cards today only. */
+  addBonusNew: (n: number) => void;
   celebratePack: (packId: string) => void;
 }
 
 export const DAILY_NEW_OPTIONS = [5, 10, 15] as const;
 export const DEFAULT_DAILY_NEW = 10;
 
-/** New cards still allowed today. */
-export function newLeftToday(s: Pick<State, 'dailyNew' | 'newToday'>) {
-  return Math.max(0, s.dailyNew - (s.newToday.day === dayKey() ? s.newToday.count : 0));
+/** New cards still allowed today: the daily goal plus any extra asked for today, less those already seen. */
+export function newLeftToday(s: Pick<State, 'dailyNew' | 'newToday' | 'bonusNew'>) {
+  const today = dayKey();
+  const bonus = s.bonusNew?.day === today ? s.bonusNew.count : 0;
+  return Math.max(0, s.dailyNew + bonus - (s.newToday.day === today ? s.newToday.count : 0));
 }
+
+/** How many extra new cards "Learn more today" offers. */
+export const BONUS_NEW = 5;
 
 const DAY = 24 * 60 * 60 * 1000;
 
@@ -138,6 +147,7 @@ const FRESH = {
   undoStack: [] as Undo[],
   currentPack: firstPack('words'),
   newToday: { day: '', count: 0 },
+  bonusNew: { day: '', count: 0 },
   packsCelebrated: [] as string[],
   packStarted: {} as Record<string, string>,
 };
@@ -249,6 +259,12 @@ export const useStore = create<State>()(
 
       setDailyNew: (dailyNew) => set({ dailyNew }),
 
+      addBonusNew: (n) => {
+        const today = dayKey();
+        const { bonusNew } = get();
+        set({ bonusNew: { day: today, count: (bonusNew?.day === today ? bonusNew.count : 0) + n } });
+      },
+
       celebratePack: (packId) => {
         const { packsCelebrated } = get();
         if (!packsCelebrated.includes(packId)) set({ packsCelebrated: [...packsCelebrated, packId] });
@@ -276,6 +292,7 @@ export const useStore = create<State>()(
         currentPack: s.currentPack,
         dailyNew: s.dailyNew,
         newToday: s.newToday,
+        bonusNew: s.bonusNew,
         packsCelebrated: s.packsCelebrated,
         packStarted: s.packStarted,
       }),

@@ -76,7 +76,7 @@ export function PackThumbs({ packId, count = 3, width = 58, height = 44, overlap
   );
 }
 
-/** Done, current, open or locked, as a node on the path. */
+/** Done, current, started early, open or locked, as a node on the path. */
 export function PackNode({ state, size = 32 }: { state: PackState; size?: number }) {
   if (state === 'done')
     return (
@@ -90,6 +90,7 @@ export function PackNode({ state, size = 32 }: { state: PackState; size?: number
         <View style={{ width: size * 0.34, height: size * 0.34, borderRadius: size, backgroundColor: colors.lime }} />
       </View>
     );
+  if (state === 'early') return <View style={[styles.node, { width: size, height: size, borderWidth: 2, borderStyle: 'dashed', borderColor: colors.limeSoft }]} />;
   if (state === 'open') return <View style={[styles.node, { width: size, height: size, borderWidth: 2, borderColor: '#5A5F52' }]} />;
   return (
     <View style={[styles.node, { width: size, height: size, backgroundColor: colors.surface, borderWidth: 1, borderColor: colors.line }]}>

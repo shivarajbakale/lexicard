@@ -31,6 +31,9 @@ and where it comes from, with an honest *Well recorded / Likely / Myth* tag on e
 - **2,051 cards in 112 packs** across three tracks: 1,024 words, 524 idioms and 503 phrases, from *pragmatic* to *spill the beans*.
 - **Packs you finish.** Each pack is 10–21 cards. A pack is done when you've known every card once; then the next one opens.
   Today shows your current pack and one button: reviews due from every pack plus new cards from the current one.
+  Once you've seen every card in a pack, it's "wrapping up": the cards you still miss keep coming back as reviews,
+  and the next pack starts early so the day's new cards never run dry (one pack ahead at most). Today always says
+  what opens the next pack, and "Learn 5 more today" adds new cards for that day without changing your goal.
 - **A full page per card:** meaning, a "watch out", three real uses (work, social, writing), the origin and related words.
 - **Honest origins.** Each origin story has a timeline and a confidence tag, so folk etymology is called out as a myth.
 - **Spaced repetition** with Leitner boxes (1, 2, 4, 8 and 16 days).

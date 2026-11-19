@@ -7,9 +7,13 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { LevelPill } from '../../components/LevelChip';
 import { PackBar, PackLegend, PackNode, PackThumbs } from '../../components/packs';
 import { Icon, Pill, PressScale, Txt } from '../../components/ui';
-import { packInfo, packProgress, packState, todayQueue, trackPackIds } from '../../lib/packs';
-import { liveStreak, newLeftToday, useLevel, useStore } from '../../lib/store';
+import { cardsById } from '../../data';
+import { cardsToGo, earlyPack, listTerms, packInfo, packPhase, packProgress, packState, todayQueue, trackPackIds } from '../../lib/packs';
+import { dayKey, relativeDue } from '../../lib/srs';
+import { BONUS_NEW, liveStreak, newLeftToday, useLevel, useStore } from '../../lib/store';
 import { colors, kindStyle, radius } from '../../theme';
+
+const DAY = 24 * 60 * 60 * 1000;
 
 /** The way into the app: where you are on your path, and one obvious thing to do today. */
 export default function Today() {
@@ -23,6 +27,8 @@ export default function Today() {
   const history = useStore((s) => s.history);
   const newLeft = useStore(newLeftToday);
   const setCurrentPack = useStore((s) => s.setCurrentPack);
+  const addBonusNew = useStore((s) => s.addBonusNew);
+  const dailyNew = useStore((s) => s.dailyNew);
   const streak = useStore((s) => liveStreak(s.streak, s.freezes));
   const freezes = useStore((s) => s.freezes);
   const level = useLevel();
@@ -38,22 +44,59 @@ export default function Today() {
 
   const info = packInfo[currentPack];
   const progress = packProgress(currentPack, reviews);
-  const { due, fresh } = todayQueue(reviews, currentPack, newLeft, now);
-  const work = due.length + fresh.length;
+  const phase = packPhase(progress);
+  const q = todayQueue(reviews, currentPack, newLeft, now);
+  const newCount = q.fresh.length + q.early.length;
+  const work = q.due.length + newCount;
   const kind = kindStyle[info.track.kind];
   const next = info.next ? packInfo[info.next] : null;
+  const nextProgress = next ? packProgress(next.pack.id, reviews) : null;
+  const early = earlyPack(currentPack, reviews);
   const studiedBefore = Object.keys(history).length > 0;
+  // The cards standing between a wrapping-up pack and done.
+  const toGo = cardsToGo(currentPack, reviews);
+  const backAt = toGo.length ? Math.min(...toGo.map((id) => reviews[id].dueAt)) : 0;
+  // "Learn 5 more today": only once today's goal is used up, and only if there's something left to learn.
+  const more = newLeft === 0 ? todayQueue(reviews, currentPack, BONUS_NEW, now) : null;
+  const moreCount = more ? more.fresh.length + more.early.length : 0;
+  const moreFrom = more && !more.fresh.length && more.earlyPack ? packInfo[more.earlyPack] : null;
+  const seenAny = progress.total - progress.fresh > 0;
 
-  const line = [due.length ? `${due.length} ${due.length === 1 ? 'review' : 'reviews'}` : '', fresh.length ? `${fresh.length} new` : ''].filter(Boolean).join(' + ');
+  const line = [q.due.length ? `${q.due.length} ${q.due.length === 1 ? 'review' : 'reviews'}` : '', newCount ? `${newCount} new` : ''].filter(Boolean).join(' + ');
+  const spill = q.earlyPack ? packInfo[q.earlyPack] : null;
+  const earlyNote = !spill
+    ? ''
+    : q.fresh.length
+      ? `${q.fresh.length} new from this pack, ${q.early.length} from Pack ${spill.number} (started early)`
+      : `New cards from Pack ${spill.number} · ${spill.pack.title}`;
   const heading = work ? (studiedBefore ? 'Welcome back' : 'Ready when you are') : 'Nice work today';
-  const restLine = `Done for today. ${
-    progress.fresh ? `${progress.fresh} new ${progress.fresh === 1 ? 'card waits' : 'cards wait'} for tomorrow` : 'Missed cards come back tomorrow'
-  }${progress.learning ? `, with ${progress.learning} to retry.` : '.'}`;
+  const restLine =
+    phase === 'wrapping' && toGo.length
+      ? `Done for today. ${listTerms(toGo.map((id) => cardsById[id]?.term ?? id))} ${toGo.length === 1 ? 'comes' : 'come'} back ${dayKey(backAt) === dayKey(now + DAY) ? 'tomorrow' : dayKey(backAt) === dayKey(now) ? 'later today' : relativeDue(backAt, now)}. Know ${
+          toGo.length === 1 ? 'it' : 'them'
+        } and Pack ${info.number} is done.`
+      : `Done for today. ${
+          progress.fresh ? `${progress.fresh} new ${progress.fresh === 1 ? 'card waits' : 'cards wait'} for tomorrow` : 'Missed cards come back tomorrow'
+        }${progress.learning ? `, with ${progress.learning} to retry.` : '.'}`;
+  const toKnow = progress.total - progress.known;
+  const nextLine = !next
+    ? `Last pack in ${info.track.title}. Finish it to complete the track.`
+    : nextProgress?.done
+      ? `Next: ${next.pack.title} is already done. Finish this pack to move on.`
+      : `Next: ${next.pack.title}. Opens when ${toKnow} more ${toKnow === 1 ? 'card is' : 'cards are'} known${
+          phase === 'learning' ? `, or starts early once you’ve seen all ${progress.total}` : ''
+        }.`;
+  const phaseLabel = phase === 'done' ? 'Done' : phase === 'wrapping' ? 'Wrapping up' : 'Learning';
 
   const startNext = () => {
     if (!next) return router.push('/library');
     setCurrentPack(next.pack.id);
   };
+  const learnMore = () => {
+    addBonusNew(moreCount);
+    router.push('/session');
+  };
+  const practice = () => router.push({ pathname: '/session', params: { practice: currentPack } });
 
   return (
     <ScrollView style={styles.screen} contentContainerStyle={{ paddingTop: insets.top + 12, paddingBottom: 28, paddingHorizontal: 20 }}>
@@ -91,6 +134,12 @@ export default function Today() {
           <Txt weight="mono" size={12} color={colors.textMuted} numberOfLines={1} style={{ flexShrink: 1 }}>
             UNIT {info.unitNumber} · PACK {info.number} OF {trackPackIds[info.track.id].length}
           </Txt>
+          <View style={{ flex: 1 }} />
+          <View style={[styles.phase, phase === 'wrapping' ? { backgroundColor: colors.orangeDeep } : phase === 'done' ? { backgroundColor: colors.limeDeep } : null]}>
+            <Txt weight="semibold" size={12} color={phase === 'wrapping' ? colors.orangeText : phase === 'done' ? colors.limeSoft : colors.textSoft}>
+              {phaseLabel}
+            </Txt>
+          </View>
         </View>
         <PressScale
           style={styles.packTitleRow}
@@ -110,18 +159,94 @@ export default function Today() {
           <PackThumbs packId={currentPack} />
         </PressScale>
         <PackBar packId={currentPack} reviews={reviews} />
-        <PackLegend packId={currentPack} reviews={reviews} />
+        {phase === 'wrapping' && toGo.length > 0 ? (
+          <View style={{ gap: 8 }}>
+            <Txt size={14} color={colors.textSoft} style={{ lineHeight: 20 }}>
+              <Txt weight="semibold" size={14}>
+                {toGo.length} {toGo.length === 1 ? 'card' : 'cards'} to go.
+              </Txt>{' '}
+              Know {toGo.length === 1 ? 'it' : 'them'} once and the pack is done.
+            </Txt>
+            <View style={styles.chips}>
+              {toGo.slice(0, 6).map((id) => (
+                <PressScale
+                  key={id}
+                  style={styles.toGoChip}
+                  scaleTo={0.96}
+                  onPress={() => router.push({ pathname: '/card/[id]', params: { id } })}
+                  accessibilityRole="link"
+                >
+                  <Txt weight="medium" size={13} color={colors.orangeText}>
+                    {cardsById[id]?.term ?? id}
+                  </Txt>
+                </PressScale>
+              ))}
+              {toGo.length > 6 && (
+                <Txt size={13} color={colors.textMuted} style={{ alignSelf: 'center' }}>
+                  +{toGo.length - 6} more
+                </Txt>
+              )}
+            </View>
+          </View>
+        ) : (
+          <PackLegend packId={currentPack} reviews={reviews} />
+        )}
+
+        {phase !== 'done' &&
+          (early && next && nextProgress ? (
+            <PressScale
+              style={styles.earlyCard}
+              scaleTo={0.99}
+              onPress={() => router.push({ pathname: '/pack/[id]', params: { id: next.pack.id } })}
+              accessibilityRole="link"
+              accessibilityLabel={`Next, pack ${next.number}, ${next.pack.title}. Started early, ${nextProgress.total - nextProgress.fresh} of ${nextProgress.total} seen.`}
+            >
+              <View style={styles.sessionRow}>
+                <Txt weight="mono" size={11} color={colors.limeSoft} style={{ letterSpacing: 0.6, flexShrink: 1 }} numberOfLines={1}>
+                  NEXT · PACK {next.number} · STARTED EARLY
+                </Txt>
+                <Txt weight="mono" size={11} color={colors.textMuted}>
+                  {nextProgress.total - nextProgress.fresh}/{nextProgress.total} seen
+                </Txt>
+              </View>
+              <Txt weight="semibold" size={16}>
+                {next.pack.title}
+              </Txt>
+              {nextProgress.started && <PackBar packId={next.pack.id} reviews={reviews} height={6} />}
+              <Txt size={13} color={colors.textMuted} style={{ lineHeight: 18 }}>
+                {work > 0 && q.early.length
+                  ? `You’ve seen every card in Pack ${info.number}, so today’s new cards come from here.`
+                  : nextProgress.fresh
+                    ? `${nextProgress.fresh} new ${nextProgress.fresh === 1 ? 'card' : 'cards'} left here. More tomorrow.`
+                    : 'Every card here seen too.'}
+              </Txt>
+            </PressScale>
+          ) : (
+            <View style={styles.nextHint}>
+              <Icon name={next ? 'lock' : 'flag'} size={14} color={colors.textMuted} />
+              <Txt size={13.5} color={colors.textSoft} style={{ flex: 1, lineHeight: 19 }}>
+                {nextLine}
+              </Txt>
+            </View>
+          ))}
 
         <View style={styles.divider} />
         {work > 0 ? (
           <>
-            <View style={styles.sessionRow}>
-              <Txt weight="medium" size={15}>
-                Today’s session
-              </Txt>
-              <Txt weight="mono" size={13} color={colors.limeSoft}>
-                {line}
-              </Txt>
+            <View style={{ gap: 4 }}>
+              <View style={styles.sessionRow}>
+                <Txt weight="medium" size={15}>
+                  Today’s session
+                </Txt>
+                <Txt weight="mono" size={13} color={colors.limeSoft}>
+                  {line}
+                </Txt>
+              </View>
+              {!!earlyNote && (
+                <Txt size={12.5} color={colors.textMuted}>
+                  {earlyNote}
+                </Txt>
+              )}
             </View>
             <PressScale style={styles.primaryBtn} onPress={() => router.push('/session')} accessibilityRole="button">
               <Txt weight="semibold" size={16} color={colors.ink}>
@@ -140,16 +265,27 @@ export default function Today() {
                 {restLine}
               </Txt>
             </View>
-            <PressScale
-              style={styles.secondaryBtn}
-              onPress={() => router.push({ pathname: '/session', params: { practice: currentPack } })}
-              accessibilityRole="button"
-            >
-              <Icon name="shuffle" size={16} color={colors.text} />
-              <Txt weight="semibold" size={15}>
-                Practice this pack
-              </Txt>
-            </PressScale>
+            {moreCount > 0 && (
+              <View style={{ gap: 6 }}>
+                <PressScale style={styles.secondaryBtn} onPress={learnMore} accessibilityRole="button">
+                  <Icon name="plus" size={16} color={colors.text} />
+                  <Txt weight="semibold" size={15}>
+                    Learn {moreCount} more today
+                  </Txt>
+                </PressScale>
+                <Txt size={12} color={colors.textFaint} style={{ textAlign: 'center' }}>
+                  {moreFrom ? `From Pack ${moreFrom.number}. ` : ''}Just for today; your goal stays {dailyNew} a day.
+                </Txt>
+              </View>
+            )}
+            {seenAny && (
+              <PressScale style={moreCount ? styles.textBtn : styles.secondaryBtn} onPress={practice} accessibilityRole="button">
+                {!moreCount && <Icon name="shuffle" size={16} color={colors.text} />}
+                <Txt weight={moreCount ? 'medium' : 'semibold'} size={moreCount ? 14 : 15} color={moreCount ? colors.textMuted : colors.text}>
+                  {moreCount ? 'Practice cards you’ve seen' : 'Practice this pack'}
+                </Txt>
+              </PressScale>
+            )}
           </>
         ) : null}
 
@@ -197,7 +333,18 @@ export default function Today() {
         {info.unit.packs.map((p) => {
           const state = packState(p.id, reviews, currentPack);
           const pr = packProgress(p.id, reviews);
-          const status = state === 'done' ? 'Done' : state === 'current' ? `${pr.known}/${pr.total} known` : state === 'open' ? 'Open' : 'Locked';
+          const status =
+            state === 'done'
+              ? 'Done'
+              : state === 'current'
+                ? pr.started && pr.fresh === 0
+                  ? `${cardsToGo(p.id, reviews).length} to go`
+                  : `${pr.known}/${pr.total} known`
+                : state === 'early'
+                  ? `Started early · ${pr.total - pr.fresh}/${pr.total}`
+                  : state === 'open'
+                    ? 'Open'
+                    : 'Locked';
           return (
             <PressScale
               key={p.id}
@@ -253,6 +400,12 @@ const styles = StyleSheet.create({
   restRow: { flexDirection: 'row', alignItems: 'center', gap: 12 },
   restIcon: { width: 36, height: 36, borderRadius: 12, backgroundColor: colors.limeDeep, alignItems: 'center', justifyContent: 'center' },
   nextRow: { gap: 12 },
+  phase: { paddingHorizontal: 10, paddingVertical: 3, borderRadius: radius.pill, backgroundColor: colors.chip },
+  chips: { flexDirection: 'row', flexWrap: 'wrap', gap: 8 },
+  toGoChip: { minHeight: 34, justifyContent: 'center', paddingHorizontal: 12, borderRadius: radius.pill, backgroundColor: colors.orangeDeep },
+  earlyCard: { gap: 8, padding: 14, borderRadius: radius.lg, backgroundColor: colors.card, borderWidth: 1, borderStyle: 'dashed', borderColor: colors.borderStrong },
+  nextHint: { flexDirection: 'row', alignItems: 'flex-start', gap: 10, padding: 12, paddingHorizontal: 14, borderRadius: radius.md, backgroundColor: colors.card },
+  textBtn: { minHeight: 44, alignItems: 'center', justifyContent: 'center' },
   primaryBtn: { height: 54, borderRadius: radius.pill, backgroundColor: colors.lime, flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: 8 },
   secondaryBtn: {
     height: 48,
