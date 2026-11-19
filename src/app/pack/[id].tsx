@@ -15,7 +15,7 @@ import { relativeDue } from '../../lib/srs';
 import { useStore } from '../../lib/store';
 import { colors, kindStyle, PAPER, radius } from '../../theme';
 
-const STATE_LABEL = { done: 'Done', current: 'In progress', open: 'Open', locked: 'Locked' } as const;
+const STATE_LABEL = { done: 'Done', current: 'In progress', early: 'Started early', open: 'Open', locked: 'Locked' } as const;
 
 /** One pack: how far each card has got, and what you can do with the pack right now. */
 export default function PackPage() {
@@ -52,7 +52,7 @@ export default function PackPage() {
   const action =
     state === 'done'
       ? { label: 'Practice this pack', icon: 'shuffle' as const, go: () => router.push({ pathname: '/session', params: { practice: p.id } }) }
-      : state === 'current'
+      : state === 'current' || state === 'early'
         ? { label: 'Continue on Today', icon: 'arrow-right' as const, go: () => router.navigate('/') }
         : state === 'open'
           ? {
@@ -83,9 +83,9 @@ export default function PackPage() {
             <Txt weight="mono" size={12} color={colors.textMuted} style={{ flex: 1 }} numberOfLines={1}>
               {info.unit.title.toUpperCase()} · PACK {info.number}
             </Txt>
-            <View style={[styles.state, state === 'done' || state === 'current' ? { backgroundColor: colors.limeDeep } : null]}>
-              <Txt weight="semibold" size={12} color={state === 'done' || state === 'current' ? colors.limeSoft : colors.textMuted}>
-                {STATE_LABEL[state]}
+            <View style={[styles.state, state !== 'open' && state !== 'locked' ? { backgroundColor: colors.limeDeep } : null]}>
+              <Txt weight="semibold" size={12} color={state !== 'open' && state !== 'locked' ? colors.limeSoft : colors.textMuted}>
+                {state === 'current' && progress.started && progress.fresh === 0 ? 'Wrapping up' : STATE_LABEL[state]}
               </Txt>
             </View>
           </View>
@@ -131,7 +131,7 @@ export default function PackPage() {
           <View style={styles.lockedBtn}>
             <Icon name="lock" size={14} color={colors.textMuted} />
             <Txt size={14} color={colors.textMuted} numberOfLines={2} style={{ flexShrink: 1, textAlign: 'center' }}>
-              {prev ? `Finish ${prev.pack.title} to unlock` : 'Locked'}
+              {prev ? `Opens when Pack ${prev.number} · ${prev.pack.title} is done` : 'Locked'}
             </Txt>
           </View>
         )}

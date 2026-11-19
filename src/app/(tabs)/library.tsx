@@ -10,7 +10,7 @@ import { Icon, PressScale, Txt } from '../../components/ui';
 import { cardsById } from '../../data';
 import { illustrations } from '../../data/illustrations';
 import { playClip, useIsPlaying } from '../../lib/audio';
-import { packInfo, packProgress, packState, tracks, type PackState } from '../../lib/packs';
+import { cardsToGo, packInfo, packProgress, packState, tracks, type PackState } from '../../lib/packs';
 import { useStore } from '../../lib/store';
 import type { Pack, TrackId } from '../../lib/types';
 import { VOICES, type VoiceId } from '../../lib/voices';
@@ -52,7 +52,7 @@ function VoiceOption({ id, name, blurb }: { id: VoiceId; name: string; blurb: st
   );
 }
 
-const STATUS_TEXT: Record<PackState, string> = { done: 'Done', current: '', open: 'Open', locked: '' };
+const STATUS_TEXT: Record<PackState, string> = { done: 'Done', current: '', early: '', open: 'Open', locked: '' };
 
 function PackRow({ pack, state }: { pack: Pack; state: PackState }) {
   const router = useRouter();
@@ -60,14 +60,35 @@ function PackRow({ pack, state }: { pack: Pack; state: PackState }) {
   const info = packInfo[pack.id];
   const p = packProgress(pack.id, reviews);
   const art = pack.cardIds.map((id) => illustrations[id]).find(Boolean);
-  const status = state === 'current' ? `${p.known}/${p.total}` : state === 'open' && info.number === 1 && !p.started ? 'Start here' : STATUS_TEXT[state];
+  const wrapping = state === 'current' && p.started && p.fresh === 0;
+  const status =
+    state === 'current'
+      ? wrapping
+        ? `${cardsToGo(pack.id, reviews).length} to go`
+        : `${p.known}/${p.total}`
+      : state === 'early'
+        ? `${p.total - p.fresh}/${p.total} seen`
+        : state === 'open' && info.number === 1 && !p.started
+          ? 'Start here'
+          : STATUS_TEXT[state];
+  const prev = info.prev ? packInfo[info.prev] : null;
+  const sub =
+    state === 'current'
+      ? wrapping
+        ? 'You are here · wrapping up'
+        : 'You are here'
+      : state === 'early'
+        ? 'Started early · new cards come from here'
+        : state === 'locked' && prev
+          ? `Opens when Pack ${prev.number} is done`
+          : pack.blurb;
   return (
     <PressScale
-      style={[styles.row, state === 'current' && styles.rowCurrent]}
+      style={[styles.row, state === 'current' && styles.rowCurrent, state === 'early' && styles.rowEarly]}
       scaleTo={0.98}
       onPress={() => router.push({ pathname: '/pack/[id]', params: { id: pack.id } })}
       accessibilityRole="link"
-      accessibilityLabel={`Pack ${info.number}, ${pack.title}. ${state === 'current' ? `Current, ${p.known} of ${p.total} known` : state}.`}
+      accessibilityLabel={`Pack ${info.number}, ${pack.title}. ${state === 'current' ? `You are here, ${p.known} of ${p.total} known` : state === 'early' ? 'Started early' : state}. ${sub === pack.blurb ? '' : sub}`}
     >
       <PackNode state={state} />
       <View style={{ flex: 1, gap: 3, minWidth: 0 }}>
@@ -77,14 +98,14 @@ function PackRow({ pack, state }: { pack: Pack; state: PackState }) {
         <Txt weight="semibold" size={16} color={state === 'locked' ? colors.textMuted : colors.text} numberOfLines={1}>
           {pack.title}
         </Txt>
-        <Txt size={12} color={colors.textFaint} numberOfLines={1}>
-          {pack.blurb}
+        <Txt size={12} color={state === 'current' ? (wrapping ? colors.orangeText : colors.limeSoft) : state === 'early' ? colors.limeSoft : colors.textFaint} numberOfLines={1}>
+          {sub}
         </Txt>
       </View>
       <View style={{ alignItems: 'flex-end', gap: 6 }}>
         {art && <Image source={art} resizeMode="cover" style={[styles.rowArt, state === 'locked' && { opacity: 0.45 }]} />}
         {!!status && (
-          <Txt size={12} color={state === 'done' ? colors.lime : state === 'current' ? colors.limeSoft : colors.textMuted}>
+          <Txt size={12} color={state === 'done' ? colors.lime : state === 'current' || state === 'early' ? colors.limeSoft : colors.textMuted}>
             {status}
           </Txt>
         )}
@@ -276,6 +297,7 @@ const styles = StyleSheet.create({
     borderColor: '#222520',
   },
   rowCurrent: { backgroundColor: colors.surface2, borderColor: '#4A5530' },
+  rowEarly: { borderStyle: 'dashed', borderColor: colors.borderStrong },
   rowArt: { width: 44, height: 33, borderRadius: 8, backgroundColor: PAPER },
   lockedUnit: {
     flexDirection: 'row',
